@@ -4,290 +4,363 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu](https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu-a-f53c87b2-6d8c-4ccc-b024-691b64725eed#ref=rss)
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking](https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking-a-e5eda95c-06f4-40f1-819b-6e9d08e087bd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge](https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge-a-58997c87-e455-453a-9edc-ca27d98d689d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz](https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz-a-a9c354bd-180e-43e4-a8fe-28e0af87fdd8#ref=rss)
-* [https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer](https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer-a-d51a6dba-fd4b-4896-83ac-f63885a5b6c1#ref=rss)
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
-### britische
-
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-* [https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe](https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe-a-8fc5d25c-17cc-42c1-aa08-fd90cfd4c35e#ref=rss)
-* [https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer](https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer-a-d51a6dba-fd4b-4896-83ac-f63885a5b6c1#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen](https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen-a-706c5fcd-9407-4691-accb-6c07141a9022#ref=rss)
-* [https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck](https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck-a-a3e210eb-43c8-49ee-bc2f-f4cd96e5a1c3#ref=rss)
-* [https://www.spiegel.de/panorama/jeffrey-epstein-files-so-arbeitet-der-spiegel-mit-den-millionen-dokumenten](https://www.spiegel.de/panorama/jeffrey-epstein-files-so-arbeitet-der-spiegel-mit-den-millionen-dokumenten-a-ffcc557f-e5f2-4457-b1b1-fe753082fa4b#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu](https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu-a-f53c87b2-6d8c-4ccc-b024-691b64725eed#ref=rss)
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-### bestehenden
-
-* [https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen](https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen-a-71264783-77a5-4c71-a618-e03f157e3051#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge](https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge-a-58997c87-e455-453a-9edc-ca27d98d689d#ref=rss)
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis](https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis-a-2f9b31b3-126b-44c2-8b22-d2c9327d03d7#ref=rss)
-### stoff
-
-* [https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge](https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge-a-58997c87-e455-453a-9edc-ca27d98d689d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck](https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck-a-a3e210eb-43c8-49ee-bc2f-f4cd96e5a1c3#ref=rss)
-* [https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff](https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff-a-8caaeedc-b805-46d2-8934-c80d76696b18#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben](https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben-a-533d0d14-6f8a-4273-bc1d-e1857fc2c01b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin](https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin-a-ca7ef890-a3d7-42d6-aecf-97edd3e1d956#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert](https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert-a-e756b174-bc0a-4b10-87ef-a4ebf81c36a5#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking](https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking-a-e5eda95c-06f4-40f1-819b-6e9d08e087bd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-* [https://www.spiegel.de/panorama/jeffrey-epstein-files-so-arbeitet-der-spiegel-mit-den-millionen-dokumenten](https://www.spiegel.de/panorama/jeffrey-epstein-files-so-arbeitet-der-spiegel-mit-den-millionen-dokumenten-a-ffcc557f-e5f2-4457-b1b1-fe753082fa4b#ref=rss)
-### donald
-
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten-a-a0fee17a-cc9a-4e9b-95ee-7d7368f37991#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten-a-a0fee17a-cc9a-4e9b-95ee-7d7368f37991#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
-### timothée
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut](https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut-a-5de964db-f10a-4a63-9d65-4c7f1224312c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen](https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen-a-706c5fcd-9407-4691-accb-6c07141a9022#ref=rss)
-### chalamet
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut](https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut-a-5de964db-f10a-4a63-9d65-4c7f1224312c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen](https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen-a-706c5fcd-9407-4691-accb-6c07141a9022#ref=rss)
-### interstellar
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten-a-40fb0c2c-f399-4454-a536-fc218e60ce3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer](https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer-a-89678cb8-3a6d-4a4f-ba94-0dc472a9039d#ref=rss)
+* [https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden](https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden-a-e23f58f6-189a-40e0-8707-b7875ea34c78#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr](https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr-a-bae1df45-def0-4918-ae1f-80970c8a0a0d#ref=rss)
+### union
 
-* [https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen](https://www.spiegel.de/kultur/timothee-chalamet-lieblingsfilm-interstellar-schon-mehr-als-20-mal-gesehen-a-706c5fcd-9407-4691-accb-6c07141a9022#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu](https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu-a-f53c87b2-6d8c-4ccc-b024-691b64725eed#ref=rss)
-### andere
-
-* [https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu](https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu-a-f53c87b2-6d8c-4ccc-b024-691b64725eed#ref=rss)
-* [https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben](https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben-a-533d0d14-6f8a-4273-bc1d-e1857fc2c01b#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu](https://www.spiegel.de/ausland/ukraine-ursula-von-der-leyen-sagt-90-milliarden-kredit-auf-die-eine-oder-die-andere-weise-zu-a-f53c87b2-6d8c-4ccc-b024-691b64725eed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft-a-db2e27dc-ca1c-4d94-b2a2-08f623752e78#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen](https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen-a-71264783-77a5-4c71-a618-e03f157e3051#ref=rss)
-### aufgrund
-
-* [https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen](https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen-a-71264783-77a5-4c71-a618-e03f157e3051#ref=rss)
-### bedrohungen
-
-* [https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen](https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen-a-71264783-77a5-4c71-a618-e03f157e3051#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen](https://www.spiegel.de/ausland/iran-militaeruebungen-im-sueden-des-landes-aufgrund-der-bestehenden-bedrohungen-a-71264783-77a5-4c71-a618-e03f157e3051#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten-a-a0fee17a-cc9a-4e9b-95ee-7d7368f37991#ref=rss)
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge](https://www.spiegel.de/gesundheit/cychlorphin-das-steckt-hinter-der-neuen-designerdroge-a-58997c87-e455-453a-9edc-ca27d98d689d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
-### laurence
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer](https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer-a-89678cb8-3a6d-4a4f-ba94-0dc472a9039d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr](https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr-a-bae1df45-def0-4918-ae1f-80970c8a0a0d#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck](https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck-a-be4ea90c-bc65-4e05-bfda-47b2b24c1126#ref=rss)
-### cars
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck](https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck-a-be4ea90c-bc65-4e05-bfda-47b2b24c1126#ref=rss)
-### zurück
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser-a-78d1b516-c294-4d8c-97ce-d84eb452f787#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck](https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck-a-be4ea90c-bc65-4e05-bfda-47b2b24c1126#ref=rss)
-* [https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck](https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck-a-a3e210eb-43c8-49ee-bc2f-f4cd96e5a1c3#ref=rss)
-### konsequenzen
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser-a-78d1b516-c294-4d8c-97ce-d84eb452f787#ref=rss)
+### heizungsgesetz
 
-* [https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck](https://www.spiegel.de/ausland/louvre-direktorin-laurence-des-cars-tritt-zurueck-a-be4ea90c-bc65-4e05-bfda-47b2b24c1126#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein](https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein-a-b42864f1-c39c-4570-85b5-24ba2797882b#ref=rss)
-### vorgabe
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz](https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz-a-a9c354bd-180e-43e4-a8fe-28e0af87fdd8#ref=rss)
-### prozent
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr](https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr-a-bae1df45-def0-4918-ae1f-80970c8a0a0d#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz](https://www.spiegel.de/politik/deutschland/union-und-spd-kippen-zentrale-vorgabe-aus-habecks-heizungsgesetz-a-a9c354bd-180e-43e4-a8fe-28e0af87fdd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-und-der-deutsche-mittelstand-nicht-schon-wieder-a-e897de01-5079-4426-aec9-caedbf9dec54#ref=rss)
-### biathlet
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert-a-f8b52f74-cf67-402d-80cb-e49026d7d745#ref=rss)
-### tommaso
+* [https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut](https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut-a-5de964db-f10a-4a63-9d65-4c7f1224312c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte](https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte-a-b519e27f-3f6a-465e-8983-56ca1384fb2f#ref=rss)
+### leipziger
 
-* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert-a-f8b52f74-cf67-402d-80cb-e49026d7d745#ref=rss)
-### giacomel
+* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026-a-8b94463a-9b8e-4203-9c8e-04a0ec82d553#ref=rss)
+### buchmesse
 
-* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-biathlet-tommaso-giacomel-nach-massenstart-abbruch-am-herzen-operiert-a-f8b52f74-cf67-402d-80cb-e49026d7d745#ref=rss)
-### zdfchefredakteurin
+* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026-a-8b94463a-9b8e-4203-9c8e-04a0ec82d553#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein](https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein-a-b42864f1-c39c-4570-85b5-24ba2797882b#ref=rss)
-### bettina
+* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026-a-8b94463a-9b8e-4203-9c8e-04a0ec82d553#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein](https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein-a-b42864f1-c39c-4570-85b5-24ba2797882b#ref=rss)
-### schausten
+* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-das-sind-die-nominierten-2026-a-8b94463a-9b8e-4203-9c8e-04a0ec82d553#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### presserat
 
-* [https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein](https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein-a-b42864f1-c39c-4570-85b5-24ba2797882b#ref=rss)
-### fehler
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein](https://www.spiegel.de/kultur/tv/ki-bilder-zdf-chefredakteurin-bettina-schausten-raeumt-fehler-ein-a-b42864f1-c39c-4570-85b5-24ba2797882b#ref=rss)
-### historikerin
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser-a-78d1b516-c294-4d8c-97ce-d84eb452f787#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-* [https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff](https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff-a-8caaeedc-b805-46d2-8934-c80d76696b18#ref=rss)
-### beatrice
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb](https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb-a-885dfaeb-999f-42f0-945a-e6799169df29#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-### heuser
+* [https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord](https://www.spiegel.de/kultur/presserat-ruegte-2025-erstmals-mehr-als-100-berichte-rekord-a-eb5f330e-ccb2-4fee-9c77-ce1bce98b49a#ref=rss)
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-### ersten
+* [https://www.spiegel.de/wissenschaft/natur/venedig-delfin-mimmo-hat-es-sich-gemuetlich-gemacht](https://www.spiegel.de/wissenschaft/natur/venedig-delfin-mimmo-hat-es-sich-gemuetlich-gemacht-a-55e0a760-ee9a-487d-8276-36c29bfac111#ref=rss)
+### kate
 
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-### weltkrieg
+* [https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg](https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg-a-40d063b1-589b-4eb7-9389-efcabc25a58b#ref=rss)
+### hudson
 
-* [https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg](https://www.spiegel.de/geschichte/ukraine-historikerin-beatrice-heuser-ueber-die-parallelen-zum-ersten-weltkrieg-a-d6d19c4c-2678-42ea-a511-0a593daa2fd2#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg](https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg-a-40d063b1-589b-4eb7-9389-efcabc25a58b#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/auto/baden-wuerttemberg-unterzuckert-am-steuer-das-sind-die-warnzeichen](https://www.spiegel.de/auto/baden-wuerttemberg-unterzuckert-am-steuer-das-sind-die-warnzeichen-a-c32d2989-aebb-4bde-9ea7-44682a913135#ref=rss)
-### neukölln
+* [https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg](https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg-a-40d063b1-589b-4eb7-9389-efcabc25a58b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen](https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss)
+### interesse
 
-* [https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin](https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin-a-564c4a43-859f-423b-ad4e-638d70a43cf8#ref=rss)
-### stellt
+* [https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg](https://www.spiegel.de/panorama/leute/kate-hudson-wenn-ein-mann-sagt-dass-er-kein-interesse-hat-dann-bin-ich-weg-a-40d063b1-589b-4eb7-9389-efcabc25a58b#ref=rss)
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### anthropic
 
-* [https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin](https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin-a-564c4a43-859f-423b-ad4e-638d70a43cf8#ref=rss)
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-### jahre
+* [https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot](https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot-a-5ed1b345-99cd-4dd8-87a5-9af35727eda0#ref=rss)
+### frist
 
-* [https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin](https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin-a-564c4a43-859f-423b-ad4e-638d70a43cf8#ref=rss)
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-### alt
+* [https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot](https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot-a-5ed1b345-99cd-4dd8-87a5-9af35727eda0#ref=rss)
+### militärische
 
-* [https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin](https://www.spiegel.de/panorama/neukoelln-12-jaehriger-stellt-sich-nach-angriff-auf-mann-in-berlin-a-564c4a43-859f-423b-ad4e-638d70a43cf8#ref=rss)
-* [https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe](https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe-a-8fc5d25c-17cc-42c1-aa08-fd90cfd4c35e#ref=rss)
-### revision
+* [https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot](https://www.spiegel.de/netzwelt/anthropic-pentagon-setzt-frist-fuer-militaerische-nutzung-von-ki-chatbot-a-5ed1b345-99cd-4dd8-87a5-9af35727eda0#ref=rss)
+### hochschulreife
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller](https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller-a-89c38689-50b6-4aed-9deb-6ad80e9e4816#ref=rss)
-### missbrauchsfall
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller](https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller-a-89c38689-50b6-4aed-9deb-6ad80e9e4816#ref=rss)
-### erfurt
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer](https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer-a-89678cb8-3a6d-4a4f-ba94-0dc472a9039d#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller](https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller-a-89c38689-50b6-4aed-9deb-6ad80e9e4816#ref=rss)
-### müller
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+### allem
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller](https://www.spiegel.de/politik/deutschland/news-des-tages-revision-im-missbrauchsfall-von-erfurt-gebaeudemodernisierungsgesetz-gmg-theo-mueller-a-89c38689-50b6-4aed-9deb-6ad80e9e4816#ref=rss)
-### zendaya
+* [https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent](https://www.spiegel.de/start/hochschulreife-zahl-der-studienberechtigten-in-deutschland-sinkt-um-acht-prozent-a-7876481b-0c7a-4a86-bd9a-8734d0c125d5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben](https://www.spiegel.de/kultur/zendaya-ermoeglicht-ihrem-hund-ein-luxusleben-a-533d0d14-6f8a-4273-bc1d-e1857fc2c01b#ref=rss)
-### exprinz
+* [https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet](https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet-a-6f194070-1d00-47aa-aa08-7951d8b8652a#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet](https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet-a-6f194070-1d00-47aa-aa08-7951d8b8652a#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-* [https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer](https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer-a-d51a6dba-fd4b-4896-83ac-f63885a5b6c1#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet](https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet-a-6f194070-1d00-47aa-aa08-7951d8b8652a#ref=rss)
+### eugebiet
 
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-* [https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe](https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe-a-8fc5d25c-17cc-42c1-aa08-fd90cfd4c35e#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet](https://www.spiegel.de/ausland/annalena-baerbock-bei-maischberger-ist-groenland-eu-gebiet-a-6f194070-1d00-47aa-aa08-7951d8b8652a#ref=rss)
+### marty
 
-* [https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen](https://www.spiegel.de/ausland/ex-prinz-andrew-britische-regierung-will-dokumente-zu-andrew-mountbatten-windsor-veroeffentlichen-a-47a380e2-bc65-4d0e-803f-52ebd5b38110#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert](https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert-a-e756b174-bc0a-4b10-87ef-a4ebf81c36a5#ref=rss)
-### datenschützer
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### supreme
 
-* [https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe](https://www.spiegel.de/netzwelt/reddit-britische-datenschuetzer-verhaengen-millionenstrafe-a-8fc5d25c-17cc-42c1-aa08-fd90cfd4c35e#ref=rss)
-### guthrie
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### timo
 
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-### savannah
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### boll
 
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-### hinweise
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### timothée
 
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-### mutter
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### chalamet
 
-* [https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter](https://www.spiegel.de/panorama/savannah-guthrie-us-moderatorin-verspricht-eine-million-dollar-fuer-hinweise-auf-mutmasslich-entfuehrte-mutter-a-535db3fc-23f2-45f8-af26-9325d3370b71#ref=rss)
-### russlands
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+### seines
 
-* [https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking](https://www.spiegel.de/politik/deutschland/china-reise-von-friedrich-merz-gruene-fordern-klartext-in-peking-a-e5eda95c-06f4-40f1-819b-6e9d08e087bd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-### asbest
+* [https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen](https://www.spiegel.de/sport/marty-supreme-timo-boll-wie-gut-kann-timothee-chalamet-tischtennis-spielen-a-9cc8da56-e269-4c56-bed7-354f1844d046#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial](https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial-a-854907fb-086e-406f-b1fd-f917ee77f289#ref=rss)
+### grünenchef
 
-* [https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck](https://www.spiegel.de/wirtschaft/asbestgefahr-woolworth-ruft-spielzeuge-zurueck-a-a3e210eb-43c8-49ee-bc2f-f4cd96e5a1c3#ref=rss)
-### peter
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+### banaszak
 
-* [https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer](https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer-a-d51a6dba-fd4b-4896-83ac-f63885a5b6c1#ref=rss)
-### mandelson
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+### robert
 
-* [https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer](https://www.spiegel.de/ausland/peter-mandelson-frueher-nur-peter-heute-das-groesstes-politische-risiko-von-keir-starmer-a-d51a6dba-fd4b-4896-83ac-f63885a5b6c1#ref=rss)
-### 30
+* [https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck](https://www.spiegel.de/politik/heizungsgesetz-gruenen-chef-felix-banaszak-unterstellt-union-obsessives-verhaeltnis-zu-robert-habeck-a-b0f9a02b-650b-4dcb-a43a-60d9a9a80843#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-### unabhängigkeitserklärung
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten-a-40fb0c2c-f399-4454-a536-fc218e60ce3c#ref=rss)
+### anstieg
 
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-### cyberspace
-
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren](https://www.spiegel.de/kultur/30-jahre-unabhaengigkeitserklaerung-des-cyberspace-als-computer-das-neue-lsd-waren-a-97522b0d-c0f3-401b-a89f-077a8b7c330b#ref=rss)
-* [https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff](https://www.spiegel.de/geschichte/serie-a-thousand-blows-bei-disney-sarah-elizabeth-cox-sucht-faustkaempfer-und-findet-genialen-serienstoff-a-8caaeedc-b805-46d2-8934-c80d76696b18#ref=rss)
-### verursacht
-
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-### angehörigen
-
-* [https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden](https://www.spiegel.de/wissenschaft/ukraine-krieg-verursacht-immense-klimaschaeden-a-b9d1be7a-9940-4596-94b8-573d69f9ae2c#ref=rss)
-* [https://www.spiegel.de/panorama/indien-sieben-tote-bei-absturz-eines-krankenflugzeugs](https://www.spiegel.de/panorama/indien-sieben-tote-bei-absturz-eines-krankenflugzeugs-a-d1760484-7507-4059-9577-15da17bdf526#ref=rss)
-### kash
-
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten-a-a0fee17a-cc9a-4e9b-95ee-7d7368f37991#ref=rss)
-### patel
-
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-wie-donald-trump-und-kash-patel-den-sieg-der-usa-gegen-kanada-entwerten-a-a0fee17a-cc9a-4e9b-95ee-7d7368f37991#ref=rss)
-### martha
-
-* [https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin](https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin-a-ca7ef890-a3d7-42d6-aecf-97edd3e1d956#ref=rss)
-### wüthrich
-
-* [https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin](https://www.spiegel.de/politik/deutschland/martha-wuethrich-linke-suspendiert-mitgliedschaft-von-jugendsprecherin-a-ca7ef890-a3d7-42d6-aecf-97edd3e1d956#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis](https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis-a-2f9b31b3-126b-44c2-8b22-d2c9327d03d7#ref=rss)
-### hagel
-
-* [https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis](https://www.spiegel.de/politik/deutschland/manuel-hagel-sexistischer-spruch-ueber-schuelerinnen-bringt-cdu-spitzenkandidat-in-bedraengnis-a-2f9b31b3-126b-44c2-8b22-d2c9327d03d7#ref=rss)
-### strausberg
-
-* [https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert](https://www.spiegel.de/politik/deutschland/strausberg-in-brandenburg-buergermeisterkandidat-hatte-zugriff-auf-wahlpostfach-abstimmung-annulliert-a-e756b174-bc0a-4b10-87ef-a4ebf81c36a5#ref=rss)
-### osteuropa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft-a-db2e27dc-ca1c-4d94-b2a2-08f623752e78#ref=rss)
-### exportwirtschaft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/aussenhandel-osteuropa-rettet-die-deutsche-exportwirtschaft-a-db2e27dc-ca1c-4d94-b2a2-08f623752e78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-starker-anstieg-linksextremer-straftaten-a-40fb0c2c-f399-4454-a536-fc218e60ce3c#ref=rss)
 ### absturz
 
-* [https://www.spiegel.de/panorama/indien-sieben-tote-bei-absturz-eines-krankenflugzeugs](https://www.spiegel.de/panorama/indien-sieben-tote-bei-absturz-eines-krankenflugzeugs-a-d1760484-7507-4059-9577-15da17bdf526#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-pilot-stirbt-bei-absturz-von-f-16-kampfjet](https://www.spiegel.de/ausland/tuerkei-pilot-stirbt-bei-absturz-von-f-16-kampfjet-a-6e030c59-d73f-4d33-bc58-bb81550c0143#ref=rss)
+### habecks
+
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-deutschland-beerdigt-klimaziele-und-treibt-verbraucher-in-falle-a-7c2ac9e0-9621-4932-b2b6-69fb5282d571#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer](https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer-a-89678cb8-3a6d-4a4f-ba94-0dc472a9039d#ref=rss)
+### state
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### of
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### the
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+### versprechen
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+### halten
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht](https://www.spiegel.de/wirtschaft/donald-trump-und-die-state-of-the-union-der-us-praesident-haelt-seine-versprechen-nicht-a-7bd67cb9-3748-46f0-b01f-a0a3d9bac95c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+### kopfnoten
+
+* [https://www.spiegel.de/panorama/bildung/wissenschaftszentrum-berlin-warum-jonas-radl-ueber-die-renaissance-von-kopfnoten-nachdenkt](https://www.spiegel.de/panorama/bildung/wissenschaftszentrum-berlin-warum-jonas-radl-ueber-die-renaissance-von-kopfnoten-nachdenkt-a-f7b7c9f6-f9d9-46a3-aa47-fedda9415f08#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/bildung/wissenschaftszentrum-berlin-warum-jonas-radl-ueber-die-renaissance-von-kopfnoten-nachdenkt](https://www.spiegel.de/panorama/bildung/wissenschaftszentrum-berlin-warum-jonas-radl-ueber-die-renaissance-von-kopfnoten-nachdenkt-a-f7b7c9f6-f9d9-46a3-aa47-fedda9415f08#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### ansprache
+
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### nation
+
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### lang
+
+* [https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation](https://www.spiegel.de/ausland/donald-trump-das-sind-die-gaeste-bei-der-ansprache-zur-lage-der-nation-a-8a1ac166-84a9-42aa-90d2-a681563f1eca#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen](https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss)
+### wärmepumpen
+
+* [https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer](https://www.spiegel.de/wirtschaft/service/waermepumpen-darum-sind-sie-in-deutschland-so-teuer-a-89678cb8-3a6d-4a4f-ba94-0dc472a9039d#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser-a-78d1b516-c294-4d8c-97ce-d84eb452f787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr](https://www.spiegel.de/wirtschaft/konsumklima-deutsche-verbraucher-sparen-wie-seit-2008-nicht-mehr-a-bae1df45-def0-4918-ae1f-80970c8a0a0d#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-waechst-2025-aber-die-haushaltsloecher-werden-groesser-a-78d1b516-c294-4d8c-97ce-d84eb452f787#ref=rss)
+### hochschule
+
+* [https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut](https://www.spiegel.de/wissenschaft/usa-trump-verklagt-hochschule-ucla-erneut-a-5de964db-f10a-4a63-9d65-4c7f1224312c#ref=rss)
+### flims
+
+* [https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden](https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden-a-e23f58f6-189a-40e0-8707-b7875ea34c78#ref=rss)
+### laax
+
+* [https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden](https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden-a-e23f58f6-189a-40e0-8707-b7875ea34c78#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden](https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden-a-e23f58f6-189a-40e0-8707-b7875ea34c78#ref=rss)
+### skigebiet
+
+* [https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden](https://www.spiegel.de/reise/europa/flims-laax-valera-in-der-schweiz-ein-skigebiet-will-gruener-werden-a-e23f58f6-189a-40e0-8707-b7875ea34c78#ref=rss)
+### spd
+
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### kitasterben
+
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### ostdeutschland
+
+* [https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland](https://www.spiegel.de/panorama/bildung/kita-krise-spd-warnt-vor-kita-sterben-in-ostdeutschland-a-99bcdce2-2f06-44c9-b103-d373be7c1f6f#ref=rss)
+### republikaner
+
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### protestieren
+
+* [https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren](https://www.spiegel.de/ausland/state-of-the-union-von-donald-trump-republikaner-feiern-demokraten-protestieren-a-5ac6f7c1-8dd4-47fb-9028-f1446a9fff00#ref=rss)
+### indiens
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### narendra
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### modi
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### gemeinsame
+
+* [https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde](https://www.spiegel.de/ausland/indiens-premier-narendra-modi-besucht-israel-gemeinsame-interesse-gemeinsame-feinde-a-9fb64c48-1ec7-4b12-aa44-aeb4daa396a6#ref=rss)
+### merz
+
+* [https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial](https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial-a-854907fb-086e-406f-b1fd-f917ee77f289#ref=rss)
+### betont
+
+* [https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial](https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial-a-854907fb-086e-406f-b1fd-f917ee77f289#ref=rss)
+### potenzial
+
+* [https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial](https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial-a-854907fb-086e-406f-b1fd-f917ee77f289#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial](https://www.spiegel.de/wirtschaft/china-reise-von-friedrich-merz-kanzler-betont-wirtschaftliches-potenzial-a-854907fb-086e-406f-b1fd-f917ee77f289#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen](https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss)
+### alex
+
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### padilla
+
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### senator
+
+* [https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator](https://www.spiegel.de/ausland/alex-padilla-demokratischer-senator-vergleicht-donald-trump-mit-diktator-a-08d49c4e-8c33-4dc6-9717-d7349e207874#ref=rss)
+### schneesturm
+
+* [https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte](https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte-a-b519e27f-3f6a-465e-8983-56ca1384fb2f#ref=rss)
+### new
+
+* [https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte](https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte-a-b519e27f-3f6a-465e-8983-56ca1384fb2f#ref=rss)
+### york
+
+* [https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte](https://www.spiegel.de/wissenschaft/winterwetter-in-den-usa-wie-ein-schneesturm-new-york-city-lahmlegte-a-b519e27f-3f6a-465e-8983-56ca1384fb2f#ref=rss)
+### sg
+
+* [https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb](https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb-a-885dfaeb-999f-42f0-945a-e6799169df29#ref=rss)
+### flensburghandewitt
+
+* [https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb](https://www.spiegel.de/sport/handball/handball-todesfall-ueberschattet-sieg-der-sg-flensburg-handewitt-gegen-club-montpellier-hb-a-885dfaeb-999f-42f0-945a-e6799169df29#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen](https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen](https://www.spiegel.de/panorama/leute/olaf-scholz-plant-offenbar-autobiografie-habe-schon-angefangen-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss)
+### ulrike
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
+### malmendier
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
+### blockiert
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
+### vertragsverlängerung
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
+### wirtschaftsweisen
+
+* [https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen](https://www.spiegel.de/wirtschaft/soziales/ulrike-malmendier-union-blockiert-wohl-vertragsverlaengerung-der-wirtschaftsweisen-a-1ad5af8a-3124-4976-8a75-1bb4ce4c3e6b#ref=rss)
 
