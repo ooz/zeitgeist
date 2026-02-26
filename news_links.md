@@ -4,293 +4,435 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### trump
 
-* [https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen](https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen-a-88e4cf13-b731-4ac4-8707-a7daa6ffa0f1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke](https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke-a-f02440a0-7aa5-4fc5-9bf4-dfa2b026565c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien-a-9eeb976a-17c0-43bb-a180-b6ec48df5349#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+* [https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich](https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich-a-b9e465c0-5aee-438e-8e3e-bd09a419e928#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten](https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten-a-8c35e282-874d-41c1-97bd-4e0161aaf651#ref=rss)
+### epstein
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-macht-mehr-als-640-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/unternehmen/puma-macht-mehr-als-640-millionen-euro-verlust-a-5f246462-8c5f-485f-be62-d4b1f32a318e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen](https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen-a-147b0495-4066-49ee-af7d-69a73a0c100f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh-a-63c2f3ef-56a2-4e76-a162-3afe361bdfb6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen](https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen-a-471f6e06-8f5a-4b0b-8523-2e44d6542fd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bauern-ernten-so-viel-gemuese-wie-noch-nie](https://www.spiegel.de/wirtschaft/deutsche-bauern-ernten-so-viel-gemuese-wie-noch-nie-a-bf2c83b1-50f4-4bc1-9266-895d53e32211#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-in-italien-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/paralympics-2026-in-italien-zeitplan-sportarten-medaillenspiegel-a-98974d05-a94c-40b5-9791-39856a8975d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf](https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf-a-0c1fb462-a42d-4cdc-ba55-50840a7b81a3#ref=rss)
-### amt
-
-* [https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen](https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen-a-da46b438-9745-4d68-bd72-473d27fd7356#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst](https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst-a-db028783-a87c-4236-822f-a371c10ae2a6#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm](https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm-a-f09132c5-454d-4213-b535-42329a9589f3#ref=rss)
+* [https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten](https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten-a-847cf462-1535-42a0-bc2a-a82e9f3559c8#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen](https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen-a-da46b438-9745-4d68-bd72-473d27fd7356#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien-a-9eeb976a-17c0-43bb-a180-b6ec48df5349#ref=rss)
-* [https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf](https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf-a-0c1fb462-a42d-4cdc-ba55-50840a7b81a3#ref=rss)
-### china
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich](https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich-a-48d1e553-2ebe-4e44-a26c-7f0212f6abc6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten](https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten-a-8c35e282-874d-41c1-97bd-4e0161aaf651#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+* [https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich](https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich-a-b9e465c0-5aee-438e-8e3e-bd09a419e928#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten](https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten-a-8c35e282-874d-41c1-97bd-4e0161aaf651#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hamburg-razzia-gegen-mutmasslichen-russland-embargobrecher](https://www.spiegel.de/wirtschaft/hamburg-razzia-gegen-mutmasslichen-russland-embargobrecher-a-8b516e42-78e7-4f25-bc9d-06c63280763a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### alexander
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf](https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf-a-0c1fb462-a42d-4cdc-ba55-50840a7b81a3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh-a-63c2f3ef-56a2-4e76-a162-3afe361bdfb6#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### jeffrey
 
-* [https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio](https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio-a-c703b2de-4be0-4046-b7e8-0a89c33181a0#ref=rss)
-* [https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong](https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong-a-82f1fd3d-2d98-45f9-abfb-0fb9b9a43cb2#ref=rss)
-### ungarn
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm](https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm-a-f09132c5-454d-4213-b535-42329a9589f3#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio](https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio-a-c703b2de-4be0-4046-b7e8-0a89c33181a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-### regierung
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich](https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich-a-48d1e553-2ebe-4e44-a26c-7f0212f6abc6#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio](https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio-a-c703b2de-4be0-4046-b7e8-0a89c33181a0#ref=rss)
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-### kritische
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen-a-23eed395-28ff-4759-9202-c3217df41d7d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio](https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio-a-c703b2de-4be0-4046-b7e8-0a89c33181a0#ref=rss)
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-### entscheidung
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen](https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen-a-c2ecdd35-3496-44fa-9e1e-e55bb1de74b5#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-in-brasilien-wetterextreme-als-neue-realitaet-im-alltag](https://www.spiegel.de/ausland/klimawandel-in-brasilien-wetterextreme-als-neue-realitaet-im-alltag-a-94e77575-b8c2-486a-9eb7-675afdf96271#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio](https://www.spiegel.de/ausland/eugh-verurteilt-ungarn-wegen-lizenzentzug-fuer-sender-klubradio-a-c703b2de-4be0-4046-b7e8-0a89c33181a0#ref=rss)
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-### puma
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-macht-mehr-als-640-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/unternehmen/puma-macht-mehr-als-640-millionen-euro-verlust-a-5f246462-8c5f-485f-be62-d4b1f32a318e#ref=rss)
-### proxima
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich](https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich-a-48d1e553-2ebe-4e44-a26c-7f0212f6abc6#ref=rss)
+### berlinalechefin
 
-* [https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen](https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen-a-471f6e06-8f5a-4b0b-8523-2e44d6542fd7#ref=rss)
-### fusion
-
-* [https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen](https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen-a-471f6e06-8f5a-4b0b-8523-2e44d6542fd7#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen](https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen-a-471f6e06-8f5a-4b0b-8523-2e44d6542fd7#ref=rss)
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen](https://www.spiegel.de/wirtschaft/energieversorgung-proxima-fusion-muenchner-start-up-plant-fusionskraftwerk-in-grundremmingen-a-471f6e06-8f5a-4b0b-8523-2e44d6542fd7#ref=rss)
-* [https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke](https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke-a-f02440a0-7aa5-4fc5-9bf4-dfa2b026565c#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen](https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen-a-88e4cf13-b731-4ac4-8707-a7daa6ffa0f1#ref=rss)
-### investoren
-
-* [https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen](https://www.spiegel.de/wirtschaft/groenland-will-aus-misstrauen-vor-usa-regeln-fuer-investoren-verschaerfen-a-88e4cf13-b731-4ac4-8707-a7daa6ffa0f1#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke](https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke-a-f02440a0-7aa5-4fc5-9bf4-dfa2b026565c#ref=rss)
-### allem
-
-* [https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke](https://www.spiegel.de/ausland/usa-versus-iran-mangel-an-raketenabwehr-amerikas-offene-flanke-a-f02440a0-7aa5-4fc5-9bf4-dfa2b026565c#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh-a-63c2f3ef-56a2-4e76-a162-3afe361bdfb6#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-in-italien-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/paralympics-2026-in-italien-zeitplan-sportarten-medaillenspiegel-a-98974d05-a94c-40b5-9791-39856a8975d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bauern-ernten-so-viel-gemuese-wie-noch-nie](https://www.spiegel.de/wirtschaft/deutsche-bauern-ernten-so-viel-gemuese-wie-noch-nie-a-bf2c83b1-50f4-4bc1-9266-895d53e32211#ref=rss)
-### juli
-
-* [https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen](https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen-a-da46b438-9745-4d68-bd72-473d27fd7356#ref=rss)
-### zeh
-
-* [https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen](https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen-a-da46b438-9745-4d68-bd72-473d27fd7356#ref=rss)
-### schriftstellerin
-
-* [https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen](https://www.spiegel.de/panorama/leute/juli-zeh-als-bundespraesidentin-schriftstellerin-kann-sich-amt-vorstellen-a-da46b438-9745-4d68-bd72-473d27fd7356#ref=rss)
-### adolf
-
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-### geburtshaus
-
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-### polizeistation
-
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation](https://www.spiegel.de/panorama/adolf-hitler-geburtshaus-des-diktators-wird-bald-zur-polizeistation-a-592d54be-6f41-4f53-a54a-8cd8dbf98d06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping](https://www.spiegel.de/ausland/friedrich-merz-in-china-kanzler-vermeidet-konflikte-bei-treffen-mit-xi-jinping-a-fc4bd94c-f7bc-4cdf-a5f1-ef0f2fbecdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### tricia
-
-* [https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst](https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst-a-db028783-a87c-4236-822f-a371c10ae2a6#ref=rss)
-### tuttle
-
-* [https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst](https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst-a-db028783-a87c-4236-822f-a371c10ae2a6#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst](https://www.spiegel.de/kultur/kino/berlinale-chefin-tricia-tuttle-bleibt-im-amt-vorerst-a-db028783-a87c-4236-822f-a371c10ae2a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### hotelgast
-
-* [https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei](https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei-a-9f9eed8e-97ee-4cd4-8e16-321ea593d77b#ref=rss)
-### taxi
-
-* [https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei](https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei-a-9f9eed8e-97ee-4cd4-8e16-321ea593d77b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei](https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei-a-9f9eed8e-97ee-4cd4-8e16-321ea593d77b#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
-### alter
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+* [https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger](https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger-a-2ac933ca-72ef-47de-a71f-9b662e54d37f#ref=rss)
+### erst
 
-* [https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei](https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei-a-9f9eed8e-97ee-4cd4-8e16-321ea593d77b#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
-### konnte
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### vorerst
 
-* [https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei](https://www.spiegel.de/panorama/justiz/scharbeutz-hotelgast-klaut-taxi-verfolgungsfahrt-mit-der-polizei-a-9f9eed8e-97ee-4cd4-8e16-321ea593d77b#ref=rss)
-* [https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong](https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong-a-82f1fd3d-2d98-45f9-abfb-0fb9b9a43cb2#ref=rss)
-### darts
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### öl
 
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-### beau
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-### greaves
+* [https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze](https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze-a-57fbfc9e-31d8-4d1f-a3e7-32b2ea21bc8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze](https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze-a-57fbfc9e-31d8-4d1f-a3e7-32b2ea21bc8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### teuer
 
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-### erster
+* [https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze](https://www.spiegel.de/politik/deutschland/arbeitspflicht-fuer-buergergeld-empfaenger-wuerde-viele-millionen-kosten-vorstoss-von-sven-schulze-a-57fbfc9e-31d8-4d1f-a3e7-32b2ea21bc8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### heizungsgesetz
 
-* [https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour](https://www.spiegel.de/sport/darts-beau-greaves-wirft-als-erste-frau-neun-darter-in-einem-event-der-pdc-protour-a-d5004ceb-bdce-48e3-a1aa-59dff32ad9de#ref=rss)
-* [https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef](https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef-a-2779e0c2-245a-4fd0-913d-48d27ffd8ed7#ref=rss)
-### cannes
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus](https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus-a-8fcf6bad-371f-4a82-8ba5-9df640889e5e#ref=rss)
+### klingt
 
-* [https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef](https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef-a-2779e0c2-245a-4fd0-913d-48d27ffd8ed7#ref=rss)
-### park
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-in-brasilien-wetterextreme-als-neue-realitaet-im-alltag](https://www.spiegel.de/ausland/klimawandel-in-brasilien-wetterextreme-als-neue-realitaet-im-alltag-a-94e77575-b8c2-486a-9eb7-675afdf96271#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef](https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef-a-2779e0c2-245a-4fd0-913d-48d27ffd8ed7#ref=rss)
-### chanwook
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+* [https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten](https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten-a-847cf462-1535-42a0-bc2a-a82e9f3559c8#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef](https://www.spiegel.de/kultur/kino/cannes-film-festival-park-chan-wook-erster-koreanischer-jurychef-a-2779e0c2-245a-4fd0-913d-48d27ffd8ed7#ref=rss)
-### christina
+* [https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab](https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab-a-55022020-7d16-4abc-969f-07063e078593#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages](https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages-a-86c4790e-fccf-4429-8761-93c5585cb8d9#ref=rss)
-### applegate
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+### rechtsextrem
 
-* [https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages](https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages-a-86c4790e-fccf-4429-8761-93c5585cb8d9#ref=rss)
-### tochter
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### ende
 
-* [https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages](https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages-a-86c4790e-fccf-4429-8761-93c5585cb8d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht](https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht-a-8eb49cab-0d29-4de1-b586-e389b449129e#ref=rss)
-### tages
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages](https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages-a-86c4790e-fccf-4429-8761-93c5585cb8d9#ref=rss)
-### berichtet
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### hillary
 
-* [https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages](https://www.spiegel.de/panorama/leute/multiple-sklerose-wenn-christina-applegate-ihre-tochter-zur-schule-bringt-ist-es-der-hoehepunkt-ihres-tages-a-86c4790e-fccf-4429-8761-93c5585cb8d9#ref=rss)
-* [https://www.spiegel.de/ausland/gazstreifen-spiegel-reporter-besucht-mit-armee-tunnel-der-hamas](https://www.spiegel.de/ausland/gazstreifen-spiegel-reporter-besucht-mit-armee-tunnel-der-hamas-a-2d12b845-9c39-4517-ba33-155f2f0293d2#ref=rss)
-### spiegelreporter
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+### clinton
 
-* [https://www.spiegel.de/ausland/gazstreifen-spiegel-reporter-besucht-mit-armee-tunnel-der-hamas](https://www.spiegel.de/ausland/gazstreifen-spiegel-reporter-besucht-mit-armee-tunnel-der-hamas-a-2d12b845-9c39-4517-ba33-155f2f0293d2#ref=rss)
-### viktor
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-### orbán
+* [https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt](https://www.spiegel.de/ausland/jeffrey-epstein-hillary-clinton-will-dass-donald-trump-unter-eid-zu-epstein-aussagt-a-f14ba133-f7aa-4e91-aa2d-228520ba89ce#ref=rss)
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+### roth
 
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-### eu
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+### tuttle
 
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-### land
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich](https://www.spiegel.de/kultur/berlinale-wolfram-weimer-wollte-offenbar-tricia-tuttle-entlassen-und-scheiterte-klaeglich-a-48d1e553-2ebe-4e44-a26c-7f0212f6abc6#ref=rss)
+### solchen
 
-* [https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar](https://www.spiegel.de/politik/deutschland/viktor-orban-pro-russland-ungarn-raus-aus-der-eu-kommentar-a-8f18c993-5a85-4d6d-a952-46fec365a916#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen](https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen-a-147b0495-4066-49ee-af7d-69a73a0c100f#ref=rss)
-### profitieren
+* [https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer](https://www.spiegel.de/kultur/kino/claudia-roth-kritisiert-berlinale-politik-von-wolfram-weimer-a-33300643-93f4-4546-8de6-fd8e462943e7#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-### minderjährige
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+### 21
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-### große
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+### medien
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf](https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf-a-0c1fb462-a42d-4cdc-ba55-50840a7b81a3#ref=rss)
-### zahlen
+* [https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre](https://www.spiegel.de/mobilitaet/stuttgart-21-bahnprojekt-verzoegert-sich-offenbar-um-weitere-jahre-a-cb28ad25-31ad-4557-82ba-a2eaf85898e8#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+### umwelthilfe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen](https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-so-oft-profitieren-minderjaehrige-von-grossen-firmenvermoegen-a-229e8007-e804-4cf3-bab5-816be324aaf9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### 20
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong](https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong-a-82f1fd3d-2d98-45f9-abfb-0fb9b9a43cb2#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
-### weiteren
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+### mittelplate
 
-* [https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong](https://www.spiegel.de/ausland/jimmy-lai-inhaftierter-verleger-gewinnt-berufungsverfahren-in-hongkong-a-82f1fd3d-2d98-45f9-abfb-0fb9b9a43cb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### island
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+### feiert
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen](https://www.spiegel.de/sport/fussball/fussball-wm-testspiel-mexiko-besiegt-island-unter-strengen-sicherheitsvorkehrungen-a-147b0495-4066-49ee-af7d-69a73a0c100f#ref=rss)
-### australien
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelthilfe-mit-erfolg-vor-gericht-foerder-stopp-fuer-mittelplate-a-84ee892f-74f8-4f51-bf87-dcf7af90b5b7#ref=rss)
+* [https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise](https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise-a-4d7ff947-7632-40b1-addb-396e454a8856#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien-a-9eeb976a-17c0-43bb-a180-b6ec48df5349#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich](https://www.spiegel.de/ausland/olympia-us-hockey-kapitaenin-gegen-donald-trump-der-witz-war-geschmacklos-und-bedauerlich-a-b9e465c0-5aee-438e-8e3e-bd09a419e928#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-regierungschefin-lebt-jetzt-in-australien-a-9eeb976a-17c0-43bb-a180-b6ec48df5349#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
-### niedersächsische
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### plan
 
-* [https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht](https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht-a-8eb49cab-0d29-4de1-b586-e389b449129e#ref=rss)
-### martina
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### robert
 
-* [https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht](https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht-a-8eb49cab-0d29-4de1-b586-e389b449129e#ref=rss)
-### uhr
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht](https://www.spiegel.de/politik/deutschland/afd-niedersaechsische-landesgruppe-draengt-bundestagsabgeordnete-martina-uhr-zu-mandatsverzicht-a-8eb49cab-0d29-4de1-b586-e389b449129e#ref=rss)
-### renk
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### folgt
 
-* [https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf](https://www.spiegel.de/wirtschaft/renk-ruestet-an-der-nato-ostflanke-auf-a-0c1fb462-a42d-4cdc-ba55-50840a7b81a3#ref=rss)
-### zverev
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### kostenfalle
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheitert-in-acapulco-ueberraschend-frueh-a-63c2f3ef-56a2-4e76-a162-3afe361bdfb6#ref=rss)
-### teilen
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### ermöglichen
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### comeback
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### gasheizungen
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### freiheit
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### entlastung
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### risiken
+
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-a-16080f3d-d6f0-40ab-9314-4f9b18fa804a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast](https://www.spiegel.de/wirtschaft/heizungsgesetz-2026-auf-den-plan-von-robert-habeck-folgt-eine-kostenfalle-podcast-a-057ebfcd-123b-4a30-9e63-3aa167e9c8af#ref=rss)
+### wittenberger
+
+* [https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab](https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab-a-55022020-7d16-4abc-969f-07063e078593#ref=rss)
+### gerichtshof
+
+* [https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab](https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab-a-55022020-7d16-4abc-969f-07063e078593#ref=rss)
+### menschenrechte
+
+* [https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab](https://www.spiegel.de/panorama/wittenberger-judensau-europaeischer-gerichtshof-fuer-menschenrechte-weist-beschwerde-ab-a-55022020-7d16-4abc-969f-07063e078593#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### gesichert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### einstufen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin](https://www.spiegel.de/politik/deutschland/news-des-tages-gefaehrliche-ki-afd-wolfram-weimer-und-die-berlinale-chefin-a-656d9e44-7051-493d-a374-9d16a26291fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem](https://www.spiegel.de/politik/deutschland/afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-a-6acfcd02-87f5-4fcf-ae04-4d4076132e70#ref=rss)
+### wo
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### verlaufen
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### grenzen
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### ähnliches
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### aktuelle
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln](https://www.spiegel.de/politik/deutschland/vetternwirtschaft-in-der-afd-diskussion-ueber-moegliche-neue-regeln-a-ba19f850-9a1d-4013-a9b2-56132a86431b#ref=rss)
+### plant
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen](https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen-a-c2ecdd35-3496-44fa-9e1e-e55bb1de74b5#ref=rss)
+### vier
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen](https://www.spiegel.de/wirtschaft/unternehmen/solarenergie-katherina-reiche-plant-massive-einschnitte-fuer-dachanlagen-a-c2ecdd35-3496-44fa-9e1e-e55bb1de74b5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### autobahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen-a-23eed395-28ff-4759-9202-c3217df41d7d#ref=rss)
+### gmbh
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen-a-23eed395-28ff-4759-9202-c3217df41d7d#ref=rss)
+### beschäftigten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-und-gewerkschaften-einigen-sich-in-tarifverhandlungen-a-23eed395-28ff-4759-9202-c3217df41d7d#ref=rss)
+* [https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger](https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger-a-2ac933ca-72ef-47de-a71f-9b662e54d37f#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm](https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm-a-f09132c5-454d-4213-b535-42329a9589f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus](https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus-a-8fcf6bad-371f-4a82-8ba5-9df640889e5e#ref=rss)
+### bücher
+
+* [https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm](https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm-a-f09132c5-454d-4213-b535-42329a9589f3#ref=rss)
+### noam
+
+* [https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm](https://www.spiegel.de/kultur/literatur/fall-jeffrey-epstein-unrast-verlag-nimmt-buecher-von-noam-chomsky-aus-dem-programm-a-f09132c5-454d-4213-b535-42329a9589f3#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+### genf
+
+* [https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-kurz-vor-den-gespraechen-in-genf-angegriffen-haben-a-26dbfced-8a7b-4599-9ce7-63cf5ffb1114#ref=rss)
+### marine
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+### le
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+### pen
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+### schließt
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen](https://www.spiegel.de/sport/wintersport/desg-schliesst-journalisten-aus-einen-solchen-angriff-auf-medien-hat-der-deutsche-sport-lange-nicht-gesehen-a-cb0bcc8f-9f1d-444d-9439-f3cdcd8ba99a#ref=rss)
+### kandidatur
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+### fußfessel
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus](https://www.spiegel.de/ausland/frankreich-marine-le-pen-schliesst-kandidatur-bei-verurteilung-zu-fussfessel-aus-a-ff54b06d-b953-4fad-b2a3-de8724ea293d#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten](https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten-a-847cf462-1535-42a0-bc2a-a82e9f3559c8#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten](https://www.spiegel.de/kultur/pelicot-epstein-erfurt-das-mitgefuehl-laesst-uns-verzweifeln-aber-es-kann-uns-auch-retten-a-847cf462-1535-42a0-bc2a-a82e9f3559c8#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### rojava
+
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### kurdinnen
+
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### kurden
+
+* [https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt](https://www.spiegel.de/panorama/syrien-das-ende-von-rojava-woher-das-misstrauen-der-kurdinnen-und-kurden-kommt-a-4590ce37-a719-4efe-8a27-fd54697a8dca#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist](https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist-a-1f5a3168-669c-4e48-a643-91f4f1df22ef#ref=rss)
+### streeck
+
+* [https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist](https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist-a-1f5a3168-669c-4e48-a643-91f4f1df22ef#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist](https://www.spiegel.de/panorama/leute/hendrik-streeck-virologe-haette-nicht-gedacht-dass-politik-so-anstrengend-ist-a-1f5a3168-669c-4e48-a643-91f4f1df22ef#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten](https://www.spiegel.de/ausland/donald-trump-fbi-entlaesst-mitarbeiter-die-einst-gegen-trump-ermittelten-a-8c35e282-874d-41c1-97bd-4e0161aaf651#ref=rss)
+### tracey
+
+* [https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise](https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise-a-4d7ff947-7632-40b1-addb-396e454a8856#ref=rss)
+### emin
+
+* [https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise](https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise-a-4d7ff947-7632-40b1-addb-396e454a8856#ref=rss)
+### london
+
+* [https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise](https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise-a-4d7ff947-7632-40b1-addb-396e454a8856#ref=rss)
+### krise
+
+* [https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise](https://www.spiegel.de/kultur/tracey-emin-in-london-kunst-als-lebensbeweis-nach-gesundheitlicher-krise-a-4d7ff947-7632-40b1-addb-396e454a8856#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### ford
+
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+### bremsen
+
+* [https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse](https://www.spiegel.de/wirtschaft/ford-ruft-millionen-autos-in-den-usa-zurueck-probleme-mit-der-bremse-a-61cc5d4e-ded5-4b74-8cb6-8d9631e5cd02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus](https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus-a-8fcf6bad-371f-4a82-8ba5-9df640889e5e#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel](https://www.spiegel.de/ausland/iran-usa-stationieren-erstmals-f-22-kampfjets-in-israel-a-84cbda4c-f225-4210-8b53-a077044323cf#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus](https://www.spiegel.de/politik/deutschland/klimaschutz-friedrich-merz-und-seine-regierung-bremsen-fortschritte-bei-klimazielen-aus-a-8fcf6bad-371f-4a82-8ba5-9df640889e5e#ref=rss)
+### geschäftsmodell
+
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
+### verfolgt
+
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
+### größte
+
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
+### hochschule
+
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
 ### deutschlands
 
-* [https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet](https://www.spiegel.de/panorama/wetter-mehr-als-20-grad-in-teilen-deutschlands-erwartet-a-a66829c6-1e97-4646-99d8-68591e1c965a#ref=rss)
-### verbotenen
+* [https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands](https://www.spiegel.de/start/startklar-newsletter-welches-fragwuerdige-geschaeftsmodell-verfolgt-die-groesste-hochschule-deutschlands-a-acc0aea3-2573-4969-9427-4db76f104cfe#ref=rss)
+### bamberg
 
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt](https://www.spiegel.de/politik/deutschland/china-friedrich-merz-verewigt-sich-mit-schiller-gedicht-in-der-verbotenen-stadt-a-e502339b-cc30-42ed-8807-285fd69d9fee#ref=rss)
-### münzen
-
-* [https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen](https://www.spiegel.de/wirtschaft/service/bargeld-deutsche-zahlen-besonders-oft-mit-scheinen-und-muenzen-a-5a9888bf-b9cb-480b-a79d-0966a6c35e3a#ref=rss)
+* [https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger](https://www.spiegel.de/netzwelt/bamberg-7-5-jahre-haft-fuer-kryptobetrueger-a-2ac933ca-72ef-47de-a71f-9b662e54d37f#ref=rss)
 
