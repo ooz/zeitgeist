@@ -4,279 +4,351 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lokfuehrer-erhalten-fuenf-prozent-mehr-gehalt](https://www.spiegel.de/wirtschaft/lokfuehrer-erhalten-fuenf-prozent-mehr-gehalt-a-7d038233-656b-4bd3-87b4-616081a6f8ba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen](https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen-a-c79910b7-d2c4-473f-8570-57274dbfaa80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse](https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-7180-42b0-9cfc-438a35ff8e84#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden](https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden-a-94ba0aa0-59e6-4cf6-8ea3-f01a740a069b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi](https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi-a-7b6807c1-983a-4996-9d90-666eda26cb72#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### white
-
-* [https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee](https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee-a-6ca6adaa-ecd0-4e0e-87d2-210b518e132c#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas](https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas-a-1d335484-9f47-420d-9a0e-6fe84049cf99#ref=rss)
-* [https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news](https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news-a-583bda0e-1297-4359-887e-6a83df4030bf#ref=rss)
-* [https://www.spiegel.de/deinspiegel/fundbuero-das-land-der-verlorenen-dinge](https://www.spiegel.de/deinspiegel/fundbuero-das-land-der-verlorenen-dinge-a-7ed0d8d5-652f-4aa0-b80b-a3ca2715eda2#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas](https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas-a-1d335484-9f47-420d-9a0e-6fe84049cf99#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse](https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-7180-42b0-9cfc-438a35ff8e84#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen-a-7fdf97d0-1996-47ea-aa2d-23d09cec77f4#ref=rss)
-* [https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik](https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik-a-223ad256-70f8-45a3-8747-10011c2e8ecc#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke-a-4060061b-98a0-4126-a057-475292e1610d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-deutschlandticket-abos-geht-nach-preiserhoehung-leicht-zurueck](https://www.spiegel.de/wirtschaft/zahl-der-deutschlandticket-abos-geht-nach-preiserhoehung-leicht-zurueck-a-0bcbfec7-8c97-4187-a4ef-6355ffd6961b#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-* [https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress](https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress-a-c05f23a7-1eb8-475f-a835-67e3c346e37b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi](https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi-a-7b6807c1-983a-4996-9d90-666eda26cb72#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-* [https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth](https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth-a-fff20587-865d-4f99-9cf0-24de35748807#ref=rss)
-### führung
-
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-* [https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth](https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth-a-fff20587-865d-4f99-9cf0-24de35748807#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik](https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik-a-ff99e062-860f-4d2a-a3b8-04481e98cc6e#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee](https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee-a-6ca6adaa-ecd0-4e0e-87d2-210b518e132c#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas](https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas-a-1d335484-9f47-420d-9a0e-6fe84049cf99#ref=rss)
-### geas
-
-* [https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas](https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas-a-1d335484-9f47-420d-9a0e-6fe84049cf99#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas](https://www.spiegel.de/politik/deutschland/migration-bundestag-stimmt-fuer-umsetzung-der-europaeischen-asylreform-geas-a-1d335484-9f47-420d-9a0e-6fe84049cf99#ref=rss)
-* [https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung](https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung-a-68471cd1-9f6a-422d-bd0d-30ae5fad4509#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-### sanae
-
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-### takaichi
-
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-* [https://www.spiegel.de/panorama/flensburg-warum-diese-krankenhausfusion-frauen-empoert](https://www.spiegel.de/panorama/flensburg-warum-diese-krankenhausfusion-frauen-empoert-a-1e6e9f45-35c6-45f7-ba78-31177c52aa95#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke-a-4060061b-98a0-4126-a057-475292e1610d#ref=rss)
-### andere
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+* [https://www.spiegel.de/panorama/mailand-ein-toter-und-viele-verletzte-bei-strassenbahn-unglueck](https://www.spiegel.de/panorama/mailand-ein-toter-und-viele-verletzte-bei-strassenbahn-unglueck-a-3e473630-0252-43d7-aef9-fd4fd7aa924d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna](https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna-a-56941c73-a8cb-4140-8834-1d134174def5#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen](https://www.spiegel.de/ausland/japan-sanae-takaichi-gegen-oeffnung-des-kaiserthrons-fuer-frauen-a-4ee125d8-6c01-4aae-9ddd-c9a06b7161ee#ref=rss)
-* [https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick](https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick-a-f0094d36-293f-4117-915e-446cd02200d3#ref=rss)
-### krah
+* [https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben](https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben-a-e7b2ec58-c417-4f42-937c-ba670e81c2b4#ref=rss)
+* [https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion](https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion-a-a57014aa-9911-4049-9351-a6aedbae98a1#ref=rss)
+* [https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung](https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung-a-a9d1a216-ddc6-4a40-971b-c7cd11d05b35#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse](https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-7180-42b0-9cfc-438a35ff8e84#ref=rss)
-### fall
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland](https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland-a-4c81b9bf-5cc5-49e3-9d76-2b99f661f5dc#ref=rss)
+* [https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung](https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung-a-a9d1a216-ddc6-4a40-971b-c7cd11d05b35#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse](https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-7180-42b0-9cfc-438a35ff8e84#ref=rss)
-* [https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick](https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick-a-f0094d36-293f-4117-915e-446cd02200d3#ref=rss)
-### pink
-
-* [https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news](https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news-a-583bda0e-1297-4359-887e-6a83df4030bf#ref=rss)
-### trennung
-
-* [https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news](https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news-a-583bda0e-1297-4359-887e-6a83df4030bf#ref=rss)
-### usmedien
-
-* [https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news](https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news-a-583bda0e-1297-4359-887e-6a83df4030bf#ref=rss)
-* [https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab](https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab-a-b266dd53-2134-47cc-8d70-3a9d00364727#ref=rss)
-### hart
-
-* [https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news](https://www.spiegel.de/panorama/leute/pink-wendet-sich-nach-berichten-ueber-trennung-direkt-an-trash-news-a-583bda0e-1297-4359-887e-6a83df4030bf#ref=rss)
-* [https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick](https://www.spiegel.de/ausland/us-demokraten-fuerchten-vertuschung-und-draengen-auf-vorladung-von-trumps-minister-lutnick-a-f0094d36-293f-4117-915e-446cd02200d3#ref=rss)
-### streiks
-
-* [https://www.spiegel.de/wirtschaft/lokfuehrer-erhalten-fuenf-prozent-mehr-gehalt](https://www.spiegel.de/wirtschaft/lokfuehrer-erhalten-fuenf-prozent-mehr-gehalt-a-7d038233-656b-4bd3-87b4-616081a6f8ba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drohendes-verkehrschaos-beim-bvb-topspiel-gegen-bayern](https://www.spiegel.de/wirtschaft/drohendes-verkehrschaos-beim-bvb-topspiel-gegen-bayern-a-473a5731-b523-4632-b3b5-72f3f0bfe3c2#ref=rss)
-### kitaerzieher
-
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-### sexuell
-
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-### missbraucht
-
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/hessen-kitaerzieher-soll-kinder-sexuell-missbraucht-haben-a-8a338dae-e51a-4397-9854-60a6e4c72dc6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-### kühlschrank
-
-* [https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden](https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden-a-94ba0aa0-59e6-4cf6-8ea3-f01a740a069b#ref=rss)
-### wimmelt
-
-* [https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden](https://www.spiegel.de/wissenschaft/mensch/im-kuehlschrank-wimmelt-es-vor-leben-auch-potenziell-krankheitserregenden-a-94ba0aa0-59e6-4cf6-8ea3-f01a740a069b#ref=rss)
-### max
-
-* [https://www.spiegel.de/kultur/literatur/max-frisch-abituraufsatz-nach-fast-100-jahren-entdeckt](https://www.spiegel.de/kultur/literatur/max-frisch-abituraufsatz-nach-fast-100-jahren-entdeckt-a-e4c54db3-6ac8-4dfa-8b4b-572bce26ff6c#ref=rss)
-### frisch
-
-* [https://www.spiegel.de/kultur/literatur/max-frisch-abituraufsatz-nach-fast-100-jahren-entdeckt](https://www.spiegel.de/kultur/literatur/max-frisch-abituraufsatz-nach-fast-100-jahren-entdeckt-a-e4c54db3-6ac8-4dfa-8b4b-572bce26ff6c#ref=rss)
+* [https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben](https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben-a-e7b2ec58-c417-4f42-937c-ba670e81c2b4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-maenner-schliefen-mit-menschen-frauen](https://www.spiegel.de/wissenschaft/mensch/neandertaler-maenner-schliefen-mit-menschen-frauen-a-05e68051-0d23-4f3e-a433-b809a368cd88#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab](https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab-a-b266dd53-2134-47cc-8d70-3a9d00364727#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi](https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi-a-7b6807c1-983a-4996-9d90-666eda26cb72#ref=rss)
-### einsatz
+* [https://www.spiegel.de/wissenschaft/technik/konflikt-zwischen-usa-und-iran-wie-gefaehrlich-koennen-irans-raketen-den-us-streitkraeften-werden](https://www.spiegel.de/wissenschaft/technik/konflikt-zwischen-usa-und-iran-wie-gefaehrlich-koennen-irans-raketen-den-us-streitkraeften-werden-a-1f1529b3-1481-410b-960a-22803623abaf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+* [https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien](https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien-a-e530a284-aeb2-4c25-a98e-c793cce70e03#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab](https://www.spiegel.de/ausland/usa-militaer-schiesst-offenbar-versehentlich-eigene-drohne-ab-a-b266dd53-2134-47cc-8d70-3a9d00364727#ref=rss)
-* [https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik](https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik-a-223ad256-70f8-45a3-8747-10011c2e8ecc#ref=rss)
-### cem
+* [https://www.spiegel.de/wissenschaft/technik/konflikt-zwischen-usa-und-iran-wie-gefaehrlich-koennen-irans-raketen-den-us-streitkraeften-werden](https://www.spiegel.de/wissenschaft/technik/konflikt-zwischen-usa-und-iran-wie-gefaehrlich-koennen-irans-raketen-den-us-streitkraeften-werden-a-1f1529b3-1481-410b-960a-22803623abaf#ref=rss)
+* [https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien](https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien-a-e530a284-aeb2-4c25-a98e-c793cce70e03#ref=rss)
+### tricia
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen-a-7fdf97d0-1996-47ea-aa2d-23d09cec77f4#ref=rss)
-### özdemir
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### tuttle
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen-a-7fdf97d0-1996-47ea-aa2d-23d09cec77f4#ref=rss)
-### grünen
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen-a-7fdf97d0-1996-47ea-aa2d-23d09cec77f4#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-labour-verliert-in-eigener-hochburg-gegen-die-gruenen](https://www.spiegel.de/ausland/grossbritannien-labour-verliert-in-eigener-hochburg-gegen-die-gruenen-a-72a26518-7dda-4ded-bd08-7d4a452a35f1#ref=rss)
-### partei
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### warner
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-im-wahlkampf-in-baden-wuerttemberg-der-letzte-realo-der-gruenen-a-7fdf97d0-1996-47ea-aa2d-23d09cec77f4#ref=rss)
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-### leicht
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung-a-28ae9ee9-2dae-4e79-b917-6a82c91f878e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt](https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt-a-39355e91-d3c3-41cd-87c0-27bc1afb5792#ref=rss)
+### bros
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-verharrt-oberhalb-der-drei-millionen-marke-a-4060061b-98a0-4126-a057-475292e1610d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-deutschlandticket-abos-geht-nach-preiserhoehung-leicht-zurueck](https://www.spiegel.de/wirtschaft/zahl-der-deutschlandticket-abos-geht-nach-preiserhoehung-leicht-zurueck-a-0bcbfec7-8c97-4187-a4ef-6355ffd6961b#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung-a-28ae9ee9-2dae-4e79-b917-6a82c91f878e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt](https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt-a-39355e91-d3c3-41cd-87c0-27bc1afb5792#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/ausland/grossbritannien-labour-verliert-in-eigener-hochburg-gegen-die-gruenen](https://www.spiegel.de/ausland/grossbritannien-labour-verliert-in-eigener-hochburg-gegen-die-gruenen-a-72a26518-7dda-4ded-bd08-7d4a452a35f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner-a-077ced91-8ade-44ba-ba13-4bfa0a0ef4e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu](https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu-a-ac415499-39ff-42ba-b277-a3013f63d8ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### amt
+
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen](https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen-a-c79910b7-d2c4-473f-8570-57274dbfaa80#ref=rss)
-### samstag
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland](https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland-a-4c81b9bf-5cc5-49e3-9d76-2b99f661f5dc#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-### kurz
+* [https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion](https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion-a-a57014aa-9911-4049-9351-a6aedbae98a1#ref=rss)
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna](https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna-a-56941c73-a8cb-4140-8834-1d134174def5#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen](https://www.spiegel.de/wissenschaft/deutschland-so-ist-die-planetenparade-am-samstag-am-besten-zu-sehen-a-088c7d28-2f43-4888-88af-bcbdd89d65ff#ref=rss)
-* [https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress](https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress-a-c05f23a7-1eb8-475f-a835-67e3c346e37b#ref=rss)
-### zellamehlis
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+* [https://www.spiegel.de/ausland/mexiko-offenbar-mehrere-massengraeber-nahe-wm-arena-in-guadalajara-entdeckt](https://www.spiegel.de/ausland/mexiko-offenbar-mehrere-massengraeber-nahe-wm-arena-in-guadalajara-entdeckt-a-203c384d-dd68-453c-8c11-2d51ce50740d#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt-a-291c6283-2818-4c01-9b4b-02fb25e9cb6d#ref=rss)
-### vier
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung-a-28ae9ee9-2dae-4e79-b917-6a82c91f878e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu](https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu-a-ac415499-39ff-42ba-b277-a3013f63d8ad#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt-a-291c6283-2818-4c01-9b4b-02fb25e9cb6d#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/ausland/lager-in-syrien-was-wird-aus-den-is-gefangenen](https://www.spiegel.de/ausland/lager-in-syrien-was-wird-aus-den-is-gefangenen-a-f5aa6caa-604e-4023-b3da-391e678b32c7#ref=rss)
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt-a-291c6283-2818-4c01-9b4b-02fb25e9cb6d#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger-a-4e954fea-8b04-4663-87ff-a27403241153#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/zella-mehlis-vier-jugendliche-nach-tod-eines-23-jaehrigen-verurteilt-a-291c6283-2818-4c01-9b4b-02fb25e9cb6d#ref=rss)
-### intrigen
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+* [https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien](https://www.spiegel.de/ausland/us-aufmarsch-gegen-iran-letzte-ausfahrt-wien-a-e530a284-aeb2-4c25-a98e-c793cce70e03#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-### vetternwirtschaft
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-### land
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-rate-faellt-ueberraschend-unter-zwei-prozent-marke](https://www.spiegel.de/wirtschaft/inflation-rate-faellt-ueberraschend-unter-zwei-prozent-marke-a-91486dcb-02d3-42ac-b7c4-cf9b68bbdbfd#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung](https://www.spiegel.de/politik/alice-weidel-als-afd-chefin-sie-kann-es-nicht-intrigen-und-vetternwirtschaft-unter-ihrer-fuehrung-a-3e9198fd-48c1-4a7e-b78d-8959162b2877#ref=rss)
-* [https://www.spiegel.de/deinspiegel/fundbuero-das-land-der-verlorenen-dinge](https://www.spiegel.de/deinspiegel/fundbuero-das-land-der-verlorenen-dinge-a-7ed0d8d5-652f-4aa0-b80b-a3ca2715eda2#ref=rss)
-### greg
+* [https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna](https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna-a-56941c73-a8cb-4140-8834-1d134174def5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner-a-077ced91-8ade-44ba-ba13-4bfa0a0ef4e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth](https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth-a-fff20587-865d-4f99-9cf0-24de35748807#ref=rss)
-### abel
+* [https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna](https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna-a-56941c73-a8cb-4140-8834-1d134174def5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger-a-4e954fea-8b04-4663-87ff-a27403241153#ref=rss)
+### minuten
 
-* [https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth](https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth-a-fff20587-865d-4f99-9cf0-24de35748807#ref=rss)
-### warren
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger-a-4e954fea-8b04-4663-87ff-a27403241153#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth](https://www.spiegel.de/wirtschaft/greg-abel-der-nachfolger-von-warren-buffett-wie-prince-charles-nach-queen-elizabeth-a-fff20587-865d-4f99-9cf0-24de35748807#ref=rss)
-### flensburg
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+### reisen
 
-* [https://www.spiegel.de/panorama/flensburg-warum-diese-krankenhausfusion-frauen-empoert](https://www.spiegel.de/panorama/flensburg-warum-diese-krankenhausfusion-frauen-empoert-a-1e6e9f45-35c6-45f7-ba78-31177c52aa95#ref=rss)
-### gigafabrik
+* [https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab](https://www.spiegel.de/ausland/israel-auswaertiges-amt-raet-dringend-von-reisen-ab-a-780a281e-d0b8-4b9f-9134-52e69a85d120#ref=rss)
+### bill
 
-* [https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik](https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik-a-ff99e062-860f-4d2a-a3b8-04481e98cc6e#ref=rss)
-### bleibt
+* [https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben](https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben-a-e7b2ec58-c417-4f42-937c-ba670e81c2b4#ref=rss)
+### clinton
 
-* [https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik](https://www.spiegel.de/wirtschaft/tesla-der-schmutzige-betriebsratswahlkampf-in-der-deutschen-gigafabrik-a-ff99e062-860f-4d2a-a3b8-04481e98cc6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### mike
+* [https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben](https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben-a-e7b2ec58-c417-4f42-937c-ba670e81c2b4#ref=rss)
+### jeffrey
 
-* [https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee](https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee-a-6ca6adaa-ecd0-4e0e-87d2-210b518e132c#ref=rss)
-### jennifer
+* [https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben](https://www.spiegel.de/ausland/bill-clinton-frueherer-us-praesident-will-nichts-von-jeffrey-epsteins-taten-gewusst-haben-a-e7b2ec58-c417-4f42-937c-ba670e81c2b4#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee](https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee-a-6ca6adaa-ecd0-4e0e-87d2-210b518e132c#ref=rss)
-### coolidge
+* [https://www.spiegel.de/panorama/mailand-ein-toter-und-viele-verletzte-bei-strassenbahn-unglueck](https://www.spiegel.de/panorama/mailand-ein-toter-und-viele-verletzte-bei-strassenbahn-unglueck-a-3e473630-0252-43d7-aef9-fd4fd7aa924d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### allem
 
-* [https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee](https://www.spiegel.de/panorama/leute/mike-white-mit-jennifer-coolidge-auf-reisen-so-kam-der-regisseur-auf-die-the-white-lotus-idee-a-6ca6adaa-ecd0-4e0e-87d2-210b518e132c#ref=rss)
-### reallöhne
+* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-maenner-schliefen-mit-menschen-frauen](https://www.spiegel.de/wissenschaft/mensch/neandertaler-maenner-schliefen-mit-menschen-frauen-a-05e68051-0d23-4f3e-a433-b809a368cd88#ref=rss)
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen](https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen-a-c79910b7-d2c4-473f-8570-57274dbfaa80#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion](https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion-a-a57014aa-9911-4049-9351-a6aedbae98a1#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen](https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen-a-c79910b7-d2c4-473f-8570-57274dbfaa80#ref=rss)
-### 2025
+* [https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion](https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion-a-a57014aa-9911-4049-9351-a6aedbae98a1#ref=rss)
+### peking
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen](https://www.spiegel.de/wirtschaft/konjunktur-in-deutschland-realloehne-im-jahr-2025-weiter-gestiegen-a-c79910b7-d2c4-473f-8570-57274dbfaa80#ref=rss)
-### dönerfabrik
+* [https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion](https://www.spiegel.de/ausland/meinung-friedrich-merz-in-peking-so-wird-es-nichts-mit-dem-weg-aus-der-china-illusion-a-a57014aa-9911-4049-9351-a6aedbae98a1#ref=rss)
+### berlinalestreit
 
-* [https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik](https://www.spiegel.de/panorama/murr-baden-wuerttemberg-brand-in-deutschlands-groesster-doenerfabrik-a-223ad256-70f8-45a3-8747-10011c2e8ecc#ref=rss)
-### bayern
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### los
 
-* [https://www.spiegel.de/wirtschaft/drohendes-verkehrschaos-beim-bvb-topspiel-gegen-bayern](https://www.spiegel.de/wirtschaft/drohendes-verkehrschaos-beim-bvb-topspiel-gegen-bayern-a-473a5731-b523-4632-b3b5-72f3f0bfe3c2#ref=rss)
-### china
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress](https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress-a-c05f23a7-1eb8-475f-a835-67e3c346e37b#ref=rss)
-### hochrangige
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### kulturstaatsminister
 
-* [https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress](https://www.spiegel.de/ausland/china-entfernt-hochrangige-militaers-aus-volkskongress-a-c05f23a7-1eb8-475f-a835-67e3c346e37b#ref=rss)
-### ukraine
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### berlinalechefin
 
-* [https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi](https://www.spiegel.de/ausland/ukraine-und-usa-planen-neues-dreier-treffen-mit-russland-in-abu-dhabi-a-7b6807c1-983a-4996-9d90-666eda26cb72#ref=rss)
-### kaffee
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### loswerden
 
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### luxusgut
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### streit
 
-* [https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird](https://www.spiegel.de/wirtschaft/kaffee-wo-in-europa-eine-tasse-zum-luxusgut-wird-a-d9095dfe-032f-4506-9dff-406352317117#ref=rss)
-### kristen
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm](https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm-a-fc86efc4-24f1-476f-891c-f7da69a2b89c#ref=rss)
-### stewart
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm](https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm-a-fc86efc4-24f1-476f-891c-f7da69a2b89c#ref=rss)
-### einwanderer
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### plötzlicher
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm](https://www.spiegel.de/panorama/leute/kristen-stewart-aeussert-sich-pro-einwanderer-und-gegen-donald-trump-und-erntet-lovestorm-a-fc86efc4-24f1-476f-891c-f7da69a2b89c#ref=rss)
-### schnitzer
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### aufstand
 
-* [https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung](https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung-a-68471cd1-9f6a-422d-bd0d-30ae5fad4509#ref=rss)
-### pläne
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### kulturbranche
 
-* [https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung](https://www.spiegel.de/wirtschaft/heizungsgesetz-wirtschaftsweise-schnitzer-kritisiert-plaene-der-regierung-a-68471cd1-9f6a-422d-bd0d-30ae5fad4509#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### spielte
+
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-a-a68f134a-7feb-4d30-b17a-a81ae1d54e13#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast](https://www.spiegel.de/kultur/berlinale-streit-was-ist-los-zwischen-tricia-tuttle-und-wolfram-weimer-podcast-a-ee7f1a84-f3ff-4133-9b09-c3337ab7300a#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-bawue-kampf-um-warner-bros-solaranlagen-foerderung-a-28ae9ee9-2dae-4e79-b917-6a82c91f878e#ref=rss)
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+### lager
+
+* [https://www.spiegel.de/ausland/lager-in-syrien-was-wird-aus-den-is-gefangenen](https://www.spiegel.de/ausland/lager-in-syrien-was-wird-aus-den-is-gefangenen-a-f5aa6caa-604e-4023-b3da-391e678b32c7#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-zwischen-hamburg-und-berlin-braucht-nach-sanierung-laenger-a-4e954fea-8b04-4663-87ff-a27403241153#ref=rss)
+### gdl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben](https://www.spiegel.de/wirtschaft/unternehmen/warum-sich-deutsche-bahn-und-gdl-diesmal-ohne-streiks-geeinigt-haben-a-7eec2037-6063-42a7-a16b-6e2a35fb4cac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+### ezigaretten
+
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+### laut
+
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### demnach
+
+* [https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise](https://www.spiegel.de/gesundheit/rauchen-und-e-zigaretten-who-sieht-europa-in-der-tabak-krise-a-8a9eae43-e43c-41c9-83c5-ad7512817039#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+### guadalajara
+
+* [https://www.spiegel.de/ausland/mexiko-offenbar-mehrere-massengraeber-nahe-wm-arena-in-guadalajara-entdeckt](https://www.spiegel.de/ausland/mexiko-offenbar-mehrere-massengraeber-nahe-wm-arena-in-guadalajara-entdeckt-a-203c384d-dd68-453c-8c11-2d51ce50740d#ref=rss)
+### dankbarer
+
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+### lenken
+
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer](https://www.spiegel.de/wissenschaft/mentale-gesundheit-nostalgische-menschen-sind-dankbarer-a-524b24a1-7ac1-4708-b2ab-5d956d7f761a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+### magersucht
+
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+### lily
+
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+### collins
+
+* [https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig](https://www.spiegel.de/panorama/leute/magersucht-lily-collins-findet-es-beaengstigend-ueber-ihre-essstoerung-zu-sprechen-aber-wichtig-a-c116f9c0-9455-4bd1-ab61-a3260ba27550#ref=rss)
+### discovery
+
+* [https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt](https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt-a-39355e91-d3c3-41cd-87c0-27bc1afb5792#ref=rss)
+### erst
+
+* [https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt](https://www.spiegel.de/kultur/tv/warner-bros-discovery-wie-trump-im-medienkrieg-eine-schlacht-nach-der-anderen-gewinnt-a-39355e91-d3c3-41cd-87c0-27bc1afb5792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+### nationen
+
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+### gesundheitsversorgung
+
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen](https://www.spiegel.de/ausland/afgahnistan-vereinte-nationen-kritisieren-schlechte-gesundheitsversorgung-von-frauen-a-4410112c-100a-4f55-a89f-6027219f68d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna](https://www.spiegel.de/wissenschaft/medizin/grippe-und-corona-eu-arzneimittelbehoerde-empfiehlt-kombi-impfstoff-von-moderna-a-56941c73-a8cb-4140-8834-1d134174def5#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland](https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland-a-4c81b9bf-5cc5-49e3-9d76-2b99f661f5dc#ref=rss)
+### wächst
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland](https://www.spiegel.de/mobilitaet/auto/elektroauto-erstmals-mehr-als-zwei-millionen-batterieautos-in-deutschland-a-4c81b9bf-5cc5-49e3-9d76-2b99f661f5dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### nikita
+
+* [https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung](https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung-a-a9d1a216-ddc6-4a40-971b-c7cd11d05b35#ref=rss)
+### chruschtschow
+
+* [https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung](https://www.spiegel.de/geschichte/russland-ueberwand-schon-mal-einen-tyrannen-nikita-chruschtschow-und-die-entstalinisierung-a-a9d1a216-ddc6-4a40-971b-c7cd11d05b35#ref=rss)
+### bruno
+
+* [https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche-a-04d66ca2-692a-4481-995a-0da50162d2e8#ref=rss)
+### mars
+
+* [https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche-a-04d66ca2-692a-4481-995a-0da50162d2e8#ref=rss)
+### mitski
+
+* [https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche-a-04d66ca2-692a-4481-995a-0da50162d2e8#ref=rss)
+### gorillaz
+
+* [https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bruno-mars-mitski-gorillaz-abgehoert-album-der-woche-a-04d66ca2-692a-4481-995a-0da50162d2e8#ref=rss)
+### bundespolizei
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+### bka
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### vorliegt
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bka-neue-befugnisse-zur-abwehr-von-hackerangriffen-a-ea0a206b-89b8-4d4f-90eb-74a58e2f537b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### london
+
+* [https://www.spiegel.de/panorama/london-winston-churchill-statue-bei-palaestina-protest-beschmiert](https://www.spiegel.de/panorama/london-winston-churchill-statue-bei-palaestina-protest-beschmiert-a-876039c3-5dba-4a48-869e-af5ba343deb2#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner-a-077ced91-8ade-44ba-ba13-4bfa0a0ef4e5#ref=rss)
+### bündnisse
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner-a-077ced91-8ade-44ba-ba13-4bfa0a0ef4e5#ref=rss)
+### umfragen
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-welche-buendnisse-sind-moeglich-der-koalitionsrechner-a-077ced91-8ade-44ba-ba13-4bfa0a0ef4e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu](https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu-a-ac415499-39ff-42ba-b277-a3013f63d8ad#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu](https://www.spiegel.de/politik/deutschland/landtagswahlen-in-baden-wuerttemberg-und-rheinland-pfalz-alarmstufe-gruen-bei-der-cdu-a-ac415499-39ff-42ba-b277-a3013f63d8ad#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### stoch
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### besucht
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### tafel
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-andreas-stoch-spd-besucht-erst-die-tafel-dann-bestellt-er-entenpastete-a-68ba2fab-df52-4d79-a191-989a27d703ed#ref=rss)
+### überraschend
+
+* [https://www.spiegel.de/wirtschaft/inflation-rate-faellt-ueberraschend-unter-zwei-prozent-marke](https://www.spiegel.de/wirtschaft/inflation-rate-faellt-ueberraschend-unter-zwei-prozent-marke-a-91486dcb-02d3-42ac-b7c4-cf9b68bbdbfd#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert](https://www.spiegel.de/politik/deutschland/bundeswehr-zahl-minderjaehriger-soldaten-steigt-auf-rekordwert-a-26f04d64-d78a-4c75-80ad-1a548e24aca7#ref=rss)
 
