@@ -6,317 +6,349 @@ tags: __no_header__
 
 ### iran
 
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran](https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran-a-85eb23d5-c607-401f-a43d-13be9d824104#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung](https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung-a-ef33469c-186b-42d9-8f28-74cbc90db98f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-* [https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden](https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden-a-cb258fde-3692-45a2-9af6-fa8f955db9c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+* [https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort](https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort-a-433225b6-e5a8-44ab-a9c0-8045474eb472#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung](https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung-a-561e3d0a-6554-4459-aee0-a1048264c779#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran](https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran-a-85eb23d5-c607-401f-a43d-13be9d824104#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-* [https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt](https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt-a-0d6394ed-a75b-4b9c-b061-956aedccf034#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-* [https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden](https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden-a-cb258fde-3692-45a2-9af6-fa8f955db9c8#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-* [https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet](https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet-a-318b18cc-9764-47ff-844a-7f66eae49104#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wissenschaft/laura-dahlmeier-park-in-garmisch-partenkirchen-eingeweiht](https://www.spiegel.de/wissenschaft/laura-dahlmeier-park-in-garmisch-partenkirchen-eingeweiht-a-ccb6a88e-8d8c-47f7-8fc3-633f06e08e59#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer](https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer-a-290f47ff-39e2-4c53-b6a6-44fcf4430457#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen](https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen-a-4ca68312-8a44-49f2-b35c-ed425d44c876#ref=rss)
-* [https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban](https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban-a-4098daa5-213b-4876-87a9-e33eb8edd2bf#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-* [https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet](https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet-a-318b18cc-9764-47ff-844a-7f66eae49104#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/stau-in-der-strafjustiz-eine-million-offene-verfahren](https://www.spiegel.de/politik/stau-in-der-strafjustiz-eine-million-offene-verfahren-a-130580f3-f06b-4b01-aa73-0ba0b38b2c8e#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung](https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung-a-ef33469c-186b-42d9-8f28-74cbc90db98f#ref=rss)
-* [https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen](https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen-a-1029b975-c7e6-4fcc-8c2a-2586962239e8#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran](https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran-a-85eb23d5-c607-401f-a43d-13be9d824104#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer](https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer-a-290f47ff-39e2-4c53-b6a6-44fcf4430457#ref=rss)
-* [https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen](https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen-a-1029b975-c7e6-4fcc-8c2a-2586962239e8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt](https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt-a-0d6394ed-a75b-4b9c-b061-956aedccf034#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban](https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban-a-4098daa5-213b-4876-87a9-e33eb8edd2bf#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung](https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung-a-ef33469c-186b-42d9-8f28-74cbc90db98f#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran](https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran-a-85eb23d5-c607-401f-a43d-13be9d824104#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-* [https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet](https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet-a-318b18cc-9764-47ff-844a-7f66eae49104#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet](https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet-a-8355eecd-eecf-4912-a7a4-65a76512e3c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen-a-8649e343-9e35-4cd6-aac1-a208291493a9#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-* [https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet](https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet-a-318b18cc-9764-47ff-844a-7f66eae49104#ref=rss)
-### anthropic
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung](https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung-a-561e3d0a-6554-4459-aee0-a1048264c779#ref=rss)
-* [https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden](https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden-a-cb258fde-3692-45a2-9af6-fa8f955db9c8#ref=rss)
-### militärschlag
-
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran](https://www.spiegel.de/ausland/israel-startet-militaerschlag-gegen-iran-a-85eb23d5-c607-401f-a43d-13be9d824104#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung](https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung-a-ef33469c-186b-42d9-8f28-74cbc90db98f#ref=rss)
-### grönland
+### größten
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### berichten
+* [https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion](https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion-a-7ccbf17d-410d-4fa5-b830-8b13584cdc65#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+### essen
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### minus
+* [https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten](https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten-a-a83b1a19-10f3-47c3-bcc6-90235da2abd6#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen-a-8649e343-9e35-4cd6-aac1-a208291493a9#ref=rss)
+### 1
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### 50
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-kompromiss-statt-klarheit-im-streit-um-den-mercedes-motor](https://www.spiegel.de/sport/formel1/formel-1-kompromiss-statt-klarheit-im-streit-um-den-mercedes-motor-a-cc294491-c6ab-46fa-a448-171e22166abc#ref=rss)
+### teheran
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### grad
-
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### greenpeace
-
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/ausland/uno-sicherheitsrat-hebt-sanktionen-gegen-syrische-hts-miliz-auf](https://www.spiegel.de/ausland/uno-sicherheitsrat-hebt-sanktionen-gegen-syrische-hts-miliz-auf-a-a308baa6-b85c-448f-ab65-19441f8cd06c#ref=rss)
-### htsmiliz
-
-* [https://www.spiegel.de/ausland/uno-sicherheitsrat-hebt-sanktionen-gegen-syrische-hts-miliz-auf](https://www.spiegel.de/ausland/uno-sicherheitsrat-hebt-sanktionen-gegen-syrische-hts-miliz-auf-a-a308baa6-b85c-448f-ab65-19441f8cd06c#ref=rss)
-### neil
-
-* [https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben](https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben-a-dad12dab-4d90-4be3-91b0-a4919ea67df1#ref=rss)
-### sedaka
-
-* [https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben](https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben-a-dad12dab-4d90-4be3-91b0-a4919ea67df1#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben](https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben-a-dad12dab-4d90-4be3-91b0-a4919ea67df1#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben](https://www.spiegel.de/kultur/musik/neil-sedaka-ist-tot-komponist-von-oh-carol-und-calendar-girl-gestorben-a-dad12dab-4d90-4be3-91b0-a4919ea67df1#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-### winter
-
-* [https://www.spiegel.de/wissenschaft/ostsee-kalter-winter-koennte-kormoran-populationen-zum-verhaengnis-werden](https://www.spiegel.de/wissenschaft/ostsee-kalter-winter-koennte-kormoran-populationen-zum-verhaengnis-werden-a-88a198ba-595c-4396-9a24-47073a0b30b2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
 ### krieg
 
-* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-plant-den-enthauptungsschlag-a-e0d838d8-450a-4fbe-8a57-aa43c0e02edd#ref=rss)
-* [https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban](https://www.spiegel.de/ausland/kriegserklaerung-von-pakistan-das-sind-die-hintergruende-zum-konflikt-zwischen-pakistan-und-den-taliban-a-4098daa5-213b-4876-87a9-e33eb8edd2bf#ref=rss)
-### machtkämpfe
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/afd-skandal-machtkaempfe-und-vetternwirtschaft-belasten-die-partei](https://www.spiegel.de/politik/deutschland/afd-skandal-machtkaempfe-und-vetternwirtschaft-belasten-die-partei-a-f593987f-0867-4284-876b-1c07977282e3#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
-### iranische
-
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-### volk
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben](https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben-a-3385782c-295f-4e10-bfe8-c943e420b11a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+### heizen
 
-* [https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video](https://www.spiegel.de/ausland/usa-vs-iran-trumps-rede-zum-grossangriff-auf-iran-im-video-a-c3833f6d-283b-45f4-ad40-beae42ff86ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln-a-6c724de2-62da-4acc-a65d-d0e6a3aeac2a#ref=rss)
+### israel
+
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an-a-12929b18-2cf6-419e-93fe-54032f3a2fe5#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an-a-12929b18-2cf6-419e-93fe-54032f3a2fe5#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln-a-6c724de2-62da-4acc-a65d-d0e6a3aeac2a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-### inside
+### israels
 
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-### austria
-
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-### führen
-
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich](https://www.spiegel.de/ausland/podcast-inside-austria-epstein-files-diese-spuren-fuehren-nach-oesterreich-a-ee0b493f-dbbe-4ca7-9729-0b2e9bdecda4#ref=rss)
-### downsyndrom
-
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-### alles
-
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht](https://www.spiegel.de/familie/leben-mit-downsyndrom-weil-man-am-anfang-einer-geschichte-nicht-wissen-kann-wie-das-leben-weitergeht-a-f65bcbb6-0ae3-47f1-a545-edf2a8d9405c#ref=rss)
-* [https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad](https://www.spiegel.de/panorama/hier-berichten-daenen-wie-sie-groenland-beschuetzen-bei-minus-50-grad-a-fd2d09ad-69ac-40e9-987d-551f956c31d6#ref=rss)
-### offene
-
-* [https://www.spiegel.de/politik/stau-in-der-strafjustiz-eine-million-offene-verfahren](https://www.spiegel.de/politik/stau-in-der-strafjustiz-eine-million-offene-verfahren-a-130580f3-f06b-4b01-aa73-0ba0b38b2c8e#ref=rss)
-### schwäbischen
-
-* [https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten](https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten-a-37decb84-8a39-4fbb-b02f-cb0f5b7a2049#ref=rss)
-### alb
-
-* [https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten](https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten-a-37decb84-8a39-4fbb-b02f-cb0f5b7a2049#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten](https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten-a-37decb84-8a39-4fbb-b02f-cb0f5b7a2049#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm](https://www.spiegel.de/politik/deutschland/iran-usa-konflikt-friedrich-merz-verurteilt-iran-bleibt-zu-us-politik-stumm-a-3e3acf49-8807-40eb-8755-670ab1fe90fd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten](https://www.spiegel.de/ausland/steinzeitschrift-von-der-schwaebischen-alb-und-hilfe-fuer-tiere-nur-gute-nachrichten-a-37decb84-8a39-4fbb-b02f-cb0f5b7a2049#ref=rss)
-* [https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen](https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen-a-1029b975-c7e6-4fcc-8c2a-2586962239e8#ref=rss)
-### usverteidigungsministerium
+* [https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen](https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen-a-a66f33bf-441b-419b-b33e-1ad70bb17497#ref=rss)
+* [https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten](https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten-a-a83b1a19-10f3-47c3-bcc6-90235da2abd6#ref=rss)
+### verändert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung](https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung-a-561e3d0a-6554-4459-aee0-a1048264c779#ref=rss)
-* [https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden](https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden-a-cb258fde-3692-45a2-9af6-fa8f955db9c8#ref=rss)
-### kifirma
+* [https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen](https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen-a-a66f33bf-441b-419b-b33e-1ad70bb17497#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin-a-093e17a2-78cc-4279-a97c-e8ec79a2dd88#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung](https://www.spiegel.de/wirtschaft/unternehmen/openai-einigt-sich-mit-us-verteidigungsministerium-ueber-ki-nutzung-a-561e3d0a-6554-4459-aee0-a1048264c779#ref=rss)
-* [https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden](https://www.spiegel.de/ausland/anthropic-donald-trump-verbannt-ki-unternehmen-aus-us-behoerden-a-cb258fde-3692-45a2-9af6-fa8f955db9c8#ref=rss)
-### news
+* [https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen](https://www.spiegel.de/wissenschaft/natur/erholt-sich-die-population-singen-die-aelteren-wal-maennchen-a-a66f33bf-441b-419b-b33e-1ad70bb17497#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-unfall-warum-ein-e-auto-fahrer-ueber-20-000-euro-abschleppkosten-zahlen-sollte](https://www.spiegel.de/mobilitaet/auto/elektroauto-unfall-warum-ein-e-auto-fahrer-ueber-20-000-euro-abschleppkosten-zahlen-sollte-a-923a1048-a8b1-43a0-9b88-1c2457336dcc#ref=rss)
+### sicherheitskräfte
+
+* [https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion](https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion-a-7ccbf17d-410d-4fa5-b830-8b13584cdc65#ref=rss)
+### töten
+
+* [https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion](https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion-a-7ccbf17d-410d-4fa5-b830-8b13584cdc65#ref=rss)
+### chef
+
+* [https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion](https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion-a-7ccbf17d-410d-4fa5-b830-8b13584cdc65#ref=rss)
+### kartells
+
+* [https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion](https://www.spiegel.de/ausland/mexiko-sicherheitskraefte-toeten-chef-des-groessten-kartells-in-spektakulaerer-aktion-a-7ccbf17d-410d-4fa5-b830-8b13584cdc65#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet](https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet-a-8355eecd-eecf-4912-a7a4-65a76512e3c0#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen-a-8649e343-9e35-4cd6-aac1-a208291493a9#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet](https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet-a-8355eecd-eecf-4912-a7a4-65a76512e3c0#ref=rss)
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### oft
+
+* [https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet](https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet-a-8355eecd-eecf-4912-a7a4-65a76512e3c0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten](https://www.spiegel.de/wissenschaft/oranienburg-wie-ein-pflegeheim-es-schafft-gesundes-essen-anzubieten-a-a83b1a19-10f3-47c3-bcc6-90235da2abd6#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet](https://www.spiegel.de/familie/social-media-wie-schuetzen-und-staerken-wir-unsere-kinder-in-der-digitalen-pubertaet-a-8355eecd-eecf-4912-a7a4-65a76512e3c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an-a-12929b18-2cf6-419e-93fe-54032f3a2fe5#ref=rss)
+### heidenheim
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-gewinnt-nach-13-spielen-wieder-1-fc-heidenheim-vor-abstieg-a-3e2d399c-4058-420e-bf70-263b80924996#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen-a-8649e343-9e35-4cd6-aac1-a208291493a9#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch](https://www.spiegel.de/ausland/iran-das-regime-in-teheran-ist-moerderisch-donald-trumps-krieg-ist-trotzdem-falsch-a-b88ec8b5-2922-459a-85c0-da2ee32092e8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist](https://www.spiegel.de/ausland/iran-warum-dieser-krieg-gegen-das-voelkerrecht-verstoesst-und-auch-nach-us-recht-illegal-ist-a-0f6f7666-34d9-4627-a6fd-79740fd11096#ref=rss)
+### attackiert
 
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung](https://www.spiegel.de/politik/deutschland/news-nahverkehr-streiks-pakistan-afghanistan-konflikt-esc-entscheidung-a-ef33469c-186b-42d9-8f28-74cbc90db98f#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### angriff
 
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-### regierung
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+### vorab
 
 * [https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran](https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen](https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen-a-4ca68312-8a44-49f2-b35c-ed425d44c876#ref=rss)
-### spdfraktionschef
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+### junge
 
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen](https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen-a-4ca68312-8a44-49f2-b35c-ed425d44c876#ref=rss)
-### mieter
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben](https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben-a-3385782c-295f-4e10-bfe8-c943e420b11a#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin-a-093e17a2-78cc-4279-a97c-e8ec79a2dd88#ref=rss)
+### kaufen
 
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen](https://www.spiegel.de/politik/deutschland/matthias-miersch-spd-fraktionschef-will-mieter-vor-folgen-des-heizungsgesetzes-schuetzen-a-4ca68312-8a44-49f2-b35c-ed425d44c876#ref=rss)
-### bill
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben](https://www.spiegel.de/wirtschaft/soziales/immobilien-absurde-baukosten-hohe-mieten-warum-junge-menschen-kaum-eine-chance-haben-a-3385782c-295f-4e10-bfe8-c943e420b11a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme](https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme-a-20c8a8e6-cfbb-41a1-951a-0640955e7d96#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet](https://www.spiegel.de/ausland/bill-clintons-aussage-zu-jeffrey-epstein-was-der-ex-praesident-verraet-a-318b18cc-9764-47ff-844a-7f66eae49104#ref=rss)
-### veteranen
+* [https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job](https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job-a-e2e28b68-2168-4482-9f7c-a6a0725e4701#ref=rss)
+### asylbewerber
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-### einsätzen
+* [https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job](https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job-a-e2e28b68-2168-4482-9f7c-a6a0725e4701#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad](https://www.spiegel.de/ausland/groenland-veteranen-der-hundeschlitten-patrouille-berichten-von-einsaetzen-bei-minus-50-grad-a-258acee4-5914-42a4-ad28-61bf4db1e7bb#ref=rss)
-### bolivien
+* [https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job](https://www.spiegel.de/politik/deutschland/spd-konflikt-mit-union-ueber-bleiberecht-fuer-asylbewerber-mit-job-a-e2e28b68-2168-4482-9f7c-a6a0725e4701#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten](https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten-a-c1c80596-c27e-4911-a24b-d70c451223a2#ref=rss)
+### berkshire
 
-* [https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer](https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer-a-290f47ff-39e2-4c53-b6a6-44fcf4430457#ref=rss)
-### 15
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### hathaway
 
-* [https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer](https://www.spiegel.de/ausland/bolivien-mit-geldscheinen-beladenes-militaerflugzeug-kommt-von-landebahn-ab-15-todesopfer-a-290f47ff-39e2-4c53-b6a6-44fcf4430457#ref=rss)
-### vermittler
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### wertberichtigungen
 
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-### oman
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### letztes
 
-* [https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah](https://www.spiegel.de/ausland/donald-trump-unzufrieden-mit-iran-vermittler-oman-haelt-frieden-fuer-zum-greifen-nah-a-afa33068-77a9-41b4-9065-158305698522#ref=rss)
-### zahl
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### quartal
 
-* [https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen](https://www.spiegel.de/panorama/zahl-kleiner-waffenscheine-auf-mehr-als-900-000-gestiegen-a-1029b975-c7e6-4fcc-8c2a-2586962239e8#ref=rss)
-### 345
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### warren
 
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-### millionen
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### ceo
 
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-### dollar
+* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo](https://www.spiegel.de/wirtschaft/berkshire-hathaway-wertberichtigungen-belasten-letztes-quartal-von-warren-buffett-als-ceo-a-8c51041b-2f9a-45b1-92f2-13557e5a77fd#ref=rss)
+### tanken
 
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
-### zahlen
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+### gas
 
-* [https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen](https://www.spiegel.de/ausland/greenpeace-soll-us-pipelinebetreiber-345-millionen-dollar-zahlen-a-0418e5c2-207c-4bf1-aaf8-ad16723d8cde#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln-a-6c724de2-62da-4acc-a65d-d0e6a3aeac2a#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken](https://www.spiegel.de/wirtschaft/iran-so-bewegt-der-angriff-die-preise-fuer-heizen-und-tanken-a-bccce5d1-9190-423c-ae7a-69ef0ed0f301#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+### grafiken
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### gustav
+
+* [https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen](https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen-a-f9d84f35-b8d8-4e1c-ae53-9fa15374a06c#ref=rss)
+### schäfer
+
+* [https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen](https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen-a-f9d84f35-b8d8-4e1c-ae53-9fa15374a06c#ref=rss)
+### lange
+
+* [https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen](https://www.spiegel.de/panorama/lets-dance-tokio-hotel-drummer-gustav-schaefer-tanzt-um-abzunehmen-a-f9d84f35-b8d8-4e1c-ae53-9fa15374a06c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land](https://www.spiegel.de/ausland/iran-krieg-warum-muessen-wir-so-leiden-stimme-aus-dem-land-a-3ead5fa8-4d89-4026-8606-3b514e4bf221#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### emma
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an-a-12929b18-2cf6-419e-93fe-54032f3a2fe5#ref=rss)
+### aicher
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gewinnt-dritten-weltcup-sieg-und-strebt-kristallkugeln-an-a-12929b18-2cf6-419e-93fe-54032f3a2fe5#ref=rss)
 ### warner
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu-a-883e0274-c0e5-4aa8-bafb-c053e4d443f5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme](https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme-a-20c8a8e6-cfbb-41a1-951a-0640955e7d96#ref=rss)
 ### bros
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu-a-883e0274-c0e5-4aa8-bafb-c053e4d443f5#ref=rss)
-### paramount
+* [https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme](https://www.spiegel.de/kultur/kino/warner-bros-heftige-reaktionen-auf-paramount-uebernahme-a-20c8a8e6-cfbb-41a1-951a-0640955e7d96#ref=rss)
+### leica
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-stimmt-uebernahme-durch-paramount-zu-a-883e0274-c0e5-4aa8-bafb-c053e4d443f5#ref=rss)
-### ice
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+### xiaomi
 
-* [https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt](https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt-a-0d6394ed-a75b-4b9c-b061-956aedccf034#ref=rss)
-### gemacht
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+### jahrelang
 
-* [https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt](https://www.spiegel.de/ausland/usa-30-menschen-wegen-protest-gegen-ice-verklagt-a-0d6394ed-a75b-4b9c-b061-956aedccf034#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### el
+* [https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china](https://www.spiegel.de/netzwelt/gadgets/leica-leitzphone-und-xiaomi-17-ultra-das-neue-deutsche-vorzeige-smartphone-kommt-aus-china-a-8ded5f67-da58-41cd-870a-755c60b00c44#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/warum-wird-das-asthma-schlimmer-eine-raetselhafte-patientin-a-093e17a2-78cc-4279-a97c-e8ec79a2dd88#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### mencho
+* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-will-gasfoerderung-in-deutschland-ankurbeln-a-6c724de2-62da-4acc-a65d-d0e6a3aeac2a#ref=rss)
+### varoufakis
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### politikwissenschaftler
+* [https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten](https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten-a-c1c80596-c27e-4911-a24b-d70c451223a2#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### carlos
+* [https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten](https://www.spiegel.de/panorama/griechenland-yanis-varoufakis-muss-sich-wegen-drogen-vergangenheit-verantworten-a-c1c80596-c27e-4911-a24b-d70c451223a2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### landtagswahl
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### pérez
+* [https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr](https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr-a-5212e2f4-4e0d-41f4-9752-f20d5fbcfb68#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### ricart
+* [https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr](https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr-a-5212e2f4-4e0d-41f4-9752-f20d5fbcfb68#ref=rss)
+### frust
 
-* [https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen](https://www.spiegel.de/ausland/mexiko-tod-von-kartellboss-el-mencho-politikwissenschaftler-carlos-perez-ricart-ueber-die-folgen-a-604195a4-cded-4855-8f3e-448482b30a66#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr](https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr-a-5212e2f4-4e0d-41f4-9752-f20d5fbcfb68#ref=rss)
+### autoland
 
-* [https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen](https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen-a-09e87073-e003-4a28-baaa-9d6af70b7815#ref=rss)
-### lokale
+* [https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr](https://www.spiegel.de/panorama/gesellschaft/landtagswahl-baden-wuerttemberg-frust-im-autoland-politische-mitte-in-gefahr-a-5212e2f4-4e0d-41f4-9752-f20d5fbcfb68#ref=rss)
+### formel
 
-* [https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen](https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen-a-09e87073-e003-4a28-baaa-9d6af70b7815#ref=rss)
-### waffenruhe
+* [https://www.spiegel.de/sport/formel1/formel-1-kompromiss-statt-klarheit-im-streit-um-den-mercedes-motor](https://www.spiegel.de/sport/formel1/formel-1-kompromiss-statt-klarheit-im-streit-um-den-mercedes-motor-a-cc294491-c6ab-46fa-a448-171e22166abc#ref=rss)
+### benicio
 
-* [https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen](https://www.spiegel.de/ausland/ukraine-lokale-waffenruhe-soll-reparaturen-am-akw-saporischschja-ermoeglichen-a-09e87073-e003-4a28-baaa-9d6af70b7815#ref=rss)
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### del
+
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### toro
+
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### one
+
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### battle
+
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### after
+
+* [https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere](https://www.spiegel.de/kultur/kino/benicio-del-toro-so-ueberzeugte-der-one-battle-after-another-star-seine-eltern-von-der-filmkarriere-a-05f14efd-de6a-42fd-8d9f-961145bee176#ref=rss)
+### tel
+
+* [https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort](https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort-a-433225b6-e5a8-44ab-a9c0-8045474eb472#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort](https://www.spiegel.de/ausland/iran-startet-vergeltungsschlaege-raketenalarm-in-tel-aviv-korrespondent-ueber-lage-vor-ort-a-433225b6-e5a8-44ab-a9c0-8045474eb472#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat](https://www.spiegel.de/ausland/jeffrey-epstein-was-der-fall-mit-oesterreich-zu-tun-hat-a-cbf83340-0f3c-47a0-b0cb-ff8593bf52b8#ref=rss)
+### finale
+
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### contest
+
+* [https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-vorentscheid-so-funktioniert-das-deutsche-finale-vor-dem-eurovision-song-contest-a-c39c6bc1-46f7-4c12-9bb8-85bea2f4f27d#ref=rss)
+### ernährung
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-wie-viel-zucker-wir-als-kleinkinder-essen-koennte-uns-lebenslang-praegen-a-8649e343-9e35-4cd6-aac1-a208291493a9#ref=rss)
 
