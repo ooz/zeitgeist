@@ -6,316 +6,287 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
-* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik](https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik-a-aaa77343-c04c-4c36-9f4d-46781dd21bba#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
-* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
-### iran
-
-* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-### osbourne
-
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### ändern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
-### ki
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
-### druck
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung](https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung-a-d61fcd8e-ef9c-4713-bb70-8f55bddf37af#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung](https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung-a-d61fcd8e-ef9c-4713-bb70-8f55bddf37af#ref=rss)
-### oberbürgermeister
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
-### reiter
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
-### zucker
-
-* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
-### rezepte
-
-* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-### toter
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
-### babyklappe
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
-### katar
-
-* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
-### interview
-
-* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-### hagel
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-### treibhauseffekt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-### falsch
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
-### zeugin
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
-### belastet
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
-### usbundesstaaten
-
-* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
-### verdachtsfall
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
-### eingestuft
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden](https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden-a-9c556104-c9d4-414a-ab52-3a13fd85d500#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus-a-1efc1eb6-747d-434b-9f0a-c1dd7307d59e#ref=rss)
 ### irankrieg
 
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### wohl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik](https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik-a-aaa77343-c04c-4c36-9f4d-46781dd21bba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt](https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt-a-d9b635bf-ec90-4a4f-989c-16d8d3a3bc55#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden](https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden-a-9c556104-c9d4-414a-ab52-3a13fd85d500#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
-### kosovo
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik](https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik-a-aaa77343-c04c-4c36-9f4d-46781dd21bba#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
-### parlament
+* [https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist](https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist-a-a61c8355-be77-4d83-a386-55c6b47e5d83#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen](https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen-a-0615b52a-11bb-40cd-9fb8-b1dbccf21046#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
-### neuwahlen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt](https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt-a-d9b635bf-ec90-4a4f-989c-16d8d3a3bc55#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel](https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel-a-6380bea5-c39f-48d7-9192-1e9a5b000d45#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### kristi
 
-* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
-### fressen
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem](https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem-a-dc0feb7d-bc06-47cb-9b4f-90786996b302#ref=rss)
+### noem
 
-* [https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel](https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel-a-61d90fb4-e7a2-472c-82a8-49ad52bf7454#ref=rss)
-### flügel
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem](https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem-a-dc0feb7d-bc06-47cb-9b4f-90786996b302#ref=rss)
+### iranischen
 
-* [https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel](https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel-a-61d90fb4-e7a2-472c-82a8-49ad52bf7454#ref=rss)
-### ballack
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen](https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen-a-0615b52a-11bb-40cd-9fb8-b1dbccf21046#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-### gar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+* [https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren](https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren-a-ff0f0126-1bc2-42ad-9555-0003c277e8db#ref=rss)
+### manuel
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
-### emilio
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### hagel
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-### urlaub
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### vorgehen
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-* [https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer](https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer-a-1473114b-68d7-4f62-bf5f-c0313a5eecce#ref=rss)
-### darüber
+* [https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel](https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel-a-6380bea5-c39f-48d7-9192-1e9a5b000d45#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
-### gesprochen
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### usvideo
 
-* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### sprit
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+### zerstörung
 
-* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
-* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+### kampfdrohnenträgers
 
-* [https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer](https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer-a-1473114b-68d7-4f62-bf5f-c0313a5eecce#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### ungarn
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+### israelischen
 
-* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers](https://www.spiegel.de/ausland/iran-israel-konflikt-us-video-zeigt-zerstoerung-iranischen-kampfdrohnentraegers-a-56a96cff-d611-4296-877c-803f209e25ce#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden](https://www.spiegel.de/ausland/iran-krieg-netanyahus-triumph-koennte-israel-schwer-schaden-a-9c556104-c9d4-414a-ab52-3a13fd85d500#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
-### sieben
+* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-union-und-spd-streiten-ueber-gebaeudemodernisierungsgesetz](https://www.spiegel.de/politik/deutschland/heizungsgesetz-union-und-spd-streiten-ueber-gebaeudemodernisierungsgesetz-a-356a7d24-ec10-4cf6-8943-0efc2b1a8d6d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
-### grafiken
+* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-union-und-spd-streiten-ueber-gebaeudemodernisierungsgesetz](https://www.spiegel.de/politik/deutschland/heizungsgesetz-union-und-spd-streiten-ueber-gebaeudemodernisierungsgesetz-a-356a7d24-ec10-4cf6-8943-0efc2b1a8d6d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+### ramadan
 
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### karten
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-tariq-ramadan-pariser-justiz-erlaesst-haftbefehl](https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-tariq-ramadan-pariser-justiz-erlaesst-haftbefehl-a-527092da-491a-4b76-b2db-e1ca8940650d#ref=rss)
+### haftbefehl
 
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-tariq-ramadan-pariser-justiz-erlaesst-haftbefehl](https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-tariq-ramadan-pariser-justiz-erlaesst-haftbefehl-a-527092da-491a-4b76-b2db-e1ca8940650d#ref=rss)
+### morrissey
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
-### rekordumsatz
+* [https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche-a-b8fb8eab-07d0-4ea9-b4a2-e2932e21d496#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
-### hongkong
+* [https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche-a-b8fb8eab-07d0-4ea9-b4a2-e2932e21d496#ref=rss)
+* [https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck](https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck-a-f4e3b4a5-6de7-42c1-882a-99169e1c4fee#ref=rss)
+### album
 
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-### jimmy
+* [https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/help-2-morrissey-frau-kraushaar-abgehoert-album-der-woche-a-b8fb8eab-07d0-4ea9-b4a2-e2932e21d496#ref=rss)
+### tages
 
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-### lai
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-### berufung
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
 
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-### weltweit
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
-### ecuador
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### news
 
-* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
-### ozzy
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### jack
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-und-epstein-irankrieg-hagels-wahlkampf-in-baden-wuerttemberg-a-bf4a3c61-aa92-44b7-b634-4a758fe1ce62#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### the
 
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### letzten
+* [https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck](https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck-a-f4e3b4a5-6de7-42c1-882a-99169e1c4fee#ref=rss)
+### bride
 
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### stunden
+* [https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck](https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck-a-f4e3b4a5-6de7-42c1-882a-99169e1c4fee#ref=rss)
+### lebe
 
-* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
-### lionel
+* [https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck](https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck-a-f4e3b4a5-6de7-42c1-882a-99169e1c4fee#ref=rss)
+### braut
 
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
-### messi
+* [https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck](https://www.spiegel.de/kultur/kino/horrorfilm-the-bride-es-lebe-die-braut-mit-jessie-buckley-frank-im-glueck-a-f4e3b4a5-6de7-42c1-882a-99169e1c4fee#ref=rss)
+### trennt
 
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
-### restaurants
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+### einige
 
-* [https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter](https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter-a-c326f430-ea86-489f-a06d-cc211e7cfd29#ref=rss)
-### mehrwertsteuer
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus-a-1efc1eb6-747d-434b-9f0a-c1dd7307d59e#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter](https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter-a-c326f430-ea86-489f-a06d-cc211e7cfd29#ref=rss)
-### netflix
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland](https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland-a-c45cfad0-db19-4340-a5b4-eaa03249dd91#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
-### ben
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-von-kristi-noem-trennt-a-3c562bc6-9f14-4cfd-abda-4a541bfb23de#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
-### affleck
+* [https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem](https://www.spiegel.de/kultur/kimmel-fallon-und-colbert-late-night-hosts-feiern-trumps-rauswurf-von-heimatschutzministerin-kristi-noem-a-dc0feb7d-bc06-47cb-9b4f-90786996b302#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-und-der-verfassungsschutz-denkbar-dass-blosse-kritik-an-der-regierung-genuegte](https://www.spiegel.de/kultur/wolfram-weimer-und-der-verfassungsschutz-denkbar-dass-blosse-kritik-an-der-regierung-genuegte-a-108ef1b4-09d6-42a5-b463-2108c8e2303f#ref=rss)
+### energiepreise
 
-* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
-### unterstützen
+* [https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik](https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik-a-aaa77343-c04c-4c36-9f4d-46781dd21bba#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
-### diplomatischen
+* [https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik](https://www.spiegel.de/wirtschaft/donald-trump-steigende-energiepreise-durch-iran-krieg-und-zollpolitik-a-aaa77343-c04c-4c36-9f4d-46781dd21bba#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### aller
 
-* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
-### beziehungen
+* [https://www.spiegel.de/kultur/wolfram-weimer-und-der-verfassungsschutz-denkbar-dass-blosse-kritik-an-der-regierung-genuegte](https://www.spiegel.de/kultur/wolfram-weimer-und-der-verfassungsschutz-denkbar-dass-blosse-kritik-an-der-regierung-genuegte-a-108ef1b4-09d6-42a5-b463-2108c8e2303f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist](https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist-a-a61c8355-be77-4d83-a386-55c6b47e5d83#ref=rss)
+### 20
 
-* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
-### indonesien
+* [https://www.spiegel.de/mobilitaet/auto/byd-batterie-blade-2-0-fuer-elektroautos-verspricht-1000-kilometer-reichweite](https://www.spiegel.de/mobilitaet/auto/byd-batterie-blade-2-0-fuer-elektroautos-verspricht-1000-kilometer-reichweite-a-69bc37d8-f559-4950-85a1-315281354f35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/axel-springer-kauft-britischen-telegraph](https://www.spiegel.de/wirtschaft/axel-springer-kauft-britischen-telegraph-a-a8f7e721-13a7-4f38-9851-e46bc3c7bdec#ref=rss)
+### elektroautos
 
-* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/byd-batterie-blade-2-0-fuer-elektroautos-verspricht-1000-kilometer-reichweite](https://www.spiegel.de/mobilitaet/auto/byd-batterie-blade-2-0-fuer-elektroautos-verspricht-1000-kilometer-reichweite-a-69bc37d8-f559-4950-85a1-315281354f35#ref=rss)
+### golf
+
+* [https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist](https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist-a-a61c8355-be77-4d83-a386-55c6b47e5d83#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist](https://www.spiegel.de/ausland/iran-warum-die-strasse-von-hormus-fuer-den-energiemarkt-entscheidend-ist-a-a61c8355-be77-4d83-a386-55c6b47e5d83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt](https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bremse-wegen-iran-krieg-reiche-menschen-haetten-am-meisten-von-einem-tankrabatt-a-d9b635bf-ec90-4a4f-989c-16d8d3a3bc55#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-kuba-ziemlich-bald-fallen-sehen-a-fbe97c32-c479-46f4-8b98-ecba6ba2c8b9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel](https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel-a-6380bea5-c39f-48d7-9192-1e9a5b000d45#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden](https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden-a-73e1879c-e1d0-41b9-99bb-35700bf1e9fc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus-a-1efc1eb6-747d-434b-9f0a-c1dd7307d59e#ref=rss)
+### arten
+
+* [https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden](https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden-a-73e1879c-e1d0-41b9-99bb-35700bf1e9fc#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden](https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden-a-73e1879c-e1d0-41b9-99bb-35700bf1e9fc#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn](https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn-a-17e228e8-c0bd-40ef-95a2-a9cb0dfaf115#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden](https://www.spiegel.de/wissenschaft/natur/neuguinea-6000-jahre-galten-diese-beuteltiere-als-ausgestorben-jetzt-haben-forschende-sie-wiedergefunden-a-73e1879c-e1d0-41b9-99bb-35700bf1e9fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+### kfzkennzeichen
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel](https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel-a-6380bea5-c39f-48d7-9192-1e9a5b000d45#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel](https://www.spiegel.de/mobilitaet/auto/kfz-kennzeichen-bundesrat-fordert-mehr-spielraum-fuer-neue-kuerzel-a-6380bea5-c39f-48d7-9192-1e9a5b000d45#ref=rss)
+### reza
+
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+### pahlavi
+
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f](https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f-a-10cce678-8de3-441c-96fb-9e54494c2074#ref=rss)
+### zurückhaltend
+
+* [https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet](https://www.spiegel.de/politik/deutschland/iran-reza-pahlavi-wird-in-deutschland-zurueckhaltend-bewertet-a-5772b5de-419e-4f0d-86e4-27ae1caf849b#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland](https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland-a-c45cfad0-db19-4340-a5b4-eaa03249dd91#ref=rss)
+### lastwagen
+
+* [https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland](https://www.spiegel.de/netzwelt/9000-apple-produkte-von-lastwagen-gestohlen-grossrazzia-in-norddeutschland-a-c45cfad0-db19-4340-a5b4-eaa03249dd91#ref=rss)
+### paralympics
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f](https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f-a-10cce678-8de3-441c-96fb-9e54494c2074#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f](https://www.spiegel.de/sport/wintersport/paralympics-2026-das-sind-die-groessten-deutschen-medaillenhoffnungen-f-a-10cce678-8de3-441c-96fb-9e54494c2074#ref=rss)
+* [https://www.spiegel.de/wirtschaft/axel-springer-kauft-britischen-telegraph](https://www.spiegel.de/wirtschaft/axel-springer-kauft-britischen-telegraph-a-a8f7e721-13a7-4f38-9851-e46bc3c7bdec#ref=rss)
+### schweigen
+
+* [https://www.spiegel.de/panorama/missbrauch-an-der-odenwaldwaldschule-desinteresse-ist-der-totale-verrat-an-kindern](https://www.spiegel.de/panorama/missbrauch-an-der-odenwaldwaldschule-desinteresse-ist-der-totale-verrat-an-kindern-a-b76b7153-f382-4ad4-bcd8-357d4d170cd0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen](https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen-a-0615b52a-11bb-40cd-9fb8-b1dbccf21046#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn](https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn-a-17e228e8-c0bd-40ef-95a2-a9cb0dfaf115#ref=rss)
+### zoll
+
+* [https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn](https://www.spiegel.de/panorama/flughafen-leipzig-halle-zoll-stoppt-schmuggel-von-elefantenstosszahn-und-nashorn-horn-a-17e228e8-c0bd-40ef-95a2-a9cb0dfaf115#ref=rss)
+### fußballerinnen
+
+* [https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen](https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen-a-0615b52a-11bb-40cd-9fb8-b1dbccf21046#ref=rss)
+### heimat
+
+* [https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen](https://www.spiegel.de/sport/fussball/iran-spielergewerkschaft-warnt-vor-gefahren-fuer-schweigende-fussballerinnen-a-0615b52a-11bb-40cd-9fb8-b1dbccf21046#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-300-kriegsgefangene-aus-a-1efc1eb6-747d-434b-9f0a-c1dd7307d59e#ref=rss)
+### cem
+
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### özdemir
+
+* [https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt](https://www.spiegel.de/politik/landtagswahl-baden-wuerttemberg-cem-oezdemir-und-manuel-hagel-im-wahlkampf-endspurt-a-14708dc4-741d-4793-bfbd-2ca229a79e33#ref=rss)
+### distanziert
+
+* [https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an](https://www.spiegel.de/ausland/iran-krieg-news-am-freitag-etihad-airways-kuendigt-start-erster-linienfluege-in-abu-dhabi-an-a-c4100dd8-ed17-429a-8c0b-0cfb03e9a205#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren](https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren-a-ff0f0126-1bc2-42ad-9555-0003c277e8db#ref=rss)
+### angefahren
+
+* [https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren](https://www.spiegel.de/panorama/weil-der-stadt-fussgaengerin-wird-zweimal-vom-selben-auto-angefahren-a-ff0f0126-1bc2-42ad-9555-0003c277e8db#ref=rss)
+### polizeiruf
+
+* [https://www.spiegel.de/kultur/tv/polizeiruf-your-body-my-choice-aus-magdeburg-sein-wille-geschehe-ihr-koerper-gebaere](https://www.spiegel.de/kultur/tv/polizeiruf-your-body-my-choice-aus-magdeburg-sein-wille-geschehe-ihr-koerper-gebaere-a-e26f3b50-338b-40d6-aecc-174a3797443d#ref=rss)
 
