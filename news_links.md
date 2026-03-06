@@ -4,283 +4,318 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus-a-7fd81696-f014-4db3-ae44-bf24c75f6b6e#ref=rss)
-* [https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet](https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet-a-50323f07-15da-4d33-bb1d-d6b7db1653b7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt](https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt-a-7479c420-0955-4894-ab47-05174881b6df#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert](https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert-a-e7f33c35-e81b-42a8-8576-2013a3811657#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland](https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland-a-5a8259b0-85f5-4459-8f54-95f843ac7024#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-* [https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel](https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel-a-ed59fedd-ca3e-429e-a485-895aa34ea337#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet](https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet-a-0aeb5eab-01bc-4843-a113-6d8705d7b87d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### wölfe
-
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt](https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt-a-7479c420-0955-4894-ab47-05174881b6df#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert](https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert-a-e7f33c35-e81b-42a8-8576-2013a3811657#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus-a-7fd81696-f014-4db3-ae44-bf24c75f6b6e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied-a-6482e8e4-bbe7-47b2-8268-2d214a83f732#ref=rss)
-* [https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben](https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben-a-f661d8fa-fc6b-455d-a618-783e1a22db4a#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben](https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben-a-1b5442bc-151f-4639-83a3-25e771621690#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show](https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show-a-cd4745c2-0de4-409d-8c13-2ace31c4434e#ref=rss)
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet](https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet-a-0aeb5eab-01bc-4843-a113-6d8705d7b87d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-### khamenei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle](https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle-a-ba2a28f4-6036-402c-b7c8-a38f9f19b5ca#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### namensverbot
-
-* [https://www.spiegel.de/wirtschaft/service/veggie-burger-namensverbot-in-der-eu-vorerst-gescheitert](https://www.spiegel.de/wirtschaft/service/veggie-burger-namensverbot-in-der-eu-vorerst-gescheitert-a-a6590230-2638-4fc6-966a-dec6cf9c6ced#ref=rss)
-### rosneft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus-a-7fd81696-f014-4db3-ae44-bf24c75f6b6e#ref=rss)
-### trumpregierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-usa-nehmen-unternehmen-dauerhaft-von-oelsanktionen-aus-a-7fd81696-f014-4db3-ae44-bf24c75f6b6e#ref=rss)
-* [https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel](https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel-a-ed59fedd-ca3e-429e-a485-895aa34ea337#ref=rss)
-### teil
-
-* [https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet](https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet-a-0aeb5eab-01bc-4843-a113-6d8705d7b87d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland](https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland-a-5a8259b0-85f5-4459-8f54-95f843ac7024#ref=rss)
-### lehnt
-
-* [https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet](https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet-a-0aeb5eab-01bc-4843-a113-6d8705d7b87d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### chrupalla
-
-* [https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet](https://www.spiegel.de/politik/afd-wie-der-iran-krieg-die-partei-spaltet-a-0aeb5eab-01bc-4843-a113-6d8705d7b87d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-### sat1
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-### beitrag
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-* [https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel](https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel-a-ed59fedd-ca3e-429e-a485-895aa34ea337#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a10-oberhavel-zeugen-schildern-raser-unfall-im-august-2022](https://www.spiegel.de/panorama/justiz/a10-oberhavel-zeugen-schildern-raser-unfall-im-august-2022-a-b52009eb-c457-4a61-90dc-6d14610ed32a#ref=rss)
-### inszeniert
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-* [https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel](https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel-a-ed59fedd-ca3e-429e-a485-895aa34ea337#ref=rss)
-### medien
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten](https://www.spiegel.de/kultur/paul-ronzheimer-sat-1-veraendert-beitrag-wegen-falschaussagen-eines-protagonisten-a-ccf5e4f8-d03f-4bc8-8878-1ec109cec7fa#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-### frankfurter
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied-a-6482e8e4-bbe7-47b2-8268-2d214a83f732#ref=rss)
-### buchmesse
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied-a-6482e8e4-bbe7-47b2-8268-2d214a83f732#ref=rss)
-### juergen
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied-a-6482e8e4-bbe7-47b2-8268-2d214a83f732#ref=rss)
-### boos
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-juergen-boos-ueber-nobelpreistraeger-und-abschied-a-6482e8e4-bbe7-47b2-8268-2d214a83f732#ref=rss)
-### sonnencreme
-
-* [https://www.spiegel.de/wissenschaft/medizin/hautkrebs-risiko-sonnencreme-schon-im-maerz-noetig](https://www.spiegel.de/wissenschaft/medizin/hautkrebs-risiko-sonnencreme-schon-im-maerz-noetig-a-1394d3f6-ec19-40f5-9d7a-03ac15f59008#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/medizin/hautkrebs-risiko-sonnencreme-schon-im-maerz-noetig](https://www.spiegel.de/wissenschaft/medizin/hautkrebs-risiko-sonnencreme-schon-im-maerz-noetig-a-1394d3f6-ec19-40f5-9d7a-03ac15f59008#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert](https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert-a-e7f33c35-e81b-42a8-8576-2013a3811657#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet](https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet-a-50323f07-15da-4d33-bb1d-d6b7db1653b7#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### gefährdet
-
-* [https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet](https://www.spiegel.de/panorama/neue-studie-wie-antifeminismus-die-demokratie-gefaehrdet-a-50323f07-15da-4d33-bb1d-d6b7db1653b7#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende](https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende-a-174c1d83-9c86-48ac-affe-2123f4f53c04#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt](https://www.spiegel.de/wissenschaft/natur/woelfe-feuer-frei-das-wird-bei-der-jagd-auf-woelfe-erlaubt-a-7479c420-0955-4894-ab47-05174881b6df#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert](https://www.spiegel.de/wissenschaft/deutschland-woelfe-zur-jagdbaren-tierart-erklaert-a-e7f33c35-e81b-42a8-8576-2013a3811657#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### ajatollah
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis](https://www.spiegel.de/politik/deutschland/news-des-tages-mojtaba-khamenei-in-iran-rumoren-in-der-afd-h-m-betriebsraete-in-bedraengnis-a-b4a74261-4c7f-4055-8431-d3066b518b2d#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden](https://www.spiegel.de/ausland/iran-krieg-news-am-donnerstag-us-regierung-dementiert-berichte-ueber-bewaffnung-von-kurden-a-b98f0031-5a12-4629-a641-e0e3761e0375#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an](https://www.spiegel.de/ausland/iran-krieg-wolodymyr-selenskyj-fuerchtet-waffenknappheit-und-bietet-fuer-nahost-hilfe-an-a-c2e21b6c-3aae-4e44-a41c-165918ee1901#ref=rss)
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-### volkskongress
-
-* [https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show](https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show-a-cd4745c2-0de4-409d-8c13-2ace31c4434e#ref=rss)
-### einblick
-
-* [https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show](https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show-a-cd4745c2-0de4-409d-8c13-2ace31c4434e#ref=rss)
-### machtzentrale
-
-* [https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show](https://www.spiegel.de/ausland/nationaler-volkskongress-in-china-einblick-in-chinas-machtzentrale-eine-grosse-show-a-cd4745c2-0de4-409d-8c13-2ace31c4434e#ref=rss)
-### spritpreise
-
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle](https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle-a-ba2a28f4-6036-402c-b7c8-a38f9f19b5ca#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### tankstelle
-
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle](https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle-a-ba2a28f4-6036-402c-b7c8-a38f9f19b5ca#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle](https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle-a-ba2a28f4-6036-402c-b7c8-a38f9f19b5ca#ref=rss)
-* [https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen](https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen-a-bdcd9745-566b-47d5-91ad-aa5ec2d019e4#ref=rss)
-### pro
-
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle](https://www.spiegel.de/mobilitaet/auto/spritpreise-so-machtlos-sind-sie-an-der-tankstelle-a-ba2a28f4-6036-402c-b7c8-a38f9f19b5ca#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a10-oberhavel-zeugen-schildern-raser-unfall-im-august-2022](https://www.spiegel.de/panorama/justiz/a10-oberhavel-zeugen-schildern-raser-unfall-im-august-2022-a-b52009eb-c457-4a61-90dc-6d14610ed32a#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff](https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff-a-f405e5f9-fb51-446b-b27b-751dfe7001ae#ref=rss)
-### groß
-
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben](https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben-a-f661d8fa-fc6b-455d-a618-783e1a22db4a#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses](https://www.spiegel.de/ausland/china-historisches-eingestaendnis-zur-eroeffnung-des-nationalen-volkskongresses-a-93f5817c-8e64-4b29-9aac-8f1e063d30a6#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte](https://www.spiegel.de/ausland/krieg-gegen-iran-israel-und-usa-bombardieren-unterirdische-raketenstaedte-a-512befae-ff83-4488-aaff-a9278b94550a#ref=rss)
-### janosch
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben](https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben-a-f661d8fa-fc6b-455d-a618-783e1a22db4a#ref=rss)
-### 95
+* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben](https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben-a-f661d8fa-fc6b-455d-a618-783e1a22db4a#ref=rss)
-### alt
+* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben](https://www.spiegel.de/panorama/leute/janosch-wird-95-und-moechte-seine-ruhe-haben-a-f661d8fa-fc6b-455d-a618-783e1a22db4a#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben](https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben-a-1b5442bc-151f-4639-83a3-25e771621690#ref=rss)
-### wolfram
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff](https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff-a-f405e5f9-fb51-446b-b27b-751dfe7001ae#ref=rss)
-### weimer
+* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff](https://www.spiegel.de/kultur/literatur/wolfram-weimer-sanktionierte-buchlaeden-klagen-eingriff-a-f405e5f9-fb51-446b-b27b-751dfe7001ae#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-osnabrueck-vw-erwaegt-produktion-von-militaerfahrzeugen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-osnabrueck-vw-erwaegt-produktion-von-militaerfahrzeugen-a-492b3ec2-00fd-473d-82f8-7fcf9508dd4a#ref=rss)
-### osnabrück
+* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-osnabrueck-vw-erwaegt-produktion-von-militaerfahrzeugen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-osnabrueck-vw-erwaegt-produktion-von-militaerfahrzeugen-a-492b3ec2-00fd-473d-82f8-7fcf9508dd4a#ref=rss)
-### haus
+* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
+### iran
 
-* [https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel](https://www.spiegel.de/netzwelt/iran-das-weisse-haus-inszeniert-kriegsszenen-als-computerspiel-a-ed59fedd-ca3e-429e-a485-895aa34ea337#ref=rss)
-* [https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen](https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen-a-bdcd9745-566b-47d5-91ad-aa5ec2d019e4#ref=rss)
-### britney
+* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-### spears
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+### osbourne
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### ändern
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen](https://www.spiegel.de/panorama/leute/britney-spears-saengerin-in-kalifornien-festgenommen-a-3078eacc-fbc0-454d-b172-4db5833b5cba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland](https://www.spiegel.de/politik/deutschland/wehrpflicht-wehrdienst-tausende-schueler-demonstrieren-in-deutschland-a-5a8259b0-85f5-4459-8f54-95f843ac7024#ref=rss)
-### verteidigungswelle
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
+### ki
 
-* [https://www.spiegel.de/panorama/justiz/letzte-verteidigungswelle-prozessauftakt-gegen-rechtsextreme-gruppe](https://www.spiegel.de/panorama/justiz/letzte-verteidigungswelle-prozessauftakt-gegen-rechtsextreme-gruppe-a-cfbdd6da-d162-4807-b289-b875806daf4f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
+### druck
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung](https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung-a-d61fcd8e-ef9c-4713-bb70-8f55bddf37af#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert](https://www.spiegel.de/wirtschaft/unternehmen/sap-im-umbruch-wie-der-ki-hype-den-deutschen-it-konzern-herausfordert-a-7a5c6fe8-980f-462e-9e30-88fecc3397fb#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung](https://www.spiegel.de/wirtschaft/wirtschaftsverbaende-verstaerken-druck-auf-die-bundesregierung-a-d61fcd8e-ef9c-4713-bb70-8f55bddf37af#ref=rss)
+### oberbürgermeister
+
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
+### reiter
+
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat](https://www.spiegel.de/panorama/gesellschaft/muenchen-oberbuergermeister-dieter-reiter-verwendet-n-wort-im-stadtrat-a-8e84ad0e-d053-4c4d-a9bb-611d003914c2#ref=rss)
+### zucker
+
+* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
+### rezepte
+
+* [https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte](https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler](https://www.spiegel.de/panorama/bremen-mit-dem-taxi-nach-hause-betrunkene-entscheiden-sich-fuer-gabelstapler-a-31952ea1-36e0-480e-99ec-0c8b483d5ad6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+### toter
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
+### babyklappe
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden](https://www.spiegel.de/panorama/justiz/leipzig-toter-saeugling-in-babyklappe-gefunden-a-47614882-b2ae-417b-8895-51f2f8b39d9f#ref=rss)
+### katar
+
+* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
+### interview
+
+* [https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng](https://www.spiegel.de/wirtschaft/katar-warnt-vor-lang-anhaltenden-lieferunterbrechungen-bei-lng-a-eb1d6177-e344-49b2-88d2-2a3b9bf4271c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+### hagel
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+### treibhauseffekt
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+### falsch
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund](https://www.spiegel.de/politik/deutschland/cdu-spitzenkandidat-in-baden-wuerttemberg-manuel-hagel-erklaert-den-treibhauseffekt-falsch-und-faehrt-lehrerin-ueber-den-mund-a-4774db47-339e-4450-b70d-b7906f42a73f#ref=rss)
+### zeugin
+
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
+### belastet
+
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-zeugin-belastet-donald-trump-in-neu-veroeffentlichten-fbi-protokollen-a-8b87bbac-4abd-4a45-a6e9-f842e0ae2f15#ref=rss)
+### usbundesstaaten
+
+* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen](https://www.spiegel.de/wirtschaft/us-bundesstaaten-wollen-auch-neue-trump-zoelle-stoppen-a-5f743ff2-5784-47ec-aafe-b723eb78eabd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
+### verdachtsfall
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
+### eingestuft
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-jugend-in-nrw-als-rechtsextremistischer-verdachtsfall-eingestuft-a-fad05d38-926a-4347-8299-45522db73426#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran](https://www.spiegel.de/ausland/iran-krieg-kurden-als-neue-front-gegen-teheran-a-1f1ec401-3d09-4da4-b938-3a0e5070809e#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/kosovo-praesidentin-loest-parlament-auf-und-kuendigt-neuwahlen-an-a-8624bb4b-2401-433e-99bc-67694d2714d9#ref=rss)
+### fressen
+
+* [https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel](https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel-a-61d90fb4-e7a2-472c-82a8-49ad52bf7454#ref=rss)
+### flügel
+
+* [https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel](https://www.spiegel.de/wissenschaft/liebesleben-bei-insekten-wenn-schaben-sich-moegen-fressen-sie-ihre-fluegel-a-61d90fb4-e7a2-472c-82a8-49ad52bf7454#ref=rss)
+### ballack
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+### gar
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
+### emilio
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer](https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer-a-1473114b-68d7-4f62-bf5f-c0313a5eecce#ref=rss)
+### darüber
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
+### gesprochen
+
+* [https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen](https://www.spiegel.de/panorama/leute/michael-ballack-kann-wenig-bis-gar-nicht-ueber-seinen-toten-sohn-emilio-sprechen-a-350a6ada-fc1f-4b02-9c15-0aebb6fdd006#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### sprit
+
+* [https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock](https://www.spiegel.de/wirtschaft/hohe-preise-fuer-benzin-und-diesel-tankstellenpaechter-wehren-sich-gegen-rolle-als-suendenbock-a-befeabd3-25ab-4430-8072-b1012e84e30e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-illusion-vom-superplus-fuersorgestaat-kommentar-a-03659dbe-c46b-4aee-84d4-f17c98910e87#ref=rss)
+* [https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet](https://www.spiegel.de/ausland/iran-was-der-krieg-fuer-die-donald-trump-praesidentschaft-bedeutet-a-3fb8ac69-9562-4b25-816d-07dc3d1e2c9b#ref=rss)
+### wir
+
+* [https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer](https://www.spiegel.de/reise/urlaub-nachhaltigkeit-bei-airbnb-und-ungewoehnliche-hotelzimmer-a-1473114b-68d7-4f62-bf5f-c0313a5eecce#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor](https://www.spiegel.de/ausland/budapest-ukraine-wirft-ungarn-geiselnahme-von-bankmitarbeitern-und-diebstahl-vor-a-a63e305b-ec04-4ae2-901a-30e59433cfc2#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
 ### grafiken
 
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
 ### karten
 
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### jungen
+### lufthansa
 
-* [https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben](https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben-a-1b5442bc-151f-4639-83a3-25e771621690#ref=rss)
-### missbraucht
+* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
+### rekordumsatz
 
-* [https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben](https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben-a-1b5442bc-151f-4639-83a3-25e771621690#ref=rss)
-### wäre
+* [https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab](https://www.spiegel.de/wirtschaft/lufthansa-liefert-2025-rekordumsatz-ab-a-3d06bc29-683e-49d0-9622-27197909a7ff#ref=rss)
+### hongkong
 
-* [https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben](https://www.spiegel.de/panorama/bayern-jugendhilfe-mitarbeiter-soll-jungen-missbraucht-haben-a-1b5442bc-151f-4639-83a3-25e771621690#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen](https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen-a-6315eabc-fef7-41cb-a3d7-1f00d9b0bd97#ref=rss)
-### wetter
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+### jimmy
 
-* [https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen](https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen-a-6315eabc-fef7-41cb-a3d7-1f00d9b0bd97#ref=rss)
-### saharastaub
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+### lai
 
-* [https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen](https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen-a-6315eabc-fef7-41cb-a3d7-1f00d9b0bd97#ref=rss)
-### kommenden
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+### berufung
 
-* [https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen](https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen-a-6315eabc-fef7-41cb-a3d7-1f00d9b0bd97#ref=rss)
-### tagen
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen](https://www.spiegel.de/wissenschaft/natur/saharastaub-truebt-sonniges-wetter-in-den-kommenden-tagen-a-6315eabc-fef7-41cb-a3d7-1f00d9b0bd97#ref=rss)
-### andrew
+* [https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein](https://www.spiegel.de/ausland/hongkong-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-a-978689e9-8951-4019-a7db-5f640ead4d88#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
+### ecuador
 
-* [https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen](https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen-a-bdcd9745-566b-47d5-91ad-aa5ec2d019e4#ref=rss)
-### mountbattenwindsor
+* [https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador](https://www.spiegel.de/ausland/kolumbien-und-usa-zerstoeren-kokainlabore-nahe-ecuador-a-4d3d7905-c97c-4e96-b0be-987ee11835b8#ref=rss)
+### ozzy
 
-* [https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen](https://www.spiegel.de/panorama/andrew-mountbatten-windsor-ex-royal-muss-weiteren-pachtvertrag-kuendigen-a-bdcd9745-566b-47d5-91ad-aa5ec2d019e4#ref=rss)
-### aston
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### jack
 
-* [https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende](https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende-a-174c1d83-9c86-48ac-affe-2123f4f53c04#ref=rss)
-### martin
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende](https://www.spiegel.de/sport/formel1/formel-1-2026-aston-martin-erwartet-debakel-beim-auftakt-in-melbourne-das-sind-die-gruende-a-174c1d83-9c86-48ac-affe-2123f4f53c04#ref=rss)
-### malaysia
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt](https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt-a-2e2753ec-dec5-4650-bf61-53dcfafb6bf0#ref=rss)
-### sieben
+* [https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung](https://www.spiegel.de/panorama/leute/ozzy-osbourne-jack-osbourne-bezeichnet-tod-seines-vaters-als-ueberraschung-a-3bb60643-6965-4cbd-bf06-c810012f764a#ref=rss)
+### lionel
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt](https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt-a-2e2753ec-dec5-4650-bf61-53dcfafb6bf0#ref=rss)
-### gesperrt
+* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
+### messi
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt](https://www.spiegel.de/sport/fussball/fussball-in-malaysia-einbuergerungsskandal-sieben-nationalspieler-wegen-gefaelschter-dokumente-gesperrt-a-2e2753ec-dec5-4650-bf61-53dcfafb6bf0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus](https://www.spiegel.de/sport/fussball/donald-trump-und-lionel-messi-eine-kuriose-ehrung-im-weissen-haus-a-caaf7fad-3cb4-49cc-8ea9-8433cda35ab8#ref=rss)
+### restaurants
+
+* [https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter](https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter-a-c326f430-ea86-489f-a06d-cc211e7cfd29#ref=rss)
+### mehrwertsteuer
+
+* [https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter](https://www.spiegel.de/wirtschaft/restaurants-gaben-reduzierte-mehrwertsteuer-kaum-weiter-a-c326f430-ea86-489f-a06d-cc211e7cfd29#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
+### ben
+
+* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
+### affleck
+
+* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
+### unterstützen
+
+* [https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck](https://www.spiegel.de/wirtschaft/netflix-kauft-ki-firma-von-ben-affleck-a-7fce0d26-72b4-4e2c-85fb-94e58492c6a1#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
+### diplomatischen
+
+* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
+### beziehungen
+
+* [https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen](https://www.spiegel.de/ausland/usa-und-venezuela-planen-wiederaufnahme-der-diplomatischen-beziehungen-a-39b27b21-7a51-4fd6-8a2b-6c981f805890#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump](https://www.spiegel.de/ausland/gaza-indonesien-droht-mit-rueckzug-aus-friedensrat-von-donald-trump-a-3ba052ec-c450-45f0-9003-0beecab90c84#ref=rss)
 
