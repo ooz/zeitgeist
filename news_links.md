@@ -6,355 +6,294 @@ tags: __no_header__
 
 ### badenwürttemberg
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
-### wahl
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag-a-3fced1f1-5a7f-42d8-87ec-4987516d2154#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+* [https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann](https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann-a-37ec2988-54e2-4547-a195-b6bd32c47283#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen-a-705a70a4-897b-4656-ae37-3cf7e1cbc1d5#ref=rss)
+### cem
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen](https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen-a-ee63dc9d-cf01-410c-ad5d-c7732f71a040#ref=rss)
-* [https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert](https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert-a-080a5b5b-b769-4216-9ee4-a1d8540f06b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-### cdu
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+* [https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann](https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann-a-37ec2988-54e2-4547-a195-b6bd32c47283#ref=rss)
+### özdemir
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### hochrechnungen
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+* [https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann](https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann-a-37ec2988-54e2-4547-a195-b6bd32c47283#ref=rss)
+### australien
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv](https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv-a-a83e065d-ae30-407b-944c-256596ae3c28#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv](https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv-a-a83e065d-ae30-407b-944c-256596ae3c28#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon](https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon-a-f33ee5d1-b36a-4dc0-ae0b-839f5599322d#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin](https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin-a-fb46dd3f-b764-4863-a6a8-c33bb52e9c1a#ref=rss)
-* [https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon](https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon-a-f33ee5d1-b36a-4dc0-ae0b-839f5599322d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv](https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv-a-a83e065d-ae30-407b-944c-256596ae3c28#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie](https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie-a-f326d36c-b07b-423f-b91d-829a27c98564#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-* [https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte](https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte-a-1c614dab-098e-42ac-a7b3-98a55da22ed3#ref=rss)
-### union
-
-* [https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie](https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie-a-f326d36c-b07b-423f-b91d-829a27c98564#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion](https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion-a-afca248e-e595-4bca-8d74-489481bc4198#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion](https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion-a-afca248e-e595-4bca-8d74-489481bc4198#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### stadion
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund](https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund-a-39e44b30-0eb4-4dbb-ad96-2c57b038a994#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion](https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion-a-afca248e-e595-4bca-8d74-489481bc4198#ref=rss)
-### corey
-
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### parker
-
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft](https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft-a-c9d91100-7065-4d77-aec6-54aeb8bfa4f3#ref=rss)
-### eugenie
-
-* [https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft](https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft-a-c9d91100-7065-4d77-aec6-54aeb8bfa4f3#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft](https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft-a-c9d91100-7065-4d77-aec6-54aeb8bfa4f3#ref=rss)
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft](https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft-a-c9d91100-7065-4d77-aec6-54aeb8bfa4f3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft](https://www.spiegel.de/kultur/tochter-von-andrew-mountbatten-windsor-prinzessin-eugenie-verliert-wichtige-schirmherrschaft-a-c9d91100-7065-4d77-aec6-54aeb8bfa4f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landtagswahl-hohe-wahlbeteiligung-zeichnet-sich-ab-a-72333487-9beb-4eae-9cd6-9608147b8331#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-### landtagswahl
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-### chancen
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-laut-ersten-hochrechnungen-vor-cdu-fdp-fliegt-wohl-aus-landtag-a-ae3f52b6-1c40-4a2a-81e2-e9dcee3efdf3#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten](https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten-a-e153646c-6fd2-4489-a0c6-708379ff5703#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-cfb463f5-3a24-4aff-8367-3c227ab60a64#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-### paralympics
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin](https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin-a-fb46dd3f-b764-4863-a6a8-c33bb52e9c1a#ref=rss)
-* [https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon](https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon-a-f33ee5d1-b36a-4dc0-ae0b-839f5599322d#ref=rss)
-### kathrin
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin](https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin-a-fb46dd3f-b764-4863-a6a8-c33bb52e9c1a#ref=rss)
-### schlaganfall
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin](https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin-a-fb46dd3f-b764-4863-a6a8-c33bb52e9c1a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin](https://www.spiegel.de/sport/olympia/paralympics-2026-kathrin-marchands-weg-vom-schlaganfall-zur-langlaeuferin-a-fb46dd3f-b764-4863-a6a8-c33bb52e9c1a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv](https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv-a-a83e065d-ae30-407b-944c-256596ae3c28#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten](https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten-a-e153646c-6fd2-4489-a0c6-708379ff5703#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv](https://www.spiegel.de/ausland/iran-news-am-sonntag-israel-attackiert-oellager-in-teheran-iran-feuert-raketen-auf-tel-aviv-a-a83e065d-ae30-407b-944c-256596ae3c28#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### politik
-
-* [https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen](https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen-a-ee63dc9d-cf01-410c-ad5d-c7732f71a040#ref=rss)
-### intrigen
-
-* [https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen](https://www.spiegel.de/tests/brettspiele/politik-als-brettspiel-zehn-spiele-rund-um-wahl-koalition-und-intrigen-a-ee63dc9d-cf01-410c-ad5d-c7732f71a040#ref=rss)
-### 60
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### zahlreiche
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### alter
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot](https://www.spiegel.de/kultur/tv/will-grace-darsteller-corey-parker-ist-tot-a-b24c51e1-dba7-4a67-a78b-f0f4dc5d1db1#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger](https://www.spiegel.de/wissenschaft/mensch/studie-der-yale-university-wer-positiver-aufs-altern-blickt-lebt-laenger-a-46570468-4bd7-45e6-8f6f-5eaf36d86aa3#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-### dieter
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### hecking
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-stellt-trainer-daniel-bauer-frei-a-8f309b5c-c0d0-4af2-adce-8ac4d348a268#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker](https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker-a-4c76544c-a155-4911-a196-c52836feeeb6#ref=rss)
-### strausberg
-
-* [https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert](https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert-a-080a5b5b-b769-4216-9ee4-a1d8540f06b1#ref=rss)
-### annulliert
-
-* [https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert](https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert-a-080a5b5b-b769-4216-9ee4-a1d8540f06b1#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert](https://www.spiegel.de/politik/strausberg-wahlbriefe-beim-kandidaten-buergermeisterwahl-annulliert-a-080a5b5b-b769-4216-9ee4-a1d8540f06b1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte](https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte-a-1c614dab-098e-42ac-a7b3-98a55da22ed3#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/babynamen-der-name-fuer-ihren-sohn-stand-im-spiegel-impressum](https://www.spiegel.de/panorama/babynamen-der-name-fuer-ihren-sohn-stand-im-spiegel-impressum-a-2ff1c5ef-79cd-4874-abe6-21e6059078e3#ref=rss)
-### gabriel
-
-* [https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie](https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie-a-f326d36c-b07b-423f-b91d-829a27c98564#ref=rss)
-### felbermayr
-
-* [https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie](https://www.spiegel.de/wirtschaft/soziales/neuer-wirtschaftsweiser-gabriel-felbermayr-ich-habe-keine-zeit-fuer-gruppentherapie-a-f326d36c-b07b-423f-b91d-829a27c98564#ref=rss)
+* [https://www.spiegel.de/panorama/australien-krokodil-alarm-nach-ueberschwemmungen-im-northern-territory](https://www.spiegel.de/panorama/australien-krokodil-alarm-nach-ueberschwemmungen-im-northern-territory-a-bc68e4d7-e2a2-42ae-b122-9fff17c99248#ref=rss)
+* [https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz](https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz-a-2bd9d215-3faf-4b93-9997-df5bda0936ab#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-### thema
-
-* [https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte](https://www.spiegel.de/panorama/gesellschaft/weltfrauentag-tausende-demonstrieren-in-berlin-fuer-frauenrechte-a-4f8f6d86-1339-4d9f-baf8-0f7cdee65685#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten](https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten-a-e153646c-6fd2-4489-a0c6-708379ff5703#ref=rss)
-### öllager
-
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-### standen
-
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-### luft
-
-* [https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran](https://www.spiegel.de/ausland/iran-israel-und-usa-setzen-oellager-in-brand-schwarzer-regen-ueber-teheran-a-5a22b500-5fb8-4f43-9787-d2c8a1b4bfe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund](https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund-a-39e44b30-0eb4-4dbb-ad96-2c57b038a994#ref=rss)
-### finden
-
-* [https://www.spiegel.de/wissenschaft/natur/verhaltensbiologie-affen-handeln-mit-diebesgut-und-elefanten-unterscheiden-sprachen](https://www.spiegel.de/wissenschaft/natur/verhaltensbiologie-affen-handeln-mit-diebesgut-und-elefanten-unterscheiden-sprachen-a-0b089cc6-abc9-431f-a43c-ecf2179843ba#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-### liebe
-
-* [https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist](https://www.spiegel.de/partnerschaft/liebe-wann-eine-beziehungspause-sinnvoll-ist-a-44a6e056-c1a8-4438-96bf-f14a0b94b473#ref=rss)
-### preußen
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker](https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker-a-4c76544c-a155-4911-a196-c52836feeeb6#ref=rss)
-### münsterfan
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker](https://www.spiegel.de/sport/fussball/2-bundesliga-preussen-muenster-fan-zieht-var-monitor-den-stecker-a-4c76544c-a155-4911-a196-c52836feeeb6#ref=rss)
-### würzburg
-
-* [https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab](https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab-a-4c0096ba-302e-4cda-a8cd-33dc596f331b#ref=rss)
-### bischof
-
-* [https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab](https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab-a-4c0096ba-302e-4cda-a8cd-33dc596f331b#ref=rss)
-### hofmann
-
-* [https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab](https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab-a-4c0096ba-302e-4cda-a8cd-33dc596f331b#ref=rss)
-### abgegeben
-
-* [https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab](https://www.spiegel.de/panorama/gesellschaft/bistum-wuerzburg-emeritierter-bischof-hofmann-gibt-ehrentitel-nach-missbrauchsfall-ab-a-4c0096ba-302e-4cda-a8cd-33dc596f331b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
+* [https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar](https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar-a-42c148f0-b1e5-4e7a-9b22-df82424a49ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon](https://www.spiegel.de/sport/paralympics-2026-medaillenregen-fuer-deutschland-im-biathlon-a-f33ee5d1-b36a-4dc0-ae0b-839f5599322d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-### katie
+* [https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar](https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar-a-42c148f0-b1e5-4e7a-9b22-df82424a49ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-verzeichnet-drastischen-rueckgang-an-auftraegen](https://www.spiegel.de/wirtschaft/industrie-verzeichnet-drastischen-rueckgang-an-auftraegen-a-eec66dbb-bad9-439e-8b60-74115697293f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte](https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte-a-1c614dab-098e-42ac-a7b3-98a55da22ed3#ref=rss)
-### leung
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+* [https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann](https://www.spiegel.de/politik/die-gruenen-cem-oezdemir-seine-krawatte-trug-schon-winfried-kretschmann-a-37ec2988-54e2-4547-a195-b6bd32c47283#ref=rss)
+### hinter
 
-* [https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte](https://www.spiegel.de/panorama/leute/katie-leung-warum-dieser-harry-potter-star-nach-den-filmen-abtauchte-a-1c614dab-098e-42ac-a7b3-98a55da22ed3#ref=rss)
-### könig
+* [https://www.spiegel.de/netzwelt/netzpolitik/signal-hackerangriffe-niederlaendische-geheimdienste-beschuldigen-russland](https://www.spiegel.de/netzwelt/netzpolitik/signal-hackerangriffe-niederlaendische-geheimdienste-beschuldigen-russland-a-374baf90-7750-4f9f-bae9-71078e133860#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+* [https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt](https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt-a-a3ea0c87-01a9-409c-9eaf-7f74510c0829#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### charles
+* [https://www.spiegel.de/ausland/iran-news-am-montag-expertenrat-ernennt-mojtaba-khamenei-zum-neuen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-news-am-montag-expertenrat-ernennt-mojtaba-khamenei-zum-neuen-obersten-fuehrer-a-b28d09c0-96ca-4918-a06e-86bdfd9d103e#ref=rss)
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### weg
 
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### iii
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+### iran
 
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### verklagt
+* [https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz](https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz-a-2bd9d215-3faf-4b93-9997-df5bda0936ab#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock](https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock-a-d4ba2f34-6625-49e5-8a7e-0a3c116448b5#ref=rss)
+### welt
 
-* [https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung](https://www.spiegel.de/kultur/koenig-charles-iii-modedesignerin-fordert-millionen-von-seiner-stiftung-a-5e974d2c-6938-4f05-9d81-3e4c2a972ec7#ref=rss)
-### golfstaaten
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock](https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock-a-d4ba2f34-6625-49e5-8a7e-0a3c116448b5#ref=rss)
+### schmerzensgeld
 
-* [https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten](https://www.spiegel.de/ausland/iran-krieg-angriff-auf-wasseranlage-in-bahrain-gefahr-fuer-golfstaaten-a-e153646c-6fd2-4489-a0c6-708379ff5703#ref=rss)
-### spitzenkandidaten
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-pony-faellt-beim-einschlaefern-auf-tieraerztin-kein-anspruch-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-pony-faellt-beim-einschlaefern-auf-tieraerztin-kein-anspruch-auf-schmerzensgeld-a-6d9565f9-bc89-4613-b008-65c23e2b8b00#ref=rss)
+### heftige
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
-### großen
+* [https://www.spiegel.de/panorama/australien-krokodil-alarm-nach-ueberschwemmungen-im-northern-territory](https://www.spiegel.de/panorama/australien-krokodil-alarm-nach-ueberschwemmungen-im-northern-territory-a-bc68e4d7-e2a2-42ae-b122-9fff17c99248#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+### vw
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-baden-wuerttemberg-spitzenkandidaten-geben-ihre-stimmen-ab-a-823381f4-4534-4e5d-884b-1105c827142a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion](https://www.spiegel.de/sport/fussball/union-berlin-die-maenner-hinter-den-ergebnistafeln-im-stadion-a-afca248e-e595-4bca-8d74-489481bc4198#ref=rss)
-### dfb
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen](https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen-a-73b85b3f-07c9-4113-856c-fbe6fbc5b60e#ref=rss)
+### afdnahe
 
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund](https://www.spiegel.de/sport/fussball/1-fc-koeln-dfb-ruegt-stadionsprecher-michael-trippel-fuer-kommentare-bei-niederlage-gegen-dortmund-a-39e44b30-0eb4-4dbb-ad96-2c57b038a994#ref=rss)
-### deutlich
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen](https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen-a-73b85b3f-07c9-4113-856c-fbe6fbc5b60e#ref=rss)
+### zwickau
 
-* [https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert](https://www.spiegel.de/ausland/schweiz-volksabstimmung-zu-rundfunkbeitrag-in-der-schweiz-laut-hochrechnung-gescheitert-a-9a858f07-3ae4-4683-90f2-d4b6a2e71e87#ref=rss)
-### cartoons
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen](https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen-a-73b85b3f-07c9-4113-856c-fbe6fbc5b60e#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### woche
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen](https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen-a-73b85b3f-07c9-4113-856c-fbe6fbc5b60e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### gefahr
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### thomas
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen](https://www.spiegel.de/wirtschaft/unternehmen/vw-afd-nahe-liste-will-mehrheit-im-betriebsrat-in-zwickau-erringen-a-73b85b3f-07c9-4113-856c-fbe6fbc5b60e#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+### schweizer
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar](https://www.spiegel.de/ausland/ard-und-zdf-schweizer-lektion-fuer-deutsche-rundfunkdebatte-kommentar-a-42c148f0-b1e5-4e7a-9b22-df82424a49ef#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### klaus
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit](https://www.spiegel.de/politik/deutschland/gruenen-erfolg-in-baden-wuerttemberg-nach-dem-sieg-ist-vor-dem-streit-a-62b1a230-4ca9-4f10-9dac-32f977603fe8#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+### country
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-21521942-fe2b-468e-afa5-69c1ea86e8fc#ref=rss)
-### rose
+* [https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben](https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben-a-0ecb40e9-fa8d-4554-918c-a2b2111873b2#ref=rss)
+### joe
 
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
-### mondy
+* [https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben](https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben-a-0ecb40e9-fa8d-4554-918c-a2b2111873b2#ref=rss)
+### mcdonald
 
-* [https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft](https://www.spiegel.de/panorama/leute/rose-mondy-neue-miss-germany-zockt-gern-minecraft-a-6ad78278-2f8b-4f52-b78a-38b4eb65afe0#ref=rss)
+* [https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben](https://www.spiegel.de/kultur/musiker-country-joe-mcdonald-gestorben-a-0ecb40e9-fa8d-4554-918c-a2b2111873b2#ref=rss)
+### los
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+### marathon
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+### motorrad
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+### sieger
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts](https://www.spiegel.de/sport/drama-beim-los-angeles-marathon-ein-motorrad-und-ein-sieger-aus-dem-nichts-a-f6f97376-515b-42bd-a239-452a31eea2ac#ref=rss)
+* [https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz](https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz-a-2bd9d215-3faf-4b93-9997-df5bda0936ab#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/iran-news-am-montag-expertenrat-ernennt-mojtaba-khamenei-zum-neuen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-news-am-montag-expertenrat-ernennt-mojtaba-khamenei-zum-neuen-obersten-fuehrer-a-b28d09c0-96ca-4918-a06e-86bdfd9d103e#ref=rss)
+* [https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich](https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich-a-88bd5313-3f19-4184-aaae-a52629607faa#ref=rss)
+### freigabe
+
+* [https://www.spiegel.de/wirtschaft/oelpreis-g7-erwaegen-freigabe-von-oelreserven](https://www.spiegel.de/wirtschaft/oelpreis-g7-erwaegen-freigabe-von-oelreserven-a-1454b791-5e73-4479-aa2a-d3c25955d1d2#ref=rss)
+### paralympics
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+### warwara
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### worontschichina
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### holt
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### goldmedaille
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren](https://www.spiegel.de/sport/wintersport/paralympics-2026-warwara-worontschichina-holt-russlands-erste-goldmedaille-seit-zwoelf-jahren-a-eb1ce906-c315-46b1-af49-94a9ff9c4aa9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### comedienne
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### parshad
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### esmaeili
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### buch
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### papa
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### mama
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### müde
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### ich
+
+* [https://www.spiegel.de/kultur/parshad-echt-ist-was-passt](https://www.spiegel.de/kultur/parshad-echt-ist-was-passt-a-8b64ba78-5ebb-48e6-af2f-2c6187d75da7#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/kultur/wie-die-looksmaxxer-szene-die-us-regierung-inspiriert](https://www.spiegel.de/kultur/wie-die-looksmaxxer-szene-die-us-regierung-inspiriert-a-703d9df9-0c51-4927-9738-fe1abdbb7a96#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/kultur/wie-die-looksmaxxer-szene-die-us-regierung-inspiriert](https://www.spiegel.de/kultur/wie-die-looksmaxxer-szene-die-us-regierung-inspiriert-a-703d9df9-0c51-4927-9738-fe1abdbb7a96#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-drei-menschen-sterben-bei-autounfall-fahrer-soll-lachgas-konsumiert-haben](https://www.spiegel.de/panorama/frankreich-drei-menschen-sterben-bei-autounfall-fahrer-soll-lachgas-konsumiert-haben-a-35a3c3b3-5965-4cc3-a160-dc49d167582e#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage](https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage-a-d9cb6196-f5e6-4225-9697-94cadec61518#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage](https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage-a-d9cb6196-f5e6-4225-9697-94cadec61518#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen-a-705a70a4-897b-4656-ae37-3cf7e1cbc1d5#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage](https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage-a-d9cb6196-f5e6-4225-9697-94cadec61518#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage](https://www.spiegel.de/panorama/justiz/guestrow-bei-rostock-fall-fabian-staatsanwaltschaft-erhebt-anklage-a-d9cb6196-f5e6-4225-9697-94cadec61518#ref=rss)
+* [https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt](https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt-a-a3ea0c87-01a9-409c-9eaf-7f74510c0829#ref=rss)
+### esc
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-orf-chef-roland-weissmann-tritt-kurz-vor-esc-zurueck](https://www.spiegel.de/kultur/eurovision-song-contest-orf-chef-roland-weissmann-tritt-kurz-vor-esc-zurueck-a-c16a927e-71c7-416b-8b4f-9227da8e7621#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-orf-chef-roland-weissmann-tritt-kurz-vor-esc-zurueck](https://www.spiegel.de/kultur/eurovision-song-contest-orf-chef-roland-weissmann-tritt-kurz-vor-esc-zurueck-a-c16a927e-71c7-416b-8b4f-9227da8e7621#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen](https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen-a-1edd368a-bc1b-4008-bfec-3c56e58ae301#ref=rss)
+### nahen
+
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### osten
+
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### wachsender
+
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz](https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz-a-00ab8859-7b11-4448-97ff-af944ac3e415#ref=rss)
+### anteil
+
+* [https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten](https://www.spiegel.de/wirtschaft/gut-sechs-prozent-der-deutschen-oelimporte-stammen-aus-dem-nahen-osten-a-866c622b-ddf2-4b92-8a66-e225d2495902#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag-a-3fced1f1-5a7f-42d8-87ec-4987516d2154#ref=rss)
+### bittet
+
+* [https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz](https://www.spiegel.de/sport/fussball/iran-sorge-um-fussballerinnen-vor-rueckkehr-in-die-heimat-reza-pahlavi-bittet-australien-um-schutz-a-2bd9d215-3faf-4b93-9997-df5bda0936ab#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock](https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock-a-d4ba2f34-6625-49e5-8a7e-0a3c116448b5#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz](https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz-a-00ab8859-7b11-4448-97ff-af944ac3e415#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich](https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich-a-88bd5313-3f19-4184-aaae-a52629607faa#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt](https://www.spiegel.de/ausland/irankrieg-2026-die-planlosigkeit-dieses-kriegs-ist-eine-gefahr-fuer-die-welt-a-a8b5969c-35c5-4d7d-a52c-c67de749f5d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock](https://www.spiegel.de/wissenschaft/krieg-in-iran-der-welt-droht-ein-neuer-oelpreisschock-a-d4ba2f34-6625-49e5-8a7e-0a3c116448b5#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+### frohnmaier
+
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg](https://www.spiegel.de/politik/afd-in-baden-wuerttemberg-spitzenkandidat-markus-frohnmaier-unter-kritik-trotz-wahlerfolg-a-cd822ad8-b295-4796-b47d-b10eb21dcc9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-omid-nouripour-wertet-wahlsieg-von-cem-oezdemir-als-blaupause-fuer-gruene-a-eaca66cc-5a8b-4dde-a8de-a7206f2d9a76#ref=rss)
+### explosion
+
+* [https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich](https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich-a-88bd5313-3f19-4184-aaae-a52629607faa#ref=rss)
+### synagoge
+
+* [https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich](https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich-a-88bd5313-3f19-4184-aaae-a52629607faa#ref=rss)
+### lüttich
+
+* [https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich](https://www.spiegel.de/ausland/belgien-explosion-vor-synagoge-in-luettich-a-88bd5313-3f19-4184-aaae-a52629607faa#ref=rss)
+### frühlingsmüdigkeit
+
+* [https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt](https://www.spiegel.de/gesundheit/fruehlingsmuedigkeit-was-wirklich-hinter-dem-schlaf-mythos-steckt-a-a3ea0c87-01a9-409c-9eaf-7f74510c0829#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag-a-3fced1f1-5a7f-42d8-87ec-4987516d2154#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-nur-ein-drittel-frauen-in-neu-gewaehltem-landtag-a-3fced1f1-5a7f-42d8-87ec-4987516d2154#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz](https://www.spiegel.de/wirtschaft/europas-banken-verkleinern-rueckstand-zur-us-konkurrenz-a-00ab8859-7b11-4448-97ff-af944ac3e415#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/frankreich-drei-menschen-sterben-bei-autounfall-fahrer-soll-lachgas-konsumiert-haben](https://www.spiegel.de/panorama/frankreich-drei-menschen-sterben-bei-autounfall-fahrer-soll-lachgas-konsumiert-haben-a-35a3c3b3-5965-4cc3-a160-dc49d167582e#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen](https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen-a-1edd368a-bc1b-4008-bfec-3c56e58ae301#ref=rss)
+### lopez
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen](https://www.spiegel.de/panorama/leute/jennifer-lopez-saengerin-schwoert-auch-in-lebenskrisen-aufs-tanzen-a-1edd368a-bc1b-4008-bfec-3c56e58ae301#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-fuer-friedrich-merz-und-lars-klingbeil-eine-wahl-zum-vergessen-a-705a70a4-897b-4656-ae37-3cf7e1cbc1d5#ref=rss)
 
