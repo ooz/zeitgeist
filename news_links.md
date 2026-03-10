@@ -4,227 +4,371 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### irankrieg
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya](https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya-a-bbead113-1514-4fc2-81c9-db189ae4de2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation](https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation-a-a16e977e-187a-4cbf-875f-6cb57a211448#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm-a-66c465ce-47c8-4e8b-9c23-25f94a83685f#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19](https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19-a-7295fb2a-348c-4c83-b6c1-1bd6ccd4bdc3#ref=rss)
-### karin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm-a-66c465ce-47c8-4e8b-9c23-25f94a83685f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19](https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19-a-7295fb2a-348c-4c83-b6c1-1bd6ccd4bdc3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss](https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss-a-298ac7c3-92d4-4693-8584-267dcd7bac5f#ref=rss)
-* [https://www.spiegel.de/ausland/japan-will-langstreckenraketen-nahe-china-stationieren](https://www.spiegel.de/ausland/japan-will-langstreckenraketen-nahe-china-stationieren-a-f35140e1-e09e-4e3c-aa70-a80ef0bf8e92#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit](https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit-a-321634bb-8379-4c57-90c0-2369620f98d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier](https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier-a-5737dc79-2458-47c1-8d89-7b4dac21dfc4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### bald
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier](https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier-a-5737dc79-2458-47c1-8d89-7b4dac21dfc4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
+### khamenei
 
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19](https://www.spiegel.de/ausland/nordkorea-und-china-reaktivieren-zugverbindung-nach-unterbrechung-wegen-covid-19-a-7295fb2a-348c-4c83-b6c1-1bd6ccd4bdc3#ref=rss)
-* [https://www.spiegel.de/ausland/migration-eu-ausschuss-stimmt-fuer-rueckkehrzentren-in-drittstaaten](https://www.spiegel.de/ausland/migration-eu-ausschuss-stimmt-fuer-rueckkehrzentren-in-drittstaaten-a-3d4a6fcd-c646-46be-b6fb-afc8c80c57db#ref=rss)
-### andere
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation](https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation-a-a16e977e-187a-4cbf-875f-6cb57a211448#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf](https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf-a-37652154-ff0b-4c40-887d-8ddd8124b71c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss](https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss-a-298ac7c3-92d4-4693-8584-267dcd7bac5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert](https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert-a-1d3846fc-6fea-4cb1-9b3a-5e5c28d76a94#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/psychologie/mehrsprachigkeit-und-identitaet-akzente-als-staerke-und-herausforderung](https://www.spiegel.de/psychologie/mehrsprachigkeit-und-identitaet-akzente-als-staerke-und-herausforderung-a-d7aef8d9-b5d8-4aea-a4c5-d6f5e8e29096#ref=rss)
-* [https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen](https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen-a-d0da4221-fc65-40e8-a879-f085434d37e7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss](https://www.spiegel.de/wirtschaft/china-meldet-ueberraschend-starken-exportueberschuss-a-298ac7c3-92d4-4693-8584-267dcd7bac5f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus](https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus-a-7baef9a4-6a9c-42e4-8423-18a01bb91811#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus](https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus-a-7baef9a4-6a9c-42e4-8423-18a01bb91811#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-ac4d3e91-e9c1-4227-811f-7626be09faa9#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-ac4d3e91-e9c1-4227-811f-7626be09faa9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-ac4d3e91-e9c1-4227-811f-7626be09faa9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankstellenverband-warnt-vor-spritpreis-von-2-50-euro-pro-liter](https://www.spiegel.de/wirtschaft/service/tankstellenverband-warnt-vor-spritpreis-von-2-50-euro-pro-liter-a-dc74ca1e-01ad-4e9c-b688-e7c5fa568996#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah](https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah-a-dcc5ab35-2adb-4b4c-bb58-f8cc8c12bd95#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/weltall/seti-projekt-sonnenstuerme-erschweren-suche-nach-ausserirdischen](https://www.spiegel.de/wissenschaft/weltall/seti-projekt-sonnenstuerme-erschweren-suche-nach-ausserirdischen-a-a65c4c8c-91d1-43d0-927a-26f547f2db07#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert](https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert-a-1d3846fc-6fea-4cb1-9b3a-5e5c28d76a94#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/wermelskirchen-freispruch-fuer-angeklagten-im-prozess-um-brandstiftung](https://www.spiegel.de/panorama/justiz/wermelskirchen-freispruch-fuer-angeklagten-im-prozess-um-brandstiftung-a-b1e16e9d-463c-4f96-a8ec-d0c25c2a17d3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-city-alexander-brueder-wegen-sexhandels-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/new-york-city-alexander-brueder-wegen-sexhandels-schuldig-gesprochen-a-8f95b642-9062-476a-9108-ce3c9e4dac76#ref=rss)
-### brandstiftung
-
-* [https://www.spiegel.de/panorama/justiz/wermelskirchen-freispruch-fuer-angeklagten-im-prozess-um-brandstiftung](https://www.spiegel.de/panorama/justiz/wermelskirchen-freispruch-fuer-angeklagten-im-prozess-um-brandstiftung-a-b1e16e9d-463c-4f96-a8ec-d0c25c2a17d3#ref=rss)
-### klasse
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-weitet-handyverbot-an-schulen-bis-zur-achten-klasse-aus](https://www.spiegel.de/panorama/bildung/sachsen-weitet-handyverbot-an-schulen-bis-zur-achten-klasse-aus-a-3f4091a8-0448-4227-bf90-bc8822fb6e1c#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-### davon
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert](https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert-a-1d3846fc-6fea-4cb1-9b3a-5e5c28d76a94#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende](https://www.spiegel.de/ausland/irankrieg-benjamin-netanyahu-widerspricht-donald-trump-zu-moeglichem-ende-a-95c264a5-967b-444f-a035-f127c0d55237#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya](https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya-a-bbead113-1514-4fc2-81c9-db189ae4de2a#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya](https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya-a-bbead113-1514-4fc2-81c9-db189ae4de2a#ref=rss)
-* [https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon](https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon-a-035e6e07-5419-4440-8308-2ed2766ea997#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya](https://www.spiegel.de/ausland/iran-krieg-tuerkei-stationiert-patriot-system-in-malatya-a-bbead113-1514-4fc2-81c9-db189ae4de2a#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah](https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah-a-dcc5ab35-2adb-4b4c-bb58-f8cc8c12bd95#ref=rss)
-### joko
-
-* [https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation](https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation-a-a16e977e-187a-4cbf-875f-6cb57a211448#ref=rss)
-### wetten
-
-* [https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation](https://www.spiegel.de/kultur/tv/joko-winterscheidt-wetten-dass-joko-und-klaas-fuehrten-gespraeche-ueber-moderation-a-a16e977e-187a-4cbf-875f-6cb57a211448#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm-a-66c465ce-47c8-4e8b-9c23-25f94a83685f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### dohm
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstand-fordert-abberufung-von-finanzchefin-karin-dohm-a-66c465ce-47c8-4e8b-9c23-25f94a83685f#ref=rss)
-### zorro
-
-* [https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht](https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht-a-63aace6c-ec57-4e51-9882-4fab517888e4#ref=rss)
-### ranch
-
-* [https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht](https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht-a-63aace6c-ec57-4e51-9882-4fab517888e4#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht](https://www.spiegel.de/panorama/justiz/jeffrey-epstein-zorro-ranch-in-new-mexico-wird-durchsucht-a-63aace6c-ec57-4e51-9882-4fab517888e4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-city-alexander-brueder-wegen-sexhandels-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/new-york-city-alexander-brueder-wegen-sexhandels-schuldig-gesprochen-a-8f95b642-9062-476a-9108-ce3c9e4dac76#ref=rss)
-### death
-
-* [https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf](https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf-a-37652154-ff0b-4c40-887d-8ddd8124b71c#ref=rss)
-### valley
-
-* [https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf](https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf-a-37652154-ff0b-4c40-887d-8ddd8124b71c#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf](https://www.spiegel.de/wissenschaft/natur/amerikanisches-death-valley-das-tal-des-todes-blueht-auf-a-37652154-ff0b-4c40-887d-8ddd8124b71c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
-### gehälter
-
-* [https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert](https://www.spiegel.de/wirtschaft/service/loehne-so-viel-sind-die-gehaelter-in-ihrer-region-wert-a-1d3846fc-6fea-4cb1-9b3a-5e5c28d76a94#ref=rss)
-### stärke
-
-* [https://www.spiegel.de/psychologie/mehrsprachigkeit-und-identitaet-akzente-als-staerke-und-herausforderung](https://www.spiegel.de/psychologie/mehrsprachigkeit-und-identitaet-akzente-als-staerke-und-herausforderung-a-d7aef8d9-b5d8-4aea-a4c5-d6f5e8e29096#ref=rss)
-### landtagswahl
-
-* [https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit](https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit-a-321634bb-8379-4c57-90c0-2369620f98d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
-### wähler
-
-* [https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit](https://www.spiegel.de/politik/deutschland/spd-landtagswahl-ergebnis-als-warnung-vor-regionaler-bedeutungslosigkeit-a-321634bb-8379-4c57-90c0-2369620f98d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
-### fußballerinnen
-
-* [https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen](https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen-a-d0da4221-fc65-40e8-a879-f085434d37e7#ref=rss)
-### australien
-
-* [https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen](https://www.spiegel.de/sport/fussball/iran-fuenf-fussballerinnen-feiern-gewaehrtes-asyl-in-australien-aber-was-wird-aus-den-anderen-a-d0da4221-fc65-40e8-a879-f085434d37e7#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus](https://www.spiegel.de/mobilitaet/auto/adac-pannenhilfe-rueckte-2025-in-deutschland-fast-3-7-millionen-mal-aus-a-7baef9a4-6a9c-42e4-8423-18a01bb91811#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-ac4d3e91-e9c1-4227-811f-7626be09faa9#ref=rss)
-### joseph
-
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt](https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt-a-0e018257-15b3-45b2-9d6b-88fe2c6043d1#ref=rss)
-### blatter
-
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt](https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt-a-0e018257-15b3-45b2-9d6b-88fe2c6043d1#ref=rss)
-### 90
-
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt](https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt-a-0e018257-15b3-45b2-9d6b-88fe2c6043d1#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt](https://www.spiegel.de/sport/fussball/joseph-blatter-ehemaliger-fifa-praesident-wird-am-dienstag-90-jahre-alt-a-0e018257-15b3-45b2-9d6b-88fe2c6043d1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### epsteinskandal
-
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen](https://www.spiegel.de/politik/deutschland/epstein-skandal-karin-prien-fordert-haertere-gesetze-gegen-sexualverbrechen-a-27384921-998f-4b6e-a963-e1537bbec895#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/service/tankstellenverband-warnt-vor-spritpreis-von-2-50-euro-pro-liter](https://www.spiegel.de/wirtschaft/service/tankstellenverband-warnt-vor-spritpreis-von-2-50-euro-pro-liter-a-dc74ca1e-01ad-4e9c-b688-e7c5fa568996#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### messer
-
-* [https://www.spiegel.de/panorama/justiz/erlangen-polizei-schiesst-in-notaufnahme-auf-angeblich-vergifteten-mann-mit-messer](https://www.spiegel.de/panorama/justiz/erlangen-polizei-schiesst-in-notaufnahme-auf-angeblich-vergifteten-mann-mit-messer-a-2e280ab9-192f-447c-8ef5-24c468881ea1#ref=rss)
-### libanesische
-
-* [https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon](https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon-a-035e6e07-5419-4440-8308-2ed2766ea997#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah](https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah-a-dcc5ab35-2adb-4b4c-bb58-f8cc8c12bd95#ref=rss)
-### holt
-
-* [https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon](https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon-a-035e6e07-5419-4440-8308-2ed2766ea997#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss)
-### zuvor
-
-* [https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon](https://www.spiegel.de/ausland/kardinal-von-teheran-nach-italien-ausgeflogen-israel-toetet-pfarrer-im-suedlibanon-a-035e6e07-5419-4440-8308-2ed2766ea997#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah](https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah-a-dcc5ab35-2adb-4b4c-bb58-f8cc8c12bd95#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah](https://www.spiegel.de/ausland/syrien-meldet-beschuss-durch-hisbollah-a-dcc5ab35-2adb-4b4c-bb58-f8cc8c12bd95#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine-a-88a6d0ee-7fc6-46e3-aec9-33da05919ae9#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine-a-88a6d0ee-7fc6-46e3-aec9-33da05919ae9#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-organisiert-patriot-raketen-fuer-die-ukraine-a-88a6d0ee-7fc6-46e3-aec9-33da05919ae9#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
 ### badenwürttemberg
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
-### afd
+* [https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck](https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck-a-0f59787d-fe19-4c0c-a4fe-0a006cc3fd6e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+### mojtaba
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### führer
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag](https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag-a-6ba3e987-94d4-4e33-84f9-900c488cc7df#ref=rss)
+* [https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london](https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london-a-c55a3644-40af-4139-88cd-d0aca37950b0#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen](https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen-a-bbd0aea9-9823-465d-b52a-337f3dc202c8#ref=rss)
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige](https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige-a-8a579bd5-ae00-4fd8-9497-6b88866f4203#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen](https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen-a-275d2f2e-fb2d-4d6f-b308-55b54e2e5d76#ref=rss)
+### fluorid
+
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+### mineralölkonzerne
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte-a-363899cc-104b-49b5-bf90-6e440c752be8#ref=rss)
+### tag
+
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+### mayer
+
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-leiter-von-deutsch-arabischer-schule-soll-mordanschlag-erfunden-haben](https://www.spiegel.de/panorama/berlin-neukoelln-leiter-von-deutsch-arabischer-schule-soll-mordanschlag-erfunden-haben-a-2d2d1cb0-add9-4461-83fe-976f8806236e#ref=rss)
+* [https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin](https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin-a-066b8275-532c-4f06-ab7c-fc3e500fbef5#ref=rss)
+### socialmediaverbot
+
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige](https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige-a-8a579bd5-ae00-4fd8-9497-6b88866f4203#ref=rss)
+### 16jährige
+
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige](https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige-a-8a579bd5-ae00-4fd8-9497-6b88866f4203#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland](https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland-a-9d1f848a-8f74-4961-955c-41e7f1df020a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-verbuchen-2025-plus-doch-ausgaben-steigen](https://www.spiegel.de/wirtschaft/krankenkassen-verbuchen-2025-plus-doch-ausgaben-steigen-a-9221cd55-67e9-4785-86d6-559f7d0947bf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen](https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen-a-275d2f2e-fb2d-4d6f-b308-55b54e2e5d76#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### visier
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### ali
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### nachfolger
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### nennt
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### inakzeptabel
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### versammelt
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### verheißt
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### oberste
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### gutes
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-podcast-a-4d97cf50-097f-4d4d-8c75-92b40add56fc#ref=rss)
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump](https://www.spiegel.de/ausland/mojtaba-khamenei-und-der-iran-krieg-neuer-fuehrer-im-visier-von-donald-trump-a-a5a9cd11-a80c-471e-8689-d0d47d70345a#ref=rss)
+### offen
+
+* [https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier](https://www.spiegel.de/ausland/kuba-reaktionen-auf-drohungen-von-donald-trump-sie-muessen-den-druck-auf-uns-verringern-sonst-ersticken-wir-hier-a-5737dc79-2458-47c1-8d89-7b4dac21dfc4#ref=rss)
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+### streik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag](https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag-a-6ba3e987-94d4-4e33-84f9-900c488cc7df#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag](https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag-a-6ba3e987-94d4-4e33-84f9-900c488cc7df#ref=rss)
+### donnerstag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag](https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag-a-6ba3e987-94d4-4e33-84f9-900c488cc7df#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag](https://www.spiegel.de/wirtschaft/unternehmen/streik-piloten-streiken-bei-der-lufthansa-am-donnerstag-und-freitag-a-6ba3e987-94d4-4e33-84f9-900c488cc7df#ref=rss)
+### energiepreise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+### übergewinnsteuer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-energiepreise-uebergewinnsteuer-gegen-benzin-preis-hoch-muessen-die-mineraloelkonzerne-wieder-etwas-abgeben-a-686c19ba-7ee9-4117-87eb-f74ec649d0b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+### oft
+
+* [https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich](https://www.spiegel.de/politik/energiepreise-und-irankrieg-justizministerin-hubig-will-spritpreis-erhoehungen-nur-noch-einmal-taeglich-a-3f6cf677-d8dc-4793-b1b7-b9b02bd4d63d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen](https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen-a-bbd0aea9-9823-465d-b52a-337f3dc202c8#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck](https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck-a-0f59787d-fe19-4c0c-a4fe-0a006cc3fd6e#ref=rss)
+### meuthen
+
+* [https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck](https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck-a-0f59787d-fe19-4c0c-a4fe-0a006cc3fd6e#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck](https://www.spiegel.de/politik/joerg-meuthen-ex-afd-chef-zieht-sich-vollstaendig-aus-der-politik-zurueck-a-0f59787d-fe19-4c0c-a4fe-0a006cc3fd6e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt](https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-abwechselnd-regieren-ginge-das-ueberhaupt-a-e709c6d4-e8ad-47a7-9cf5-eb42127cd36e#ref=rss)
+### zoe
+
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+### äußerungen
+
+* [https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet](https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer](https://www.spiegel.de/wirtschaft/oel-und-gaspreise-fallen-doch-der-sprit-wird-teurer-a-a2cc20b8-5fa8-4517-924b-0328eb3a6d47#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist](https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist-a-46c8ef8f-fda6-4e2b-acfd-8b1b9f62484b#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist](https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist-a-46c8ef8f-fda6-4e2b-acfd-8b1b9f62484b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist](https://www.spiegel.de/wissenschaft/natur/luftqualitaet-warum-sie-in-deutschland-gerade-so-schlecht-ist-a-46c8ef8f-fda6-4e2b-acfd-8b1b9f62484b#ref=rss)
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+### meteorit
+
+* [https://www.spiegel.de/panorama/meteorit-von-koblenz-geht-an-grundstueckseigentuemer](https://www.spiegel.de/panorama/meteorit-von-koblenz-geht-an-grundstueckseigentuemer-a-72b4cb8e-32a5-4c82-82b3-98cdbf07804d#ref=rss)
+### koblenz
+
+* [https://www.spiegel.de/panorama/meteorit-von-koblenz-geht-an-grundstueckseigentuemer](https://www.spiegel.de/panorama/meteorit-von-koblenz-geht-an-grundstueckseigentuemer-a-72b4cb8e-32a5-4c82-82b3-98cdbf07804d#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-leiter-von-deutsch-arabischer-schule-soll-mordanschlag-erfunden-haben](https://www.spiegel.de/panorama/berlin-neukoelln-leiter-von-deutsch-arabischer-schule-soll-mordanschlag-erfunden-haben-a-2d2d1cb0-add9-4461-83fe-976f8806236e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination](https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination-a-82662ce4-27c3-434b-a6a9-62b00ce3eac7#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte-a-363899cc-104b-49b5-bf90-6e440c752be8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte-a-363899cc-104b-49b5-bf90-6e440c752be8#ref=rss)
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### größten
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte-a-363899cc-104b-49b5-bf90-6e440c752be8#ref=rss)
+* [https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london](https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london-a-c55a3644-40af-4139-88cd-d0aca37950b0#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest](https://www.spiegel.de/psychologie/smartphone-zeitalter-fuenf-tipps-fuer-eltern-legen-sie-einen-bildschirm-sessel-fest-a-2ecee9e8-3d54-4b2e-a62a-a05da10b6fdb#ref=rss)
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+### videos
+
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda](https://www.spiegel.de/ausland/iran-videos-und-bilder-aus-dem-krieg-als-munition-fuer-die-propaganda-a-c75a598e-0ef6-4b96-9812-780be969a7f9#ref=rss)
+### unterhaus
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige](https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige-a-8a579bd5-ae00-4fd8-9497-6b88866f4203#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige](https://www.spiegel.de/ausland/grossbritannien-unterhaus-stimmt-gegen-social-media-verbot-fuer-unter-16-jaehrige-a-8a579bd5-ae00-4fd8-9497-6b88866f4203#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen](https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen-a-275d2f2e-fb2d-4d6f-b308-55b54e2e5d76#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland](https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland-a-9d1f848a-8f74-4961-955c-41e7f1df020a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland](https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland-a-9d1f848a-8f74-4961-955c-41e7f1df020a#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland](https://www.spiegel.de/politik/deutschland/friedrich-merz-warnt-israel-vor-annexionsschritten-im-westjordanland-a-9d1f848a-8f74-4961-955c-41e7f1df020a#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-verbuchen-2025-plus-doch-ausgaben-steigen](https://www.spiegel.de/wirtschaft/krankenkassen-verbuchen-2025-plus-doch-ausgaben-steigen-a-9221cd55-67e9-4785-86d6-559f7d0947bf#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### who
+
+* [https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen](https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen-a-275d2f2e-fb2d-4d6f-b308-55b54e2e5d76#ref=rss)
+### regen
+
+* [https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen](https://www.spiegel.de/wissenschaft/medizin/iran-weltgesundheitsorganisation-who-warnt-vor-schwarzem-regen-a-275d2f2e-fb2d-4d6f-b308-55b54e2e5d76#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt](https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt-a-79f63033-85d6-4f2f-b977-4b54a8ccab38#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt](https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt-a-79f63033-85d6-4f2f-b977-4b54a8ccab38#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt](https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt-a-79f63033-85d6-4f2f-b977-4b54a8ccab38#ref=rss)
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen](https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen-a-bbd0aea9-9823-465d-b52a-337f3dc202c8#ref=rss)
+### schlafendes
+
+* [https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen](https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen-a-bbd0aea9-9823-465d-b52a-337f3dc202c8#ref=rss)
+### einfach
+
+* [https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen](https://www.spiegel.de/panorama/justiz/daenemark-mann-entfuehrt-schlafendes-baby-im-kinderwagen-a-bbd0aea9-9823-465d-b52a-337f3dc202c8#ref=rss)
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+### philippsreut
+
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen](https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss)
+* [https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin](https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin-a-066b8275-532c-4f06-ab7c-fc3e500fbef5#ref=rss)
+### raye
+
+* [https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london](https://www.spiegel.de/kultur/raye-r-b-saengerin-setzt-sich-selbst-ein-denkmal-in-london-a-c55a3644-40af-4139-88cd-d0aca37950b0#ref=rss)
+### simon
+
+* [https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin](https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin-a-066b8275-532c-4f06-ab7c-fc3e500fbef5#ref=rss)
+### rattle
+
+* [https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin](https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin-a-066b8275-532c-4f06-ab7c-fc3e500fbef5#ref=rss)
+### staatskapelle
+
+* [https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin](https://www.spiegel.de/kultur/simon-rattle-auszeichnung-als-ehrendirigent-der-staatskapelle-berlin-a-066b8275-532c-4f06-ab7c-fc3e500fbef5#ref=rss)
+### zahnpasta
+
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### initiative
+
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### beyond
+
+* [https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert](https://www.spiegel.de/gesundheit/fluorid-in-zahnpasta-wie-die-initiative-beyond-fluorid-aengste-schuert-a-e8b904f5-37b8-495c-8fb7-4f9010f6582a#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### uhaft
+
+* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-bleibt-in-u-haft-a-61ac816d-76df-447e-b6c0-b11c77535efd#ref=rss)
+### paralympics
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination](https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination-a-82662ce4-27c3-434b-a6a9-62b00ce3eac7#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination](https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination-a-82662ce4-27c3-434b-a6a9-62b00ce3eac7#ref=rss)
+### forster
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination](https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination-a-82662ce4-27c3-434b-a6a9-62b00ce3eac7#ref=rss)
+### superkombination
+
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination](https://www.spiegel.de/sport/wintersport/paralympics-2026-anna-lena-forster-gewinnt-silber-in-der-super-kombination-a-82662ce4-27c3-434b-a6a9-62b00ce3eac7#ref=rss)
 
