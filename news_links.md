@@ -4,357 +4,370 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### krieg
+### spritpreise
 
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+### benzin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet-a-caecd259-55cf-4850-b6dc-7e3331c24fc0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor](https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor-a-17f54fea-a71b-42be-8209-86dfd9a90259#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-### offenbar
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+### diesel
 
-* [https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt](https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt-a-fde2ed69-8b5f-4143-b82f-45037f28deee#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant](https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant-a-7d8f967d-b920-41df-a8f5-76c1f958b390#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb](https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb-a-ec24c1b3-10f4-40b6-99fd-30c6a29a73c7#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-### iran
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein](https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein-a-aa77e0d7-f264-4c5a-ae6c-a9a6dc87104c#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss](https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss-a-ca4bd7c9-62e2-458c-90c3-7b90ba494ea4#ref=rss)
-### straße
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein](https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein-a-aa77e0d7-f264-4c5a-ae6c-a9a6dc87104c#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss](https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss-a-ca4bd7c9-62e2-458c-90c3-7b90ba494ea4#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein](https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein-a-aa77e0d7-f264-4c5a-ae6c-a9a6dc87104c#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss](https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss-a-ca4bd7c9-62e2-458c-90c3-7b90ba494ea4#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg](https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg-a-84529d0b-4cb5-42df-aacc-785af307de10#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-### gewinn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet-a-caecd259-55cf-4850-b6dc-7e3331c24fc0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein-a-5b20f239-2b8a-40c1-a698-a8922226b0bb#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt](https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt-a-fde2ed69-8b5f-4143-b82f-45037f28deee#ref=rss)
-* [https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab](https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab-a-6182f928-b6dd-4f63-b7cd-d8792c9521a2#ref=rss)
+* [https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026](https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026-a-5735cbac-73b0-4f2f-a7d6-0462f30c7b2e#ref=rss)
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc](https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc-a-7b164476-675b-4e05-9b51-838d314ba5e4#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder](https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder-a-2826e81c-4708-4db7-99bb-701c166d3dc7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-### große
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest-a-43133b7c-5147-44db-9f69-412da7a5d5ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen-a-e1535081-46dc-4999-a6e6-0d080ee19d00#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### konnte
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb](https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb-a-ec24c1b3-10f4-40b6-99fd-30c6a29a73c7#ref=rss)
-* [https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast](https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast-a-33f017a0-dddb-44db-b0b0-5a8f2257b3b1#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant](https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348#ref=rss)
-### dubai
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme](https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme-a-ac263519-aeda-43e6-9a8a-eea3beaa07e9#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e#ref=rss)
-### großglockner
-
-* [https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast](https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast-a-33f017a0-dddb-44db-b0b0-5a8f2257b3b1#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein](https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein-a-aa77e0d7-f264-4c5a-ae6c-a9a6dc87104c#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant](https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348#ref=rss)
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-### erbil
-
-* [https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab](https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab-a-6182f928-b6dd-4f63-b7cd-d8792c9521a2#ref=rss)
-### führen
-
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-* [https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau](https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### aurubis
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### tage
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden](https://www.spiegel.de/panorama/hamburg-weiterer-schwerer-arbeitsunfall-bei-aurubis-bekannt-geworden-a-93fe0dda-5926-4012-8ec1-ee5e66d2a1d0#ref=rss)
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### australien
-
-* [https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen](https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen-a-d3b501f3-469a-471c-8cf3-2835627d2fa7#ref=rss)
-### mörderin
-
-* [https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen](https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen-a-d3b501f3-469a-471c-8cf3-2835627d2fa7#ref=rss)
-### zusammen
-
-* [https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen](https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen-a-d3b501f3-469a-471c-8cf3-2835627d2fa7#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen](https://www.spiegel.de/panorama/justiz/australien-pflegekinder-lebten-monatelang-mit-verurteilter-moerderin-zusammen-a-d3b501f3-469a-471c-8cf3-2835627d2fa7#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-### golf
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-### energieagentur
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-### frei
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe](https://www.spiegel.de/politik/oelpreis-wirtschaftsministerin-reiche-kommentiert-moegliche-reservenfreigabe-a-776dff6f-dd4f-445f-acab-52fd883caab2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-gewinn-steigt-neues-wachstum-durch-irankrieg-erwartet-a-caecd259-55cf-4850-b6dc-7e3331c24fc0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein-a-5b20f239-2b8a-40c1-a698-a8922226b0bb#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank](https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank-a-2fd22119-55b6-4ba5-a960-c311addad57b#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-* [https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab](https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab-a-6182f928-b6dd-4f63-b7cd-d8792c9521a2#ref=rss)
-### teil
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### hohen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-* [https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau](https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss)
-### ölreserven
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
 ### irankriegs
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss)
-* [https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab](https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab-a-6182f928-b6dd-4f63-b7cd-d8792c9521a2#ref=rss)
-### bondi
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+### fest
 
-* [https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt](https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt-a-fde2ed69-8b5f-4143-b82f-45037f28deee#ref=rss)
-### usjustizministerin
-
-* [https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt](https://www.spiegel.de/ausland/pam-bondi-us-justizministerin-zieht-wegen-drohungen-offenbar-auf-militaerstuetzpunkt-a-fde2ed69-8b5f-4143-b82f-45037f28deee#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant](https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant-a-7d8f967d-b920-41df-a8f5-76c1f958b390#ref=rss)
-### elefant
-
-* [https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant](https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant-a-7d8f967d-b920-41df-a8f5-76c1f958b390#ref=rss)
-### spuren
-
-* [https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant](https://www.spiegel.de/panorama/thailand-elefant-beschaedigt-restaurant-a-7d8f967d-b920-41df-a8f5-76c1f958b390#ref=rss)
-* [https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau](https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor](https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor-a-17f54fea-a71b-42be-8209-86dfd9a90259#ref=rss)
-### bereitet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor](https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor-a-17f54fea-a71b-42be-8209-86dfd9a90259#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### prüfen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor](https://www.spiegel.de/wirtschaft/unternehmen/eu-bereitet-schritte-zur-senkung-der-energiepreise-vor-a-17f54fea-a71b-42be-8209-86dfd9a90259#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-* [https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau](https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-### vollständig
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein-a-5b20f239-2b8a-40c1-a698-a8922226b0bb#ref=rss)
-### betrieb
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb](https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb-a-ec24c1b3-10f4-40b6-99fd-30c6a29a73c7#ref=rss)
-### landes
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-* [https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab](https://www.spiegel.de/ausland/irak-deutschland-zieht-personal-aus-dem-generalkonsulat-in-erbil-ab-a-6182f928-b6dd-4f63-b7cd-d8792c9521a2#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-strecke-hamburg-berlin-ab-14-juni-wieder-vollstaendig-in-betrieb-a-2c442418-4916-406d-9d7b-ba061bf4c29e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-### franchisekaffeeketten
-
-* [https://www.spiegel.de/panorama/franchise-kaffeeketten-lob-der-eintoenigkeit-mein-heim-in-der-fremde-mit-klebrigen-tischen](https://www.spiegel.de/panorama/franchise-kaffeeketten-lob-der-eintoenigkeit-mein-heim-in-der-fremde-mit-klebrigen-tischen-a-4e1d54ce-2c24-45ff-b57c-05d22f48a423#ref=rss)
-### gern
-
-* [https://www.spiegel.de/panorama/franchise-kaffeeketten-lob-der-eintoenigkeit-mein-heim-in-der-fremde-mit-klebrigen-tischen](https://www.spiegel.de/panorama/franchise-kaffeeketten-lob-der-eintoenigkeit-mein-heim-in-der-fremde-mit-klebrigen-tischen-a-4e1d54ce-2c24-45ff-b57c-05d22f48a423#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder](https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder-a-2826e81c-4708-4db7-99bb-701c166d3dc7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-### reiter
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder](https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder-a-2826e81c-4708-4db7-99bb-701c166d3dc7#ref=rss)
-### fc
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder](https://www.spiegel.de/politik/deutschland/muenchen-muenchner-oberbuergermeister-reiter-legt-fc-bayern-aemter-nieder-a-2826e81c-4708-4db7-99bb-701c166d3dc7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-### bergamo
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant](https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348#ref=rss)
-### lief
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-siegt-6-1-bei-atalanta-bergamo-grosses-spiel-grosse-tragik-a-78861c03-800e-4eeb-8eda-bc9f9917f36d#ref=rss)
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-### mojtaba
-
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-### khamenei
-
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei](https://www.spiegel.de/ausland/iran-wo-ist-mojtaba-khamenei-a-6169965a-baa6-4542-a2eb-d701816500bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein](https://www.spiegel.de/wirtschaft/unternehmen/iran-eskorten-durch-die-strasse-von-hormus-sollen-derzeit-zu-riskant-sein-a-aa77e0d7-f264-4c5a-ae6c-a9a6dc87104c#ref=rss)
-### autobahn
-
-* [https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb](https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb-a-ec24c1b3-10f4-40b6-99fd-30c6a29a73c7#ref=rss)
-### ursache
-
-* [https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb](https://www.spiegel.de/panorama/autobahn-notrufsaeulen-wegen-technischer-stoerung-ausser-betrieb-a-ec24c1b3-10f4-40b6-99fd-30c6a29a73c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte](https://www.spiegel.de/ausland/dubai-zwei-drohnen-nahe-flughafen-abgestuerzt-vier-verletzte-a-949d18d0-8c3c-484f-9810-ee400d735bb1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern](https://www.spiegel.de/panorama/justiz/schweiz-opfer-identifizierung-nach-busbrand-koennte-laut-polizei-tage-dauern-a-5a96911d-d5bf-4676-bec9-a45c826664ea#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e#ref=rss)
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast](https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast-a-33f017a0-dddb-44db-b0b0-5a8f2257b3b1#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast](https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast-a-33f017a0-dddb-44db-b0b0-5a8f2257b3b1#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-### iranische
-
-* [https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift](https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-### bam
-
-* [https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant](https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348#ref=rss)
-### adebayo
-
-* [https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant](https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348#ref=rss)
-### moltbook
-
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### meta
-
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### übernimmt
-
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### kisoftware
-
-* [https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde](https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt](https://www.spiegel.de/politik/welt-am-abgrund-barack-obama-als-trostspender-in-einer-chaotischen-welt-a-d660a91f-0282-4879-956f-913145b2975e#ref=rss)
-### gestürzt
-
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-* [https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg](https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg-a-84529d0b-4cb5-42df-aacc-785af307de10#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt](https://www.spiegel.de/ausland/eskalation-in-nahost-beendet-diesen-krieg-jetzt-a-2b606262-f72f-4c6d-a888-56651ce33e89#ref=rss)
-* [https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg](https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg-a-84529d0b-4cb5-42df-aacc-785af307de10#ref=rss)
-### chippis
-
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor](https://www.spiegel.de/panorama/schweiz-chippis-im-wallis-bereitet-sich-auf-drohenden-erdrutsch-vor-a-ebee9a69-7d29-4c6a-901e-ad8ca9dc4674#ref=rss)
-### senta
-
-* [https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg](https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg-a-84529d0b-4cb5-42df-aacc-785af307de10#ref=rss)
-### berger
-
-* [https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg](https://www.spiegel.de/panorama/leute/senta-berger-raetselt-ueber-ihren-sturz-von-der-buehne-in-hamburg-a-84529d0b-4cb5-42df-aacc-785af307de10#ref=rss)
-### einschlag
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss](https://www.spiegel.de/ausland/krieg-in-iran-feuer-auf-frachtschiff-in-der-strasse-von-hormus-nach-einschlag-von-unbekannten-geschoss-a-ca4bd7c9-62e2-458c-90c3-7b90ba494ea4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest-a-43133b7c-5147-44db-9f69-412da7a5d5ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen-a-e1535081-46dc-4999-a6e6-0d080ee19d00#ref=rss)
 ### porsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/gewinn-von-porsche-bricht-um-91-4-prozent-ein-a-5b20f239-2b8a-40c1-a698-a8922226b0bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank](https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank-a-2fd22119-55b6-4ba5-a960-c311addad57b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump](https://www.spiegel.de/wirtschaft/usa-benzin-und-diesel-werden-immer-teurer-ein-problem-fuer-donald-trump-a-2e529ff4-2ef5-4697-8c1e-798aa257ce6f#ref=rss)
+### alge
+
+* [https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026](https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026-a-5735cbac-73b0-4f2f-a7d6-0462f30c7b2e#ref=rss)
+### miss
+
+* [https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026](https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026-a-5735cbac-73b0-4f2f-a7d6-0462f30c7b2e#ref=rss)
+### ostfriesland
+
+* [https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026](https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026-a-5735cbac-73b0-4f2f-a7d6-0462f30c7b2e#ref=rss)
+### jubelt
+
+* [https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026](https://www.spiegel.de/panorama/kuh-alge-ist-miss-ostfriesland-2026-a-5735cbac-73b0-4f2f-a7d6-0462f30c7b2e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### pete
+
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+### fotografen
+
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+### mussten
+
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest-a-43133b7c-5147-44db-9f69-412da7a5d5ac#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers](https://www.spiegel.de/ausland/pete-hegseth-pentagon-schliesst-offenbar-fotografen-aus-wegen-unvorteilhafter-bilder-des-ministers-a-d0c398a4-3dd1-4ba7-9feb-70151ec421d3#ref=rss)
+* [https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los](https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los-a-57508ab6-b541-45d2-85e3-bfc254615aa1#ref=rss)
+### tankstelle
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus](https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus-a-e5a17e75-7e7f-453a-a7a7-50bdc6226681#ref=rss)
+### beginn
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle](https://www.spiegel.de/wirtschaft/service/spritpreise-in-deutschland-die-hohen-preise-entstehen-nicht-erst-an-der-tankstelle-a-6b89a18d-13e0-40ca-a3e9-65cbc8e8bdfe#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los](https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los-a-57508ab6-b541-45d2-85e3-bfc254615aa1#ref=rss)
+### wedlwilson
+
+* [https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los](https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los-a-57508ab6-b541-45d2-85e3-bfc254615aa1#ref=rss)
+### druck
+
+* [https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los](https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los-a-57508ab6-b541-45d2-85e3-bfc254615aa1#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc](https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc-a-7b164476-675b-4e05-9b51-838d314ba5e4#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los](https://www.spiegel.de/politik/berlin-cdu-foerdermittelaffaere-kultursenatorin-sarah-wedl-wilson-liess-ihren-rottweiler-auf-mitarbeiter-los-a-57508ab6-b541-45d2-85e3-bfc254615aa1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch-a-c5bc0f19-3221-4cdb-a6bd-95571163fd36#ref=rss)
+### büttner
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch-a-c5bc0f19-3221-4cdb-a6bd-95571163fd36#ref=rss)
+### haare
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch-a-c5bc0f19-3221-4cdb-a6bd-95571163fd36#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-generalsekretaerin-nicole-buettner-loest-wette-ein-und-will-sich-die-haare-abschneiden-ein-besuch-a-c5bc0f19-3221-4cdb-a6bd-95571163fd36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen-a-e1535081-46dc-4999-a6e6-0d080ee19d00#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest-a-43133b7c-5147-44db-9f69-412da7a5d5ac#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungsdiagnosen-fuer-urbig-davies-und-musiala-stehen-fest-a-43133b7c-5147-44db-9f69-412da7a5d5ac#ref=rss)
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-benzin-und-diesel-katherina-reiche-porsche-friedrich-merz-und-spanien-a-8fa1e1cc-2a26-4165-a39e-6375a04a850e#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+### mahmoud
+
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+### ahmadinejad
+
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund](https://www.spiegel.de/ausland/iran-krieg-mahmud-ahmadinejad-hat-luftschlag-ueberlebt-und-lebt-offenbar-im-untergrund-a-e6c77d0d-aada-4009-bcd3-1c6aa5bb3e38#ref=rss)
+* [https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende](https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende-a-252c94bc-3eab-49f0-9d7e-0655b4566cb1#ref=rss)
+### influencer
+
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+### dubai
+
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai](https://www.spiegel.de/ausland/irankrieg-und-die-folgen-so-unterschiedlich-schauen-influencer-auf-die-lage-in-dubai-a-ccd3d56f-2ff4-436e-a69b-1f09205df0db#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen-a-e1535081-46dc-4999-a6e6-0d080ee19d00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-bayern-koennen-gruene-nur-noch-ohne-parteilogo-gewinnen-a-e1535081-46dc-4999-a6e6-0d080ee19d00#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet-a-ed82c41b-1741-412b-8108-1b097d8bbf64#ref=rss)
+### passagiere
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet-a-ed82c41b-1741-412b-8108-1b097d8bbf64#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet-a-ed82c41b-1741-412b-8108-1b097d8bbf64#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen](https://www.spiegel.de/mobilitaet/auto/elektroauto-hohe-spritpreise-bei-neuwagen-portalen-a-1ab3bcc6-9094-4287-97bf-6ebcc3c54940#ref=rss)
+### gar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-faellt-fuer-passagiere-glimpflicher-aus-als-erwartet-a-ed82c41b-1741-412b-8108-1b097d8bbf64#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+### touristen
+
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+### not
+
+* [https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad](https://www.spiegel.de/politik/johann-wadephul-aussenminister-bringt-gestrandete-touristen-von-doha-nach-riad-a-3d93b660-f000-46ea-9301-ccff78898623#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### diana
+
+* [https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung](https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung-a-9b49454d-07c6-4cd9-942d-91d680c82824#ref=rss)
+### statt
+
+* [https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung](https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung-a-9b49454d-07c6-4cd9-942d-91d680c82824#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung](https://www.spiegel.de/panorama/leute/diana-zog-angeblich-harry-statt-william-als-koenig-in-erwaegung-a-9b49454d-07c6-4cd9-942d-91d680c82824#ref=rss)
+### paralympics
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc](https://www.spiegel.de/sport/wintersport/paralympics-2026-ukrainisches-team-beklagt-systematischen-druck-durch-ipc-a-7b164476-675b-4e05-9b51-838d314ba5e4#ref=rss)
+### langläuferin
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### marchand
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### schwächeanfall
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### veranstalter
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter](https://www.spiegel.de/sport/olympia/paralympics-2026-langlaeuferin-marchand-erklaert-schwaecheanfall-im-rennen-und-kritisiert-veranstalter-a-246d8dcf-b7fa-45e3-b315-95ca963d8d56#ref=rss)
+### wolfram
+
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor](https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor-a-3d1faf14-aec4-4a06-bb11-49fec1dfe2eb#ref=rss)
+### weimer
+
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor](https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor-a-3d1faf14-aec4-4a06-bb11-49fec1dfe2eb#ref=rss)
+### buchhandlungspreis
+
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor](https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor-a-3d1faf14-aec4-4a06-bb11-49fec1dfe2eb#ref=rss)
+### läden
+
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor](https://www.spiegel.de/kultur/literatur/wolfram-weimer-und-der-buchhandlungspreis-ausgeschlossene-laeden-werfen-dem-kulturstaatsminister-taeuschung-vor-a-3d1faf14-aec4-4a06-bb11-49fec1dfe2eb#ref=rss)
+### eva
+
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+### maria
+
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+### michelmann
+
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### familie
+
+* [https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden](https://www.spiegel.de/kultur/deutsche-journalistin-in-syrien-spurlos-verschwunden-a-5334d5c0-8b13-4d32-9550-3bb1ce285054#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an-a-8e82c2d3-55f2-4d57-af14-89f24a27fcb2#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### partei
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### droht
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### rechenschaftsbericht
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### millionenstrafe
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe](https://www.spiegel.de/panorama/gesellschaft/afd-der-partei-droht-wegen-falschem-erbe-im-rechenschaftsbericht-eine-millionenstrafe-a-f2909abc-1a3b-4f6c-abe7-8b5e43bc966c#ref=rss)
+### lsd
+
+* [https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank](https://www.spiegel.de/wissenschaft/mensch/lsd-forscher-rekonstruieren-rezeptur-fuer-antiken-drogen-trank-a-2fd22119-55b6-4ba5-a960-c311addad57b#ref=rss)
+### zoll
+
+* [https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus](https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus-a-e5a17e75-7e7f-453a-a7a7-50bdc6226681#ref=rss)
+### wohnhaus
+
+* [https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus](https://www.spiegel.de/panorama/justiz/bovenden-zoll-entdeckt-mutmasslich-illegale-tankstelle-in-wohnhaus-a-e5a17e75-7e7f-453a-a7a7-50bdc6226681#ref=rss)
+### angesichts
+
+* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-das-koennen-sie-angesichts-der-hohen-spritpreise-tun-a-dd32aeef-57e6-443a-bdc4-aeef292bf062#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland](https://www.spiegel.de/wirtschaft/porsche-taumelt-rheinmetall-jubelt-panzer-statt-porsche-ist-keine-loesung-fuer-deutschland-a-4dd00f32-c075-46fd-b904-0434295c714f#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+### emirate
+
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+### gedicht
+
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht](https://www.spiegel.de/ausland/iran-krieg-mohammed-bin-zayed-verfasst-patriotisches-gedicht-a-b9271679-cd1b-420e-b7fd-c3b2097678bd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### kerzers
+
+* [https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme](https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme-a-ac263519-aeda-43e6-9a8a-eea3beaa07e9#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme](https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme-a-ac263519-aeda-43e6-9a8a-eea3beaa07e9#ref=rss)
+### brand
+
+* [https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme](https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme-a-ac263519-aeda-43e6-9a8a-eea3beaa07e9#ref=rss)
+### bus
+
+* [https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme](https://www.spiegel.de/panorama/justiz/kerzers-feuer-in-bus-toetet-sechs-menschen-verdaechtiger-hatte-wohl-psychische-probleme-a-ac263519-aeda-43e6-9a8a-eea3beaa07e9#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein](https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein-a-c1585b88-cdee-4fb2-a9b1-9173f1042cec#ref=rss)
+### palmer
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein](https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein-a-c1585b88-cdee-4fb2-a9b1-9173f1042cec#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein](https://www.spiegel.de/politik/deutschland/boris-palmer-staatsanwaltschaft-stellt-verfahren-gegen-tuebinger-oberbuergermeister-ein-a-c1585b88-cdee-4fb2-a9b1-9173f1042cec#ref=rss)
+### rené
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an-a-8e82c2d3-55f2-4d57-af14-89f24a27fcb2#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/der-fall-rene-benko-weitere-familienstiftung-meldet-insolvenz-an-a-8e82c2d3-55f2-4d57-af14-89f24a27fcb2#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende](https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende-a-252c94bc-3eab-49f0-9d7e-0655b4566cb1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende](https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende-a-252c94bc-3eab-49f0-9d7e-0655b4566cb1#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende](https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende-a-252c94bc-3eab-49f0-9d7e-0655b4566cb1#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende](https://www.spiegel.de/ausland/israel-weitet-angriffe-auf-den-libanon-aus-dort-fliehen-hunderttausende-a-252c94bc-3eab-49f0-9d7e-0655b4566cb1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung](https://www.spiegel.de/wissenschaft/iran-krieg-angriffe-auf-entsalzungsanlagen-bedrohen-trinkwasserversorgung-a-aafc8208-bfbb-4587-8a77-6a7e4876acc2#ref=rss)
 
