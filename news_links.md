@@ -4,337 +4,360 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
-
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro](https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro-a-4a67df1c-d18d-406b-8378-72a1c15eb109#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-* [https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird](https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird-a-7f14b08a-2a58-40fe-90fb-c190b015134b#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben](https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern](https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### iran
 
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### preise
-
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne](https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne-a-387d2a66-9cb0-45f8-974f-856b82611d38#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### gleichzeitig
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-* [https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz](https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz-a-4854604d-2de6-4158-a420-4d46d7f1d117#ref=rss)
-### krise
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-### osbourne
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet-a-d2fa47cc-ff02-4abf-9ead-abf3fc3cc2b8#ref=rss)
-### gewinn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird](https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird-a-7f14b08a-2a58-40fe-90fb-c190b015134b#ref=rss)
-* [https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern](https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern-a-36a32028-cd87-44ba-b8c4-52e0cb313d1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/lufthansa-zweitaegiger-pilotenstreik-hat-begonnen](https://www.spiegel.de/wirtschaft/service/lufthansa-zweitaegiger-pilotenstreik-hat-begonnen-a-9ca9754f-1a89-4f5f-be94-f9543a09013f#ref=rss)
-### drittel
-
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### analyse
-
-* [https://www.spiegel.de/start/fachkraeftemangel-benefits-in-stellenanzeigen-ueberzeugen-azubis-nur-bedingt](https://www.spiegel.de/start/fachkraeftemangel-benefits-in-stellenanzeigen-ueberzeugen-azubis-nur-bedingt-a-49b0ead5-4de4-4b1e-9191-a2ffc1248044#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/start/fachkraeftemangel-benefits-in-stellenanzeigen-ueberzeugen-azubis-nur-bedingt](https://www.spiegel.de/start/fachkraeftemangel-benefits-in-stellenanzeigen-ueberzeugen-azubis-nur-bedingt-a-49b0ead5-4de4-4b1e-9191-a2ffc1248044#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020](https://www.spiegel.de/mobilitaet/auto/elektroautos-preise-fuer-e-autos-sinken-erstmals-seit-2020-a-5ca5932e-57ad-482b-a622-d77a7ceeb63b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-### gehirn
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-### aufgaben
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-### erledigen
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht](https://www.spiegel.de/wissenschaft/mensch/multitasking-menschliches-gehirn-ist-nicht-fuer-mehrere-aufgaben-gemacht-a-28a30f8c-701e-4820-964f-d7b36e0900fb#ref=rss)
-* [https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer](https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer-a-acffb068-affb-4ee7-ae85-febba20f8a52#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/justiz/bayern-fussballtrainer-soll-jugendliche-in-umkleiden-und-duschen-gefilmt-haben](https://www.spiegel.de/panorama/justiz/bayern-fussballtrainer-soll-jugendliche-in-umkleiden-und-duschen-gefilmt-haben-a-af96339a-4a8c-4047-9ccc-aec07a6c5cc7#ref=rss)
-### hunderten
-
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-### studierenden
-
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-### droht
-
-* [https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung](https://www.spiegel.de/start/einwanderungspolitik-hunderten-indischen-studierenden-in-berlin-droht-abschiebung-a-cc9b580c-a607-41e6-af59-6c89ce25c444#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund](https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund-a-f75d592c-8efd-4a8b-abf3-a0706ec73fcf#ref=rss)
-### steigenden
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-prognose-irankrieg-bremst-wirtschaft-in-deutschland-a-e31a1f0a-bae6-4490-9350-eb9db572a621#ref=rss)
-### ozzy
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### jack
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### benennt
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### vater
-
-* [https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater](https://www.spiegel.de/kultur/ozzy-osbourne-sohn-jack-osbourne-benennt-seine-tochter-nach-seinem-vater-a-ca2f16de-d1cb-4508-9fe2-a7c82475bb0d#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-* [https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern](https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern-a-36a32028-cd87-44ba-b8c4-52e0cb313d1f#ref=rss)
-### 5000
-
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-### bank
-
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund](https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund-a-f75d592c-8efd-4a8b-abf3-a0706ec73fcf#ref=rss)
-### geld
-
-* [https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule](https://www.spiegel.de/panorama/niedersachsen-siebenjaehriger-nimmt-5000-euro-mit-in-die-schule-a-e6bfebfe-8411-4fca-9168-573a39c8e7ae#ref=rss)
-* [https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern](https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern-a-36a32028-cd87-44ba-b8c4-52e0cb313d1f#ref=rss)
-### champions
-
-* [https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich](https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich-a-1b0168c0-c3b0-4fcb-8cce-f2b629f5d218#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich](https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich-a-1b0168c0-c3b0-4fcb-8cce-f2b629f5d218#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### pedro
-
-* [https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich](https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich-a-1b0168c0-c3b0-4fcb-8cce-f2b629f5d218#ref=rss)
-### neto
-
-* [https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich](https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich-a-1b0168c0-c3b0-4fcb-8cce-f2b629f5d218#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch](https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch-a-b6a320af-f78c-4951-96a5-bbdf0d00d7cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht](https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich](https://www.spiegel.de/sport/fussball/champions-league-chelsea-profi-pedro-neto-schubst-balljungen-und-entschuldigt-sich-a-1b0168c0-c3b0-4fcb-8cce-f2b629f5d218#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-### wolfram
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+* [https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen](https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen-a-e224bd5f-6064-49f7-aadd-246f13ce6a11#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### orbán
 
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne](https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne-a-387d2a66-9cb0-45f8-974f-856b82611d38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### bedroht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung](https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung-a-91218402-7688-44a7-8287-3069edcf9849#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
 ### weimer
 
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne](https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne-a-387d2a66-9cb0-45f8-974f-856b82611d38#ref=rss)
-### kulturstaatsminister
+* [https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch](https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch-a-f5985825-3c46-463d-b6ef-96bb3fa84697#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### gold
 
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne](https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne-a-387d2a66-9cb0-45f8-974f-856b82611d38#ref=rss)
-### bmw
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom](https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom-a-07db5f8d-f368-46af-85d3-a588b7998523#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-### macht
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr-a-9dce17a2-07fa-4a2b-8409-378f83aa90ed#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bmw-autobauer-macht-etwas-weniger-gewinn-a-b1305c23-0dd5-4e5d-9ff5-1e027d3ac759#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### verklagen
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+### opfer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund](https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund-a-f75d592c-8efd-4a8b-abf3-a0706ec73fcf#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund](https://www.spiegel.de/wirtschaft/unternehmen/ex-manager-verklagen-deutsche-bank-auf-600-millionen-pfund-a-f75d592c-8efd-4a8b-abf3-a0706ec73fcf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro](https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro-a-4a67df1c-d18d-406b-8378-72a1c15eb109#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt](https://www.spiegel.de/panorama/justiz/mehr-als-eine-million-euro-pro-abschiebehaeftling-scharfe-kritik-an-neubauprojekt-a-8891e7e3-77ad-420b-8671-fe11e0cbc5a1#ref=rss)
-* [https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz](https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz-a-4854604d-2de6-4158-a420-4d46d7f1d117#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-### irankriegs
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit](https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen](https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen-a-b15d53c9-997b-4295-8644-0edada84ee35#ref=rss)
-### jeanette
-
-* [https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind](https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind-a-e8500944-4dbd-4c6a-ab6d-829f530cf11e#ref=rss)
-### biedermann
-
-* [https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind](https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind-a-e8500944-4dbd-4c6a-ab6d-829f530cf11e#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind](https://www.spiegel.de/panorama/leute/jeanette-biedermann-popsaengerin-erwartet-mit-46-ihr-erstes-kind-a-e8500944-4dbd-4c6a-ab6d-829f530cf11e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet-a-d2fa47cc-ff02-4abf-9ead-abf3fc3cc2b8#ref=rss)
-### 10500
-
-* [https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro](https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro-a-4a67df1c-d18d-406b-8378-72a1c15eb109#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro](https://www.spiegel.de/panorama/bildung/schul-kosten-ausgaben-pro-schuelerin-und-schueler-steigen-auf-10-500-euro-a-4a67df1c-d18d-406b-8378-72a1c15eb109#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen](https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen-a-b15d53c9-997b-4295-8644-0edada84ee35#ref=rss)
-### weist
-
-* [https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger](https://www.spiegel.de/wirtschaft/tanken-sprit-ist-erstmals-seit-beginn-des-irankriegs-wieder-guenstiger-a-91457b8c-528c-48d0-bbaf-06a823de8d71#ref=rss)
-* [https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer](https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer-a-acffb068-affb-4ee7-ae85-febba20f8a52#ref=rss)
-### mai
-
-* [https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen](https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen-a-3bb696b1-e5b2-4500-987b-43ac9ada4997#ref=rss)
-### thi
-
-* [https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen](https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen-a-3bb696b1-e5b2-4500-987b-43ac9ada4997#ref=rss)
-### nguyenkim
-
-* [https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen](https://www.spiegel.de/kultur/tv/grimme-preise-mai-thi-nguyen-kim-und-cum-ex-serie-gewinnen-a-3bb696b1-e5b2-4500-987b-43ac9ada4997#ref=rss)
-### eckernförde
-
-* [https://www.spiegel.de/panorama/justiz/eckernfoerde-jugendlicher-stirbt-nach-gewalttat-auf-supermarktparkplatz](https://www.spiegel.de/panorama/justiz/eckernfoerde-jugendlicher-stirbt-nach-gewalttat-auf-supermarktparkplatz-a-5e81386f-f94e-48e8-b6b1-6170de269059#ref=rss)
-### jugendlicher
-
-* [https://www.spiegel.de/panorama/justiz/eckernfoerde-jugendlicher-stirbt-nach-gewalttat-auf-supermarktparkplatz](https://www.spiegel.de/panorama/justiz/eckernfoerde-jugendlicher-stirbt-nach-gewalttat-auf-supermarktparkplatz-a-5e81386f-f94e-48e8-b6b1-6170de269059#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-### außenpolitik
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-* [https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird](https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird-a-7f14b08a-2a58-40fe-90fb-c190b015134b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben](https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung](https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung-a-91218402-7688-44a7-8287-3069edcf9849#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur](https://www.spiegel.de/politik/deutschland/friedrich-merz-aussenpolitik-macht-der-kanzler-wirklich-eine-gute-figur-a-057548a0-f67d-49d5-b238-2a62ea9a5b6b#ref=rss)
-* [https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird](https://www.spiegel.de/politik/mini-atomreaktoren-warum-das-kernkraft-comeback-wohl-ausfallen-wird-a-7f14b08a-2a58-40fe-90fb-c190b015134b#ref=rss)
-### usamerikaner
+* [https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben](https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### land
 
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-### sieht
+* [https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch](https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch-a-b6a320af-f78c-4951-96a5-bbdf0d00d7cd#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf](https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf-a-13873774-7ff7-4e41-8351-61cdb54c8f72#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-### befragung
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-### weltuntergang
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen](https://www.spiegel.de/wissenschaft/mensch/apokalypse-ein-drittel-der-us-amerikaner-sieht-laut-befragung-den-weltuntergang-kommen-a-14738030-18cc-4546-8aba-5a37c93b86b1#ref=rss)
-### disney+
+* [https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern](https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern](https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern-a-36a32028-cd87-44ba-b8c4-52e0cb313d1f#ref=rss)
-### kunden
+* [https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern](https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae](https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae-a-5a44f293-524e-4ede-a734-e5aea4ec6773#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern](https://www.spiegel.de/netzwelt/disney-kunden-koennen-wohl-geld-zurueckfordern-a-36a32028-cd87-44ba-b8c4-52e0cb313d1f#ref=rss)
-### daimler
+* [https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen](https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen-a-d0b3d588-7d82-4712-affe-d57acd275d62#ref=rss)
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### truck
+* [https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen](https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen-a-d0b3d588-7d82-4712-affe-d57acd275d62#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-gewinn-um-34-prozent-eingebrochen-a-a187c40f-788e-4858-a0e0-5305324f284c#ref=rss)
-### rolltreppen
+* [https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen](https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen-a-d0b3d588-7d82-4712-affe-d57acd275d62#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae](https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae-a-5a44f293-524e-4ede-a734-e5aea4ec6773#ref=rss)
+### haft
 
-* [https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz](https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz-a-4854604d-2de6-4158-a420-4d46d7f1d117#ref=rss)
-### hauptbahnhof
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz](https://www.spiegel.de/panorama/rolltreppen-am-hauptbahnhof-ein-berliner-treppenwitz-a-4854604d-2de6-4158-a420-4d46d7f1d117#ref=rss)
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+* [https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen](https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen-a-e224bd5f-6064-49f7-aadd-246f13ce6a11#ref=rss)
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### wolfram
+
+* [https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch](https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch-a-f5985825-3c46-463d-b6ef-96bb3fa84697#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch](https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch-a-f5985825-3c46-463d-b6ef-96bb3fa84697#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### früher
+
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv](https://www.spiegel.de/panorama/justiz/mutmasslicher-menschenraub-mit-faeusten-und-schreckschusswaffe-spiegel-tv-a-1d93cf9a-1ecc-42d5-8bd6-3ad0769f2509#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben](https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben](https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch](https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch-a-b6a320af-f78c-4951-96a5-bbdf0d00d7cd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht](https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss)
+### kurzwellensender
+
+* [https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch](https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch-a-b6a320af-f78c-4951-96a5-bbdf0d00d7cd#ref=rss)
+### botschaften
+
+* [https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch](https://www.spiegel.de/wissenschaft/technik/irankrieg-kurzwellensender-in-westeuropa-funkt-mysterioese-botschaften-auf-persisch-a-b6a320af-f78c-4951-96a5-bbdf0d00d7cd#ref=rss)
+### arctic
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+### metagaz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+### mittelmeer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+### behauptet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### familie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung](https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung-a-91218402-7688-44a7-8287-3069edcf9849#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung](https://www.spiegel.de/panorama/justiz/mannheim-jugendlicher-soll-19-jaehrige-getoetet-haben-mordermittlung-a-91218402-7688-44a7-8287-3069edcf9849#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf](https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf-a-13873774-7ff7-4e41-8351-61cdb54c8f72#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf](https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf-a-13873774-7ff7-4e41-8351-61cdb54c8f72#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf](https://www.spiegel.de/ausland/belarus-internationaler-strafgerichtshof-nimmt-ermittlungen-auf-a-13873774-7ff7-4e41-8351-61cdb54c8f72#ref=rss)
+### otto
+
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+### köhler
+
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+### 91
+
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren](https://www.spiegel.de/kultur/otto-koehler-gestorben-spiegel-journalist-und-medienkritiker-im-alter-von-91-jahren-a-e9958f52-28c0-4650-b3d4-667b8595168d#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern](https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss)
+### verhindern
+
+* [https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern](https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss)
+### brave
+
+* [https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt](https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt-a-3a0cca5a-241a-4426-9638-77dcb77e1784#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt](https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt-a-3a0cca5a-241a-4426-9638-77dcb77e1784#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt](https://www.spiegel.de/kultur/brave-maedchen-wie-ein-podcast-ard-und-zdf-beschaedigt-a-3a0cca5a-241a-4426-9638-77dcb77e1784#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### rätsel
+
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr-a-9dce17a2-07fa-4a2b-8409-378f83aa90ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae](https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae-a-5a44f293-524e-4ede-a734-e5aea4ec6773#ref=rss)
+### linksverkehr
+
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-herrscht-in-manchen-laendern-linksverkehr-a-9dce17a2-07fa-4a2b-8409-378f83aa90ed#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+### wette
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae](https://www.spiegel.de/wissenschaft/weltall/astronomie-forscher-lueften-das-raetsel-der-superhellen-supernovae-a-5a44f293-524e-4ede-a734-e5aea4ec6773#ref=rss)
+### kommentar
+
+* [https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette](https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-generalsekretaerin-nicole-buettner-und-die-verlorene-wette-a-bfb76a7e-0009-4d23-a885-808f7255785a#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### königinnen
+
+* [https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen](https://www.spiegel.de/wissenschaft/natur/hummeln-koeniginnen-koennen-unter-wasser-atmen-a-d0b3d588-7d82-4712-affe-d57acd275d62#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen](https://www.spiegel.de/wirtschaft/rene-benko-will-offenbar-zum-tischler-umschulen-a-73863091-e9e2-4154-9c59-18a00f453a49#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht](https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen](https://www.spiegel.de/ausland/russland-anschlag-auf-konzerthalle-in-moskau-lebenslange-haft-fuer-terroristen-a-79108cf4-d866-470b-8b91-4e997b96f6b7#ref=rss)
+### äthiopien
+
+* [https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen](https://www.spiegel.de/panorama/aethiopien-mehr-als-60-tote-nach-erdrutschen-a-e224bd5f-6064-49f7-aadd-246f13ce6a11#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003](https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003-a-74d00ac6-53a1-450e-aa3e-7f1adaaf1a36#ref=rss)
+### kidman
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003](https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003-a-74d00ac6-53a1-450e-aa3e-7f1adaaf1a36#ref=rss)
+### 2003
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003](https://www.spiegel.de/kultur/kino/nicole-kidman-erlebte-blackout-bei-den-oscars-2003-a-74d00ac6-53a1-450e-aa3e-7f1adaaf1a36#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer](https://www.spiegel.de/wirtschaft/spritpreise-deutschland-im-eu-vergleich-benzin-und-diesel-besonders-teuer-a-1fb7b293-187d-4c7c-ad51-51b816cfa7c9#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### 2112
+
+* [https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand](https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand-a-90b202a6-084a-4eca-bc65-7892eae0112a#ref=rss)
+### rush
+
+* [https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand](https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand-a-90b202a6-084a-4eca-bc65-7892eae0112a#ref=rss)
+### viele
+
+* [https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand](https://www.spiegel.de/geschichte/rush-50-jahre-2112-und-die-kontroverse-ayn-rand-a-90b202a6-084a-4eca-bc65-7892eae0112a#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### erzbistum
+
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### paderborn
+
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt](https://www.spiegel.de/panorama/erzbistum-paderborn-studie-zeigt-mehr-missbrauch-faelle-als-bisher-bekannt-a-a8ae6a65-db08-4c2d-a8c5-a9bbb7b02a00#ref=rss)
+### kulturstaatsminister
+
+* [https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch](https://www.spiegel.de/panorama/leute/wolfram-weimer-und-die-tegernsee-affaere-letztlich-profitiert-er-immer-noch-a-f5985825-3c46-463d-b6ef-96bb3fa84697#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
 ### ungarn
 
-* [https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer](https://www.spiegel.de/ausland/druschba-pipeline-ungarn-und-ukraine-streiten-wegen-besuch-ungarischer-pruefer-a-acffb068-affb-4ee7-ae85-febba20f8a52#ref=rss)
-### texas
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden](https://www.spiegel.de/ausland/ungarn-viktor-orban-behauptet-von-ukrainern-bedroht-zu-werden-a-5ddbcc84-c7e2-4cb0-bfa8-26c292b1a0a0#ref=rss)
+### zulassung
 
-* [https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet-a-d2fa47cc-ff02-4abf-9ead-abf3fc3cc2b8#ref=rss)
-### freundin
+* [https://www.spiegel.de/karriere/digitale-weiterbildung-bgh-urteil-ermoeglicht-rueckerstattung-bei-onlinekursen-ohne-zulassung](https://www.spiegel.de/karriere/digitale-weiterbildung-bgh-urteil-ermoeglicht-rueckerstattung-bei-onlinekursen-ohne-zulassung-a-a5bd5da2-5acf-4601-9494-c0b1bcad1d49#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-mann-in-texas-wegen-mordes-an-freundin-und-deren-sohn-hingerichtet-a-d2fa47cc-ff02-4abf-9ead-abf3fc3cc2b8#ref=rss)
-### pep
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+### chef
 
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### guardiola
+* [https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss](https://www.spiegel.de/kultur/friedrich-merz-und-wolfram-weimer-wer-ist-hier-der-boss-a-7bb66cc5-48d7-4e43-b09c-e2811a4a5417#ref=rss)
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
+### opernstiftung
 
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### manchester
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### city
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### presse
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
+### brandt
 
-* [https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert](https://www.spiegel.de/sport/fussball/champions-league-pep-guardiola-und-manchester-city-von-presse-attackiert-a-2410ea1e-6660-48f9-90ba-8bf193f8a61d#ref=rss)
-### annett
+* [https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef](https://www.spiegel.de/kultur/opernstiftung-berlin-stefan-brandt-wird-neuer-chef-a-9c7fbcbb-36c7-4213-8be5-dce26b52e435#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen](https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen-a-b15d53c9-997b-4295-8644-0edada84ee35#ref=rss)
-### kaufmann
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### blank
 
-* [https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen](https://www.spiegel.de/sport/tischtennis-star-annett-kaufmann-berichtet-von-morddrohungen-a-b15d53c9-997b-4295-8644-0edada84ee35#ref=rss)
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### wirtschaftsminister
+
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt](https://www.spiegel.de/panorama/wolfgang-blank-wirtschaftsminister-von-mecklenburg-vorpommern-bei-autounfall-verletzt-a-cafa1af8-9e8c-451e-a207-deaa0daa90dd#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise](https://www.spiegel.de/wissenschaft/kaffeeproduktion-weltmarktfuehrer-brasilien-leidet-unter-starkregen-durch-klimakrise-a-954b8799-a4dd-49a0-b423-99a6c9f491fa#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht](https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht](https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom](https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom-a-07db5f8d-f368-46af-85d3-a588b7998523#ref=rss)
+### riesenslalom
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom](https://www.spiegel.de/sport/olympia/paralympics-2026-monoskifahrerin-anna-lena-forster-gewinnt-ueberlegen-gold-im-riesenslalom-a-07db5f8d-f368-46af-85d3-a588b7998523#ref=rss)
 
