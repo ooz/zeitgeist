@@ -4,333 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### irankrieg
 
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss](https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss-a-785f5a5a-bc9b-43de-b0bf-16973a7726ac#ref=rss)
-* [https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern](https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern-a-263137ea-a537-455c-957f-aa30a5f811f8#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik-a-a846e690-b38e-4322-849c-e3de1d9ece14#ref=rss)
-* [https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz](https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz-a-8972211f-3538-43b2-8e8b-b8bc7cfd82e5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft](https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft-a-31070dfd-dd62-44b4-b989-145e2d8afd93#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### afd
-
-* [https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie](https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie-a-26145c8a-0048-4199-ae02-6438f3360249#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen](https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen-a-5be99c66-cb09-4f5f-8561-8774a46355d8#ref=rss)
-### spd
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss](https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss-a-785f5a5a-bc9b-43de-b0bf-16973a7726ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr-a-514c4eff-8bfa-4722-90c6-046e7457a7a1#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern](https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern-a-25ebd746-f0ab-4b06-8439-4c328ef314e7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht](https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht-a-06f260fa-3949-4d1f-8df6-79d9840b1c3a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+### becker
+
+* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
+### tanja
+
+* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### 2026
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss](https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss-a-e2fdbb91-36bf-46f6-b84c-98d3848e5822#ref=rss)
-### alle
+* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss](https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss-a-e2fdbb91-36bf-46f6-b84c-98d3848e5822#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
+### büttner
 
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss](https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss-a-785f5a5a-bc9b-43de-b0bf-16973a7726ac#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
+### bafög
 
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### fast
+* [https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen](https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen-a-12835955-94c8-467b-9dc9-fd6e74904f76#ref=rss)
+### konditionen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-* [https://www.spiegel.de/panorama/der-fruehling-kommt-zurueck-mit-sonne-und-fast-20-grad](https://www.spiegel.de/panorama/der-fruehling-kommt-zurueck-mit-sonne-und-fast-20-grad-a-5aff8e08-62a6-433f-9ad1-f551d8814175#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft](https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft-a-31070dfd-dd62-44b4-b989-145e2d8afd93#ref=rss)
-### münchen
+* [https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen](https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen-a-12835955-94c8-467b-9dc9-fd6e74904f76#ref=rss)
+### zerschlagung
 
-* [https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-ablass-im-schnellcheck](https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-ablass-im-schnellcheck-a-1381b6c0-1ecb-4e28-823e-9ab264ec06dc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft](https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft-a-31070dfd-dd62-44b4-b989-145e2d8afd93#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### feiert
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars](https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars-a-e50b28a0-2a20-47bb-9003-27aad4226645#ref=rss)
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-### pakistan
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an](https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an-a-94f912db-1fdd-4628-916b-17f5c9ac3fc2#ref=rss)
-### spritpreise
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### ächzt
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss)
-* [https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern](https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern-a-25ebd746-f0ab-4b06-8439-4c328ef314e7#ref=rss)
-### hamster
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
+### aufgewachsen
 
-* [https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik-a-a846e690-b38e-4322-849c-e3de1d9ece14#ref=rss)
-### kritik
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik-a-a846e690-b38e-4322-849c-e3de1d9ece14#ref=rss)
-### erst
+* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus-a-f283161f-ac36-4492-b416-5489ecbe2fab#ref=rss)
+### preise
 
-* [https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tierquaelerei-in-china-hamster-im-greifautomat-sorgt-fuer-kritik-a-a846e690-b38e-4322-849c-e3de1d9ece14#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### nation
+* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus-a-f283161f-ac36-4492-b416-5489ecbe2fab#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
+### schwangere
 
-* [https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie](https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie-a-26145c8a-0048-4199-ae02-6438f3360249#ref=rss)
-### kyffhäuserdenkmal
+* [https://www.spiegel.de/panorama/justiz/loehne-schwangere-frau-stirbt-bei-verkehrsunfall](https://www.spiegel.de/panorama/justiz/loehne-schwangere-frau-stirbt-bei-verkehrsunfall-a-ededfde0-6d5e-41d6-bb11-1fbba632141e#ref=rss)
+### rex
 
-* [https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie](https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie-a-26145c8a-0048-4199-ae02-6438f3360249#ref=rss)
-### wir
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+### nahen
 
-* [https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie](https://www.spiegel.de/geschichte/afd-und-die-nation-kyffhaeuser-denkmal-als-symbol-fuer-voelkische-ideologie-a-26145c8a-0048-4199-ae02-6438f3360249#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss](https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss-a-e2fdbb91-36bf-46f6-b84c-98d3848e5822#ref=rss)
-### oscars
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-### academy
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
+### neu
 
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz](https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz-a-c3f994e1-0fe1-4cee-b6b6-b6b3ce861006#ref=rss)
-### awards
-
-* [https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2026-alle-nominierten-der-academy-awards-in-der-uebersicht-a-6690dd5d-e67e-4179-a652-747d12b22abe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz](https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz-a-c3f994e1-0fe1-4cee-b6b6-b6b3ce861006#ref=rss)
-### testen
-
-* [https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz](https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz-a-c3f994e1-0fe1-4cee-b6b6-b6b3ce861006#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz](https://www.spiegel.de/kultur/kino/oscar-filmquiz-testen-sie-ihr-wissen-im-oscar-edition-quiz-a-c3f994e1-0fe1-4cee-b6b6-b6b3ce861006#ref=rss)
-### zé
-
-* [https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele](https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele-a-e3c7ac55-eb4a-4f1c-84cd-9250fba277ed#ref=rss)
-### roberto
-
-* [https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele](https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele-a-e3c7ac55-eb4a-4f1c-84cd-9250fba277ed#ref=rss)
-### sex
-
-* [https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele](https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele-a-e3c7ac55-eb4a-4f1c-84cd-9250fba277ed#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele](https://www.spiegel.de/sport/fussball/ze-roberto-sein-tagesablauf-frueher-fussball-sex-und-videospiele-a-e3c7ac55-eb4a-4f1c-84cd-9250fba277ed#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an](https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an-a-94f912db-1fdd-4628-916b-17f5c9ac3fc2#ref=rss)
-### straße
-
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-* [https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz](https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz-a-8972211f-3538-43b2-8e8b-b8bc7cfd82e5#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an](https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an-a-94f912db-1fdd-4628-916b-17f5c9ac3fc2#ref=rss)
-### anders
-
-* [https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten](https://www.spiegel.de/politik/deutschland/iran-strasse-von-hormus-politiker-in-berlin-uneins-ueber-einsatz-deutscher-soldaten-a-496c7e4c-89dc-4720-84ba-6a23d1e23c13#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an](https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an-a-94f912db-1fdd-4628-916b-17f5c9ac3fc2#ref=rss)
-### werder
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05-a-10a1fd20-4c77-401e-8ab7-2579714204a9#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05-a-10a1fd20-4c77-401e-8ab7-2579714204a9#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05-a-10a1fd20-4c77-401e-8ab7-2579714204a9#ref=rss)
-### 05
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-werder-bremen-unterliegt-im-abstiegsduell-mainz-05-a-10a1fd20-4c77-401e-8ab7-2579714204a9#ref=rss)
-### xavier
-
-* [https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz](https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz-a-8972211f-3538-43b2-8e8b-b8bc7cfd82e5#ref=rss)
-### naidoo
-
-* [https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz](https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz-a-8972211f-3538-43b2-8e8b-b8bc7cfd82e5#ref=rss)
-### umfeld
-
-* [https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz](https://www.spiegel.de/kultur/xavier-naidoo-demo-noch-einmal-bitte-ohne-babygewuerz-a-8972211f-3538-43b2-8e8b-b8bc7cfd82e5#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss](https://www.spiegel.de/tests/elektronik/gaming-headsets-im-test-2026-mit-diesen-kopfhoerern-hoeren-sie-jeden-schuss-a-e2fdbb91-36bf-46f6-b84c-98d3848e5822#ref=rss)
-### marco
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-### maier
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm](https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm-a-74a49bb5-8af9-493b-a9dc-a3255e93958d#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor](https://www.spiegel.de/sport/olympia/paralympics-2026-marco-maier-kritisiert-bedingungen-und-schlaegt-januar-als-neuen-termin-vor-a-875ee4f7-f2cf-4c32-9725-da08d007e6a7#ref=rss)
-### cartoons
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### leonard
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### riegel
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-leonard-riegel-a-3d21fd4c-03f8-41a5-bdec-73eb17596300#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### 96
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### edin
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### džeko
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot](https://www.spiegel.de/sport/fussball/2-bundesliga-schalke-04-spielt-remis-gegen-hannover-96-und-verliert-stuermerstar-edin-dzeko-durch-rot-a-8491c106-2beb-48e9-8850-7ab701856a28#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen](https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen-a-5be99c66-cb09-4f5f-8561-8774a46355d8#ref=rss)
-### müller
-
-* [https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen](https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen-a-5be99c66-cb09-4f5f-8561-8774a46355d8#ref=rss)
-### landes
-
-* [https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen](https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen-a-5be99c66-cb09-4f5f-8561-8774a46355d8#ref=rss)
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-### rechtsextremen
-
-* [https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen](https://www.spiegel.de/wirtschaft/soziales/ex-volkswagen-chef-matthias-mueller-will-brandmauer-zur-afd-ein-stueck-weit-oeffnen-a-5be99c66-cb09-4f5f-8561-8774a46355d8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht](https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht-a-06f260fa-3949-4d1f-8df6-79d9840b1c3a#ref=rss)
-### vorarlberg
-
-* [https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste](https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste-a-330fdcc6-1b9e-42f4-ab42-9dc291ca5327#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste](https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste-a-330fdcc6-1b9e-42f4-ab42-9dc291ca5327#ref=rss)
-### skipiste
-
-* [https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste](https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste-a-330fdcc6-1b9e-42f4-ab42-9dc291ca5327#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste](https://www.spiegel.de/sport/wintersport/vorarlberg-vier-verletzte-bei-naechtlicher-schlauchbootfahrt-auf-skipiste-a-330fdcc6-1b9e-42f4-ab42-9dc291ca5327#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft](https://www.spiegel.de/kultur/musik/bayerische-staatsoper-fast-immer-voll-ausverkauft-a-31070dfd-dd62-44b4-b989-145e2d8afd93#ref=rss)
-### markus
-
-* [https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss](https://www.spiegel.de/wirtschaft/wahnwitzig-spd-energieexpertin-zerreisst-soeders-atom-vorstoss-a-785f5a5a-bc9b-43de-b0bf-16973a7726ac#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/der-fruehling-kommt-zurueck-mit-sonne-und-fast-20-grad](https://www.spiegel.de/panorama/der-fruehling-kommt-zurueck-mit-sonne-und-fast-20-grad-a-5aff8e08-62a6-433f-9ad1-f551d8814175#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr-a-514c4eff-8bfa-4722-90c6-046e7457a7a1#ref=rss)
-### kuba
-
-* [https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern](https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern-a-25ebd746-f0ab-4b06-8439-4c328ef314e7#ref=rss)
-### krise
-
-* [https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern](https://www.spiegel.de/ausland/kuba-raul-guillermo-rodriguez-castro-steht-in-den-startloechern-a-25ebd746-f0ab-4b06-8439-4c328ef314e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### bekannter
-
-* [https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht](https://www.spiegel.de/panorama/gesellschaft/thueringen-neonazis-musizierten-unter-polizeiaufsicht-a-06f260fa-3949-4d1f-8df6-79d9840b1c3a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern](https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern-a-263137ea-a537-455c-957f-aa30a5f811f8#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr-a-514c4eff-8bfa-4722-90c6-046e7457a7a1#ref=rss)
-### kühnert
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-comeback-mit-schrotgewehr-a-514c4eff-8bfa-4722-90c6-046e7457a7a1#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-neuer-urbig-und-ulreich-verletzt-torwartprobleme-verschaerfen-sich-a-a56a5698-0a5f-4056-ab2e-fe75da87d117#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars](https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars-a-e50b28a0-2a20-47bb-9003-27aad4226645#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars](https://www.spiegel.de/sport/formel1/lewis-hamilton-feiert-dritten-platz-in-der-formel-1-der-befreiungsschlag-des-superstars-a-e50b28a0-2a20-47bb-9003-27aad4226645#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an](https://www.spiegel.de/ausland/afghanistan-pakistan-greift-erneut-aus-der-luft-an-a-94f912db-1fdd-4628-916b-17f5c9ac3fc2#ref=rss)
-### nick
-
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-### tilsen
-
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### 80
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
+### kölner
 
-* [https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern](https://www.spiegel.de/ausland/indigener-aktivist-nick-tilsen-die-ureinwohner-dieses-landes-werden-trump-einen-kampf-liefern-a-b9202f21-44ca-4507-95fb-8d511154478f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/soziales/wto-chefin-sieht-welthandel-in-der-tiefsten-krise-seit-dem-zweiten-weltkrieg-a-07a3d114-afd4-46c2-8785-7ed8aa1ae0c8#ref=rss)
-### natascha
+* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
+### dom
 
-* [https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm](https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm-a-74a49bb5-8af9-493b-a9dc-a3255e93958d#ref=rss)
-### kampusch
+* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
+### dombaumeisterin
 
-* [https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm](https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm-a-74a49bb5-8af9-493b-a9dc-a3255e93958d#ref=rss)
-### orf
+* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
+### barbara
 
-* [https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm](https://www.spiegel.de/kultur/tv/natascha-kampusch-orf-nimmt-doku-aus-dem-programm-a-74a49bb5-8af9-493b-a9dc-a3255e93958d#ref=rss)
-### claus
+* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
+### schockwerner
 
-* [https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern](https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern-a-263137ea-a537-455c-957f-aa30a5f811f8#ref=rss)
-### weselsky
+* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
+### csu
 
-* [https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern](https://www.spiegel.de/panorama/leute/claus-weselsky-ex-gewerkschafter-hadert-mit-nachfolgern-a-263137ea-a537-455c-957f-aa30a5f811f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+### oscars
+
+* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2026-die-schoensten-momente-in-bildern](https://www.spiegel.de/kultur/kino/oscars-2026-die-schoensten-momente-in-bildern-a-12f26d5c-fab7-4e48-8488-26a14db41091#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### zwickau
+
+* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
+### mehreren
+
+* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
+### bundesländern
+
+* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
+### donnerstag
+
+* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
+* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
+### grafiken
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### karten
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
+### konflikt
+
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+### lilly
+
+* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
+### may
+
+* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
+### putins
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
+### raimund
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
+* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
+### sprung
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### germanische
+
+* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
+### medizin
+
+* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
+### netz
+
+* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
+### suchen
+
+* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
+* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
+### alec
+
+* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
+### baldwin
+
+* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
+### unicredit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
+### legt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### angebot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss-a-49165a30-7816-43c6-b9af-fb6f8814f567#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### kommunalwahlen
+
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
+### gymnasium
+
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss-a-49165a30-7816-43c6-b9af-fb6f8814f567#ref=rss)
+### wann
+
+* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
+### benzin
+
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
+### diesel
+
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
+### gutachten
+
+* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
+### brandmauer
+
+* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
+### altersteilzeit
+
+* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
 
