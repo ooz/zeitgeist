@@ -6,289 +6,304 @@ tags: __no_header__
 
 ### irankrieg
 
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### euparlament
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-### becker
-
-* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
-### tanja
-
-* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
-### büttner
-
-* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### bafög
-
-* [https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen](https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen-a-12835955-94c8-467b-9dc9-fd6e74904f76#ref=rss)
-### konditionen
-
-* [https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen](https://www.spiegel.de/start/bafoeg-geringe-nachfrage-trotz-guter-konditionen-ursachen-und-loesungen-a-12835955-94c8-467b-9dc9-fd6e74904f76#ref=rss)
-### zerschlagung
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
-### ich
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
-### aufgewachsen
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet](https://www.spiegel.de/wirtschaft/thyssenkrupp-zerschlagung-des-traditionsunternehmens-im-ruhrgebiet-a-c5ffe71b-cee1-42b8-95f4-755612427302#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus-a-f283161f-ac36-4492-b416-5489ecbe2fab#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spricht-sich-gegen-weitere-tankstellen-regulierung-aus-a-f283161f-ac36-4492-b416-5489ecbe2fab#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
-### schwangere
-
-* [https://www.spiegel.de/panorama/justiz/loehne-schwangere-frau-stirbt-bei-verkehrsunfall](https://www.spiegel.de/panorama/justiz/loehne-schwangere-frau-stirbt-bei-verkehrsunfall-a-ededfde0-6d5e-41d6-bb11-1fbba632141e#ref=rss)
-### rex
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-### nahen
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
-### neu
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an](https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an-a-58bc618e-aca0-4171-812a-63fd711358d0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/irankrieg-wie-das-netz-mit-ki-propaganda-geflutet-wird](https://www.spiegel.de/netzwelt/web/irankrieg-wie-das-netz-mit-ki-propaganda-geflutet-wird-a-50bff7c7-c58c-49cb-86e4-7a63e4ea8a74#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne](https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne-a-c6b5a04c-c5a7-40af-8426-2952458e3ad5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an](https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an-a-6a488793-53ca-4081-a12e-5c9d87710384#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-eines-schienbeins-in-den-usa-hatte-tyrannosaurus-rex-einen-nahen-verwandten-a-a18a0ead-73aa-4060-9b3a-dcf110cac8e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
-### kölner
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
-### dom
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
-### dombaumeisterin
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
-### barbara
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
-### schockwerner
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab](https://www.spiegel.de/panorama/gesellschaft/koelner-dom-ehemalige-dombaumeisterin-barbara-schock-werner-lehnt-eintrittsgeld-ab-a-4e802a27-637f-4353-98fc-d3a29094c2b8#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung](https://www.spiegel.de/politik/deutschland/eu-parlament-chatgruppe-mit-afd-csu-fordert-aufklaerung-a-46d7aa62-eefb-4e23-879c-e044c05c0c13#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-### oscars
-
-* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2026-die-schoensten-momente-in-bildern](https://www.spiegel.de/kultur/kino/oscars-2026-die-schoensten-momente-in-bildern-a-12f26d5c-fab7-4e48-8488-26a14db41091#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar](https://www.spiegel.de/kultur/oscars-in-kriegszeiten-eine-feige-veranstaltung-kommentar-a-f474005f-bf03-44ac-bc92-1b58b2efe55f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### zwickau
-
-* [https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-zwickau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-738152f7-f74d-4061-8a85-39cf352922ce#ref=rss)
-### mehreren
-
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
-### bundesländern
-
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
-### donnerstag
-
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
-### beschäftigte
-
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-mehreren-bundeslaendern-am-donnerstag-zu-nahverkehr-streiks-auf-a-9284cb40-cac8-459f-bbf6-85158a43fc4a#ref=rss)
-* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
-### grafiken
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### karten
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### wo
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
-### konflikt
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-### lilly
-
-* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
-### may
-
-* [https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja](https://www.spiegel.de/wirtschaft/lilly-becker-gegen-bild-reporterin-tanja-may-gehts-euch-gut-liebe-gruesse-von-tanja-a-2f00ffb1-17e3-4a63-9b4a-be4180290f26#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen](https://www.spiegel.de/politik/deutschland/militaer-uebung-cold-response-in-norwegen-wo-die-bundeswehr-uebt-wladimir-putin-zurueckzuschlagen-a-fc595995-785d-4778-878a-a40be9f524cd#ref=rss)
-### putins
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg](https://www.spiegel.de/wirtschaft/iran-krieg-europa-zahlt-doppelt-fuer-donald-trumps-konflikt-und-wladimir-putins-krieg-a-7647972d-65cc-4de3-b20b-626f69511d19#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-### philipp
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
-### raimund
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
-* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
-### sprung
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-verzichtet-wegen-starker-winde-auf-start-beim-weltcup-in-oslo-a-6e44d1f9-2bcc-41c1-b010-e3be806e0eef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### germanische
-
-* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
-### medizin
-
-* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
-### netz
-
-* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin](https://www.spiegel.de/panorama/germanische-neue-medizin-erhaelt-im-netz-neue-anhaenger-gefaehrliche-pseudomedizin-a-fb982291-cd21-4e9b-9e75-1f774b740e01#ref=rss)
-* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
-### alec
-
-* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
-### baldwin
-
-* [https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los](https://www.spiegel.de/panorama/leute/alec-baldwin-familie-wird-ihre-millionen-villa-nicht-los-a-d89aac2f-37be-4871-a521-42236115febd#ref=rss)
-### unicredit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
-### legt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### angebot
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
-### commerzbank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-legt-neues-uebernahmeangebot-vor-a-8c3d1328-966d-4e1d-8b37-ee28f757f09e#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben](https://www.spiegel.de/ausland/iran-news-heute-iran-will-seit-kriegsbeginn-700-ballistische-raketen-abgefeuert-haben-a-03026c76-077a-42e0-9501-f6a4a1a6e6ba#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es](https://www.spiegel.de/ausland/iran-krieg-donald-trump-juenger-halten-zu-ihrem-praesidenten-doch-an-den-raendern-broeckelt-es-a-479d2438-bf57-495b-92d9-b1ef8ec8f119#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss-a-49165a30-7816-43c6-b9af-fb6f8814f567#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei](https://www.spiegel.de/politik/deutschland/linke-andreas-buettner-verlaesst-nach-neuem-antisemitismus-skandal-die-partei-a-f8c6d4a8-3405-4cba-a43a-324576461a4a#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### kommunalwahlen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu](https://www.spiegel.de/politik/deutschland/hessen-cdu-bleibt-bei-kommunalwahlen-staerkste-kraft-afd-legt-zu-a-9c9d1753-0faf-406c-b35b-488bf85e43da#ref=rss)
-### gymnasium
-
-* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-muenchner-gymnasium-testet-handytaschen-mit-magnetverschluss-a-49165a30-7816-43c6-b9af-fb6f8814f567#ref=rss)
-### wann
-
-* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-diesen-monat-tun-sollten-und-was-auf-keinen-fall-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-wie-viel-bringt-sprit-sparende-fahrweise-a-6d23cc4a-573f-472d-a575-500ff3d9a5f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-frau-toetet-ihr-baby-direkt-nach-der-geburt-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-frau-toetet-ihr-baby-direkt-nach-der-geburt-fuenf-jahre-haft-a-233a0ebb-38a3-4974-8c2d-9fbd240c6d47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen](https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen-a-59c5344a-d693-4c37-809a-53dacc22fb9d#ref=rss)
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
-### gutachten
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf](https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf-a-1cbf4750-2726-4e13-b1b2-dd250fd1b240#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen](https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen-a-7b3d8cb4-dad3-4c1f-9356-50cab7e30978#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an](https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an-a-6a488793-53ca-4081-a12e-5c9d87710384#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/berlin-gutachten-haelt-gesetz-fuer-mehr-partizipation-fuer-verfassungswidrig-a-bfe23715-ce45-4571-a097-b427f5f98f71#ref=rss)
-### brandmauer
+* [https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg](https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an](https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an-a-6a488793-53ca-4081-a12e-5c9d87710384#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner](https://www.spiegel.de/politik/deutschland/news-iran-bundeswehr-strasse-von-hormus-brandmauer-eu-parlament-fdp-nicole-buettner-a-225e6591-b957-40a0-a721-fd152250cd34#ref=rss)
-### altersteilzeit
+* [https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an](https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an-a-58bc618e-aca0-4171-812a-63fd711358d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer](https://www.spiegel.de/karriere/altersteilzeit-voraussetzungen-und-wichtige-hinweise-fuer-arbeitnehmer-a-2a06741c-73b6-4e6a-b030-391380f7b081#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen](https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen-a-7b3d8cb4-dad3-4c1f-9356-50cab7e30978#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zendaya-ueberrascht-brautpaar-in-las-vegas](https://www.spiegel.de/panorama/leute/zendaya-ueberrascht-brautpaar-in-las-vegas-a-c764167a-c221-465e-9de1-6e35e458aedf#ref=rss)
+### klüssendorf
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
+### parteizentrale
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem-a-bd3e56a3-541a-4189-b193-4966dffabd8d#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen](https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen-a-59c5344a-d693-4c37-809a-53dacc22fb9d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+* [https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland](https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland-a-fc87c896-6580-4059-bfb3-876b83b4c736#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist](https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist-a-ac71ec97-6b6e-4e04-8ca6-e0d0347009f0#ref=rss)
+### oscars
+
+* [https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist](https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist-a-ac71ec97-6b6e-4e04-8ca6-e0d0347009f0#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### palmer
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden-a-aa418c0f-0eea-4f9c-9a20-86efa377d95c#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder](https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder-a-a70687f9-2fa7-4e23-9934-beecc711e000#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
+### chalamet
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-frau-toetet-ihr-baby-direkt-nach-der-geburt-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-frau-toetet-ihr-baby-direkt-nach-der-geburt-fuenf-jahre-haft-a-233a0ebb-38a3-4974-8c2d-9fbd240c6d47#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg](https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an](https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an-a-6a488793-53ca-4081-a12e-5c9d87710384#ref=rss)
+### charg
+
+* [https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg](https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf](https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf-a-1cbf4750-2726-4e13-b1b2-dd250fd1b240#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf](https://www.spiegel.de/wirtschaft/unternehmen/berlin-ver-di-ruft-fuer-mittwoch-zu-warnstreik-am-hauptstadtflughafen-ber-auf-a-1cbf4750-2726-4e13-b1b2-dd250fd1b240#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+### banksy
+
+* [https://www.spiegel.de/kultur/banksy-alias-robin-alias-david](https://www.spiegel.de/kultur/banksy-alias-robin-alias-david-a-f5adfb66-07bd-475d-af23-61a1c258be41#ref=rss)
+### alias
+
+* [https://www.spiegel.de/kultur/banksy-alias-robin-alias-david](https://www.spiegel.de/kultur/banksy-alias-robin-alias-david-a-f5adfb66-07bd-475d-af23-61a1c258be41#ref=rss)
+### künstler
+
+* [https://www.spiegel.de/kultur/banksy-alias-robin-alias-david](https://www.spiegel.de/kultur/banksy-alias-robin-alias-david-a-f5adfb66-07bd-475d-af23-61a1c258be41#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### mineralölkonzerne
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an](https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an-a-58bc618e-aca0-4171-812a-63fd711358d0#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an](https://www.spiegel.de/wirtschaft/irankrieg-koalitions-taskforce-geht-mineraloelkonzerne-wegen-spritpreisen-hart-an-a-58bc618e-aca0-4171-812a-63fd711358d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne](https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne-a-c6b5a04c-c5a7-40af-8426-2952458e3ad5#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+### stabschefin
+
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+### wiles
+
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt](https://www.spiegel.de/ausland/usa-trumps-stabschefin-susie-wiles-offenbar-an-brustkrebs-erkrankt-a-0321f5ff-ad9f-4356-aff5-a79479762854#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an](https://www.spiegel.de/politik/deutschland/darum-legt-sich-berlin-mit-trump-an-a-6a488793-53ca-4081-a12e-5c9d87710384#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ölpreisschock
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+### schadet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+### europa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament](https://www.spiegel.de/politik/deutschland/news-des-tages-oelpreisschock-schadet-europa-kluessendorf-will-spd-parteizentrale-verkleinern-kooperation-der-evp-mit-afd-im-eu-parlament-a-a7304035-7dda-41d6-a7fc-13634a9fa521#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen](https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen-a-7b3d8cb4-dad3-4c1f-9356-50cab7e30978#ref=rss)
+### antibiotika
+
+* [https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen](https://www.spiegel.de/wissenschaft/medizin/studie-zu-spaetfolgen-antibiotika-koennen-mikrobiom-im-darm-fuer-acht-jahre-schaedigen-a-59c5344a-d693-4c37-809a-53dacc22fb9d#ref=rss)
+### kenianer
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen](https://www.spiegel.de/ausland/ukraine-krieg-kenianer-sollen-nicht-mehr-fuer-russland-kaempfen-a-a08f3e9a-3f9b-4e8a-967d-df8c7fb6aafe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen](https://www.spiegel.de/politik/deutschland/spd-tim-kluessendorf-will-parteizentrale-schrumpfen-a-1ecc7fff-7684-46fb-a3a8-ab2010bbda8d#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/testwahl-in-frankreich-wie-radikale-von-rechts-und-links-ihre-macht-ausbauen](https://www.spiegel.de/ausland/testwahl-in-frankreich-wie-radikale-von-rechts-und-links-ihre-macht-ausbauen-a-d29629fb-b235-4971-9f49-23ebfdfde5aa#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/netzwelt/web/irankrieg-wie-das-netz-mit-ki-propaganda-geflutet-wird](https://www.spiegel.de/netzwelt/web/irankrieg-wie-das-netz-mit-ki-propaganda-geflutet-wird-a-50bff7c7-c58c-49cb-86e4-7a63e4ea8a74#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank](https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank-a-9944e997-0156-4ba8-80c3-63092f28f4d5#ref=rss)
+### skandinavien
+
+* [https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland](https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland-a-fc87c896-6580-4059-bfb3-876b83b4c736#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland](https://www.spiegel.de/ausland/nato-manoever-in-skandinavien-uebung-fuer-angriff-durch-russland-a-fc87c896-6580-4059-bfb3-876b83b4c736#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/wissenschaft/natur/ueberleben-in-der-tierwelt-und-dann-wanderte-der-kaefer-wieder-aus-dem-po](https://www.spiegel.de/wissenschaft/natur/ueberleben-in-der-tierwelt-und-dann-wanderte-der-kaefer-wieder-aus-dem-po-a-83f32b16-015b-458c-9f7e-b659753201b3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### auftrag
+
+* [https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen](https://www.spiegel.de/panorama/justiz/berlin-clan-mitglied-liess-offenbar-als-racheakt-feuer-legen-a-7b3d8cb4-dad3-4c1f-9356-50cab7e30978#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne](https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne-a-c6b5a04c-c5a7-40af-8426-2952458e3ad5#ref=rss)
+### greenpeace
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne](https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne-a-c6b5a04c-c5a7-40af-8426-2952458e3ad5#ref=rss)
+### ölkonzerne
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne](https://www.spiegel.de/wirtschaft/irankrieg-greenpeace-kritisiert-uebergewinne-der-oelkonzerne-a-c6b5a04c-c5a7-40af-8426-2952458e3ad5#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### díaz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### einspruch
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sperre-gegen-luis-diaz-dfb-weist-einspruch-durch-fc-bayern-ab-a-c90fe0a0-c4e6-419d-a39e-6e0d323b6cd6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### sean
+
+* [https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist](https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist-a-ac71ec97-6b6e-4e04-8ca6-e0d0347009f0#ref=rss)
+### penn
+
+* [https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist](https://www.spiegel.de/kultur/kino/sean-penn-verpasst-die-oscars-weil-er-in-der-ukraine-ist-a-ac71ec97-6b6e-4e04-8ca6-e0d0347009f0#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen](https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen-a-08e3fad5-9600-45aa-a796-be1a4c6b6740#ref=rss)
+### viktor
+
+* [https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen](https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen-a-08e3fad5-9600-45aa-a796-be1a4c6b6740#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen](https://www.spiegel.de/ausland/orban-poltert-doch-sein-gegner-mobilisiert-die-massen-a-08e3fad5-9600-45aa-a796-be1a4c6b6740#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer](https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer-a-d42e25e4-17f4-44de-a75e-b1b7c603ec23#ref=rss)
+### italien
+
+* [https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer](https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer-a-d42e25e4-17f4-44de-a75e-b1b7c603ec23#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer](https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer-a-d42e25e4-17f4-44de-a75e-b1b7c603ec23#ref=rss)
+### 1990
+
+* [https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer](https://www.spiegel.de/sport/fussball/film-ueber-die-wm-1990-mit-lothar-matthaeus-pierre-littbarski-und-thomas-haessler-dieser-eine-perfekte-sommer-a-d42e25e4-17f4-44de-a75e-b1b7c603ec23#ref=rss)
+### zendaya
+
+* [https://www.spiegel.de/panorama/leute/zendaya-ueberrascht-brautpaar-in-las-vegas](https://www.spiegel.de/panorama/leute/zendaya-ueberrascht-brautpaar-in-las-vegas-a-c764167a-c221-465e-9de1-6e35e458aedf#ref=rss)
+### 25
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+### wikipedia
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+### kurt
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+### jansson
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+### anfangs
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+### wir
+
+* [https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs](https://www.spiegel.de/geschichte/25-jahre-wikipedia-kurt-jansson-erinnert-sich-an-die-anarchie-des-anfangs-a-d7d3fe60-6121-475e-a8e9-7272de049193#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte](https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte-a-e09ced18-6e30-48c2-afe1-4cc6f06678aa#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden-a-aa418c0f-0eea-4f9c-9a20-86efa377d95c#ref=rss)
+### cem
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden-a-aa418c0f-0eea-4f9c-9a20-86efa377d95c#ref=rss)
+### özdemir
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden-a-aa418c0f-0eea-4f9c-9a20-86efa377d95c#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-will-doch-kein-minister-unter-cem-oezdemir-werden-a-aa418c0f-0eea-4f9c-9a20-86efa377d95c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem-a-bd3e56a3-541a-4189-b193-4966dffabd8d#ref=rss)
+### bodo
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem-a-bd3e56a3-541a-4189-b193-4966dffabd8d#ref=rss)
+### ramelow
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-und-jan-korte-kritisieren-massives-antisemitismusproblem-a-bd3e56a3-541a-4189-b193-4966dffabd8d#ref=rss)
+### verlieren
+
+* [https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder](https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder-a-a70687f9-2fa7-4e23-9934-beecc711e000#ref=rss)
+### mitglieder
+
+* [https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder](https://www.spiegel.de/panorama/gesellschaft/kirchen-austritte-evangelische-und-katholische-kirche-verlieren-2025-erneut-mitglieder-a-a70687f9-2fa7-4e23-9934-beecc711e000#ref=rss)
+### übernahmeangebot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank](https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank-a-9944e997-0156-4ba8-80c3-63092f28f4d5#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank](https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank-a-9944e997-0156-4ba8-80c3-63092f28f4d5#ref=rss)
+### misty
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### copeland
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners](https://www.spiegel.de/kultur/kino/timothee-chalamets-spitze-gegen-ballett-und-oper-ballerina-misty-copeland-tanzt-bei-den-oscars-fuer-blood-sinners-a-283350d7-01c3-4f4c-b970-93c64803abcc#ref=rss)
+### peter
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte](https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte-a-e09ced18-6e30-48c2-afe1-4cc6f06678aa#ref=rss)
+### thiel
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte](https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte-a-e09ced18-6e30-48c2-afe1-4cc6f06678aa#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte](https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte-a-e09ced18-6e30-48c2-afe1-4cc6f06678aa#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte](https://www.spiegel.de/ausland/jeffrey-epstein-wie-peter-thiel-auf-die-vorwuerfe-gegen-den-sexualstraftaeter-reagierte-a-e09ced18-6e30-48c2-afe1-4cc6f06678aa#ref=rss)
 
