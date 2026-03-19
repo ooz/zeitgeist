@@ -4,154 +4,114 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise](https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland](https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten](https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten-a-7039f09f-c68a-4d25-b212-4f7b60d0ac19#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen-a-e94e5234-1142-4918-9862-fe8c824fedac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich](https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich-a-d270d647-b426-4451-9c8f-9787b811352d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie](https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie-a-46eb9620-7f4d-4a8e-baec-de96b619f828#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust-a-1f6cd2cc-c4ea-4c67-83b0-f53db4f45ae1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt](https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt-a-16d5f27c-7f4a-4701-a886-acc894db892f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg](https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
 ### irankrieg
 
-* [https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise](https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland](https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064#ref=rss)
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg](https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### spritpreise
+* [https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt](https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-tausende-luxuswagen-in-kenia-gestrandet](https://www.spiegel.de/ausland/irankrieg-tausende-luxuswagen-in-kenia-gestrandet-a-a2cc7b2f-67e4-4669-b4ac-6308b3950ee0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-a-6afa10ef-c936-4cd2-91aa-c3ebab92bc1e#ref=rss)
+### julian
 
-* [https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt](https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt-a-d3cf5c98-475a-48aa-ab47-bacac9df40bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor](https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor-a-35cdc7fd-c249-4f57-970a-494a5a2693de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen](https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen-a-cd859567-ee6a-4c7a-ab0b-9521d64bca73#ref=rss)
-### ausgesetzt
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+### nagelsmann
+
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landshut-versuchter-mord-an-kleinkind-vater-zu-langer-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/landshut-versuchter-mord-an-kleinkind-vater-zu-langer-haftstrafe-verurteilt-a-98f9ba03-5ccd-403c-88f8-d71d297d638f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+### pistorius
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt](https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt-a-16d5f27c-7f4a-4701-a886-acc894db892f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg](https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
+### linke
 
-* [https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt](https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt-a-02d551c3-d187-4328-bbcd-42c18352f6c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin](https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin-a-f16ce391-2b1b-4364-9f92-a58c16176da4#ref=rss)
-* [https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis](https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis-a-f543cded-5396-4579-ae9a-8db92beb4cac#ref=rss)
-### andere
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei](https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei-a-e48aa1ad-f3c7-4add-b7fc-ea1035bf5550#ref=rss)
+### bald
 
-* [https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise](https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland](https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht](https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht-a-c6e35b93-180f-4685-b783-de5885af89c7#ref=rss)
-### macht
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust-a-1f6cd2cc-c4ea-4c67-83b0-f53db4f45ae1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
-* [https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab](https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab-a-36734bfc-5632-4675-9ba5-4e58b470ddb2#ref=rss)
-### kevin
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren](https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren-a-b0628dff-9353-4d41-b13f-fb4b5bd9cf1b#ref=rss)
+### finden
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt](https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt-a-16d5f27c-7f4a-4701-a886-acc894db892f#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### angriff
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas-a-cb4427c0-3478-4962-87f6-4b0f884ca2fd#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt](https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an](https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an-a-0c5bbca6-329a-4365-a153-6f0be8d4908a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### katar
+
+* [https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt](https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
+### deutschland
 
 * [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht](https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht-a-c6e35b93-180f-4685-b783-de5885af89c7#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten](https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten-a-7039f09f-c68a-4d25-b212-4f7b60d0ac19#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen-a-e94e5234-1142-4918-9862-fe8c824fedac#ref=rss)
-* [https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis](https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis-a-f543cded-5396-4579-ae9a-8db92beb4cac#ref=rss)
-### ina
-
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### scharrenbach
-
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### opossum
-
-* [https://www.spiegel.de/panorama/australien-echtes-opossum-zwischen-plueschtieren-entdeckt](https://www.spiegel.de/panorama/australien-echtes-opossum-zwischen-plueschtieren-entdeckt-a-a4dea24e-acb5-4dad-bf35-d9c7498ec8bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas-a-cb4427c0-3478-4962-87f6-4b0f884ca2fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an](https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an-a-0c5bbca6-329a-4365-a153-6f0be8d4908a#ref=rss)
 ### news
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### bomben
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+### echtzeit
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### preise
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### schließt
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise](https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e#ref=rss)
-### nrwministerin
-
-* [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
-### prämie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie](https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie-a-46eb9620-7f4d-4a8e-baec-de96b619f828#ref=rss)
-### hohe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie](https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie-a-46eb9620-7f4d-4a8e-baec-de96b619f828#ref=rss)
-* [https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab](https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab-a-36734bfc-5632-4675-9ba5-4e58b470ddb2#ref=rss)
-### höhe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie](https://www.spiegel.de/wirtschaft/unternehmen/vw-zahlt-seinen-mitarbeitern-nun-doch-eine-praemie-a-46eb9620-7f4d-4a8e-baec-de96b619f828#ref=rss)
 * [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-### 33jähriger
+### bundeswehreinsatz
 
-* [https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt](https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt-a-02d551c3-d187-4328-bbcd-42c18352f6c7#ref=rss)
-### supermarkt
+* [https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze](https://www.spiegel.de/politik/news-in-echtzeit-das-wichtigste-in-kuerze-a-683696e2-99e3-48dd-99a7-5c86428900ac#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt](https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt-a-02d551c3-d187-4328-bbcd-42c18352f6c7#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+### studie
 
-* [https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt](https://www.spiegel.de/panorama/justiz/lemgo-33-jaehriger-gesteht-messerstiche-auf-jugendlichen-im-supermarkt-a-02d551c3-d187-4328-bbcd-42c18352f6c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin](https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin-a-f16ce391-2b1b-4364-9f92-a58c16176da4#ref=rss)
-### wann
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren](https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren-a-b0628dff-9353-4d41-b13f-fb4b5bd9cf1b#ref=rss)
+### erstaunlich
 
-* [https://www.spiegel.de/gesundheit/verdacht-auf-sepsis-was-tun-wenn-ein-roter-strich-zur-koerpermitte-wandert](https://www.spiegel.de/gesundheit/verdacht-auf-sepsis-was-tun-wenn-ein-roter-strich-zur-koerpermitte-wandert-a-b9b5942a-3e40-48d5-ad36-8858a38c243b#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### autozulieferer
+* [https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle](https://www.spiegel.de/politik/deutschland/cdu-und-linke-ist-das-der-ausweg-aus-der-afd-falle-a-4f5d94fb-bcaf-48d0-9dd7-22595db94d8c#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv](https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv-a-db02c2bf-fd81-41c6-9a05-f424d0c356f6#ref=rss)
+### bewährte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust-a-1f6cd2cc-c4ea-4c67-83b0-f53db4f45ae1#ref=rss)
-### zf
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+### kräfte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-zf-macht-milliardenverlust-a-1f6cd2cc-c4ea-4c67-83b0-f53db4f45ae1#ref=rss)
-### spacey
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt](https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt-a-16d5f27c-7f4a-4701-a886-acc894db892f#ref=rss)
-### drei
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
+### jedem
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt](https://www.spiegel.de/panorama/leute/kevin-spacey-einigt-sich-aussergerichtlich-mit-klaegern-prozess-ausgesetzt-a-16d5f27c-7f4a-4701-a886-acc894db892f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich](https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich-a-d270d647-b426-4451-9c8f-9787b811352d#ref=rss)
-### jemandem
-
-* [https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt](https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt-a-d3cf5c98-475a-48aa-ab47-bacac9df40bb#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt](https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt-a-d3cf5c98-475a-48aa-ab47-bacac9df40bb#ref=rss)
-### davon
-
-* [https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt](https://www.spiegel.de/mobilitaet/auto/monstertruck-show-was-machen-die-spritpreise-mit-jemandem-der-viel-benzin-zu-verbrennt-a-d3cf5c98-475a-48aa-ab47-bacac9df40bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen](https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen-a-cd859567-ee6a-4c7a-ab0b-9521d64bca73#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland](https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg](https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland](https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### wolfram
-
-* [https://www.spiegel.de/politik/wolfram-weimer-jeder-einzelne-skandal-hat-das-potenzial-zum-ruecktritt](https://www.spiegel.de/politik/wolfram-weimer-jeder-einzelne-skandal-hat-das-potenzial-zum-ruecktritt-a-90e11958-2933-4475-a0e1-72543c12e5c9#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/politik/wolfram-weimer-jeder-einzelne-skandal-hat-das-potenzial-zum-ruecktritt](https://www.spiegel.de/politik/wolfram-weimer-jeder-einzelne-skandal-hat-das-potenzial-zum-ruecktritt-a-90e11958-2933-4475-a0e1-72543c12e5c9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-setzt-auf-bewaehrte-kraefte-und-den-fc-bayern-muenchen-a-17515f0b-4443-4aa0-8190-1da0271f8121#ref=rss)
 ### grafiken
 
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
@@ -161,130 +121,217 @@ tags: __no_header__
 ### nahen
 
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
 ### osten
 
 * [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### israels
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+### welt
 
+* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+### comedian
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+### polak
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+### jemand
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv](https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv-a-db02c2bf-fd81-41c6-9a05-f424d0c356f6#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze](https://www.spiegel.de/kultur/comedian-oliver-polak-in-l-a-lacht-hier-jemand-ueber-judenwitze-a-f6b6d8be-2308-4faf-b05c-aba82c2fb4b2#ref=rss)
+* [https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich](https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich-a-ace02785-c7e0-42d4-b08c-86dbe70f46bd#ref=rss)
+### elif
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei](https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei-a-e48aa1ad-f3c7-4add-b7fc-ea1035bf5550#ref=rss)
+### eralp
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei](https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei-a-e48aa1ad-f3c7-4add-b7fc-ea1035bf5550#ref=rss)
+### antizionismusbeschluss
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei](https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei-a-e48aa1ad-f3c7-4add-b7fc-ea1035bf5550#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei](https://www.spiegel.de/politik/deutschland/die-linke-elif-eralp-kritisiert-antizionismus-beschluss-ihrer-partei-a-e48aa1ad-f3c7-4add-b7fc-ea1035bf5550#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/emsland-polizei-stoppt-betrunkenen-fahrschueler-mit-fast-1-3-promille](https://www.spiegel.de/panorama/justiz/emsland-polizei-stoppt-betrunkenen-fahrschueler-mit-fast-1-3-promille-a-49bafabc-f662-49ff-b751-3999977d8d01#ref=rss)
+### collien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+### fernandes
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+### seehandel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel](https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor](https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor-a-dad73975-5432-4437-bac1-7e88a0ad2ecd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an](https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an-a-0c5bbca6-329a-4365-a153-6f0be8d4908a#ref=rss)
+### bereitete
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor](https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor-a-dad73975-5432-4437-bac1-7e88a0ad2ecd#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor](https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor-a-dad73975-5432-4437-bac1-7e88a0ad2ecd#ref=rss)
 * [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-### gasfeld
+### konkret
 
-* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor](https://www.spiegel.de/ausland/groenland-daenemark-bereitete-sich-laut-bericht-konkret-auf-us-invasion-vor-a-dad73975-5432-4437-bac1-7e88a0ad2ecd#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-### lage
+* [https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch](https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch-a-b679e5f3-a488-4d05-8564-5c1ee77fd7b7#ref=rss)
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
+### nashörner
 
-* [https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an](https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
-### gespräche
+* [https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch](https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch-a-b679e5f3-a488-4d05-8564-5c1ee77fd7b7#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg](https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1#ref=rss)
-### patienten
+* [https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch](https://www.spiegel.de/wissenschaft/afrika-nashoerner-nach-43-jahren-wieder-in-uganda-heimisch-a-b679e5f3-a488-4d05-8564-5c1ee77fd7b7#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-tausende-luxuswagen-in-kenia-gestrandet](https://www.spiegel.de/ausland/irankrieg-tausende-luxuswagen-in-kenia-gestrandet-a-a2cc7b2f-67e4-4669-b4ac-6308b3950ee0#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten](https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten-a-7039f09f-c68a-4d25-b212-4f7b60d0ac19#ref=rss)
-### verluste
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview](https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview-a-962a705a-05a4-40a8-ab7e-624f57508d7b#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten](https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten-a-7039f09f-c68a-4d25-b212-4f7b60d0ac19#ref=rss)
-* [https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab](https://www.spiegel.de/netzwelt/mark-zuckerberg-dreht-dem-metaverse-den-saft-ab-a-36734bfc-5632-4675-9ba5-4e58b470ddb2#ref=rss)
-### deutsche
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview](https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview-a-962a705a-05a4-40a8-ab7e-624f57508d7b#ref=rss)
+### unterlassung
 
-* [https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten](https://www.spiegel.de/wirtschaft/service/krankenhaeuser-klinik-lobby-fordert-hoehere-zuzahlung-der-patienten-a-7039f09f-c68a-4d25-b212-4f7b60d0ac19#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-so-kann-der-staatskonzern-endlich-puenktlicher-werden](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-so-kann-der-staatskonzern-endlich-puenktlicher-werden-a-6e6d8cd6-a58f-42f0-be33-197279d201ea#ref=rss)
-### manfred
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview](https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview-a-962a705a-05a4-40a8-ab7e-624f57508d7b#ref=rss)
+### interview
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-evp-will-die-rechtsaussen-schlagen-und-setzt-auch-auf-mehrheiten-mit-ihnen](https://www.spiegel.de/politik/deutschland/manfred-weber-evp-will-die-rechtsaussen-schlagen-und-setzt-auch-auf-mehrheiten-mit-ihnen-a-a07b84fd-ccbc-4d6f-b519-a56414f08915#ref=rss)
-### weber
-
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-evp-will-die-rechtsaussen-schlagen-und-setzt-auch-auf-mehrheiten-mit-ihnen](https://www.spiegel.de/politik/deutschland/manfred-weber-evp-will-die-rechtsaussen-schlagen-und-setzt-auch-auf-mehrheiten-mit-ihnen-a-a07b84fd-ccbc-4d6f-b519-a56414f08915#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview](https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview-a-962a705a-05a4-40a8-ab7e-624f57508d7b#ref=rss)
 ### klagen
 
-* [https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nrw-mitarbeiter-klagen-ueber-machtmissbrauch-im-heimatministerium-von-ministerin-ina-scharrenbach-a-f1d5891c-34a5-45ab-87b7-7a03f9aa671f#ref=rss)
-### pforzheim
+* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview](https://www.spiegel.de/kultur/literatur/wolfram-weimer-buchladen-anwaelte-fordern-unterlassung-vom-kulturstaatsminister-nach-interview-a-962a705a-05a4-40a8-ab7e-624f57508d7b#ref=rss)
+* [https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch](https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch-a-36fddff5-c771-4dc0-b3fa-a5acd325638b#ref=rss)
+### lnganlage
 
-* [https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht](https://www.spiegel.de/panorama/justiz/pforzheim-angriff-auf-ticketkontrolleure-19-jaehriger-gesucht-a-c6e35b93-180f-4685-b783-de5885af89c7#ref=rss)
-### politiker
+* [https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt](https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f#ref=rss)
+### freiburg
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor](https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor-a-35cdc7fd-c249-4f57-970a-494a5a2693de#ref=rss)
-### mineralöllobby
+* [https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich](https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich-a-ace02785-c7e0-42d4-b08c-86dbe70f46bd#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor](https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor-a-35cdc7fd-c249-4f57-970a-494a5a2693de#ref=rss)
-### erpressung
+* [https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich](https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich-a-ace02785-c7e0-42d4-b08c-86dbe70f46bd#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor](https://www.spiegel.de/wirtschaft/spritpreise-politiker-werfen-mineraloel-lobby-erpressung-vor-a-35cdc7fd-c249-4f57-970a-494a5a2693de#ref=rss)
-### industrietaucher
+* [https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich](https://www.spiegel.de/start/universitaet-freiburg-frauen-heimlich-gefilmt-weitere-personen-melden-sich-a-ace02785-c7e0-42d4-b08c-86dbe70f46bd#ref=rss)
+* [https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch](https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch-a-36fddff5-c771-4dc0-b3fa-a5acd325638b#ref=rss)
+### esc
 
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### unter
+* [https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten](https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten-a-26f0356d-c49e-4a1e-ac17-7b5f54a69bf3#ref=rss)
+### boy
 
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### wasser
+* [https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten](https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten-a-26f0356d-c49e-4a1e-ac17-7b5f54a69bf3#ref=rss)
+### george
 
-* [https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser](https://www.spiegel.de/start/berufseinstieg-als-industrietaucher-gefahren-und-faszination-unter-wasser-a-3c488b23-141c-492b-aa27-03111c561fd0#ref=rss)
-### fünftel
+* [https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten](https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten-a-26f0356d-c49e-4a1e-ac17-7b5f54a69bf3#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/haeusliche-pflege-hilfe-erreicht-nur-ein-fuenftel-der-beduerftigen-a-e94e5234-1142-4918-9862-fe8c824fedac#ref=rss)
-### mesut
+* [https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten](https://www.spiegel.de/kultur/musik/boy-george-will-beim-eurovision-song-contest-auftreten-a-26f0356d-c49e-4a1e-ac17-7b5f54a69bf3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+### abelpreis
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich](https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich-a-d270d647-b426-4451-9c8f-9787b811352d#ref=rss)
-### özil
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### gerd
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich](https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich-a-d270d647-b426-4451-9c8f-9787b811352d#ref=rss)
-### zdf
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### faltings
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich](https://www.spiegel.de/sport/fussball/mesut-oezil-in-tv-dokumentation-des-zdf-opfer-und-taeter-zugleich-a-d270d647-b426-4451-9c8f-9787b811352d#ref=rss)
-### bahn
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### erhält
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-so-kann-der-staatskonzern-endlich-puenktlicher-werden](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-so-kann-der-staatskonzern-endlich-puenktlicher-werden-a-6e6d8cd6-a58f-42f0-be33-197279d201ea#ref=rss)
-### darmstadt
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### erster
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin](https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin-a-f16ce391-2b1b-4364-9f92-a58c16176da4#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin](https://www.spiegel.de/panorama/justiz/darmstadt-beziehung-mit-haeftling-gericht-bestaetigt-entlassung-von-vollzugsbeamtin-a-f16ce391-2b1b-4364-9f92-a58c16176da4#ref=rss)
-* [https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis](https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis-a-f543cded-5396-4579-ae9a-8db92beb4cac#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis](https://www.spiegel.de/wissenschaft/abel-preis-2025-gerd-faltings-erhaelt-als-erster-deutscher-den-prestigetraechtigen-mathematikpreis-a-0ef31160-459c-451d-b1b2-730a86ffa625#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen](https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen-a-cd859567-ee6a-4c7a-ab0b-9521d64bca73#ref=rss)
-### energieunternehmen
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-setzt-macron-letzte-frist-fuer-kampfjet-projekt-fcas-a-cb4427c0-3478-4962-87f6-4b0f884ca2fd#ref=rss)
+### spritpreise
 
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen](https://www.spiegel.de/wirtschaft/service/spritpreise-klingbeil-prueft-uebergewinnsteuer-fuer-energieunternehmen-a-cd859567-ee6a-4c7a-ab0b-9521d64bca73#ref=rss)
-### warnstreik
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an](https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an-a-0c5bbca6-329a-4365-a153-6f0be8d4908a#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still](https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still-a-9cb7432c-2683-4748-9736-a39473c7bf23#ref=rss)
-### verdi
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an](https://www.spiegel.de/wirtschaft/service/spritpreise-in-der-eu-deutsche-nachbarlaender-ziehen-deutlich-an-a-0c5bbca6-329a-4365-a153-6f0be8d4908a#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still](https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still-a-9cb7432c-2683-4748-9736-a39473c7bf23#ref=rss)
-### busse
+* [https://www.spiegel.de/panorama/justiz/emsland-polizei-stoppt-betrunkenen-fahrschueler-mit-fast-1-3-promille](https://www.spiegel.de/panorama/justiz/emsland-polizei-stoppt-betrunkenen-fahrschueler-mit-fast-1-3-promille-a-49bafabc-f662-49ff-b751-3999977d8d01#ref=rss)
+### google
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still](https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still-a-9cb7432c-2683-4748-9736-a39473c7bf23#ref=rss)
-### bahnen
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### maps
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still](https://www.spiegel.de/wirtschaft/service/warnstreik-im-nahverkehr-ver-di-legt-in-mehreren-bundeslaendern-busse-und-bahnen-still-a-9cb7432c-2683-4748-9736-a39473c7bf23#ref=rss)
-### astronaut
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### nahverkehr
 
-* [https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert](https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert-a-de49a60a-2439-46cb-aab2-dd2aaea4e6aa#ref=rss)
-### ryan
+* [https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen](https://www.spiegel.de/mobilitaet/bus-bahn/oepnv-google-maps-soll-abfahrten-im-nahverkehr-in-echtzeit-anzeigen-a-243e74fd-0220-44e6-a0ad-b82a440542be#ref=rss)
+### lindsey
 
-* [https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert](https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert-a-de49a60a-2439-46cb-aab2-dd2aaea4e6aa#ref=rss)
-### gosling
+* [https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha](https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha-a-276bd416-9214-486e-9a4f-a123434358f5#ref=rss)
+### vonn
 
-* [https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert](https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert-a-de49a60a-2439-46cb-aab2-dd2aaea4e6aa#ref=rss)
-### sandra
+* [https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha](https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha-a-276bd416-9214-486e-9a4f-a123434358f5#ref=rss)
+### schwester
 
-* [https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert](https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert-a-de49a60a-2439-46cb-aab2-dd2aaea4e6aa#ref=rss)
-### hüller
+* [https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha](https://www.spiegel.de/sport/lindsey-vonn-schwester-muss-auch-in-die-reha-a-276bd416-9214-486e-9a4f-a123434358f5#ref=rss)
+### ina
 
-* [https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert](https://www.spiegel.de/kultur/kino/the-astronaut-mit-ryan-gosling-und-sandra-hueller-herzerwaermend-verballert-a-de49a60a-2439-46cb-aab2-dd2aaea4e6aa#ref=rss)
-### richins
+* [https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch](https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch-a-36fddff5-c771-4dc0-b3fa-a5acd325638b#ref=rss)
+### scharrenbach
 
-* [https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis](https://www.spiegel.de/ausland/kouri-richins-sie-trauerte-im-fernsehen-um-ihren-mann-nun-soll-sie-wegen-mordes-ins-gefaengnis-a-f543cded-5396-4579-ae9a-8db92beb4cac#ref=rss)
-### inflation
+* [https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch](https://www.spiegel.de/politik/nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-vorwurf-machtmissbrauch-a-36fddff5-c771-4dc0-b3fa-a5acd325638b#ref=rss)
+### häfen
 
-* [https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/news-irankrieg-israel-inflation-oelpreis-eu-gipfel-ina-scharrenbach-a-89c39912-f9f6-44d0-aeed-bfe6e9baf337#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt](https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss)
+### ewigkeitschemikalien
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren](https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren-a-b0628dff-9353-4d41-b13f-fb4b5bd9cf1b#ref=rss)
+### pfas
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren](https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren-a-b0628dff-9353-4d41-b13f-fb4b5bd9cf1b#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren](https://www.spiegel.de/wissenschaft/mensch/gesundheit-ewigkeitschemikalien-pfas-koennten-knochenentwicklung-bei-kindern-stoeren-a-b0628dff-9353-4d41-b13f-fb4b5bd9cf1b#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-lennart-karl-und-jonas-urbig-a-872701e5-f8b4-4911-b0e0-6d0721c1ab9b#ref=rss)
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-a-6afa10ef-c936-4cd2-91aa-c3ebab92bc1e#ref=rss)
+### bafög
+
+* [https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv](https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv-a-db02c2bf-fd81-41c6-9a05-f424d0c356f6#ref=rss)
+### berufseinstieg
+
+* [https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv](https://www.spiegel.de/start/startklar-newsletter-warum-ist-das-bafoeg-so-unattraktiv-a-db02c2bf-fd81-41c6-9a05-f424d0c356f6#ref=rss)
+### val
+
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
+### kilmer
+
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
+### as
+
+* [https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit](https://www.spiegel.de/kultur/val-kilmer-schauspieler-ist-tot-und-spielt-trotzdem-bald-in-einem-film-mit-a-b75d77a8-0064-420a-9d57-648ee8f27e7c#ref=rss)
 
