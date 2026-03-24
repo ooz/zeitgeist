@@ -4,333 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### collien
+
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+### fernandes
+
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern](https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern-a-e2e9c399-1653-4a67-800d-cf848046df1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung](https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung-a-b586ebc4-46fa-4bee-b5da-ee79fed808c1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29](https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29-a-c691ed63-91fb-4d8e-b69d-08cdc6a0b4fd#ref=rss)
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-* [https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie](https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie-a-d0b637e9-d456-4af1-a93f-653f6906eeec#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse](https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse-a-a7d9537e-54f8-4d64-89a7-1209d1cd39ed#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein-a-82b6db7a-c2f9-46b4-a902-b111e16c6882#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern](https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern-a-e2e9c399-1653-4a67-800d-cf848046df1c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen](https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen-a-3bf1a1fa-c7aa-4ed8-9f83-6fe46350c37f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen](https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen-a-3bf1a1fa-c7aa-4ed8-9f83-6fe46350c37f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen](https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen-a-3bf1a1fa-c7aa-4ed8-9f83-6fe46350c37f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach-a-dec1be5a-08a5-4633-b96e-573781e404ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg](https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg-a-a953dd22-4bee-42ea-9b12-54e15e2af8a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### schlaganfall
-
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-* [https://www.spiegel.de/fitness/schlaganfall-was-sportler-nach-einem-schlaganfall-wissen-muessen](https://www.spiegel.de/fitness/schlaganfall-was-sportler-nach-einem-schlaganfall-wissen-muessen-a-a9344e75-4091-4211-bf49-e8a59fde372a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29](https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29-a-c691ed63-91fb-4d8e-b69d-08cdc6a0b4fd#ref=rss)
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen](https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen-a-041fc668-b152-4608-8403-e2ad3151b3fb#ref=rss)
-### gellar
-
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden](https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden-a-3a7625d2-5a99-476d-a858-ed73150d5f67#ref=rss)
-* [https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie](https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie-a-d0b637e9-d456-4af1-a93f-653f6906eeec#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt](https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt-a-51977215-0d86-4941-9898-89e092350085#ref=rss)
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen](https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen-a-041fc668-b152-4608-8403-e2ad3151b3fb#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos](https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos-a-31786877-ef28-4533-8494-f392c40b19d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis](https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis-a-1abc42a9-132b-4f33-a0b7-0d81133e9227#ref=rss)
+* [https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig](https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig-a-ab8ad3e8-d6d0-4d24-a186-cc6171c9dcde#ref=rss)
 ### irankrieg
 
 * [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### ohne
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235#ref=rss)
+### laut
 
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-* [https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte](https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte-a-64373b57-e73d-4004-a2b8-ca544316153a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch](https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch-a-60981ff6-0ed8-4542-8f67-6a0ad18daf56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+* [https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig](https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig-a-ab8ad3e8-d6d0-4d24-a186-cc6171c9dcde#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990-a-965c26fb-1c4f-4cb0-a927-98ee9279db61#ref=rss)
-### berlin
+* [https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party](https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party-a-97d030ac-133d-4547-bf66-c7a2bf8d00df#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung-a-bfce2bd1-b509-4ad7-aec8-ca1ba5353d6a#ref=rss)
-### teheran
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+### christian
 
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### sarah
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt-a-b3d64168-5719-4b25-a68c-d26c3e3cb22d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-### michelle
+* [https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party](https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party-a-97d030ac-133d-4547-bf66-c7a2bf8d00df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-### adele
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+### timmendorfer
 
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben](https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben-a-4d634aa1-f46a-4299-9f36-164021ede8f2#ref=rss)
+* [https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert](https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert-a-cb3f609a-a868-43d7-b28f-ff290d370ec6#ref=rss)
+### strand
 
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990-a-965c26fb-1c4f-4cb0-a927-98ee9279db61#ref=rss)
-### kind
+* [https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben](https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben-a-4d634aa1-f46a-4299-9f36-164021ede8f2#ref=rss)
+* [https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert](https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert-a-cb3f609a-a868-43d7-b28f-ff290d370ec6#ref=rss)
+### wirtschaftsministerin
 
-* [https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen](https://www.spiegel.de/panorama/leute/sarah-michelle-gellar-hat-sich-nicht-getraut-adele-hello-zu-sagen-a-b6209ed2-0963-4d11-9ba7-53bb71ce5a4f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29](https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29-a-c691ed63-91fb-4d8e-b69d-08cdc6a0b4fd#ref=rss)
-### ostern
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden](https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden-a-3a7625d2-5a99-476d-a858-ed73150d5f67#ref=rss)
-### eier
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden](https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden-a-3a7625d2-5a99-476d-a858-ed73150d5f67#ref=rss)
-### wohl
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+* [https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis](https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis-a-1abc42a9-132b-4f33-a0b7-0d81133e9227#ref=rss)
+### mutmaßliche
 
-* [https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden](https://www.spiegel.de/wirtschaft/service/nachfrage-zu-ostern-warum-eier-wohl-noch-mal-teurer-werden-a-3a7625d2-5a99-476d-a858-ed73150d5f67#ref=rss)
-### eu
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen](https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen-a-f7f84097-c20d-4e0c-b67c-cde8c7573e85#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein-a-82b6db7a-c2f9-46b4-a902-b111e16c6882#ref=rss)
-### wm
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein-a-82b6db7a-c2f9-46b4-a902-b111e16c6882#ref=rss)
-* [https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen](https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen-a-70c6e330-0f8d-4267-bc88-1731f55c7fb8#ref=rss)
-### tief
+* [https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis](https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis-a-1abc42a9-132b-4f33-a0b7-0d81133e9227#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-zum-buergergeld-klar-gescheitert](https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-zum-buergergeld-klar-gescheitert-a-dab3c7e7-18b4-45b7-ab2f-bb43dce4a36f#ref=rss)
+### marieagnes
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein-a-82b6db7a-c2f9-46b4-a902-b111e16c6882#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990-a-965c26fb-1c4f-4cb0-a927-98ee9279db61#ref=rss)
-### erfolg
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt-a-b3d64168-5719-4b25-a68c-d26c3e3cb22d#ref=rss)
+### strackzimmermann
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fan-organisation-reicht-beschwerde-bei-eu-gegen-ticketpreise-ein-a-82b6db7a-c2f9-46b4-a902-b111e16c6882#ref=rss)
-* [https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann](https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann-a-62ae9361-d8ed-46f0-901d-0cbacaed5d9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt-a-b3d64168-5719-4b25-a68c-d26c3e3cb22d#ref=rss)
+### teil
+
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-ueber-die-krise-der-fdp-und-dann-ist-mir-die-hutschnur-geplatzt-a-b3d64168-5719-4b25-a68c-d26c3e3cb22d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw](https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party](https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party-a-97d030ac-133d-4547-bf66-c7a2bf8d00df#ref=rss)
+* [https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig](https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig-a-ab8ad3e8-d6d0-4d24-a186-cc6171c9dcde#ref=rss)
+### vielleicht
+
+* [https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party](https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party-a-97d030ac-133d-4547-bf66-c7a2bf8d00df#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+### finden
+
+* [https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party](https://www.spiegel.de/politik/deutschland/falkenberg-afd-bundesvorstand-relativiert-rechtsextreme-parole-bei-teenager-party-a-97d030ac-133d-4547-bf66-c7a2bf8d00df#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch](https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch-a-60981ff6-0ed8-4542-8f67-6a0ad18daf56#ref=rss)
+### digitaler
+
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+### ulmen
+
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann](https://www.spiegel.de/wissenschaft/collien-fernandes-wie-digitale-gewalt-wirkt-und-was-man-tun-kann-a-2e648fb3-ca79-454e-a08e-963e91a392aa#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos](https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos-a-31786877-ef28-4533-8494-f392c40b19d1#ref=rss)
 ### fall
 
-* [https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt](https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt-a-51977215-0d86-4941-9898-89e092350085#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben](https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben-a-7d4e9977-df61-4ae4-adb9-79b7350ed4ca#ref=rss)
-### collien
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+### stimmt
 
-* [https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt](https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt-a-51977215-0d86-4941-9898-89e092350085#ref=rss)
-### fernandes
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt](https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt-a-51977215-0d86-4941-9898-89e092350085#ref=rss)
-### halten
+* [https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern](https://www.spiegel.de/kultur/fall-collien-fernandes-was-stimmt-nicht-mit-den-maennern-a-c03de8b7-d563-4cd6-b0d5-c3366742287b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+### überleben
 
-* [https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt](https://www.spiegel.de/politik/deutschland/fall-collien-fernandes-kann-man-mit-maennern-noch-befreundet-sein-ja-unbedingt-a-51977215-0d86-4941-9898-89e092350085#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben](https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben-a-4d634aa1-f46a-4299-9f36-164021ede8f2#ref=rss)
+* [https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert](https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert-a-cb3f609a-a868-43d7-b28f-ff290d370ec6#ref=rss)
+### fest
 
-* [https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern](https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern-a-e2e9c399-1653-4a67-800d-cf848046df1c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### neandertaler
+* [https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben](https://www.spiegel.de/panorama/timmendorfer-strand-gestrandeter-wal-kaempft-ums-ueberleben-a-4d634aa1-f46a-4299-9f36-164021ede8f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben](https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben-a-7d4e9977-df61-4ae4-adb9-79b7350ed4ca#ref=rss)
-### studie
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis](https://www.spiegel.de/wissenschaft/suedamerika-dieser-fisch-wandert-11-000-kilometer-das-wird-ihm-zum-verhaengnis-a-1abc42a9-132b-4f33-a0b7-0d81133e9227#ref=rss)
+### länger
 
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben](https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben-a-7d4e9977-df61-4ae4-adb9-79b7350ed4ca#ref=rss)
-### aussterben
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben](https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben-a-7d4e9977-df61-4ae4-adb9-79b7350ed4ca#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+### tages
 
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben](https://www.spiegel.de/wissenschaft/mensch/neandertaler-studie-enthuellt-gruende-fuer-ihr-aussterben-a-7d4e9977-df61-4ae4-adb9-79b7350ed4ca#ref=rss)
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-### new
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung](https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung-a-b586ebc4-46fa-4bee-b5da-ee79fed808c1#ref=rss)
-### york
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote](https://www.spiegel.de/politik/deutschland/news-des-tages-gesetzesaenderung-nach-fall-collien-fernandes-steffen-seibert-niedrige-investitionsquote-a-8deef9c4-db95-40b3-adc1-a4fb0949eec8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung](https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung-a-b586ebc4-46fa-4bee-b5da-ee79fed808c1#ref=rss)
-### millionäre
-
-* [https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung](https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung-a-b586ebc4-46fa-4bee-b5da-ee79fed808c1#ref=rss)
-### flucht
-
-* [https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung](https://www.spiegel.de/wirtschaft/new-york-city-zohran-mamdani-verjagt-die-millionaere-flucht-vor-steuererhoehung-a-b586ebc4-46fa-4bee-b5da-ee79fed808c1#ref=rss)
-### sienna
-
-* [https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29](https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29-a-c691ed63-91fb-4d8e-b69d-08cdc6a0b4fd#ref=rss)
-### miller
-
-* [https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29](https://www.spiegel.de/panorama/leute/sienna-miller-findet-schwangerschaft-mit-44-einfacher-als-mit-29-a-c691ed63-91fb-4d8e-b69d-08cdc6a0b4fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
 ### steinmeier
 
-* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
-### iran
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz](https://www.spiegel.de/politik/deutschland/iran-krieg-frank-walter-steinmeier-belehrt-friedrich-merz-a-2c61d0f6-122d-4789-90f5-3c478aec8f85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+### wiesbaden
 
-* [https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen](https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### abitur
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen](https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen-a-f7f84097-c20d-4e0c-b67c-cde8c7573e85#ref=rss)
+### fernsehen
 
-* [https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie](https://www.spiegel.de/start/studieren-ohne-abitur-so-viele-hochschulabsolventen-ohne-abitur-wie-noch-nie-a-964012a5-9e7f-4245-9f51-e3acb078d790#ref=rss)
-### steckt
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen](https://www.spiegel.de/panorama/justiz/wiesbaden-razzia-bei-streaming-plattform-fuer-russisches-fernsehen-a-f7f84097-c20d-4e0c-b67c-cde8c7573e85#ref=rss)
+### lwiw
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen](https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-einsatz-der-nationalgarde-an-flughaefen-a-3bf1a1fa-c7aa-4ed8-9f83-6fe46350c37f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### brandmauer
-
-* [https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab](https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab-a-6d8feefe-6172-4a91-851f-3f2555504803#ref=rss)
-### manfred
-
-* [https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab](https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab-a-6d8feefe-6172-4a91-851f-3f2555504803#ref=rss)
-### weber
-
-* [https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab](https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab-a-6d8feefe-6172-4a91-851f-3f2555504803#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab](https://www.spiegel.de/politik/evp-manfred-weber-grenzt-sich-deutlich-von-afd-ab-a-6d8feefe-6172-4a91-851f-3f2555504803#ref=rss)
-### malin
-
-* [https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann](https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann-a-62ae9361-d8ed-46f0-901d-0cbacaed5d9e#ref=rss)
-### brown
-
-* [https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann](https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann-a-62ae9361-d8ed-46f0-901d-0cbacaed5d9e#ref=rss)
-### ballermann
-
-* [https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann](https://www.spiegel.de/panorama/schlagersaengerin-auf-mallorca-malin-brown-hofft-auf-erfolg-am-ballermann-a-62ae9361-d8ed-46f0-901d-0cbacaed5d9e#ref=rss)
-### explosion
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-### ölraffinerie
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-### port
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-### arthur
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-* [https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie](https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie-a-d0b637e9-d456-4af1-a93f-653f6906eeec#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-* [https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte](https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte-a-64373b57-e73d-4004-a2b8-ca544316153a#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur](https://www.spiegel.de/panorama/texas-explosion-in-oelraffinerie-in-port-arthur-a-617d7635-937b-4e0d-b30c-a8c8a8fcab24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach-a-dec1be5a-08a5-4633-b96e-573781e404ac#ref=rss)
-### mutmaßlich
-
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-### september
-
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-### laufen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september](https://www.spiegel.de/panorama/justiz/berlin-razzia-nach-mutmasslich-linksextremistischem-brandanschlag-im-september-a-358b9af2-05bb-4488-8bd0-cff51af5a885#ref=rss)
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-### aufgeben
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen](https://www.spiegel.de/wirtschaft/unternehmen/kik-schliesst-rund-300-filialen-a-041fc668-b152-4608-8403-e2ad3151b3fb#ref=rss)
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-### transporter
-
-* [https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte](https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte-a-64373b57-e73d-4004-a2b8-ca544316153a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw](https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte](https://www.spiegel.de/panorama/insheim-regionalzug-stoesst-mit-transporter-zusammen-mehrere-verletzte-a-64373b57-e73d-4004-a2b8-ca544316153a#ref=rss)
-### nationalmannschaft
+* [https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw](https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37#ref=rss)
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen](https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen-a-70c6e330-0f8d-4267-bc88-1731f55c7fb8#ref=rss)
-### zidane
+* [https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw](https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37#ref=rss)
+### geld
 
-* [https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen](https://www.spiegel.de/sport/fussball/franzoesische-nationalmannschaft-zidane-soll-nach-der-wm-uebernehmen-a-70c6e330-0f8d-4267-bc88-1731f55c7fb8#ref=rss)
-### ina
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+* [https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf](https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf-a-91902014-e4f0-4057-b6f0-e9c554c2be2b#ref=rss)
+### treibt
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach-a-dec1be5a-08a5-4633-b96e-573781e404ac#ref=rss)
-### scharrenbach
+* [https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt](https://www.spiegel.de/wirtschaft/service/deutschland-banken-verleihen-mehr-geld-fuer-immobilien-doch-die-aussicht-ist-getruebt-a-8eb21c80-7432-477d-9a6c-64bf0c2efce6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235#ref=rss)
+### stiftung
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach-a-dec1be5a-08a5-4633-b96e-573781e404ac#ref=rss)
-### fordert
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+### warentest
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-spd-draengt-auf-vorlaeufige-abloesung-von-bauministerin-ina-scharrenbach-a-dec1be5a-08a5-4633-b96e-573781e404ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg](https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg-a-a953dd22-4bee-42ea-9b12-54e15e2af8a4#ref=rss)
-### jusochef
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+### modell
 
-* [https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg](https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg-a-a953dd22-4bee-42ea-9b12-54e15e2af8a4#ref=rss)
-### philipp
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+### überzeugt
 
-* [https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg](https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg-a-a953dd22-4bee-42ea-9b12-54e15e2af8a4#ref=rss)
-### türmer
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg](https://www.spiegel.de/politik/deutschland/spd-krise-juso-chef-philipp-tuermer-sieht-partei-auf-gefaehrlichem-weg-a-a953dd22-4bee-42ea-9b12-54e15e2af8a4#ref=rss)
-### alte
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+* [https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig](https://www.spiegel.de/panorama/mediensucht-immer-mehr-kinder-und-jugendliche-laut-neuer-dak-studie-mediensuechtig-a-ab8ad3e8-d6d0-4d24-a186-cc6171c9dcde#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-investitionsquote-faellt-auf-niedrigsten-stand-seit-1990-a-965c26fb-1c4f-4cb0-a927-98ee9279db61#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse](https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse-a-a7d9537e-54f8-4d64-89a7-1209d1cd39ed#ref=rss)
-### marathon
+* [https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt](https://www.spiegel.de/mobilitaet/stiftung-warentest-fahrradhelm-vergleich-teuerstes-modell-enttaeuscht-guenstiges-ueberzeugt-a-2509c659-5dda-4a41-bb81-db451c71c9a3#ref=rss)
+* [https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk](https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk-a-1deaf514-51ca-4313-8f67-3217f099235c#ref=rss)
+### dion
 
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-* [https://www.spiegel.de/fitness/schlaganfall-was-sportler-nach-einem-schlaganfall-wissen-muessen](https://www.spiegel.de/fitness/schlaganfall-was-sportler-nach-einem-schlaganfall-wissen-muessen-a-a9344e75-4091-4211-bf49-e8a59fde372a#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+### konzerte
 
-* [https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben](https://www.spiegel.de/fitness/marathon-wer-einen-schlaganfall-hatte-muss-das-laufen-nicht-aufgeben-a-d62fa103-4fc3-4c51-815b-35dcd543827d#ref=rss)
-### advocado
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+### paris
 
-* [https://www.spiegel.de/netzwelt/advocado-inkassoschreiben-sollen-offen-im-netz-abrufbar-gewesen-sein](https://www.spiegel.de/netzwelt/advocado-inkassoschreiben-sollen-offen-im-netz-abrufbar-gewesen-sein-a-61762a82-cb59-4620-bdb2-d6be75f846ca#ref=rss)
-### hinaus
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+### geplant
 
-* [https://www.spiegel.de/netzwelt/advocado-inkassoschreiben-sollen-offen-im-netz-abrufbar-gewesen-sein](https://www.spiegel.de/netzwelt/advocado-inkassoschreiben-sollen-offen-im-netz-abrufbar-gewesen-sein-a-61762a82-cb59-4620-bdb2-d6be75f846ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor](https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor-a-5b1ce3b0-f01b-407a-a314-66d58e0c5cfa#ref=rss)
-### kai
+* [https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an](https://www.spiegel.de/kultur/celine-dion-kuendigt-konzerte-in-paris-an-a-6f3b2db5-fe20-4713-979f-21e9291fcf22#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+### nehmen
 
-* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung-a-bfce2bd1-b509-4ad7-aec8-ca1ba5353d6a#ref=rss)
-### wegner
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch](https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch-a-60981ff6-0ed8-4542-8f67-6a0ad18daf56#ref=rss)
+### spione
 
-* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung-a-bfce2bd1-b509-4ad7-aec8-ca1ba5353d6a#ref=rss)
-### stromausfalls
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-bittet-fuer-kommunikation-waehrend-des-stromausfalls-um-entschuldigung-a-bfce2bd1-b509-4ad7-aec8-ca1ba5353d6a#ref=rss)
-### gesetzentwurf
+* [https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest](https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89#ref=rss)
+* [https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf](https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf-a-91902014-e4f0-4057-b6f0-e9c554c2be2b#ref=rss)
+### a81
 
-* [https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor](https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor-a-5b1ce3b0-f01b-407a-a314-66d58e0c5cfa#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor](https://www.spiegel.de/politik/deutschland/gruene-legen-eigenen-gesetzentwurf-zu-digitaler-gewalt-vor-a-5b1ce3b0-f01b-407a-a314-66d58e0c5cfa#ref=rss)
-* [https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie](https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie-a-d0b637e9-d456-4af1-a93f-653f6906eeec#ref=rss)
-### usmedien
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie](https://www.spiegel.de/ausland/ellison-bezos-musk-so-bringen-oligarchen-us-medien-auf-trump-linie-a-d0b637e9-d456-4af1-a93f-653f6906eeec#ref=rss)
-### börsen
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+### kanarienvogel
 
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### dementiert
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse](https://www.spiegel.de/wissenschaft/iran-krieg-donald-trump-weckt-hoffnungen-auf-baldigen-frieden-und-treibt-die-boersenkurse-a-7907372b-4ce9-4e8c-9a7f-6c8a1078b499#ref=rss)
-### glc
+* [https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer](https://www.spiegel.de/panorama/a81-bei-eutingen-im-gaeu-polizei-ermittelt-wegen-kanarienvogel-als-lkw-beifahrer-a-e6829d69-5fe6-4fd0-b55d-909054e93b3b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben-a-60d783a2-7405-45b2-be1a-700c5b559668#ref=rss)
+### nasa
 
-* [https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse](https://www.spiegel.de/mobilitaet/auto/mercedes-glc-im-test-alte-schule-statt-neuer-klasse-a-a7d9537e-54f8-4d64-89a7-1209d1cd39ed#ref=rss)
-### udo
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+### oberfläche
 
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
-### lindenberg
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+### geben
 
-* [https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust](https://www.spiegel.de/politik/deutschland/news-spd-baerbel-bas-lars-klingbeil-donald-trump-iran-krieg-udo-lindenberg-holocaust-a-1252bd47-589c-41dc-bbe2-9cfe4f2aaf8b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade](https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln](https://www.spiegel.de/wissenschaft/weltall/mond-nasa-will-oberflaeche-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace#ref=rss)
+* [https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf](https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf-a-91902014-e4f0-4057-b6f0-e9c554c2be2b#ref=rss)
+### internet
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch](https://www.spiegel.de/netzwelt/netzpolitik/internet-watch-foundation-im-netz-kursieren-immer-mehr-ki-videos-von-kindesmissbrauch-a-60981ff6-0ed8-4542-8f67-6a0ad18daf56#ref=rss)
+### töchter
+
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+### innenministerium
+
+* [https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz](https://www.spiegel.de/politik/deutschland/radikale-toechter-innenministerium-stoppt-foerderung-kurz-nach-kritik-an-friedrich-merz-a-fbf683e0-ae26-4b98-a0ec-6c36ceba3c61#ref=rss)
+### 24
+
+* [https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert](https://www.spiegel.de/panorama/timmendorfer-strand-wal-rettung-an-der-ostsee-durch-schaulustige-behindert-a-cb3f609a-a868-43d7-b28f-ff290d370ec6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+### wim
+
+* [https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk](https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk-a-1deaf514-51ca-4313-8f67-3217f099235c#ref=rss)
+### wenders
+
+* [https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk](https://www.spiegel.de/kultur/wim-wenders-erhaelt-ehrenpreis-fuer-sein-lebenswerk-a-1deaf514-51ca-4313-8f67-3217f099235c#ref=rss)
+### erling
+
+* [https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser](https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser-a-e2a0808d-f35f-42fc-ac0b-50b81618201f#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser](https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser-a-e2a0808d-f35f-42fc-ac0b-50b81618201f#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser](https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser-a-e2a0808d-f35f-42fc-ac0b-50b81618201f#ref=rss)
+* [https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf](https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf-a-91902014-e4f0-4057-b6f0-e9c554c2be2b#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser](https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser-a-e2a0808d-f35f-42fc-ac0b-50b81618201f#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser](https://www.spiegel.de/sport/fussball/erling-haaland-kauft-buch-fuer-120-000-euro-nie-der-grosse-leser-a-e2a0808d-f35f-42fc-ac0b-50b81618201f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
+### zerainstitut
+
+* [https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf](https://www.spiegel.de/politik/foerdermittelaffaere-in-berlin-ex-forschungsleiter-von-cdu-gefoerdertem-institut-schoente-offenbar-seinen-lebenslauf-a-91902014-e4f0-4057-b6f0-e9c554c2be2b#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### salzgitter
+
+* [https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben-a-60d783a2-7405-45b2-be1a-700c5b559668#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-familie-soll-reinigungskraft-brutal-gequaelt-haben-a-60d783a2-7405-45b2-be1a-700c5b559668#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage](https://www.spiegel.de/wirtschaft/katherina-reiche-stellt-eu-klimaziel-fuer-2050-infrage-a-fbfc148c-5960-46c7-bd4b-bfb24bfe9f87#ref=rss)
 
