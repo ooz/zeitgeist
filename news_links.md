@@ -4,308 +4,325 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen](https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen-a-d5a3886b-9094-4d42-b5e3-c75ad8995b8c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung](https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung-a-16253319-33f2-4a9d-8a4c-d91e978fcf6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/netzwelt/openai-ki-video-app-sora-wird-ueberraschend-eingestellt](https://www.spiegel.de/netzwelt/openai-ki-video-app-sora-wird-ueberraschend-eingestellt-a-eacb57b8-0b84-4c06-ac41-2ec1ab5c001c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest](https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest-a-6401c67f-3d7a-4f10-9856-74f2528cc26e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten](https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten-a-eb952f99-f465-4ac4-9f3e-0c5ac69a9f1c#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betreuer-soll-kinder-41-fach-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betreuer-soll-kinder-41-fach-sexuell-missbraucht-haben-a-021a36f2-153c-41c8-98b1-5108cd810298#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung](https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung-a-16253319-33f2-4a9d-8a4c-d91e978fcf6d#ref=rss)
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### studie
-
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-### junger
-
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer](https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer-a-ee324656-1442-4ba6-b38f-b144ecfab801#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betreuer-soll-kinder-41-fach-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betreuer-soll-kinder-41-fach-sexuell-missbraucht-haben-a-021a36f2-153c-41c8-98b1-5108cd810298#ref=rss)
-* [https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft](https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft-a-8d016107-aa22-4f92-8a40-b233c9557da9#ref=rss)
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### fall
-
-* [https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung](https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung-a-1b14fc35-a7cf-477f-9226-9ad41f7b0f9a#ref=rss)
-* [https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar](https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar-a-575e4932-e1f7-4646-9cf6-c99253b1d297#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest](https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest-a-6401c67f-3d7a-4f10-9856-74f2528cc26e#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar](https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar-a-575e4932-e1f7-4646-9cf6-c99253b1d297#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-### krankenkassen
-
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern](https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern-a-cb128dd6-ec53-4a19-b590-6f9ebb741bbe#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer](https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer-a-ee324656-1442-4ba6-b38f-b144ecfab801#ref=rss)
-### spdabgeordnete
-
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen](https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen-a-d5a3886b-9094-4d42-b5e3-c75ad8995b8c#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen](https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen-a-d5a3886b-9094-4d42-b5e3-c75ad8995b8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen](https://www.spiegel.de/politik/deutschland/ermittlungen-in-italien-warum-spd-abgeordnete-die-massaker-von-sarajevo-auch-in-deutschland-verfolgen-lassen-wollen-a-d5a3886b-9094-4d42-b5e3-c75ad8995b8c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-### sora
-
-* [https://www.spiegel.de/netzwelt/openai-ki-video-app-sora-wird-ueberraschend-eingestellt](https://www.spiegel.de/netzwelt/openai-ki-video-app-sora-wird-ueberraschend-eingestellt-a-eacb57b8-0b84-4c06-ac41-2ec1ab5c001c#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/start/arbeitslosigkeit-ich-kann-berufseinsteigern-nur-sagen-haltet-durch](https://www.spiegel.de/start/arbeitslosigkeit-ich-kann-berufseinsteigern-nur-sagen-haltet-durch-a-993e5ae7-39d0-450d-af2a-ebf2d52645e0#ref=rss)
-* [https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar](https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar-a-575e4932-e1f7-4646-9cf6-c99253b1d297#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/start/arbeitslosigkeit-ich-kann-berufseinsteigern-nur-sagen-haltet-durch](https://www.spiegel.de/start/arbeitslosigkeit-ich-kann-berufseinsteigern-nur-sagen-haltet-durch-a-993e5ae7-39d0-450d-af2a-ebf2d52645e0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### denkt
-
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern](https://www.spiegel.de/panorama/bildung/studie-jugend-in-deutschland-jeder-fuenfte-junge-mensch-in-deutschland-denkt-konkret-ans-auswandern-a-2451d3d1-7588-4596-b61f-561cde76b17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor](https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor-a-6aa7debb-af7d-4258-8947-5b58f285ae54#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer-a-7d695d5d-0639-4e2b-89e3-bcb9ddc0a2a8#ref=rss)
-### baumann
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer-a-7d695d5d-0639-4e2b-89e3-bcb9ddc0a2a8#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer-a-7d695d5d-0639-4e2b-89e3-bcb9ddc0a2a8#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer-a-7d695d5d-0639-4e2b-89e3-bcb9ddc0a2a8#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-dfb-torhueter-oliver-baumann-findet-er-habe-einfach-nicht-die-skills-von-manuel-neuer-a-7d695d5d-0639-4e2b-89e3-bcb9ddc0a2a8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben](https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben-a-0abb8426-cbba-4886-a18f-0f5c8920443c#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft](https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft-a-8d016107-aa22-4f92-8a40-b233c9557da9#ref=rss)
-### mitglieder
-
-* [https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft](https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft-a-8d016107-aa22-4f92-8a40-b233c9557da9#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft](https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft-a-8d016107-aa22-4f92-8a40-b233c9557da9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft](https://www.spiegel.de/panorama/urteil-in-berlin-mitglieder-von-hamas-untergrundzelle-sollen-fuer-mehrere-jahre-in-haft-a-8d016107-aa22-4f92-8a40-b233c9557da9#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer](https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer-a-ee324656-1442-4ba6-b38f-b144ecfab801#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-### colbert
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-### herr
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-### ringefilm
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-### bald
-
-* [https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson](https://www.spiegel.de/kultur/kino/stephen-colbert-drehbuch-fuer-herr-der-ringe-film-von-peter-jackson-a-82a702b8-3305-454e-a104-56e9214e5979#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch](https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch-a-4ed524e7-f210-435b-90ee-ec8637e42612#ref=rss)
-### aktuelle
-
-* [https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung](https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung-a-1b14fc35-a7cf-477f-9226-9ad41f7b0f9a#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung](https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung-a-1b14fc35-a7cf-477f-9226-9ad41f7b0f9a#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung](https://www.spiegel.de/karriere/verdienst-im-handwerk-aktuelle-zahlen-zeigen-schlechte-bezahlung-a-1b14fc35-a7cf-477f-9226-9ad41f7b0f9a#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor](https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor-a-6aa7debb-af7d-4258-8947-5b58f285ae54#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben](https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben-a-0abb8426-cbba-4886-a18f-0f5c8920443c#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten](https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten-a-eb952f99-f465-4ac4-9f3e-0c5ac69a9f1c#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-a-d76e07f5-f74d-4a39-8908-637965cbc357#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-### collien
-
-* [https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar](https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar-a-575e4932-e1f7-4646-9cf6-c99253b1d297#ref=rss)
-### fernandes
-
-* [https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar](https://www.spiegel.de/kultur/fall-collien-fernandes-nein-die-maenner-muessen-nicht-ihr-schweigen-brechen-kommentar-a-575e4932-e1f7-4646-9cf6-c99253b1d297#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### kanzler
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land](https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land-a-815cae48-975a-47ef-820e-a48103bd71bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### scheitern
+* [https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick](https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick-a-77c2ff32-20a3-4f0b-a2f9-58f5725d3e4f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger](https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger-a-ff98cc9e-1276-48ba-909a-02a2677e0fd7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren](https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren-a-344f8f05-2690-4bd4-8a89-1c9e3b3f8b60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pharma-und-chemie-beschaeftigte-bekommen-mehr-geld](https://www.spiegel.de/wirtschaft/pharma-und-chemie-beschaeftigte-bekommen-mehr-geld-a-cabc7021-0994-45d2-a3b7-181b8c68d828#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### jugendlichen
+* [https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren](https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren-a-344f8f05-2690-4bd4-8a89-1c9e3b3f8b60#ref=rss)
+* [https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert](https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert-a-3b64fd55-fda7-4a8b-a4c8-a3086d5397be#ref=rss)
+* [https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen](https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen-a-ebcd064a-2815-4d99-ab85-8ea67f56c51e#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung](https://www.spiegel.de/panorama/bildung/unesco-weltbildungsbericht-273-millionen-kinder-haben-keinen-zugang-zu-bildung-a-16253319-33f2-4a9d-8a4c-d91e978fcf6d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest](https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest-a-6401c67f-3d7a-4f10-9856-74f2528cc26e#ref=rss)
-### lösung
+* [https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen](https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen-a-af2f6106-010a-45f9-a06c-ac3447493c2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren](https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren-a-f46c9537-5c25-4141-922e-2043b69acad8#ref=rss)
+* [https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen](https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen-a-ebcd064a-2815-4d99-ab85-8ea67f56c51e#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung](https://www.spiegel.de/wirtschaft/gesundheit-das-steckt-hinter-dem-kostenschock-der-krankenkassen-und-das-waere-die-loesung-a-69686e69-4780-4f26-84f5-a7d42d0f16a6#ref=rss)
-### eckernförde
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest](https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest-a-6401c67f-3d7a-4f10-9856-74f2528cc26e#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land](https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land-a-815cae48-975a-47ef-820e-a48103bd71bd#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest](https://www.spiegel.de/panorama/justiz/mord-an-15-jaehrigem-in-eckernfoerde-polizei-nimmt-tatverdaechtigen-fest-a-6401c67f-3d7a-4f10-9856-74f2528cc26e#ref=rss)
-### zufolge
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91#ref=rss)
+* [https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen](https://www.spiegel.de/psychologie/gewaltpraevention-warum-wir-taetern-das-taetersein-nicht-ansehen-koennen-a-ebcd064a-2815-4d99-ab85-8ea67f56c51e#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben](https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben-a-0abb8426-cbba-4886-a18f-0f5c8920443c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch](https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch-a-4ed524e7-f210-435b-90ee-ec8637e42612#ref=rss)
-### wohnimmobilien
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-### kaufen
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten](https://www.spiegel.de/wirtschaft/fachkraeftemangel-die-luecke-waechst-an-der-fleischtheke-am-staerksten-a-eb952f99-f465-4ac4-9f3e-0c5ac69a9f1c#ref=rss)
-### regionen
-
-* [https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen](https://www.spiegel.de/wirtschaft/wohnimmobilien-preise-sind-laut-statistischem-bundesamt-erneut-gestiegen-a-d3d4bdae-bd4a-4df8-b6d8-d0d492219d61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-### lebt
-
-* [https://www.spiegel.de/panorama/niendorf-an-der-ostsee-helfer-geben-hoffnung-auf-walrettung-nicht-auf](https://www.spiegel.de/panorama/niendorf-an-der-ostsee-helfer-geben-hoffnung-auf-walrettung-nicht-auf-a-c08ded50-7447-498d-b8b2-9feb2d29a868#ref=rss)
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### scrubs
-
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt](https://www.spiegel.de/kultur/tv/scrubs-reboot-mit-staffel-10-reanimation-geglueckt-patient-lebt-a-10d4a02c-2e03-49d3-9a7e-4eaf0ae2311f#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch](https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch-a-4ed524e7-f210-435b-90ee-ec8637e42612#ref=rss)
-### hohe
-
-* [https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch](https://www.spiegel.de/sport/olympia/olympia-bewerbung-mehrheit-in-hamburg-laut-einer-umfrage-skeptisch-a-4ed524e7-f210-435b-90ee-ec8637e42612#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
-### influencer
-
-* [https://www.spiegel.de/ausland/donald-trump-ernennt-rechten-influencer-zum-sondergesandten-fuer-tourismus](https://www.spiegel.de/ausland/donald-trump-ernennt-rechten-influencer-zum-sondergesandten-fuer-tourismus-a-84c40e68-1d9e-450d-bfed-fba26927a621#ref=rss)
-### bkachef
-
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-### holger
-
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-### münch
-
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-### heroin
-
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-### teurer
-
-* [https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher](https://www.spiegel.de/panorama/justiz/bka-chef-holger-muench-kokain-preise-sinken-heroin-wird-teurer-und-gefaehrlicher-a-21ec7ca7-0037-4ea4-a867-cce1f1f2c6cf#ref=rss)
-### benzol
-
-* [https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird](https://www.spiegel.de/wirtschaft/service/krebserregendes-benzol-wenn-der-gasanschluss-zur-unsichtbaren-gefahr-wird-a-f402cb82-8609-43c0-bd0b-e61d05dfe11e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+* [https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen](https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen-a-af2f6106-010a-45f9-a06c-ac3447493c2c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern](https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern-a-cb128dd6-ec53-4a19-b590-6f9ebb741bbe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern](https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern-a-2ea21771-730a-419b-948c-1aa7ccbeb5ab#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern](https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern-a-cb128dd6-ec53-4a19-b590-6f9ebb741bbe#ref=rss)
-### reformideen
+* [https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern](https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern-a-2ea21771-730a-419b-948c-1aa7ccbeb5ab#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern](https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern-a-cb128dd6-ec53-4a19-b590-6f9ebb741bbe#ref=rss)
-### mitversicherung
+* [https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger](https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger-a-ff98cc9e-1276-48ba-909a-02a2677e0fd7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren](https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren-a-344f8f05-2690-4bd4-8a89-1c9e3b3f8b60#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich](https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich-a-58eca44b-9cbd-4c67-bc0a-961e1bdd299b#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern](https://www.spiegel.de/wirtschaft/krankenkassen-markus-soeder-kritisiert-reformideen-zur-mitversicherung-von-ehepartnern-a-cb128dd6-ec53-4a19-b590-6f9ebb741bbe#ref=rss)
-### darren
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449-a-0f54e2c5-1026-4615-b31d-f240b8de2019#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### hardy
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land](https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land-a-815cae48-975a-47ef-820e-a48103bd71bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### exsoldat
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449-a-0f54e2c5-1026-4615-b31d-f240b8de2019#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot](https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot-a-121ddd29-1e0f-4495-ab33-2a7133e6456a#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### 100
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern](https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern-a-5a849b19-4204-4854-a2ca-c1b469555fd1#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### kilometer
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit](https://www.spiegel.de/panorama/rekord-britischer-ex-soldat-zieht-land-rover-100-kilometer-weit-a-2b590dbf-b9fb-4d8a-ba48-53255d1df773#ref=rss)
-### instagram
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+### weg
 
-* [https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer](https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer-a-ee324656-1442-4ba6-b38f-b144ecfab801#ref=rss)
-### nutzer
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot](https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot-a-121ddd29-1e0f-4495-ab33-2a7133e6456a#ref=rss)
+### junge
 
-* [https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer](https://www.spiegel.de/netzwelt/meta-375-millionen-dollar-strafe-im-prozess-um-junge-nutzer-a-ee324656-1442-4ba6-b38f-b144ecfab801#ref=rss)
-### altkanzler
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor](https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor-a-6aa7debb-af7d-4258-8947-5b58f285ae54#ref=rss)
-### schröder
+* [https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt](https://www.spiegel.de/panorama/justiz/saarland-messerangriff-in-regionalbahn-18-jaehrige-verletzt-a-9e449810-2880-4d4e-915c-8692546d6a24#ref=rss)
+* [https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten](https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten-a-7bee5228-f4e1-4eb7-baf7-e97a56bfe9cc#ref=rss)
+### erinnerungskultur
 
-* [https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor](https://www.spiegel.de/politik/deutschland/altkanzler-gerhard-schroeder-wirft-spd-beschaeftigung-mit-nebenthemen-vor-a-6aa7debb-af7d-4258-8947-5b58f285ae54#ref=rss)
-### kaffee
+* [https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen](https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen-a-af2f6106-010a-45f9-a06c-ac3447493c2c#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wissenschaft/mensch/kaffee-entzieht-er-dem-koerper-wasser](https://www.spiegel.de/wissenschaft/mensch/kaffee-entzieht-er-dem-koerper-wasser-a-6010c426-b9ab-44c8-bbb7-fa47c299f244#ref=rss)
+* [https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen](https://www.spiegel.de/kultur/streit-um-erinnerungskultur-erzaehlen-wir-die-geschichte-der-zwangsmigration-oder-geht-es-nur-um-das-schicksal-der-deutschen-a-af2f6106-010a-45f9-a06c-ac3447493c2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger](https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger-a-ff98cc9e-1276-48ba-909a-02a2677e0fd7#ref=rss)
+### förderung
+
+* [https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick](https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick-a-77c2ff32-20a3-4f0b-a2f9-58f5725d3e4f#ref=rss)
+### altersvorsorge
+
+* [https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick](https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick-a-77c2ff32-20a3-4f0b-a2f9-58f5725d3e4f#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick](https://www.spiegel.de/wirtschaft/service/riester-reform-die-geplante-foerderung-der-privaten-altersvorsorge-im-ueberblick-a-77c2ff32-20a3-4f0b-a2f9-58f5725d3e4f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### jimi
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben-a-d691b497-5b2c-4f9d-b738-4740bf059b73#ref=rss)
+### blue
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben-a-d691b497-5b2c-4f9d-b738-4740bf059b73#ref=rss)
+### ochsenknecht
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben-a-d691b497-5b2c-4f9d-b738-4740bf059b73#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben-a-d691b497-5b2c-4f9d-b738-4740bf059b73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern](https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern-a-2ea21771-730a-419b-948c-1aa7ccbeb5ab#ref=rss)
+### geld
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-soll-noch-schulden-in-oesterreich-haben-a-d691b497-5b2c-4f9d-b738-4740bf059b73#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pharma-und-chemie-beschaeftigte-bekommen-mehr-geld](https://www.spiegel.de/wirtschaft/pharma-und-chemie-beschaeftigte-bekommen-mehr-geld-a-cabc7021-0994-45d2-a3b7-181b8c68d828#ref=rss)
+### regierungsbefragung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-jugendstudie-gesundheitskosten-regierungsbefragung-friedrich-merz-a-b6bb0187-2f98-405f-b531-c7d2bf521f1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern](https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern-a-2ea21771-730a-419b-948c-1aa7ccbeb5ab#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern](https://www.spiegel.de/politik/deutschland/gruener-ob-in-muenchen-beginn-des-endes-der-aera-markus-soeder-in-bayern-a-2ea21771-730a-419b-948c-1aa7ccbeb5ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land](https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land-a-815cae48-975a-47ef-820e-a48103bd71bd#ref=rss)
+### kaufkraft
+
+* [https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger](https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger-a-ff98cc9e-1276-48ba-909a-02a2677e0fd7#ref=rss)
+### wovon
+
+* [https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger](https://www.spiegel.de/wirtschaft/service/iw-auswertung-zur-kaufkraft-wovon-sich-die-deutschen-mehr-leisten-koennen-und-wovon-weniger-a-ff98cc9e-1276-48ba-909a-02a2677e0fd7#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+### dürr
+
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+### marieagnes
+
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+### strackzimmermann
+
+* [https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann](https://www.spiegel.de/politik/fdp-christian-duerr-kontert-kritik-von-marie-agnes-strack-zimmermann-a-49330194-6210-4763-9473-6f142e72f60f#ref=rss)
+### früher
+
+* [https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren](https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren-a-344f8f05-2690-4bd4-8a89-1c9e3b3f8b60#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### angenommen
+
+* [https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren](https://www.spiegel.de/wissenschaft/mensch/hunde-begleiten-menschen-in-europa-schon-seit-mehr-als-15-000-jahren-a-344f8f05-2690-4bd4-8a89-1c9e3b3f8b60#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich](https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich-a-58eca44b-9cbd-4c67-bc0a-961e1bdd299b#ref=rss)
+### don
+
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+### delillo
+
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+### heated
+
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+### rivalry
+
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet](https://www.spiegel.de/kultur/literatur/don-delillo-nach-heated-rivalry-hat-er-die-wiederauflage-von-amazons-gestattet-a-73cd59f3-ccc0-431e-b2a0-8a5948aa38c2#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### bristol
+
+* [https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert](https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert-a-3b64fd55-fda7-4a8b-a4c8-a3086d5397be#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert](https://www.spiegel.de/panorama/paris-brand-in-luxushotel-bristol-hunderte-menschen-evakuiert-a-3b64fd55-fda7-4a8b-a4c8-a3086d5397be#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich](https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich-a-58eca44b-9cbd-4c67-bc0a-961e1bdd299b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen-a-3ee11042-03e5-41af-bc06-78363ac6ab13#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich](https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich-a-58eca44b-9cbd-4c67-bc0a-961e1bdd299b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich](https://www.spiegel.de/wissenschaft/mensch/klimawandel-extreme-folgen-schon-bei-erwaermung-um-zwei-grad-moeglich-a-58eca44b-9cbd-4c67-bc0a-961e1bdd299b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land](https://www.spiegel.de/wirtschaft/lars-klingbeil-deutschland-ist-mittlerweile-ein-blockiertes-land-a-815cae48-975a-47ef-820e-a48103bd71bd#ref=rss)
+### grünheide
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-ig-metall-ficht-betriebsratswahl-in-gruenheide-an](https://www.spiegel.de/wirtschaft/unternehmen/tesla-ig-metall-ficht-betriebsratswahl-in-gruenheide-an-a-66f4bbe0-bf6e-4bde-b337-69369f08c405#ref=rss)
+### collien
+
+* [https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten](https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten-a-7bee5228-f4e1-4eb7-baf7-e97a56bfe9cc#ref=rss)
+### fernandes
+
+* [https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten](https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten-a-7bee5228-f4e1-4eb7-baf7-e97a56bfe9cc#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten](https://www.spiegel.de/politik/der-fall-collien-fernandes-haertere-strafen-allein-koennen-uns-frauen-nicht-retten-a-7bee5228-f4e1-4eb7-baf7-e97a56bfe9cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+### mohammad
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+### bagher
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+### ghalibaf
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt](https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt-a-ffc8741a-21ee-45a6-a451-3e6a9e2bb84c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf](https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e#ref=rss)
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+### gregor
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren](https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren-a-f46c9537-5c25-4141-922e-2043b69acad8#ref=rss)
+### gysi
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren](https://www.spiegel.de/politik/deutschland/gregor-gysi-ueber-antisemitismus-in-der-linken-diesen-machtkampf-muessen-wir-jetzt-zu-ende-fuehren-a-f46c9537-5c25-4141-922e-2043b69acad8#ref=rss)
+### bundesarbeitsgericht
+
+* [https://www.spiegel.de/karriere/bundesarbeitsgericht-freistellungsklausel-in-arbeitsvertraegen-unwirksam](https://www.spiegel.de/karriere/bundesarbeitsgericht-freistellungsklausel-in-arbeitsvertraegen-unwirksam-a-8ffe80c2-25a4-490f-b9fa-4434740d950f#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/karriere/bundesarbeitsgericht-freistellungsklausel-in-arbeitsvertraegen-unwirksam](https://www.spiegel.de/karriere/bundesarbeitsgericht-freistellungsklausel-in-arbeitsvertraegen-unwirksam-a-8ffe80c2-25a4-490f-b9fa-4434740d950f#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern](https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern-a-5a849b19-4204-4854-a2ca-c1b469555fd1#ref=rss)
+### estland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen-a-3ee11042-03e5-41af-bc06-78363ac6ab13#ref=rss)
+### lettland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen-a-3ee11042-03e5-41af-bc06-78363ac6ab13#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449-a-0f54e2c5-1026-4615-b31d-f240b8de2019#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449-a-0f54e2c5-1026-4615-b31d-f240b8de2019#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-spd-nimmt-bundespraesidenten-gegen-angriffe-aus-der-union-in-schutz-1774447449-a-0f54e2c5-1026-4615-b31d-f240b8de2019#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot](https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot-a-121ddd29-1e0f-4495-ab33-2a7133e6456a#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### georg
+
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+### restle
+
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+### monitor
+
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+### nairobi
+
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten](https://www.spiegel.de/kultur/georg-restle-von-monitor-nach-nairobi-will-nicht-ueber-elefantenbabys-berichten-a-2ac4696b-bf0d-4d3b-a42b-3abf875c120d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern](https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern-a-5a849b19-4204-4854-a2ca-c1b469555fd1#ref=rss)
+### wülfershausen
+
+* [https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung](https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung-a-897690ad-e14d-499a-85d3-f8a2e5d6ee1b#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung](https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung-a-897690ad-e14d-499a-85d3-f8a2e5d6ee1b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung](https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung-a-897690ad-e14d-499a-85d3-f8a2e5d6ee1b#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung](https://www.spiegel.de/panorama/wuelfershausen-buergermeister-seifert-gesteht-laut-staatsanwaltschaft-wahlfaelschung-a-897690ad-e14d-499a-85d3-f8a2e5d6ee1b#ref=rss)
+### sportfördergesetz
+
+* [https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung](https://www.spiegel.de/sport/olympia/neues-sportfoerdergesetz-fragen-und-antworten-zum-vorhaben-der-bundesregierung-a-7d418754-6685-4c2d-ba18-24008549e505#ref=rss)
+### maßnahmen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot](https://www.spiegel.de/politik/deutschland/mehrwertsteuer-rauf-ehegattensplitting-weg-das-sind-die-reformideen-von-schwarz-rot-a-121ddd29-1e0f-4495-ab33-2a7133e6456a#ref=rss)
+### energiepreise
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-stellt-sich-im-bundestag-den-fragen-der-abgeordneten-livestream-a-68ba8322-3280-4959-bf32-ce64fdcb2c3c#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern](https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern-a-5a849b19-4204-4854-a2ca-c1b469555fd1#ref=rss)
+### euro
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern](https://www.spiegel.de/mobilitaet/auto/elektroautos-foerdergeld-fuer-wallbox-in-mehrfamilienhaeusern-a-5a849b19-4204-4854-a2ca-c1b469555fd1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt](https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt-a-ffc8741a-21ee-45a6-a451-3e6a9e2bb84c#ref=rss)
+### telefon
+
+* [https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt](https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt-a-ffc8741a-21ee-45a6-a451-3e6a9e2bb84c#ref=rss)
+### rentnerin
+
+* [https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt](https://www.spiegel.de/panorama/justiz/trickbetrueger-am-telefon-rentnerin-verliert-500-000-euro-an-falschen-arzt-a-ffc8741a-21ee-45a6-a451-3e6a9e2bb84c#ref=rss)
 
