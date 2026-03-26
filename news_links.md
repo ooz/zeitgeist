@@ -4,272 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### irankrieg
+### trump
 
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht](https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht-a-413603f1-f74f-4459-aeb6-104d06bb3a78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei](https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei-a-6f140b41-1d4a-440b-82d9-8557fb194390#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown](https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown-a-c3b34bbb-0735-4737-8536-7af9f9735f35#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht](https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht-a-aca4a08f-1f65-4f92-add5-2171dee19c49#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht](https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht-a-413603f1-f74f-4459-aeb6-104d06bb3a78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag](https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag-a-54625748-77b0-49b8-8094-2f667546ab82#ref=rss)
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest](https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest-a-dc49c85c-9be5-4729-83db-5fafbd389370#ref=rss)
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
-* [https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte](https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte-a-4ddee76e-27b5-4cb6-9059-e7c2cd80b099#ref=rss)
-* [https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht](https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht-a-aca4a08f-1f65-4f92-add5-2171dee19c49#ref=rss)
-### erste
-
-* [https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte](https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte-a-4ddee76e-27b5-4cb6-9059-e7c2cd80b099#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus-a-534e0dc4-eda9-4e0c-b14b-23a1f57b71af#ref=rss)
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### konflikt
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus-a-534e0dc4-eda9-4e0c-b14b-23a1f57b71af#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht](https://www.spiegel.de/wirtschaft/iran-krieg-wie-der-konflikt-die-globale-wirtschaft-bedroht-a-413603f1-f74f-4459-aeb6-104d06bb3a78#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht](https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht-a-aca4a08f-1f65-4f92-add5-2171dee19c49#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen](https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen-a-70f05f10-d141-424d-84bf-4572c472bd7d#ref=rss)
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft](https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bundestag-stimmt-fuer-ein-mal-am-tag-regel-fuer-tankstellen](https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bundestag-stimmt-fuer-ein-mal-am-tag-regel-fuer-tankstellen-a-6391a5e7-586f-4a3b-b267-ffc52b2c83e3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen](https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen-a-70f05f10-d141-424d-84bf-4572c472bd7d#ref=rss)
-### droht
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-* [https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen](https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen-a-84aa9e3d-6a75-458e-b752-cfaeb9a67250#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-* [https://www.spiegel.de/start/physician-assistant-werden-die-arbeit-mit-herzkranken-menschen-ist-emotional-fordernd](https://www.spiegel.de/start/physician-assistant-werden-die-arbeit-mit-herzkranken-menschen-ist-emotional-fordernd-a-5b9a05c6-6588-4ce6-a483-4432d2d0dd54#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel](https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel-a-7f7cad66-7420-4274-b29e-fbeb9c430a87#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
-### revolutionswächter
-
-* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-### platz
-
-* [https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte](https://www.spiegel.de/karriere/michael-thomas-und-andreas-machen-geschaefte-a-4ddee76e-27b5-4cb6-9059-e7c2cd80b099#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel](https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel-a-7f7cad66-7420-4274-b29e-fbeb9c430a87#ref=rss)
-### grafiken
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### karten
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-### nahen
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-### osten
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten](https://www.spiegel.de/ausland/iran-krieg-in-grafiken-und-karten-hier-finden-sie-alle-wichtigen-daten-a-8a4e9e9d-22d0-4e5d-80c7-6515b6632480#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen](https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen-a-70f05f10-d141-424d-84bf-4572c472bd7d#ref=rss)
-### horst
-
-* [https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht](https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht-a-aca4a08f-1f65-4f92-add5-2171dee19c49#ref=rss)
-### schlämmer
-
-* [https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht](https://www.spiegel.de/kultur/kino/horst-schlaemmer-sucht-das-glueck-rezension-zum-film-deutschland-hat-ruecken-im-gesicht-a-aca4a08f-1f65-4f92-add5-2171dee19c49#ref=rss)
-### osterferien
-
-* [https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen](https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen-a-30e62c06-e895-41d9-b98a-132c16d8e584#ref=rss)
-### beginnen
-
-* [https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen](https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen-a-30e62c06-e895-41d9-b98a-132c16d8e584#ref=rss)
-### adac
-
-* [https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen](https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen-a-30e62c06-e895-41d9-b98a-132c16d8e584#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen](https://www.spiegel.de/mobilitaet/auto/osterferien-beginnen-adac-warnt-vor-langen-staus-auf-autobahnen-a-30e62c06-e895-41d9-b98a-132c16d8e584#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest](https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest-a-dc49c85c-9be5-4729-83db-5fafbd389370#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft](https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e#ref=rss)
-### ko
-
-* [https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft](https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e#ref=rss)
-### wenje
-
-* [https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft](https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft](https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag](https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag-a-54625748-77b0-49b8-8094-2f667546ab82#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus-a-534e0dc4-eda9-4e0c-b14b-23a1f57b71af#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus-a-534e0dc4-eda9-4e0c-b14b-23a1f57b71af#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-schliesst-britischen-journalisten-von-medienrunde-aus-a-534e0dc4-eda9-4e0c-b14b-23a1f57b71af#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/pfas-eu-behoerde-echa-empfiehlt-verbot-von-ewigkeitschemikalien-mit-ausnahmen](https://www.spiegel.de/wirtschaft/unternehmen/pfas-eu-behoerde-echa-empfiehlt-verbot-von-ewigkeitschemikalien-mit-ausnahmen-a-e6ae947b-e50a-4707-802c-72ec184ccd7e#ref=rss)
-### susanne
-
-* [https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag](https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag-a-54625748-77b0-49b8-8094-2f667546ab82#ref=rss)
-### daubner
-
-* [https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag](https://www.spiegel.de/panorama/leute/susanne-daubner-wird-65-tagesschau-sprecherin-und-jugendwort-ansagerin-hat-geburtstag-a-54625748-77b0-49b8-8094-2f667546ab82#ref=rss)
-### tankstellen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bundestag-stimmt-fuer-ein-mal-am-tag-regel-fuer-tankstellen](https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bundestag-stimmt-fuer-ein-mal-am-tag-regel-fuer-tankstellen-a-6391a5e7-586f-4a3b-b267-ffc52b2c83e3#ref=rss)
-### straßenverkehrsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen](https://www.spiegel.de/politik/deutschland/strassenverkehrsgesetz-diese-neuen-regeln-will-der-bundestag-beschliessen-a-70f05f10-d141-424d-84bf-4572c472bd7d#ref=rss)
-### flucht
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### vertreibung
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### merz
-
-* [https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort](https://www.spiegel.de/panorama/friedrich-merz-chaos-bei-vertriebenenstiftung-kanzler-spricht-machtwort-a-2bb91e39-e4e0-46fa-89f3-ad12e62aff44#ref=rss)
-### dubai
-
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-### emirat
-
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-### genervt
-
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte](https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte-a-694b4adc-da53-4cc3-9b72-011799e8ef3a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump](https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-die-menschen-im-emirat-sind-genervt-von-donald-trump-a-730694bf-f8b5-4de2-9703-d3b21acc2ed3#ref=rss)
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-### stagnation
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei](https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei-a-6f140b41-1d4a-440b-82d9-8557fb194390#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown](https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown-a-c3b34bbb-0735-4737-8536-7af9f9735f35#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### ehegattensplitting
 
-* [https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/irankrieg-regierung-verantwortlich-fuer-wirtschaftliche-stagnation-in-deutschland-a-1ecccd4f-6294-47d8-a936-d9d7ae4ef9ef#ref=rss)
-### real
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten](https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten-a-4415f6db-7d7c-45aa-aefe-bef13e2961d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium-a-9c966997-649a-4487-8874-b82a55643e12#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-### madrid
+* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-### kylian
+* [https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder](https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder-a-cdbe3edb-2aa4-486a-9ca7-9c12b6bc6d21#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte](https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte-a-a1329411-b640-4034-9f7d-87c35e904d04#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index-a-021cbb03-a307-41d7-a0cb-538316e9954e#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-### mbappé
+* [https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an](https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an-a-8c5af52c-d744-4297-9934-186b5531f477#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-### fehler
+* [https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt](https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt-a-36facaee-9034-4fa9-a856-276f60825dd0#ref=rss)
+* [https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein](https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein-a-fa3908a8-4d8e-4f71-aee5-32180871a1b4#ref=rss)
+### weit
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-### ärzte
+* [https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt](https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt-a-36facaee-9034-4fa9-a856-276f60825dd0#ref=rss)
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung](https://www.spiegel.de/sport/fussball/fussballstar-kylian-mbappe-dementiert-berichte-ueber-fehler-bei-knie-untersuchung-a-67a6cdd5-10d8-4088-af5d-534b121a9b3f#ref=rss)
-* [https://www.spiegel.de/start/physician-assistant-werden-die-arbeit-mit-herzkranken-menschen-ist-emotional-fordernd](https://www.spiegel.de/start/physician-assistant-werden-die-arbeit-mit-herzkranken-menschen-ist-emotional-fordernd-a-5b9a05c6-6588-4ce6-a483-4432d2d0dd54#ref=rss)
-### rapper
+* [https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte](https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte-a-694b4adc-da53-4cc3-9b72-011799e8ef3a#ref=rss)
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/leute/jay-z-ueber-vergewaltigungsvorwuerfe-rapper-fuehlte-unkontrollierbare-wut](https://www.spiegel.de/panorama/leute/jay-z-ueber-vergewaltigungsvorwuerfe-rapper-fuehlte-unkontrollierbare-wut-a-51c4d76a-0724-4c79-a61f-c63443459c09#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei](https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei-a-6f140b41-1d4a-440b-82d9-8557fb194390#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen](https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen-a-84aa9e3d-6a75-458e-b752-cfaeb9a67250#ref=rss)
-### schattenflotte
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei](https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei-a-6f140b41-1d4a-440b-82d9-8557fb194390#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+### mark
 
-* [https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen](https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen-a-84aa9e3d-6a75-458e-b752-cfaeb9a67250#ref=rss)
-### 20
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte](https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte-a-a1329411-b640-4034-9f7d-87c35e904d04#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest](https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest-a-dc49c85c-9be5-4729-83db-5fafbd389370#ref=rss)
-### zentimeter
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-haben-manche-leute-kaesefuesse](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-haben-manche-leute-kaesefuesse-a-f8ea822b-2c74-4f54-b495-b1330a6d859a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest](https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest-a-dc49c85c-9be5-4729-83db-5fafbd389370#ref=rss)
-### stecken
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-haben-manche-leute-kaesefuesse](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-haben-manche-leute-kaesefuesse-a-f8ea822b-2c74-4f54-b495-b1330a6d859a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor](https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor-a-16c32cac-a75c-44f0-b17d-0f1a74ea94ca#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest](https://www.spiegel.de/panorama/wetter-bis-zu-20-zentimeter-neuschnee-in-baden-wuerttemberg-lkw-stecken-fest-a-dc49c85c-9be5-4729-83db-5fafbd389370#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/pfas-eu-behoerde-echa-empfiehlt-verbot-von-ewigkeitschemikalien-mit-ausnahmen](https://www.spiegel.de/wirtschaft/unternehmen/pfas-eu-behoerde-echa-empfiehlt-verbot-von-ewigkeitschemikalien-mit-ausnahmen-a-e6ae947b-e50a-4707-802c-72ec184ccd7e#ref=rss)
-### viertelfinalhinspiel
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten](https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten-a-4415f6db-7d7c-45aa-aefe-bef13e2961d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren](https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren-a-cee05bb2-4965-462f-950b-f3d6e3789e29#ref=rss)
+### spd
 
-* [https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel](https://www.spiegel.de/sport/fussball/champions-league-frauen-fc-bayern-besiegt-manchester-united-im-viertelfinalhinspiel-a-7f7cad66-7420-4274-b29e-fbeb9c430a87#ref=rss)
-### zahlt
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten](https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten-a-4415f6db-7d7c-45aa-aefe-bef13e2961d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert](https://www.spiegel.de/ausland/millionenmaut-an-strasse-von-hormus-iran-kassiert-und-provoziert-a-b9067343-42c0-43ca-9821-9958f00cd1c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wer-zahlt-fuer-sauberes-wasser-die-pharmaindustrie-oder-die-privaten-verbraucher](https://www.spiegel.de/wirtschaft/unternehmen/wer-zahlt-fuer-sauberes-wasser-die-pharmaindustrie-oder-die-privaten-verbraucher-a-28904f1b-eba9-4679-8382-794dc2c6799a#ref=rss)
-### tariq
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten](https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten-a-4415f6db-7d7c-45aa-aefe-bef13e2961d1#ref=rss)
+* [https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt](https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt-a-36facaee-9034-4fa9-a856-276f60825dd0#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### ramadan
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten](https://www.spiegel.de/politik/deutschland/lars-klingbeil-was-die-plaene-zum-ehegattensplitting-fuer-ihren-geldbeutel-bedeuten-koennten-a-4415f6db-7d7c-45aa-aefe-bef13e2961d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### vergewaltigung
+* [https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+### ki
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### drei
+* [https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder](https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder-a-cdbe3edb-2aa4-486a-9ca7-9c12b6bc6d21#ref=rss)
+### grok
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### schuldig
+* [https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder](https://www.spiegel.de/netzwelt/niederlande-gericht-verbietet-mit-ki-grok-generierte-nacktbilder-a-cdbe3edb-2aa4-486a-9ca7-9c12b6bc6d21#ref=rss)
+### klette
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### gesprochen
+* [https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an](https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an-a-8c5af52c-d744-4297-9934-186b5531f477#ref=rss)
+### werfen
 
-* [https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/paris-prediger-tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-a-230224e4-732d-41e9-972e-9eb66298c687#ref=rss)
-### fabian
+* [https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an](https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an-a-8c5af52c-d744-4297-9934-186b5531f477#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor](https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor-a-16c32cac-a75c-44f0-b17d-0f1a74ea94ca#ref=rss)
+### mehreren
 
-* [https://www.spiegel.de/panorama/justiz/fabian-aus-guestrow-in-mecklenburg-vorpommern-was-die-ermittler-gina-vorwerfen](https://www.spiegel.de/panorama/justiz/fabian-aus-guestrow-in-mecklenburg-vorpommern-was-die-ermittler-gina-vorwerfen-a-4d332d16-725c-457e-89e9-f7379d9f4d1c#ref=rss)
-### güstrow
+* [https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an](https://www.spiegel.de/panorama/justiz/generalbundesanwalt-klagt-mutmassliche-ex-terroristin-klette-an-a-8c5af52c-d744-4297-9934-186b5531f477#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### spiderman
 
-* [https://www.spiegel.de/panorama/justiz/fabian-aus-guestrow-in-mecklenburg-vorpommern-was-die-ermittler-gina-vorwerfen](https://www.spiegel.de/panorama/justiz/fabian-aus-guestrow-in-mecklenburg-vorpommern-was-die-ermittler-gina-vorwerfen-a-4d332d16-725c-457e-89e9-f7379d9f4d1c#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+### brand
 
-* [https://www.spiegel.de/panorama/fussball-wm-verglichen-mit-den-usa-war-katar-ein-friedlicher-gastgeber-kolumne](https://www.spiegel.de/panorama/fussball-wm-verglichen-mit-den-usa-war-katar-ein-friedlicher-gastgeber-kolumne-a-fa792059-cd99-4369-9c43-277b7acb0c15#ref=rss)
-### roman
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+### new
 
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### entzug
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+### day
 
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### christoph
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### peters
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst](https://www.spiegel.de/kultur/autobiografischer-roman-entzug-von-christoph-peters-die-luege-vom-saufen-fuer-die-kunst-a-038d3a9f-19be-4086-9540-f051762aa7f9#ref=rss)
-### burg
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/weissensee-in-thueringen-burg-aus-dem-12-jahrhundert-bei-brand-beschaedigt](https://www.spiegel.de/panorama/weissensee-in-thueringen-burg-aus-dem-12-jahrhundert-bei-brand-beschaedigt-a-5b268717-0098-47b2-b1de-bd6e24651ae2#ref=rss)
-### thüringen
+* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-das-ist-die-meistgesehene-spinne-aller-zeiten-a-43514389-ae3b-4947-b92b-1631175acc74#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/weissensee-in-thueringen-burg-aus-dem-12-jahrhundert-bei-brand-beschaedigt](https://www.spiegel.de/panorama/weissensee-in-thueringen-burg-aus-dem-12-jahrhundert-bei-brand-beschaedigt-a-5b268717-0098-47b2-b1de-bd6e24651ae2#ref=rss)
+* [https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt](https://www.spiegel.de/panorama/sexualstrafrecht-kritik-an-neuen-gesetzentwuerfen-zu-digitaler-gewalt-a-36facaee-9034-4fa9-a856-276f60825dd0#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/gestrandeter-buckelwal-vor-timmendorfer-strand-der-wal-zeigt-sich-agil-und-kooperativ](https://www.spiegel.de/panorama/gestrandeter-buckelwal-vor-timmendorfer-strand-der-wal-zeigt-sich-agil-und-kooperativ-a-e5037fb5-b3ee-4ef1-b33d-678371117ffc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren](https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren-a-cee05bb2-4965-462f-950b-f3d6e3789e29#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/gestrandeter-buckelwal-vor-timmendorfer-strand-der-wal-zeigt-sich-agil-und-kooperativ](https://www.spiegel.de/panorama/gestrandeter-buckelwal-vor-timmendorfer-strand-der-wal-zeigt-sich-agil-und-kooperativ-a-e5037fb5-b3ee-4ef1-b33d-678371117ffc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte](https://www.spiegel.de/panorama/hamburg-linienbus-prallt-gegen-strassenbaum-viele-verletzte-a-694b4adc-da53-4cc3-9b72-011799e8ef3a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch-a-60ba1f9a-6ea4-42ec-ba23-122a21ec5b6b#ref=rss)
+### köktürk
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch-a-60ba1f9a-6ea4-42ec-ba23-122a21ec5b6b#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-cansin-koektuerk-reagiert-mit-mittelfinger-auf-zuwanderer-spruch-a-60ba1f9a-6ea4-42ec-ba23-122a21ec5b6b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt](https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt-a-a520daaa-4e41-42b2-8147-35572756cbc2#ref=rss)
+### medizin
+
+* [https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein](https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein-a-fa3908a8-4d8e-4f71-aee5-32180871a1b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt](https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt-a-a520daaa-4e41-42b2-8147-35572756cbc2#ref=rss)
+### raucher
+
+* [https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein](https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein-a-fa3908a8-4d8e-4f71-aee5-32180871a1b4#ref=rss)
+### grund
+
+* [https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein](https://www.spiegel.de/gesundheit/medizin-kostenloses-lungenkrebs-screening-fuer-raucher-kein-grund-neidisch-zu-sein-a-fa3908a8-4d8e-4f71-aee5-32180871a1b4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor](https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-gruene-werfen-studierendenwerken-in-nrw-brandmauer-verstoss-vor-a-16c32cac-a75c-44f0-b17d-0f1a74ea94ca#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei](https://www.spiegel.de/ausland/donald-trump-us-praesident-erhaelt-amerika-zuerst-preis-von-eigener-partei-a-6f140b41-1d4a-440b-82d9-8557fb194390#ref=rss)
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### intendant
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium-a-9c966997-649a-4487-8874-b82a55643e12#ref=rss)
+### salzburger
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium-a-9c966997-649a-4487-8874-b82a55643e12#ref=rss)
+### festspiele
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium-a-9c966997-649a-4487-8874-b82a55643e12#ref=rss)
+### verteidigungsministerium
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-ehegattensplitting-intendant-der-salzburger-festspiele-beurlaubt-leak-im-verteidigungsministerium-a-9c966997-649a-4487-8874-b82a55643e12#ref=rss)
+### icebeamte
+
+* [https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown](https://www.spiegel.de/ausland/donald-trump-ice-beamte-ueberwachen-us-flughaefen-waehrend-shutdown-a-c3b34bbb-0735-4737-8536-7af9f9735f35#ref=rss)
+### findet
+
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/beamte-sachsen-scheitert-mit-vorstoss-zum-beamtenstatus-von-lehrkraeften](https://www.spiegel.de/panorama/bildung/beamte-sachsen-scheitert-mit-vorstoss-zum-beamtenstatus-von-lehrkraeften-a-bef3bc51-bc3e-4caa-a7a5-87a3578fc133#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation](https://www.spiegel.de/ausland/iran-donald-trump-findet-keinen-ausweg-aus-dem-krieg-setzt-er-auf-eskalation-a-2fbe08d8-cd93-461a-8212-c291381cb829#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte](https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte-a-a1329411-b640-4034-9f7d-87c35e904d04#ref=rss)
+### margaret
+
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+### börsenaufsicht
+
+* [https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf](https://www.spiegel.de/wirtschaft/usa-ruecktritt-von-margaret-ryan-als-chefermittlerin-der-boersenaufsicht-sec-wirft-fragen-auf-a-f5e2e7a0-4c42-4c06-ae70-f3e7fa09ee41#ref=rss)
+### mond
+
+* [https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren](https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren-a-cee05bb2-4965-462f-950b-f3d6e3789e29#ref=rss)
+### mars
+
+* [https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren](https://www.spiegel.de/wissenschaft/weltall/kolonien-auf-mond-und-mars-sex-im-all-duerfte-seltener-zu-schwangerschaften-fuehren-a-cee05bb2-4965-462f-950b-f3d6e3789e29#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben](https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index-a-021cbb03-a307-41d7-a0cb-538316e9954e#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/panorama/bildung/beamte-sachsen-scheitert-mit-vorstoss-zum-beamtenstatus-von-lehrkraeften](https://www.spiegel.de/panorama/bildung/beamte-sachsen-scheitert-mit-vorstoss-zum-beamtenstatus-von-lehrkraeften-a-bef3bc51-bc3e-4caa-a7a5-87a3578fc133#ref=rss)
+### mohamed
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+### elerian
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche](https://www.spiegel.de/wirtschaft/iran-krieg-folgen-der-geist-der-inflation-ist-aus-der-flasche-a-dfcdd9b4-f07f-4cc5-8cc0-060c29874407#ref=rss)
+### patientenvertreter
+
+* [https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt](https://www.spiegel.de/politik/deutschland/cannabislobby-kapert-bundestag-als-patientenvertreter-getarnt-a-a520daaa-4e41-42b2-8147-35572756cbc2#ref=rss)
+### vinícius
+
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### júnior
+
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### uefa
+
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### benfica
+
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### lissabon
+
+* [https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon](https://www.spiegel.de/sport/fussball/rassismus-eklat-um-vinicius-junior-uefa-bestraft-benfica-lissabon-a-ae8f5168-a1e1-43cf-8fbd-fe834ff88896#ref=rss)
+### supermarkt
+
+* [https://www.spiegel.de/panorama/justiz/lemgo-toedliche-messerstiche-in-supermarkt-angeklagter-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/lemgo-toedliche-messerstiche-in-supermarkt-angeklagter-muss-in-psychiatrie-a-a4fd096b-888a-469d-8225-7a24a582e3fa#ref=rss)
+### frau
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte](https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte-a-a1329411-b640-4034-9f7d-87c35e904d04#ref=rss)
+### zuckerberg
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte](https://www.spiegel.de/netzwelt/netzpolitik/instagram-und-youtube-wie-eine-junge-frau-mark-zuckerberg-besiegte-a-a1329411-b640-4034-9f7d-87c35e904d04#ref=rss)
+### preis
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-preis-fuer-oepnv-abo-steigt-ab-2027-nach-index-a-021cbb03-a307-41d7-a0cb-538316e9954e#ref=rss)
+### abnehmspritzen
+
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-stiftung-warentest-haelt-nur-zwei-wirkstoffe-fuer-geeignet-a-2e08cd2b-48d3-44ec-ac33-e33fac0a8189#ref=rss)
+### markwayne
+
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### mullin
+
+* [https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister](https://www.spiegel.de/ausland/markwayne-mullin-einst-kaempfte-er-in-kaefigen-jetzt-ist-er-donald-trumps-neuer-heimatschutzminister-a-087a9d55-a2f5-40b1-a768-4ef8578e4bb8#ref=rss)
+### bundeszentrale
+
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### politische
+
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### bildung
+
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### besoldung
+
+* [https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete](https://www.spiegel.de/politik/deutschland/bundeszentrale-fuer-politische-bildung-ueppige-besoldung-fuer-ex-abgeordnete-a-1352099a-50a1-47b6-9774-64ec46cdee89#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
+### andress
+
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur](https://www.spiegel.de/panorama/leute/ursula-andress-ermittler-kommen-offenbar-fehlenden-millionen-auf-die-spur-a-51e87ace-cf52-40ec-a7fa-8b462ae449dd#ref=rss)
 
