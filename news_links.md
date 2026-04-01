@@ -4,381 +4,387 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job](https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job-a-dd196bc1-8ae4-413d-bd6c-2cf89d850be6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland](https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland-a-02bc2c66-45cc-4139-baf8-7284e4320a0c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bildung-steuern-investitionen-was-spd-nahe-experten-jetzt-fuer-deutschland-fordern](https://www.spiegel.de/wirtschaft/bildung-steuern-investitionen-was-spd-nahe-experten-jetzt-fuer-deutschland-fordern-a-b9d20000-92f3-4da8-9d59-80b52aa61425#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist](https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis](https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis-a-5d79b821-50d3-4daa-a760-1eaa2073066c#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick](https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick-a-2a84f946-c2b6-4470-a0a1-fb73dd1a1cb5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer](https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer-a-a66fa36f-c576-4c10-8560-b31cbe21f381#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist](https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist](https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d#ref=rss)
-### todesstrafe
-
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-### syrer
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job](https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job-a-dd196bc1-8ae4-413d-bd6c-2cf89d850be6#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/panorama/heino-in-bad-belzig-hier-gibt-es-keine-nazis](https://www.spiegel.de/panorama/heino-in-bad-belzig-hier-gibt-es-keine-nazis-a-a6e8ab7c-63eb-4027-a453-38966c3a5873#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland](https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland-a-02bc2c66-45cc-4139-baf8-7284e4320a0c#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben](https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben-a-25484155-d789-400d-9cf8-b9215d04da6b#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung-a-388fce58-14cb-43ae-9fcd-483154e185bd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick](https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick-a-2a84f946-c2b6-4470-a0a1-fb73dd1a1cb5#ref=rss)
 ### hamburg
 
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-### bringt
+* [https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen](https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen-a-70611019-c3af-4442-81d3-9712b600ea17#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+### solingen
 
-* [https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben](https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben-a-25484155-d789-400d-9cf8-b9215d04da6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### teuer
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte](https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte-a-0c5445f2-591c-4403-a251-1bf2fb42e322#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr](https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr-a-02707e3b-1396-425a-ac2c-ebd2647581a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte](https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte-a-0c5445f2-591c-4403-a251-1bf2fb42e322#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-mann-soll-politiker-todesliste-gefuehrt-haben-anklage-erhoben](https://www.spiegel.de/panorama/justiz/duesseldorf-mann-soll-politiker-todesliste-gefuehrt-haben-anklage-erhoben-a-2773391b-546a-4012-8f68-5c6fbf035646#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-* [https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis](https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis-a-5d79b821-50d3-4daa-a760-1eaa2073066c#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### gut
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose-a-97b04057-22a5-49c2-bcc4-0cdded27779c#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### wal
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers-a-2ab38e24-983e-47bc-b364-cca0bbfc8323#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam-a-b7ceab3d-89fa-40b0-b7b2-fc3f85f8ef84#ref=rss)
+### großeinsatz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis](https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis-a-5d79b821-50d3-4daa-a760-1eaa2073066c#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### erste
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland](https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland-a-02bc2c66-45cc-4139-baf8-7284e4320a0c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist](https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d#ref=rss)
-### 80
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers-a-2ab38e24-983e-47bc-b364-cca0bbfc8323#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+### alle
 
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job](https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job-a-dd196bc1-8ae4-413d-bd6c-2cf89d850be6#ref=rss)
-### syriens
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch](https://www.spiegel.de/politik/ahmed-al-sharaa-80-prozent-der-syrer-sollen-zurueck-in-die-heimat-gehen-wie-utopisch-a-d5cc6980-47e4-4c37-bb39-40b895d2804d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-### kuba
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland](https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland-a-02bc2c66-45cc-4139-baf8-7284e4320a0c#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident](https://www.spiegel.de/ausland/donald-trump-erst-iran-dann-kuba-wohin-steuert-der-us-praesident-a-2bd4b62f-16a5-41f0-9ab4-fd8cb31bc800#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr](https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr-a-02707e3b-1396-425a-ac2c-ebd2647581a3#ref=rss)
-### coronaleugner
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv](https://www.spiegel.de/panorama/corona-leugner-sind-wieder-da-kundgebung-in-berlin-spiegel-tv-a-b7e2dffd-fcc9-4c75-871e-7e3177e82efe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte](https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte-a-0c5445f2-591c-4403-a251-1bf2fb42e322#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-### kommunalwahlen
-
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-### euflaggen
-
-* [https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein](https://www.spiegel.de/ausland/frankreich-buergermeister-holen-nach-kommunalwahlen-eu-flaggen-ein-a-7b57c0c1-47a7-4885-872e-2a1dbc41648e#ref=rss)
-### trinkpausen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung-a-388fce58-14cb-43ae-9fcd-483154e185bd#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-ard-und-zdf-nutzen-trinkpausen-waehrend-der-spiele-fuer-werbung-a-388fce58-14cb-43ae-9fcd-483154e185bd#ref=rss)
-### tier
-
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen](https://www.spiegel.de/wissenschaft/wolf-attacke-in-hamburg-das-tier-hat-viele-falsche-entscheidungen-getroffen-a-5358702d-ecbf-420c-bce7-c4e3fdb161f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-### bedrängnis
-
-* [https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben](https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben-a-25484155-d789-400d-9cf8-b9215d04da6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/panorama/justiz/spanien-marokko-tunnelsystem-fuer-mutmasslichen-drogenschmuggel-entdeckt](https://www.spiegel.de/panorama/justiz/spanien-marokko-tunnelsystem-fuer-mutmasslichen-drogenschmuggel-entdeckt-a-e1f6f22a-c5bb-4d8f-9398-5368dd36f15e#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr](https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr-a-02707e3b-1396-425a-ac2c-ebd2647581a3#ref=rss)
-### emissionshandel
-
-* [https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte](https://www.spiegel.de/wirtschaft/emissionshandel-wie-co2-entnahme-den-zertifikatehandel-veraendern-koennte-a-0c5445f2-591c-4403-a251-1bf2fb42e322#ref=rss)
-### bianca
-
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-### jankovskas
-
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-### fuckgirl
-
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-### behandelt
-
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-### unserer
-
-* [https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex](https://www.spiegel.de/kultur/literatur/bianca-jankovskas-roman-fuckgirl-werden-wir-nicht-gut-behandelt-gibt-es-keinen-sex-a-aa335936-fcdf-46fd-900d-5024b6fc3efd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-### könig
-
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-### charles
-
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland](https://www.spiegel.de/wissenschaft/technik/iran-krieg-mysterioeser-geheimsender-funkte-wohl-aus-deutschland-a-02bc2c66-45cc-4139-baf8-7284e4320a0c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen](https://www.spiegel.de/ausland/koenig-charles-iii-will-donald-trump-besuchen-a-99844d77-04f4-462d-9749-7aa5cf02650e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-### franziska
-
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-### brantner
-
-* [https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen](https://www.spiegel.de/politik/deutschland/israel-knesset-beschluss-zur-todesstrafe-franziska-brantner-fordert-sanktionen-a-a269ed86-5542-46f2-a69a-34c251952c2c#ref=rss)
-### spritpreise
-
-* [https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr](https://www.spiegel.de/mobilitaet/auto/spritpreise-vor-neuer-preisregel-benzin-ist-laut-adac-so-teuer-wie-nie-in-diesem-jahr-a-02707e3b-1396-425a-ac2c-ebd2647581a3#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick](https://www.spiegel.de/sport/fussball/fussball-wm-erlebt-italien-sein-naechstes-fussball-desaster-die-playoffs-im-ueberblick-a-2a84f946-c2b6-4470-a0a1-fb73dd1a1cb5#ref=rss)
-### heino
-
-* [https://www.spiegel.de/panorama/heino-in-bad-belzig-hier-gibt-es-keine-nazis](https://www.spiegel.de/panorama/heino-in-bad-belzig-hier-gibt-es-keine-nazis-a-a6e8ab7c-63eb-4027-a453-38966c3a5873#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist](https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d#ref=rss)
-### rückkehrer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg](https://www.spiegel.de/politik/deutschland/news-des-tages-rueckkehrer-nach-syrien-israel-und-die-todesstrafe-buckelwal-in-der-ostsee-und-wolf-in-hamburg-a-221409cb-495c-4345-8117-18959aa31661#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-### träger
-
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-### david
-
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-### mandrella
-
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach](https://www.spiegel.de/politik/deutschland/carsten-traeger-david-mandrella-rueckt-fuer-verstorbenen-spd-politiker-in-bundestag-nach-a-a155476d-7cba-4fd2-a4e7-c5ab72ba9d5e#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-### rheinmetall
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-* [https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis](https://www.spiegel.de/kultur/wolf-und-wal-sorgenkinder-aus-der-wildnis-a-5d79b821-50d3-4daa-a760-1eaa2073066c#ref=rss)
-### größte
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen](https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen](https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen-a-1984f016-c319-4048-a4ee-924d1aad2935#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen](https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen-a-1984f016-c319-4048-a4ee-924d1aad2935#ref=rss)
-### nachbarin
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen](https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen-a-1984f016-c319-4048-a4ee-924d1aad2935#ref=rss)
-### auffällige
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen](https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen-a-1984f016-c319-4048-a4ee-924d1aad2935#ref=rss)
-### beobachtungen
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen](https://www.spiegel.de/panorama/justiz/christina-block-vor-gericht-nachbarin-schildert-auffaellige-beobachtungen-a-1984f016-c319-4048-a4ee-924d1aad2935#ref=rss)
-### bibliothek
-
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-### bauen
-
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe](https://www.spiegel.de/kultur/donald-trump-laesst-eine-bibliothek-bauen-nichts-zu-lesen-aber-eine-goldene-rolltreppe-a-68531400-c2a7-4209-af22-54dc2087d532#ref=rss)
-* [https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job](https://www.spiegel.de/wirtschaft/syrien-fluechtlinge-knapp-jeder-zweite-hat-einen-job-a-dd196bc1-8ae4-413d-bd6c-2cf89d850be6#ref=rss)
-### spohr
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag-a-6dff8f80-3900-4592-a650-3b58c4167e78#ref=rss)
-### nico
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag-a-6dff8f80-3900-4592-a650-3b58c4167e78#ref=rss)
-### schlotterbeck
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag-a-6dff8f80-3900-4592-a650-3b58c4167e78#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag-a-6dff8f80-3900-4592-a650-3b58c4167e78#ref=rss)
-### kehl
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-spricht-ueber-sebastian-kehl-und-seinen-vertrag-a-6dff8f80-3900-4592-a650-3b58c4167e78#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer](https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer-a-a66fa36f-c576-4c10-8560-b31cbe21f381#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### butscha
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer](https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer-a-a66fa36f-c576-4c10-8560-b31cbe21f381#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer](https://www.spiegel.de/ausland/ukraine-krieg-vier-jahre-nach-den-massakern-butscha-erinnert-an-opfer-a-a66fa36f-c576-4c10-8560-b31cbe21f381#ref=rss)
-### spdnahe
-
-* [https://www.spiegel.de/wirtschaft/bildung-steuern-investitionen-was-spd-nahe-experten-jetzt-fuer-deutschland-fordern](https://www.spiegel.de/wirtschaft/bildung-steuern-investitionen-was-spd-nahe-experten-jetzt-fuer-deutschland-fordern-a-b9d20000-92f3-4da8-9d59-80b52aa61425#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### airpods
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### max
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
-### 2
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch](https://www.spiegel.de/netzwelt/gadgets/apple-airpods-max-2-im-test-hoeren-sie-das-auch-a-93dbeeb0-62b3-4da1-9afe-268d238a042e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-sich-80-prozent-ziel-fuer-rueckkehrer-nach-syrien-nicht-zu-eigen-machen-a-6b202887-a84e-457b-bf7e-e92548188109#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers-a-2ab38e24-983e-47bc-b364-cca0bbfc8323#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam-a-b7ceab3d-89fa-40b0-b7b2-fc3f85f8ef84#ref=rss)
+### syrer
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers-a-2ab38e24-983e-47bc-b364-cca0bbfc8323#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam-a-b7ceab3d-89fa-40b0-b7b2-fc3f85f8ef84#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### nato
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/italien-verpasst-dritte-fussball-wm-in-folge-ein-logischer-niedergang](https://www.spiegel.de/sport/fussball/italien-verpasst-dritte-fussball-wm-in-folge-ein-logischer-niedergang-a-53b91ade-f6cd-40e6-afb0-01cf86602a6a#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen](https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen-a-85150fc6-8bf4-49eb-8499-5593821afc06#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament](https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament-a-110836af-0865-4a22-b1d2-cc1700d005d8#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+### ausgerückt
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen](https://www.spiegel.de/panorama/solingen-zwei-maenner-durch-messerstiche-verletzt-taeter-festgenommen-a-94fae30f-d4f0-40ca-a79b-0076b34c1731#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### mondmission
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### entwicklungen
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### 17
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+### bundeskunsthalle
+
+* [https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche](https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche-a-e476a61b-1d89-4b00-a450-21240cc53140#ref=rss)
+### bonn
+
+* [https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche](https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche-a-e476a61b-1d89-4b00-a450-21240cc53140#ref=rss)
+### prostitution
+
+* [https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche](https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche-a-e476a61b-1d89-4b00-a450-21240cc53140#ref=rss)
+### sozialen
+
+* [https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche](https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche-a-e476a61b-1d89-4b00-a450-21240cc53140#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen](https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen-a-70611019-c3af-4442-81d3-9712b600ea17#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche](https://www.spiegel.de/kultur/bundeskunsthalle-in-bonn-sexarbeit-im-museum-erfuellt-prostitution-menschliche-beduerfnisse-oder-nur-maennliche-a-e476a61b-1d89-4b00-a450-21240cc53140#ref=rss)
+* [https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden](https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden-a-81cb6eb8-fe54-4acb-afd2-ca4cce376511#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen](https://www.spiegel.de/wissenschaft/hamburg-hat-der-wolf-wirklich-zugebissen-a-70611019-c3af-4442-81d3-9712b600ea17#ref=rss)
+### 17jähriger
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-soll-19-jaehrigen-ueberfallen-haben-verhaftung-in-hamburg-a-94cbca2d-bb0a-444b-a42d-0f254da0404c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-mann-soll-politiker-todesliste-gefuehrt-haben-anklage-erhoben](https://www.spiegel.de/panorama/justiz/duesseldorf-mann-soll-politiker-todesliste-gefuehrt-haben-anklage-erhoben-a-2773391b-546a-4012-8f68-5c6fbf035646#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz](https://www.spiegel.de/panorama/justiz/solingen-polizei-offenbar-wegen-messerangriff-im-grosseinsatz-a-42f55758-8624-4d44-9a04-752183a5ad61#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+### kanzlers
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-rhetorischen-schnitzer-des-kanzlers-a-2ab38e24-983e-47bc-b364-cca0bbfc8323#ref=rss)
+### kam
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam-a-b7ceab3d-89fa-40b0-b7b2-fc3f85f8ef84#ref=rss)
+### schreibt
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-syrer-wie-es-zur-80-prozent-verwirrung-kam-a-b7ceab3d-89fa-40b0-b7b2-fc3f85f8ef84#ref=rss)
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### größten
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen](https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen-a-f7957676-f564-4bd8-bb38-c0bc3b51e281#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken](https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken-a-cd57d740-bc41-46f9-997b-abe89dd6d375#ref=rss)
+### massiv
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen](https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen-a-1f0629c1-a06b-4b88-b77e-ea3ee4cf6319#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen](https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### todesstrafe
+
+* [https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken](https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken-a-cd57d740-bc41-46f9-997b-abe89dd6d375#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken](https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken-a-cd57d740-bc41-46f9-997b-abe89dd6d375#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken](https://www.spiegel.de/ausland/todesstrafe-in-israel-wie-menschen-in-jerusalem-auf-das-neue-gesetz-blicken-a-cd57d740-bc41-46f9-997b-abe89dd6d375#ref=rss)
+### hansjürgen
+
+* [https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen](https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen-a-f7957676-f564-4bd8-bb38-c0bc3b51e281#ref=rss)
+### kreische
+
+* [https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen](https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen-a-f7957676-f564-4bd8-bb38-c0bc3b51e281#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen](https://www.spiegel.de/sport/fussball/ddr-fussball-legende-hans-juergen-kreische-ist-tot-dresdner-stollen-a-f7957676-f564-4bd8-bb38-c0bc3b51e281#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### judith
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### hermann
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### einblick
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### literarische
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### werkstatt
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse](https://www.spiegel.de/kultur/judith-hermann-einblick-in-ihre-literarische-werkstatt-und-schreibprozesse-a-38d419e9-6cf5-4c0e-8c48-f7f042cbd264#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose-a-97b04057-22a5-49c2-bcc4-0cdded27779c#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### droht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### 50
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren](https://www.spiegel.de/politik/deutschland/news-des-tages-artemis-2-mission-trump-droht-der-nato-apple-gruendung-vor-50-jahren-a-9f536499-8792-4dd3-9d77-c27f56c1888b#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### cdufraktion
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt](https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt-a-0372eee6-3f86-4618-820e-7aa5f4f87467#ref=rss)
+### mutmaßlich
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt](https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt-a-0372eee6-3f86-4618-820e-7aa5f4f87467#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament](https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament-a-110836af-0865-4a22-b1d2-cc1700d005d8#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt](https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-fraktion-in-hannover-reagiert-auf-mutmasslichen-deepfake-mit-sexualisiertem-inhalt-a-0372eee6-3f86-4618-820e-7aa5f4f87467#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament](https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament-a-110836af-0865-4a22-b1d2-cc1700d005d8#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen](https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen-a-1f0629c1-a06b-4b88-b77e-ea3ee4cf6319#ref=rss)
+* [https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden](https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden-a-81cb6eb8-fe54-4acb-afd2-ca4cce376511#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen](https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen-a-1f0629c1-a06b-4b88-b77e-ea3ee4cf6319#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer](https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer-a-af209596-58ce-4554-8244-8f8eefdb37c6#ref=rss)
+### vorzeitig
+
+* [https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen](https://www.spiegel.de/wirtschaft/michael-rousseau-chef-von-air-canada-geht-nach-kritik-an-mangelnden-franzoesischkenntnissen-a-1f0629c1-a06b-4b88-b77e-ea3ee4cf6319#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig](https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig-a-d495c69e-4bbf-4ca3-a110-78992f04bd6e#ref=rss)
+### jens
+
+* [https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer](https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer-a-af209596-58ce-4554-8244-8f8eefdb37c6#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer](https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer-a-af209596-58ce-4554-8244-8f8eefdb37c6#ref=rss)
+### queer
+
+* [https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer](https://www.spiegel.de/panorama/leute/jens-spahn-ich-bin-schwul-nicht-queer-a-af209596-58ce-4554-8244-8f8eefdb37c6#ref=rss)
+### pete
+
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+* [https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden](https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden-a-81cb6eb8-fe54-4acb-afd2-ca4cce376511#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen](https://www.spiegel.de/wirtschaft/pete-hegseth-wie-us-politiker-in-der-boersengrauzone-mitverdienen-a-60074014-5abc-4ab7-8da8-c45a738516cc#ref=rss)
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### ron
+
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### straßburg
+
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### 18
+
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### punkte
+
+* [https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor](https://www.spiegel.de/start/jura-staatsexamen-ron-strassburg-erhaelt-18-punkte-von-erstkorrektor-a-21212eff-b883-4cae-8916-d330ca6a64b8#ref=rss)
+### italien
+
+* [https://www.spiegel.de/sport/fussball/italien-verpasst-dritte-fussball-wm-in-folge-ein-logischer-niedergang](https://www.spiegel.de/sport/fussball/italien-verpasst-dritte-fussball-wm-in-folge-ein-logischer-niedergang-a-53b91ade-f6cd-40e6-afb0-01cf86602a6a#ref=rss)
+### alpha
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### julia
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### ducournau
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### zerstörung
+
+* [https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung](https://www.spiegel.de/kultur/alpha-von-julia-ducournau-leben-lernen-in-einer-welt-der-zerstoerung-a-aecd9ab8-5608-4408-ba9c-c1130d58904b#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden](https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden-a-81cb6eb8-fe54-4acb-afd2-ca4cce376511#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig](https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig-a-d495c69e-4bbf-4ca3-a110-78992f04bd6e#ref=rss)
+### monaten
+
+* [https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden](https://www.spiegel.de/politik/verteidigungsminister-pistorius-hat-sich-fuer-neuen-marineinspekteur-entschieden-a-81cb6eb8-fe54-4acb-afd2-ca4cce376511#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### brandmauer
+
+* [https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen](https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen-a-85150fc6-8bf4-49eb-8499-5593821afc06#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen](https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen-a-85150fc6-8bf4-49eb-8499-5593821afc06#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen](https://www.spiegel.de/politik/brandmauer-zur-afd-parlament-der-scheinheiligen-a-85150fc6-8bf4-49eb-8499-5593821afc06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament](https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament-a-110836af-0865-4a22-b1d2-cc1700d005d8#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+### eumilitärübungen
+
+* [https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen](https://www.spiegel.de/politik/deutschland/nato-und-europaeische-union-gruene-und-fdp-fordern-eu-militaeruebungen-a-9d9ad796-eec1-4e13-a062-f7a917e2b78d#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose-a-97b04057-22a5-49c2-bcc4-0cdded27779c#ref=rss)
+### prognose
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-in-der-krise-forschungsinstitute-mit-duesterer-prognose-a-97b04057-22a5-49c2-bcc4-0cdded27779c#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### muslime
+
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### lamine
+
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### yamal
+
+* [https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet](https://www.spiegel.de/sport/fussball/rassismus-im-spanischen-fussball-sprechchoere-gegen-muslime-lamine-yamal-fluechtet-a-b1383b28-f580-481e-b393-dd5958ca55e4#ref=rss)
+### partie
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig](https://www.spiegel.de/sport/eishockey/eishockey-brutales-foul-beendet-partie-zwischen-erc-ingolstadt-und-red-bull-muenchen-vorzeitig-a-d495c69e-4bbf-4ca3-a110-78992f04bd6e#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### kukies
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### topjob
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### stanley
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley](https://www.spiegel.de/wirtschaft/unternehmen/joerg-kukies-ex-spd-finanzminister-erhaelt-topjob-bei-morgan-stanley-a-8dff8dde-06df-4f71-9ac5-e9ca9b1d632e#ref=rss)
+### veruntreute
+
+* [https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament](https://www.spiegel.de/ausland/griechenland-mutmasslich-veruntreute-eu-subventionen-erschuettern-parlament-a-110836af-0865-4a22-b1d2-cc1700d005d8#ref=rss)
 
