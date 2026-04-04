@@ -4,368 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
-
-* [https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran](https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran-a-f45d1fd5-ce0e-4f41-89b8-a4dbeb0e7ae9#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-* [https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf](https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf-a-6c46f0db-90f8-4d3b-820b-667860b82f6f#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-### uns
-
-* [https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein](https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein-a-c4136bc4-c945-49df-b334-677912c1e199#ref=rss)
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice](https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice-a-b475debf-965f-446f-8fa9-94c721145434#ref=rss)
 ### mehr
 
 * [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### unklar
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da](https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da-a-1a2d14a5-7c85-46ad-b6a4-a7e9d38c5aff#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-* [https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf](https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf-a-6c46f0db-90f8-4d3b-820b-667860b82f6f#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/iran-krieg-das-ist-zu-den-verlusten-der-us-kampfjets-bekannt](https://www.spiegel.de/ausland/iran-krieg-das-ist-zu-den-verlusten-der-us-kampfjets-bekannt-a-7cd26de2-3ee8-4019-89ed-35b18bc49894#ref=rss)
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/ausland/paris-dutzende-schulbetreuer-wegen-missbrauchsverdachts-suspendiert](https://www.spiegel.de/ausland/paris-dutzende-schulbetreuer-wegen-missbrauchsverdachts-suspendiert-a-4fe35ab8-3454-43c7-b092-9a0377c15046#ref=rss)
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte](https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte-a-1b7d5a7f-e06b-498b-83bb-6107610be7f3#ref=rss)
-### zeigen
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige-a-2d390351-6547-4bf1-8043-ad20700be643#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### ostern
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen](https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen-a-d8728f7a-b6f0-4229-b4e8-aede8945356d#ref=rss)
+### auto
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet](https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet-a-beee4c07-e35a-44fd-86f0-518086ed3a96#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto](https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto-a-632e8fe5-55cb-46f4-a708-d3ee4885b821#ref=rss)
+* [https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an](https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an-a-705e5222-c2cc-460d-8801-baf5db29b382#ref=rss)
+### dietrichbonhoefferklinik
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw](https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw-a-918a1bc3-6ad1-42bd-9280-2b3ac587e31d#ref=rss)
-### kokain
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw](https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw-a-918a1bc3-6ad1-42bd-9280-2b3ac587e31d#ref=rss)
-### gut
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-lars-klingbeil-fordert-pruefung-von-uebergewinnsteuer-auf-eu-ebene](https://www.spiegel.de/wirtschaft/hohe-spritpreise-lars-klingbeil-fordert-pruefung-von-uebergewinnsteuer-auf-eu-ebene-a-c1e459ca-7fbd-4799-993b-c8b90c28b3a0#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### 50
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw](https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw-a-918a1bc3-6ad1-42bd-9280-2b3ac587e31d#ref=rss)
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-### frei
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw](https://www.spiegel.de/panorama/justiz/frankreich-zoll-findet-eine-tonne-kokain-in-blumenerde-lkw-a-918a1bc3-6ad1-42bd-9280-2b3ac587e31d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+* [https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein](https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein-a-5a4f6b05-e619-40f9-a776-c766b829c8c3#ref=rss)
+* [https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter](https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter-a-1d4031bd-abfe-46aa-8833-08589d9151f6#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein](https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein-a-c4136bc4-c945-49df-b334-677912c1e199#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### all
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### bücher
 
-* [https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein](https://www.spiegel.de/panorama/fruehling-auf-dem-land-lasst-uns-hummeln-sein-a-c4136bc4-c945-49df-b334-677912c1e199#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### mia
-
-* [https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern](https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern-a-627a174c-723b-4da0-81d0-a5752374753a#ref=rss)
-### problem
-
-* [https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern](https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern-a-627a174c-723b-4da0-81d0-a5752374753a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### jüngsten
-
-* [https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern](https://www.spiegel.de/deinspiegel/mia-15-freestyle-profi-rueckwaertssalto-auf-raedern-a-627a174c-723b-4da0-81d0-a5752374753a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### timmy
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-### trauert
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-### wal
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-### tier
-
-* [https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns](https://www.spiegel.de/kultur/buckelwal-timmy-in-der-ostsee-alle-welt-trauert-um-einen-wal-aber-wer-trauert-eigentlich-um-uns-a-afdad535-46f6-47fd-9030-40cc5366760b#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
+* [https://www.spiegel.de/tests/kueche/italien-kochbuecher-es-muss-nicht-immer-pizza-und-pasta-sein-aber-es-kann](https://www.spiegel.de/tests/kueche/italien-kochbuecher-es-muss-nicht-immer-pizza-und-pasta-sein-aber-es-kann-a-8e1aa466-f461-4b3d-952b-66cd945363ee#ref=rss)
+* [https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers](https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers-a-43c4ddc0-4dc5-4874-ae3a-980a2f760ee7#ref=rss)
 ### astronauten
 
 * [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-### artemis2mission
-
-* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
 ### mond
 
 * [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### münchen
+### kanye
 
-* [https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da](https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da-a-1a2d14a5-7c85-46ad-b6a4-a7e9d38c5aff#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-### grund
+* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+### west
 
-* [https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da](https://www.spiegel.de/panorama/muenchen-eisbachwelle-ist-wieder-da-a-1a2d14a5-7c85-46ad-b6a4-a7e9d38c5aff#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-### dutzende
+* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+### ye
 
-* [https://www.spiegel.de/ausland/paris-dutzende-schulbetreuer-wegen-missbrauchsverdachts-suspendiert](https://www.spiegel.de/ausland/paris-dutzende-schulbetreuer-wegen-missbrauchsverdachts-suspendiert-a-4fe35ab8-3454-43c7-b092-9a0377c15046#ref=rss)
-### minister
+* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder](https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder-a-df5cc6d7-2cd2-49de-96fe-b9117346882a#ref=rss)
-### backhaus
+* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+* [https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein](https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein-a-5a4f6b05-e619-40f9-a776-c766b829c8c3#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-### laut
+* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft-a-3ec7f5db-4a89-4584-a6b4-ff8c2c083dd9#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer](https://www.spiegel.de/panorama/ostsee-wal-minister-backhaus-verurteilt-morddrohungen-gegen-helfer-a-0c3f4024-f22f-4348-93d6-78265bd2cbe8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-### batic
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige-a-2d390351-6547-4bf1-8043-ad20700be643#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-### leitmayr
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### kambodscha
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-### gehen
+* [https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal](https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal-a-2e4027b0-ad7c-4aa3-91c0-876f5992d959#ref=rss)
+### magawa
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-### beiden
+* [https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal](https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal-a-2e4027b0-ad7c-4aa3-91c0-876f5992d959#ref=rss)
+### denkmal
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-unvergaenglich-mit-batic-und-leitmayr-a-68a2ba90-65ce-4af4-b04e-03bd1fb0d282#ref=rss)
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-### trumps
+* [https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal](https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal-a-2e4027b0-ad7c-4aa3-91c0-876f5992d959#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran](https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran-a-f45d1fd5-ce0e-4f41-89b8-a4dbeb0e7ae9#ref=rss)
-### pam
+* [https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal](https://www.spiegel.de/panorama/kambodscha-landminen-spuerratte-magawa-bekommt-ein-denkmal-a-2e4027b0-ad7c-4aa3-91c0-876f5992d959#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft-a-3ec7f5db-4a89-4584-a6b4-ff8c2c083dd9#ref=rss)
+### alkohol
 
-* [https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran](https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran-a-f45d1fd5-ce0e-4f41-89b8-a4dbeb0e7ae9#ref=rss)
-### bondi
+* [https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht](https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht-a-288ff17b-19f5-4e1b-a5d9-6cb55922a0ee#ref=rss)
+### schwangerschaft
 
-* [https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran](https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran-a-f45d1fd5-ce0e-4f41-89b8-a4dbeb0e7ae9#ref=rss)
-### dran
+* [https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht](https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht-a-288ff17b-19f5-4e1b-a5d9-6cb55922a0ee#ref=rss)
+### amy
 
-* [https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran](https://www.spiegel.de/ausland/trumps-rausschmisse-wer-ist-nach-pam-bondi-und-kristi-noem-dran-a-f45d1fd5-ce0e-4f41-89b8-a4dbeb0e7ae9#ref=rss)
-### alpine
+* [https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht](https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht-a-288ff17b-19f5-4e1b-a5d9-6cb55922a0ee#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community](https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community-a-2e600eea-cd11-4c8e-a97f-42d592f33a56#ref=rss)
-### divorce
+* [https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht](https://www.spiegel.de/gesundheit/alkohol-in-der-schwangerschaft-wie-eine-betroffene-mit-der-krankheit-fasd-umgeht-a-288ff17b-19f5-4e1b-a5d9-6cb55922a0ee#ref=rss)
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+### wolf
 
-* [https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community](https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community-a-2e600eea-cd11-4c8e-a97f-42d592f33a56#ref=rss)
-### frauen
+* [https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto](https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto-a-632e8fe5-55cb-46f4-a708-d3ee4885b821#ref=rss)
+### davon
 
-* [https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community](https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community-a-2e600eea-cd11-4c8e-a97f-42d592f33a56#ref=rss)
+* [https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto](https://www.spiegel.de/panorama/bayerischer-wald-wolf-stirbt-nach-kollision-mit-auto-a-632e8fe5-55cb-46f4-a708-d3ee4885b821#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### ahlhorn
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+### größte
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### suchtklinik
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### suchtkranke
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter](https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter-a-1d4031bd-abfe-46aa-8833-08589d9151f6#ref=rss)
+### schließen
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch](https://www.spiegel.de/psychologie/suchtklinik-hier-finden-jugendliche-einen-weg-aus-ihrer-sucht-noch-a-f604dc0e-2700-4842-b8b0-20a66e0d7bb2#ref=rss)
+### teenager
+
+* [https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst](https://www.spiegel.de/psychologie/dietrich-bonhoeffer-klinik-in-ahlhorn-deutschlands-groesste-suchtklinik-fuer-jugendliche-schliesst-a-bc7bdd80-d3e1-4abd-95a8-2e3f6a6f9c13#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+### carfreitag
+
+* [https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an](https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an-a-705e5222-c2cc-460d-8801-baf5db29b382#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community](https://www.spiegel.de/sport/alpine-divorce-debatte-ueber-maenner-die-frauen-zuruecklassen-spaltet-bergsport-community-a-2e600eea-cd11-4c8e-a97f-42d592f33a56#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder](https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder-a-df5cc6d7-2cd2-49de-96fe-b9117346882a#ref=rss)
-### joachim
+* [https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an](https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an-a-705e5222-c2cc-460d-8801-baf5db29b382#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/sport/fussball/fussball-joachim-loew-fuer-ghana-der-ex-bundestrainer-weiss-von-nichts](https://www.spiegel.de/sport/fussball/fussball-joachim-loew-fuer-ghana-der-ex-bundestrainer-weiss-von-nichts-a-3098f8fe-235d-4d1c-a466-6419e87e00e6#ref=rss)
-### nichts
+* [https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an](https://www.spiegel.de/mobilitaet/carfreitag-am-nuerburgring-tausende-autofans-reisen-an-a-705e5222-c2cc-460d-8801-baf5db29b382#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-das-ist-zu-den-verlusten-der-us-kampfjets-bekannt](https://www.spiegel.de/ausland/iran-krieg-das-ist-zu-den-verlusten-der-us-kampfjets-bekannt-a-7cd26de2-3ee8-4019-89ed-35b18bc49894#ref=rss)
+### uffizien
 
-* [https://www.spiegel.de/sport/fussball/fussball-joachim-loew-fuer-ghana-der-ex-bundestrainer-weiss-von-nichts](https://www.spiegel.de/sport/fussball/fussball-joachim-loew-fuer-ghana-der-ex-bundestrainer-weiss-von-nichts-a-3098f8fe-235d-4d1c-a466-6419e87e00e6#ref=rss)
-* [https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher](https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher-a-b1621fcc-6158-4206-8be5-3587be6bc074#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu](https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu-a-c61e6472-a5e4-4427-97d3-ee05f679a860#ref=rss)
+### florenz
 
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-### abgeschossen
+* [https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu](https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu-a-c61e6472-a5e4-4427-97d3-ee05f679a860#ref=rss)
+### italiens
 
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-### suche
+* [https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu](https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu-a-c61e6472-a5e4-4427-97d3-ee05f679a860#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-lars-klingbeil-fordert-pruefung-von-uebergewinnsteuer-auf-eu-ebene](https://www.spiegel.de/wirtschaft/hohe-spritpreise-lars-klingbeil-fordert-pruefung-von-uebergewinnsteuer-auf-eu-ebene-a-c1e459ca-7fbd-4799-993b-c8b90c28b3a0#ref=rss)
+### türen
 
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-### besatzung
+* [https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu](https://www.spiegel.de/kultur/uffizien-in-florenz-das-beruehmteste-museum-italiens-wird-angegriffen-das-mauert-die-tueren-zu-a-c61e6472-a5e4-4427-97d3-ee05f679a860#ref=rss)
+### nba
 
-* [https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung](https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d#ref=rss)
-### philippinen
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+### cooper
 
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-### inszenieren
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+### flagg
 
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-### blutige
+* [https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten](https://www.spiegel.de/sport/basketball/nba-cooper-flagg-wird-juengster-spieler-mit-mehr-als-50-punkten-a-7c720b4c-79b2-4768-a213-4f399119098f#ref=rss)
+### fördert
 
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-### karfreitag
+* [https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen](https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen-a-d8728f7a-b6f0-4229-b4e8-aede8945356d#ref=rss)
+### mehrfamilienhäusern
 
-* [https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale](https://www.spiegel.de/panorama/philippinen-glaeubige-inszenieren-blutige-karfreitagsrituale-a-4cd22aee-ed52-4377-be71-4fed6d91a347#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-### endet
-
-* [https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen](https://www.spiegel.de/ausland/iran-verfuegt-offenbar-noch-immer-ueber-erhebliches-raketenarsenal-und-tausende-drohnen-a-c05816b7-48ee-4a73-be42-030b6b2d6fa6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-### lars
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-### eidinger
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-### geizige
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-### schaubühne
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin](https://www.spiegel.de/kultur/lars-eidinger-macht-sich-zum-hanswurst-der-geizige-in-berlin-a-1837a3ef-253b-4c9a-8929-6893217cc0ed#ref=rss)
-* [https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher](https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher-a-b1621fcc-6158-4206-8be5-3587be6bc074#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma](https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice](https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice-a-b475debf-965f-446f-8fa9-94c721145434#ref=rss)
-### politbüromitglied
-
-* [https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma](https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1#ref=rss)
-### ma
-
-* [https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma](https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1#ref=rss)
-### xingrui
-
-* [https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma](https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma](https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder](https://www.spiegel.de/ausland/griechenland-korruptionsfall-um-veruntreute-eu-gelder-a-df5cc6d7-2cd2-49de-96fe-b9117346882a#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-### verpasst
-
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-### gennaro
-
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-### gattuso
-
-* [https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer](https://www.spiegel.de/sport/fussball/italien-verpasst-erneut-fussball-wm-gennaro-gattuso-nicht-mehr-nationaltrainer-a-b1b20438-1bf0-4a25-a93c-19520f399697#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-### fahrt
-
-* [https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice](https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice-a-b475debf-965f-446f-8fa9-94c721145434#ref=rss)
-### arlo
-
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-### parks
-
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-### sunn
-
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-### o
-
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen](https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen-a-d8728f7a-b6f0-4229-b4e8-aede8945356d#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/arlo-parks-thundercat-philine-sonny-sunn-o-abgehoert-album-der-woche-a-1ccd515b-ae08-44c0-86da-6632a57c314c#ref=rss)
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-### ukraine
+* [https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen](https://www.spiegel.de/mobilitaet/e-autos-staat-foerdert-wallboxen-in-mehrfamilienhaeusern-das-muessen-sie-wissen-a-d8728f7a-b6f0-4229-b4e8-aede8945356d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft-a-3ec7f5db-4a89-4584-a6b4-ff8c2c083dd9#ref=rss)
+### republikaner
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+### journalist
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation](https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f#ref=rss)
-### satellitenbilder
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+### tom
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### erdwälle
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+### nichols
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### militärlager
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### israel
+* [https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols](https://www.spiegel.de/geschichte/usa-die-republikaner-haben-ein-nazi-problem-sagt-journalist-tom-nichols-a-a620669b-5032-49f1-a181-2c59ce09868a#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+### bischof
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten](https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991#ref=rss)
-### arizona
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf](https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf-a-6c46f0db-90f8-4d3b-820b-667860b82f6f#ref=rss)
-### 13jährige
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf](https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf-a-6c46f0db-90f8-4d3b-820b-667860b82f6f#ref=rss)
-### christina
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+* [https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein](https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein-a-5a4f6b05-e619-40f9-a776-c766b829c8c3#ref=rss)
+### johann
 
-* [https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf](https://www.spiegel.de/panorama/arizona-vermisste-13-jaehrige-taucht-nach-32-jahren-wieder-auf-a-6c46f0db-90f8-4d3b-820b-667860b82f6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### monaten
+* [https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten](https://www.spiegel.de/panorama/bischof-von-antwerpen-nur-zoelibataer-lebende-maenner-als-priester-zu-akzeptieren-koennen-wir-uns-nicht-mehr-leisten-a-393b812b-3815-4b72-917f-6742e5e23a97#ref=rss)
+* [https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips](https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips-a-22976424-c815-4c0d-afbd-5ab3888b494a#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher](https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher-a-b1621fcc-6158-4206-8be5-3587be6bc074#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte](https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte-a-1b7d5a7f-e06b-498b-83bb-6107610be7f3#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/berlin-grossbrand-in-neukoelln-17-verletzte](https://www.spiegel.de/panorama/berlin-grossbrand-in-neukoelln-17-verletzte-a-fd8977c5-6fcc-4192-884c-0995e3e8544d#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher](https://www.spiegel.de/panorama/waschbaer-plage-in-berlin-der-augenzeuge-nichts-hilft-gegen-die-viecher-a-b1621fcc-6158-4206-8be5-3587be6bc074#ref=rss)
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips](https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips-a-22976424-c815-4c0d-afbd-5ab3888b494a#ref=rss)
+### eu
 
-* [https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte](https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte-a-1b7d5a7f-e06b-498b-83bb-6107610be7f3#ref=rss)
-### katze
+* [https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips](https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips-a-22976424-c815-4c0d-afbd-5ab3888b494a#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte](https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte-a-1b7d5a7f-e06b-498b-83bb-6107610be7f3#ref=rss)
-### verschickte
+* [https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips](https://www.spiegel.de/politik/johann-wadephul-dringt-auf-ende-des-eu-einstimmigkeitsprinzips-a-22976424-c815-4c0d-afbd-5ab3888b494a#ref=rss)
+* [https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers](https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers-a-43c4ddc0-4dc5-4874-ae3a-980a2f760ee7#ref=rss)
+### usheimatschutzministeriums
 
-* [https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte](https://www.spiegel.de/panorama/justiz/oesterreich-mann-verurteilt-weil-er-katze-per-post-nach-deutschland-verschickte-a-1b7d5a7f-e06b-498b-83bb-6107610be7f3#ref=rss)
-### eier
+* [https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an](https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet](https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet-a-beee4c07-e35a-44fd-86f0-518086ed3a96#ref=rss)
-### engpass
+* [https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter](https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter-a-424018e2-b102-4e21-8416-db3e6db2c3fe#ref=rss)
+### verweist
 
-* [https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet](https://www.spiegel.de/wirtschaft/service/ostern-gibt-es-genuegend-eier-fuers-fest-engpass-befuerchtet-a-beee4c07-e35a-44fd-86f0-518086ed3a96#ref=rss)
-### laatzen
+* [https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter](https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter-a-424018e2-b102-4e21-8416-db3e6db2c3fe#ref=rss)
+### neutralität
 
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-### pflegeheim
+* [https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter](https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter-a-424018e2-b102-4e21-8416-db3e6db2c3fe#ref=rss)
+### newsletter
 
-* [https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus](https://www.spiegel.de/panorama/laatzen-das-pflegeheim-sollte-ihre-letzte-bleibe-sein-dann-warf-man-sie-ohne-vorwarnung-raus-a-370f7f39-594f-4355-97fd-6b70a712a590#ref=rss)
-### video
+* [https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter](https://www.spiegel.de/ausland/eu-verteidigung-ohne-oesterreich-wien-verweist-auf-neutralitaet-newsletter-a-424018e2-b102-4e21-8416-db3e6db2c3fe#ref=rss)
+* [https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter](https://www.spiegel.de/familie/familie-wer-kinder-hat-braucht-nette-nachbarn-newsletter-a-1d4031bd-abfe-46aa-8833-08589d9151f6#ref=rss)
+### gil
 
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin](https://www.spiegel.de/wissenschaft/weltall/artemis-2-mission-ich-bin-die-weltraum-klempnerin-a-416cbc60-b0d1-41df-a6b5-95a32e16ebc5#ref=rss)
-### staatsschutz
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### ofarim
 
-* [https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice](https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice-a-b475debf-965f-446f-8fa9-94c721145434#ref=rss)
-### ice
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### mariasibylla
 
-* [https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice](https://www.spiegel.de/panorama/justiz/siegburg-staatsschutz-ermittelt-nach-anschlagsdrohung-in-ice-a-b475debf-965f-446f-8fa9-94c721145434#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### lotter
+
+* [https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung](https://www.spiegel.de/kultur/donald-trump-gil-ofarim-maria-sibylla-lotter-ueber-die-macht-der-opfer-inszenierung-a-5bb643e6-13d2-419d-a47a-9c167357d0ee#ref=rss)
+### vergewaltigung
+
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-nach-mutmasslicher-vergewaltigung-in-jugendclub-jugendamt-unterstuetzte-anzeige-a-2d390351-6547-4bf1-8043-ad20700be643#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/panorama/leute/joe-laschet-mode-influencer-aergert-sich-ueber-jogginghosen-an-flughaefen](https://www.spiegel.de/panorama/leute/joe-laschet-mode-influencer-aergert-sich-ueber-jogginghosen-an-flughaefen-a-53d173fc-b579-41e9-8c89-cf615e4127f4#ref=rss)
+### ozeane
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### uno
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### schutz
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz](https://www.spiegel.de/wissenschaft/natur/uno-ein-zehntel-der-ozeane-steht-nun-unter-schutz-a-01942d17-ee91-42c3-9a10-4518411cd135#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2026-wird-luxus-event-die-15-000-dollar-mauer-zur-fussball-weltmeisterschaft-a-3ec7f5db-4a89-4584-a6b4-ff8c2c083dd9#ref=rss)
+### hannah
+
+* [https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein](https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein-a-5a4f6b05-e619-40f9-a776-c766b829c8c3#ref=rss)
+### montana
+
+* [https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein](https://www.spiegel.de/kultur/20-jahre-hannah-montana-wieder-maedchen-sein-a-5a4f6b05-e619-40f9-a776-c766b829c8c3#ref=rss)
+### giulia
+
+* [https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers](https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers-a-43c4ddc0-4dc5-4874-ae3a-980a2f760ee7#ref=rss)
+### enders
+
+* [https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers](https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers-a-43c4ddc0-4dc5-4874-ae3a-980a2f760ee7#ref=rss)
+### organisch
+
+* [https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers](https://www.spiegel.de/kultur/giulia-enders-neues-buch-organisch-die-idyllikerin-des-koerpers-a-43c4ddc0-4dc5-4874-ae3a-980a2f760ee7#ref=rss)
+### vapes
+
+* [https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-auch-vapes-koennen-lungenkrebs-verursachen-studie-aus-australien](https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-auch-vapes-koennen-lungenkrebs-verursachen-studie-aus-australien-a-c2f41cc1-e31f-405d-b5fd-d466503a5a5c#ref=rss)
 
