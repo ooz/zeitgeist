@@ -4,338 +4,348 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg](https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg-a-058a50f3-b082-4ffd-a595-c1c7d9e824a9#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden](https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden-a-d82a4e59-5bf0-412a-86c9-d1080385de9b#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg](https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg-a-058a50f3-b082-4ffd-a595-c1c7d9e824a9#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier](https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss)
-* [https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen](https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen-a-dca70417-a248-4ac5-9fc5-d03be292f738#ref=rss)
-* [https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt](https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt-a-cb472e5a-5d69-44e2-9c21-92c090a5326f#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city](https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city-a-4204ce8f-6620-4bd1-b9cc-6ae5039eda7e#ref=rss)
-* [https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt](https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt-a-cb472e5a-5d69-44e2-9c21-92c090a5326f#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus](https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus-a-fbc3cdfc-d5dd-42be-8312-ee9a2d39d0e0#ref=rss)
+* [https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt](https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt-a-96cc3d0f-78ca-4be9-b0b0-d7e3fe40cbf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam](https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam-a-c4ec506d-690c-44be-abfc-fcc9caa82b5d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden](https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden-a-d82a4e59-5bf0-412a-86c9-d1080385de9b#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam](https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam-a-c4ec506d-690c-44be-abfc-fcc9caa82b5d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg](https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg-a-058a50f3-b082-4ffd-a595-c1c7d9e824a9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier](https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ostermaersche-in-deutschland-fotos-unterschiedlicher-kundgebungen](https://www.spiegel.de/panorama/gesellschaft/ostermaersche-in-deutschland-fotos-unterschiedlicher-kundgebungen-a-ecb66fe8-a545-41ca-a5a5-3408c9a5eda8#ref=rss)
-* [https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften](https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften-a-36fd2ad8-432f-4c32-b833-b7cc99b26387#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier](https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss)
-* [https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr](https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr-a-e2f10523-ef52-453e-a652-2fab88813f73#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-* [https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr](https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr-a-e2f10523-ef52-453e-a652-2fab88813f73#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren](https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren-a-7540f9b1-831a-485f-8aa5-02f7c7995db9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch](https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch-a-84439b01-8318-49d6-844f-eb936bec9643#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-### erste
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### euro
-
-* [https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen](https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen-a-dca70417-a248-4ac5-9fc5-d03be292f738#ref=rss)
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen](https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen-a-dca70417-a248-4ac5-9fc5-d03be292f738#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen](https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### ostern
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-* [https://www.spiegel.de/panorama/wal-in-der-ostsee-timmy-lebt-noch-experten-sollen-nach-ostern-zustand-pruefen](https://www.spiegel.de/panorama/wal-in-der-ostsee-timmy-lebt-noch-experten-sollen-nach-ostern-zustand-pruefen-a-ecb629b3-b741-4109-b736-4916374477af#ref=rss)
-### nichte
-
-* [https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam](https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam-a-c4ec506d-690c-44be-abfc-fcc9caa82b5d#ref=rss)
-### großnichte
-
-* [https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam](https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam-a-c4ec506d-690c-44be-abfc-fcc9caa82b5d#ref=rss)
-### icegewahrsam
-
-* [https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam](https://www.spiegel.de/ausland/usa-und-iran-soleimanis-nichte-und-grossnichte-in-ice-gewahrsam-a-c4ec506d-690c-44be-abfc-fcc9caa82b5d#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier](https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ostermaersche-in-deutschland-fotos-unterschiedlicher-kundgebungen](https://www.spiegel.de/panorama/gesellschaft/ostermaersche-in-deutschland-fotos-unterschiedlicher-kundgebungen-a-ecb66fe8-a545-41ca-a5a5-3408c9a5eda8#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier](https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-### málaga
-
-* [https://www.spiegel.de/panorama/malaga-kampfbulle-toetet-ehemaligen-spanischen-stierkaempfer](https://www.spiegel.de/panorama/malaga-kampfbulle-toetet-ehemaligen-spanischen-stierkaempfer-a-edabed89-6015-4286-a8a0-e3b0d26944ae#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/malaga-kampfbulle-toetet-ehemaligen-spanischen-stierkaempfer](https://www.spiegel.de/panorama/malaga-kampfbulle-toetet-ehemaligen-spanischen-stierkaempfer-a-edabed89-6015-4286-a8a0-e3b0d26944ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city](https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city-a-4204ce8f-6620-4bd1-b9cc-6ae5039eda7e#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-lennart-karl-rettet-bayern-sieg-in-der-nachspielzeit-vfl-wolfsburg-geht-nach-fuehrung-in-leverkusen-unter-a-9b24b9da-d288-4b81-a3cc-53ca88299d7c#ref=rss)
-### hochrisikopatienten
-
-* [https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren](https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren-a-7540f9b1-831a-485f-8aa5-02f7c7995db9#ref=rss)
-### früherkennung
-
-* [https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren](https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren-a-7540f9b1-831a-485f-8aa5-02f7c7995db9#ref=rss)
-### oxford
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-### boat
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-### race
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-### london
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-* [https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr](https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr-a-e2f10523-ef52-453e-a652-2fab88813f73#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race](https://www.spiegel.de/sport/rudern-lilli-freischem-siegt-mit-oxford-im-legendaeren-boat-race-a-724594bc-f9d8-490a-83ed-888d2848f2aa#ref=rss)
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### astronauten
-
-* [https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise](https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise-a-fa649cea-28d1-40f0-b79c-aec5dfedbc96#ref=rss)
-### spektakuläre
-
-* [https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise](https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise-a-fa649cea-28d1-40f0-b79c-aec5dfedbc96#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise](https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise-a-fa649cea-28d1-40f0-b79c-aec5dfedbc96#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise](https://www.spiegel.de/wissenschaft/artemis-2-astronauten-liefern-spektakulaere-bilder-von-der-mondreise-a-fa649cea-28d1-40f0-b79c-aec5dfedbc96#ref=rss)
-* [https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt](https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt-a-1cc59a62-44cd-45be-b116-55fa5d1dd549#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-* [https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen](https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen-a-dca70417-a248-4ac5-9fc5-d03be292f738#ref=rss)
-### temperaturen
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-### manchen
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht](https://www.spiegel.de/panorama/wetter-deutscher-wetterdienst-stellt-sommerliche-temperaturen-in-aussicht-a-b1dc8a45-cbd5-407e-a629-5566fe10b28f#ref=rss)
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus](https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus-a-84f7d724-cfe8-4a68-8f0f-ae6124576975#ref=rss)
-### egisto
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-### ott
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland](https://www.spiegel.de/ausland/egisto-ott-prozess-gegen-oesterreichs-mutmasslichen-spion-fuer-russland-a-781f2ed8-7f2e-4b89-affa-6673c6fdc648#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### liter
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch](https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch-a-84439b01-8318-49d6-844f-eb936bec9643#ref=rss)
-* [https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen](https://www.spiegel.de/karriere/kuba-deutscher-auswanderer-trotzt-benzinkrise-und-stromausfaellen-a-dca70417-a248-4ac5-9fc5-d03be292f738#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch](https://www.spiegel.de/wirtschaft/service/spritpreise-dieselpreis-steigt-an-karfreitag-auf-neues-rekordhoch-a-84439b01-8318-49d6-844f-eb936bec9643#ref=rss)
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus](https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus-a-84f7d724-cfe8-4a68-8f0f-ae6124576975#ref=rss)
-### legen
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-### weiße
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-### braune
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-### eier
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier](https://www.spiegel.de/deinspiegel/ostern-warum-legen-huehner-weisse-und-braune-eier-a-c8d7ac33-4f12-4005-9b07-9e9ff1f902ae#ref=rss)
-* [https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften](https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften-a-36fd2ad8-432f-4c32-b833-b7cc99b26387#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus](https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus-a-84f7d724-cfe8-4a68-8f0f-ae6124576975#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus](https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus-a-84f7d724-cfe8-4a68-8f0f-ae6124576975#ref=rss)
-* [https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften](https://www.spiegel.de/netzwelt/frauenhass-im-internet-wie-manosphere-influencer-das-soziale-miteinander-vergiften-a-36fd2ad8-432f-4c32-b833-b7cc99b26387#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus](https://www.spiegel.de/panorama/gewalt-gegen-frauen-feminismus-sollte-ueberall-hinschauen-auch-in-migrantische-milieus-a-84f7d724-cfe8-4a68-8f0f-ae6124576975#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-* [https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt](https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt-a-1cc59a62-44cd-45be-b116-55fa5d1dd549#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### riccione
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### villa
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### mussolini
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### 12
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro](https://www.spiegel.de/panorama/italien-gemeinde-riccione-kauft-villa-mussolini-fuer-1-2-millionen-euro-a-7d589a65-ad7a-4090-b48c-ceab641e1e97#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city](https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city-a-4204ce8f-6620-4bd1-b9cc-6ae5039eda7e#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city](https://www.spiegel.de/sport/fussball/fa-cup-fc-liverpool-erlebt-demuetigung-bei-manchester-city-a-4204ce8f-6620-4bd1-b9cc-6ae5039eda7e#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr](https://www.spiegel.de/reise/muenchen-mit-kindern-deutschlands-spannendster-familien-trip-in-diesem-fruehjahr-a-e2f10523-ef52-453e-a652-2fab88813f73#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden](https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden-a-d82a4e59-5bf0-412a-86c9-d1080385de9b#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden](https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden-a-d82a4e59-5bf0-412a-86c9-d1080385de9b#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan](https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden](https://www.spiegel.de/ausland/jd-vance-als-us-praesident-so-koennte-die-demokratie-in-amerika-mithilfe-von-ki-enden-a-d82a4e59-5bf0-412a-86c9-d1080385de9b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert](https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert-a-0dbb0ba4-84c5-40cc-badd-117fbd25cb83#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner](https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner-a-868fa9ac-abb4-4328-9aaa-0f8700b5796f#ref=rss)
+### musik
+
+* [https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren](https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren-a-076866fb-b192-4792-a820-98e527e57455#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben](https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben-a-adb16b39-304e-412e-888f-a233b5bf59e3#ref=rss)
 ### männer
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen](https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4#ref=rss)
-### 45
+* [https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge](https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge-a-115db956-f28d-4ddf-994f-7bbe56e2d301#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner](https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner-a-868fa9ac-abb4-4328-9aaa-0f8700b5796f#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen](https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4#ref=rss)
-### drei
+* [https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge](https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge-a-115db956-f28d-4ddf-994f-7bbe56e2d301#ref=rss)
+* [https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt](https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt-a-96cc3d0f-78ca-4be9-b0b0-d7e3fe40cbf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen](https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### roberto
+* [https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge](https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge-a-115db956-f28d-4ddf-994f-7bbe56e2d301#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt-a-662eca10-9f5f-426b-98ab-b5935c8c88ff#ref=rss)
+### real
 
-* [https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt](https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt-a-1cc59a62-44cd-45be-b116-55fa5d1dd549#ref=rss)
-### mazzarella
+* [https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt](https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt-a-96cc3d0f-78ca-4be9-b0b0-d7e3fe40cbf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt](https://www.spiegel.de/panorama/italien-mutmasslicher-mafiaboss-in-luxusvilla-geschnappt-a-1cc59a62-44cd-45be-b116-55fa5d1dd549#ref=rss)
-### rostock
+* [https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt](https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt-a-96cc3d0f-78ca-4be9-b0b0-d7e3fe40cbf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt](https://www.spiegel.de/panorama/rostock-caterer-knackt-den-rekord-fuer-das-laengste-fischbroetchen-der-welt-a-cb472e5a-5d69-44e2-9c21-92c090a5326f#ref=rss)
-### melania
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+* [https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger](https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger-a-21fc611e-8a94-4fa2-8e73-65e4e1a71a30#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+### gesundheitssystem
 
-* [https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg](https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg-a-058a50f3-b082-4ffd-a595-c1c7d9e824a9#ref=rss)
-### fünf
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+* [https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol](https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol-a-e07e2822-5ce4-4074-aee0-d17c10c94fff#ref=rss)
+### statt
 
-* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-bei-drohnenangriff-in-frontstadt-nikopol](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-bei-drohnenangriff-in-frontstadt-nikopol-a-459914e7-1664-4160-8e21-411ee4cfbbbb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### wohnungsbau
+* [https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg](https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg-a-10e1559c-2216-4ef2-9f76-f09a156c649f#ref=rss)
+* [https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif](https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif-a-720dcedf-e2c3-4ae6-9a69-a7cdd5a9d943#ref=rss)
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-### lars
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs](https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs-a-a0f4d74e-c2fa-4a0c-b9e1-ee5960345dca#ref=rss)
+### experten
 
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-### bundesgesellschaft
+* [https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs](https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs-a-a0f4d74e-c2fa-4a0c-b9e1-ee5960345dca#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen](https://www.spiegel.de/politik/deutschland/wohnungsbau-lars-klingbeil-plant-bundesgesellschaft-fuer-bezahlbare-wohnungen-a-adc6e150-300c-47f8-a1ad-6768d866d229#ref=rss)
-### polizisten
+* [https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs](https://www.spiegel.de/panorama/hamburg-experten-plaedieren-fuer-freilassung-des-wolfs-a-a0f4d74e-c2fa-4a0c-b9e1-ee5960345dca#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### tasche
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+### hingerichtet
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### waffen
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner](https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner-a-868fa9ac-abb4-4328-9aaa-0f8700b5796f#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### sadiq
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+### 20
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### khan
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### franzosen
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters](https://www.spiegel.de/panorama/justiz/london-polizisten-vergessen-tasche-mit-waffen-vor-haus-des-buergermeisters-a-6176ec08-a688-478c-a7c7-4ce935f30951#ref=rss)
-### spice
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger](https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger-a-21fc611e-8a94-4fa2-8e73-65e4e1a71a30#ref=rss)
+### vollstreckt
 
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### girls
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner](https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner-a-868fa9ac-abb4-4328-9aaa-0f8700b5796f#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### mel
+* [https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet](https://www.spiegel.de/ausland/china-franzoesischer-staatsbuerger-wegen-drogenhandels-hingerichtet-a-9054c81a-9fcb-4e88-92e3-3b6644cd4834#ref=rss)
+* [https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger](https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger-a-21fc611e-8a94-4fa2-8e73-65e4e1a71a30#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### b
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung](https://www.spiegel.de/panorama/leute/spice-girls-comeback-waere-fuer-mel-b-eine-grosse-ueberraschung-a-e61984ee-035d-4726-aef3-f4fa718e7cfc#ref=rss)
-### kanye
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jeden
 
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### west
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+### zerstört
 
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
-### ye
+* [https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert](https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert-a-0dbb0ba4-84c5-40cc-badd-117fbd25cb83#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill](https://www.spiegel.de/kultur/musik/kanye-west-ye-spielt-ausverkaufte-comeback-konzerte-und-wird-unterstuetzt-von-lauryn-hill-a-edfdaa1d-6fd3-4cc8-a6f2-3c59b5c0a154#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert](https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert-a-0dbb0ba4-84c5-40cc-badd-117fbd25cb83#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### fa
+
+* [https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus](https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus-a-fbc3cdfc-d5dd-42be-8312-ee9a2d39d0e0#ref=rss)
+### cup
+
+* [https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus](https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus-a-fbc3cdfc-d5dd-42be-8312-ee9a2d39d0e0#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus](https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus-a-fbc3cdfc-d5dd-42be-8312-ee9a2d39d0e0#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus](https://www.spiegel.de/sport/fussball/fa-cup-zweitligist-southampton-wirft-fc-arsenal-raus-a-fbc3cdfc-d5dd-42be-8312-ee9a2d39d0e0#ref=rss)
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/sport/fussball/brasilien-oscar-beendet-fussballkarriere-nach-nahtoderfahrung](https://www.spiegel.de/sport/fussball/brasilien-oscar-beendet-fussballkarriere-nach-nahtoderfahrung-a-19ed7f18-d08b-424a-a675-420ac4f2dc4e#ref=rss)
+### oscar
+
+* [https://www.spiegel.de/sport/fussball/brasilien-oscar-beendet-fussballkarriere-nach-nahtoderfahrung](https://www.spiegel.de/sport/fussball/brasilien-oscar-beendet-fussballkarriere-nach-nahtoderfahrung-a-19ed7f18-d08b-424a-a675-420ac4f2dc4e#ref=rss)
+### listening
+
+* [https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren](https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren-a-076866fb-b192-4792-a820-98e527e57455#ref=rss)
+### hören
+
+* [https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren](https://www.spiegel.de/stil/listening-bars-einfach-mal-wieder-gemeinsam-musik-hoeren-a-076866fb-b192-4792-a820-98e527e57455#ref=rss)
+### ostermesse
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### rom
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### leo
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### urbi
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### et
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### orbi
+
+* [https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream](https://www.spiegel.de/panorama/ostermesse-in-rom-papst-leo-xiv-spendet-urbi-et-orbi-livestream-a-3325f52d-9d62-4b4c-9932-ee23fc61f466#ref=rss)
+### deutschlandticket
+
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr](https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr-a-4b56c1ba-c080-409a-a074-f28321af9151#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr](https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr-a-4b56c1ba-c080-409a-a074-f28321af9151#ref=rss)
+* [https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg](https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg-a-10e1559c-2216-4ef2-9f76-f09a156c649f#ref=rss)
+### entlasten
+
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr](https://www.spiegel.de/wirtschaft/soziales/spritpreise-evg-chef-fordert-rabatte-auf-deutschlandticket-und-fernverkehr-a-4b56c1ba-c080-409a-a074-f28321af9151#ref=rss)
+* [https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol](https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol-a-e07e2822-5ce4-4074-aee0-d17c10c94fff#ref=rss)
+### auslöser
+
+* [https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge](https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge-a-115db956-f28d-4ddf-994f-7bbe56e2d301#ref=rss)
+### tiktokchallenge
+
+* [https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge](https://www.spiegel.de/panorama/justiz/oettingen-bart-soll-ausloeser-fuer-pruegelei-gewesen-sein-angebliche-tiktok-challenge-a-115db956-f28d-4ddf-994f-7bbe56e2d301#ref=rss)
+### drohnenangriffe
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### hafen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### primorsk
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk](https://www.spiegel.de/ausland/russland-ukraine-krieg-drohnenangriffe-treffen-lukoil-anlage-und-hafen-primorsk-a-2125e03c-4e57-4892-9dba-1d99b3e99279#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet](https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet-a-61501b32-85e2-41a4-9797-672f3cd4a028#ref=rss)
+### videos
+
+* [https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet](https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet-a-61501b32-85e2-41a4-9797-672f3cd4a028#ref=rss)
+### internet
+
+* [https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet](https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet-a-61501b32-85e2-41a4-9797-672f3cd4a028#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet](https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet-a-61501b32-85e2-41a4-9797-672f3cd4a028#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt](https://www.spiegel.de/sport/robert-lewandowski-schultert-fc-barcelona-in-richtung-meisterschaft-real-madrid-patzt-a-96cc3d0f-78ca-4be9-b0b0-d7e3fe40cbf8#ref=rss)
+### saarbrücken
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt-a-662eca10-9f5f-426b-98ab-b5935c8c88ff#ref=rss)
+### 22jähriger
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/saarbruecken-22-jaehriger-durch-polizeischuesse-toedlich-verletzt-a-662eca10-9f5f-426b-98ab-b5935c8c88ff#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### miriam
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### wurster
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2c40f43-ae6b-488c-821e-3ad341a0dc07#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### championsleagueduell
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wie-der-sieg-in-freiburg-kraefte-fuer-das-champions-league-duell-mit-real-madrid-freisetzt-a-1f33896e-dd7c-4e66-a7ae-08d23de3cca9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben](https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben-a-adb16b39-304e-412e-888f-a233b5bf59e3#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben](https://www.spiegel.de/wissenschaft/studie-die-farbe-eines-konzertsaals-beeinflusst-wie-wir-die-musik-erleben-a-adb16b39-304e-412e-888f-a233b5bf59e3#ref=rss)
+* [https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg](https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg-a-10e1559c-2216-4ef2-9f76-f09a156c649f#ref=rss)
+### kriege
+
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+### nahen
+
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+### osten
+
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+### reformprogramme
+
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten](https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss)
+* [https://www.spiegel.de/panorama/buckelwal-in-der-ostsee-atmet-noch](https://www.spiegel.de/panorama/buckelwal-in-der-ostsee-atmet-noch-a-2b4908b5-9d1e-407c-b705-79313cf0370e#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/panorama/buckelwal-in-der-ostsee-atmet-noch](https://www.spiegel.de/panorama/buckelwal-in-der-ostsee-atmet-noch-a-2b4908b5-9d1e-407c-b705-79313cf0370e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol](https://www.spiegel.de/politik/reformen-im-gesundheitssystem-mehrheit-will-hoehere-steuern-auf-tabak-und-alkohol-a-e07e2822-5ce4-4074-aee0-d17c10c94fff#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner](https://www.spiegel.de/ausland/iran-vollstreckt-todesurteil-gegen-zwei-weitere-maenner-a-868fa9ac-abb4-4328-9aaa-0f8700b5796f#ref=rss)
+### pink
+
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+### pony
+
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+### club
+
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+### daydream
+
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag](https://www.spiegel.de/wissenschaft/artemis-2-mit-pink-pony-club-und-in-a-daydream-startet-die-crew-in-den-tag-a-e9cfd72f-cc3d-4825-8e5e-d0140007418b#ref=rss)
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg](https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg-a-10e1559c-2216-4ef2-9f76-f09a156c649f#ref=rss)
+### kloster
+
+* [https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg](https://www.spiegel.de/panorama/katholische-kirche-modehochschule-zieht-in-kloster-in-prenzlauer-berg-a-10e1559c-2216-4ef2-9f76-f09a156c649f#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger](https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger-a-21fc611e-8a94-4fa2-8e73-65e4e1a71a30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger](https://www.spiegel.de/ausland/gesundheit-in-deutschland-warum-zahlen-franzosen-weniger-und-leben-laenger-a-21fc611e-8a94-4fa2-8e73-65e4e1a71a30#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+### adipositas
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr](https://www.spiegel.de/wissenschaft/medizin/adipositas-bei-kindern-auch-leberverfettung-schon-im-kindesalter-ist-keine-seltenheit-mehr-a-25749415-3783-4b9d-b547-22887c75f8d6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-polizei-sucht-mit-hubschrauber-nach-schmuckdieb](https://www.spiegel.de/panorama/justiz/erfurt-polizei-sucht-mit-hubschrauber-nach-schmuckdieb-a-7a19817a-3c80-4ed0-8f7e-187915a326d2#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-polizei-sucht-mit-hubschrauber-nach-schmuckdieb](https://www.spiegel.de/panorama/justiz/erfurt-polizei-sucht-mit-hubschrauber-nach-schmuckdieb-a-7a19817a-3c80-4ed0-8f7e-187915a326d2#ref=rss)
+### amt
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif](https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif-a-720dcedf-e2c3-4ae6-9a69-a7cdd5a9d943#ref=rss)
+### goetheinstitut
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif](https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif-a-720dcedf-e2c3-4ae6-9a69-a7cdd5a9d943#ref=rss)
+### künstlerin
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif](https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif-a-720dcedf-e2c3-4ae6-9a69-a7cdd5a9d943#ref=rss)
+### fand
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif](https://www.spiegel.de/politik/auswaertiges-amt-ruegt-goethe-institut-wegen-zusammenarbeit-mit-kuenstlerin-basma-al-sharif-a-720dcedf-e2c3-4ae6-9a69-a7cdd5a9d943#ref=rss)
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss)
+### feiertag
+
+* [https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags](https://www.spiegel.de/deinspiegel/warum-ist-ostern-jedes-jahr-zu-einer-anderen-zeit-raetsel-des-alltags-a-eabc3288-470e-4f97-92f8-f64170f08dac#ref=rss)
 
