@@ -4,337 +4,299 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### waffenruhe
+### mario
 
-* [https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer](https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer-a-8310df0e-577a-4fcc-9482-9fa68f18eca7#ref=rss)
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten](https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten-a-05da1d8c-f391-483e-b3f5-db1c05788354#ref=rss)
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### adorf
 
-* [https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer](https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer-a-8310df0e-577a-4fcc-9482-9fa68f18eca7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen](https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen-a-017fbe53-8d46-4282-bc09-c8b8de1d0c40#ref=rss)
-* [https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt-a-ab12dbd5-ddb6-4864-9348-33c039494134#ref=rss)
-* [https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten](https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten-a-77834f73-08b8-49b3-9a00-456751704d57#ref=rss)
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol](https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol-a-0ebd07ae-4a61-48ef-9036-58936c9fd13e#ref=rss)
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech](https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech-a-092db46d-86f0-49c3-b6b5-0eb4c85b76d8#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten](https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten-a-05da1d8c-f391-483e-b3f5-db1c05788354#ref=rss)
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer](https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer-a-8310df0e-577a-4fcc-9482-9fa68f18eca7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+* [https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump](https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump-a-3be4816c-07ea-422b-ae13-c5e46709b460#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen](https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen-a-017fbe53-8d46-4282-bc09-c8b8de1d0c40#ref=rss)
-* [https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol](https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol-a-0ebd07ae-4a61-48ef-9036-58936c9fd13e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu](https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu-a-b6c7a9d7-69af-403f-8110-4f3c35965b15#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken](https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken-a-0bde3de3-6283-4880-80dc-0c43df70d011#ref=rss)
-* [https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol](https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol-a-0ebd07ae-4a61-48ef-9036-58936c9fd13e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech](https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech-a-092db46d-86f0-49c3-b6b5-0eb4c85b76d8#ref=rss)
-### spritpreise
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-### indien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen](https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen-a-72848ab5-1df2-46e8-8a98-a35aed5e4969#ref=rss)
-### rätsel
-
-* [https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich](https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich-a-e17fbe04-78b1-4b68-824b-bfc1428a5353#ref=rss)
-### satoshi
-
-* [https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich](https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich-a-e17fbe04-78b1-4b68-824b-bfc1428a5353#ref=rss)
-### nakamoto
-
-* [https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich](https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich-a-e17fbe04-78b1-4b68-824b-bfc1428a5353#ref=rss)
-### unternehmer
-
-* [https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich](https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich-a-e17fbe04-78b1-4b68-824b-bfc1428a5353#ref=rss)
-### spur
-
-* [https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich](https://www.spiegel.de/netzwelt/bitcoin-erfinder-raetsel-um-satoshi-nakamoto-unternehmer-adam-back-wehrt-sich-a-e17fbe04-78b1-4b68-824b-bfc1428a5353#ref=rss)
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer](https://www.spiegel.de/politik/irankrieg-donald-trump-erzwingt-waffenruhe-bleibt-aber-verlierer-a-8310df0e-577a-4fcc-9482-9fa68f18eca7#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes-a-b644cd3c-655d-48af-a47e-791b03831a94#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-### golfstaaten
-
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-### groß
-
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-es-ist-so-wie-die-golfstaaten-es-genau-nicht-haben-wollten-a-e27958b3-f988-4ddd-b7f0-cbfba17bb373#ref=rss)
-* [https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor](https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor-a-112229a0-e9dd-4fba-9d98-985d87b4074c#ref=rss)
-### enthusiasten
-
-* [https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben](https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben-a-fa5e6d7b-18c5-45c9-9e47-b6b0c9e63145#ref=rss)
-### markus
-
-* [https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben](https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben-a-fa5e6d7b-18c5-45c9-9e47-b6b0c9e63145#ref=rss)
-### orths
-
-* [https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben](https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben-a-fa5e6d7b-18c5-45c9-9e47-b6b0c9e63145#ref=rss)
-### treiben
-
-* [https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben](https://www.spiegel.de/kultur/die-enthusiasten-von-markus-oerths-lohnt-es-sich-fuer-gute-literatur-eine-bank-auszurauben-a-fa5e6d7b-18c5-45c9-9e47-b6b0c9e63145#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### weltwirtschaft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-### schwung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-### massiv
-
-* [https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung](https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss)
-* [https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen](https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen-a-72848ab5-1df2-46e8-8a98-a35aed5e4969#ref=rss)
-### artemis
-
-* [https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus](https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus-a-cfefa159-521e-4ad1-b79f-56129d8e69e3#ref=rss)
-### rückseite
-
-* [https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus](https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus-a-cfefa159-521e-4ad1-b79f-56129d8e69e3#ref=rss)
-### mondes
-
-* [https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus](https://www.spiegel.de/wissenschaft/artemis-ii-so-sieht-es-auf-der-rueckseite-des-mondes-aus-a-cfefa159-521e-4ad1-b79f-56129d8e69e3#ref=rss)
-### junge
-
-* [https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen](https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen-a-017fbe53-8d46-4282-bc09-c8b8de1d0c40#ref=rss)
-* [https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt-a-ab12dbd5-ddb6-4864-9348-33c039494134#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen](https://www.spiegel.de/politik/deutschland/influencer-aus-tuebingen-dieser-junge-mann-will-kommunalpolitik-auf-instagram-cool-machen-a-017fbe53-8d46-4282-bc09-c8b8de1d0c40#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken](https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken-a-0bde3de3-6283-4880-80dc-0c43df70d011#ref=rss)
-### drehkreuze
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken](https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken-a-0bde3de3-6283-4880-80dc-0c43df70d011#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### tierischer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/kroatien-europas-erster-kommerzieller-robotaxi-betrieb-startet-in-zagreb](https://www.spiegel.de/mobilitaet/auto/kroatien-europas-erster-kommerzieller-robotaxi-betrieb-startet-in-zagreb-a-02891033-a01f-4f00-8124-1a9aee627975#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss)
-* [https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen](https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen-a-72848ab5-1df2-46e8-8a98-a35aed5e4969#ref=rss)
-### skigebiet
-
-* [https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol](https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol-a-0ebd07ae-4a61-48ef-9036-58936c9fd13e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol](https://www.spiegel.de/panorama/skigebiet-zillertal-arena-mann-aus-muenchen-stirbt-nach-schwerem-skiunfall-in-tirol-a-0ebd07ae-4a61-48ef-9036-58936c9fd13e#ref=rss)
-### hang
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-### rechtspopulismus
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt-a-ab12dbd5-ddb6-4864-9348-33c039494134#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-### journalistin
-
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-### eva
-
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-### maria
-
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-### michelmann
-
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen](https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen-a-7be87afc-5490-4239-8156-a33bcc23c72e#ref=rss)
+* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes-a-b644cd3c-655d-48af-a47e-791b03831a94#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu](https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu-a-b6c7a9d7-69af-403f-8110-4f3c35965b15#ref=rss)
-### fall
+* [https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen](https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen-a-7be87afc-5490-4239-8156-a33bcc23c72e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/statistik-der-wirtschaftsforscher-aus-halle-firmenpleiten-auf-hoechstem-stand-seit-mehr-als-zwei-jahrzehnten](https://www.spiegel.de/wirtschaft/statistik-der-wirtschaftsforscher-aus-halle-firmenpleiten-auf-hoechstem-stand-seit-mehr-als-zwei-jahrzehnten-a-8f1fac7c-4ea5-497e-a9a6-6576b34fcafb#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann](https://www.spiegel.de/panorama/syrien-weiter-keine-spur-von-verschwundener-deutscher-journalistin-eva-maria-michelmann-a-29f549d2-ba64-4098-9c96-2bdaa4b1c66a#ref=rss)
-* [https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor](https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor-a-112229a0-e9dd-4fba-9d98-985d87b4074c#ref=rss)
-### wesna
+* [https://www.spiegel.de/wirtschaft/statistik-der-wirtschaftsforscher-aus-halle-firmenpleiten-auf-hoechstem-stand-seit-mehr-als-zwei-jahrzehnten](https://www.spiegel.de/wirtschaft/statistik-der-wirtschaftsforscher-aus-halle-firmenpleiten-auf-hoechstem-stand-seit-mehr-als-zwei-jahrzehnten-a-8f1fac7c-4ea5-497e-a9a6-6576b34fcafb#ref=rss)
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt-a-ab12dbd5-ddb6-4864-9348-33c039494134#ref=rss)
-### jahre
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
+* [https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt](https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt-a-d53d2788-5eb4-4b02-bcb6-1a908c4ecd46#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/russland-prozess-gegen-wesna-russische-anti-kriegs-aktivisten-zu-langen-haftstrafen-verurteilt-a-ab12dbd5-ddb6-4864-9348-33c039494134#ref=rss)
-* [https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks](https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks-a-fbf4bd2f-77ca-41a4-a827-7dc720d48072#ref=rss)
-### steinzeit
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten](https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten-a-77834f73-08b8-49b3-9a00-456751704d57#ref=rss)
-### schädel
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+### russische
 
-* [https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten](https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten-a-77834f73-08b8-49b3-9a00-456751704d57#ref=rss)
-### zeigen
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+### uboote
 
-* [https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten](https://www.spiegel.de/wissenschaft/steinzeit-schaedel-mit-loechern-warum-steinzeit-aerzte-so-oft-in-koepfe-bohrten-a-77834f73-08b8-49b3-9a00-456751704d57#ref=rss)
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-### lernen
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+### healey
 
-* [https://www.spiegel.de/politik/lernen-von-algen-viren-und-pilzen-nicht-die-staerksten-ueberleben-sondern-die-nettesten](https://www.spiegel.de/politik/lernen-von-algen-viren-und-pilzen-nicht-die-staerksten-ueberleben-sondern-die-nettesten-a-14985967-d7ba-450a-bf96-3bdebe26c983#ref=rss)
-* [https://www.spiegel.de/kultur/jugend-debattiert-in-hamburg-48-jugendliche-diskutieren-und-in-der-jury-sitzt-ein-afd-politiker](https://www.spiegel.de/kultur/jugend-debattiert-in-hamburg-48-jugendliche-diskutieren-und-in-der-jury-sitzt-ein-afd-politiker-a-c21fcc46-3451-45ba-be13-9ea571299ffa#ref=rss)
-### benzin
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+### getrackt
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### diesel
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### sinken
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen-a-8a42623a-4ea4-40bd-a5e1-24b767b53e74#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-### nahost
+* [https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein](https://www.spiegel.de/ausland/grossbritannien-russische-u-boote-sollen-laut-john-healey-im-nordatlantik-getrackt-worden-sein-a-84cf7974-ce3b-4291-b972-ab307b179208#ref=rss)
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+### pergamonmuseum
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-### preise
+* [https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen](https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen-a-ba101beb-8f61-43f1-8e27-8d45c166f889#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### tankstellen
+* [https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen](https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen-a-ba101beb-8f61-43f1-8e27-8d45c166f889#ref=rss)
+* [https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt](https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt-a-d53d2788-5eb4-4b02-bcb6-1a908c4ecd46#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-sinken-die-spritpreise-wegen-der-feuerpause-in-nahost-a-beeb0f44-ff81-451a-9dfc-06fb680830fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg](https://www.spiegel.de/wirtschaft/preise-fuer-benzin-und-diesel-steigen-weiter-trotz-waffenruhe-im-iran-krieg-a-3335dfeb-be6d-46bf-b12b-c4617cf8bd5e#ref=rss)
-### helene
+* [https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen](https://www.spiegel.de/panorama/pergamonmuseum-berlin-pergamonsaal-soll-nach-sanierung-erneut-monatelang-schliessen-a-ba101beb-8f61-43f1-8e27-8d45c166f889#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+### straße
 
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-### fischer
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+### hormus
 
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-### schlagerstar
+* [https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten](https://www.spiegel.de/ausland/iran-news-am-9-april-trump-erwaegt-offenbar-truppen-abzug-als-bestrafung-fuer-nato-staaten-a-a7d1f3c7-10f4-4b72-818d-b51ddb789faf#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-### echte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht](https://www.spiegel.de/panorama/leute/helene-fischer-schlagerstar-mag-wenn-man-menschen-das-alter-ansieht-a-96c131e1-7209-4098-a60f-1292ad1303ff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-### forschende
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### testen
 
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-### unbekannte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen-a-8a42623a-4ea4-40bd-a5e1-24b767b53e74#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-### insel
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/lufthansa-streik-am-freitag-was-reisende-wissen-muessen](https://www.spiegel.de/reise/deutschland/lufthansa-streik-am-freitag-was-reisende-wissen-muessen-a-3a7f36c2-ab60-4261-a048-9ce9d219a215#ref=rss)
+### gilgobeachmorde
 
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-### weddellmeer
+* [https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen](https://www.spiegel.de/panorama/justiz/gilgo-beach-morde-us-architekt-gesteht-acht-morde-an-frauen-a-7be87afc-5490-4239-8156-a33bcc23c72e#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer](https://www.spiegel.de/wissenschaft/antarktis-deutsche-forschende-entdecken-unbekannte-insel-im-weddellmeer-a-db0df381-6e5f-45e1-9d0e-07f6557d52c2#ref=rss)
-### stieftochter
+* [https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen](https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen-a-b87ad81f-a74c-4142-889a-80d90f984396#ref=rss)
+### google
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu](https://www.spiegel.de/panorama/justiz/erfurt-46-jaehriger-gibt-hundertfachen-missbrauch-an-seiner-stieftochter-zu-a-b6c7a9d7-69af-403f-8110-4f3c35965b15#ref=rss)
-### sexualstrafrecht
+* [https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen](https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen-a-b87ad81f-a74c-4142-889a-80d90f984396#ref=rss)
+### maps
 
-* [https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor](https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor-a-112229a0-e9dd-4fba-9d98-985d87b4074c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen](https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen-a-b87ad81f-a74c-4142-889a-80d90f984396#ref=rss)
+### eierhaus
+
+* [https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen](https://www.spiegel.de/politik/deutschland/cdu-warum-auf-google-maps-parteibueros-ploetzlich-eierhaus-heissen-a-b87ad81f-a74c-4142-889a-80d90f984396#ref=rss)
+### mark
+
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+### hamill
+
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen](https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen-a-5310be62-2130-4e59-b9d6-c459d4e2ade1#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+### wars
+
+* [https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen](https://www.spiegel.de/kultur/mark-hamill-luke-skywalkers-sohn-konnte-mit-star-wars-nicht-anfangen-a-90b80305-3b62-46fb-ae91-c7826e99f6bf#ref=rss)
+### auswandern
+
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
+### junge
+
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor](https://www.spiegel.de/start/fall-collien-fernandes-warum-kommt-sexualstrafrecht-im-jurastudium-kaum-vor-a-112229a0-e9dd-4fba-9d98-985d87b4074c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### umwege
+* [https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter](https://www.spiegel.de/start/auswandern-warum-wollen-so-viele-junge-menschen-weg-aus-deutschland-newsletter-a-c2f08c16-09e8-434c-b199-745d41592450#ref=rss)
+* [https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt](https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt-a-d53d2788-5eb4-4b02-bcb6-1a908c4ecd46#ref=rss)
+### kosten
 
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### asien
+* [https://www.spiegel.de/ausland/kufiyas-in-buchenwald-der-holocaust-gehoert-nicht-in-diesen-konflikt-kommentar](https://www.spiegel.de/ausland/kufiyas-in-buchenwald-der-holocaust-gehoert-nicht-in-diesen-konflikt-kommentar-a-e7f5540b-8ac4-401b-b3ed-5c397dc8a673#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen](https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen-a-5310be62-2130-4e59-b9d6-c459d4e2ade1#ref=rss)
+### streumunition
 
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### fliegen
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen-a-8a42623a-4ea4-40bd-a5e1-24b767b53e74#ref=rss)
+### abkommen
 
-* [https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe](https://www.spiegel.de/wirtschaft/flugreisen-umwege-nach-asien-treiben-ticketpreise-in-die-hoehe-a-cd3e3bd0-12bf-49f6-beac-ca548afa3e21#ref=rss)
-### manuel
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-laesst-streumunition-testen-a-8a42623a-4ea4-40bd-a5e1-24b767b53e74#ref=rss)
+* [https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes](https://www.spiegel.de/ausland/waffenruhe-zwischen-usa-und-iran-kein-abkommen-ist-besser-als-ein-schlechtes-a-b644cd3c-655d-48af-a47e-791b03831a94#ref=rss)
+### snowboarder
 
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech](https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech-a-092db46d-86f0-49c3-b6b5-0eb4c85b76d8#ref=rss)
-### neuer
+* [https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt](https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt-a-d53d2788-5eb4-4b02-bcb6-1a908c4ecd46#ref=rss)
+### tödlich
 
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech](https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech-a-092db46d-86f0-49c3-b6b5-0eb4c85b76d8#ref=rss)
-### wm
+* [https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt](https://www.spiegel.de/panorama/lawine-in-oesterreich-snowboarder-aus-deutschland-toedlich-verunglueckt-a-d53d2788-5eb4-4b02-bcb6-1a908c4ecd46#ref=rss)
+* [https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt](https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt-a-8f571ab9-8c9f-4529-9969-3cb8a3e90fd4#ref=rss)
+### wann
 
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech](https://www.spiegel.de/sport/fussball/manuel-neuer-muss-der-torhueter-des-fc-bayern-muenchen-zur-wm-2026-ein-streitgespraech-a-092db46d-86f0-49c3-b6b5-0eb4c85b76d8#ref=rss)
-### kassel
+* [https://www.spiegel.de/reise/deutschland/lufthansa-streik-am-freitag-was-reisende-wissen-muessen](https://www.spiegel.de/reise/deutschland/lufthansa-streik-am-freitag-was-reisende-wissen-muessen-a-3a7f36c2-ab60-4261-a048-9ce9d219a215#ref=rss)
+### mercedesbenz
 
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-### kranz
+* [https://www.spiegel.de/wirtschaft/mercedes-benz-erleidet-starken-absatzeinbruch-in-china](https://www.spiegel.de/wirtschaft/mercedes-benz-erleidet-starken-absatzeinbruch-in-china-a-1fc2376c-5d0f-4c13-ad68-46508c2cd94d#ref=rss)
+### dennoch
 
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-### nsu
+* [https://www.spiegel.de/wirtschaft/mercedes-benz-erleidet-starken-absatzeinbruch-in-china](https://www.spiegel.de/wirtschaft/mercedes-benz-erleidet-starken-absatzeinbruch-in-china-a-1fc2376c-5d0f-4c13-ad68-46508c2cd94d#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten](https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten-a-05da1d8c-f391-483e-b3f5-db1c05788354#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-### halit
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+### george
 
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-### 20
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+### clooney
 
-* [https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat](https://www.spiegel.de/panorama/justiz/kassel-unbekannte-stehlen-kranz-fuer-den-vom-nsu-ermordeten-halit-yozgat-a-52cac5f1-a7c0-4c06-b00b-e53393099b35#ref=rss)
-* [https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks](https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks-a-fbf4bd2f-77ca-41a4-a827-7dc720d48072#ref=rss)
-### grenze
+* [https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus](https://www.spiegel.de/kultur/kino/donald-trump-droht-iran-mit-kriegsverbrechen-george-clooney-liefert-sich-schlagabtausch-mit-dem-weissen-haus-a-c5089f54-4580-4b7b-9a08-d72bb1ab2c56#ref=rss)
+### tot
 
-* [https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen](https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen-a-72848ab5-1df2-46e8-8a98-a35aed5e4969#ref=rss)
-### bangladesch
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+### bildern
 
-* [https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen](https://www.spiegel.de/ausland/indien-will-grenze-zu-bangladesch-von-krokodilen-und-schlangen-bewachen-lassen-a-72848ab5-1df2-46e8-8a98-a35aed5e4969#ref=rss)
-### javokhir
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+### geld
 
-* [https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks](https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks-a-fbf4bd2f-77ca-41a4-a827-7dc720d48072#ref=rss)
-### sindarov
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor](https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor-a-4b9f852f-d6eb-4f38-ab0f-be5fde76068b#ref=rss)
+### große
 
-* [https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks](https://www.spiegel.de/sport/schach/schach-grossmeister-javokhir-sindarov-veroeffentlichte-versehentlich-seine-eroeffnungstricks-a-fbf4bd2f-77ca-41a4-a827-7dc720d48072#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-sein-leben-in-bildern-a-b2f0608c-7516-43a5-a469-eb8a8a596fab#ref=rss)
+* [https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres](https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres-a-21e71203-22a9-4710-83e6-543faecb38d5#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres](https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres-a-21e71203-22a9-4710-83e6-543faecb38d5#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres](https://www.spiegel.de/kultur/world-press-photo-contest-2026-die-staerksten-pressefotos-des-jahres-a-21e71203-22a9-4710-83e6-543faecb38d5#ref=rss)
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+### kir
+
+* [https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten](https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten-a-05da1d8c-f391-483e-b3f5-db1c05788354#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### royal
+
+* [https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten](https://www.spiegel.de/kultur/zum-tod-von-mario-adorf-der-schuft-den-wir-liebten-a-05da1d8c-f391-483e-b3f5-db1c05788354#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen](https://www.spiegel.de/wirtschaft/service/waermepumpe-umstieg-gasversorger-darf-abklemmen-nicht-in-rechnung-stellen-a-5310be62-2130-4e59-b9d6-c459d4e2ade1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor](https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor-a-4b9f852f-d6eb-4f38-ab0f-be5fde76068b#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor](https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor-a-4b9f852f-d6eb-4f38-ab0f-be5fde76068b#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus](https://www.spiegel.de/panorama/mario-adorf-man-wird-nicht-weiser-man-wird-aelter-aus-a-00000000-0002-0001-0000-000163612077#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger](https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger-a-6cade19d-e460-4b46-a592-0c0b4e511f0f#ref=rss)
+### cent
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger](https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger-a-6cade19d-e460-4b46-a592-0c0b4e511f0f#ref=rss)
+### rückgang
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger](https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger-a-6cade19d-e460-4b46-a592-0c0b4e511f0f#ref=rss)
+### anstiegen
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger](https://www.spiegel.de/wirtschaft/spritpreise-sinken-minimal-benzin-3-cent-guenstiger-a-6cade19d-e460-4b46-a592-0c0b4e511f0f#ref=rss)
+### anna
+
+* [https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump](https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump-a-3be4816c-07ea-422b-ae13-c5e46709b460#ref=rss)
+### wintour
+
+* [https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump](https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump-a-3be4816c-07ea-422b-ae13-c5e46709b460#ref=rss)
+### melania
+
+* [https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump](https://www.spiegel.de/kultur/anna-wintour-inszenierung-auf-vogue-cover-und-annaeherung-an-melania-trump-a-3be4816c-07ea-422b-ae13-c5e46709b460#ref=rss)
+### ailton
+
+* [https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich](https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich-a-63a29829-5300-45e2-a718-3031c1de85b7#ref=rss)
+### victor
+
+* [https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich](https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich-a-63a29829-5300-45e2-a718-3031c1de85b7#ref=rss)
+### boniface
+
+* [https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich](https://www.spiegel.de/sport/fussball/ailton-ex-werder-star-kritisiert-victor-boniface-der-bauch-ist-unglaublich-a-63a29829-5300-45e2-a718-3031c1de85b7#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor](https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor-a-4b9f852f-d6eb-4f38-ab0f-be5fde76068b#ref=rss)
+### raffinerie
+
+* [https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor](https://www.spiegel.de/politik/deutschland/gelsenkirchen-katherina-reiche-prueft-uebernahme-von-raffinerie-durch-umstrittenen-investor-a-4b9f852f-d6eb-4f38-ab0f-be5fde76068b#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt](https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt-a-8f571ab9-8c9f-4529-9969-3cb8a3e90fd4#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt](https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt-a-8f571ab9-8c9f-4529-9969-3cb8a3e90fd4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### 95
+
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### alt
+
+* [https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)
+### bereiten
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### erde
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+### reservisten
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-vorsitzender-des-verteidigungsausschusses-fordert-pflichtwehruebungen-fuer-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-vorsitzender-des-verteidigungsausschusses-fordert-pflichtwehruebungen-fuer-reservisten-a-396de17a-156e-4fc2-bce0-f344a2e847e7#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab](https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab-a-24d14567-43fd-42fa-8ca9-9d7a3d171c7c#ref=rss)
+### 76jähriger
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab](https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab-a-24d14567-43fd-42fa-8ca9-9d7a3d171c7c#ref=rss)
+### einbrecher
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab](https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab-a-24d14567-43fd-42fa-8ca9-9d7a3d171c7c#ref=rss)
 
