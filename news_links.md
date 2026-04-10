@@ -4,339 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### irankrieg
 
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil-a-37a79ff4-2037-4d7e-9b79-ef8f32b101f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird](https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird-a-ab4e4b93-7bc9-4409-a2d1-cc7419c599b3#ref=rss)
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil-a-37a79ff4-2037-4d7e-9b79-ef8f32b101f1#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen](https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen-a-77997a4b-49bf-45c0-aabb-c5bfc50d88e7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/c-2025-r3-oder-panstarrs-komet-erscheint-am-morgenhimmel](https://www.spiegel.de/wissenschaft/weltall/c-2025-r3-oder-panstarrs-komet-erscheint-am-morgenhimmel-a-ab0ef789-2812-48dd-9972-49b9035fb9bc#ref=rss)
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-erreicht-hoechsten-stand-seit-anfang-2024](https://www.spiegel.de/wirtschaft/inflation-erreicht-hoechsten-stand-seit-anfang-2024-a-35ea4fc5-ecba-44d5-b0e4-ca7de6f71fe6#ref=rss)
-* [https://www.spiegel.de/netzwelt/bsi-fuerchtet-bedrohung-durch-intelligente-schwachstellen-suchmaschine](https://www.spiegel.de/netzwelt/bsi-fuerchtet-bedrohung-durch-intelligente-schwachstellen-suchmaschine-a-caf88722-386b-4a69-82db-e8484f468143#ref=rss)
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung-a-65f1271a-036b-43a4-bd83-e1cdf3cb0e07#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern](https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern-a-ff184749-9963-4191-af8e-1bfb392f1738#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-windkraft-und-solarenergie-abwuergen-doch-es-passiert-das-gegenteil-a-37a79ff4-2037-4d7e-9b79-ef8f32b101f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird](https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird-a-ab4e4b93-7bc9-4409-a2d1-cc7419c599b3#ref=rss)
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### gabbana
+* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld](https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld-a-3634e33e-4acf-408c-af74-8ab177365b0f#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld](https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld-a-3634e33e-4acf-408c-af74-8ab177365b0f#ref=rss)
+* [https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle](https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle-a-04433e07-cc74-485c-80fc-6b9dfbb859be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen](https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen-a-77997a4b-49bf-45c0-aabb-c5bfc50d88e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet](https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet-a-4d8a7654-afd4-4504-b3de-e06fc47ef379#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet](https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet-a-e5dd1ed3-45b0-44bc-a92f-e43a2fb1fba2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wissenschaft/weltall/c-2025-r3-oder-panstarrs-komet-erscheint-am-morgenhimmel](https://www.spiegel.de/wissenschaft/weltall/c-2025-r3-oder-panstarrs-komet-erscheint-am-morgenhimmel-a-ab0ef789-2812-48dd-9972-49b9035fb9bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen](https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen-a-b82dd05f-c69b-4eaa-932d-eb0ad5d371ea#ref=rss)
-### größten
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird](https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird-a-ab4e4b93-7bc9-4409-a2d1-cc7419c599b3#ref=rss)
-### legt
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico-a-476f20d0-0d54-41d7-be31-82fc3d7f43da#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt](https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt-a-be1632d8-c778-4206-a99e-cce8e5b8bf6c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen](https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen-a-b82dd05f-c69b-4eaa-932d-eb0ad5d371ea#ref=rss)
-### dolce
-
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico-a-476f20d0-0d54-41d7-be31-82fc3d7f43da#ref=rss)
-### chef
-
-* [https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana](https://www.spiegel.de/wirtschaft/dolce-gabbana-luxus-modemarke-jetzt-ohne-stefano-gabbana-a-849befe6-da2f-4f69-b6fa-98d42dcb9a59#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-### melania
-
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
+* [https://www.spiegel.de/kultur/malcolm-mittendrin-revival-nur-bryan-cranston-kann-diese-familie-noch-retten](https://www.spiegel.de/kultur/malcolm-mittendrin-revival-nur-bryan-cranston-kann-diese-familie-noch-retten-a-184789b3-d1a4-41e4-bf35-6b83d13baa3c#ref=rss)
+* [https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft](https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft-a-8b4ad13c-8f02-47bc-a2c0-ae87ed3be368#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert](https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert-a-d1ad78a5-3275-4c0f-ab39-e99845c99405#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
-### spekulationen
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
-### ausgerechnet
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen](https://www.spiegel.de/ausland/melania-trump-ueber-jeffrey-epstein-statement-entfacht-neue-spekulationen-a-3a576640-2b75-4726-bb9f-c095b2893fc8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird](https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird-a-ab4e4b93-7bc9-4409-a2d1-cc7419c599b3#ref=rss)
-### freida
-
-* [https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet](https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet-a-e5dd1ed3-45b0-44bc-a92f-e43a2fb1fba2#ref=rss)
-### mcfadden
-
-* [https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet](https://www.spiegel.de/kultur/literatur/freida-mcfadden-the-housemaid-autorin-enthuellt-ihre-wahre-identitaet-a-e5dd1ed3-45b0-44bc-a92f-e43a2fb1fba2#ref=rss)
-### max
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann-a-5b93e509-2678-485d-bf20-9b4eb9b25800#ref=rss)
-### giermann
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann-a-5b93e509-2678-485d-bf20-9b4eb9b25800#ref=rss)
-### kamera
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann-a-5b93e509-2678-485d-bf20-9b4eb9b25800#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-showtime-baer-behrendt-und-max-giermann-a-5b93e509-2678-485d-bf20-9b4eb9b25800#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt](https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt-a-be1632d8-c778-4206-a99e-cce8e5b8bf6c#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen](https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen-a-77997a4b-49bf-45c0-aabb-c5bfc50d88e7#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen](https://www.spiegel.de/ausland/russland-ukraine-attackiert-russische-oelanlagen-a-77997a4b-49bf-45c0-aabb-c5bfc50d88e7#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer](https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer-a-39922d21-82bf-4c72-977c-640a447e6c51#ref=rss)
-### hafen
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer](https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer-a-39922d21-82bf-4c72-977c-640a447e6c51#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer](https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer-a-39922d21-82bf-4c72-977c-640a447e6c51#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer](https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer-a-39922d21-82bf-4c72-977c-640a447e6c51#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen](https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen-a-b82dd05f-c69b-4eaa-932d-eb0ad5d371ea#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer](https://www.spiegel.de/panorama/justiz/hamburg-1-6-tonnen-kokain-im-hafen-abgefangen-versteckt-in-bananencontainer-a-39922d21-82bf-4c72-977c-640a447e6c51#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wie-die-cdu-ministerin-die-spd-im-tankstreit-nervt](https://www.spiegel.de/politik/deutschland/katherina-reiche-wie-die-cdu-ministerin-die-spd-im-tankstreit-nervt-a-5473a928-741a-483b-a196-763233fd1e42#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
-### energiepreise
-
-* [https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen](https://www.spiegel.de/ausland/iran-news-am-10-april-netanyahu-will-verhandlungen-und-den-libanon-weiter-angreifen-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-erreicht-hoechsten-stand-seit-anfang-2024](https://www.spiegel.de/wirtschaft/inflation-erreicht-hoechsten-stand-seit-anfang-2024-a-35ea4fc5-ecba-44d5-b0e4-ca7de6f71fe6#ref=rss)
-### denis
-
-* [https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich](https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich-a-2b04c067-5129-4a65-8be6-a8a7d4643b20#ref=rss)
-### scheck
-
-* [https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich](https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich-a-2b04c067-5129-4a65-8be6-a8a7d4643b20#ref=rss)
-### ard
-
-* [https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich](https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich-a-2b04c067-5129-4a65-8be6-a8a7d4643b20#ref=rss)
-### ildikó
-
-* [https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich](https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich-a-2b04c067-5129-4a65-8be6-a8a7d4643b20#ref=rss)
-### kürthy
-
-* [https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich](https://www.spiegel.de/kultur/literatur/denis-scheck-ard-verteidigt-ihn-gegen-vorwurf-der-frauenfeindlichkeit-von-ildiko-von-kuerthy-und-elke-heidenreich-a-2b04c067-5129-4a65-8be6-a8a7d4643b20#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
 ### artemis
 
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
 ### 2
 
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren](https://www.spiegel.de/wissenschaft/weltall/artemis-2-so-sollen-die-vier-astronauten-sicher-zur-erde-zurueckkehren-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet](https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet-a-4d8a7654-afd4-4504-b3de-e06fc47ef379#ref=rss)
-### lisa
-
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-### kudrow
-
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-### friendsstar
-
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit](https://www.spiegel.de/panorama/leute/lisa-kudrow-friends-star-musste-zehn-tage-nach-der-entbindung-wieder-zur-arbeit-a-25360561-72d6-41f8-aa03-5e0c412412d7#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping](https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping-a-a1e18360-b8be-46f6-a77c-3747a9fc9bf7#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping](https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping-a-a1e18360-b8be-46f6-a77c-3747a9fc9bf7#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping](https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping-a-a1e18360-b8be-46f6-a77c-3747a9fc9bf7#ref=rss)
-### jinping
-
-* [https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping](https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping-a-a1e18360-b8be-46f6-a77c-3747a9fc9bf7#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping](https://www.spiegel.de/ausland/taiwan-oppositionschefin-cheng-li-wun-trifft-xi-jinping-a-a1e18360-b8be-46f6-a77c-3747a9fc9bf7#ref=rss)
-### energiekrise
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken](https://www.spiegel.de/wirtschaft/energiekrise-deutschland-sollte-ueber-ein-tempolimit-auf-autobahnen-nachdenken-a-7741ecdd-208e-455c-a38f-dedacd5a56af#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird](https://www.spiegel.de/wissenschaft/donald-trump-wie-der-klimawandelleugner-zum-groessten-klimaschuetzer-aller-zeiten-wird-a-ab4e4b93-7bc9-4409-a2d1-cc7419c599b3#ref=rss)
-### sanae
-
-* [https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin](https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin-a-69eeb678-08fa-4da0-83ea-9d94b44fd7bf#ref=rss)
-### takaichi
-
-* [https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin](https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin-a-69eeb678-08fa-4da0-83ea-9d94b44fd7bf#ref=rss)
-### japans
-
-* [https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin](https://www.spiegel.de/kultur/musik/sanae-takaichi-deep-purple-zu-besuch-bei-japans-ministerpraesidentin-und-hobbydrummerin-a-69eeb678-08fa-4da0-83ea-9d94b44fd7bf#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab-a-28e00dac-6b81-47df-85b8-4366163e8717#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab-a-28e00dac-6b81-47df-85b8-4366163e8717#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab-a-28e00dac-6b81-47df-85b8-4366163e8717#ref=rss)
-### kahn
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-raet-von-wm-teilnahme-im-sommer-ab-a-28e00dac-6b81-47df-85b8-4366163e8717#ref=rss)
-### hanno
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-### berger
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/cum-ex-steuerbetrueger-hanno-berger-muss-im-gefaengnis-bleiben-a-64289765-a331-4792-9258-0c41c8fbd0d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen](https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen-a-b82dd05f-c69b-4eaa-932d-eb0ad5d371ea#ref=rss)
-### beschwerde
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico-a-476f20d0-0d54-41d7-be31-82fc3d7f43da#ref=rss)
-### atlético
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico-a-476f20d0-0d54-41d7-be31-82fc3d7f43da#ref=rss)
-### zudem
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-legt-beschwerde-bei-uefa-ein-nach-niederlage-gegen-atletico-a-476f20d0-0d54-41d7-be31-82fc3d7f43da#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet](https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet-a-4d8a7654-afd4-4504-b3de-e06fc47ef379#ref=rss)
-### pyrotechnik
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet](https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet-a-4d8a7654-afd4-4504-b3de-e06fc47ef379#ref=rss)
-### israelisches
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet](https://www.spiegel.de/panorama/justiz/muenchen-attacke-mit-pyrotechnik-auf-israelisches-lokal-antisemitismus-vermutet-a-4d8a7654-afd4-4504-b3de-e06fc47ef379#ref=rss)
-### justizsenatorin
-
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit](https://www.spiegel.de/politik/deutschland/schwarzfahren-bremens-justizsenatorin-claudia-schilling-ueber-die-folgen-der-straffreiheit-a-bdfd6cc9-fa61-4ecc-97df-26bb98af2373#ref=rss)
-### afrika
+* [https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt](https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt-a-858ce4c8-9b3a-4a8a-bb15-31e3dfea650f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+* [https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde](https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde-a-3292b56e-8c9d-490e-921f-7fc63a70d5bb#ref=rss)
+### papst
 
-* [https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben](https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben-a-3ca2d509-f6a4-407e-b3f2-387f97a4c98f#ref=rss)
-### bambaataa
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben](https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben-a-3ca2d509-f6a4-407e-b3f2-387f97a4c98f#ref=rss)
-### 68
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-wirft-american-express-kunden-aus-den-lounges](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-wirft-american-express-kunden-aus-den-lounges-a-a67855d4-0b9e-4b8c-b0fb-71f887970e3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben](https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben-a-3ca2d509-f6a4-407e-b3f2-387f97a4c98f#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert](https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert-a-d1ad78a5-3275-4c0f-ab39-e99845c99405#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### orbán
 
-* [https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben](https://www.spiegel.de/kultur/musik/afrika-bambaataa-hip-hop-pionier-planet-rock-mit-68-gestorben-a-3ca2d509-f6a4-407e-b3f2-387f97a4c98f#ref=rss)
-### rory
+* [https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert](https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert-a-d1ad78a5-3275-4c0f-ab39-e99845c99405#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt](https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt-a-be1632d8-c778-4206-a99e-cce8e5b8bf6c#ref=rss)
-### mcilroy
+* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld](https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld-a-3634e33e-4acf-408c-af74-8ab177365b0f#ref=rss)
+* [https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt](https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt-a-858ce4c8-9b3a-4a8a-bb15-31e3dfea650f#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+### ausstieg
 
-* [https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt](https://www.spiegel.de/sport/golf/golf-titelverteidiger-rory-mcilroy-fuehrt-beim-masters-nach-auftakt-a-be1632d8-c778-4206-a99e-cce8e5b8bf6c#ref=rss)
-### bosnienherzegowina
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### landung
+
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung-a-65f1271a-036b-43a4-bd83-e1cdf3cb0e07#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt](https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt-a-892fe895-bd0d-4b90-9285-b5cb4220a6c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### leo
+
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern](https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern-a-ff184749-9963-4191-af8e-1bfb392f1738#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+* [https://www.spiegel.de/deinspiegel/yo-yo-sport-zehnjaehriges-talent-ich-bin-deutscher-yo-yo-meister](https://www.spiegel.de/deinspiegel/yo-yo-sport-zehnjaehriges-talent-ich-bin-deutscher-yo-yo-meister-a-ae959880-0358-40be-8d14-ecadbd2eb541#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert](https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert-a-d1ad78a5-3275-4c0f-ab39-e99845c99405#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals](https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals-a-d4e9f8b2-892e-464c-9f38-5e258e66d585#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals](https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals-a-d4e9f8b2-892e-464c-9f38-5e258e66d585#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### einige
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals](https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-truppen-attackieren-russische-oelterminals-a-d4e9f8b2-892e-464c-9f38-5e258e66d585#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf](https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf-a-e9f10441-257e-4868-9cd4-b7e2ca6e75b9#ref=rss)
+### friedensrat
+
+* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld](https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld-a-3634e33e-4acf-408c-af74-8ab177365b0f#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld](https://www.spiegel.de/ausland/donald-trumps-friedensrat-fuer-gaza-fehlt-zugesagtes-geld-a-3634e33e-4acf-408c-af74-8ab177365b0f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+### malcolm
+
+* [https://www.spiegel.de/kultur/malcolm-mittendrin-revival-nur-bryan-cranston-kann-diese-familie-noch-retten](https://www.spiegel.de/kultur/malcolm-mittendrin-revival-nur-bryan-cranston-kann-diese-familie-noch-retten-a-184789b3-d1a4-41e4-bf35-6b83d13baa3c#ref=rss)
+### popow
+
+* [https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft](https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft-a-8b4ad13c-8f02-47bc-a2c0-ae87ed3be368#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft](https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft-a-8b4ad13c-8f02-47bc-a2c0-ae87ed3be368#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt](https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt-a-892fe895-bd0d-4b90-9285-b5cb4220a6c6#ref=rss)
+### fiel
+
+* [https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft](https://www.spiegel.de/ausland/russisches-militaergericht-verurteilt-ex-vizeverteidigungsminister-zu-19-jahren-haft-a-8b4ad13c-8f02-47bc-a2c0-ae87ed3be368#ref=rss)
+* [https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle](https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle-a-04433e07-cc74-485c-80fc-6b9dfbb859be#ref=rss)
+### la
+
+* [https://www.spiegel.de/panorama/la-gomera-kanaren-ein-toter-bei-busunglueck](https://www.spiegel.de/panorama/la-gomera-kanaren-ein-toter-bei-busunglueck-a-8666b010-fdfc-422d-8be3-8bc942b82615#ref=rss)
+### gomera
+
+* [https://www.spiegel.de/panorama/la-gomera-kanaren-ein-toter-bei-busunglueck](https://www.spiegel.de/panorama/la-gomera-kanaren-ein-toter-bei-busunglueck-a-8666b010-fdfc-422d-8be3-8bc942b82615#ref=rss)
+### fossilen
+
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+### energien
+
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien](https://www.spiegel.de/ausland/gipfel-fuer-den-ausstieg-aus-fossilen-energien-schafft-dieser-neue-staaten-club-den-ausstieg-aus-den-fossilen-energien-a-3a5c9752-f3fd-4ce1-8c33-feddecd7da3a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung-a-65f1271a-036b-43a4-bd83-e1cdf3cb0e07#ref=rss)
+### ruhe
+
+* [https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung](https://www.spiegel.de/politik/friedrich-merz-zaehlt-katherina-reiche-an-es-reicht-mit-dem-chaos-in-der-koalition-meinung-a-ab4b0eaf-4495-468d-8e78-b6bf9d9c4bab#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+### verhandlungen
+
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
 ### warnt
 
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### einfluss
+* [https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin](https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+### mondmission
 
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### besucht
+* [https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
+### elsass
 
-* [https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte](https://www.spiegel.de/ausland/bosnien-herzegowina-heeresinspekteur-warnt-vor-wachsendem-einfluss-externer-maechte-a-82ab17d4-edd1-4ecb-9131-5d4ccee52a75#ref=rss)
-### michael
+* [https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt](https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt-a-858ce4c8-9b3a-4a8a-bb15-31e3dfea650f#ref=rss)
+### lang
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### mittermeier
+* [https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt](https://www.spiegel.de/panorama/hagenbach-elsass-neunjaehriger-nackt-und-unterernaehrt-in-kleinbus-entdeckt-a-858ce4c8-9b3a-4a8a-bb15-31e3dfea650f#ref=rss)
+* [https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle](https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle-a-04433e07-cc74-485c-80fc-6b9dfbb859be#ref=rss)
+### berlinmitte
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### comedian
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt](https://www.spiegel.de/politik/deutschland/berlin-spd-draengt-eigene-spitzenkandidatin-fuer-berlin-mitte-zum-ruecktritt-a-892fe895-bd0d-4b90-9285-b5cb4220a6c6#ref=rss)
+### energiekrise
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### kollegen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-krieg-energiekrise-artemis-mondmission-vor-landung-a-65f1271a-036b-43a4-bd83-e1cdf3cb0e07#ref=rss)
+### avignondrohung
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### übt
+* [https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen](https://www.spiegel.de/kultur/donald-trump-und-die-avignon-drohung-will-er-jetzt-auch-noch-den-papst-entfuehren-lassen-a-832e173b-54be-468d-864c-3b23da9b6559#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### elektroautos
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### selbstkritik
+* [https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf](https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf-a-e9f10441-257e-4868-9cd4-b7e2ca6e75b9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch](https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch-a-396c4fa7-8618-4b39-a96d-db29f9b73387#ref=rss)
+### kommunen
 
-* [https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik](https://www.spiegel.de/panorama/leute/michael-mittermeier-comedian-schimpft-ueber-kollegen-die-tabus-beklagen-und-uebt-selbstkritik-a-31e1ef94-9a45-485e-9f69-834e6bd7dfff#ref=rss)
-### spanien
+* [https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf](https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf-a-e9f10441-257e-4868-9cd4-b7e2ca6e75b9#ref=rss)
+### quasimonopole
 
-* [https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst](https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst-a-2d78362d-29e0-49a5-8f74-948f596441a8#ref=rss)
-### mitglied
+* [https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf](https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf-a-e9f10441-257e-4868-9cd4-b7e2ca6e75b9#ref=rss)
+### stromtanken
 
-* [https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst](https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst-a-2d78362d-29e0-49a5-8f74-948f596441a8#ref=rss)
-### bande
+* [https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf](https://www.spiegel.de/wirtschaft/ladesaeulen-fuer-elektroautos-kommunen-brechen-quasimonopole-beim-stromtanken-auf-a-e9f10441-257e-4868-9cd4-b7e2ca6e75b9#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst](https://www.spiegel.de/panorama/justiz/spanien-fuehrendes-mitglied-beruechtigter-irischer-bande-auf-lanzarote-gefasst-a-2d78362d-29e0-49a5-8f74-948f596441a8#ref=rss)
-### strom
+* [https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern](https://www.spiegel.de/reise/urlaub-schreiben-sie-uns-wie-krieg-und-krisen-ihre-reiseplaene-veraendern-a-ff184749-9963-4191-af8e-1bfb392f1738#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen](https://www.spiegel.de/wirtschaft/service/strom-bundeszuschuss-senkt-kosten-weniger-als-versprochen-a-b82dd05f-c69b-4eaa-932d-eb0ad5d371ea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond](https://www.spiegel.de/wissenschaft/weltall/artemis-2-ich-hab-heimweh-nach-dem-mond-a-f2d674c6-35e7-4161-874e-b4c5660ccddd#ref=rss)
+* [https://www.spiegel.de/deinspiegel/yo-yo-sport-zehnjaehriges-talent-ich-bin-deutscher-yo-yo-meister](https://www.spiegel.de/deinspiegel/yo-yo-sport-zehnjaehriges-talent-ich-bin-deutscher-yo-yo-meister-a-ae959880-0358-40be-8d14-ecadbd2eb541#ref=rss)
+### historisches
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch](https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch-a-396c4fa7-8618-4b39-a96d-db29f9b73387#ref=rss)
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch](https://www.spiegel.de/mobilitaet/auto/elektroautos-vorteil-bei-den-antriebskosten-erreicht-historisches-hoch-a-396c4fa7-8618-4b39-a96d-db29f9b73387#ref=rss)
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann](https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann-a-f758dbfc-bee7-42ae-af01-9f14b986aa98#ref=rss)
+### ideen
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann](https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann-a-f758dbfc-bee7-42ae-af01-9f14b986aa98#ref=rss)
+### staat
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann](https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann-a-f758dbfc-bee7-42ae-af01-9f14b986aa98#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann](https://www.spiegel.de/wirtschaft/spritpreise-drei-ideen-wie-der-staat-entlasten-kann-a-f758dbfc-bee7-42ae-af01-9f14b986aa98#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### bocksteinhöhle
+
+* [https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle](https://www.spiegel.de/panorama/bocksteinhoehle-lonetal-achtjaehrige-stuerzt-beim-wandern-metertief-in-hoehle-a-04433e07-cc74-485c-80fc-6b9dfbb859be#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-wirft-american-express-kunden-aus-den-lounges](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-wirft-american-express-kunden-aus-den-lounges-a-a67855d4-0b9e-4b8c-b0fb-71f887970e3c#ref=rss)
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+### kerosinmangel
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen](https://www.spiegel.de/wirtschaft/iran-krieg-europaeische-flughaefen-warnen-vor-kerosinmangel-in-wenigen-wochen-a-7fe726d6-6cd3-409e-8211-4fc2ad4d8144#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### verlängert
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### vertrag
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### nico
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### schlotterbeck
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-verlaengert-vertrag-mit-nico-schlotterbeck-bis-2031-a-fc0428a2-474f-4800-a4b5-4b93960f5fb4#ref=rss)
+### ungarns
+
+* [https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert](https://www.spiegel.de/ausland/ungarn-wahl-so-wahrscheinlich-ist-es-dass-viktor-orban-seine-macht-verliert-a-d1ad78a5-3275-4c0f-ab39-e99845c99405#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### city
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+### tarifvertrag
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi](https://www.spiegel.de/wirtschaft/lufthansa-schliesst-fuer-neue-tochter-lufthansa-city-tarifvertrag-mit-verdi-a-cb82ea70-5067-46c5-aa7b-a8b189569242#ref=rss)
+### vatikan
+
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+### heißt
+
+* [https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung](https://www.spiegel.de/panorama/papst-leo-gegen-donald-trump-vatikan-dementiert-berichte-ueber-avignon-drohung-a-4df066b7-ef5c-4174-aa7a-f91a80d273e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan](https://www.spiegel.de/ausland/china-xi-jinping-umschmeichelt-opposition-von-taiwan-a-e4833074-8588-4daa-887f-107f56e0ef45#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte](https://www.spiegel.de/ausland/ungarn-viktor-orban-schuert-umsturzgeruechte-a-de99fdfd-702a-44f2-a6f6-57aaf0d814e1#ref=rss)
+### billy
+
+* [https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde](https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde-a-3292b56e-8c9d-490e-921f-7fc63a70d5bb#ref=rss)
+### magnussen
+
+* [https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde](https://www.spiegel.de/kultur/kino/billy-magnussen-will-nicht-nur-typen-spielen-die-man-am-liebsten-schlagen-wuerde-a-3292b56e-8c9d-490e-921f-7fc63a70d5bb#ref=rss)
+### geduld
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld](https://www.spiegel.de/politik/deutschland/katherina-reiche-nach-spritpreis-streit-angezaehlt-friedrich-merz-verliert-die-geduld-a-ddc1d0f2-429e-4f2f-8367-4f8e063edae7#ref=rss)
 
