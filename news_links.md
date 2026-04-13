@@ -6,382 +6,326 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote](https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote-a-cea4aa96-44c2-43ca-8c83-b0bcf4a3ba69#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago](https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago](https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
-### ungarn
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung](https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung-a-02d561cb-8102-423e-af26-f2783f7e74f4#ref=rss)
+* [https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment](https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment-a-4261a3fa-5a21-4408-be55-d06b389bcbfc#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-### allgemeine
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
-### keytruda
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-### frau
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
-### weist
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-### ich
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
-### francisco
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### péter
-
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
 ### magyar
 
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
-### santos
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### maralago
-
-* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
-### krebsmedikament
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-### gesundheitssystem
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-### medikament
-
-* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
-### lukas
-
-* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
-### rietzschel
-
-* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
-### frankfurter
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-### zeitung
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-### helene
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-### bubrowski
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-### politik
-
-* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-### engels
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
-### sam
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
-### haus
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-### verbände
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-### monate
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### mineralölsteuer
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### gesenkt
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### entlastung
-
-* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### liebmann
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### schwimmhoffnung
-
-* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
-### platz
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
-### handy
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
-### drängt
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
-### statt
-
-* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
-* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
-### vorbild
-
-* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### abgewählt
-
-* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### uta
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### dos
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
-### hanau
-
-* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
-### spritpreise
-
-* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### lauren
-
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-### bezos
-
-* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
-### mediziner
-
-* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt](https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt-a-e1cbb48d-74fb-41f7-a5de-4ae3c1033866#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-die-afd-ist-nicht-zu-stoppen-das-glaubt-nicht-mal-die-afd](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-die-afd-ist-nicht-zu-stoppen-das-glaubt-nicht-mal-die-afd-a-eca85d3d-df8a-40f5-9ca8-4a1b05300bcf#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung](https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung-a-02d561cb-8102-423e-af26-f2783f7e74f4#ref=rss)
+### sabrina
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln](https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln-a-dd1cbacb-2b8a-4058-a3fc-a01e3f867418#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln](https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln-a-dd1cbacb-2b8a-4058-a3fc-a01e3f867418#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote](https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote-a-cea4aa96-44c2-43ca-8c83-b0bcf4a3ba69#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote](https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote-a-cea4aa96-44c2-43ca-8c83-b0bcf4a3ba69#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote](https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote-a-cea4aa96-44c2-43ca-8c83-b0bcf4a3ba69#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### péter
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz](https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz-a-0eb32a7a-f064-4c69-a07b-e297d7e6cce5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt](https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt-a-2b21c0d7-9dc3-4afa-aca7-25c1172a85a4#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-pasing-junger-mann-tritt-gegen-s-bahn-und-wird-mitgeschleift](https://www.spiegel.de/panorama/muenchen-pasing-junger-mann-tritt-gegen-s-bahn-und-wird-mitgeschleift-a-2d241bf9-9b44-409e-9b37-c2a05d81b5a3#ref=rss)
+### lucassen
+
+* [https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt](https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt-a-e1cbb48d-74fb-41f7-a5de-4ae3c1033866#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
-### bielefeld
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an-a-cf78b95c-aa14-4d59-9ba2-afab873cb88e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen](https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen-a-f3d8450e-1a11-4e8a-ab50-0f608d6a6394#ref=rss)
+### tankrabatt
 
-* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
-### kühltruhe
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt](https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt-a-2b21c0d7-9dc3-4afa-aca7-25c1172a85a4#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
-### britney
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung](https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung-a-02d561cb-8102-423e-af26-f2783f7e74f4#ref=rss)
+### katherina
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
-### spears
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung](https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung-a-02d561cb-8102-423e-af26-f2783f7e74f4#ref=rss)
+### kill
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
-### entzugsklinik
+* [https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos](https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos-a-a3c66185-8315-43d7-bcf5-c203d8e250f8#ref=rss)
+### bill
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos](https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos-a-a3c66185-8315-43d7-bcf5-c203d8e250f8#ref=rss)
+### coachella
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+### justin
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+### kanadas
+
+* [https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau](https://www.spiegel.de/kultur/coachella-glitzer-kontroversen-und-dazwischen-flirten-katy-perry-und-justin-trudeau-a-d8bc4112-939e-40d5-9a81-ffa163c1bccf#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+### streik
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+### piloten
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
+### ende
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
+### offen
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat](https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat-a-91731d9b-f4dd-4235-9dd1-46d4a9df6e2f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr](https://www.spiegel.de/wirtschaft/lufthansa-streik-der-streik-trifft-die-lufthansa-aber-er-trifft-die-piloten-am-ende-noch-mehr-a-6d56fefd-dddb-4b32-9c4f-70417500d9dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer-a-ffa8cb3e-3cfb-400f-b023-57db0bde12c5#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+### usblockade
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote](https://www.spiegel.de/ausland/iran-krieg-trump-droht-irans-revolutionswaechtern-mit-angriff-auf-schnellboote-a-cea4aa96-44c2-43ca-8c83-b0bcf4a3ba69#ref=rss)
+### optionen
+
+* [https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran](https://www.spiegel.de/ausland/iran-krieg-warum-eine-erneute-eskalation-fuer-donald-trump-schlimmer-waere-als-fuer-teheran-a-9a79442e-3f72-44fc-a8fb-48e4ff7b7977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+### entlastungsprämie
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat](https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat-a-91731d9b-f4dd-4235-9dd1-46d4a9df6e2f#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat](https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat-a-91731d9b-f4dd-4235-9dd1-46d4a9df6e2f#ref=rss)
+* [https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment](https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment-a-4261a3fa-5a21-4408-be55-d06b389bcbfc#ref=rss)
+### vorbild
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat](https://www.spiegel.de/wirtschaft/entlastungspraemie-wer-anspruch-auf-1000-euro-hat-a-91731d9b-f4dd-4235-9dd1-46d4a9df6e2f#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+### flugbegleiter
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/lufthansa-flugbegleiter-der-lufthansa-kuendigen-streik-an-a-5b159248-1d2f-45d8-8685-22d7434598c4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### einst
+
+* [https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban](https://www.spiegel.de/ausland/ungarn-wer-ist-peter-magyar-der-neue-mann-nach-vikotor-orban-a-408af3a7-d084-436b-b55e-562c6ccf3315#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-die-afd-ist-nicht-zu-stoppen-das-glaubt-nicht-mal-die-afd](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-die-afd-ist-nicht-zu-stoppen-das-glaubt-nicht-mal-die-afd-a-eca85d3d-df8a-40f5-9ca8-4a1b05300bcf#ref=rss)
+### rüdiger
+
+* [https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt](https://www.spiegel.de/politik/afd-ruediger-lucassen-zum-rueckzug-gedraengt-a-e1cbb48d-74fb-41f7-a5de-4ae3c1033866#ref=rss)
+### kreml
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an-a-cf78b95c-aa14-4d59-9ba2-afab873cb88e#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-deutet-abgeschwaechtes-kriegsziel-an-a-cf78b95c-aa14-4d59-9ba2-afab873cb88e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord](https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord-a-c0c54f90-d0fc-4dfd-affb-53a271d910c1#ref=rss)
 ### jd
 
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
 ### vance
 
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### netz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-tankrabatt-jd-vance-in-ungarn-und-die-strasse-von-hormus-a-0bdae617-54f4-4bb2-8e55-7ed101b17a38#ref=rss)
+### realistisch
 
-* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
-### dax
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+### eubeitritt
 
-* [https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar](https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar-a-c9960f19-6357-40d3-8ea9-cfd684a76080#ref=rss)
-### minus
+* [https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump](https://www.spiegel.de/ausland/kanada-wie-realistisch-ist-ein-eu-beitritt-des-nachbarn-von-donald-trump-a-eb7d47bb-ea80-4e6f-9ed8-6103311c03ce#ref=rss)
+### olivia
 
-* [https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar](https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar-a-c9960f19-6357-40d3-8ea9-cfd684a76080#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung](https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung-a-17dc9a35-f7b5-4f15-8570-79714200c7e1#ref=rss)
+### munn
+
+* [https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung](https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung-a-17dc9a35-f7b5-4f15-8570-79714200c7e1#ref=rss)
+### worte
+
+* [https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung](https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung-a-17dc9a35-f7b5-4f15-8570-79714200c7e1#ref=rss)
+### offener
+
+* [https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung](https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung-a-17dc9a35-f7b5-4f15-8570-79714200c7e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung](https://www.spiegel.de/panorama/leute/olivia-munn-kate-middletons-worte-halfen-ihr-nach-krebsbehandlung-a-17dc9a35-f7b5-4f15-8570-79714200c7e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer-a-ffa8cb3e-3cfb-400f-b023-57db0bde12c5#ref=rss)
+### energiepreiskrise
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+### streit
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt](https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt-a-2b21c0d7-9dc3-4afa-aca7-25c1172a85a4#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-katherina-reiche-machtkampf-in-der-energiepreis-krise-a-44d6586a-6cb8-4a78-8db9-093eaaa26364#ref=rss)
+* [https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment](https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment-a-4261a3fa-5a21-4408-be55-d06b389bcbfc#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt-a-d45ea146-2146-421b-b1c0-9616c8d88449#ref=rss)
+### zementhersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt-a-d45ea146-2146-421b-b1c0-9616c8d88449#ref=rss)
+### lafarge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt-a-d45ea146-2146-421b-b1c0-9616c8d88449#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt-a-d45ea146-2146-421b-b1c0-9616c8d88449#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen](https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen-a-f3d8450e-1a11-4e8a-ab50-0f608d6a6394#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/zahlungen-an-islamisten-in-syrien-zementhersteller-lafarge-zu-millionenstrafe-verurteilt-a-d45ea146-2146-421b-b1c0-9616c8d88449#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+### rtl
+
+* [https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz](https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz-a-0eb32a7a-f064-4c69-a07b-e297d7e6cce5#ref=rss)
+### heidiserie
+
+* [https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz](https://www.spiegel.de/kultur/kino/rtl-plant-heidi-serie-auch-die-neue-heidi-kommt-aus-der-schweiz-a-0eb32a7a-f064-4c69-a07b-e297d7e6cce5#ref=rss)
+### wahlsieger
+
+* [https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen](https://www.spiegel.de/ausland/ungarn-nach-viktor-orban-wahlsieger-peter-magyar-will-system-der-gewaltenteilung-wiederherstellen-a-21d46b5f-2eb7-4431-8bb2-588c46ffd486#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt](https://www.spiegel.de/wirtschaft/service/energiekrise-und-spritpreise-was-bringt-der-neue-tankrabatt-a-2b21c0d7-9dc3-4afa-aca7-25c1172a85a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord](https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord-a-c0c54f90-d0fc-4dfd-affb-53a271d910c1#ref=rss)
+### lahav
+
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+### shapira
+
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+### tat
+
+* [https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten](https://www.spiegel.de/panorama/justiz/lahav-shapira-berlin-zweieinhalb-jahre-haft-nach-attacke-auf-juedischen-studenten-a-386c281a-04f6-47ce-aa6a-47a94d5208b7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos](https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos-a-a3c66185-8315-43d7-bcf5-c203d8e250f8#ref=rss)
+### kinos
+
+* [https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos](https://www.spiegel.de/kultur/kino/kill-bill-als-ein-film-kill-bill-the-whole-bloody-affair-kommt-in-die-kinos-a-a3c66185-8315-43d7-bcf5-c203d8e250f8#ref=rss)
+### jodeln
+
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln](https://www.spiegel.de/kultur/musik/sabrina-carpenter-entschuldigt-sich-fuer-fauxpas-bei-coachella-festival-jubeln-mit-jodeln-a-dd1cbacb-2b8a-4058-a3fc-a01e3f867418#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen](https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafen-wegen-korruption-bei-fischerei-scheinen-a-f3d8450e-1a11-4e8a-ab50-0f608d6a6394#ref=rss)
+### münchenpasing
+
+* [https://www.spiegel.de/panorama/muenchen-pasing-junger-mann-tritt-gegen-s-bahn-und-wird-mitgeschleift](https://www.spiegel.de/panorama/muenchen-pasing-junger-mann-tritt-gegen-s-bahn-und-wird-mitgeschleift-a-2d241bf9-9b44-409e-9b37-c2a05d81b5a3#ref=rss)
+### wirtschaftsministerin
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung](https://www.spiegel.de/politik/deutschland/friedrich-merz-stellt-sich-hinter-wirtschaftsministerin-katherina-reiche-volle-unterstuetzung-a-02d561cb-8102-423e-af26-f2783f7e74f4#ref=rss)
+### trendwende
+
+* [https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord](https://www.spiegel.de/wirtschaft/spritpreise-mittagsaufschlag-an-den-tankstellen-mit-neuem-rekord-a-c0c54f90-d0fc-4dfd-affb-53a271d910c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer-a-ffa8cb3e-3cfb-400f-b023-57db0bde12c5#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-verkauft-weniger-autos-ist-in-china-dennoch-wieder-marktfuehrer-a-ffa8cb3e-3cfb-400f-b023-57db0bde12c5#ref=rss)
+### neunjährige
+
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+### reißen
+
+* [https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen](https://www.spiegel.de/panorama/justiz/augsburg-neunjaehrige-muss-vor-gericht-ueber-mord-an-ihrer-mutter-aussagen-a-3e425092-a28b-4717-843c-b10f9743b988#ref=rss)
+* [https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment](https://www.spiegel.de/politik/reformpaket-der-koalition-deutschland-braucht-diesen-agenda-moment-a-4261a3fa-5a21-4408-be55-d06b389bcbfc#ref=rss)
+### dominic
+
+* [https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet](https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet-a-fd1b5b41-85c6-4901-b0f8-de896724e90c#ref=rss)
+### frimpong
+
+* [https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet](https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet-a-fd1b5b41-85c6-4901-b0f8-de896724e90c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet](https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet-a-fd1b5b41-85c6-4901-b0f8-de896724e90c#ref=rss)
+### mannschaftsbus
+
+* [https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet](https://www.spiegel.de/sport/fussball/dominic-frimpong-ghanaischer-fussballprofi-offenbar-bei-ueberfall-auf-mannschaftsbus-getoetet-a-fd1b5b41-85c6-4901-b0f8-de896724e90c#ref=rss)
+### maralago
+
+* [https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago](https://www.spiegel.de/ausland/donald-trump-superreiche-superstars-partys-mit-populisten-aus-dem-innern-von-mar-a-lago-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
 
