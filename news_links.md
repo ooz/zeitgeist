@@ -4,334 +4,384 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front](https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front-a-dc124272-eb76-43e6-85af-ce17bb97fa81#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen](https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen-a-f1b1ae6f-7e56-455f-848c-5249b818db98#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wolodymyr-selenskyj-wuerdigt-die-standhaftigkeit-der-ukrainer-am-orthodoxen-ostern](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wolodymyr-selenskyj-wuerdigt-die-standhaftigkeit-der-ukrainer-am-orthodoxen-ostern-a-63822402-bdfe-4809-a267-3d468812cdb7#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt](https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt-a-307d07db-840e-4479-922c-cd80a10d871b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-* [https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft](https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft-a-62de36c7-2bb5-46d2-8c03-bcf9e22639c1#ref=rss)
-### buchenwald
-
-* [https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling](https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling-a-2f04746f-ff91-4a76-a4e0-0a7926ce4da4#ref=rss)
-* [https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache](https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache-a-c098a858-a4b5-4305-9f04-04542da4e9ce#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### auswirkungen
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-### rückkehr
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-mission-niemand-weiss-was-unsere-familien-durchgemacht-haben](https://www.spiegel.de/wissenschaft/weltall/artemis-mission-niemand-weiss-was-unsere-familien-durchgemacht-haben-a-3729c0eb-6490-43cf-b85e-5d0d6c224eac#ref=rss)
-* [https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft](https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft-a-62de36c7-2bb5-46d2-8c03-bcf9e22639c1#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-* [https://www.spiegel.de/kultur/tatort-heute-aus-koeln-showtime-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-koeln-showtime-im-schnellcheck-a-e3922094-6e08-42e2-985c-38a572deb5b4#ref=rss)
-### friedenspreis
-
-* [https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis](https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis-a-9d86accf-c86c-40d0-a51f-f5d1b652dd56#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft](https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft-a-62de36c7-2bb5-46d2-8c03-bcf9e22639c1#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an](https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an-a-a8fdc654-d488-4124-91a6-e77d388efcf9#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an](https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an-a-a8fdc654-d488-4124-91a6-e77d388efcf9#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### hape
+* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling](https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling-a-2f04746f-ff91-4a76-a4e0-0a7926ce4da4#ref=rss)
-### kerkeling
-
-* [https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling](https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling-a-2f04746f-ff91-4a76-a4e0-0a7926ce4da4#ref=rss)
-### jahrestag
-
-* [https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling](https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling-a-2f04746f-ff91-4a76-a4e0-0a7926ce4da4#ref=rss)
-* [https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache](https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache-a-c098a858-a4b5-4305-9f04-04542da4e9ce#ref=rss)
-### befreiung
-
-* [https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling](https://www.spiegel.de/kultur/buchenwald-die-unverzichtbaren-worte-des-hape-kerkeling-a-2f04746f-ff91-4a76-a4e0-0a7926ce4da4#ref=rss)
-* [https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache](https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache-a-c098a858-a4b5-4305-9f04-04542da4e9ce#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-### eng
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live](https://www.spiegel.de/ausland/wahl-in-ungarn-kommt-das-system-des-autokraten-viktor-orban-nach-16-jahren-an-sein-ende-alle-news-live-a-07e91ba0-2ce3-4253-8456-702bebd6afab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-### vfb
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-### stark
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-### folge
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter](https://www.spiegel.de/sport/fussball/bundesliga-hsv-geht-beim-vfb-stuttgart-unter-a-2d4b78ea-fe7a-4980-b101-4f706ade1dd5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-### leipziger
-
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte](https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte-a-6828ea77-2e60-41ee-89d7-9b20e6d0fa38#ref=rss)
-### ki
-
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte](https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte-a-6828ea77-2e60-41ee-89d7-9b20e6d0fa38#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
 ### selbst
 
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte](https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte-a-6828ea77-2e60-41ee-89d7-9b20e6d0fa38#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/akkubetriebene-miniluftpumpen-von-airace-contec-cycplus-osram-topeak-und-voxom-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/akkubetriebene-miniluftpumpen-von-airace-contec-cycplus-osram-topeak-und-voxom-im-test-a-e12063f4-064a-419e-b014-37e27c5ac78b#ref=rss)
-### fehler
+* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### ungarn
 
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte](https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte-a-6828ea77-2e60-41ee-89d7-9b20e6d0fa38#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt](https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt-a-307d07db-840e-4479-922c-cd80a10d871b#ref=rss)
-### erfolg
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte](https://www.spiegel.de/panorama/kuenstliche-intelligenz-wie-ein-leipziger-sich-mit-ki-vor-gericht-verteidigte-a-6828ea77-2e60-41ee-89d7-9b20e6d0fa38#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-### krieg
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### orbán
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front](https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front-a-dc124272-eb76-43e6-85af-ce17bb97fa81#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-### front
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front](https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front-a-dc124272-eb76-43e6-85af-ce17bb97fa81#ref=rss)
-### reagiert
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+### allgemeine
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front](https://www.spiegel.de/ausland/krieg-in-der-ukraine-ex-premier-boris-johnson-besucht-die-front-a-dc124272-eb76-43e6-85af-ce17bb97fa81#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### boko
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt](https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt-a-307d07db-840e-4479-922c-cd80a10d871b#ref=rss)
-### haram
+* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt](https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt-a-307d07db-840e-4479-922c-cd80a10d871b#ref=rss)
-### berichten
+* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+### keytruda
 
-* [https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt](https://www.spiegel.de/ausland/nigeria-luftangriff-auf-islamisten-von-boko-haram-trifft-offenbar-dorfmarkt-a-307d07db-840e-4479-922c-cd80a10d871b#ref=rss)
-* [https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache](https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache-a-c098a858-a4b5-4305-9f04-04542da4e9ce#ref=rss)
-### heilbronn
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
+### gerade
 
-* [https://www.spiegel.de/wirtschaft/iw-kaufkraft-ranking-heilbronn-loest-starnberg-auf-platz-eins-ab](https://www.spiegel.de/wirtschaft/iw-kaufkraft-ranking-heilbronn-loest-starnberg-auf-platz-eins-ab-a-ee115b8f-ece1-4923-9a5a-7a1511d4aba8#ref=rss)
-### oben
+* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wirtschaft/iw-kaufkraft-ranking-heilbronn-loest-starnberg-auf-platz-eins-ab](https://www.spiegel.de/wirtschaft/iw-kaufkraft-ranking-heilbronn-loest-starnberg-auf-platz-eins-ab-a-ee115b8f-ece1-4923-9a5a-7a1511d4aba8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-### jannik
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
+### weist
 
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-### sinner
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-### erst
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren](https://www.spiegel.de/sport/tennis/tennis-in-monte-carlo-jannik-sinner-kann-nicht-mehr-verlieren-a-d4d67f89-63b3-4e15-a802-feaf56b0ff8f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen](https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen-a-f1b1ae6f-7e56-455f-848c-5249b818db98#ref=rss)
-### tadej
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter](https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter-a-ef518400-96d0-4eac-b6f2-6fa1fb064a28#ref=rss)
-### pogačar
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter](https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter-a-ef518400-96d0-4eac-b6f2-6fa1fb064a28#ref=rss)
-### ersten
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
+### francisco
 
-* [https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter](https://www.spiegel.de/sport/radsport/paris-roubaix-tadej-pogacar-fehlen-beim-zielsprint-nur-zentimeter-a-ef518400-96d0-4eac-b6f2-6fa1fb064a28#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen](https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen-a-fa32d9de-fdb0-4a34-ad27-b3141cdfe609#ref=rss)
-### 1
+* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### péter
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+### magyar
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-### werder
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+### santos
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-### bremen
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### maralago
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen](https://www.spiegel.de/sport/fussball/bundesliga-1-fc-koeln-gewinnt-abstiegsduell-mit-werder-bremen-a-07a3d674-96ea-409d-a66c-a7b61640719a#ref=rss)
-### putins
+* [https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida](https://www.spiegel.de/ausland/donald-trump-mar-a-lago-so-geht-es-zu-in-florida-a-8459a2e1-21ee-4fa4-a93d-2a0370056ad3#ref=rss)
+### krebsmedikament
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen](https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen-a-f1b1ae6f-7e56-455f-848c-5249b818db98#ref=rss)
-### nato
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-### verluste
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+### gesundheitssystem
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russlands-armee-nach-vier-jahren-krieg-gegen-die-ukraine-a-3cf579f0-79f4-48a3-8c1e-aa4af0b21954#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen](https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen-a-f1b1ae6f-7e56-455f-848c-5249b818db98#ref=rss)
-### einigen
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+### medikament
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen](https://www.spiegel.de/ausland/ukraine-krieg-die-russen-sind-in-der-lage-katastrophale-umstaende-und-verluste-zu-ertragen-a-f1b1ae6f-7e56-455f-848c-5249b818db98#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig-a-aeba169e-2cb6-4a5a-8a32-657f7f69db26#ref=rss)
-### nico
+* [https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem](https://www.spiegel.de/wirtschaft/soziales/krebsmedikament-keytruda-lebensretter-mit-folgen-fuer-das-gesundheitssystem-a-136995ba-a3f7-44ea-b893-11e0c1098c8d#ref=rss)
+### lukas
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig-a-aeba169e-2cb6-4a5a-8a32-657f7f69db26#ref=rss)
-### schlotterbeck
+* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
+### rietzschel
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig-a-aeba169e-2cb6-4a5a-8a32-657f7f69db26#ref=rss)
-### verlängert
+* [https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen](https://www.spiegel.de/kultur/literatur/lukas-rietzschel-sanditz-autor-und-talkshow-osterklaerer-wie-passt-es-zusammen-a-98ba2897-4f5d-4bb7-89f4-a0dedc50fec1#ref=rss)
+### frankfurter
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig-a-aeba169e-2cb6-4a5a-8a32-657f7f69db26#ref=rss)
-### ausgepfiffen
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+### zeitung
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig](https://www.spiegel.de/sport/fussball/borussia-dortmund-nico-schlotterbeck-verlaengert-und-wird-ausgepfiffen-das-ist-kurzsichtig-a-aeba169e-2cb6-4a5a-8a32-657f7f69db26#ref=rss)
-### bringen
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+### helene
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/akkubetriebene-miniluftpumpen-von-airace-contec-cycplus-osram-topeak-und-voxom-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/akkubetriebene-miniluftpumpen-von-airace-contec-cycplus-osram-topeak-und-voxom-im-test-a-e12063f4-064a-419e-b014-37e27c5ac78b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-### afd
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+### bubrowski
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will-a-fa05ee04-be57-41de-92f3-26cc11503582#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+### politik
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will-a-fa05ee04-be57-41de-92f3-26cc11503582#ref=rss)
-### kirchen
+* [https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin](https://www.spiegel.de/kultur/frankfurter-allgemeine-zeitung-helene-bubrowski-wird-herausgeberin-a-5a0c5f77-24ff-4b0e-944a-62272fe11313#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-wie-die-partei-inklusion-und-kirchen-im-bundesland-umbauen-will-a-fa05ee04-be57-41de-92f3-26cc11503582#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+### engels
 
-* [https://www.spiegel.de/kultur/tatort-heute-aus-koeln-showtime-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-koeln-showtime-im-schnellcheck-a-e3922094-6e08-42e2-985c-38a572deb5b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/artemis-mission-niemand-weiss-was-unsere-familien-durchgemacht-haben](https://www.spiegel.de/wissenschaft/weltall/artemis-mission-niemand-weiss-was-unsere-familien-durchgemacht-haben-a-3729c0eb-6490-43cf-b85e-5d0d6c224eac#ref=rss)
-### ricarda
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+### sängerin
 
-* [https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen](https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen-a-fa32d9de-fdb0-4a34-ad27-b3141cdfe609#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video](https://www.spiegel.de/panorama/leute/sarah-engels-saengerin-rechtfertigt-sich-zu-kritik-an-suedafrika-video-a-b14b08ba-1acd-4765-9367-d4bce9ce0306#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck](https://www.spiegel.de/ausland/donald-trump-papst-leo-weist-trumps-laesterattacke-mit-bibelbotschaft-zurueck-a-b3bc026e-18bf-4ca9-b487-a95527e746f3#ref=rss)
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
+### sam
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
+### haus
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus](https://www.spiegel.de/netzwelt/netzpolitik/san-francisco-polizei-verhaftet-zwei-verdaechtige-nach-schuessen-auf-sam-altmans-haus-a-252035d4-a7b8-4f0d-ad4a-b0d697772841#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+### verbände
+
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+### monate
+
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
 ### lang
 
-* [https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen](https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen-a-fa32d9de-fdb0-4a34-ad27-b3141cdfe609#ref=rss)
-### halbmarathon
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### mineralölsteuer
 
-* [https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen](https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen-a-fa32d9de-fdb0-4a34-ad27-b3141cdfe609#ref=rss)
-### hannover
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### diesel
 
-* [https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen](https://www.spiegel.de/panorama/leute/ricarda-lang-ist-einen-halbmarathon-in-hannover-gelaufen-a-fa32d9de-fdb0-4a34-ad27-b3141cdfe609#ref=rss)
-### autorin
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### benzin
 
-* [https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis](https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis-a-9d86accf-c86c-40d0-a51f-f5d1b652dd56#ref=rss)
-### klementyna
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### gesenkt
 
-* [https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis](https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis-a-9d86accf-c86c-40d0-a51f-f5d1b652dd56#ref=rss)
-### suchanow
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### entlastung
 
-* [https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis](https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis-a-9d86accf-c86c-40d0-a51f-f5d1b652dd56#ref=rss)
-### dresdner
+* [https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung](https://www.spiegel.de/politik/verschiebebahnhof-und-vollkommen-naiv-opposition-und-verbaende-kritisieren-spritplaene-der-regierung-a-564fae45-1d53-4a43-bde6-d632d1524f50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis](https://www.spiegel.de/kultur/literatur/friedenspreis-autorin-klementyna-suchanow-erhaelt-dresdner-friedenspreis-a-9d86accf-c86c-40d0-a51f-f5d1b652dd56#ref=rss)
-### sinken
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-### mittags
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge](https://www.spiegel.de/wirtschaft/spritpreise-gehen-weiter-zurueck-aber-hohe-mittagsspruenge-a-406bdc3f-d7fc-4240-95ee-372964542a67#ref=rss)
-### friedrich
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+### johannes
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### liebmann
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-### lars
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-### land
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### große
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-was-ueber-die-reform-klausur-nach-aussen-dringt-a-ab5433b8-ac60-4ea5-9f31-e10da56f9f5a#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wolodymyr-selenskyj-wuerdigt-die-standhaftigkeit-der-ukrainer-am-orthodoxen-ostern](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wolodymyr-selenskyj-wuerdigt-die-standhaftigkeit-der-ukrainer-am-orthodoxen-ostern-a-63822402-bdfe-4809-a267-3d468812cdb7#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### schwimmhoffnung
 
-* [https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann](https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann-a-775cf664-0867-4d64-a07c-0add07079e67#ref=rss)
-### mädchen
+* [https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung](https://www.spiegel.de/sport/johannes-liebmann-stellt-europarekord-auf-deutschlands-naechste-grosse-schwimmhoffnung-a-660e3007-1c0d-428c-9a30-39e7ca8b4f87#ref=rss)
+### schaffen
 
-* [https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann](https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann-a-775cf664-0867-4d64-a07c-0add07079e67#ref=rss)
-### mann
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
+### platz
 
-* [https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann](https://www.spiegel.de/panorama/gesellschaft/pfronten-in-bayern-aufmerksame-neunjaehrige-findet-demenzkranken-mann-a-775cf664-0867-4d64-a07c-0add07079e67#ref=rss)
-### israel
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
+### handy
 
-* [https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft](https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft-a-62de36c7-2bb5-46d2-8c03-bcf9e22639c1#ref=rss)
-### gespräche
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
+### drängt
 
-* [https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft](https://www.spiegel.de/ausland/gescheiterte-friedensgespraeche-mit-iran-israel-versetzt-armee-in-gefechtsbereitschaft-a-62de36c7-2bb5-46d2-8c03-bcf9e22639c1#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an](https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72#ref=rss)
-### jette
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus](https://www.spiegel.de/ausland/donald-trump-ex-cia-chef-john-brennan-spricht-sich-fuer-amtsenthebung-aus-a-1c1c9dbf-b0e5-44c0-ac63-1d9f7d3c7a18#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### nietzard
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher](https://www.spiegel.de/netzwelt/gadgets/iphone-updates-so-schaffen-sie-platz-im-speicher-a-4f4c1085-fc9a-4cce-ac22-859e43b3b7e1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+### europa
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### politische
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-abkehr-von-europa-wie-seine-politik-die-deutsche-amerika-lobby-erschuettert-a-322010da-a267-49cc-bb39-f0d59eeb38ec#ref=rss)
+### statt
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### karriere
+* [https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen](https://www.spiegel.de/kultur/friedrich-merz-wie-deutsche-politiker-trumps-logik-der-gefuehlspolitik-folgen-a-2122ad4b-65ef-4384-8793-af345f16a82a#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+### klimawandel
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### social
+* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### media
+* [https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit](https://www.spiegel.de/kultur/donald-trump-energiekrise-klimawandel-wenn-die-welt-untergeht-gehe-ich-heiter-mit-a-c015b9c4-4897-418f-86ca-60ea1078009d#ref=rss)
+* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
+### vorbild
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich](https://www.spiegel.de/politik/deutschland/jette-nietzard-politische-karriere-vorbei-aber-auf-social-media-erfolgreich-a-0a98fd83-9cab-4bc0-a7fb-77f5d89d232c#ref=rss)
-### käfigkämpfe
+* [https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen](https://www.spiegel.de/ausland/demokratien-koennen-sich-selbst-heilen-ungarn-hat-es-gerade-bewiesen-a-8a39144a-57d8-4945-8bdf-e968c2de83c2#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an](https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an-a-a8fdc654-d488-4124-91a6-e77d388efcf9#ref=rss)
-### weißen
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### abgewählt
 
-* [https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an](https://www.spiegel.de/panorama/zum-80-geburtstag-trump-kuendigt-historisches-kampfsport-event-vor-dem-weissen-haus-an-a-a8fdc654-d488-4124-91a6-e77d388efcf9#ref=rss)
-### asha
+* [https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf](https://www.spiegel.de/ausland/ungarn-ukraine-hebt-reisewarnung-nach-wahlsieg-von-peter-magyar-auf-a-08542364-2760-4fa8-af57-df6e6012162a#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot](https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot-a-a2a66e64-fa89-4288-9efc-a3d0ef048682#ref=rss)
-### bhosle
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### uta
 
-* [https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot](https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot-a-a2a66e64-fa89-4288-9efc-a3d0ef048682#ref=rss)
-### gestorben
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### dos
 
-* [https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot](https://www.spiegel.de/kultur/musik/asha-bosle-gestorben-koenigin-des-bollywood-playbackgesangs-ist-tot-a-a2a66e64-fa89-4288-9efc-a3d0ef048682#ref=rss)
-### kufiya
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-kandidatin-uta-francisco-dos-santos-zieht-kandidatur-in-berlin-mitte-zurueck-a-134c98cb-0e33-4ba4-893f-3c7f00f8d6fc#ref=rss)
+### hanau
 
-* [https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache](https://www.spiegel.de/politik/kz-gedenkstaette-kufiya-in-buchenwald-aktivisten-berichten-von-mahnwache-a-c098a858-a4b5-4305-9f04-04542da4e9ce#ref=rss)
+* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht](https://www.spiegel.de/panorama/hanau-vater-von-attentaeter-gestorben-mehrfach-selbst-vor-gericht-a-6b0aa96f-2959-4031-b01a-01ea2450af2f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation](https://www.spiegel.de/mobilitaet/auto/kfz-versicherung-fahrschule-spritpreise-kosten-fuers-auto-schlagen-allgemeine-inflation-a-a8ad5ce2-1bf5-478f-ad1b-f2df9a15c449#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein](https://www.spiegel.de/ausland/wahl-von-peter-magyar-viele-sagen-sie-schaemen-sich-nicht-mehr-dafuer-ungarn-zu-sein-a-e6917f6f-ee74-46c7-b92b-e026e8474280#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### lauren
+
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+### bezos
+
+* [https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden](https://www.spiegel.de/panorama/leute/lauren-sanchez-bezos-kann-sich-vorstellen-nochmal-mutter-zu-werden-a-0dbb84ce-8220-452f-9675-c343b9cbdc49#ref=rss)
+### mediziner
+
+* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an](https://www.spiegel.de/wirtschaft/merck-sharp-dohme-msd-ein-mediziner-legt-sich-mit-einem-globalen-pharmariesen-an-a-4c4a5762-bd9d-4c1a-b947-34cb968ebafa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise](https://www.spiegel.de/politik/deutschland/deutschland-koalition-beschliesst-entlastung-wegen-hoher-spritpreise-a-7b37dcf2-cff5-42e2-88c3-d59b0987af1d#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten](https://www.spiegel.de/ausland/ungarn-viktor-orban-abgewaehlt-das-ende-eines-autokraten-a-1c11520e-10b5-4e00-a737-9e1e74078e18#ref=rss)
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
+### kühltruhe
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe](https://www.spiegel.de/panorama/justiz/bielefeld-bruder-entdeckt-28-jaehrige-tot-in-kuehltruhe-a-b41bf9cd-91d0-4aa0-a437-d6ec17d2a995#ref=rss)
+### britney
+
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### spears
+
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### entzugsklinik
+
+* [https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein](https://www.spiegel.de/panorama/leute/britney-spears-popstar-weist-sich-selbst-in-entzugsklinik-ein-a-51dfc00e-92b8-4f3b-bfab-57b1a68b7dc2#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### netz
+
+* [https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett](https://www.spiegel.de/ausland/ungarn-jd-vance-leistete-hilfe-fuer-viktor-orban-nun-wird-er-im-netz-zum-gespoett-a-f6073f6e-4d93-43c9-bfd7-f6f421e7e2f4#ref=rss)
+### dax
+
+* [https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar](https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar-a-c9960f19-6357-40d3-8ea9-cfd684a76080#ref=rss)
+### minus
+
+* [https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar](https://www.spiegel.de/wirtschaft/dax-im-minus-oelpreis-springt-wieder-ueber-100-dollar-a-c9960f19-6357-40d3-8ea9-cfd684a76080#ref=rss)
 
