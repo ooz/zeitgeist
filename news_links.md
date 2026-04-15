@@ -4,401 +4,338 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### millionen
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen](https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen-a-bf8138da-ed96-4a33-8bf6-3435db872425#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu](https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu-a-93152b01-a0ce-4919-96da-f950ebf76c81#ref=rss)
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist](https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist-a-36f56990-e993-4ef0-800e-e79641a3b7f8#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-* [https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff](https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff-a-f2ee7984-809a-4f87-8629-f533c87536a3#ref=rss)
-* [https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft](https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft-a-f6c21002-8905-4a57-a292-1fec3b87d438#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst-a-41f225df-91c5-4d94-b3cd-aa4dd944ad2e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### genug
-
-* [https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug](https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug-a-dc01f038-473b-4cbb-a0e6-13b06e8bc2ff#ref=rss)
-### iran
-
-* [https://www.spiegel.de/netzwelt/web/snicklink-deutscher-creator-macht-trump-kritik-zum-geschaeftsmodell](https://www.spiegel.de/netzwelt/web/snicklink-deutscher-creator-macht-trump-kritik-zum-geschaeftsmodell-a-9a3a661c-e6da-4611-b631-dbcbe983fea4#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen](https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen-a-bf8138da-ed96-4a33-8bf6-3435db872425#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel-a-93198b6f-4ac8-404c-b622-5303f7ea1764#ref=rss)
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen-a-c935a1f8-75db-428f-aa33-ce777b19c456#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht](https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht-a-66d5e08d-f84a-4fe3-97e8-270e4f7c913e#ref=rss)
-### england
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen-a-c935a1f8-75db-428f-aa33-ce777b19c456#ref=rss)
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### hunderte
-
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu](https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu-a-93152b01-a0ce-4919-96da-f950ebf76c81#ref=rss)
-### staat
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst-a-41f225df-91c5-4d94-b3cd-aa4dd944ad2e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht](https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht-a-66d5e08d-f84a-4fe3-97e8-270e4f7c913e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen](https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen-a-bf8138da-ed96-4a33-8bf6-3435db872425#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-### 86jährige
-
-* [https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff](https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff-a-f2ee7984-809a-4f87-8629-f533c87536a3#ref=rss)
-* [https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft](https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft-a-f6c21002-8905-4a57-a292-1fec3b87d438#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist](https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist-a-36f56990-e993-4ef0-800e-e79641a3b7f8#ref=rss)
-### markus
-
-* [https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug](https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug-a-dc01f038-473b-4cbb-a0e6-13b06e8bc2ff#ref=rss)
-### lanz
-
-* [https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug](https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug-a-dc01f038-473b-4cbb-a0e6-13b06e8bc2ff#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug](https://www.spiegel.de/kultur/tv/markus-lanz-fuehlt-sich-nicht-gut-genug-nicht-schnell-genug-nicht-schlau-genug-a-dc01f038-473b-4cbb-a0e6-13b06e8bc2ff#ref=rss)
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-us-streamer-muss-nach-provokation-an-mahnmal-fuer-zwangsprostituierte-in-haft](https://www.spiegel.de/panorama/justiz/suedkorea-us-streamer-muss-nach-provokation-an-mahnmal-fuer-zwangsprostituierte-in-haft-a-24251374-b9a9-48c1-a5d8-cd4ee516d385#ref=rss)
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-us-streamer-muss-nach-provokation-an-mahnmal-fuer-zwangsprostituierte-in-haft](https://www.spiegel.de/panorama/justiz/suedkorea-us-streamer-muss-nach-provokation-an-mahnmal-fuer-zwangsprostituierte-in-haft-a-24251374-b9a9-48c1-a5d8-cd4ee516d385#ref=rss)
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/netzwelt/web/snicklink-deutscher-creator-macht-trump-kritik-zum-geschaeftsmodell](https://www.spiegel.de/netzwelt/web/snicklink-deutscher-creator-macht-trump-kritik-zum-geschaeftsmodell-a-9a3a661c-e6da-4611-b631-dbcbe983fea4#ref=rss)
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### kommissar
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### rex
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### teufel
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### trägt
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### prada
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### malcom
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### mittendrin
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt](https://www.spiegel.de/kultur/kommissar-rex-der-teufel-traegt-prada-malcom-mittendrin-was-2026-nach-jahren-zurueckkehrt-a-1e1f898d-2f15-4773-ae5a-565ced73842e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### raphinha
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel-a-93198b6f-4ac8-404c-b622-5303f7ea1764#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-star-raphinha-spricht-nach-aus-gegen-atletico-madrid-von-einem-gestohlenen-spiel-a-93198b6f-4ac8-404c-b622-5303f7ea1764#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen-a-c935a1f8-75db-428f-aa33-ce777b19c456#ref=rss)
-### heinz
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen-a-c935a1f8-75db-428f-aa33-ce777b19c456#ref=rss)
-### rothgang
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-reform-oekonom-heinz-rothgang-warnt-vor-britischen-verhaeltnissen-a-c935a1f8-75db-428f-aa33-ce777b19c456#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-### akten
-
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie](https://www.spiegel.de/panorama/bismarck-skandal-bisher-unbekannte-akten-zeugen-von-zwangsarbeit-bei-der-promi-familie-a-878d24db-14ab-41eb-91ab-bd5c4469bd75#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-### jahrhundertfeier
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-### belegschaft
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-### anders
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet](https://www.spiegel.de/wirtschaft/lufthansa-jahrhundertfeier-von-streiks-der-belegschaft-ueberschattet-a-d4a14e66-6cb4-4144-9e5b-8ab015d795bb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-### katy
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff](https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff-a-d3c1d329-f3cc-4e75-b86e-b9885e31fb9f#ref=rss)
-### perry
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff](https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff-a-d3c1d329-f3cc-4e75-b86e-b9885e31fb9f#ref=rss)
-### sexuellen
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff](https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff-a-d3c1d329-f3cc-4e75-b86e-b9885e31fb9f#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff](https://www.spiegel.de/panorama/leute/katy-perry-polizei-in-australien-ermittelt-wegen-angeblichem-sexuellen-uebergriff-a-d3c1d329-f3cc-4e75-b86e-b9885e31fb9f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-### solaranlagen
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-### haushalte
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-### denn
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist](https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist-a-36f56990-e993-4ef0-800e-e79641a3b7f8#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro](https://www.spiegel.de/wirtschaft/einspeiseverguetung-foerder-aus-fuer-neue-solaranlagen-kostet-haushalte-hunderte-euro-a-b6cdb075-5360-4d08-bcd3-6b577325e926#ref=rss)
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### proud
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### boys
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### oath
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### keepers
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### urteile
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben](https://www.spiegel.de/ausland/proud-boys-und-oath-keepers-us-regierung-will-urteile-aufheben-a-85a5431b-53fe-4d5a-907a-26b0e1a50c8c#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen](https://www.spiegel.de/effilee/kochen-ohne-kohle-borani-esfenaj-persischer-spinatdip-mit-walnuessen-a-bf8138da-ed96-4a33-8bf6-3435db872425#ref=rss)
-### ahmed
-
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### shihab‑eldin
-
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### festnahme
-
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-* [https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft](https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft-a-f6c21002-8905-4a57-a292-1fec3b87d438#ref=rss)
-### journalist
-
-* [https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik](https://www.spiegel.de/ausland/ahmed-shihab-eldin-festnahme-von-journalist-in-kuwait-sorgt-fuer-kritik-a-96b7f5ad-ef34-4daa-98b5-10d20a09dddb#ref=rss)
-### robert
-
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-### stadlober
-
-* [https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod](https://www.spiegel.de/panorama/leute/robert-stadlober-wuenscht-sich-keinen-schnellen-tod-a-a3177314-573e-4956-bd0c-1d516540cecf#ref=rss)
-### öffentlichen
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst-a-41f225df-91c5-4d94-b3cd-aa4dd944ad2e#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-spart-2-5-millionen-tonnen-co-pro-jahr-ein-a-c83b63a3-929f-453e-9cab-8447062f29d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst-a-41f225df-91c5-4d94-b3cd-aa4dd944ad2e#ref=rss)
-### dianna
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### russini
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### nflreporterin
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### mike
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### vrabel
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### patriots
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots](https://www.spiegel.de/sport/american-football/dianna-russini-nfl-reporterin-kuendigt-job-nach-gemeinsamen-urlaubsfotos-mit-mike-vrabel-von-den-new-england-patriots-a-9e4361c4-2984-4ee4-8b7c-a8e48591f06e#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### hornisse
-
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu](https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu-a-93152b01-a0ce-4919-96da-f950ebf76c81#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### stoppen
-
-* [https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/natur/vespa-velutina-asiatische-hornisse-breitet-sich-in-deutschland-weiter-aus-a-86cddc08-ec74-4b5f-bb72-48373665e1f1#ref=rss)
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-### beamtenbund
-
-* [https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/einmalzahlung-beamtenbund-fordert-entlastungspraemie-fuer-oeffentlichen-dienst-a-41f225df-91c5-4d94-b3cd-aa4dd944ad2e#ref=rss)
-### wien
-
-* [https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff](https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff-a-f2ee7984-809a-4f87-8629-f533c87536a3#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff](https://www.spiegel.de/panorama/wien-deutsche-stirbt-bei-ausstieg-von-flusskreuzfahrtschiff-a-f2ee7984-809a-4f87-8629-f533c87536a3#ref=rss)
-### roger
-
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### prinzen
-
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### 57
-
-* [https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben](https://www.spiegel.de/sport/fussball/roger-prinzen-ehemaliger-bundesligaprofi-mit-57-jahren-verstorben-a-4a3a8120-d6a1-4f69-9fc2-f0ac62c1050e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft](https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft-a-f6c21002-8905-4a57-a292-1fec3b87d438#ref=rss)
-### jugendliebe
-
-* [https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft](https://www.spiegel.de/panorama/usa-festnahme-durch-ice-86-jaehrige-nach-tod-ihrer-jugendliebe-in-abschiebehaft-a-f6c21002-8905-4a57-a292-1fec3b87d438#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu](https://www.spiegel.de/ausland/sudan-deutschland-sichert-weitere-20-millionen-euro-zu-a-93152b01-a0ce-4919-96da-f950ebf76c81#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen-a-b1bd6569-6a38-46c9-a6ae-20f70e54e480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist](https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist-a-36f56990-e993-4ef0-800e-e79641a3b7f8#ref=rss)
-### inflation
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie](https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie-a-0aa05d8c-ffea-4831-8c17-23e620025fb4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen-a-b1bd6569-6a38-46c9-a6ae-20f70e54e480#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-### bleiben
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie](https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie-a-0aa05d8c-ffea-4831-8c17-23e620025fb4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-anhaenger-ihm-treu-bleiben-trotz-gebrochener-versprechen-a-b1bd6569-6a38-46c9-a6ae-20f70e54e480#ref=rss)
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-### netz
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus-a-ab629190-4878-462a-9715-d0ad54ba5a13#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht](https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht-a-66d5e08d-f84a-4fe3-97e8-270e4f7c913e#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie](https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie-a-0aa05d8c-ffea-4831-8c17-23e620025fb4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck-a-3087c5e2-4436-4969-ae97-5496a0e80ab8#ref=rss)
+### deutschlandticket
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+### tankrabatt
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24](https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24-a-12262c00-820a-436f-bc7a-0bb06d87d31c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht](https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht-a-4701b54e-b3b7-45b1-a8d7-fee9cb0eb2f4#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus-a-ab629190-4878-462a-9715-d0ad54ba5a13#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt](https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt-a-5d6050e7-b4e9-429f-9df0-381243b4c5f5#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will](https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will-a-ec7b0f8f-b175-4aad-ac88-ad4970368e90#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+### vatikan
+
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan](https://www.spiegel.de/ausland/donald-trump-und-papst-leo-die-komplizierte-beziehungsgeschichte-zwischen-usa-und-vatikan-a-7bb0eadc-5720-4ac1-a3c4-c2281774352b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+### bild
+
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+### jesus
+
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+* [https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24](https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24-a-12262c00-820a-436f-bc7a-0bb06d87d31c#ref=rss)
+### teilt
+
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+* [https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf](https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf-a-236431b7-8948-4217-939d-5f8908393886#ref=rss)
+### seite
+
+* [https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus](https://www.spiegel.de/ausland/donald-trump-postet-schon-wieder-bild-mit-jesus-a-a2711506-4a69-4df1-8b06-5736796c2eed#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie](https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie-a-0aa05d8c-ffea-4831-8c17-23e620025fb4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie](https://www.spiegel.de/ausland/kuba-russland-verspricht-mehr-oellieferungen-donald-trump-droht-mit-militaerfantasie-a-0aa05d8c-ffea-4831-8c17-23e620025fb4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+### besoldung
+
+* [https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu](https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu-a-5ffd56cb-36ba-468a-b2dc-90bd404314b9#ref=rss)
+### staatsdiener
+
+* [https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu](https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu-a-5ffd56cb-36ba-468a-b2dc-90bd404314b9#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu](https://www.spiegel.de/politik/deutschland/beamte-und-ihre-besoldung-das-kommt-auf-staatsdiener-jetzt-zu-a-5ffd56cb-36ba-468a-b2dc-90bd404314b9#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tages
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### derweil
+
+* [https://www.spiegel.de/ausland/nordkorea-iaea-chef-kapazitaeten-zum-bau-von-atomwaffen-sehr-deutlich-gestiegen](https://www.spiegel.de/ausland/nordkorea-iaea-chef-kapazitaeten-zum-bau-von-atomwaffen-sehr-deutlich-gestiegen-a-c01b4d3e-726b-4ef6-8e8c-f3ee059ae75b#ref=rss)
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/nordkorea-iaea-chef-kapazitaeten-zum-bau-von-atomwaffen-sehr-deutlich-gestiegen](https://www.spiegel.de/ausland/nordkorea-iaea-chef-kapazitaeten-zum-bau-von-atomwaffen-sehr-deutlich-gestiegen-a-c01b4d3e-726b-4ef6-8e8c-f3ee059ae75b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt](https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt-a-5d6050e7-b4e9-429f-9df0-381243b4c5f5#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+### kam
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet](https://www.spiegel.de/ausland/donald-trump-wie-der-bruch-mit-giorgia-meloni-die-transatlantischen-beziehungen-belastet-a-b052d912-0955-406a-bd49-76949923a3c0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte-a-eb1c25f5-185c-4981-97f5-05d14f5d4476#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte-a-eb1c25f5-185c-4981-97f5-05d14f5d4476#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht](https://www.spiegel.de/wirtschaft/service/mieses-handynetz-staat-staerkt-offenbar-minderungsrecht-a-66d5e08d-f84a-4fe3-97e8-270e4f7c913e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-### sirenen
+* [https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte-a-eb1c25f5-185c-4981-97f5-05d14f5d4476#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt](https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt-a-5d6050e7-b4e9-429f-9df0-381243b4c5f5#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer](https://www.spiegel.de/ausland/holocaust-gedenken-sirenen-in-israel-erinnern-an-sechs-millionen-opfer-a-0f3cfe8b-eab5-40c2-99c5-0183c6991714#ref=rss)
-### benjamin
+* [https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/bbc-sparplaene-in-der-krise-treffen-offenbar-2000-beschaeftigte-a-eb1c25f5-185c-4981-97f5-05d14f5d4476#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+### christian
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### stuckradbarre
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+### ulmen
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### autor
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### spitznamen
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will](https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will-a-ec7b0f8f-b175-4aad-ac88-ad4970368e90#ref=rss)
+### collien
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### udo
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+### fernandes
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
-### lindenberg
+* [https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen](https://www.spiegel.de/kultur/christian-ulmen-joyn-serie-soll-parallelen-zum-fall-collien-fernandes-aufweisen-a-26cba554-7a97-42aa-a1ee-29b5b860c599#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg](https://www.spiegel.de/panorama/leute/benjamin-von-stuckrad-barre-autor-uebernimmt-spitznamen-von-udo-lindenberg-a-f034404c-32e8-426b-aa5c-bcf2acc2ae97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### stellung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### robotern
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### eingenommen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik](https://www.spiegel.de/politik/deutschland/news-des-tages-gas-lobby-deutschlandticket-militaertechnik-a-f5933de6-e970-47e2-ad89-87a1fc1cdfcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+### neues
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will](https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will-a-ec7b0f8f-b175-4aad-ac88-ad4970368e90#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus-a-ab629190-4878-462a-9715-d0ad54ba5a13#ref=rss)
+### laut
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-statt-tankrabatt-was-ein-neues-sonderangebot-fuer-den-oepnv-jetzt-bringen-wuerde-a-a1421aa8-e1aa-4d16-9a86-a6d433a478f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-reformplaene-jetzt-rollt-die-wutwelle](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-reformplaene-jetzt-rollt-die-wutwelle-a-508ac782-86cb-44ff-ab79-a7a075d8179a#ref=rss)
+### steuern
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-reformplaene-jetzt-rollt-die-wutwelle](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-reformplaene-jetzt-rollt-die-wutwelle-a-508ac782-86cb-44ff-ab79-a7a075d8179a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+### allegro
+
+* [https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24](https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24-a-12262c00-820a-436f-bc7a-0bb06d87d31c#ref=rss)
+### pastell
+
+* [https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24](https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24-a-12262c00-820a-436f-bc7a-0bb06d87d31c#ref=rss)
+### rose
+
+* [https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24](https://www.spiegel.de/kultur/deutsches-kino-allegro-pastell-und-rose-die-deutschen-a24-a-12262c00-820a-436f-bc7a-0bb06d87d31c#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf](https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf-a-4a61f4c7-a57e-4d4c-8150-c816f28746f5#ref=rss)
+### santamaría
+
+* [https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf](https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf-a-4a61f4c7-a57e-4d4c-8150-c816f28746f5#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf](https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf-a-4a61f4c7-a57e-4d4c-8150-c816f28746f5#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf](https://www.spiegel.de/sport/fussball/jose-santamaria-ist-tot-die-wand-von-real-madrid-nachruf-a-4a61f4c7-a57e-4d4c-8150-c816f28746f5#ref=rss)
+### jan
+
+* [https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf](https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf-a-236431b7-8948-4217-939d-5f8908393886#ref=rss)
+### van
+
+* [https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf](https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf-a-236431b7-8948-4217-939d-5f8908393886#ref=rss)
+### aken
+
+* [https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf](https://www.spiegel.de/politik/jan-van-aken-hoert-als-co-vorsitzender-der-linken-auf-a-236431b7-8948-4217-939d-5f8908393886#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus-a-ab629190-4878-462a-9715-d0ad54ba5a13#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-so-laeuft-die-doppelte-blockade-der-strasse-von-hormus-a-ab629190-4878-462a-9715-d0ad54ba5a13#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### waren
+
+* [https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt](https://www.spiegel.de/ausland/iran-hat-offenbar-chinesischen-spionagesatelliten-fuer-angriffe-auf-us-stuetzpunkte-genutzt-a-5d6050e7-b4e9-429f-9df0-381243b4c5f5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/mobilitaet/auto/nordrhein-westfalen-in-nrw-duerfen-aktuell-keine-abschleppkosten-erhoben-werden](https://www.spiegel.de/mobilitaet/auto/nordrhein-westfalen-in-nrw-duerfen-aktuell-keine-abschleppkosten-erhoben-werden-a-06df0f80-9abd-41c2-9b83-dbd808a0870a#ref=rss)
+### ameisen
+
+* [https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle](https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle-a-4ffb3ddc-b2bc-4b55-8f41-4ada9ed823bb#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle](https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle-a-4ffb3ddc-b2bc-4b55-8f41-4ada9ed823bb#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle](https://www.spiegel.de/panorama/karlsruhe-ameisen-sabotieren-ampel-und-sorgen-fuer-unfaelle-a-4ffb3ddc-b2bc-4b55-8f41-4ada9ed823bb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht](https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht-a-4701b54e-b3b7-45b1-a8d7-fee9cb0eb2f4#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet](https://www.spiegel.de/ausland/iran-krieg-donald-trump-erklaert-den-krieg-fuer-fast-beendet-a-18a7f2c2-7093-41b2-928a-31cd6e74c754#ref=rss)
 ### niedrigere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern](https://www.spiegel.de/wirtschaft/unternehmen/iran-inflation-eu-erwaegt-offenbar-niedrigere-stromsteuern-a-f4894831-0dab-46e1-aabd-8f2198328e21#ref=rss)
-### zeitalter
+* [https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht](https://www.spiegel.de/wirtschaft/gabriel-zucman-zu-deutschlands-staatsfinanzen-warum-deutschland-eine-reichensteuer-braucht-a-4701b54e-b3b7-45b1-a8d7-fee9cb0eb2f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+### powell
 
-* [https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist](https://www.spiegel.de/wirtschaft/orban-trump-putin-warum-die-eu-im-zeitalter-der-starken-maenner-noetig-ist-a-36f56990-e993-4ef0-800e-e79641a3b7f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen](https://www.spiegel.de/wirtschaft/service/sprit-preise-bevoelkerung-bevorzugt-tankrabatt-gegenueber-zielgenaueren-hilfen-a-3d7a0054-77a6-4fbd-a69f-bbb481932b52#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung](https://www.spiegel.de/wirtschaft/jerome-powell-donald-trump-droht-fed-chef-mit-entlassung-a-cee2a623-a544-47b1-943a-f97111c6a27f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
 ### libanon
 
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### zehn
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+### gespräche
 
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### staaten
+* [https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video](https://www.spiegel.de/ausland/israel-und-libanon-erste-direkte-gespraeche-in-washington-das-video-a-a7feb9ba-2ac0-4a09-b760-cc5e0d61ccff#ref=rss)
+### togo
 
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### fordern
+* [https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will](https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will-a-ec7b0f8f-b175-4aad-ac88-ad4970368e90#ref=rss)
+### weltkarte
 
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
-### waffenruhe
+* [https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will](https://www.spiegel.de/wissenschaft/mercator-projektion-warum-togo-die-weltkarte-aendern-lassen-will-a-ec7b0f8f-b175-4aad-ac88-ad4970368e90#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe](https://www.spiegel.de/ausland/libanon-blauhelmsoldaten-getoetet-zehn-staaten-fordern-waffenruhe-a-2d13da67-1c87-4fcc-a670-f6728b029e12#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben](https://www.spiegel.de/ausland/ukraine-will-feindliche-stellung-erstmals-nur-mit-robotern-und-drohnen-eingenommen-haben-a-fb4db372-4e95-4d59-bea2-c32284b6277d#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### magyar
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### tamás
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### sulyok
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-fordert-praesident-tamas-sulyok-zum-ruecktritt-auf-a-b2f49f95-f3b6-4621-afd9-1b12562091e3#ref=rss)
+### wal
+
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht](https://www.spiegel.de/wissenschaft/natur/wismar-rettungsversuch-fuer-gestrandeten-wal-minister-gibt-gruenes-licht-a-97e28163-16fd-4f87-b222-827788809206#ref=rss)
+### ankerkraut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck-a-3087c5e2-4436-4969-ae97-5496a0e80ab8#ref=rss)
+### gründer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck-a-3087c5e2-4436-4969-ae97-5496a0e80ab8#ref=rss)
+### anteile
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck-a-3087c5e2-4436-4969-ae97-5496a0e80ab8#ref=rss)
+### nestlé
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/ankerkraut-gruender-kaufen-unternehmens-anteile-von-nestle-zurueck-a-3087c5e2-4436-4969-ae97-5496a0e80ab8#ref=rss)
 
