@@ -4,299 +4,313 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### trump
 
-* [https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich](https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich-a-d92c0a91-048f-4678-81ca-ae0deffd991e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis-a-05a8c5a7-cbf7-42d3-be5b-4b444304d45c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-* [https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen](https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen-a-99dc7584-e913-4069-a695-56e6261b5d58#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick](https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick-a-6491d0d0-d573-41ad-ad69-52bef351ab60#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-was-der-cdu-chef-dem-land-jetzt-schuldet](https://www.spiegel.de/wirtschaft/friedrich-merz-was-der-cdu-chef-dem-land-jetzt-schuldet-a-f2a53fcf-e4ac-42e9-be4d-b9eb8fa8df81#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### china
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verbannt-privathandys-aus-den-amtsstuben-spionagegefahr](https://www.spiegel.de/politik/deutschland/boris-pistorius-verbannt-privathandys-aus-den-amtsstuben-spionagegefahr-a-f3e7b805-fcf6-4c42-ab20-dbd1cd1fa683#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-* [https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen](https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen-a-99dc7584-e913-4069-a695-56e6261b5d58#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/geschichte/gewalt-im-kreisssaal-in-gebaerhaeusern-ging-es-zu-wie-in-einer-autowerkstatt](https://www.spiegel.de/geschichte/gewalt-im-kreisssaal-in-gebaerhaeusern-ging-es-zu-wie-in-einer-autowerkstatt-a-8ec0805b-6015-4ab2-a417-6acb8e74c060#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich](https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich-a-0e5ad457-c790-4db2-a30d-327e39b30f9a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann-a-baa3934f-52fe-4b90-a1f7-2885950433bb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis-a-05a8c5a7-cbf7-42d3-be5b-4b444304d45c#ref=rss)
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt-a-16072538-873d-49bf-ae68-525bf493e605#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-fuehrungskraefte-diskutierten-persoenliche-fehlzeiten-hunderter-mitarbeiter](https://www.spiegel.de/wirtschaft/unternehmen/vw-fuehrungskraefte-diskutierten-persoenliche-fehlzeiten-hunderter-mitarbeiter-a-04db5063-bad4-421f-a399-b0fdf6278579#ref=rss)
-### mutmaßlichen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt-a-16072538-873d-49bf-ae68-525bf493e605#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-### penny
-
-* [https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten](https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten-a-68e66993-3aee-49b3-ab9f-1e032c223dd5#ref=rss)
-### halten
-
-* [https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten](https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten-a-68e66993-3aee-49b3-ab9f-1e032c223dd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich](https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich-a-0e5ad457-c790-4db2-a30d-327e39b30f9a#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten](https://www.spiegel.de/netzwelt/apps/penny-darf-extra-rabatte-per-app-anbieten-a-68e66993-3aee-49b3-ab9f-1e032c223dd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann-a-baa3934f-52fe-4b90-a1f7-2885950433bb#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich](https://www.spiegel.de/panorama/justiz/muenchen-proiranische-terrorgruppe-reklamiert-anschlag-auf-israelisches-restaurant-fuer-sich-a-0e5ad457-c790-4db2-a30d-327e39b30f9a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich](https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich-a-d92c0a91-048f-4678-81ca-ae0deffd991e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-### tankrabatt
-
-* [https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich](https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich-a-d92c0a91-048f-4678-81ca-ae0deffd991e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich](https://www.spiegel.de/wirtschaft/service/diesel-und-benzin-spritpreise-sinken-deutlich-a-d92c0a91-048f-4678-81ca-ae0deffd991e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz](https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz-a-d6ceb199-aa36-4cc9-a556-e3379f9be87f#ref=rss)
-### ehemann
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann-a-baa3934f-52fe-4b90-a1f7-2885950433bb#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-gericht-verurteilt-79-jaehrige-wegen-mord-an-ihrem-krebskranken-ehemann-a-baa3934f-52fe-4b90-a1f7-2885950433bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutschen-industriestrompreis-a-05a8c5a7-cbf7-42d3-be5b-4b444304d45c#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-### tresor
-
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-### findet
-
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-### darin
-
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-### goldbarren
-
-* [https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren](https://www.spiegel.de/panorama/trostberg-mann-kauft-tresor-und-findet-darin-goldbarren-a-2dbabfbe-9483-4a1b-b8eb-b95e7a5a8a41#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung](https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung-a-bbacbaac-3c87-4786-9554-82be99ff5f82#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung](https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung-a-bbacbaac-3c87-4786-9554-82be99ff5f82#ref=rss)
-### deniz
-
-* [https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung](https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung-a-bbacbaac-3c87-4786-9554-82be99ff5f82#ref=rss)
-### undav
-
-* [https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung](https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung-a-bbacbaac-3c87-4786-9554-82be99ff5f82#ref=rss)
-### jugendamt
-
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt-a-16072538-873d-49bf-ae68-525bf493e605#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt-a-16072538-873d-49bf-ae68-525bf493e605#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-die-akte-wutzkyallee-vertuschung-und-taeterschutz-durchs-jugendamt-a-16072538-873d-49bf-ae68-525bf493e605#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### coco
-
-* [https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten](https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten-a-2ee30316-b492-4f55-b499-4dc047069082#ref=rss)
-### gauff
-
-* [https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten](https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten-a-2ee30316-b492-4f55-b499-4dc047069082#ref=rss)
-### aufnahmen
-
-* [https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten](https://www.spiegel.de/panorama/coco-gauff-tennisspielerin-kritisiert-medien-fuer-aufnahmen-beim-beten-a-2ee30316-b492-4f55-b499-4dc047069082#ref=rss)
-### fürstenwalde
-
-* [https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/fuerstenwalde-gruppe-jugendlicher-soll-zwei-maedchen-missbraucht-haben-a-4055cfd1-ae82-4442-9c75-8573001b0bbe#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/iran-israel-krieg-libanon-benjamin-netanyahu-soll-mit-joseph-aoun-telefonieren](https://www.spiegel.de/ausland/iran-israel-krieg-libanon-benjamin-netanyahu-soll-mit-joseph-aoun-telefonieren-a-3bce6a6d-5da0-4aef-9c53-770c79bd28f0#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-als-sein-eigener-michelangelo-aufregung-um-seine-jesus-bilder](https://www.spiegel.de/kultur/donald-trump-als-sein-eigener-michelangelo-aufregung-um-seine-jesus-bilder-a-abc4795b-7e4b-4efb-b197-aa1d9c984ee9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump](https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump-a-04919550-bc7a-4d59-b7b4-5fc3b1b37cdd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/iran-israel-krieg-libanon-benjamin-netanyahu-soll-mit-joseph-aoun-telefonieren](https://www.spiegel.de/ausland/iran-israel-krieg-libanon-benjamin-netanyahu-soll-mit-joseph-aoun-telefonieren-a-3bce6a6d-5da0-4aef-9c53-770c79bd28f0#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein](https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein-a-1b2373cc-cd60-434d-a233-b62b11c54027#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-als-sein-eigener-michelangelo-aufregung-um-seine-jesus-bilder](https://www.spiegel.de/kultur/donald-trump-als-sein-eigener-michelangelo-aufregung-um-seine-jesus-bilder-a-abc4795b-7e4b-4efb-b197-aa1d9c984ee9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump](https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump-a-04919550-bc7a-4d59-b7b4-5fc3b1b37cdd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-satireserie-beef-deformiert-von-der-gier-nach-mehr](https://www.spiegel.de/kultur/netflix-satireserie-beef-deformiert-von-der-gier-nach-mehr-a-9d4a38e5-111e-489b-a95d-2240178d8b32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos](https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos-a-d2fa9f8f-b0ba-4de5-be13-9235355cb783#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv-a-8d0676ce-ee1e-4c2d-b413-851d9deca255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen](https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen-a-90bddcc0-12fe-43a2-93bf-7d907de75d30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel](https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel-a-733a8e85-e1c1-437c-ac69-00d4412d6360#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### champions
+* [https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch](https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch-a-3e5100f1-525f-475d-8023-cfb360577ba7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall](https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall-a-8767bbaf-5d72-4051-8dba-fc5aaca88003#ref=rss)
+### bundesgerichtshof
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### league
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam](https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam-a-97017263-3330-4da5-a2d0-dfdc03a5ffbf#ref=rss)
+### arabischen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### paris
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+### luigi
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-### duell
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef](https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef-a-0894e669-5898-4c2c-a8a0-5cea3a85fa96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### pantisano
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa](https://www.spiegel.de/sport/fussball/fc-bayern-in-der-champions-league-jetzt-kommt-paris-saint-germain-die-formstaerkste-mannschaft-in-europa-a-e73ae0b6-60de-425f-9ba9-451731856c87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-### weniger
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef](https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef-a-0894e669-5898-4c2c-a8a0-5cea3a85fa96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### linkenchef
 
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-### unterstützung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef](https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef-a-0894e669-5898-4c2c-a8a0-5cea3a85fa96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-### prozent
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel](https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel-a-733a8e85-e1c1-437c-ac69-00d4412d6360#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-* [https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen](https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen-a-72da8368-ecf5-4dff-b969-e5bb11a63b43#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+### union
 
-* [https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung](https://www.spiegel.de/wirtschaft/elterngeld-immer-weniger-menschen-beziehen-in-deutschland-unterstuetzung-a-58384c9a-9aa8-4a0b-8f4b-fe287df517b4#ref=rss)
-* [https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen](https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen-a-72da8368-ecf5-4dff-b969-e5bb11a63b43#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung](https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung-a-2c151e20-d306-43d8-85e1-1b7b484b519b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+### jva
 
-* [https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz](https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz-a-d6ceb199-aa36-4cc9-a556-e3379f9be87f#ref=rss)
-### witwe
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe-a-8edc91f2-531f-469c-8ae9-ab50b0e5057a#ref=rss)
+### augsburggablingen
 
-* [https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz](https://www.spiegel.de/panorama/justiz/usa-bundesstaat-new-york-witwe-klagt-nach-toedlichem-mrt-vorfall-auf-schadenersatz-a-d6ceb199-aa36-4cc9-a556-e3379f9be87f#ref=rss)
-### bundestag
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe-a-8edc91f2-531f-469c-8ae9-ab50b0e5057a#ref=rss)
+### anklage
 
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-### kritik
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe-a-8edc91f2-531f-469c-8ae9-ab50b0e5057a#ref=rss)
+### beamte
 
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### opposition
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe-a-8edc91f2-531f-469c-8ae9-ab50b0e5057a#ref=rss)
+### sicherungsgruppe
 
-* [https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag](https://www.spiegel.de/politik/deutschland/tankrabatt-hitzige-debatte-im-bundestag-a-e41e1678-f709-4eae-bbef-1b787b7b36f2#ref=rss)
-* [https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen](https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen-a-72da8368-ecf5-4dff-b969-e5bb11a63b43#ref=rss)
-### spionagegefahr
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anklage-gegen-zehn-fruehere-beamte-der-sicherungsgruppe-a-8edc91f2-531f-469c-8ae9-ab50b0e5057a#ref=rss)
+### bezirk
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verbannt-privathandys-aus-den-amtsstuben-spionagegefahr](https://www.spiegel.de/politik/deutschland/boris-pistorius-verbannt-privathandys-aus-den-amtsstuben-spionagegefahr-a-f3e7b805-fcf6-4c42-ab20-dbd1cd1fa683#ref=rss)
-### josip
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+### reinickendorf
 
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-### stanišić
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+### fuchs
 
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-### antonio
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-### rüdiger
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+### zieht
 
-* [https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor](https://www.spiegel.de/sport/fussball/fussball-josip-stanisic-wirft-antonio-ruediger-fehlverhalten-vor-a-7e8acfae-2cfe-4cbf-8ca9-c1cc47e0178f#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs](https://www.spiegel.de/panorama/berlin-bezirk-reinickendorf-warnt-vor-aggressivem-fuchs-a-366ab58e-d715-4014-acc5-248bd7c6cbec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-### legt
+* [https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv-a-8d0676ce-ee1e-4c2d-b413-851d9deca255#ref=rss)
+### junge
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-* [https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein](https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein-a-1b2373cc-cd60-434d-a233-b62b11c54027#ref=rss)
-### quartal
+* [https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv-a-8d0676ce-ee1e-4c2d-b413-851d9deca255#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos](https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos-a-d2fa9f8f-b0ba-4de5-be13-9235355cb783#ref=rss)
+### stärker
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-### irankriegs
+* [https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-naziland-reise-in-deutschlands-dunkle-ecken-spiegel-tv-a-8d0676ce-ee1e-4c2d-b413-851d9deca255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu](https://www.spiegel.de/wirtschaft/china-wirtschaft-legt-im-ersten-quartal-trotz-irankriegs-deutlich-zu-a-4a00760a-7198-415b-bb69-5eb8fdee1336#ref=rss)
-### polizist
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-einziehung-von-berliner-clan-immobilien-rechtmaessig-a-f15457fb-8cf1-4580-9b63-c4aaefa3e29a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
+### einst
 
-* [https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen](https://www.spiegel.de/ausland/china-polizist-auf-der-flucht-vor-schloss-neuschwanstein-setzte-er-sich-ab-nun-enthuellt-er-pekings-verbrechen-a-99dc7584-e913-4069-a695-56e6261b5d58#ref=rss)
-### tiere
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef](https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef-a-0894e669-5898-4c2c-a8a0-5cea3a85fa96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wissenschaft/natur/maikaefer-500-millionen-tiere-bald-in-hessen-unterwegs](https://www.spiegel.de/wissenschaft/natur/maikaefer-500-millionen-tiere-bald-in-hessen-unterwegs-a-e6798b29-58c5-48fd-91fc-d3d2e37a8abb#ref=rss)
-### unterwegs
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef](https://www.spiegel.de/politik/deutschland/news-des-tages-initiative-fehlzeitenquote-bei-vw-proiranische-gruppe-bekennt-sich-zu-anschlag-luigi-pantisano-als-neuer-linkenchef-a-0894e669-5898-4c2c-a8a0-5cea3a85fa96#ref=rss)
+* [https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch](https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch-a-3e5100f1-525f-475d-8023-cfb360577ba7#ref=rss)
+### professor
 
-* [https://www.spiegel.de/wissenschaft/natur/maikaefer-500-millionen-tiere-bald-in-hessen-unterwegs](https://www.spiegel.de/wissenschaft/natur/maikaefer-500-millionen-tiere-bald-in-hessen-unterwegs-a-e6798b29-58c5-48fd-91fc-d3d2e37a8abb#ref=rss)
-### blitzerapp
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+### viral
 
-* [https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick](https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick-a-6491d0d0-d573-41ad-ad69-52bef351ab60#ref=rss)
-### überblick
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick](https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick-a-6491d0d0-d573-41ad-ad69-52bef351ab60#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral](https://www.spiegel.de/ausland/irankrieg-und-propaganda-der-regimetreue-professor-hassan-ahmadian-geht-in-arabischen-tv-shows-viral-a-99e45c6c-b59f-4b80-8941-68d24350cae9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+### mir
 
-* [https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick](https://www.spiegel.de/mobilitaet/auto/speedweek-kontrollen-geldbussen-blitzer-app-der-ueberblick-a-6491d0d0-d573-41ad-ad69-52bef351ab60#ref=rss)
-* [https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft](https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft-a-10e04b67-fd69-4ce0-a04c-916f8cb882fc#ref=rss)
-### berufseinstieg
+* [https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch](https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch-a-3e5100f1-525f-475d-8023-cfb360577ba7#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft](https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft-a-10e04b67-fd69-4ce0-a04c-916f8cb882fc#ref=rss)
-### studium
-
-* [https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft](https://www.spiegel.de/start/arbeitsleben-warum-erschoepft-der-berufseinstieg-so-und-was-hilft-a-10e04b67-fd69-4ce0-a04c-916f8cb882fc#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen](https://www.spiegel.de/ausland/indien-parlament-soll-frauenquote-bekommen-a-72da8368-ecf5-4dff-b969-e5bb11a63b43#ref=rss)
-### kreißsaal
-
-* [https://www.spiegel.de/geschichte/gewalt-im-kreisssaal-in-gebaerhaeusern-ging-es-zu-wie-in-einer-autowerkstatt](https://www.spiegel.de/geschichte/gewalt-im-kreisssaal-in-gebaerhaeusern-ging-es-zu-wie-in-einer-autowerkstatt-a-8ec0805b-6015-4ab2-a417-6acb8e74c060#ref=rss)
-### schiedsrichter
-
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### verantwortlich
-
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-macht-schiedsrichter-vincic-fuer-aus-verantwortlich-a-53e8cd40-da80-45fe-9462-201152b6e75c#ref=rss)
-### jd
-
-* [https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein](https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein-a-1b2373cc-cd60-434d-a233-b62b11c54027#ref=rss)
-### vance
-
-* [https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein](https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein-a-1b2373cc-cd60-434d-a233-b62b11c54027#ref=rss)
+* [https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch](https://www.spiegel.de/sport/champions-league-erfolge-oh-gott-ist-mir-der-fc-bayern-muenchen-auf-einmal-sympathisch-a-3e5100f1-525f-475d-8023-cfb360577ba7#ref=rss)
 ### papst
 
-* [https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein](https://www.spiegel.de/ausland/jd-vance-raet-papst-leo-xiv-vorsichtig-zu-sein-a-1b2373cc-cd60-434d-a233-b62b11c54027#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+### leo
 
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-was-der-cdu-chef-dem-land-jetzt-schuldet](https://www.spiegel.de/wirtschaft/friedrich-merz-was-der-cdu-chef-dem-land-jetzt-schuldet-a-f2a53fcf-e4ac-42e9-be4d-b9eb8fa8df81#ref=rss)
-### tanit
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+### welt
 
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### koch
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump](https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump-a-04919550-bc7a-4d59-b7b4-5fc3b1b37cdd#ref=rss)
+### washington
 
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### widmet
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+### denkt
 
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### ndr
+* [https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt](https://www.spiegel.de/ausland/papst-leo-xiv-donald-trump-pontifex-spricht-von-handvoll-tyrannen-auf-der-welt-a-4b59f7d0-68b3-4ad8-8ebc-f4b387dd62f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### beef
 
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
-### polizisten
+* [https://www.spiegel.de/kultur/netflix-satireserie-beef-deformiert-von-der-gier-nach-mehr](https://www.spiegel.de/kultur/netflix-satireserie-beef-deformiert-von-der-gier-nach-mehr-a-9d4a38e5-111e-489b-a95d-2240178d8b32#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten](https://www.spiegel.de/kultur/tv/tanit-koch-neue-ndr-moderatorin-widmet-ihre-erste-klar-sendung-der-gewalt-gegen-polizisten-a-dbfa3766-c2ea-47d0-b4c8-aae384f87fd7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-in-der-ostsee-mit-tuechern-abgedeckt-rettungsversuch-verzoegert-sich](https://www.spiegel.de/wissenschaft/natur/wal-in-der-ostsee-mit-tuechern-abgedeckt-rettungsversuch-verzoegert-sich-a-4bdea978-19d8-450d-af91-d9ef31bb979d#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe](https://www.spiegel.de/ausland/israel-libanon-donald-trump-verkuendet-zehntaegige-waffenruhe-a-588230da-b911-494d-95e3-d88ea8585b58#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+### signaberater
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+### alfred
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+### gusenbauer
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer](https://www.spiegel.de/wirtschaft/oesterreich-ermittlungen-gegen-ex-kanzler-und-signa-berater-alfred-gusenbauer-a-ea9fdd88-3b13-4138-a7ba-a2ab4f37a05d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam](https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam-a-97017263-3330-4da5-a2d0-dfdc03a5ffbf#ref=rss)
+### streichen
+
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung](https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung-a-2c151e20-d306-43d8-85e1-1b7b484b519b#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten](https://www.spiegel.de/wirtschaft/gesundheitsministerin-nina-warken-will-gutverdiener-staerker-belasten-a-b8cac005-afc0-4dc8-85d0-7be77f904aff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen](https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen-a-90bddcc0-12fe-43a2-93bf-7d907de75d30#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam](https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam-a-97017263-3330-4da5-a2d0-dfdc03a5ffbf#ref=rss)
+### klausel
+
+* [https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam](https://www.spiegel.de/netzwelt/netflix-bundesgerichtshof-erklaert-klausel-bei-streaminganbieter-fuer-unwirksam-a-97017263-3330-4da5-a2d0-dfdc03a5ffbf#ref=rss)
+### schwarzfahren
+
+* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung](https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung-a-2c151e20-d306-43d8-85e1-1b7b484b519b#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung](https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung-a-2c151e20-d306-43d8-85e1-1b7b484b519b#ref=rss)
+### entkriminalisierung
+
+* [https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung](https://www.spiegel.de/politik/deutschland/schwarzfahren-bundestag-stimmt-vorerst-gegen-entkriminalisierung-a-2c151e20-d306-43d8-85e1-1b7b484b519b#ref=rss)
+### rewe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rewe-will-bis-zu-40-tegut-maerkte-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/rewe-will-bis-zu-40-tegut-maerkte-uebernehmen-a-0e50e815-c79f-4a19-9988-c8108452523a#ref=rss)
+### seres
+
+* [https://www.spiegel.de/mobilitaet/auto/e-auto-hersteller-seres-laesst-sich-bord-klo-patentieren](https://www.spiegel.de/mobilitaet/auto/e-auto-hersteller-seres-laesst-sich-bord-klo-patentieren-a-0564dc43-afb3-4e65-9d3a-ef55fe2f4678#ref=rss)
+### bordklo
+
+* [https://www.spiegel.de/mobilitaet/auto/e-auto-hersteller-seres-laesst-sich-bord-klo-patentieren](https://www.spiegel.de/mobilitaet/auto/e-auto-hersteller-seres-laesst-sich-bord-klo-patentieren-a-0564dc43-afb3-4e65-9d3a-ef55fe2f4678#ref=rss)
+### marielouise
+
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+### eta
+
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball](https://www.spiegel.de/sport/fussball/marie-louise-eta-startet-beim-1-fc-union-berlin-mit-anpfiff-ist-dann-fussball-a-f7adfb3b-29e6-46b1-b916-bcb1d43c88b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall](https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall-a-8767bbaf-5d72-4051-8dba-fc5aaca88003#ref=rss)
+### manninger
+
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall](https://www.spiegel.de/sport/fussball/alexander-manninger-oesterreichs-ex-nationaltorwart-stirbt-bei-unfall-a-8767bbaf-5d72-4051-8dba-fc5aaca88003#ref=rss)
+### fall
+
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen](https://www.spiegel.de/wirtschaft/gluecksspiel-eu-gerichtshof-staerkt-position-von-spielern-bei-rueckerstattungsklagen-a-90bddcc0-12fe-43a2-93bf-7d907de75d30#ref=rss)
+* [https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd](https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd-a-2ca08185-9e53-4f3d-b23f-82cbf5426bed#ref=rss)
+### lula
+
+* [https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump](https://www.spiegel.de/ausland/brasilien-lula-fordert-selbstachtung-im-umgang-mit-donald-trump-a-04919550-bc7a-4d59-b7b4-5fc3b1b37cdd#ref=rss)
+### kerosin
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel](https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel-a-733a8e85-e1c1-437c-ac69-00d4412d6360#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel](https://www.spiegel.de/wirtschaft/irankrieg-europa-soll-nur-noch-etwa-sechs-wochen-kerosin-haben-katherina-reiche-sieht-keinen-mangel-a-733a8e85-e1c1-437c-ac69-00d4412d6360#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd](https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd-a-2ca08185-9e53-4f3d-b23f-82cbf5426bed#ref=rss)
+### afd
+
+* [https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd](https://www.spiegel.de/kultur/sachsen-anhalt-kulturinstitutionen-warnen-vor-der-afd-a-2ca08185-9e53-4f3d-b23f-82cbf5426bed#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
+### straße
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
+### möglichen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutschland-bietet-minenraeumung-und-aufklaerung-in-der-strasse-von-hormus-an-a-ad9d7dff-9507-4032-ad42-63bd4d975a4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef](https://www.spiegel.de/politik/deutschland/brueckenbauer-oder-radikaler-aktivist-so-denkt-die-linke-ueber-ihren-moeglichen-neuen-chef-a-51d3b826-5278-4c03-8196-52713775044d#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos](https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos-a-d2fa9f8f-b0ba-4de5-be13-9235355cb783#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos](https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos-a-d2fa9f8f-b0ba-4de5-be13-9235355cb783#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos](https://www.spiegel.de/ausland/frankreich-maedchen-und-frauen-erhalten-wiederverwendbare-periodenprodukte-bald-kostenlos-a-d2fa9f8f-b0ba-4de5-be13-9235355cb783#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
+### kenia
+
+* [https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck](https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck-a-8756fad4-f443-47c5-8e41-c6ec909b3e0d#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck](https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck-a-8756fad4-f443-47c5-8e41-c6ec909b3e0d#ref=rss)
+### gepäck
+
+* [https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck](https://www.spiegel.de/panorama/kenia-chinese-fuer-ameisen-schmuggel-zu-haftstrafe-verurteilt-2200-tiere-im-gepaeck-a-8756fad4-f443-47c5-8e41-c6ec909b3e0d#ref=rss)
+### ellison
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
+### warner
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
+### bros
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
+### kaufen
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump](https://www.spiegel.de/kultur/tv/donald-trump-paramount-boss-ellison-will-warner-bros-kaufen-und-schmeisst-ein-fest-fuer-trump-a-0a77d0e9-7a4b-4366-95a0-091c662e96d3#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust](https://www.spiegel.de/wirtschaft/unternehmen/bosch-meldet-erstmals-seit-finanzkrise-verlust-a-29f975bd-eff6-4407-a54a-ee38840369c0#ref=rss)
 
