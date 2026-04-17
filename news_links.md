@@ -6,308 +6,356 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine](https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine-a-9a1bfb40-e42b-42d9-8a54-0d9b0726dfa5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal](https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal-a-c47416a3-d3c3-4b08-8a78-d60c0fc93bd0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine](https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine-a-9a1bfb40-e42b-42d9-8a54-0d9b0726dfa5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal](https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal-a-c47416a3-d3c3-4b08-8a78-d60c0fc93bd0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### reform
-
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer](https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer-a-32629453-4b22-40ad-9635-4bf5be864c23#ref=rss)
-### nina
-
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### warken
-
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### gut
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder](https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder-a-a9f12ec0-0932-4ac0-a5c2-bdbbd3c15699#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka](https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka-a-7ab71a32-fd71-4e16-bcbf-f4de36790ec2#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher](https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher-a-d87e8167-7303-4be5-b744-fe648d0b1382#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer](https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer-a-32629453-4b22-40ad-9635-4bf5be864c23#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-neue-regeln-fuer-by-now-pay-later-kaeufe](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-neue-regeln-fuer-by-now-pay-later-kaeufe-a-6933ee52-e562-46b2-b9e5-978bd683a4ec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik](https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik-a-3fed08d6-4040-412f-8515-511b12066b3b#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps](https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps-a-7f1c2417-02d6-479f-94ee-88069777c5e5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger](https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger-a-b1753c0a-8357-4a89-b2e0-f021bb96aa65#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps](https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps-a-7f1c2417-02d6-479f-94ee-88069777c5e5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-### wal
-
-* [https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll](https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll-a-59381b27-feda-477a-9e9b-039e9c7e2bb2#ref=rss)
-### dank
-
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### pete
-
-* [https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs](https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs-a-551b4244-4072-4c38-860b-219860590192#ref=rss)
-### hegseth
-
-* [https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs](https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs-a-551b4244-4072-4c38-860b-219860590192#ref=rss)
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs](https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs-a-551b4244-4072-4c38-860b-219860590192#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen](https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen-a-1542e4eb-6832-4b03-9577-636712d5d636#ref=rss)
-### überblick
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
+* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs](https://www.spiegel.de/ausland/pete-hegseth-usa-der-possenminister-die-skandale-des-pentagon-chefs-a-551b4244-4072-4c38-860b-219860590192#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder](https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder-a-a9f12ec0-0932-4ac0-a5c2-bdbbd3c15699#ref=rss)
-### menschen
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### straße
 
-* [https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine](https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine-a-9a1bfb40-e42b-42d9-8a54-0d9b0726dfa5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik](https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik-a-3fed08d6-4040-412f-8515-511b12066b3b#ref=rss)
-### time
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### hormus
 
-* [https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine](https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine-a-9a1bfb40-e42b-42d9-8a54-0d9b0726dfa5#ref=rss)
-### magazine
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine](https://www.spiegel.de/kultur/papst-leo-donald-trump-zoe-saldana-alysa-liu-das-sind-die-100-einflussreichsten-menschen-2026-laut-time-magazine-a-9a1bfb40-e42b-42d9-8a54-0d9b0726dfa5#ref=rss)
-### gesundheitsministerin
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### gebracht
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-### allem
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### papst
 
-* [https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht](https://www.spiegel.de/wirtschaft/sparplaene-im-gesundheitswesen-eine-gerechte-reform-ist-das-nicht-a-9f9d9b33-5623-4484-a374-323d4fef425d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger](https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger-a-b1753c0a-8357-4a89-b2e0-f021bb96aa65#ref=rss)
-### marineinspekteur
-
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte-a-367ab598-afb8-471f-92d4-aa4e22a275e4#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte-a-367ab598-afb8-471f-92d4-aa4e22a275e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka](https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka-a-7ab71a32-fd71-4e16-bcbf-f4de36790ec2#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-marine-inspekteur-warnt-vor-ueberlastung-der-seestreitkraefte-a-367ab598-afb8-471f-92d4-aa4e22a275e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka](https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka-a-7ab71a32-fd71-4e16-bcbf-f4de36790ec2#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/ansbach-frau-wird-von-eigenem-hund-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/justiz/ansbach-frau-wird-von-eigenem-hund-gebissen-und-schwer-verletzt-a-4a26860a-3e36-4686-a5dc-253d9c3cf028#ref=rss)
-### hund
-
-* [https://www.spiegel.de/panorama/justiz/ansbach-frau-wird-von-eigenem-hund-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/justiz/ansbach-frau-wird-von-eigenem-hund-gebissen-und-schwer-verletzt-a-4a26860a-3e36-4686-a5dc-253d9c3cf028#ref=rss)
-### chips
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder](https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder-a-a9f12ec0-0932-4ac0-a5c2-bdbbd3c15699#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder](https://www.spiegel.de/gesundheit/ernaehrung/wurst-chips-tiefkuehlpizza-so-schaedlich-sind-fertigprodukte-fuer-kinder-a-a9f12ec0-0932-4ac0-a5c2-bdbbd3c15699#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-### island
-
-* [https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher](https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher-a-d87e8167-7303-4be5-b744-fe648d0b1382#ref=rss)
-### stechmücken
-
-* [https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher](https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher-a-d87e8167-7303-4be5-b744-fe648d0b1382#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher](https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher-a-d87e8167-7303-4be5-b744-fe648d0b1382#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik](https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik-a-3fed08d6-4040-412f-8515-511b12066b3b#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher](https://www.spiegel.de/wissenschaft/natur/island-entdeckung-von-stech-muecken-alarmiert-forscher-a-d87e8167-7303-4be5-b744-fe648d0b1382#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen](https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen-a-1542e4eb-6832-4b03-9577-636712d5d636#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-neue-regeln-fuer-by-now-pay-later-kaeufe](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-neue-regeln-fuer-by-now-pay-later-kaeufe-a-6933ee52-e562-46b2-b9e5-978bd683a4ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union](https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union-a-0b562b94-6f8a-4390-bb2d-864e61a2211f#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis](https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis-a-ec912a97-5349-474c-ae46-e30bf3f91290#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech](https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech-a-ad88631b-d7b3-4635-b447-e4f3ac7e6482#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis](https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis-a-ec912a97-5349-474c-ae46-e30bf3f91290#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis](https://www.spiegel.de/ausland/grossbritannien-mandelson-sicherheitsdebakel-bringt-keir-starmer-in-bedraengnis-a-ec912a97-5349-474c-ae46-e30bf3f91290#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union](https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union-a-0b562b94-6f8a-4390-bb2d-864e61a2211f#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-### unternehmerin
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-### bestreitet
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin](https://www.spiegel.de/panorama/justiz/christina-block-verdacht-der-kindesentziehung-neue-ermittlungen-belasten-unternehmerin-a-b32a3166-2e93-43ca-9f6b-74e3956f8200#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat](https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat-a-93211d28-ee76-4968-b2f9-d04876c2922f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### europas
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat](https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat-a-93211d28-ee76-4968-b2f9-d04876c2922f#ref=rss)
-### luftfahrt
-
-* [https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat](https://www.spiegel.de/wirtschaft/iran-krieg-warum-europas-luftfahrt-ein-kerosin-problem-hat-a-93211d28-ee76-4968-b2f9-d04876c2922f#ref=rss)
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
 ### uspräsident
 
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal](https://www.spiegel.de/ausland/donald-trump-us-praesident-attackiert-richter-nach-baustopp-fuer-ballsaal-a-c47416a3-d3c3-4b08-8a78-d60c0fc93bd0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### umsatzsteuer
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer](https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer-a-32629453-4b22-40ad-9635-4bf5be864c23#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer](https://www.spiegel.de/wirtschaft/wirtschaftsforscher-plaedieren-fuer-radikale-reform-der-umsatzsteuer-a-32629453-4b22-40ad-9635-4bf5be864c23#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bosse-singt-ueber-hass-im-netz-die-reaktionen-ueberraschen-ihn](https://www.spiegel.de/panorama/leute/bosse-singt-ueber-hass-im-netz-die-reaktionen-ueberraschen-ihn-a-4b732c3e-dfba-4704-9595-eecf58a37597#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps](https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps-a-7f1c2417-02d6-479f-94ee-88069777c5e5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger](https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger-a-b1753c0a-8357-4a89-b2e0-f021bb96aa65#ref=rss)
-### paar
-
-* [https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps](https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps-a-7f1c2417-02d6-479f-94ee-88069777c5e5#ref=rss)
-### spritsparen
-
-* [https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps](https://www.spiegel.de/wirtschaft/diesel-benzin-dieses-paar-haelt-den-weltrekord-im-spritsparen-das-sind-seine-tipps-a-7f1c2417-02d6-479f-94ee-88069777c5e5#ref=rss)
-### american
-
-* [https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans](https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans-a-7d055703-8aff-4cb7-992a-11b15fb80785#ref=rss)
-### shannon
-
-* [https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans](https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans-a-7d055703-8aff-4cb7-992a-11b15fb80785#ref=rss)
-### elizabeth
-
-* [https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans](https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans-a-7d055703-8aff-4cb7-992a-11b15fb80785#ref=rss)
-### onlyfans
-
-* [https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans](https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans-a-7d055703-8aff-4cb7-992a-11b15fb80785#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans](https://www.spiegel.de/kultur/american-pie-star-shannon-elizabeth-ist-jetzt-bei-onlyfans-a-7d055703-8aff-4cb7-992a-11b15fb80785#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### lederfabrik
-
-* [https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik](https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik-a-3fed08d6-4040-412f-8515-511b12066b3b#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik](https://www.spiegel.de/panorama/justiz/runkel-kriminalpolizei-uebernimmt-ermittlungen-zu-toten-in-lederfabrik-a-3fed08d6-4040-412f-8515-511b12066b3b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll](https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll-a-59381b27-feda-477a-9e9b-039e9c7e2bb2#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll](https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll-a-59381b27-feda-477a-9e9b-039e9c7e2bb2#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### sänger
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen](https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen-a-1542e4eb-6832-4b03-9577-636712d5d636#ref=rss)
-### d4vd
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen](https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen-a-1542e4eb-6832-4b03-9577-636712d5d636#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen](https://www.spiegel.de/panorama/justiz/los-angeles-saenger-d4vd-wegen-mordverdachts-festgenommen-a-1542e4eb-6832-4b03-9577-636712d5d636#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union](https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union-a-0b562b94-6f8a-4390-bb2d-864e61a2211f#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union](https://www.spiegel.de/politik/deutschland/afd-umfragewerte-steigen-politbarometer-sieht-partei-erstmals-vor-der-union-a-0b562b94-6f8a-4390-bb2d-864e61a2211f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### samet
-
-* [https://www.spiegel.de/panorama/justiz/kiel-vorwuerfe-gegen-samet-yilmaz-wegen-abfrage-in-verfassungsschutz-datenbank](https://www.spiegel.de/panorama/justiz/kiel-vorwuerfe-gegen-samet-yilmaz-wegen-abfrage-in-verfassungsschutz-datenbank-a-02bd7a5d-7a99-4729-a94d-3d39521e835b#ref=rss)
-### yilmaz
-
-* [https://www.spiegel.de/panorama/justiz/kiel-vorwuerfe-gegen-samet-yilmaz-wegen-abfrage-in-verfassungsschutz-datenbank](https://www.spiegel.de/panorama/justiz/kiel-vorwuerfe-gegen-samet-yilmaz-wegen-abfrage-in-verfassungsschutz-datenbank-a-02bd7a5d-7a99-4729-a94d-3d39521e835b#ref=rss)
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### fußballnationalspielerinnen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### frei
 
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-### asyl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-### iranischen
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
+### wir
 
-* [https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien](https://www.spiegel.de/sport/fussball/iran-fussball-nationalspielerinnen-aeussern-dank-fuer-asyl-in-australien-a-48317364-2085-434b-a8ae-4dc754eda911#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-### euro
+* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger](https://www.spiegel.de/wirtschaft/diesel-und-benzin-sprit-schon-wieder-billiger-a-b1753c0a-8357-4a89-b2e0-f021bb96aa65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### nennt
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik](https://www.spiegel.de/politik/deutschland/nina-warken-nennt-eingeschraenkte-mitversicherung-von-ehepartnern-gelebte-frauenpolitik-a-20b548bb-29c4-4f1c-afef-1913b422ea47#ref=rss)
-### kleinen
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg](https://www.spiegel.de/ausland/donald-trump-nennt-irankrieg-kleinen-umweg-a-de3c3d3e-b7fe-423f-81fa-0840f8264c5f#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### lars
+* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+### landgericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht](https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht-a-9c783356-23d4-4d29-9e6f-d8c7f6826969#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### versucht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### sondervermögen
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### pete
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat](https://www.spiegel.de/wirtschaft/unternehmen/investitionen-warum-lars-klingbeil-ein-kontrollproblem-mit-dem-sondervermoegen-hat-a-a8644951-ac0f-4b06-8478-cde7670bed04#ref=rss)
-### juristin
+* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen](https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen-a-f2d2b715-3da8-415e-8f6e-6315d6416cfe#ref=rss)
-### kanzleramt
+* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
+### pulp
 
-* [https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen](https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen-a-f2d2b715-3da8-415e-8f6e-6315d6416cfe#ref=rss)
-### jahren
+* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
+### fiction
 
-* [https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen](https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen-a-f2d2b715-3da8-415e-8f6e-6315d6416cfe#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
+### eher
 
-* [https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen](https://www.spiegel.de/politik/juristin-aus-dem-kanzleramt-wechselt-zu-start-up-fuer-kamikazedrohnen-a-f2d2b715-3da8-415e-8f6e-6315d6416cfe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech](https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech-a-ad88631b-d7b3-4635-b447-e4f3ac7e6482#ref=rss)
-### iwf
+* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+### leo
 
-* [https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka](https://www.spiegel.de/wirtschaft/iwf-warnt-europa-vor-energie-bazooka-a-7ab71a32-fd71-4e16-bcbf-f4de36790ec2#ref=rss)
-### bosse
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/panorama/leute/bosse-singt-ueber-hass-im-netz-die-reaktionen-ueberraschen-ihn](https://www.spiegel.de/panorama/leute/bosse-singt-ueber-hass-im-netz-die-reaktionen-ueberraschen-ihn-a-4b732c3e-dfba-4704-9595-eecf58a37597#ref=rss)
-### schleswigholstein
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
+### pontifex
 
-* [https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech](https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech-a-ad88631b-d7b3-4635-b447-e4f3ac7e6482#ref=rss)
-### steuerfreie
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech](https://www.spiegel.de/wirtschaft/schleswig-holstein-bringt-steuerfreie-ueberstunden-ins-gespraech-a-ad88631b-d7b3-4635-b447-e4f3ac7e6482#ref=rss)
-### hannover
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
+### fehlt
 
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
-### katze
+* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
+### spaltung
 
-* [https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck](https://www.spiegel.de/panorama/hannover-katze-perla-verschwand-vor-elf-jahren-jetzt-ist-sie-zurueck-a-348df5b8-d574-409e-9bbb-0efae0aa5387#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+### propagandasystem
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+### staatsfernsehen
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+### regierungschef
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+### tankstellen
+
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
+### sprit
+
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+### vorbei
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+### versuchte
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### jessie
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+### ware
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+### tomora
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
+### 40
+
+* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
+* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
+### reform
+
+* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/playmobil-sozialplan-fuer-beschaeftigte-ausgehandelt-werkschliessung-im-sommer](https://www.spiegel.de/wirtschaft/unternehmen/playmobil-sozialplan-fuer-beschaeftigte-ausgehandelt-werkschliessung-im-sommer-a-994b1152-e069-4ff9-8df4-92c4466f5b8f#ref=rss)
+### signalisiert
+
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+### mission
+
+* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+### sparpaket
+
+* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
+### spargel
+
+* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
+### misohollandaise
+
+* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
+### supermayo
+
+* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
+### manninger
+
+* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht](https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht-a-9c783356-23d4-4d29-9e6f-d8c7f6826969#ref=rss)
+* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
+### victoria
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### beckham
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### brooklyn
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### alles
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### je
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### schützen
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### lieben
+
+* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
+### wintersemester
+
+* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
+### 85jährige
+
+* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
+### schweren
+
+* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+### springer
+
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+### burgard
+
+* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
+### heißt
+
+* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### tankstelle
+
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### überfahren
+
+* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
+### lana
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### del
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### rey
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### first
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+### light
+
+* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
 
