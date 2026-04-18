@@ -4,129 +4,361 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### laut
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert](https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert-a-20266042-c549-48a7-b534-2af3020ff62d#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+* [https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus-a-e8da14bd-6d18-4d9f-bc5c-e36ea8fa8d53#ref=rss)
 ### usa
 
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
 * [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
-* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### straße
+### offenbar
 
-* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### hormus
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+* [https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen](https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen-a-e744f4bc-76f5-410e-86cc-559deed7a68c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben](https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben-a-52bf5860-1527-4895-bdc4-7aebe9a55f91#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen](https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen-a-e992d777-e7ab-49f7-a879-4711c53b751c#ref=rss)
+### werder
 
-* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### trump
+* [https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf](https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf-a-eac4cc37-a00a-4d40-94e9-4f39f81352c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf](https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf-a-eac4cc37-a00a-4d40-94e9-4f39f81352c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-### bündnis
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-### katherina
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+### straße
 
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+### wirtschaftsministerin
+
+* [https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen](https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen-a-e744f4bc-76f5-410e-86cc-559deed7a68c#ref=rss)
 * [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
 ### reiche
 
+* [https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen](https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen-a-e744f4bc-76f5-410e-86cc-559deed7a68c#ref=rss)
 * [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen](https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen-a-e992d777-e7ab-49f7-a879-4711c53b751c#ref=rss)
+### poel
+
+* [https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert](https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert-a-20266042-c549-48a7-b534-2af3020ff62d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance](https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance-a-456102e4-a4d7-409f-8931-c45292857b6b#ref=rss)
+### wal
+
+* [https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert](https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert-a-20266042-c549-48a7-b534-2af3020ff62d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance](https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance-a-456102e4-a4d7-409f-8931-c45292857b6b#ref=rss)
+### sabrina
+
+* [https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente](https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente-a-04e8ef8d-16fe-4896-99d6-eac88ca28a0a#ref=rss)
+* [https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf](https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf-a-18fcac54-0bfc-474e-ac3c-750f2197b8dd#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente](https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente-a-04e8ef8d-16fe-4896-99d6-eac88ca28a0a#ref=rss)
+* [https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf](https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf-a-18fcac54-0bfc-474e-ac3c-750f2197b8dd#ref=rss)
+### roboter
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar-a-28d4d726-f026-41bc-a516-6f21db3dbdc9#ref=rss)
+### song
+
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+* [https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf](https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf-a-18fcac54-0bfc-474e-ac3c-750f2197b8dd#ref=rss)
 ### österreich
 
 * [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
 * [https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich](https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich-a-52e5e2a3-3e60-4783-a5ce-e055e291bcf8#ref=rss)
-### droht
+### nordderby
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### fdp
+* [https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf](https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf-a-eac4cc37-a00a-4d40-94e9-4f39f81352c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
+### abstiegskampf
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf](https://www.spiegel.de/sport/fussball/bundesliga-wildes-nordderby-zwischen-werder-bremen-und-hsv-im-abstiegskampf-a-eac4cc37-a00a-4d40-94e9-4f39f81352c0#ref=rss)
+### berlinneukölln
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-### kubicki
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-### davon
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+### escooter
 
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+### polizei
 
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben](https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben-a-52bf5860-1527-4895-bdc4-7aebe9a55f91#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt](https://www.spiegel.de/panorama/berlin-neukoelln-auto-erfasst-zwei-maedchen-auf-e-scooter-14-jaehrige-stirbt-a-4b394fa7-be43-4c91-9fdf-25ec48f5ddcf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+### öffnung
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+### wichtigen
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
+### planen
+
+* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-sich-in-strasse-von-hormus-nicht-erpressen-lassen-a-74a54922-1d16-4d94-b028-8da6b7ed7283#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen](https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen-a-e744f4bc-76f5-410e-86cc-559deed7a68c#ref=rss)
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+### montag
+
+* [https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen](https://www.spiegel.de/politik/luftfahrtbranche-in-sorge-wirtschaftsministerin-katherina-reiche-will-montag-ueber-kerosinversorgung-sprechen-a-e744f4bc-76f5-410e-86cc-559deed7a68c#ref=rss)
+### französischer
+
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+### soldat
+
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet](https://www.spiegel.de/ausland/libanon-franzoesischer-soldat-bei-uno-mission-im-libanon-getoetet-a-f3258c67-4e3a-492f-8510-6a26239123c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge](https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge-a-a9c5673d-9abe-453b-a943-1e138ae35005#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge](https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge-a-a9c5673d-9abe-453b-a943-1e138ae35005#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### länder
+
+* [https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge](https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge-a-a9c5673d-9abe-453b-a943-1e138ae35005#ref=rss)
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge](https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge-a-a9c5673d-9abe-453b-a943-1e138ae35005#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge](https://www.spiegel.de/wirtschaft/rente-sechs-schlaue-ideen-aus-anderen-laendern-fuer-eine-bessere-altersvorsorge-a-a9c5673d-9abe-453b-a943-1e138ae35005#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen](https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen-a-e992d777-e7ab-49f7-a879-4711c53b751c#ref=rss)
+### supermarkt
+
+* [https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt](https://www.spiegel.de/ausland/ukraine-mindestens-fuenf-tote-nach-schiesserei-in-kyjiw-und-geiselnahme-in-supermarkt-a-d6ee9b4a-b430-42f1-b7fa-138fe543972f#ref=rss)
+### rettungsversuch
+
+* [https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert](https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert-a-20266042-c549-48a7-b534-2af3020ff62d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance](https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance-a-456102e4-a4d7-409f-8931-c45292857b6b#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert](https://www.spiegel.de/wissenschaft/poel-wal-wird-laut-initiative-heute-nicht-transportiert-a-20266042-c549-48a7-b534-2af3020ff62d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie](https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie-a-821eb4b7-34b1-4aba-80fd-e8f4cff35b5e#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+### schlagzeilen
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter](https://www.spiegel.de/ausland/papst-leo-xiv-spielt-disput-mit-donald-trump-herunter-a-24774219-0aa4-40fe-97d3-1e42dbf3b23e#ref=rss)
+* [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
+### titel
+
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen](https://www.spiegel.de/sport/fussball/eta-premiere-ist-missglueckt-bayern-kann-mit-dem-vorzeitigen-titel-planen-a-7b0e3665-57ae-4811-ba52-2b169686bfec#ref=rss)
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+### coachella
+
+* [https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente](https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente-a-04e8ef8d-16fe-4896-99d6-eac88ca28a0a#ref=rss)
+* [https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf](https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf-a-18fcac54-0bfc-474e-ac3c-750f2197b8dd#ref=rss)
+### justin
+
+* [https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente](https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente-a-04e8ef8d-16fe-4896-99d6-eac88ca28a0a#ref=rss)
+### bieber
+
+* [https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente](https://www.spiegel.de/kultur/musik/coachella-festival-justin-bieber-david-byrne-und-die-besten-festivalmomente-a-04e8ef8d-16fe-4896-99d6-eac88ca28a0a#ref=rss)
+### grund
+
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung](https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung-a-becf249f-ce54-455e-8e10-0cfcb8445c37#ref=rss)
+### jeff
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### bezos
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### kumpel
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### psychogramm
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### gefallenen
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### idealisten
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten](https://www.spiegel.de/wirtschaft/jeff-bezos-vom-donald-trump-gegner-zu-dessen-kumpel-hat-er-seine-ideale-verraten-a-dd7010c6-f522-4924-9061-537a39ba536d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar-a-28d4d726-f026-41bc-a516-6f21db3dbdc9#ref=rss)
+### 20
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben](https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben-a-52bf5860-1527-4895-bdc4-7aebe9a55f91#ref=rss)
+* [https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf](https://www.spiegel.de/kultur/coachella-2026-madonna-tritt-ueberraschend-mit-sabrina-carpenter-auf-a-18fcac54-0bfc-474e-ac3c-750f2197b8dd#ref=rss)
+### bahnhöfe
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben](https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben-a-52bf5860-1527-4895-bdc4-7aebe9a55f91#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben](https://www.spiegel.de/wirtschaft/deutsche-bahn-will-offenbar-20-milliarden-fuer-schoenere-bahnhoefe-ausgeben-a-52bf5860-1527-4895-bdc4-7aebe9a55f91#ref=rss)
+* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-jetzt-tun-sollten](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-jetzt-tun-sollten-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
+### wann
+
+* [https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-jetzt-tun-sollten](https://www.spiegel.de/stil/garten-tipps-fuers-ganze-jahr-was-sie-jetzt-tun-sollten-a-c221460a-2048-4ed2-b86c-d30918a6f028#ref=rss)
+### humanoider
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar-a-28d4d726-f026-41bc-a516-6f21db3dbdc9#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ein-humanoider-roboter-wird-zum-internetstar-a-28d4d726-f026-41bc-a516-6f21db3dbdc9#ref=rss)
+* [https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts](https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts-a-3215ed46-d6f7-46a9-8b72-1a21440e8562#ref=rss)
+### fbichef
+
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+### kash
+
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+### patel
+
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+### falsch
+
+* [https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten](https://www.spiegel.de/ausland/usa-fbi-chef-kash-patel-soll-laut-us-magazin-seine-entlassung-fuerchten-a-74c65cb6-797d-459e-8d93-ea9ec49eff23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie](https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie-a-821eb4b7-34b1-4aba-80fd-e8f4cff35b5e#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### contest
+
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### wien
+
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### red
+
+* [https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung](https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung-a-becf249f-ce54-455e-8e10-0cfcb8445c37#ref=rss)
+### bull
+
+* [https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung](https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung-a-becf249f-ce54-455e-8e10-0cfcb8445c37#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung](https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung-a-becf249f-ce54-455e-8e10-0cfcb8445c37#ref=rss)
+* [https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts](https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts-a-3215ed46-d6f7-46a9-8b72-1a21440e8562#ref=rss)
+### denis
+
+* [https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen](https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen-a-e992d777-e7ab-49f7-a879-4711c53b751c#ref=rss)
+### scheck
+
+* [https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen](https://www.spiegel.de/kultur/literatur/druckfrisch-in-der-ard-denis-scheck-widmet-sendung-starken-frauen-a-e992d777-e7ab-49f7-a879-4711c53b751c#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts](https://www.spiegel.de/familie/mit-kindern-ueber-gefuehle-reden-so-gehts-a-3215ed46-d6f7-46a9-8b72-1a21440e8562#ref=rss)
+### revolutionswächter
+
+* [https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus-a-e8da14bd-6d18-4d9f-bc5c-e36ea8fa8d53#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus-a-e8da14bd-6d18-4d9f-bc5c-e36ea8fa8d53#ref=rss)
+### oman
+
+* [https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/britische-behoerde-meldet-beschuss-von-tanker-in-strasse-von-hormus-a-e8da14bd-6d18-4d9f-bc5c-e36ea8fa8d53#ref=rss)
+### handwerkspräsident
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie](https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie-a-821eb4b7-34b1-4aba-80fd-e8f4cff35b5e#ref=rss)
+### dittrich
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie](https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie-a-821eb4b7-34b1-4aba-80fd-e8f4cff35b5e#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie](https://www.spiegel.de/wirtschaft/entlastungspraemie-handwerkspraesident-joerg-dittrich-fordert-stopp-der-1000-euro-praemie-a-821eb4b7-34b1-4aba-80fd-e8f4cff35b5e#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance](https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance-a-456102e4-a4d7-409f-8931-c45292857b6b#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance](https://www.spiegel.de/wissenschaft/poel-schwimmplattform-erreicht-wal-experten-sehen-kaum-ueberlebenschance-a-456102e4-a4d7-409f-8931-c45292857b6b#ref=rss)
 ### russische
 
 * [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
-### moskaus
+### bündnis
 
-* [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
 ### vier
 
 * [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
 ### städten
 
 * [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
-* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
 ### sarah
 
 * [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
@@ -136,210 +368,4 @@ tags: __no_header__
 ### hipp
 
 * [https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich](https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich-a-52e5e2a3-3e60-4783-a5ce-e055e291bcf8#ref=rss)
-### fotografen
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
-### erzielte
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### eurovision
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-### song
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-### contest
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-### wien
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-### zoitzberg
-
-* [https://www.spiegel.de/panorama/zoitzberg-in-gera-jugendlicher-soll-flaechenbrand-an-liebschwitzer-huette-ausgeloest-haben](https://www.spiegel.de/panorama/zoitzberg-in-gera-jugendlicher-soll-flaechenbrand-an-liebschwitzer-huette-ausgeloest-haben-a-c75eb5a9-69c3-4e7d-bb79-a1c26613728d#ref=rss)
-### poel
-
-* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
-* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
-### wal
-
-* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
-### marine
-
-* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
-* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-### überschritten
-
-* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
-### kerosinmangel
-
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-### bas
-
-* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
-### kast
-
-* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
-### risiken
-
-* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
-### gefährlich
-
-* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
-### skoda
-
-* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
-### sitzen
-
-* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### beide
-
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-### seiten
-
-* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
-### libeskind
-
-* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-### amerikaner
-
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-### fördermittel
-
-* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
-### kuba
-
-* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
-### anthropic
-
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
-### felix
-
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-### klein
-
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-### hass
-
-* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
-### minenjagdboote
-
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-### york
-
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-### stadion
-
-* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
-### claude
-
-* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
-### mythos
-
-* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
 
