@@ -4,358 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
-* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### donald
-
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+* [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
 ### straße
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
 ### hormus
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### papst
-
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### frei
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
-### wir
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### donald
 
-* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### alexander
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+### bündnis
 
-* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+### katherina
 
-* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen](https://www.spiegel.de/ausland/usa-trump-will-verschwinden-von-wissenschaftlern-untersuchen-a-5ecd0425-f97e-4c36-b4d5-e3ed18e06823#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
-### waffenruhe
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon](https://www.spiegel.de/ausland/nahost-usa-verbieten-israel-laut-trump-weitere-angriffe-auf-den-libanon-a-ccae41e7-479a-416a-a196-99232f552142#ref=rss)
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade](https://www.spiegel.de/ausland/iran-oeffnet-strasse-von-hormus-usa-bleiben-bei-blockade-a-8a5dc5de-8cf6-40ad-b1fa-26f6b445dd60#ref=rss)
-### landgericht
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht](https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht-a-9c783356-23d4-4d29-9e6f-d8c7f6826969#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### versucht
+* [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich](https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich-a-52e5e2a3-3e60-4783-a5ce-e055e291bcf8#ref=rss)
+### droht
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### pete
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
-### hegseth
+* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
-### pulp
+* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+### kubicki
 
-* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
-### fiction
+* [https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen](https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-will-mit-partei-mehr-als-zehn-prozent-holen-a-5f71c992-5aab-4523-821a-495eed45a6ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+### davon
 
-* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
-### eher
+* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht](https://www.spiegel.de/kultur/pete-hegseth-und-sein-bibelzitat-aus-pulp-fiction-die-obszoene-pentagon-andacht-a-09c3a928-1d36-411e-a866-003d00b93ae4#ref=rss)
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-### leo
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-### sollte
+* [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
+### russische
 
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
-### pontifex
+* [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
+### moskaus
 
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie](https://www.spiegel.de/ausland/ukraine-drohnenangriffe-treffen-russische-oel-industrie-a-feb797f2-b399-42f0-8485-1c302ea9e0d6#ref=rss)
+* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
+### vier
 
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
-### fehlt
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+### städten
 
-* [https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte](https://www.spiegel.de/geschichte/donald-trump-und-papst-leo-warum-der-us-praesident-sich-warm-anziehen-sollte-a-ddef3360-a9fc-4307-9f3d-7cf13214d818#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
-### spaltung
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-### nie
+* [https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik](https://www.spiegel.de/panorama/energiepolitik-buendnis-protestiert-in-vier-staedten-gegen-katherina-reiches-politik-a-96736d27-9ab0-4296-ac32-b45b3fee4543#ref=rss)
+* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung](https://www.spiegel.de/ausland/donald-trump-vs-papst-leo-stehen-die-us-katholiken-vor-der-spaltung-a-5e1bf0b3-d3e3-43da-9b61-a70bc98d2691#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
-### attackiert
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-### propagandasystem
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-### staatsfernsehen
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-### regierungschef
+* [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
+### ferguson
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal](https://www.spiegel.de/panorama/sarah-ferguson-ex-herzogin-versteckt-sich-in-oesterreich-vor-epstein-skandal-a-7600de68-508a-495c-8b8b-ba7bca30acab#ref=rss)
+### hipp
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich](https://www.spiegel.de/wirtschaft/hipp-rueckruf-von-babynahrung-aus-spar-supermaerkten-in-oesterreich-a-52e5e2a3-3e60-4783-a5ce-e055e291bcf8#ref=rss)
+### fotografen
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen](https://www.spiegel.de/ausland/ungarn-peter-magyar-attackiert-propagandasystem-im-staatsfernsehen-a-fd69e6a5-9d97-4385-a360-1abfe19c530c#ref=rss)
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-### tankstellen
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
+### erzielte
 
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
-### sprit
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-droht-aerger-nach-vorfall-mit-fotografen-a-77d835a3-a499-42f0-91ef-362a44a2ab64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
-### knapp
+* [https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus](https://www.spiegel.de/ausland/nahost-iran-schliesst-strasse-von-hormus-a-14ec7b3c-181d-4b7d-84ac-c6ac32143903#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### eurovision
 
-* [https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit](https://www.spiegel.de/mobilitaet/auto/benzin-und-diesel-verkaufen-tankstellen-wirklich-gepanschten-sprit-a-76662d28-36c2-44db-8be0-33018b9e15f1#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### song
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-### cdu
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### contest
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-### vorbei
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### wien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-### versuchte
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-gibt-strasse-von-hormus-frei-afd-ueberholt-cdu-wal-drama-vor-poel-a-77f7f9ad-a173-4f9a-bb0a-dee8478bb329#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### jessie
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+### israel
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-### ware
+* [https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein](https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-kann-der-esc-unpolitisch-sein-a-80b902bf-239c-40fd-9983-8dd4717fda4d#ref=rss)
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+### zoitzberg
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-### tomora
+* [https://www.spiegel.de/panorama/zoitzberg-in-gera-jugendlicher-soll-flaechenbrand-an-liebschwitzer-huette-ausgeloest-haben](https://www.spiegel.de/panorama/zoitzberg-in-gera-jugendlicher-soll-flaechenbrand-an-liebschwitzer-huette-ausgeloest-haben-a-c75eb5a9-69c3-4e7d-bb79-a1c26613728d#ref=rss)
+### poel
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-### album
+* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-### frauen
+* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
+### wal
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
-### 40
+* [https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen](https://www.spiegel.de/wissenschaft/wal-vor-poel-trotz-experteneinschaetzung-beginnt-neuer-versuch-wal-abzuschleppen-a-11582fe7-f30d-4a0c-9274-dfdbba1f63e2#ref=rss)
+### washington
 
-* [https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/jessie-ware-my-new-band-believe-tomora-abgehoert-album-der-woche-a-e7e0a546-7125-4b2e-afc3-a86dc4761584#ref=rss)
-* [https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan](https://www.spiegel.de/ausland/krisengipfel-zu-hormus-gibt-es-einen-multinationalen-plan-a-c8c791e5-8f94-49fe-80ce-176b54d7d516#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
-* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
-### reform
-
-* [https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen](https://www.spiegel.de/politik/deutschland/ungarn-wahl-jetzt-muss-die-eu-das-einstimmigkeitsprinzip-abschaffen-a-4599dc01-14a4-496b-8e8e-2b0fdafe4879#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/playmobil-sozialplan-fuer-beschaeftigte-ausgehandelt-werkschliessung-im-sommer](https://www.spiegel.de/wirtschaft/unternehmen/playmobil-sozialplan-fuer-beschaeftigte-ausgehandelt-werkschliessung-im-sommer-a-994b1152-e069-4ff9-8df4-92c4466f5b8f#ref=rss)
-### signalisiert
+* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
+### marine
 
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-### mission
+* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus](https://www.spiegel.de/politik/friedrich-merz-deutschland-signalisiert-beitrag-zu-mission-in-der-strasse-von-hormus-a-8557fd85-1422-49bf-80ea-1205d42820b8#ref=rss)
-### sparpaket
+* [https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland](https://www.spiegel.de/ausland/usa-washington-billigt-milliardenschweren-ruestungsverkauf-an-deutschland-a-ce9032a4-67ca-42a8-8444-bb9f2b1a512b#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht](https://www.spiegel.de/politik/deutschland/gesundheitsreform-was-gut-ist-an-warkens-sparpaket-und-was-nicht-a-0e4a34b0-ae3e-416b-8c58-8f1e3570efb0#ref=rss)
-### spargel
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+### grenze
 
-* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
-### misohollandaise
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+### überschritten
 
-* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
-### supermayo
+* [https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne](https://www.spiegel.de/ausland/donald-trump-hat-der-us-praesident-die-grenze-zum-wahnsinn-ueberschritten-kolumne-a-44218447-359c-4442-89c5-e566a1f6a959#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+### kerosinmangel
 
-* [https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse](https://www.spiegel.de/effilee/spargel-sieben-sossen-wie-miso-hollandaise-supermayo-und-frankfurter-sosse-a-4c3cbc77-29dd-4f1f-b3b0-1172e937615c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
-### manninger
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern](https://www.spiegel.de/sport/fussball/alexander-manninger-ist-tot-der-purist-unter-den-torhuetern-a-a60fe972-aa3b-4af9-92eb-8e36a9cb3ea4#ref=rss)
-### tod
+* [https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf](https://www.spiegel.de/politik/deutschland/energiekrise-lars-klingbeil-fordert-katherina-reiche-zu-vorbereitung-auf-kerosinmangel-auf-a-ee3c436d-66d0-4ca4-89f3-2476f5f9291a#ref=rss)
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+### bas
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht](https://www.spiegel.de/panorama/justiz/konstanz-gericht-mildert-strafen-nach-tod-eines-schuelers-im-schwimmunterricht-a-9c783356-23d4-4d29-9e6f-d8c7f6826969#ref=rss)
-* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
-### victoria
+* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
+### kast
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### beckham
+* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
+### nutzen
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### sohn
+* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
+### risiken
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### brooklyn
+* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
+### gefährlich
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### alles
+* [https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse](https://www.spiegel.de/gesundheit/supplements-bas-kast-ueber-nutzen-risiken-und-forschungsergebnisse-a-14c6857b-4220-428c-9929-a2c1e0153c57#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
+### skoda
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### je
+* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
+### sitzen
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### unsere
+* [https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer](https://www.spiegel.de/mobilitaet/auto/skoda-peaq-im-test-suv-elektroauto-als-siebensitzer-a-3bfd08e4-3f87-42ff-bae0-59c1662cf9fc#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### kinder
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt](https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-wolfgang-kubicki-friedrich-merz-lula-da-silva-alexander-dobrindt-a-cb4d8d19-acae-424f-880b-6e093ca03081#ref=rss)
+### teheran
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### schützen
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### beide
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### lieben
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+### seiten
 
-* [https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben](https://www.spiegel.de/panorama/leute/victoria-beckham-nach-bruch-mit-sohn-brooklyn-alles-was-wir-je-versucht-haben-ist-unsere-kinder-zu-schuetzen-und-sie-zu-lieben-a-9e4b7838-6c50-4cf8-b969-311bcfd2ad03#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe](https://www.spiegel.de/ausland/nahost-iran-droht-mit-schliessung-der-strasse-von-hormus-trump-mit-einem-ende-der-waffenruhe-a-799df697-b07b-47a2-80a6-335cad18edec#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau](https://www.spiegel.de/panorama/justiz/duesseldorf-79-jaehriger-gesteht-toedlichen-hammerschlag-auf-schlafende-ehefrau-a-18deb471-7786-4a52-9560-3f1011679977#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
-### wintersemester
+* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
+### libeskind
 
-* [https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester](https://www.spiegel.de/start/bafoeg-koalitionsstreit-gefaehrdet-geplante-reform-zum-wintersemester-a-25f80da6-9e79-4a92-a9fe-ca5c350791c9#ref=rss)
-### 85jährige
+* [https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich](https://www.spiegel.de/panorama/daniel-libeskind-waere-ein-juedisches-museum-wie-ihres-in-berlin-heute-noch-moeglich-a-8a0d06de-55ac-4946-8ed7-7e03f904512b#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
-### haft
+* [https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel](https://www.spiegel.de/ausland/russland-usa-erlauben-weiterhin-kauf-von-russischem-oel-a-f2a4d47c-e02a-43a9-99de-085bfd3bc72e#ref=rss)
+### rutte
 
-* [https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen](https://www.spiegel.de/ausland/usa-85-jaehrige-franzoesische-witwe-aus-us-abschiebehaft-entlassen-a-80d49478-c150-40f9-b932-5b1dac8553be#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### frieden
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+### amerikaner
 
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-dem-libanon-eine-pause-kein-frieden-a-c2371a06-c795-4214-94a8-585136e8ada8#ref=rss)
-### stefanie
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen](https://www.spiegel.de/ausland/nahost-iran-droht-wegen-us-blockade-in-strasse-von-hormus-mit-gegenmassnahmen-a-447241c9-c1d0-4dfb-8f51-4bb0e2dd246e#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
-### hubig
+* [https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner](https://www.spiegel.de/ausland/nato-mark-rutte-zeigt-verstaendnis-fuer-donald-trumps-frust-ueber-buendnispartner-a-2dc10fca-bc5e-4c7b-a1b4-749bc0736629#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### fördermittel
 
-* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
-### schweren
+* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
+### bund
 
-* [https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor](https://www.spiegel.de/netzwelt/stefanie-hubig-stellt-digitales-gewaltschutzgesetz-vor-a-8f0f3d58-628c-4237-b902-817d53b53935#ref=rss)
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-### springer
+* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
+### verfassungsschutz
 
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-### jan
+* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-### philipp
+* [https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller](https://www.spiegel.de/politik/foerdermittel-vom-bund-verfassungsschutz-ueberpruefte-2025-hunderte-antragsteller-a-7df637b4-1bc2-42e5-9e50-835c2ece4265#ref=rss)
+### kuba
 
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-### burgard
+* [https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner](https://www.spiegel.de/ausland/kuba-havanna-wirbt-mit-neuem-status-um-investitionswillige-auslandskubaner-a-05347212-ebcf-4c1d-9f00-86d0acaa0de0#ref=rss)
+### anthropic
 
-* [https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck](https://www.spiegel.de/kultur/springer-ex-welt-chefredakteur-jan-philipp-burgard-kehrt-zurueck-a-620b183e-b74f-44e0-8818-cc2bfbb493fe#ref=rss)
-### regierung
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+### usregierung
 
-* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt](https://www.spiegel.de/ausland/donald-trump-benjamin-netanyahu-und-der-iran-krieg-israels-rueckhalt-in-washington-broeckelt-a-b9f2c596-8615-4c6c-9265-81da892f2956#ref=rss)
-### heißt
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+### sicherheit
 
-* [https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern](https://www.spiegel.de/politik/deutschland/beamtenbesoldung-alexander-dobrindt-muss-gesetz-nachbessern-a-8ffa533b-c622-4de2-94d6-a762558365e7#ref=rss)
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### tankstelle
+* [https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen](https://www.spiegel.de/netzwelt/anthropic-us-regierung-trifft-sich-mit-ceo-sorge-vor-cyberangriffen-a-0abca9b1-8575-458a-a83a-88b7eea74102#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
+### felix
 
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### überfahren
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+### klein
 
-* [https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft](https://www.spiegel.de/panorama/justiz/hilpoltstein-frau-versucht-an-tankstelle-ex-partner-zu-ueberfahren-fuenf-jahre-haft-a-d5c120a7-3f9b-4fab-8094-14b4d6ade6c5#ref=rss)
-### lana
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+### hass
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### del
+* [https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze](https://www.spiegel.de/kultur/antisemitismus-im-kulturbetrieb-felix-klein-warnt-vor-hass-und-hetze-a-85277018-c855-47ec-8608-93a85ce2f02b#ref=rss)
+### minenjagdboote
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### rey
+* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### film
+* [https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr](https://www.spiegel.de/politik/deutschland/strasse-von-hormus-das-koennen-die-minenjagdboote-der-bundeswehr-a-d0653e8e-6156-4773-ad7f-f2f7419b98e8#ref=rss)
+### 1
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### first
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### köln
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
-### light
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### st
 
-* [https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light](https://www.spiegel.de/kultur/lana-del-rey-singt-neuen-james-bond-song-nicht-im-film-sondern-im-videospiel-007-first-light-a-e8bf81c3-2801-4168-886e-7f30d8a7e8e8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-rettet-unentschieden-gegen-fc-st-pauli-a-4139023f-d5f6-4fe8-ae3c-fc2188757c49#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### stadion
+
+* [https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar](https://www.spiegel.de/sport/fussball-wm-in-new-york-einmal-stadion-und-zurueck-fuer-150-dollar-a-e35299d1-a7ab-4bd5-a001-42af3db1c0a3#ref=rss)
+### claude
+
+* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
+### mythos
+
+* [https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet](https://www.spiegel.de/netzwelt/web/claude-mythos-ist-diese-neue-kuenstliche-intelligenz-zu-gefaehrlich-fuer-das-internet-a-002c4fd2-0b00-48d6-a414-d771b774fc48#ref=rss)
 
