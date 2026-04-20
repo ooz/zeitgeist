@@ -4,346 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### merz
 
-* [https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats](https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats-a-14990d90-0ecf-4e3a-8fde-e4451619cf25#ref=rss)
-* [https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern](https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern-a-8286e668-0763-4d99-af76-68bc383aa086#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba](https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba-a-c0825aa3-ced7-4231-8014-220533d88ed0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats](https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats-a-14990d90-0ecf-4e3a-8fde-e4451619cf25#ref=rss)
-* [https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern](https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern-a-8286e668-0763-4d99-af76-68bc383aa086#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung](https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung-a-5ecf2377-2974-43f2-b071-f0bc0f4d1348#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung](https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung-a-5ecf2377-2974-43f2-b071-f0bc0f4d1348#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht](https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht-a-23857109-6342-4777-ac1b-1b4f48ac0d6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung](https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung-a-5ecf2377-2974-43f2-b071-f0bc0f4d1348#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba](https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba-a-c0825aa3-ced7-4231-8014-220533d88ed0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
 ### poel
 
+* [https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende](https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende-a-69900f97-fe0f-4ae3-ae72-e21ad7a4e724#ref=rss)
 * [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-### usa
+### kinder
 
-* [https://www.spiegel.de/geschichte/ayn-rand-ikone-der-us-tech-magnaten-die-staatsfeindin](https://www.spiegel.de/geschichte/ayn-rand-ikone-der-us-tech-magnaten-die-staatsfeindin-a-23224fdd-33cb-4910-bb9a-a673201b3659#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/russland-ukraine-krieg-europol-ermittler-spueren-45-verschleppte-ukrainische-kinder-auf](https://www.spiegel.de/panorama/justiz/russland-ukraine-krieg-europol-ermittler-spueren-45-verschleppte-ukrainische-kinder-auf-a-65498354-a6e2-4d3f-8b40-86bee5d6f60a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro](https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro-a-6f2b000b-2428-4754-8dda-6dfa369ba02b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt](https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt-a-0fb168b6-658f-4da0-8ca5-94943db7b824#ref=rss)
-### iran
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
+### messe
 
-* [https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters](https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters-a-22d0fcd7-28b3-4129-b7fa-c1cf0431f6e9#ref=rss)
-* [https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern](https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern-a-8286e668-0763-4d99-af76-68bc383aa086#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats](https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats-a-14990d90-0ecf-4e3a-8fde-e4451619cf25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats](https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats-a-14990d90-0ecf-4e3a-8fde-e4451619cf25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen](https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen-a-2384ee14-81ce-489a-bc2f-1c407a04515a#ref=rss)
-### fast
-
-* [https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt](https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt-a-7f1282d1-6a37-423e-b7e4-500a6334373f#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt](https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt-a-0fb168b6-658f-4da0-8ca5-94943db7b824#ref=rss)
-### anders
-
-* [https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt](https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt-a-7f1282d1-6a37-423e-b7e4-500a6334373f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### japan
-
-* [https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben](https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben-a-6be9c466-591a-44e1-b2b7-94769dcf21e5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### psychische
-
-* [https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china](https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china-a-b8b7ce3b-6572-4967-8143-9d98ab0bca59#ref=rss)
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### china
-
-* [https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china](https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china-a-b8b7ce3b-6572-4967-8143-9d98ab0bca59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki](https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki-a-2b85a956-b24e-4512-9d3d-26521c0bf18d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht](https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht-a-23857109-6342-4777-ac1b-1b4f48ac0d6e#ref=rss)
-### buckelwal
-
-* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro](https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro-a-6f2b000b-2428-4754-8dda-6dfa369ba02b#ref=rss)
-* [https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern](https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern-a-8286e668-0763-4d99-af76-68bc383aa086#ref=rss)
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung](https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung-a-5ecf2377-2974-43f2-b071-f0bc0f4d1348#ref=rss)
-### falckenberg
-
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-### welchen
-
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### verbreiten
-
-* [https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats](https://www.spiegel.de/ausland/donald-trump-maga-akteurinnen-aeussern-zweifel-an-echtheit-des-attentats-a-14990d90-0ecf-4e3a-8fde-e4451619cf25#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-### schwedens
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-### militärgeheimdienstchef
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times](https://www.spiegel.de/wirtschaft/russlands-wirtschaft-schwaechelt-laut-schwedens-militaergeheimdienstchef-trotz-steigender-oelpreise-bericht-der-financial-times-a-bf8505b2-dcf6-4a1e-b7a0-e1206aed0dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt](https://www.spiegel.de/wirtschaft/immobilien-immer-mehr-moeblierte-wohnungen-regulaeres-mietangebot-sinkt-a-0fb168b6-658f-4da0-8ca5-94943db7b824#ref=rss)
-### deezer
-
-* [https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt](https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt-a-7f1282d1-6a37-423e-b7e4-500a6334373f#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt](https://www.spiegel.de/kultur/musik/deezer-fast-jeder-zweite-song-beim-musikstreamer-ist-ki-erzeugt-a-7f1282d1-6a37-423e-b7e4-500a6334373f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben](https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben-a-6be9c466-591a-44e1-b2b7-94769dcf21e5#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben](https://www.spiegel.de/panorama/japan-tsunamiwarnung-nach-erdbeben-a-6be9c466-591a-44e1-b2b7-94769dcf21e5#ref=rss)
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### marko
-
-* [https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china](https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china-a-b8b7ce3b-6572-4967-8143-9d98ab0bca59#ref=rss)
-### arnautović
-
-* [https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china](https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china-a-b8b7ce3b-6572-4967-8143-9d98ab0bca59#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china](https://www.spiegel.de/sport/fussball/marko-arnautovic-offenbart-psychische-probleme-waehrend-fussballzeit-in-china-a-b8b7ce3b-6572-4967-8143-9d98ab0bca59#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-### babykost
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
-### glas
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas](https://www.spiegel.de/panorama/rattengift-in-babykost-von-hipp-polizei-in-oesterreich-sucht-nach-zweitem-verdaechtigen-glas-a-8f78a6d7-f0d1-43a4-8d34-427fbd614ce8#ref=rss)
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### anthropic
-
-* [https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki](https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki-a-2b85a956-b24e-4512-9d3d-26521c0bf18d#ref=rss)
-### nsa
-
-* [https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki](https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki-a-2b85a956-b24e-4512-9d3d-26521c0bf18d#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki](https://www.spiegel.de/netzwelt/web/anthropic-mythos-us-geheimdienst-nsa-benutzt-angeblich-umstrittene-hacking-ki-a-2b85a956-b24e-4512-9d3d-26521c0bf18d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-### nius
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-### julian
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-### reichelt
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-### begonnen
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers](https://www.spiegel.de/wirtschaft/julian-reichelt-nius-hetze-gegen-minderheiten-und-das-geld-des-multimillionaers-a-39397baf-018d-487d-84b4-207078b431b0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### bulgarien
-
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
 ### rumen
 
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl](https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl-a-c8bfdcfe-572a-467c-9b78-5e280a717500#ref=rss)
 ### radew
 
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/bulgarien-prorussischer-ex-praesident-rumen-radew-gewinnt-parlamentswahl-a-14bfb2c3-7f95-4e95-a679-4929dc078662#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-### frei
-
-* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-### freigeschwommen
-
-* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-### verharrt
-
-* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-### ayn
-
-* [https://www.spiegel.de/geschichte/ayn-rand-ikone-der-us-tech-magnaten-die-staatsfeindin](https://www.spiegel.de/geschichte/ayn-rand-ikone-der-us-tech-magnaten-die-staatsfeindin-a-23224fdd-33cb-4910-bb9a-a673201b3659#ref=rss)
-### findet
-
-* [https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy](https://www.spiegel.de/wissenschaft/poel-wal-schwimmt-sich-frei-wie-stehen-die-chancen-fuer-timmy-a-11169c94-93c4-4e73-a81f-a832a45aca13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei](https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei-a-84a9d1c7-697e-42f2-af1c-2bbf3ce2b2fa#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro](https://www.spiegel.de/wirtschaft/glyphosat-skandal-kostete-bayer-wohl-mehr-als-24-milliarden-euro-a-6f2b000b-2428-4754-8dda-6dfa369ba02b#ref=rss)
-### timo
-
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-### werner
-
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel](https://www.spiegel.de/sport/fussball/fussball-timo-werner-trifft-erstmals-seit-18-monaten-in-einem-pflichtspiel-a-e96ba90c-d075-4895-91e0-93a91e8781e8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht](https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht-a-23857109-6342-4777-ac1b-1b4f48ac0d6e#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht](https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht-a-23857109-6342-4777-ac1b-1b4f48ac0d6e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters](https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters-a-22d0fcd7-28b3-4129-b7fa-c1cf0431f6e9#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht](https://www.spiegel.de/ausland/russland-geheimdienst-meldet-festnahme-einer-deutschen-angeblich-terrorverdacht-a-23857109-6342-4777-ac1b-1b4f48ac0d6e#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen](https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen-a-2384ee14-81ce-489a-bc2f-1c407a04515a#ref=rss)
-### energiekrise
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-### pleitewelle
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-energiekrise-verschaerft-pleitewelle-im-mittelstand-a-1820b912-29b4-4155-a142-78202e05eaed#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei](https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei-a-84a9d1c7-697e-42f2-af1c-2bbf3ce2b2fa#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei](https://www.spiegel.de/politik/deutschland/christian-lindner-findet-leben-mit-kind-nicht-nur-stressfrei-a-84a9d1c7-697e-42f2-af1c-2bbf3ce2b2fa#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters](https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters-a-22d0fcd7-28b3-4129-b7fa-c1cf0431f6e9#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters](https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters-a-22d0fcd7-28b3-4129-b7fa-c1cf0431f6e9#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters](https://www.spiegel.de/ausland/iran-krieg-us-marine-meldet-beschuss-iranischen-frachters-a-22d0fcd7-28b3-4129-b7fa-c1cf0431f6e9#ref=rss)
-### jenny
-
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen](https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen-a-2384ee14-81ce-489a-bc2f-1c407a04515a#ref=rss)
-### 45
-
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben](https://www.spiegel.de/panorama/jenny-falckenberg-hamburger-galeristin-mit-45-gestorben-a-0b1fba79-c8d5-4c53-bf15-8bd5631810b5#ref=rss)
-### bereichen
-
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr](https://www.spiegel.de/panorama/justiz/polizeiliche-kriminalstatistik-in-welchen-bereichen-die-polizei-weniger-faelle-erfasst-und-in-welchen-mehr-a-d6a88675-e886-4e4e-8f88-b0d9f91115e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung](https://www.spiegel.de/wirtschaft/industriestandort-deutschland-schluss-mit-der-selbstzerfleischung-a-5ecf2377-2974-43f2-b071-f0bc0f4d1348#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen](https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen-a-2384ee14-81ce-489a-bc2f-1c407a04515a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tankrabatt-marcel-fratzscher-kritisiert-entlastungsmassnahmen-als-teure-fehlentscheidung](https://www.spiegel.de/wirtschaft/tankrabatt-marcel-fratzscher-kritisiert-entlastungsmassnahmen-als-teure-fehlentscheidung-a-34c398c1-a3db-45f4-bbbb-b03001a0a37e#ref=rss)
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl](https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl-a-c8bfdcfe-572a-467c-9b78-5e280a717500#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen](https://www.spiegel.de/panorama/hamburg-bericht-vom-diakonischen-werk-kritisiert-zahlreiche-maengel-bei-abschiebungen-a-2384ee14-81ce-489a-bc2f-1c407a04515a#ref=rss)
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch](https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch-a-c54f9ff1-80d4-4e99-9836-492f3945e885#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern](https://www.spiegel.de/ausland/iran-berater-hielten-donald-trump-offenbar-von-krisensitzung-fern-a-8286e668-0763-4d99-af76-68bc383aa086#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### nürnberg
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein](https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein-a-6ffc5e89-cc55-4c1c-b3f3-8b7d4214f228#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen](https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen-a-6f0c2e7f-f55d-4810-9a71-5e454b14bb69#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht](https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht-a-539b2ae2-fcef-466b-b22f-03a5654e04c6#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-warum-wir-bei-sexualdelikten-auch-ueber-die-herkunft-der-taeter-sprechen-muessen](https://www.spiegel.de/panorama/gewalt-gegen-frauen-warum-wir-bei-sexualdelikten-auch-ueber-die-herkunft-der-taeter-sprechen-muessen-a-666a330d-82bc-408d-9ad8-ff1ec17aeec3#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-warum-wir-bei-sexualdelikten-auch-ueber-die-herkunft-der-taeter-sprechen-muessen](https://www.spiegel.de/panorama/gewalt-gegen-frauen-warum-wir-bei-sexualdelikten-auch-ueber-die-herkunft-der-taeter-sprechen-muessen-a-666a330d-82bc-408d-9ad8-ff1ec17aeec3#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/panorama/justiz/der-schoene-klaus-podcast-im-verhoer-spezial-die-boesen-jungs-vom-kiez-teil-1](https://www.spiegel.de/panorama/justiz/der-schoene-klaus-podcast-im-verhoer-spezial-die-boesen-jungs-vom-kiez-teil-1-a-3a2c519a-46f8-4584-b8f0-39776dd6be76#ref=rss)
+### kiez
+
+* [https://www.spiegel.de/panorama/justiz/der-schoene-klaus-podcast-im-verhoer-spezial-die-boesen-jungs-vom-kiez-teil-1](https://www.spiegel.de/panorama/justiz/der-schoene-klaus-podcast-im-verhoer-spezial-die-boesen-jungs-vom-kiez-teil-1-a-3a2c519a-46f8-4584-b8f0-39776dd6be76#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/crans-montana-keine-kontrollen-kaum-stellen-interne-dokumente-sollen-maengel-bei-brandschutz-belegen](https://www.spiegel.de/ausland/crans-montana-keine-kontrollen-kaum-stellen-interne-dokumente-sollen-maengel-bei-brandschutz-belegen-a-b40672e9-234b-4d4a-b7eb-dc3ca12cf28b#ref=rss)
+* [https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports](https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports-a-9b33cc8a-0977-4764-95d8-5da023836640#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/ausland/crans-montana-keine-kontrollen-kaum-stellen-interne-dokumente-sollen-maengel-bei-brandschutz-belegen](https://www.spiegel.de/ausland/crans-montana-keine-kontrollen-kaum-stellen-interne-dokumente-sollen-maengel-bei-brandschutz-belegen-a-b40672e9-234b-4d4a-b7eb-dc3ca12cf28b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht](https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht-a-539b2ae2-fcef-466b-b22f-03a5654e04c6#ref=rss)
+### russland
+
+* [https://www.spiegel.de/panorama/justiz/russland-ukraine-krieg-europol-ermittler-spueren-45-verschleppte-ukrainische-kinder-auf](https://www.spiegel.de/panorama/justiz/russland-ukraine-krieg-europol-ermittler-spueren-45-verschleppte-ukrainische-kinder-auf-a-65498354-a6e2-4d3f-8b40-86bee5d6f60a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+### kriminalitätsstatistik
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+### nius
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe](https://www.spiegel.de/politik/deutschland/news-des-tages-kriminalitaetsstatistik-julian-reichelt-und-nius-friedrich-merz-auf-der-hannover-messe-a-f9fc51f2-7420-45f2-9609-7a32ed9a42b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch](https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch-a-c54f9ff1-80d4-4e99-9836-492f3945e885#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports](https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports-a-9b33cc8a-0977-4764-95d8-5da023836640#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+### amt
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein](https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein-a-6ffc5e89-cc55-4c1c-b3f3-8b7d4214f228#ref=rss)
+### blieb
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab](https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab-a-af154fae-aad1-4330-8b98-25df24cbcfc5#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s](https://www.spiegel.de/ausland/bulgariens-neuer-regierungschef-dem-kreml-gefaellt-s-a-afbfabd6-f9d9-4410-95ad-39dda35ba062#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein](https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein-a-6ffc5e89-cc55-4c1c-b3f3-8b7d4214f228#ref=rss)
+### herzogin
+
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+### duftkerzen
+
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen](https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen-a-6f0c2e7f-f55d-4810-9a71-5e454b14bb69#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen](https://www.spiegel.de/panorama/leute/herzogin-meghan-wirbt-mit-titeln-ihrer-kinder-fuer-duftkerzen-a-c5c76787-5291-4b59-b4e1-d1e477daf3d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba](https://www.spiegel.de/ausland/friedrich-merz-stellt-sich-gegen-moegliche-us-intervention-in-kuba-a-c0825aa3-ced7-4231-8014-220533d88ed0#ref=rss)
+### roboter
+
+* [https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports](https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports-a-9b33cc8a-0977-4764-95d8-5da023836640#ref=rss)
+### halbmarathon
+
+* [https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports](https://www.spiegel.de/sport/china-roboter-siegt-im-halbmarathon-ist-das-jetzt-die-zukunft-des-sports-a-9b33cc8a-0977-4764-95d8-5da023836640#ref=rss)
+### rattengift
+
+* [https://www.spiegel.de/panorama/hipp-rattengift-in-babynahrung-ermittler-pruefen-erpressungsversuch](https://www.spiegel.de/panorama/hipp-rattengift-in-babynahrung-ermittler-pruefen-erpressungsversuch-a-1610251d-dba8-4614-83d6-62a7c42ab4bd#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/hipp-rattengift-in-babynahrung-ermittler-pruefen-erpressungsversuch](https://www.spiegel.de/panorama/hipp-rattengift-in-babynahrung-ermittler-pruefen-erpressungsversuch-a-1610251d-dba8-4614-83d6-62a7c42ab4bd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann](https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann-a-dc2b9bda-f7ad-4829-a7c4-47d5b0910a53#ref=rss)
+### israels
+
+* [https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon](https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon-a-dea54e67-08b6-4559-8459-8c8180429dbb#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon](https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon-a-dea54e67-08b6-4559-8459-8c8180429dbb#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon](https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon-a-dea54e67-08b6-4559-8459-8c8180429dbb#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon](https://www.spiegel.de/politik/deutschland/israels-krieg-gegen-die-hisbollah-israel-warnt-bewohner-vor-rueckkehr-in-den-suedlibanon-a-dea54e67-08b6-4559-8459-8c8180429dbb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ozon-legale-chemikalien-verlangsamen-die-schliessung-des-ozonlochs](https://www.spiegel.de/wissenschaft/natur/ozon-legale-chemikalien-verlangsamen-die-schliessung-des-ozonlochs-a-4aeaff72-f9e7-43bc-8d01-ef72d58cccf0#ref=rss)
+### journalistin
+
+* [https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann](https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann-a-dc2b9bda-f7ad-4829-a7c4-47d5b0910a53#ref=rss)
+### eva
+
+* [https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann](https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann-a-dc2b9bda-f7ad-4829-a7c4-47d5b0910a53#ref=rss)
+### michelmann
+
+* [https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann](https://www.spiegel.de/panorama/justiz/syrien-lebenszeichen-von-vermisster-deutscher-journalistin-eva-michelmann-a-dc2b9bda-f7ad-4829-a7c4-47d5b0910a53#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-wahlsieger-magyar-besetzt-schluesselressorts-mit-topmanagern](https://www.spiegel.de/ausland/ungarn-wahlsieger-magyar-besetzt-schluesselressorts-mit-topmanagern-a-545db9d1-5ca5-48f0-9456-4956615ac7ea#ref=rss)
+### magyar
+
+* [https://www.spiegel.de/ausland/ungarn-wahlsieger-magyar-besetzt-schluesselressorts-mit-topmanagern](https://www.spiegel.de/ausland/ungarn-wahlsieger-magyar-besetzt-schluesselressorts-mit-topmanagern-a-545db9d1-5ca5-48f0-9456-4956615ac7ea#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### wirtschaftspsychologe
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### florian
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### bauer
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### schmerz
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft](https://www.spiegel.de/wirtschaft/service/spritpreise-wirtschaftspsychologe-florian-bauer-erklaert-was-gegen-schmerz-an-der-tankstelle-hilft-a-b0ca028d-a33b-4859-bf71-0ef4b47625ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen](https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen-a-6f0c2e7f-f55d-4810-9a71-5e454b14bb69#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein](https://www.spiegel.de/politik/deutschland/berlin-auswaertiges-amt-bestellt-moskaus-botschafter-ein-a-6ffc5e89-cc55-4c1c-b3f3-8b7d4214f228#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch](https://www.spiegel.de/wissenschaft/natur/neuseeland-behinderter-papagei-setzt-sich-mit-neuer-kampftechnik-durch-a-c54f9ff1-80d4-4e99-9836-492f3945e885#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl](https://www.spiegel.de/politik/deutschland/bulgarien-prorussischer-kandidat-rumen-radew-gewinnt-parlamenstwahl-a-c8bfdcfe-572a-467c-9b78-5e280a717500#ref=rss)
+### stubaier
+
+* [https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab](https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab-a-af154fae-aad1-4330-8b98-25df24cbcfc5#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab](https://www.spiegel.de/panorama/tirol-stubaier-wildspitze-bergsportler-stuerzt-rund-170-meter-ab-a-af154fae-aad1-4330-8b98-25df24cbcfc5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### jonathan
+
+* [https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-erleidet-halswirbelbruch-in-ligaspiel-in-italien](https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-erleidet-halswirbelbruch-in-ligaspiel-in-italien-a-4800e407-9f4e-4090-a051-a3e1ce8123d2#ref=rss)
+### klinsmann
+
+* [https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-erleidet-halswirbelbruch-in-ligaspiel-in-italien](https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-erleidet-halswirbelbruch-in-ligaspiel-in-italien-a-4800e407-9f4e-4090-a051-a3e1ce8123d2#ref=rss)
+### morgen
+
+* [https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende](https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende-a-69900f97-fe0f-4ae3-ae72-e21ad7a4e724#ref=rss)
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### gestrandete
+
+* [https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende](https://www.spiegel.de/panorama/ostsee-wal-rettung-vor-poel-die-mission-ist-noch-nicht-zu-ende-a-69900f97-fe0f-4ae3-ae72-e21ad7a4e724#ref=rss)
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### wal
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### ritter
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### rät
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### tier
+
+* [https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen](https://www.spiegel.de/panorama/gestrandet-vor-der-insel-poel-der-buckelwal-hat-sich-freigeschwommen-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### justin
+
+* [https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch](https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch-a-e1604a74-e4d3-460e-9f5e-2a9306c7a9f0#ref=rss)
+### bieber
+
+* [https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch](https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch-a-e1604a74-e4d3-460e-9f5e-2a9306c7a9f0#ref=rss)
+### billie
+
+* [https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch](https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch-a-e1604a74-e4d3-460e-9f5e-2a9306c7a9f0#ref=rss)
+### eilish
+
+* [https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch](https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch-a-e1604a74-e4d3-460e-9f5e-2a9306c7a9f0#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch](https://www.spiegel.de/kultur/musik/justin-bieber-macht-billie-eilish-mit-one-less-lonely-girl-gluecklich-und-ihre-mutter-auch-a-e1604a74-e4d3-460e-9f5e-2a9306c7a9f0#ref=rss)
+### unternehmer
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-der-hannover-messe-und-dann-spricht-ein-unternehmer-merz-mit-herr-merkel-an-a-9e7c09a7-57c7-45d3-ab2b-58027c69227a#ref=rss)
 ### attackiert
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### zugbegleiter
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+* [https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier](https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier-a-1af1d16a-61ad-478b-a6fb-842fd0b5ea88#ref=rss)
+### ukrainischen
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### ice
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+### knapp
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### hitlergruß
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne](https://www.spiegel.de/ausland/ukraine-russland-krieg-moskau-attackiert-offenbar-ukrainischen-drohnenexperten-per-drohne-a-5d5c43c4-97df-4b26-9e77-b3e20d093b55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen](https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen-a-6f0c2e7f-f55d-4810-9a71-5e454b14bb69#ref=rss)
+### kerosin
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-### münchen
+* [https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen](https://www.spiegel.de/politik/deutschland/linke-ines-chefin-schwerdtner-fordert-streichung-von-kurzstreckenfluegen-a-6f0c2e7f-f55d-4810-9a71-5e454b14bb69#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss](https://www.spiegel.de/panorama/nuernberg-junger-mann-attackiert-zugbegleiter-im-ice-und-zeigt-hitlergruss-a-d3eaf699-5c18-469c-a467-eb5d8d892df2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### philippinen
+* [https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier](https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier-a-1af1d16a-61ad-478b-a6fb-842fd0b5ea88#ref=rss)
+### moosdorf
 
-* [https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei](https://www.spiegel.de/ausland/usa-und-philippinen-starten-militaeruebungen-mit-17-000-soldaten-japan-erstmals-aktiv-dabei-a-6b91cecd-9653-4c2a-be7a-00594a6b85eb#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier](https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier-a-1af1d16a-61ad-478b-a6fb-842fd0b5ea88#ref=rss)
+### markus
 
-* [https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist](https://www.spiegel.de/psychologie/psychische-gesundheit-warum-der-krisenmodus-fuer-viele-jugendliche-alltag-ist-a-91fcb34d-46f4-4bfc-8e77-91492f238ee6#ref=rss)
-### deutscher
+* [https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier](https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier-a-1af1d16a-61ad-478b-a6fb-842fd0b5ea88#ref=rss)
+### frohnmaier
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
-### meister
+* [https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier](https://www.spiegel.de/politik/afd-interne-mail-enthuellt-scharfe-vorwuerfe-gegen-abgeordneten-markus-frohnmaier-a-1af1d16a-61ad-478b-a6fb-842fd0b5ea88#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ist-deutscher-meister-was-die-bayern-in-dieser-saison-anders-machen-a-fff4a1a0-a364-46b5-8fcf-20e17419910f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht](https://www.spiegel.de/sport/olympia/olympia-nach-der-zustimmung-von-koeln-rhein-ruhr-wie-es-mit-der-deutschen-bewerbung-weitergeht-a-539b2ae2-fcef-466b-b22f-03a5654e04c6#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### amthor
+
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### feminist
+
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
+### cdupolitiker
+
+* [https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker](https://www.spiegel.de/politik/deutschland/philipp-amthor-feminist-das-bin-ich-auch-sagt-der-cdu-politiker-a-7b07f517-a695-4e07-ae49-3e7734c7250e#ref=rss)
 
