@@ -4,330 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
+### laut
 
-* [https://www.spiegel.de/panorama/landkreis-ansbach-kuh-flieht-vor-schlachter-und-bleibt-verschwunden](https://www.spiegel.de/panorama/landkreis-ansbach-kuh-flieht-vor-schlachter-und-bleibt-verschwunden-a-9abde058-88f2-4aed-af02-2f8d5a33aa36#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft-a-e2e24088-a4f3-42b5-b1fc-3801a009255f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+* [https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind](https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind-a-6cfcf39d-5368-4cd6-abeb-61b7c583d0d0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben](https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben-a-8075ecc3-0d1b-49a6-8a38-8c8d53c54755#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-* [https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit](https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit-a-ef7c8908-5f14-4f68-af64-834555105f61#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben-a-ed2ca5ea-e044-448f-9bbe-dabc82f2c111#ref=rss)
-### rente
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei](https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei-a-f63ec97c-a613-4480-91e5-157816267277#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug](https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug-a-76bcd4f1-2be3-49a6-ba62-d8581eab4c6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen-a-74e25ebe-6978-40a8-87f2-ae862ae17519#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft-a-e2e24088-a4f3-42b5-b1fc-3801a009255f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum-a-dbf73f59-20d9-4d16-9a6a-50316e1274db#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer](https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer-a-28087852-1a63-4153-aaa7-88b6759e2677#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-so-sollen-ihre-kassenbeitraege-steigen-modellrechnungen-fuer-sechs-haushalte](https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-so-sollen-ihre-kassenbeitraege-steigen-modellrechnungen-fuer-sechs-haushalte-a-07e52a40-941b-45ab-b4a1-afd8ea88aa68#ref=rss)
-* [https://www.spiegel.de/kultur/tv/wer-wird-millionaer-diese-frage-haette-die-million-gebracht-haetten-sies-gewusst](https://www.spiegel.de/kultur/tv/wer-wird-millionaer-diese-frage-haette-die-million-gebracht-haetten-sies-gewusst-a-e07b5dd7-164e-4b90-ae87-698ad729d47d#ref=rss)
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
-### fernandes
-
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum-a-dbf73f59-20d9-4d16-9a6a-50316e1274db#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln](https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln-a-6bddf45f-b993-4176-9db5-13550f5d37a8#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln](https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln-a-6bddf45f-b993-4176-9db5-13550f5d37a8#ref=rss)
-### peter
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln](https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln-a-6bddf45f-b993-4176-9db5-13550f5d37a8#ref=rss)
-### mandelson
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln](https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln-a-6bddf45f-b993-4176-9db5-13550f5d37a8#ref=rss)
-### berufung
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln](https://www.spiegel.de/ausland/jeffrey-epstein-keir-starmer-kommt-wegen-peter-mandelson-ins-stammeln-a-6bddf45f-b993-4176-9db5-13550f5d37a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### tier
-
-* [https://www.spiegel.de/panorama/landkreis-ansbach-kuh-flieht-vor-schlachter-und-bleibt-verschwunden](https://www.spiegel.de/panorama/landkreis-ansbach-kuh-flieht-vor-schlachter-und-bleibt-verschwunden-a-9abde058-88f2-4aed-af02-2f8d5a33aa36#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### verkündet
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline](https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline-a-29202fbf-68bc-4c58-839a-2dcfc51e7939#ref=rss)
-### reparatur
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline](https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline-a-29202fbf-68bc-4c58-839a-2dcfc51e7939#ref=rss)
-### druschbapipeline
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline](https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline-a-29202fbf-68bc-4c58-839a-2dcfc51e7939#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline](https://www.spiegel.de/ausland/wolodymyr-selenskyj-verkuendet-reparatur-der-druschba-pipeline-a-29202fbf-68bc-4c58-839a-2dcfc51e7939#ref=rss)
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-### linnemann
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-### basisabsicherung
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### ausgesprochen
-
-* [https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen](https://www.spiegel.de/politik/deutschland/rente-carsten-linnemann-raet-spd-im-streit-in-der-koalition-einmal-tief-durchzuatmen-a-1f4dd30e-3078-488a-b0a6-04ae52e972db#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen](https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen-a-b469364e-54de-4100-8f9e-dc095cd0ae92#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-### ciaagenten
-
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-* [https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit](https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit-a-ef7c8908-5f14-4f68-af64-834555105f61#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben](https://www.spiegel.de/ausland/mexiko-zwei-mutmassliche-cia-agenten-bei-autounfall-gestorben-a-f1798a80-40e9-4112-8352-e9f821ef5e50#ref=rss)
-### flixbuskonkurrent
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein-a-0bb855d3-a3cb-4f06-b74c-2ec4aef6e240#ref=rss)
-### blablacar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein-a-0bb855d3-a3cb-4f06-b74c-2ec4aef6e240#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-konkurrent-blablacar-stellt-fernbusbetrieb-ein-a-0bb855d3-a3cb-4f06-b74c-2ec4aef6e240#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen](https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen-a-b469364e-54de-4100-8f9e-dc095cd0ae92#ref=rss)
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-### 250
-
-* [https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen](https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen-a-b469364e-54de-4100-8f9e-dc095cd0ae92#ref=rss)
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug](https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug-a-76bcd4f1-2be3-49a6-ba62-d8581eab4c6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/homeoffice-jeder-vierte-in-deutschland-arbeitet-zeitweise-von-zuhause-aus](https://www.spiegel.de/wirtschaft/soziales/homeoffice-jeder-vierte-in-deutschland-arbeitet-zeitweise-von-zuhause-aus-a-a1cb9bd0-47bb-4882-af84-a7a59aa801a6#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen](https://www.spiegel.de/panorama/wetter-dwd-warnt-vor-frost-in-250-landkreisen-a-b469364e-54de-4100-8f9e-dc095cd0ae92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer](https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer-a-28087852-1a63-4153-aaa7-88b6759e2677#ref=rss)
-### betrüger
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us-a-3d8e4e1f-50e8-4ac1-9471-91bbb808b648#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft-a-e2e24088-a4f3-42b5-b1fc-3801a009255f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+* [https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder](https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder-a-805709ea-9365-475d-a789-d112a2fb41b3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben](https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben-a-8075ecc3-0d1b-49a6-8a38-8c8d53c54755#ref=rss)
+### revolutionswächter
 
-* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft-a-e2e24088-a4f3-42b5-b1fc-3801a009255f#ref=rss)
-### justiz
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+### europas
 
-* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-wie-betrueger-die-deutschen-ausnehmen-und-was-dagegen-hilft-a-e2e24088-a4f3-42b5-b1fc-3801a009255f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### christina
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### mutmaßliche
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-### block
+* [https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder](https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder-a-805709ea-9365-475d-a789-d112a2fb41b3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt-a-00b8f466-c342-4d64-ae76-8a18e83dbaa3#ref=rss)
+### profitieren
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-### verteidiger
+* [https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten](https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten-a-f4d5da46-bbfd-449d-97a8-a7c362869387#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+### krankenversicherung
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-### prozess
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen-a-ed3d2df8-0f76-4259-9427-b30b7554c197#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer](https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer-a-28087852-1a63-4153-aaa7-88b6759e2677#ref=rss)
-### anwalt
+* [https://www.spiegel.de/netzwelt/meta-angestellte-werden-zu-ki-trainern](https://www.spiegel.de/netzwelt/meta-angestellte-werden-zu-ki-trainern-a-4612a740-644d-45b8-a8ad-9c98cad0e635#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-forschungsprojekt-fear-im-tessin-loest-erdbeben-aus](https://www.spiegel.de/wissenschaft/natur/schweiz-forschungsprojekt-fear-im-tessin-loest-erdbeben-aus-a-e09c5cdf-bed3-4df3-bab8-daef1af8b510#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us-a-3d8e4e1f-50e8-4ac1-9471-91bbb808b648#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor](https://www.spiegel.de/panorama/justiz/christina-block-polizistin-sagt-vor-gericht-aus-verteidiger-wirft-ihr-einseitige-ermittlung-vor-a-ab77677e-7086-4b0f-8feb-1346cc0f1bfb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### minister
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga-a-b093bd1a-b1f2-4d04-9dd0-86b3905a058d#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/politik/deutschland/ostsee-wal-timmy-minister-till-backhaus-und-die-inszenierung-eines-rettungsdramas](https://www.spiegel.de/politik/deutschland/ostsee-wal-timmy-minister-till-backhaus-und-die-inszenierung-eines-rettungsdramas-a-b403d9e7-3bd9-4dc8-bd18-03e50607a0a5#ref=rss)
-### sechs
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-so-sollen-ihre-kassenbeitraege-steigen-modellrechnungen-fuer-sechs-haushalte](https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-so-sollen-ihre-kassenbeitraege-steigen-modellrechnungen-fuer-sechs-haushalte-a-07e52a40-941b-45ab-b4a1-afd8ea88aa68#ref=rss)
-### karlsruhe
+* [https://www.spiegel.de/wirtschaft/soziales/homeoffice-jeder-vierte-in-deutschland-arbeitet-zeitweise-von-zuhause-aus](https://www.spiegel.de/wirtschaft/soziales/homeoffice-jeder-vierte-in-deutschland-arbeitet-zeitweise-von-zuhause-aus-a-a1cb9bd0-47bb-4882-af84-a7a59aa801a6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei](https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei-a-f63ec97c-a613-4480-91e5-157816267277#ref=rss)
+### fight
 
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet](https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet-a-6310d93f-4879-45b4-a60e-2ee955ff8e36#ref=rss)
-### angeordnet
+* [https://www.spiegel.de/stil/donald-trump-geruchsexperten-bewerten-sein-parfuem-fight-fight-fight](https://www.spiegel.de/stil/donald-trump-geruchsexperten-bewerten-sein-parfuem-fight-fight-fight-a-1ff11c48-9809-468f-a058-daed8c16add7#ref=rss)
+### lina
 
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet](https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet-a-6310d93f-4879-45b4-a60e-2ee955ff8e36#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung](https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung-a-0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a#ref=rss)
-### flammen
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+### e
 
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet](https://www.spiegel.de/panorama/justiz/karlsruhe-mann-verbrennt-auf-offener-strasse-obduktion-angeordnet-a-6310d93f-4879-45b4-a60e-2ee955ff8e36#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### frage
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+### linksextremistin
 
-* [https://www.spiegel.de/kultur/tv/wer-wird-millionaer-diese-frage-haette-die-million-gebracht-haetten-sies-gewusst](https://www.spiegel.de/kultur/tv/wer-wird-millionaer-diese-frage-haette-die-million-gebracht-haetten-sies-gewusst-a-e07b5dd7-164e-4b90-ae87-698ad729d47d#ref=rss)
-* [https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab](https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab-a-44d05cb3-bee8-4d41-bb3b-b0bf331db60c#ref=rss)
-### collien
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+### statt
 
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### spanien
+* [https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen](https://www.spiegel.de/panorama/justiz/lina-e-linksextremistin-soll-vorzeitig-aus-haft-freikommen-a-64437bb0-82fc-449e-a6b0-358cb5b264c4#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
+### frachter
 
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### abgeben
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+### küste
 
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-### möchte
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+### angegriffen
 
-* [https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/collien-fernandes-gericht-in-spanien-will-fall-an-deutschland-abgeben-berufung-eingelegt-a-0b14f8db-7c8a-402d-aa0f-ec22b7449de6#ref=rss)
-* [https://www.spiegel.de/reise/flugreisen-airline-fuehrt-stockbetten-in-der-economy-class-ein](https://www.spiegel.de/reise/flugreisen-airline-fuehrt-stockbetten-in-der-economy-class-ein-a-c167dced-e35e-4477-873b-8ad8f4afa1ef#ref=rss)
-### apple
+* [https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen](https://www.spiegel.de/ausland/irankrieg-revolutionswaechter-melden-beschlagnahmung-von-zwei-schiffen-a-ac901010-ddad-459f-b074-3f2414d0ae11#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman](https://www.spiegel.de/ausland/iran-revolutionswaechter-beschiessen-offenbar-containerschiff-vor-oman-a-7d295312-aa1c-4ab6-b928-8a4a29308fa9#ref=rss)
+### enttarnt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer](https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer-a-28087852-1a63-4153-aaa7-88b6759e2677#ref=rss)
-### gifttod
+* [https://www.spiegel.de/panorama/justiz/hassnachrichten-an-den-spiegel-wie-ein-hetzer-enttarnt-wurde-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/justiz/hassnachrichten-an-den-spiegel-wie-ein-hetzer-enttarnt-wurde-und-trotzdem-weitermacht-a-13aee028-07d2-4aa7-bfd0-138f39672c0f#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer](https://www.spiegel.de/politik/deutschland/news-des-tages-steve-jobs-tim-cook-und-jetzt-wer-a-28087852-1a63-4153-aaa7-88b6759e2677#ref=rss)
-### vw
+* [https://www.spiegel.de/panorama/justiz/hassnachrichten-an-den-spiegel-wie-ein-hetzer-enttarnt-wurde-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/justiz/hassnachrichten-an-den-spiegel-wie-ein-hetzer-enttarnt-wurde-und-trotzdem-weitermacht-a-13aee028-07d2-4aa7-bfd0-138f39672c0f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga-a-b093bd1a-b1f2-4d04-9dd0-86b3905a058d#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-### gebrauchtwagen
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+### regionen
 
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-### gar
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen](https://www.spiegel.de/mobilitaet/volkswagen-vw-warnt-vor-betrugsmasche-mit-gebrauchtwagen-a-dc08ce6f-1bd5-45cd-84e9-205614387601#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### staatssekretär
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen-a-ed3d2df8-0f76-4259-9427-b30b7554c197#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/politik/deutschland/berliner-senat-entlaesst-staatssekretaer](https://www.spiegel.de/politik/deutschland/berliner-senat-entlaesst-staatssekretaer-a-386769cc-6ced-4dc4-bcd3-080745f19bd5#ref=rss)
-### pellegrino
+* [https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten](https://www.spiegel.de/gesundheit/klimawandel-wie-hitze-pollen-und-viren-europas-gesundheit-belasten-a-1bee4567-e0c4-4346-9f95-bd2ccc03ab78#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+### el
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### matarazzo
+* [https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder](https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder-a-805709ea-9365-475d-a789-d112a2fb41b3#ref=rss)
+### salvador
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### real
+* [https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder](https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder-a-805709ea-9365-475d-a789-d112a2fb41b3#ref=rss)
+### gangmitglieder
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### sociedad
+* [https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder](https://www.spiegel.de/ausland/el-salvador-massenprozess-gegen-mutmassliche-gangmitglieder-a-805709ea-9365-475d-a789-d112a2fb41b3#ref=rss)
+### unionspolitiker
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### san
+* [https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten](https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten-a-f4d5da46-bbfd-449d-97a8-a7c362869387#ref=rss)
+### steuerlich
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### sebastián
+* [https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten](https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten-a-f4d5da46-bbfd-449d-97a8-a7c362869387#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-### fast
+* [https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten](https://www.spiegel.de/wirtschaft/steuerreform-unionspolitiker-aus-cdu-und-csu-wollen-alle-einkommensgruppen-steuerlich-entlasten-a-f4d5da46-bbfd-449d-97a8-a7c362869387#ref=rss)
+* [https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind](https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind-a-6cfcf39d-5368-4cd6-abeb-61b7c583d0d0#ref=rss)
+### dua
 
-* [https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab](https://www.spiegel.de/sport/fussball/pellegrino-matarazzo-und-real-sociedad-san-sebastian-ki-riet-von-seiner-verpflichtung-ab-a-08c87fc0-d65d-4cc8-afa4-3f86b934f381#ref=rss)
-* [https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit](https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit-a-ef7c8908-5f14-4f68-af64-834555105f61#ref=rss)
-### eminem
+* [https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug](https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug-a-59f24dc4-d695-4204-9992-390c9a311d7b#ref=rss)
+### lipa
 
-* [https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit](https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit-a-ef7c8908-5f14-4f68-af64-834555105f61#ref=rss)
-### geteilt
+* [https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug](https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug-a-59f24dc4-d695-4204-9992-390c9a311d7b#ref=rss)
+### service95
 
-* [https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit](https://www.spiegel.de/panorama/leute/xviii-eminem-feiert-18-jahre-nuechternheit-a-ef7c8908-5f14-4f68-af64-834555105f61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt](https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt-a-df320c35-88c0-4b8a-a7bc-903030b6ada8#ref=rss)
-### sevilla
+* [https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug](https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug-a-59f24dc4-d695-4204-9992-390c9a311d7b#ref=rss)
+### erste
 
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### morante
+* [https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug](https://www.spiegel.de/panorama/leute/dua-lipa-finanziert-mit-service95-ukrainisches-frontfahrzeug-a-59f24dc4-d695-4204-9992-390c9a311d7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### private
 
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### de
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### la
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen-a-74e25ebe-6978-40a8-87f2-ae862ae17519#ref=rss)
+### nina
 
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### puebla
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen-a-ed3d2df8-0f76-4259-9427-b30b7554c197#ref=rss)
+### warken
 
-* [https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt](https://www.spiegel.de/panorama/spanien-sevilla-torero-morante-de-la-puebla-bei-stierkampf-schwer-verletzt-a-88fcb9bb-e3b6-4b4a-ae92-6792e8a8e836#ref=rss)
-### armin
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung](https://www.spiegel.de/wirtschaft/soziales/gesundheitsreform-ministerium-rechnet-mit-100-000-wechslern-in-die-private-krankenversicherung-a-0cf7ced7-0ac6-4dfd-8ec2-b19d66731e9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/krankenversicherung-nina-warken-und-die-gkv-reform-brauchen-wir-wirklich-93-gesetzliche-krankenkassen-a-ed3d2df8-0f76-4259-9427-b30b7554c197#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/armin-laschet-bricht-sich-bei-e-scooter-unfall-die-schulter](https://www.spiegel.de/politik/armin-laschet-bricht-sich-bei-e-scooter-unfall-die-schulter-a-d907855c-37df-4b3d-b7f1-1f86f01eb83f#ref=rss)
-### laschet
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt-a-00b8f466-c342-4d64-ae76-8a18e83dbaa3#ref=rss)
+### mutmaßlich
 
-* [https://www.spiegel.de/politik/armin-laschet-bricht-sich-bei-e-scooter-unfall-die-schulter](https://www.spiegel.de/politik/armin-laschet-bricht-sich-bei-e-scooter-unfall-die-schulter-a-d907855c-37df-4b3d-b7f1-1f86f01eb83f#ref=rss)
-### verwaltungsgerichtshof
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-klagt-polizeibeamten-an-mutmasslich-korrupt-a-00b8f466-c342-4d64-ae76-8a18e83dbaa3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen](https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen-a-d7cdcd7f-0765-49ac-8b3e-004945d81361#ref=rss)
+### ki
 
-* [https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab](https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab-a-44d05cb3-bee8-4d41-bb3b-b0bf331db60c#ref=rss)
-### mannheim
+* [https://www.spiegel.de/netzwelt/meta-angestellte-werden-zu-ki-trainern](https://www.spiegel.de/netzwelt/meta-angestellte-werden-zu-ki-trainern-a-4612a740-644d-45b8-a8ad-9c98cad0e635#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen](https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen-a-d7cdcd7f-0765-49ac-8b3e-004945d81361#ref=rss)
+### verkauft
 
-* [https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab](https://www.spiegel.de/panorama/rundfunkbeitrag-verwaltungsgerichtshof-in-mannheim-weist-klage-ab-a-44d05cb3-bee8-4d41-bb3b-b0bf331db60c#ref=rss)
-### bas
+* [https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen](https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen-a-d7cdcd7f-0765-49ac-8b3e-004945d81361#ref=rss)
+### inklusionsklassen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895#ref=rss)
-### bannewitz
+* [https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen](https://www.spiegel.de/panorama/bildung/kohl-verlag-verkauft-mutmasslich-ki-generiertes-material-fuer-inklusionsklassen-a-d7cdcd7f-0765-49ac-8b3e-004945d81361#ref=rss)
+### idaroberstein
 
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
-### gemeinde
+* [https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug](https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug-a-76bcd4f1-2be3-49a6-ba62-d8581eab4c6c#ref=rss)
+### feuerwehr
 
-* [https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher](https://www.spiegel.de/panorama/bannewitz-saechsische-gemeinde-ist-um-40-000-euro-reicher-a-ba2a0de6-d1a0-49ef-a18d-e521fc6f64a5#ref=rss)
-### blue
+* [https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug](https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug-a-76bcd4f1-2be3-49a6-ba62-d8581eab4c6c#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung](https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung-a-0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a#ref=rss)
-### origin
+* [https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug](https://www.spiegel.de/panorama/idar-oberstein-feuerwehr-befreit-eingeschlossenen-paketboten-aus-fahrzeug-a-76bcd4f1-2be3-49a6-ba62-d8581eab4c6c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz](https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz-a-3ead105a-a195-4472-ac24-290603dd14c8#ref=rss)
+### f
 
-* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung](https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung-a-0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a#ref=rss)
-### syrer
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+### kennedy
 
-* [https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt](https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt-a-df320c35-88c0-4b8a-a7bc-903030b6ada8#ref=rss)
-### angeklagt
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+### jr
 
-* [https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt](https://www.spiegel.de/panorama/justiz/berlin-syrer-wegen-terrorverdachts-angeklagt-a-df320c35-88c0-4b8a-a7bc-903030b6ada8#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft](https://www.spiegel.de/wirtschaft/unternehmen/usa-wie-robert-f-kennedy-jr-deutschen-sauerkraut-herstellern-zum-boom-verhilft-a-8c4476a9-2946-4beb-9483-37375f04f59f#ref=rss)
+### verteidigungsminister
 
-* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben-a-ed2ca5ea-e044-448f-9bbe-dabc82f2c111#ref=rss)
-### israelische
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### boris
 
-* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben-a-ed2ca5ea-e044-448f-9bbe-dabc82f2c111#ref=rss)
-### siedler
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-sollen-zwei-palaestinenser-getoetet-haben-a-ed2ca5ea-e044-448f-9bbe-dabc82f2c111#ref=rss)
-### tahirys
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### militärstrategie
 
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### dos
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### santos
+* [https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga-a-b093bd1a-b1f2-4d04-9dd0-86b3905a058d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben](https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben-a-8075ecc3-0d1b-49a6-8a38-8c8d53c54755#ref=rss)
+### titel
 
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### cransmontana
+* [https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/leicester-city-in-der-krise-zehn-jahre-nach-dem-titel-in-die-dritte-liga-a-b093bd1a-b1f2-4d04-9dd0-86b3905a058d#ref=rss)
+### tessin
 
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
-### profivertrag
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-forschungsprojekt-fear-im-tessin-loest-erdbeben-aus](https://www.spiegel.de/wissenschaft/natur/schweiz-forschungsprojekt-fear-im-tessin-loest-erdbeben-aus-a-e09c5cdf-bed3-4df3-bab8-daef1af8b510#ref=rss)
+### arbeitnehmerrechte
 
-* [https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz](https://www.spiegel.de/sport/fussball/tahirys-dos-santos-ueberlebender-von-crans-montana-erhaelt-profivertrag-beim-fc-metz-a-2ea34d58-d167-4d9b-9798-2b0f8294072f#ref=rss)
+* [https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind](https://www.spiegel.de/start/arbeitskampf-warum-arbeitnehmerrechte-in-gefahr-sind-a-6cfcf39d-5368-4cd6-abeb-61b7c583d0d0#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen-a-74e25ebe-6978-40a8-87f2-ae862ae17519#ref=rss)
+### kredit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-sichert-sich-neuen-kredit-inmitten-von-finanzproblemen-a-74e25ebe-6978-40a8-87f2-ae862ae17519#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/wissenschaft/small-talk-langweilig-ueberhaupt-nicht](https://www.spiegel.de/wissenschaft/small-talk-langweilig-ueberhaupt-nicht-a-2b3b8e89-fc7e-44ea-b255-aacd06b80cf1#ref=rss)
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### parfüm
+
+* [https://www.spiegel.de/stil/donald-trump-geruchsexperten-bewerten-sein-parfuem-fight-fight-fight](https://www.spiegel.de/stil/donald-trump-geruchsexperten-bewerten-sein-parfuem-fight-fight-fight-a-1ff11c48-9809-468f-a058-daed8c16add7#ref=rss)
+### christiane
+
+* [https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei](https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei-a-f63ec97c-a613-4480-91e5-157816267277#ref=rss)
+### nüssleinvolhard
+
+* [https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei](https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei-a-f63ec97c-a613-4480-91e5-157816267277#ref=rss)
+### nobelpreisträgerin
+
+* [https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei](https://www.spiegel.de/panorama/leute/christiane-nuesslein-volhard-nobelpreistraegerin-hatte-in-bio-nur-eine-zwei-a-f63ec97c-a613-4480-91e5-157816267277#ref=rss)
+### telekom
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-erwaegt-verschmelzung-mit-t-mobile-us-a-3d8e4e1f-50e8-4ac1-9471-91bbb808b648#ref=rss)
+### nbaplayoffs
+
+* [https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz](https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz-a-3ead105a-a195-4472-ac24-290603dd14c8#ref=rss)
+### victor
+
+* [https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz](https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz-a-3ead105a-a195-4472-ac24-290603dd14c8#ref=rss)
+### wembanyama
+
+* [https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz](https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz-a-3ead105a-a195-4472-ac24-290603dd14c8#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz](https://www.spiegel.de/sport/basketball/nba-victor-wembanyama-erleidet-gehirnerschuetterung-nach-sturz-a-3ead105a-a195-4472-ac24-290603dd14c8#ref=rss)
+### william
+
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### lai
+
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### afrikanische
+
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### überflug
+
+* [https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich](https://www.spiegel.de/ausland/william-lai-afrikanische-laender-verweigern-taiwans-praesidenten-den-ueberflug-china-freut-sich-a-29b1d04e-fd66-4d88-a518-5b96f2518c66#ref=rss)
+### klassenzimmer
+
+* [https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben](https://www.spiegel.de/panorama/bildung/usa-texas-darf-zehn-gebote-im-klassenzimmer-vorschreiben-a-8075ecc3-0d1b-49a6-8a38-8c8d53c54755#ref=rss)
+### demokratische
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
+### republik
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
+### umsiedlung
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika](https://www.spiegel.de/ausland/demokratische-republik-kongo-usa-planen-umsiedlung-afghanischer-ortskraefte-nach-afrika-a-b92cd986-c1ce-4959-9a10-edd0380f32b8#ref=rss)
 
