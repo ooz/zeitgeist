@@ -4,326 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bayern
+### iran
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen](https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen-a-833e53e3-7383-4ee8-9c20-d477460dc21b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen](https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen-a-833e53e3-7383-4ee8-9c20-d477460dc21b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter](https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter-a-29686e71-8af9-4814-97d1-c75e79407830#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-* [https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen](https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen-a-565f45b5-7b26-498e-b18f-311f6d89710a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig](https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig-a-011b79c3-5f21-4335-abf4-79a477334b2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern](https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern-a-330f2857-477a-4e4d-97d2-94fe36b8caba#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+* [https://www.spiegel.de/kultur/berlin-modern-museumsbau-verzoegert-sich-bis-2030](https://www.spiegel.de/kultur/berlin-modern-museumsbau-verzoegert-sich-bis-2030-a-38d41692-eb58-4d53-91bd-1dd797d6d872#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte](https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte-a-1bf56e8d-c554-477d-9460-a04433685d7e#ref=rss)
-* [https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen](https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen-a-565f45b5-7b26-498e-b18f-311f6d89710a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung](https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung-a-5e67d566-a1ec-41cb-b829-75b0afbc24f2#ref=rss)
-### verletzt
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025](https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025-a-d2147a89-a4bf-4204-926e-8533b0236c8f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle](https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff#ref=rss)
+* [https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba](https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba-a-67fb9b2c-ccf5-44a0-9708-47f2ce470f00#ref=rss)
+### eu
 
-* [https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss](https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss-a-2fbaf784-6e3c-405a-9c54-61b86c2812ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter](https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter-a-29686e71-8af9-4814-97d1-c75e79407830#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
-### bundesgerichtshof
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+### reza
 
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
+### pahlavi
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-erlaubnis-fuer-coronahilfen-an-lufthansa-ist-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/eu-erlaubnis-fuer-coronahilfen-an-lufthansa-ist-nichtig-a-80578a98-cf05-4ec7-b870-1d95c29e262a#ref=rss)
-### 2020
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-erlaubnis-fuer-coronahilfen-an-lufthansa-ist-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/eu-erlaubnis-fuer-coronahilfen-an-lufthansa-ist-nichtig-a-80578a98-cf05-4ec7-b870-1d95c29e262a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test](https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test-a-dc40e9c8-e339-4381-b80f-d91a83957fd4#ref=rss)
-### kamel
+* [https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet](https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet-a-d6c184ca-4d4b-48a4-8f43-1a3ab36a267c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft](https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft-a-0a006d22-b8b1-4d07-9072-fb67f9716bb7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin](https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin-a-14c3859c-7091-4959-88c3-ec841b6de93a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche-a-205ea871-1cbb-4536-96ad-67fa70837747#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-### daoud
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern](https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern-a-330f2857-477a-4e4d-97d2-94fe36b8caba#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-* [https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss](https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss-a-2fbaf784-6e3c-405a-9c54-61b86c2812ec#ref=rss)
-### roman
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-### huris
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris](https://www.spiegel.de/kultur/literatur/kamel-daoud-urteil-in-algerien-drei-jahre-gefaengnis-wegen-roman-huris-a-4262f0c3-9b68-483c-9795-08cbaab2be2a#ref=rss)
-### paul
-
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
-### ringo
-
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
-### starr
-
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
-### missverständnisse
-
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+* [https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle](https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt](https://www.spiegel.de/panorama/leute/paul-mccartney-und-ringo-starr-sehr-viele-missverstaendnisse-haben-zu-einem-duett-gefuehrt-a-10266674-240d-4fb4-94d3-a6a0ad1b724b#ref=rss)
-* [https://www.spiegel.de/panorama/finnland-und-so-flog-die-1-million-euro-geige](https://www.spiegel.de/panorama/finnland-und-so-flog-die-1-million-euro-geige-a-0699cb12-9066-4928-bae3-36a6950f615f#ref=rss)
-### duterte
+* [https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen](https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen-a-766c9d1c-5264-4fba-9e34-84b316ff360b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern](https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern-a-62777793-5c86-4231-8e1e-6b14e41b2eae#ref=rss)
+### schahsohn
 
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
-### prozess
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
+* [https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung](https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung-a-c5b8cced-c3ca-452e-bf84-de7b06375a6e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik](https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik-a-e0a521da-28e2-42a8-83c4-018841b8daa7#ref=rss)
+### bad
+
+* [https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung](https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung-a-c5b8cced-c3ca-452e-bf84-de7b06375a6e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### jackson
+
+* [https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen](https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen-a-766c9d1c-5264-4fba-9e34-84b316ff360b#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/donald-trump-aerger-um-foto-mit-tennis-profis-der-university-of-georgia](https://www.spiegel.de/sport/tennis/donald-trump-aerger-um-foto-mit-tennis-profis-der-university-of-georgia-a-ffde02cf-0864-44c1-a60d-696f1dd8e896#ref=rss)
 ### ohne
 
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
-### verfahren
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+### prüft
 
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asyl-integrationsminister-stemmen-sich-gegen-dobrindts-kuerzungsplaene](https://www.spiegel.de/politik/deutschland/asyl-integrationsminister-stemmen-sich-gegen-dobrindts-kuerzungsplaene-a-1b016bfd-93e4-46c4-965a-3cc3fdca98bc#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu](https://www.spiegel.de/ausland/rodrigo-duterte-internationaler-strafgerichtshof-laesst-prozess-zu-a-c7d752d3-0188-4d87-b806-03b4e0ab5854#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen](https://www.spiegel.de/sport/fussball/frauen-bundesliga-glueckwunsch-fc-bayern-aber-wir-muessen-ueber-die-mittelmaessigkeit-dieser-liga-sprechen-a-833e53e3-7383-4ee8-9c20-d477460dc21b#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-* [https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner](https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner-a-d7657723-1ea8-4714-a1a8-9c17ce0512b7#ref=rss)
-### verwandelt
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar](https://www.spiegel.de/sport/fussball/jamal-musiala-beim-fc-bayern-muenchen-weniger-dribblings-mehr-tore-der-verwandelte-offensivstar-a-e58eb8d4-d069-41a5-9f51-09e593ab3c73#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter](https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter-a-29686e71-8af9-4814-97d1-c75e79407830#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test](https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test-a-dc40e9c8-e339-4381-b80f-d91a83957fd4#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test](https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test-a-dc40e9c8-e339-4381-b80f-d91a83957fd4#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test](https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test-a-dc40e9c8-e339-4381-b80f-d91a83957fd4#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test](https://www.spiegel.de/wirtschaft/stiftung-warentest-vor-gericht-haftung-fuer-fehlerhaften-rauchmelder-test-a-dc40e9c8-e339-4381-b80f-d91a83957fd4#ref=rss)
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-### kultursenatorin
-
-* [https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig](https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig-a-011b79c3-5f21-4335-abf4-79a477334b2d#ref=rss)
-### evident
-
-* [https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig](https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig-a-011b79c3-5f21-4335-abf4-79a477334b2d#ref=rss)
-### rechtswidrig
-
-* [https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig](https://www.spiegel.de/politik/cdu-foerdermittelaffaere-in-berlin-kultursenatorin-handelte-evident-rechtswidrig-a-011b79c3-5f21-4335-abf4-79a477334b2d#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerin-liess-dutzende-dienstliche-e-mails-durchleuchten](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerin-liess-dutzende-dienstliche-e-mails-durchleuchten-a-79cf89d6-5fa8-4c12-ae71-4a6fd74f6851#ref=rss)
-### wal
-
-* [https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype](https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype-a-3c6cec8e-ffc0-49da-b47e-04cacf21ceea#ref=rss)
-### medienpsychologe
-
-* [https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype](https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype-a-3c6cec8e-ffc0-49da-b47e-04cacf21ceea#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype](https://www.spiegel.de/wissenschaft/mensch/gestrandeter-wal-in-der-ostsee-medienpsychologe-erklaert-den-hype-a-3c6cec8e-ffc0-49da-b47e-04cacf21ceea#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte](https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte-a-1bf56e8d-c554-477d-9460-a04433685d7e#ref=rss)
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte](https://www.spiegel.de/wirtschaft/irankrieg-iea-chef-fatih-birol-warnt-vor-der-groessten-bedrohung-fuer-die-energiesicherheit-in-der-geschichte-a-1bf56e8d-c554-477d-9460-a04433685d7e#ref=rss)
-* [https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen](https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen-a-565f45b5-7b26-498e-b18f-311f6d89710a#ref=rss)
-### landesrechnungshof
-
-* [https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern](https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern-a-330f2857-477a-4e4d-97d2-94fe36b8caba#ref=rss)
-### vergabe
-
-* [https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern](https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern-a-330f2857-477a-4e4d-97d2-94fe36b8caba#ref=rss)
-### beschäftigt
-
-* [https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern](https://www.spiegel.de/politik/deutschland/foerdermittel-skandal-in-berlin-landesrechnungshof-sieht-rechtsverstoesse-bei-vergabe-von-geldern-a-330f2857-477a-4e4d-97d2-94fe36b8caba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/panorama/finnland-und-so-flog-die-1-million-euro-geige](https://www.spiegel.de/panorama/finnland-und-so-flog-die-1-million-euro-geige-a-0699cb12-9066-4928-bae3-36a6950f615f#ref=rss)
-### pöhla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen-a-0543c0ac-9530-4863-a97c-efff0fdc8295#ref=rss)
-### erzgebirge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen-a-0543c0ac-9530-4863-a97c-efff0fdc8295#ref=rss)
-### investor
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen-a-0543c0ac-9530-4863-a97c-efff0fdc8295#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/poehla-erzgebirge-asiatischer-investor-will-geplante-wolfram-mine-uebernehmen-a-0543c0ac-9530-4863-a97c-efff0fdc8295#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-### kash
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### patel
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### fbi
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### new
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### york
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### freundin
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-### agenten
-
-* [https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben](https://www.spiegel.de/kultur/kash-patel-fbi-ermittelte-gegen-new-york-times-autorin-sie-hatte-ueber-seine-freundin-geschrieben-a-8b59cdc3-1aa4-41f2-8377-bc78042e0f51#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet](https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet-a-bb00cd80-b553-4b88-81d3-dc772308955c#ref=rss)
-### blockade
-
-* [https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet](https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet-a-bb00cd80-b553-4b88-81d3-dc772308955c#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin-a-22bd3502-36f2-4b37-8120-915a50391cc5#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin-a-22bd3502-36f2-4b37-8120-915a50391cc5#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin-a-22bd3502-36f2-4b37-8120-915a50391cc5#ref=rss)
-### steinbrück
-
-* [https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk](https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk-a-08b9d47c-541f-4f13-a931-dd46379221b7#ref=rss)
-### fahimi
-
-* [https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk](https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk-a-08b9d47c-541f-4f13-a931-dd46379221b7#ref=rss)
-### dittrich
-
-* [https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk](https://www.spiegel.de/politik/wirtschaftskrise-peer-steinbrueck-yasmin-fahimi-und-joerg-dittrich-im-talk-a-08b9d47c-541f-4f13-a931-dd46379221b7#ref=rss)
-### world
-
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-### press
-
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-### photo
-
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-### bild
-
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres](https://www.spiegel.de/kultur/world-press-award-2026-dies-ist-das-bild-des-jahres-a-c8006d3e-ffba-4187-b9d2-5b3f57a0fe5c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner](https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner-a-d7657723-1ea8-4714-a1a8-9c17ce0512b7#ref=rss)
-### neu
-
-* [https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen](https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen-a-565f45b5-7b26-498e-b18f-311f6d89710a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-### grund
-
-* [https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen](https://www.spiegel.de/mobilitaet/elektroautos-e-auto-verkaeufe-in-europa-um-ein-drittel-gestiegen-a-565f45b5-7b26-498e-b18f-311f6d89710a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt-a-b24b0ff2-1565-40f7-9862-c02f4429373a#ref=rss)
-### moritz
-
-* [https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss](https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss-a-2fbaf784-6e3c-405a-9c54-61b86c2812ec#ref=rss)
-### mauss
-
-* [https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss](https://www.spiegel.de/sport/radsport-50-zentimeter-langer-splitter-verletzt-nachwuchsfahrer-moritz-mauss-a-2fbaf784-6e3c-405a-9c54-61b86c2812ec#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche-a-205ea871-1cbb-4536-96ad-67fa70837747#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
-### a6
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft](https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft-a-0a006d22-b8b1-4d07-9072-fb67f9716bb7#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern](https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern-a-62777793-5c86-4231-8e1e-6b14e41b2eae#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6](https://www.spiegel.de/panorama/justiz/bayern-polizei-fasst-zwei-mutmassliche-auslaendische-agenten-auf-der-a6-a-8b30bade-ad1f-4553-8ae2-da440049d84d#ref=rss)
-### helmut
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes-a-395689eb-bff8-4c37-b574-5db9244cd995#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-### kohl
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes-a-395689eb-bff8-4c37-b574-5db9244cd995#ref=rss)
+### geburtstagsfeier
 
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-### witwe
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes-a-395689eb-bff8-4c37-b574-5db9244cd995#ref=rss)
+### grundgesetzes
 
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-### verhandelt
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes-a-395689eb-bff8-4c37-b574-5db9244cd995#ref=rss)
+### prominenter
 
-* [https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn](https://www.spiegel.de/politik/deutschland/helmut-kohl-witwe-maike-kohl-richter-scheitert-mit-klage-zu-auskunft-ueber-gewinn-a-82a05e31-90a7-481f-83e0-2f341b8248ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
-### eautos
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-der-bundespraesident-und-die-geburtstagsfeier-des-grundgesetzes-a-395689eb-bff8-4c37-b574-5db9244cd995#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+### porsche
 
-* [https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner](https://www.spiegel.de/mobilitaet/adac-statistik-zu-pannen-e-autos-erheblich-zuverlaessiger-als-verbrenner-a-d7657723-1ea8-4714-a1a8-9c17ce0512b7#ref=rss)
-### leonardo
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025](https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025-a-d2147a89-a4bf-4204-926e-8533b0236c8f#ref=rss)
+### streicht
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt-a-b24b0ff2-1565-40f7-9862-c02f4429373a#ref=rss)
-### dicaprio
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025](https://www.spiegel.de/wirtschaft/unternehmen/porsche-streicht-mitarbeitern-praemie-fuer-2025-a-d2147a89-a4bf-4204-926e-8533b0236c8f#ref=rss)
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+### roter
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-wettert-gegen-gesetzesvorhaben-der-republikaner-abstimmung-abgesagt-a-b24b0ff2-1565-40f7-9862-c02f4429373a#ref=rss)
-### lamine
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+### flüssigkeit
 
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter](https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter-a-29686e71-8af9-4814-97d1-c75e79407830#ref=rss)
-### yamal
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter](https://www.spiegel.de/sport/fussball/fc-barcelona-lamine-yamal-verletzt-sich-bei-verwandeltem-elfmeter-a-29686e71-8af9-4814-97d1-c75e79407830#ref=rss)
-### luisa
+* [https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert](https://www.spiegel.de/politik/iran-schah-sohn-reza-pahlavi-in-berlin-mit-roter-fluessigkeit-attackiert-a-28de38d0-0396-41f6-b5d5-f682062e1c90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+### verwaltungsgericht
 
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### neubauer
+* [https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung](https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung-a-c5b8cced-c3ca-452e-bf84-de7b06375a6e#ref=rss)
+### gießen
 
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### barack
+* [https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung](https://www.spiegel.de/panorama/verwaltungsgericht-giessen-60-meter-bis-zur-muelltonne-sind-in-ordnung-a-c5b8cced-c3ca-452e-bf84-de7b06375a6e#ref=rss)
+### paramount
 
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### obama
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-aktionaere-stimmen-kauf-durch-paramount-zu](https://www.spiegel.de/wirtschaft/unternehmen/warner-aktionaere-stimmen-kauf-durch-paramount-zu-a-532066d1-b9e3-4d62-92e8-8094a1c8c71d#ref=rss)
+### brandrede
 
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### klimaaktivistin
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+### beautybloggerin
 
-* [https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin](https://www.spiegel.de/ausland/luisa-neubauer-barack-obama-lobt-klimaaktivistin-a-00d61266-2b12-4afe-9b1c-be8b3d281b0f#ref=rss)
-### kampfjetprojekt
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+### frust
 
-* [https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung](https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung-a-5e67d566-a1ec-41cb-b829-75b0afbc24f2#ref=rss)
-### fcas
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung](https://www.spiegel.de/politik/deutschland/kampfjetprojekt-fcas-vor-dem-aus-merz-und-macron-begreifen-den-ernst-der-lage-nicht-meinung-a-5e67d566-a1ec-41cb-b829-75b0afbc24f2#ref=rss)
-### integrationsminister
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin](https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin-a-14c3859c-7091-4959-88c3-ec841b6de93a#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/asyl-integrationsminister-stemmen-sich-gegen-dobrindts-kuerzungsplaene](https://www.spiegel.de/politik/deutschland/asyl-integrationsminister-stemmen-sich-gegen-dobrindts-kuerzungsplaene-a-1b016bfd-93e4-46c4-965a-3cc3fdca98bc#ref=rss)
-### usm
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin](https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin-a-14c3859c-7091-4959-88c3-ec841b6de93a#ref=rss)
+### findet
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
-### urheberrecht
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### angst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-verhandelt-ueber-urheberrecht-fuer-designmoebel-a-d2b2263c-0cc2-480d-83a0-56eea9605ce3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust](https://www.spiegel.de/ausland/russland-brandrede-der-beautybloggerin-wiktorija-bonja-und-wachsender-frust-a-045d4b33-324d-41fd-8020-c5427dea5618#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin](https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin-a-14c3859c-7091-4959-88c3-ec841b6de93a#ref=rss)
+### janet
+
+* [https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen](https://www.spiegel.de/panorama/leute/janet-jackson-wollte-offenbar-nicht-im-michael-jackson-film-vorkommen-a-766c9d1c-5264-4fba-9e34-84b316ff360b#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/donald-trump-aerger-um-foto-mit-tennis-profis-der-university-of-georgia](https://www.spiegel.de/sport/tennis/donald-trump-aerger-um-foto-mit-tennis-profis-der-university-of-georgia-a-ffde02cf-0864-44c1-a60d-696f1dd8e896#ref=rss)
+### premier
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor](https://www.spiegel.de/politik/deutschland/iran-und-usa-und-israel-spd-wirft-trump-und-netanyahu-chaos-politik-im-nahen-osten-und-am-golf-vor-a-335bae73-b996-4c2f-ab43-9b0bfb7725c3#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik](https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik-a-e0a521da-28e2-42a8-83c4-018841b8daa7#ref=rss)
+### italien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### statt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-statt-iran-zur-fussball-wm-haftungsklage-gegen-stiftung-warentest-cdu-foerdermittelaffaere-in-berlin-a-5df1bcef-178c-47ff-aef9-4875c70179b9#ref=rss)
+### übergewinnsteuer
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+### koalitionspartner
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu](https://www.spiegel.de/wirtschaft/service/tankrabatt-spd-beharrt-auf-uebergewinnsteuer-fuer-oelkonzerne-auch-ohne-eu-a-f0614dce-912d-49a3-83af-d8bedd889980#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik](https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik-a-e0a521da-28e2-42a8-83c4-018841b8daa7#ref=rss)
+### tanken
+
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tanken-spritpreise-steigen-so-stark-wie-seit-wochen-nicht](https://www.spiegel.de/wirtschaft/tanken-spritpreise-steigen-so-stark-wie-seit-wochen-nicht-a-28741c32-199c-443b-928d-7acdd514b042#ref=rss)
+### e20
+
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+### einführung
+
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tanken-spritpreise-steigen-so-stark-wie-seit-wochen-nicht](https://www.spiegel.de/wirtschaft/tanken-spritpreise-steigen-so-stark-wie-seit-wochen-nicht-a-28741c32-199c-443b-928d-7acdd514b042#ref=rss)
+### bioethanol
+
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+### laut
+
+* [https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol](https://www.spiegel.de/mobilitaet/tanken-e-20-eu-prueft-offenbar-einfuehrung-von-neuem-billig-kraftstoff-mit-mehr-bioethanol-a-b78d1424-c720-48b4-950d-f055646b17aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an](https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an-a-46d239a3-3ba4-41e5-85f0-78a0d1f05e82#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss](https://www.spiegel.de/kultur/biennale-von-venedig-weil-russland-zurueckkehrt-streicht-eu-millionenzuschuss-a-e35d1765-69d7-4707-8f4b-1b09f4e819fb#ref=rss)
+* [https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba](https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba-a-67fb9b2c-ccf5-44a0-9708-47f2ce470f00#ref=rss)
+### bär
+
+* [https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet](https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet-a-d6c184ca-4d4b-48a4-8f43-1a3ab36a267c#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet](https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet-a-d6c184ca-4d4b-48a4-8f43-1a3ab36a267c#ref=rss)
+### angegriffen
+
+* [https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet](https://www.spiegel.de/panorama/polen-frau-von-baer-getoetet-a-d6c184ca-4d4b-48a4-8f43-1a3ab36a267c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft](https://www.spiegel.de/panorama/justiz/thueringen-frau-und-kind-angegriffen-und-rassistisch-beschimpft-a-0a006d22-b8b1-4d07-9072-fb67f9716bb7#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz](https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### seines
+
+* [https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest](https://www.spiegel.de/geschichte/historische-schahbesuche-vom-star-kult-zum-wuetenden-protest-a-31d09e4a-d08c-43de-b5b2-ceec293f08a7#ref=rss)
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### tschernobyl
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin](https://www.spiegel.de/ausland/russland-ukraine-krieg-dieses-paar-ueberlebte-tschernobyl-jetzt-fuerchtet-es-putin-a-14c3859c-7091-4959-88c3-ec841b6de93a#ref=rss)
+### spotify
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### bunny
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### 20
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an](https://www.spiegel.de/kultur/musik/spotify-taylor-swift-und-bad-bunny-fuehren-liste-der-meistgestreamten-musik-der-letzten-20-jahre-an-a-a6b31514-f350-4e8a-baa6-8e83d92102e4#ref=rss)
+* [https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba](https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba-a-67fb9b2c-ccf5-44a0-9708-47f2ce470f00#ref=rss)
+### paris
+
+* [https://www.spiegel.de/wirtschaft/paris-wetten-auf-hoechsttemperatur-manipulierten-unbekannte-messstationen-mit-einem-foehn](https://www.spiegel.de/wirtschaft/paris-wetten-auf-hoechsttemperatur-manipulierten-unbekannte-messstationen-mit-einem-foehn-a-b28d9ef6-8e77-4cb1-95ba-fb3c9ba01dfa#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/wirtschaft/paris-wetten-auf-hoechsttemperatur-manipulierten-unbekannte-messstationen-mit-einem-foehn](https://www.spiegel.de/wirtschaft/paris-wetten-auf-hoechsttemperatur-manipulierten-unbekannte-messstationen-mit-einem-foehn-a-b28d9ef6-8e77-4cb1-95ba-fb3c9ba01dfa#ref=rss)
+### arctic
+
+* [https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle](https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff#ref=rss)
+### metagaz
+
+* [https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle](https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff#ref=rss)
+### mittelmeer
+
+* [https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle](https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff#ref=rss)
+### karlsruhe
+
+* [https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt](https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt-a-61e8ae10-8162-4154-b12d-1026486e209f#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt](https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt-a-61e8ae10-8162-4154-b12d-1026486e209f#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt](https://www.spiegel.de/panorama/karlsruhe-wie-eine-aggressive-ameisen-art-die-stadt-untergraebt-a-61e8ae10-8162-4154-b12d-1026486e209f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an](https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an-a-46d239a3-3ba4-41e5-85f0-78a0d1f05e82#ref=rss)
+### marmor
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### quecksilber
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### nebel
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### woraus
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### inspirierende
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### gedankenspaziergänge
+
+* [https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge](https://www.spiegel.de/kultur/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-von-judith-schalansky-inspirierende-gedankenspaziergaenge-a-b240147e-423b-4e92-894f-832f09090583#ref=rss)
+### frachter
+
+* [https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern](https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern-a-62777793-5c86-4231-8e1e-6b14e41b2eae#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern](https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern-a-62777793-5c86-4231-8e1e-6b14e41b2eae#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern](https://www.spiegel.de/ausland/iran-krieg-video-soll-zeigen-wie-vermummte-zwei-frachter-in-der-strasse-von-hormus-kapern-a-62777793-5c86-4231-8e1e-6b14e41b2eae#ref=rss)
+### küche
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-prueft-familienstreit-zu-videoueberwachung-in-privater-kueche-a-205ea871-1cbb-4536-96ad-67fa70837747#ref=rss)
+### nba
+
+* [https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba](https://www.spiegel.de/kultur/victor-wembanyama-ausnahmebasketballer-bekommt-auszeichnung-der-nba-a-67fb9b2c-ccf5-44a0-9708-47f2ce470f00#ref=rss)
+### schnitzer
+
+* [https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an](https://www.spiegel.de/wirtschaft/soziales/monika-schnitzer-zweifelt-steuerplaene-aus-der-union-an-a-46d239a3-3ba4-41e5-85f0-78a0d1f05e82#ref=rss)
 
