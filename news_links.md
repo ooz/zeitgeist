@@ -4,332 +4,337 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### ende
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung](https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung-a-625613bf-e344-4fd2-9c46-8376b07de728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben](https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben-a-ba1bc1db-36a2-4466-ad65-89bd7d6a0c2a#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung](https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung-a-ebc62846-3a6c-44dd-9da2-b34bcabc36fd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung](https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung-a-625613bf-e344-4fd2-9c46-8376b07de728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben](https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben-a-ba1bc1db-36a2-4466-ad65-89bd7d6a0c2a#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump](https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump-a-87c93240-aeca-486b-a7d6-0cc54174164b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht](https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht-a-837ffb08-155d-4388-8df5-21144f5f005d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar-a-580f60b6-c071-4de6-9e69-c2fb2b3c3fc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### merz
+* [https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie](https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie-a-d3338a20-bc02-49fa-a86d-018d872fb0ac#ref=rss)
+* [https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-4353bcd9-5fb2-48c7-8804-975ca88d02b5#ref=rss)
+* [https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker](https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker-a-5e962e2c-48f3-4851-82d1-fbe99dea1863#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar-a-580f60b6-c071-4de6-9e69-c2fb2b3c3fc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### mehr
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+* [https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-4353bcd9-5fb2-48c7-8804-975ca88d02b5#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein](https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein-a-22155575-ae74-4cd3-95f4-cfa9b2338044#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-* [https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag](https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag-a-40b441a7-a6cc-4273-8806-1a037eef6b95#ref=rss)
-### iran
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
+* [https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen](https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen-a-a6930b79-f408-495a-a3f8-c68d2fb73413#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump](https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump-a-87c93240-aeca-486b-a7d6-0cc54174164b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht](https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht-a-837ffb08-155d-4388-8df5-21144f5f005d#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe](https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe-a-6cc11df9-06f8-4509-a959-949889ec0767#ref=rss)
-* [https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche](https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche-a-035b516a-c0e0-41dd-9e36-af7ac43f5943#ref=rss)
-### drei
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### main
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### experten
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr-a-6db04530-c372-4fd0-957a-a6b457fe3385#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf-a-6f1c4d06-137b-4091-acf5-1acfd5b756db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### todesstrafe
-
-* [https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe](https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe-a-6cc11df9-06f8-4509-a959-949889ec0767#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung](https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung-a-859db6d4-39e5-4d0d-8780-fa13e7e035ff#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher](https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher-a-b10f2d49-1201-440a-9c92-e76cc4ae9fd3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie](https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie-a-9cd0d95d-7669-4057-93f3-502eef459ebd#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet](https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet-a-558f2eb2-636a-4ba7-ad99-d55af7e3c799#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern](https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern-a-24ce7558-d576-4d4b-9d8f-b1b823426cc8#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem](https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem-a-e08489c7-0d24-441e-9c78-d997ea5784df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner-a-0127141e-801c-4b8f-a4a7-27838d7b2580#ref=rss)
-### tankrabatt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage](https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage-a-7a7c4668-7f4d-4e09-851e-c22218a5f5eb#ref=rss)
-* [https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag](https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag-a-40b441a7-a6cc-4273-8806-1a037eef6b95#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein](https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein-a-22155575-ae74-4cd3-95f4-cfa9b2338044#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/st-michael-in-bamberg-wie-man-eine-1000-jahre-alte-klosterkirche-saniert](https://www.spiegel.de/wissenschaft/technik/st-michael-in-bamberg-wie-man-eine-1000-jahre-alte-klosterkirche-saniert-a-b6d80339-6a1c-4f2a-97e9-c65802ecb803#ref=rss)
 ### irankrieg
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### steve
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg](https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg-a-92b8ac58-51d4-481d-8d92-0a33950c9324#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### witkoff
+* [https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie](https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie-a-d3338a20-bc02-49fa-a86d-018d872fb0ac#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### jared
+* [https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie](https://www.spiegel.de/wirtschaft/hermes-louis-vuitton-rolex-der-geheime-code-der-luxusindustrie-a-d3338a20-bc02-49fa-a86d-018d872fb0ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### hersteller
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### kushner
+* [https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china](https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china-a-33c0f890-2323-4ddb-af82-56e640d27384#ref=rss)
+### automesse
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### gespräche
+* [https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china](https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china-a-33c0f890-2323-4ddb-af82-56e640d27384#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### pakistan
+* [https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china](https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china-a-33c0f890-2323-4ddb-af82-56e640d27384#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### fährt
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china](https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china-a-33c0f890-2323-4ddb-af82-56e640d27384#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan](https://www.spiegel.de/ausland/iran-krieg-steve-witkoff-und-jared-kushner-reisen-fuer-gespraeche-mit-iran-nach-pakistan-a-091f07c4-1fbe-430c-a9ad-f60a113ff8d2#ref=rss)
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-### mateja
+* [https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china](https://www.spiegel.de/mobilitaet/mercedes-bmw-porsche-vw-diese-modelle-praesentieren-deutsche-hersteller-auf-der-automesse-in-china-a-33c0f890-2323-4ddb-af82-56e640d27384#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-wal-timmy-so-irritiert-blicken-internationale-medien-auf-deutschlands-wal-drama](https://www.spiegel.de/panorama/ostsee-wal-timmy-so-irritiert-blicken-internationale-medien-auf-deutschlands-wal-drama-a-185c2e65-3558-4f75-8969-1276bd54ba9d#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-### koležnik
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-### zeigt
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### gordon
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### schwestern
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung](https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung-a-ebc62846-3a6c-44dd-9da2-b34bcabc36fd#ref=rss)
+### herbert
 
-* [https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama](https://www.spiegel.de/kultur/berliner-ensemble-mateja-koleznik-zeigt-tschechows-drei-schwestern-als-modernes-kriegsdrama-a-e1570556-76f7-45b5-a09e-86a5436d1906#ref=rss)
-### kristi
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung](https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung-a-ebc62846-3a6c-44dd-9da2-b34bcabc36fd#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-### noem
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung](https://www.spiegel.de/sport/basketball/basketball-weltmeistercoach-gordon-herbert-spricht-ueber-bedrohliche-herzmuskelentzuednung-a-ebc62846-3a6c-44dd-9da2-b34bcabc36fd#ref=rss)
+* [https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura](https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura-a-a8134d3f-48ee-4f87-8d12-3efbc8768a1f#ref=rss)
+### präsidenten
 
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-### haus
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-gefaelschte-reportage-unterstellt-ukrainischem-praesidenten-verbindung-zu-kunstraub](https://www.spiegel.de/ausland/wolodymyr-selenskyj-gefaelschte-reportage-unterstellt-ukrainischem-praesidenten-verbindung-zu-kunstraub-a-48a94e96-e958-4ec7-856b-7b13ac7cf14d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-### usmilitärbasis
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-gefaelschte-reportage-unterstellt-ukrainischem-praesidenten-verbindung-zu-kunstraub](https://www.spiegel.de/ausland/wolodymyr-selenskyj-gefaelschte-reportage-unterstellt-ukrainischem-praesidenten-verbindung-zu-kunstraub-a-48a94e96-e958-4ec7-856b-7b13ac7cf14d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+### 80
 
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-abwrackpraemie-fuer-heizungen-und-ein-neun-euro-ticket](https://www.spiegel.de/politik/deutschland/gruene-wollen-abwrackpraemie-fuer-heizungen-und-ein-neun-euro-ticket-a-42e23cc2-2c1c-4a0b-9bc9-f90255fbcab7#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### nennt
 
-* [https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen](https://www.spiegel.de/ausland/kristi-noem-ex-heimatschutzministerin-weigert-sich-offenbar-aus-haus-auf-einer-us-militaerbasis-auszuziehen-a-ef38ce10-70fa-46b5-80b5-4faa052f5164#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### péter
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-stella-li-nennt-geplante-eu-quote-fuer-local-content-verrueckte-regulierung](https://www.spiegel.de/wirtschaft/unternehmen/byd-stella-li-nennt-geplante-eu-quote-fuer-local-content-verrueckte-regulierung-a-a1c7c4ac-77fb-43b0-9eb7-ed03a30bb684#ref=rss)
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### davon
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf-a-6f1c4d06-137b-4091-acf5-1acfd5b756db#ref=rss)
-### magyar
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-stella-li-nennt-geplante-eu-quote-fuer-local-content-verrueckte-regulierung](https://www.spiegel.de/wirtschaft/unternehmen/byd-stella-li-nennt-geplante-eu-quote-fuer-local-content-verrueckte-regulierung-a-a1c7c4ac-77fb-43b0-9eb7-ed03a30bb684#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### big
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf-a-6f1c4d06-137b-4091-acf5-1acfd5b756db#ref=rss)
-### droht
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### bang
 
-* [https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf](https://www.spiegel.de/ausland/ungarn-peter-magyar-mischt-schon-vor-amtsantritt-das-system-orban-auf-a-6f1c4d06-137b-4091-acf5-1acfd5b756db#ref=rss)
-* [https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag](https://www.spiegel.de/mobilitaet/tanken-spritpreise-in-deutschland-steigen-deutlich-rekordspruenge-am-mittag-a-40b441a7-a6cc-4273-8806-1a037eef6b95#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### impact
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar-a-580f60b6-c071-4de6-9e69-c2fb2b3c3fc3#ref=rss)
-### kubicki
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### one
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beleidigt-friedrich-merz-stufe-7-kommentar-a-580f60b6-c071-4de6-9e69-c2fb2b3c3fc3#ref=rss)
-### lage
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### million
 
-* [https://www.spiegel.de/ausland/japan-flammen-bedrohen-wohngebiet-in-tsuchi](https://www.spiegel.de/ausland/japan-flammen-bedrohen-wohngebiet-in-tsuchi-a-9cfb9803-e97c-4721-9304-1e69b6a30b90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage](https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage-a-7a7c4668-7f4d-4e09-851e-c22218a5f5eb#ref=rss)
-### regeln
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### 500
 
-* [https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe](https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe-a-6cc11df9-06f8-4509-a959-949889ec0767#ref=rss)
-### künftig
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### diamanten
 
-* [https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe](https://www.spiegel.de/ausland/todesstrafe-usa-verschaerfen-regeln-fuer-todesstrafe-a-6cc11df9-06f8-4509-a959-949889ec0767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### carlos
+* [https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten](https://www.spiegel.de/stil/luxusuhren-auf-der-messe-watches-and-wonders-hublots-big-bang-impact-one-million-mit-500-diamanten-a-550b266f-a73e-4b18-97b1-e345a9af6492#ref=rss)
+### cristian
 
-* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung](https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung-a-859db6d4-39e5-4d0d-8780-fa13e7e035ff#ref=rss)
-### alcaraz
+* [https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura](https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura-a-a8134d3f-48ee-4f87-8d12-3efbc8768a1f#ref=rss)
+### muñoz
 
-* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung](https://www.spiegel.de/sport/tennis/carlos-alcaraz-verpasst-french-open-wegen-handgelenksverletzung-a-859db6d4-39e5-4d0d-8780-fa13e7e035ff#ref=rss)
-### partei
+* [https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura](https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura-a-a8134d3f-48ee-4f87-8d12-3efbc8768a1f#ref=rss)
+### tour
 
-* [https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet](https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet-a-558f2eb2-636a-4ba7-ad99-d55af7e3c799#ref=rss)
-### endlich
+* [https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura](https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura-a-a8134d3f-48ee-4f87-8d12-3efbc8768a1f#ref=rss)
+### jura
 
-* [https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet](https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet-a-558f2eb2-636a-4ba7-ad99-d55af7e3c799#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet](https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet-a-558f2eb2-636a-4ba7-ad99-d55af7e3c799#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung](https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung-a-625613bf-e344-4fd2-9c46-8376b07de728#ref=rss)
-### personal
-
-* [https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet](https://www.spiegel.de/politik/deutschland/afd-internes-spitzentreffen-wie-sich-die-partei-aufs-regieren-vorbereitet-a-558f2eb2-636a-4ba7-ad99-d55af7e3c799#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern](https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern-a-24ce7558-d576-4d4b-9d8f-b1b823426cc8#ref=rss)
-### diplomat
-
-* [https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson](https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson-a-bb652ef9-768f-4a41-959b-1d2bd3169323#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson](https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson-a-bb652ef9-768f-4a41-959b-1d2bd3169323#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage](https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage-a-7a7c4668-7f4d-4e09-851e-c22218a5f5eb#ref=rss)
-### peter
-
-* [https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson](https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson-a-bb652ef9-768f-4a41-959b-1d2bd3169323#ref=rss)
-### mandelson
-
-* [https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson](https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson-a-bb652ef9-768f-4a41-959b-1d2bd3169323#ref=rss)
-### vonseiten
-
-* [https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson](https://www.spiegel.de/ausland/epstein-belasteter-diplomat-eu-behoerde-ermittelt-gegen-peter-mandelson-a-bb652ef9-768f-4a41-959b-1d2bd3169323#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem](https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem-a-e08489c7-0d24-441e-9c78-d997ea5784df#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem](https://www.spiegel.de/panorama/justiz/schuesse-in-pinneberg-polizei-fahndet-nach-fluechtigem-a-e08489c7-0d24-441e-9c78-d997ea5784df#ref=rss)
-### peking
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage](https://www.spiegel.de/politik/deutschland/news-des-tages-automesse-in-peking-tankrabatt-signal-spionage-a-7a7c4668-7f4d-4e09-851e-c22218a5f5eb#ref=rss)
-### eugipfel
-
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### zypern
-
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor-a-373f7657-5217-45e6-9fc8-364a2a2ff23d#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-### beseitigt
-
-* [https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da](https://www.spiegel.de/politik/deutschland/informeller-eu-gipfel-auf-zypern-endlich-ohne-viktor-orban-doch-diese-drei-probleme-sind-immer-noch-da-a-09fcb5c4-9902-46c8-ab9b-461c22877ea0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor-a-373f7657-5217-45e6-9fc8-364a2a2ff23d#ref=rss)
-### fahrradmonitor
-
-* [https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen](https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen-a-6db31f1c-e6d6-404e-ab6a-525b79c89785#ref=rss)
+* [https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura](https://www.spiegel.de/sport/radsport/cristian-munoz-kolumbianischer-radprofi-stirbt-nach-sturz-bei-tour-de-jura-a-a8134d3f-48ee-4f87-8d12-3efbc8768a1f#ref=rss)
 ### kinder
 
-* [https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen](https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen-a-6db31f1c-e6d6-404e-ab6a-525b79c89785#ref=rss)
-### wünschen
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+* [https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort](https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort-a-f8170034-a113-4748-b41b-f6d4688306ed#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen](https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen-a-6db31f1c-e6d6-404e-ab6a-525b79c89785#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg](https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg-a-92b8ac58-51d4-481d-8d92-0a33950c9324#ref=rss)
+### rechtschreibung
 
-* [https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen](https://www.spiegel.de/mobilitaet/fahrrad/fahrradmonitor-was-kinder-sich-fuer-einen-besseren-radverkehr-wuenschen-a-6db31f1c-e6d6-404e-ab6a-525b79c89785#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen](https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen-a-1e66d39f-b207-4f46-ad28-52204f20de59#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+### scheitern
 
-* [https://www.spiegel.de/panorama/nsdap-mitglieder-archiv-was-hat-ihr-grossvater-in-der-nazizeit-gemacht](https://www.spiegel.de/panorama/nsdap-mitglieder-archiv-was-hat-ihr-grossvater-in-der-nazizeit-gemacht-a-45f75a0a-d07a-4d68-bc8f-41132f7530c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr-a-6db04530-c372-4fd0-957a-a6b457fe3385#ref=rss)
-### jerome
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein](https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein-a-22155575-ae74-4cd3-95f4-cfa9b2338044#ref=rss)
-### powell
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern](https://www.spiegel.de/panorama/bildung/bildung-warum-so-viele-kinder-in-deutschland-an-rechtschreibung-scheitern-a-2285f22c-6ec4-4cce-9216-f91329c4381b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein](https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein-a-22155575-ae74-4cd3-95f4-cfa9b2338044#ref=rss)
-### ermittlungen
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### voll
 
-* [https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein](https://www.spiegel.de/wirtschaft/jerome-powell-us-staatsanwaeltin-stellt-ermittlungen-gegen-notenbankchef-ein-a-22155575-ae74-4cd3-95f4-cfa9b2338044#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher](https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher-a-b10f2d49-1201-440a-9c92-e76cc4ae9fd3#ref=rss)
-### 600
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### besetztes
 
-* [https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung](https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung-a-625613bf-e344-4fd2-9c46-8376b07de728#ref=rss)
-### dollar
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### auto
 
-* [https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung](https://www.spiegel.de/politik/donald-trump-praesident-verteidigt-robert-f-kennedys-fehlerhafte-sparrechnung-a-625613bf-e344-4fd2-9c46-8376b07de728#ref=rss)
-### christin
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### insassen
 
-* [https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche](https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche-a-035b516a-c0e0-41dd-9e36-af7ac43f5943#ref=rss)
-### nichols
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+### acht
 
-* [https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche](https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche-a-035b516a-c0e0-41dd-9e36-af7ac43f5943#ref=rss)
-### einige
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-voll-besetztes-auto-stuerzt-in-den-main-taucher-retten-insassen-a-b709e59f-52c8-4ab4-b2e0-266e70ef8906#ref=rss)
+* [https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker](https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker-a-5e962e2c-48f3-4851-82d1-fbe99dea1863#ref=rss)
+### lübeck
 
-* [https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche](https://www.spiegel.de/kultur/musik/christin-nichols-sie-hat-keine-depressionen-es-lag-nur-an-dir-album-der-woche-a-035b516a-c0e0-41dd-9e36-af7ac43f5943#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern](https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern-a-24ce7558-d576-4d4b-9d8f-b1b823426cc8#ref=rss)
-### tatort
+* [https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos](https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos-a-50a2d633-e022-4d3f-b87c-e06271cca35d#ref=rss)
+### betrunkener
 
-* [https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher](https://www.spiegel.de/kultur/tv/tatort-gegen-die-zeit-aus-wien-kleine-maenner-grosse-arschloecher-a-b10f2d49-1201-440a-9c92-e76cc4ae9fd3#ref=rss)
-### lockerung
+* [https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos](https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos-a-50a2d633-e022-4d3f-b87c-e06271cca35d#ref=rss)
+### schäden
 
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### sanktionen
+* [https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos](https://www.spiegel.de/panorama/justiz/luebeck-betrunkener-autofahrer-hinterlaesst-nach-wilder-fahrt-chaos-a-50a2d633-e022-4d3f-b87c-e06271cca35d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+### zuckersteuer
 
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht](https://www.spiegel.de/politik/deutschland/iran-krieg-friedrich-merz-stellt-teheran-lockerung-von-sanktionen-in-aussicht-a-2e6b07c4-38db-41ca-92ae-1aab530425d1#ref=rss)
-### leiche
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+### überraschend
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner-a-0127141e-801c-4b8f-a4a7-27838d7b2580#ref=rss)
-### expartner
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+### bewegung
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner-a-0127141e-801c-4b8f-a4a7-27838d7b2580#ref=rss)
-### 2024
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+### thema
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-leiche-in-schrank-versteckt-acht-jahre-haft-fuer-ex-partner-a-0127141e-801c-4b8f-a4a7-27838d7b2580#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor-a-373f7657-5217-45e6-9fc8-364a2a2ff23d#ref=rss)
-### björn
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+### vorwurf
 
-* [https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern](https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern-a-24ce7558-d576-4d4b-9d8f-b1b823426cc8#ref=rss)
-### höcke
+* [https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema](https://www.spiegel.de/politik/zuckersteuer-gesetzentwurf-von-nina-warken-bringt-ueberraschend-bewegung-ins-thema-a-a1526955-d43e-4275-9314-34e9443b984a#ref=rss)
+* [https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei](https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei-a-bdea92e8-4b81-40f3-8aa6-459397fc7255#ref=rss)
+### commerzbank
 
-* [https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern](https://www.spiegel.de/politik/deutschland/afd-kann-bjoern-hoecke-die-bundestagsfraktion-fernsteuern-a-24ce7558-d576-4d4b-9d8f-b1b823426cc8#ref=rss)
-### gianluca
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-bafin-untersagt-unicredit-negativ-werbung](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-bafin-untersagt-unicredit-negativ-werbung-a-7eccb9b4-bbdc-4c38-9191-e95110878406#ref=rss)
+### unicredit
 
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### prestianni
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-bafin-untersagt-unicredit-negativ-werbung](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-bafin-untersagt-unicredit-negativ-werbung-a-7eccb9b4-bbdc-4c38-9191-e95110878406#ref=rss)
+### ostpazifik
 
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### uefa
+* [https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-4353bcd9-5fb2-48c7-8804-975ca88d02b5#ref=rss)
+### unterwegs
 
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### vinícius
+* [https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-4353bcd9-5fb2-48c7-8804-975ca88d02b5#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### video
 
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### júnior
+* [https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/ostpazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-4353bcd9-5fb2-48c7-8804-975ca88d02b5#ref=rss)
+* [https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei](https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei-a-bdea92e8-4b81-40f3-8aa6-459397fc7255#ref=rss)
+### fall
 
-* [https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior](https://www.spiegel.de/sport/fussball/gianluca-prestianni-uefa-sperrt-benfica-profi-wegen-beleidigung-gegen-vinicius-junior-a-2706370b-64fb-4fba-9199-e5b80557d83c#ref=rss)
-### friends
+* [https://www.spiegel.de/panorama/ostsee-wal-timmy-so-irritiert-blicken-internationale-medien-auf-deutschlands-wal-drama](https://www.spiegel.de/panorama/ostsee-wal-timmy-so-irritiert-blicken-internationale-medien-auf-deutschlands-wal-drama-a-185c2e65-3558-4f75-8969-1276bd54ba9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg](https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg-a-92b8ac58-51d4-481d-8d92-0a33950c9324#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie](https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie-a-9cd0d95d-7669-4057-93f3-502eef459ebd#ref=rss)
-### lisa
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie](https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie-a-9cd0d95d-7669-4057-93f3-502eef459ebd#ref=rss)
-### kudrow
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie](https://www.spiegel.de/kultur/tv/friends-lisa-kudrow-erinnert-sich-an-gemeines-zeug-hinter-den-kulissen-der-serie-a-9cd0d95d-7669-4057-93f3-502eef459ebd#ref=rss)
-### benjamin
+* [https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer](https://www.spiegel.de/ausland/ukraine-krieg-rumaenien-meldet-erstmals-schaeden-durch-drohnentruemmer-a-bf6df925-0bca-4b70-bbbd-a48956d04d8b#ref=rss)
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
+### anthropic
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor-a-373f7657-5217-45e6-9fc8-364a2a2ff23d#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/netzwelt/anthropic-google-will-bis-zu-40-milliarden-dollar-in-ki-firma-investieren](https://www.spiegel.de/netzwelt/anthropic-google-will-bis-zu-40-milliarden-dollar-in-ki-firma-investieren-a-ad0682ce-bd32-4963-b15c-644092f7231c#ref=rss)
+### google
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-gibt-fruehere-krebs-erkrankung-bekannt-prostata-tumor-a-373f7657-5217-45e6-9fc8-364a2a2ff23d#ref=rss)
-### reiche
+* [https://www.spiegel.de/netzwelt/anthropic-google-will-bis-zu-40-milliarden-dollar-in-ki-firma-investieren](https://www.spiegel.de/netzwelt/anthropic-google-will-bis-zu-40-milliarden-dollar-in-ki-firma-investieren-a-ad0682ce-bd32-4963-b15c-644092f7231c#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben](https://www.spiegel.de/wirtschaft/donald-trump-gold-card-fuer-reiche-einwanderer-bislang-nur-ein-einziges-mal-vergeben-a-ba1bc1db-36a2-4466-ad65-89bd7d6a0c2a#ref=rss)
-### rheinmetall
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg](https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg-a-92b8ac58-51d4-481d-8d92-0a33950c9324#ref=rss)
+### miersch
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-offenbar-350-000-bewerbungen-im-vergangenen-jahr-a-6db04530-c372-4fd0-957a-a6b457fe3385#ref=rss)
-### thyssenkruppchef
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg](https://www.spiegel.de/politik/deutschland/matthias-miersch-draengt-auf-bereitschaft-zu-neuen-krediten-wegen-krise-durch-iran-krieg-a-92b8ac58-51d4-481d-8d92-0a33950c9324#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen](https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen-a-1e66d39f-b207-4f46-ad28-52204f20de59#ref=rss)
-### miguel
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/st-michael-in-bamberg-wie-man-eine-1000-jahre-alte-klosterkirche-saniert](https://www.spiegel.de/wissenschaft/technik/st-michael-in-bamberg-wie-man-eine-1000-jahre-alte-klosterkirche-saniert-a-b6d80339-6a1c-4f2a-97e9-c65802ecb803#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen](https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen-a-1e66d39f-b207-4f46-ad28-52204f20de59#ref=rss)
-### lópez
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### hälfte
 
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen](https://www.spiegel.de/wirtschaft/thyssenkrupp-chef-miguel-lopez-ich-werde-den-stahl-nicht-verramschen-a-1e66d39f-b207-4f46-ad28-52204f20de59#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### einzigen
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land](https://www.spiegel.de/mobilitaet/auto/elektroautos-weltweit-fast-80-millionen-die-haelfte-davon-in-einem-einzigen-land-a-e7f94be8-388b-4cb0-a6a5-06c9ddab3885#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+* [https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen](https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen-a-a6930b79-f408-495a-a3f8-c68d2fb73413#ref=rss)
+### neue
+
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+### rekordzahlen
+
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen](https://www.spiegel.de/reise/kreuzfahrt-urlaub-auf-dem-schiff-erreicht-neue-rekordzahlen-a-86c600ab-378a-4aed-b01e-805df0c93bc0#ref=rss)
+### kash
+
+* [https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump](https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump-a-87c93240-aeca-486b-a7d6-0cc54174164b#ref=rss)
+### patel
+
+* [https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump](https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump-a-87c93240-aeca-486b-a7d6-0cc54174164b#ref=rss)
+### fbichef
+
+* [https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump](https://www.spiegel.de/ausland/kash-patel-dieser-fbi-chef-ist-jetzt-ein-sicherheitsrisiko-fuer-donald-trump-a-87c93240-aeca-486b-a7d6-0cc54174164b#ref=rss)
+### entschuldigen
+
+* [https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort](https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort-a-f8170034-a113-4748-b41b-f6d4688306ed#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort](https://www.spiegel.de/familie/wie-kinder-entschuldigen-lernen-aenschuldidung-ist-ein-schweres-wort-a-f8170034-a113-4748-b41b-f6d4688306ed#ref=rss)
+* [https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen](https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen-a-a6930b79-f408-495a-a3f8-c68d2fb73413#ref=rss)
+### grenzen
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht](https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht-a-837ffb08-155d-4388-8df5-21144f5f005d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht](https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht-a-837ffb08-155d-4388-8df5-21144f5f005d#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht](https://www.spiegel.de/wirtschaft/jerome-powell-vs-donald-trump-die-entscheidung-der-justiz-zeigt-die-grenzen-von-trumps-macht-a-837ffb08-155d-4388-8df5-21144f5f005d#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker](https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker-a-5e962e2c-48f3-4851-82d1-fbe99dea1863#ref=rss)
+### sam
+
+* [https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker](https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker-a-5e962e2c-48f3-4851-82d1-fbe99dea1863#ref=rss)
+### altman
+
+* [https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker](https://www.spiegel.de/panorama/kanada-openai-chef-sam-altman-entschuldigt-sich-nach-schulmassaker-a-5e962e2c-48f3-4851-82d1-fbe99dea1863#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza](https://www.spiegel.de/politik/deutschland/news-koalitionskrach-zwischen-cdu-und-spd-iran-krieg-wahlen-in-gaza-a-47f6aa9e-ae9c-4448-b2ad-806bdb40195c#ref=rss)
+### journalist
+
+* [https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei](https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei-a-bdea92e8-4b81-40f3-8aa6-459397fc7255#ref=rss)
+### shihabeldin
+
+* [https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei](https://www.spiegel.de/ausland/kuweit-us-kuwaitischer-journalist-shihab-eldin-nach-wochenlanger-haft-frei-a-bdea92e8-4b81-40f3-8aa6-459397fc7255#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal](https://www.spiegel.de/panorama/prinz-harry-fordert-bei-ukraine-besuch-ende-des-kriegs-und-sieht-sich-weiterhin-als-royal-a-56e2af23-9dc8-4e25-94b8-86c587c043f3#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen](https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen-a-a6930b79-f408-495a-a3f8-c68d2fb73413#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen](https://www.spiegel.de/panorama/jugendliche-aus-der-ukraine-in-hamburg-ich-kann-nicht-in-die-armee-gehen-a-a6930b79-f408-495a-a3f8-c68d2fb73413#ref=rss)
 
