@@ -4,317 +4,379 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tot
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden](https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden-a-5426b6df-ae99-45cc-803b-429ec2c8edba#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden](https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden-a-5426b6df-ae99-45cc-803b-429ec2c8edba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahlen-keine-fruehjahrsbelebung-am-deutschen-arbeitsmarkt](https://www.spiegel.de/wirtschaft/arbeitslosenzahlen-keine-fruehjahrsbelebung-am-deutschen-arbeitsmarkt-a-c8e6aaf9-05be-4299-a595-11a504aec914#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen-a-55ba64e1-5a5c-4659-9af7-32f579b3483f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren](https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren-a-b54884fa-2762-4d5f-8a6c-bd47ebb57280#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen-a-e74e1022-0470-4e18-9419-d9f6b676c923#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren](https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren-a-b54884fa-2762-4d5f-8a6c-bd47ebb57280#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen-a-e74e1022-0470-4e18-9419-d9f6b676c923#ref=rss)
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen-a-e74e1022-0470-4e18-9419-d9f6b676c923#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart](https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart-a-230fa50d-646f-46c5-a98f-ed25f9b33700#ref=rss)
-* [https://www.spiegel.de/wirtschaft/heizungsgesetz-koalition-einigt-sich-auf-kostenbremse-fuer-mieter](https://www.spiegel.de/wirtschaft/heizungsgesetz-koalition-einigt-sich-auf-kostenbremse-fuer-mieter-a-c2e3ad34-d8fa-4fb7-b5a2-f5bc27bb36f7#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt](https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt-a-39ee0c70-37e6-431d-b90a-a34215392bb4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein](https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein-a-c64af637-8498-4915-b355-14bd80879241#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp-a-cc1b16aa-d94e-451d-8247-ec43f154efd9#ref=rss)
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen](https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen-a-cb7e029d-7e9d-4a56-b40c-a6f0e7cab253#ref=rss)
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen](https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen-a-7caa591a-32fd-4ce2-a9b5-c6f5ac020034#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor](https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor-a-7038c5a7-8c66-4193-a7e4-ea0d23fc9c72#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein](https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein-a-c64af637-8498-4915-b355-14bd80879241#ref=rss)
-### zurück
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt-a-4ac01129-2820-4211-b4a6-b418e7f06d59#ref=rss)
+* [https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage](https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage-a-f9f22c77-156e-4e6e-9c11-845cef2deec7#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft](https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft-a-f51013d3-4091-40df-8fc6-1d3007b2a660#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein](https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein-a-c64af637-8498-4915-b355-14bd80879241#ref=rss)
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-### main
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig-a-1bdbedb5-6b7c-447c-a821-e38190999697#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### georg
 
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-### große
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### baselitz
 
-* [https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren](https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren-a-b54884fa-2762-4d5f-8a6c-bd47ebb57280#ref=rss)
-* [https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart](https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart-a-230fa50d-646f-46c5-a98f-ed25f9b33700#ref=rss)
-### post
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-briefgeschaeft-wird-zum-ballast-fuer-die-post](https://www.spiegel.de/wirtschaft/deutsche-post-briefgeschaeft-wird-zum-ballast-fuer-die-post-a-aa055280-dd21-4580-b301-35cbc2dc19ce#ref=rss)
-### meryl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten-a-935e0600-d778-487b-aeb8-29b09b67c32b#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### london
 
-* [https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt](https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt-a-39ee0c70-37e6-431d-b90a-a34215392bb4#ref=rss)
-### streep
+* [https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london](https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london-a-4a6e3238-c41c-451e-b50a-117f26f37360#ref=rss)
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt](https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt-a-39ee0c70-37e6-431d-b90a-a34215392bb4#ref=rss)
-### erste
-
-* [https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt](https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt-a-39ee0c70-37e6-431d-b90a-a34215392bb4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt](https://www.spiegel.de/kultur/kino/meryl-streep-hat-ihr-gehalt-fuer-der-teufel-traegt-prada-verdoppelt-a-39ee0c70-37e6-431d-b90a-a34215392bb4#ref=rss)
-* [https://www.spiegel.de/kultur/diesel-und-benzin-was-wir-hier-sehen-ist-der-krieg-in-ziffern](https://www.spiegel.de/kultur/diesel-und-benzin-was-wir-hier-sehen-ist-der-krieg-in-ziffern-a-63bd87d0-8531-4a6c-a5ff-84339ff399e9#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-### freund
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bielefeld-frau-tot-in-kuehltruhe-gefunden-freund-in-untersuchungshaft-a-2710e347-586f-435f-8670-b8048f951599#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-### tankrabatt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp-a-cc1b16aa-d94e-451d-8247-ec43f154efd9#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-### akkermann
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig-a-1bdbedb5-6b7c-447c-a821-e38190999697#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-### liter
+* [https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor](https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor-a-7038c5a7-8c66-4193-a7e4-ea0d23fc9c72#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg-a-2ed4ba4f-8a27-491b-8974-a8aefba1855e#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-### diesel
+* [https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip](https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip-a-434d8bc9-976b-417b-ad7c-4f6d31ccd38a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-* [https://www.spiegel.de/kultur/diesel-und-benzin-was-wir-hier-sehen-ist-der-krieg-in-ziffern](https://www.spiegel.de/kultur/diesel-und-benzin-was-wir-hier-sehen-ist-der-krieg-in-ziffern-a-63bd87d0-8531-4a6c-a5ff-84339ff399e9#ref=rss)
-### pro
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### weit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann](https://www.spiegel.de/wirtschaft/unternehmen/diesel-preis-und-tankrabatt-friedrich-merz-besucht-den-lkw-spediteur-akkermann-a-f9a8cbe4-42de-4caf-90de-4612791e7936#ref=rss)
-### hunde
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen](https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen-a-7caa591a-32fd-4ce2-a9b5-c6f5ac020034#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-### gehirn
+* [https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte](https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte-a-bb5cd9d2-b6e3-4e5a-830f-9f503917d4fa#ref=rss)
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### ki
 
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-### welchen
+* [https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen](https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen-a-cb7e029d-7e9d-4a56-b40c-a6f0e7cab253#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ki-schlaegt-aerzte-im-diagnose-wettstreit](https://www.spiegel.de/wissenschaft/medizin/ki-schlaegt-aerzte-im-diagnose-wettstreit-a-4bf9a31d-46da-4c6c-ab42-e35df51e8458#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn](https://www.spiegel.de/wissenschaft/natur/hunde-als-die-tiere-zu-den-menschen-zogen-schrumpfte-ihr-gehirn-a-1fea8b29-490e-4a4f-83bc-c36f45e2c268#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
-### iss
+* [https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen](https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen-a-cb7e029d-7e9d-4a56-b40c-a6f0e7cab253#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus](https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus-a-04650d59-f3e4-4077-8811-95444f526ec6#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft](https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft-a-f51013d3-4091-40df-8fc6-1d3007b2a660#ref=rss)
-### knapp
+* [https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage](https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage-a-f9f22c77-156e-4e6e-9c11-845cef2deec7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus](https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus-a-04650d59-f3e4-4077-8811-95444f526ec6#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft](https://www.spiegel.de/wirtschaft/raumfahrt-weltall-sake-von-der-iss-fuer-knapp-600-000-euro-verkauft-a-f51013d3-4091-40df-8fc6-1d3007b2a660#ref=rss)
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-### techkonzerne
+* [https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage](https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage-a-f9f22c77-156e-4e6e-9c11-845cef2deec7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger](https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger-a-dd647547-985c-4212-b7b5-debb78a88dde#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen-a-9eaed836-bfd1-440c-aec0-01a4210e065c#ref=rss)
-### setzen
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen-a-9eaed836-bfd1-440c-aec0-01a4210e065c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-### voll
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-techkonzerne-starten-neue-milliardenrunde-im-ki-rennen-a-9eaed836-bfd1-440c-aec0-01a4210e065c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen-a-55ba64e1-5a5c-4659-9af7-32f579b3483f#ref=rss)
-### nrwverkehrsminister
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-nrw-verkehrsminister-fordert-preisstopp-a-cc1b16aa-d94e-451d-8247-ec43f154efd9#ref=rss)
-### sharon
-
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-### granites
-
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-* [https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden](https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden-a-99ec84e3-4b71-4a8d-a62a-e2b8a149eac6#ref=rss)
-### alter
-
-* [https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot](https://www.spiegel.de/panorama/justiz/australien-vermisste-fuenfjaehrige-sharon-granites-ist-offenbar-tot-a-bf2807ba-10a9-4dc5-bf57-83e0972d9851#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### ian
-
-* [https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden](https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden-a-5426b6df-ae99-45cc-803b-429ec2c8edba#ref=rss)
-### somerhalder
-
-* [https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden](https://www.spiegel.de/panorama/leute/vampire-diaries-ian-somerhalder-ueber-hilfe-seiner-frau-bei-millionenschulden-a-5426b6df-ae99-45cc-803b-429ec2c8edba#ref=rss)
-### krankenkassen
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen-a-55ba64e1-5a5c-4659-9af7-32f579b3483f#ref=rss)
-### bund
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen-a-55ba64e1-5a5c-4659-9af7-32f579b3483f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel](https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel-a-a6ab45ac-f3df-46b8-9a96-b96f737669c2#ref=rss)
-### versicherten
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-beitragszahler-sollen-weiter-fuer-kosten-von-buergergeldempfaengern-aufkommen-a-55ba64e1-5a5c-4659-9af7-32f579b3483f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel](https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel-a-a6ab45ac-f3df-46b8-9a96-b96f737669c2#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben](https://www.spiegel.de/panorama/frankfurt-am-main-17-jaehrige-nach-sturz-mit-auto-in-den-main-gestorben-a-61ef4c4f-c69e-4835-8fe3-be0364422de2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### sport
-
-* [https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein](https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein-a-c64af637-8498-4915-b355-14bd80879241#ref=rss)
-### laut
-
-* [https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein](https://www.spiegel.de/sport/golf/golf-saudi-arabien-stellt-finanzierung-der-liv-tour-offenbar-ein-a-c64af637-8498-4915-b355-14bd80879241#ref=rss)
-* [https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung](https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung-a-4d7158fb-a216-4abd-a222-e6345c8d5d05#ref=rss)
-### craig
-
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus](https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus-a-04650d59-f3e4-4077-8811-95444f526ec6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
 ### venter
 
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### erbgut
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot](https://www.spiegel.de/wissenschaft/mensch/craig-venter-genforschungs-pionier-ist-tot-a-b986ae22-abc4-468f-9635-62a40e8baff4#ref=rss)
-### wolfram
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig-a-1bdbedb5-6b7c-447c-a821-e38190999697#ref=rss)
+### schlägt
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### weimer
+* [https://www.spiegel.de/wissenschaft/medizin/ki-schlaegt-aerzte-im-diagnose-wettstreit](https://www.spiegel.de/wissenschaft/medizin/ki-schlaegt-aerzte-im-diagnose-wettstreit-a-4bf9a31d-46da-4c6c-ab42-e35df51e8458#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor](https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor-a-7038c5a7-8c66-4193-a7e4-ea0d23fc9c72#ref=rss)
+### jan
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### untersagt
+* [https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip](https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip-a-434d8bc9-976b-417b-ad7c-4f6d31ccd38a#ref=rss)
+### josef
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### äußerung
+* [https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip](https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip-a-434d8bc9-976b-417b-ad7c-4f6d31ccd38a#ref=rss)
+### liefers
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### berliner
+* [https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip](https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip-a-434d8bc9-976b-417b-ad7c-4f6d31ccd38a#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### buchladen
+* [https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip](https://www.spiegel.de/panorama/jan-josef-liefers-schauspieler-erzaehlt-von-ketamin-trip-a-434d8bc9-976b-417b-ad7c-4f6d31ccd38a#ref=rss)
+### nachruf
 
-* [https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen](https://www.spiegel.de/kultur/literatur/wolfram-weimer-gericht-untersagt-aeusserung-zu-berliner-buchladen-a-ea41df8f-6f45-477d-9993-59c180a15a22#ref=rss)
-### erwartet
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent-a-d1e4b521-1199-4f57-8c6c-6fa3b65bce2b#ref=rss)
-### deutsche
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+### figur
 
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent-a-d1e4b521-1199-4f57-8c6c-6fa3b65bce2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-briefgeschaeft-wird-zum-ballast-fuer-die-post](https://www.spiegel.de/wirtschaft/deutsche-post-briefgeschaeft-wird-zum-ballast-fuer-die-post-a-aa055280-dd21-4580-b301-35cbc2dc19ce#ref=rss)
-### prozent
+* [https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf](https://www.spiegel.de/kultur/georg-baselitz-ist-tot-der-schlachtenmaler-nachruf-a-7ca90a21-3e62-4f2e-9d49-8f9e0615575c#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london](https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london-a-4a6e3238-c41c-451e-b50a-117f26f37360#ref=rss)
+### marine
 
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-trotz-irankriegs-um-0-3-prozent-a-d1e4b521-1199-4f57-8c6c-6fa3b65bce2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-### konzerne
+* [https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte](https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte-a-bb5cd9d2-b6e3-4e5a-830f-9f503917d4fa#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren](https://www.spiegel.de/wirtschaft/us-zoelle-unter-donald-trump-wie-vor-allem-grosse-konzerne-von-den-rueckzahlungen-profitieren-a-b54884fa-2762-4d5f-8a6c-bd47ebb57280#ref=rss)
-### atomkraft
+* [https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte](https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte-a-bb5cd9d2-b6e3-4e5a-830f-9f503917d4fa#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london](https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london-a-4a6e3238-c41c-451e-b50a-117f26f37360#ref=rss)
+### videoaufnahmen
 
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-### rückbau
+* [https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte](https://www.spiegel.de/ausland/mittelmeer-israelische-marine-stoppt-groesste-gaza-hilfsflotte-a-bb5cd9d2-b6e3-4e5a-830f-9f503917d4fa#ref=rss)
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+### spotify
 
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-### reaktoren
+* [https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen](https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen-a-cb7e029d-7e9d-4a56-b40c-a6f0e7cab253#ref=rss)
+### musik
 
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-### vorerst
+* [https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen](https://www.spiegel.de/netzwelt/ki-spotify-will-von-menschen-produzierte-musik-kennzeichnen-a-cb7e029d-7e9d-4a56-b40c-a6f0e7cab253#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren](https://www.spiegel.de/wirtschaft/belgien-stoppt-den-rueckbau-seiner-atomreaktoren-a-5f927522-9a10-4677-8c83-e2cb3e199cfa#ref=rss)
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### arbeitern
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt-a-4ac01129-2820-4211-b4a6-b418e7f06d59#ref=rss)
+### islamlehrer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen-a-e74e1022-0470-4e18-9419-d9f6b676c923#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt-a-4ac01129-2820-4211-b4a6-b418e7f06d59#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-darf-arbeitern-in-usa-nicht-mit-verlagerung-nach-mexiko-drohen-a-e74e1022-0470-4e18-9419-d9f6b676c923#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-islamlehrer-wegen-missbrauchs-in-internat-verurteilt-a-4ac01129-2820-4211-b4a6-b418e7f06d59#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### simkarte
+
+* [https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage](https://www.spiegel.de/panorama/minden-sim-karte-fuehrt-ermittler-zu-verdaechtigem-wegen-militaerspionage-a-f9f22c77-156e-4e6e-9c11-845cef2deec7#ref=rss)
+### ben
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+### berndt
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+### podcaster
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+### netz
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast](https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast-a-6ab270eb-30b4-447b-99fe-ec3b2b98e770#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet](https://www.spiegel.de/politik/deutschland/ungeskriptet-von-ben-berndt-wer-ist-der-podcaster-der-bjoern-hoecke-eine-buehne-bietet-a-d50edb2f-1a26-4655-9686-02d14e1cf5f8#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london](https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london-a-4a6e3238-c41c-451e-b50a-117f26f37360#ref=rss)
+### aung
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### san
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### suu
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### kyi
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### hausarrest
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt](https://www.spiegel.de/ausland/myanmar-aung-san-suu-kyi-von-gefaengnis-in-hausarrest-verlegt-a-cbbd37b6-1a1e-4da9-97a7-a090dd939517#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast](https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast-a-6ab270eb-30b4-447b-99fe-ec3b2b98e770#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger](https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger-a-dd647547-985c-4212-b7b5-debb78a88dde#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast](https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast-a-6ab270eb-30b4-447b-99fe-ec3b2b98e770#ref=rss)
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+### ausstieg
+
+* [https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast](https://www.spiegel.de/netzwelt/web/white-tiger-die-15-jaehrige-die-erst-opfer-und-dann-taeterin-im-netz-wurde-podcast-a-6ab270eb-30b4-447b-99fe-ec3b2b98e770#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus](https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus-a-04650d59-f3e4-4077-8811-95444f526ec6#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus](https://www.spiegel.de/panorama/justiz/spanien-polizei-hebt-betruegerisches-callcenter-aus-a-04650d59-f3e4-4077-8811-95444f526ec6#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### europa
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### julian
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### schuster
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+### nie
+
+* [https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene](https://www.spiegel.de/sport/europa-league-sporting-braga-vs-sc-freiburg-julian-schuster-der-trainer-der-zwischentoene-a-e8fba44f-b530-4440-bfd2-6adb2bf025dd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### öl
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg-a-2ed4ba4f-8a27-491b-8974-a8aefba1855e#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-in-deutschland-wasser-predigen-und-oel-trinken-a-167f989d-9fc2-4200-9b68-ea0c18d36c3c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-beim-heer-es-rummst-gewaltig-a-1bdbedb5-6b7c-447c-a821-e38190999697#ref=rss)
+### warkens
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten-a-935e0600-d778-487b-aeb8-29b09b67c32b#ref=rss)
 ### gesundheitsreform
 
-* [https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel](https://www.spiegel.de/wirtschaft/gesundheitsreform-alle-sparen-und-der-bund-bedient-sich-spiegel-leitartikel-a-a6ab45ac-f3df-46b8-9a96-b96f737669c2#ref=rss)
-### kanada
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten-a-935e0600-d778-487b-aeb8-29b09b67c32b#ref=rss)
+### walverhalten
 
-* [https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden](https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden-a-99ec84e3-4b71-4a8d-a62a-e2b8a149eac6#ref=rss)
-### beleidigungen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten-a-935e0600-d778-487b-aeb8-29b09b67c32b#ref=rss)
+### uspräsidenten
 
-* [https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden](https://www.spiegel.de/sport/fussball/iran-fussballverbandschef-darf-nicht-nach-kanada-einreisen-und-kritisiert-behoerden-a-99ec84e3-4b71-4a8d-a62a-e2b8a149eac6#ref=rss)
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-truppenplaene-warkens-verhunzte-gesundheitsreform-die-deutschen-und-ihr-walverhalten-a-935e0600-d778-487b-aeb8-29b09b67c32b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### craig
 
-* [https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart](https://www.spiegel.de/politik/rheinland-pfalz-erste-grosse-koalition-von-cdu-und-spd-vereinbart-a-230fa50d-646f-46c5-a98f-ed25f9b33700#ref=rss)
-### gewinn
+* [https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf](https://www.spiegel.de/wissenschaft/craig-venter-ist-tot-der-mann-der-das-leben-nachbaute-nachruf-a-fb767f33-ec99-4391-b621-a9ef91228267#ref=rss)
+### banksy
 
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-### bricht
+* [https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london](https://www.spiegel.de/kultur/banksy-platziert-neue-statue-im-zentrum-von-london-a-4a6e3238-c41c-451e-b50a-117f26f37360#ref=rss)
+### akademie
 
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### ersten
+* [https://www.spiegel.de/kultur/akademie-der-kuenste-wie-baufaellig-ist-diese-berliner-architekturikone](https://www.spiegel.de/kultur/akademie-der-kuenste-wie-baufaellig-ist-diese-berliner-architekturikone-a-de9b7e3d-757d-42f2-9202-33d660f5bf6d#ref=rss)
+### künste
 
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-### quartal
+* [https://www.spiegel.de/kultur/akademie-der-kuenste-wie-baufaellig-ist-diese-berliner-architekturikone](https://www.spiegel.de/kultur/akademie-der-kuenste-wie-baufaellig-ist-diese-berliner-architekturikone-a-de9b7e3d-757d-42f2-9202-33d660f5bf6d#ref=rss)
+### juden
 
-* [https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein](https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4#ref=rss)
-### mieter
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+### mitten
 
-* [https://www.spiegel.de/wirtschaft/heizungsgesetz-koalition-einigt-sich-auf-kostenbremse-fuer-mieter](https://www.spiegel.de/wirtschaft/heizungsgesetz-koalition-einigt-sich-auf-kostenbremse-fuer-mieter-a-c2e3ad34-d8fa-4fb7-b5a2-f5bc27bb36f7#ref=rss)
-### osnabrück
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung](https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung-a-4d7158fb-a216-4abd-a222-e6345c8d5d05#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung](https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung-a-4d7158fb-a216-4abd-a222-e6345c8d5d05#ref=rss)
-### flüchten
+* [https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus](https://www.spiegel.de/ausland/london-messerattacke-auf-juden-meine-frau-traut-sich-nicht-mehr-aus-dem-haus-a-5d554db6-e906-42d4-a74b-63cb5281fe15#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung](https://www.spiegel.de/panorama/osnabrueck-kinder-retten-sich-aus-brennender-wohnung-a-4d7158fb-a216-4abd-a222-e6345c8d5d05#ref=rss)
-### ford
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege](https://www.spiegel.de/wirtschaft/konzernziele-angepasst-ford-spricht-mit-us-regierung-ueber-militaerauftraege-a-a597b710-3c55-4d5a-ae43-5565460ea381#ref=rss)
-### fed
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz](https://www.spiegel.de/ausland/us-praesident-donald-trump-wettert-weiter-gegen-bundeskanzler-friedrich-merz-a-bfeb4152-b553-4003-935a-b6a2fe80427f#ref=rss)
+### 88
 
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### powell
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib](https://www.spiegel.de/politik/jerome-powell-donald-trump-attackiert-fed-chef-wegen-voruebergehendem-verbleib-a-d1feb13b-9fac-4b5f-b948-634b7684d826#ref=rss)
-### indien
+* [https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/georg-baselitz-kuenstler-mit-88-jahren-gestorben-a-84fd88ac-8e76-491a-8c68-21aef892e838#ref=rss)
+### köln
 
-* [https://www.spiegel.de/panorama/leute/new-york-zohran-mamdani-empfiehlt-koenig-charles-kronjuwelen-rueckgabe-an-indien](https://www.spiegel.de/panorama/leute/new-york-zohran-mamdani-empfiehlt-koenig-charles-kronjuwelen-rueckgabe-an-indien-a-4e79ad9b-fd66-470b-a7a6-91a53bca6e5d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger](https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger-a-dd647547-985c-4212-b7b5-debb78a88dde#ref=rss)
+### enkel
+
+* [https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger](https://www.spiegel.de/panorama/justiz/koeln-falsche-polizisten-klingeln-bei-75-jaehriger-ihr-enkel-ueberwaeltigt-einen-der-betrueger-a-dd647547-985c-4212-b7b5-debb78a88dde#ref=rss)
+### bus
+
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet](https://www.spiegel.de/panorama/frankreich-bus-stuerzt-in-die-seine-vier-menschen-gerettet-a-323b2cdb-114b-4e1e-b3d8-35461b8a4c49#ref=rss)
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden](https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden-a-b7e0c157-fe80-4e38-a870-3265eab29188#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden](https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden-a-b7e0c157-fe80-4e38-a870-3265eab29188#ref=rss)
+### kathleen
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden](https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden-a-b7e0c157-fe80-4e38-a870-3265eab29188#ref=rss)
+### krüger
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden](https://www.spiegel.de/sport/fussball/hamburger-sv-kathleen-krueger-soll-nachfolgerin-von-stefan-kuntz-werden-a-b7e0c157-fe80-4e38-a870-3265eab29188#ref=rss)
+### neuauflage
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### apprentice
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice](https://www.spiegel.de/kultur/tv/donald-trump-amazon-diskutiert-offenbar-neuauflage-von-the-apprentice-a-98c828f1-0e51-495b-87a1-088b3acce8cd#ref=rss)
+### homöopathie
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen](https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen-a-7caa591a-32fd-4ce2-a9b5-c6f5ac020034#ref=rss)
+### längst
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen](https://www.spiegel.de/gesundheit/homoeopathie-warum-globuli-nicht-laenger-auf-kassenkosten-erstattet-werden-sollen-a-7caa591a-32fd-4ce2-a9b5-c6f5ac020034#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+### tankstellen
+
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+### regel
+
+* [https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel](https://www.spiegel.de/wirtschaft/benzinpreis-viele-tankstellen-verstossen-gegen-zwoelf-uhr-regel-a-31497c42-3017-44c1-b910-2b94ed36df4c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
+### diätenerhöhung
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor](https://www.spiegel.de/politik/deutschland/bundestag-spd-schlaegt-verzicht-auf-diaetenerhoehung-fuer-abgeordnete-vor-a-7038c5a7-8c66-4193-a7e4-ea0d23fc9c72#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg-a-2ed4ba4f-8a27-491b-8974-a8aefba1855e#ref=rss)
+### union
+
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-union-und-spd-einigen-sich-auf-mieterentlastung-und-oelausstieg-a-2ed4ba4f-8a27-491b-8974-a8aefba1855e#ref=rss)
+### diane
+
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
+### kruger
+
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
+### nazifilm
+
+* [https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt](https://www.spiegel.de/kultur/kino/diane-kruger-warum-sie-erneut-in-einem-nazifilm-mitspielt-a-fa1d4686-53ee-4a29-ba53-1e29b7920319#ref=rss)
 
