@@ -4,315 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus](https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus-a-48186e63-52c5-41c3-8fbb-f00235b525ee#ref=rss)
-* [https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne](https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne-a-1faa2583-0cba-4a11-a1bf-31e606ec8b7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt](https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt-a-bb433fbf-bed1-4a9d-9000-8b9ba42de374#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren](https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren-a-1c489a1e-94ee-4964-849d-9f08f2ca97d6#ref=rss)
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr](https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr-a-780b2b2f-4244-4e8f-87d8-4b0871fcdba2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona](https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona-a-f256433f-da60-4eda-91da-fb723737ee51#ref=rss)
-### 1
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna](https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna-a-0ff3b989-d436-4f88-a707-b32300ce6818#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt](https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt-a-bb433fbf-bed1-4a9d-9000-8b9ba42de374#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus](https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus-a-48186e63-52c5-41c3-8fbb-f00235b525ee#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet](https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet-a-7240dc81-a213-41e2-9175-7a317ebc7acd#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
-* [https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne](https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne-a-1faa2583-0cba-4a11-a1bf-31e606ec8b7b#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin](https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin-a-b788fa30-5691-490c-9b58-4718006e79c0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona](https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona-a-f256433f-da60-4eda-91da-fb723737ee51#ref=rss)
-### mai
-
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt](https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt-a-bb433fbf-bed1-4a9d-9000-8b9ba42de374#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### tankrabatt
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus](https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus-a-48186e63-52c5-41c3-8fbb-f00235b525ee#ref=rss)
-* [https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne](https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne-a-1faa2583-0cba-4a11-a1bf-31e606ec8b7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon-a-32fa32d9-38b8-4f1e-84c4-9036a2d6d7a4#ref=rss)
-* [https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben](https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben-a-0d07233d-e7dd-4f67-bd40-99ceb80ce5e7#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona](https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona-a-f256433f-da60-4eda-91da-fb723737ee51#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus](https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus-a-6cf7f1f7-d20f-4856-91b3-0e22263b2e7e#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle](https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle-a-203a4237-85d0-46f4-8075-b388bf5ec5e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind](https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind-a-82d56afb-a620-4086-a289-d79af1e1eb46#ref=rss)
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch](https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch-a-29b4d9cc-b464-4368-95da-d2af5af8cdd5#ref=rss)
+* [https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen](https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen-a-43eb2dd0-631c-47ef-a93a-379c8cfbe9a2#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna](https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna-a-0ff3b989-d436-4f88-a707-b32300ce6818#ref=rss)
+### 5000
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### usa
+
+* [https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour](https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour-a-6ff053ee-e079-4925-98a4-a03285568cd5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post](https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post-a-9fe88e6c-22e2-4c89-846d-8347fd58342c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch](https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch-a-29b4d9cc-b464-4368-95da-d2af5af8cdd5#ref=rss)
+* [https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt](https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt-a-cf953cf7-e4f4-4c31-81c5-fd6617db857a#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour](https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour-a-6ff053ee-e079-4925-98a4-a03285568cd5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna](https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna-a-0ff3b989-d436-4f88-a707-b32300ce6818#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid-a-d3014791-12ed-4990-b3d9-afabf808cc70#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler](https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler-a-a872972f-2b3b-4e25-8f6b-3d65c08ba66d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post](https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post-a-9fe88e6c-22e2-4c89-846d-8347fd58342c#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil](https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil-a-9ce3c4e5-9163-49dc-8c66-e8f71b665aec#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### politische
+
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### spirit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen](https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen-a-9ff18fbc-eebf-4944-b44e-e932d7e87379#ref=rss)
+### boden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein](https://www.spiegel.de/wirtschaft/unternehmen/sprit-zu-teuer-amerikanische-airline-spirit-stellt-flugbetrieb-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
+### berti
+
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
+### vogts
+
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
+### bonhof
+
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative-a-362aaed4-c03c-438d-a620-8c9db60d4676#ref=rss)
+### london
+
+* [https://www.spiegel.de/panorama/gesellschaft/zwillingsschwestern-aus-london-frauen-haben-unterschiedliche-vaeter](https://www.spiegel.de/panorama/gesellschaft/zwillingsschwestern-aus-london-frauen-haben-unterschiedliche-vaeter-a-537ab0d9-1d84-4b9e-a311-52a93be002a0#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/gesellschaft/zwillingsschwestern-aus-london-frauen-haben-unterschiedliche-vaeter](https://www.spiegel.de/panorama/gesellschaft/zwillingsschwestern-aus-london-frauen-haben-unterschiedliche-vaeter-a-537ab0d9-1d84-4b9e-a311-52a93be002a0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post](https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post-a-9fe88e6c-22e2-4c89-846d-8347fd58342c#ref=rss)
+### alessandro
+
+* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+### zanardi
+
+* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+### 59
+
+* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+* [https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt](https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt-a-cf953cf7-e4f4-4c31-81c5-fd6617db857a#ref=rss)
+### buckelwal
+
+* [https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+### szenen
+
+* [https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+### odyssee
+
+* [https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+### nordsee
+
+* [https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort](https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-in-der-ostsee-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler](https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler-a-a872972f-2b3b-4e25-8f6b-3d65c08ba66d#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid-a-d3014791-12ed-4990-b3d9-afabf808cc70#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid-a-d3014791-12ed-4990-b3d9-afabf808cc70#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid-a-d3014791-12ed-4990-b3d9-afabf808cc70#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-erstes-finale-des-jahres-in-madrid-a-d3014791-12ed-4990-b3d9-afabf808cc70#ref=rss)
+### abzug
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+### ussoldaten
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+### beide
+
+* [https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar](https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+### jüdischer
+
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
+### nonne
+
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben](https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben-a-0d07233d-e7dd-4f67-bd40-99ceb80ce5e7#ref=rss)
-* [https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden](https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden-a-a002819d-7205-4558-922c-771d34a93ba5#ref=rss)
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren](https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren-a-1c489a1e-94ee-4964-849d-9f08f2ca97d6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an](https://www.spiegel.de/ausland/israel-juedischer-mann-greift-nonne-in-jerusalem-an-a-01dab5b2-28fd-4a75-95fd-2ef02415663d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h](https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h-a-e74777be-ec12-4d98-9d9d-0751be632ec6#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin](https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin-a-b788fa30-5691-490c-9b58-4718006e79c0#ref=rss)
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
-### lange
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler](https://www.spiegel.de/kultur/kino/oscar-verleihung-keine-preise-fuer-ki-schauspieler-a-a872972f-2b3b-4e25-8f6b-3d65c08ba66d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### mojtaba
 
-* [https://www.spiegel.de/ausland/russland-wie-repressionen-den-buchmarkt-einschnueren](https://www.spiegel.de/ausland/russland-wie-repressionen-den-buchmarkt-einschnueren-a-501c48f1-f675-4c47-a660-6bc1bfffa211#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean](https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean-a-e77c3087-8667-4063-9cd8-936a8da7b7e3#ref=rss)
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
-### kawakami
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil](https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil-a-9ce3c4e5-9163-49dc-8c66-e8f71b665aec#ref=rss)
+### khamenei
 
-* [https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma](https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma-a-30eb70df-200e-434a-90f0-bd775d4b64a9#ref=rss)
-### satelliten
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil](https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil-a-9ce3c4e5-9163-49dc-8c66-e8f71b665aec#ref=rss)
+### irans
 
-* [https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln](https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln-a-c4c21388-bd3c-40bc-acd9-cb48488fa8a7#ref=rss)
-### tierwelt
+* [https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil](https://www.spiegel.de/ausland/mojtaba-khamenei-warum-ein-unsichtbarer-herrscher-fuer-irans-regime-kein-problem-ist-im-gegenteil-a-9ce3c4e5-9163-49dc-8c66-e8f71b665aec#ref=rss)
+### zayn
 
-* [https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln](https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln-a-c4c21388-bd3c-40bc-acd9-cb48488fa8a7#ref=rss)
-### kam
+* [https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour](https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour-a-6ff053ee-e079-4925-98a4-a03285568cd5#ref=rss)
+### malik
 
-* [https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln](https://www.spiegel.de/wissenschaft/icarus-projekt-satelliten-sollen-geheimnisse-der-tierwelt-entschluesseln-a-c4c21388-bd3c-40bc-acd9-cb48488fa8a7#ref=rss)
-* [https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle](https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle-a-203a4237-85d0-46f4-8075-b388bf5ec5e4#ref=rss)
-### viele
+* [https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour](https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour-a-6ff053ee-e079-4925-98a4-a03285568cd5#ref=rss)
+### tour
 
-* [https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus](https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus-a-48186e63-52c5-41c3-8fbb-f00235b525ee#ref=rss)
-### kampfmodus
-
-* [https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus](https://www.spiegel.de/wissenschaft/mensch/rechtsruck-und-resignation-viele-menschen-sind-in-einem-kampfmodus-a-48186e63-52c5-41c3-8fbb-f00235b525ee#ref=rss)
-### emirate
-
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon-a-32fa32d9-38b8-4f1e-84c4-9036a2d6d7a4#ref=rss)
-### irak
-
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon-a-32fa32d9-38b8-4f1e-84c4-9036a2d6d7a4#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon-a-32fa32d9-38b8-4f1e-84c4-9036a2d6d7a4#ref=rss)
-### grund
-
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-verbieten-reisen-nach-iran-irak-und-libanon-a-32fa32d9-38b8-4f1e-84c4-9036a2d6d7a4#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour](https://www.spiegel.de/kultur/musik/zayn-malik-verkuerzt-aus-gesundheitlichen-gruenden-seine-tour-a-6ff053ee-e079-4925-98a4-a03285568cd5#ref=rss)
 ### zölle
 
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
-### woche
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### ökonomen
 
-* [https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent](https://www.spiegel.de/ausland/donald-trump-erhoeht-zoelle-auf-autos-und-lkw-auf-25-prozent-a-b83cb08f-fba8-441e-8750-d67bd4474af4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h](https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h-a-e74777be-ec12-4d98-9d9d-0751be632ec6#ref=rss)
-### alb
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle](https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle-a-203a4237-85d0-46f4-8075-b388bf5ec5e4#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle](https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle-a-203a4237-85d0-46f4-8075-b388bf5ec5e4#ref=rss)
-* [https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall](https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall-a-2cf8d6f9-e035-471a-a516-72ad7280634d#ref=rss)
-### höhle
-
-* [https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle](https://www.spiegel.de/panorama/schwaebische-alb-61-jaehriger-stirbt-trotz-grosseinsatz-in-wilder-hoehle-a-203a4237-85d0-46f4-8075-b388bf5ec5e4#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben](https://www.spiegel.de/ausland/iran-soll-vorschlag-zur-beendigung-des-krieges-eingebracht-haben-a-0d07233d-e7dd-4f67-bd40-99ceb80ce5e7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona](https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona-a-f256433f-da60-4eda-91da-fb723737ee51#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv](https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv-a-701057f0-6d79-4191-8e65-b136af0d778e#ref=rss)
-### tv
-
-* [https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv](https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv-a-701057f0-6d79-4191-8e65-b136af0d778e#ref=rss)
-### durfte
-
-* [https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv](https://www.spiegel.de/ausland/tschernobyl-so-sieht-es-in-der-atom-ruine-heute-aus-spiegel-tv-a-701057f0-6d79-4191-8e65-b136af0d778e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren](https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren-a-1c489a1e-94ee-4964-849d-9f08f2ca97d6#ref=rss)
-### gerissene
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet](https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet-a-7240dc81-a213-41e2-9175-7a317ebc7acd#ref=rss)
-### oberleitung
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet](https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet-a-7240dc81-a213-41e2-9175-7a317ebc7acd#ref=rss)
-### lüneburg
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet](https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet-a-7240dc81-a213-41e2-9175-7a317ebc7acd#ref=rss)
-### ice
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet](https://www.spiegel.de/panorama/deutsche-bahn-gerissene-oberleitung-bei-lueneburg-hunderte-im-ice-gestrandet-a-7240dc81-a213-41e2-9175-7a317ebc7acd#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-### besten
-
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder](https://www.spiegel.de/panorama/gesellschaft/1-mai-proteste-weltweit-pyro-power-ranger-polizei-die-besten-bilder-a-e20046ef-3003-485e-892b-4091c0c20612#ref=rss)
-* [https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall](https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall-a-2cf8d6f9-e035-471a-a516-72ad7280634d#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-### albert
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-### riera
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trainer-albert-riera-legt-sich-vor-hsv-spiel-mit-journalisten-an-a-a0d3a0c8-8f17-4013-a78b-ce6f50520229#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### şahin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind](https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind-a-82d56afb-a620-4086-a289-d79af1e1eb46#ref=rss)
-### türeci
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind](https://www.spiegel.de/wirtschaft/unternehmen/biontech-warum-die-gruender-ugur-sahin-und-oezlem-tuereci-wirklich-gegangen-sind-a-82d56afb-a620-4086-a289-d79af1e1eb46#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h](https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h-a-e74777be-ec12-4d98-9d9d-0751be632ec6#ref=rss)
-### kacey
-
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h](https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h-a-e74777be-ec12-4d98-9d9d-0751be632ec6#ref=rss)
-### musgraves
-
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h](https://www.spiegel.de/kultur/musik/album-der-woche-mit-kacey-musgraves-und-middle-of-nowhere-country-mit-grossem-h-a-e74777be-ec12-4d98-9d9d-0751be632ec6#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean](https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean-a-e77c3087-8667-4063-9cd8-936a8da7b7e3#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean](https://www.spiegel.de/kultur/tv/tatort-aus-zuerich-koenige-der-nacht-mit-ott-und-grandjean-a-e77c3087-8667-4063-9cd8-936a8da7b7e3#ref=rss)
-* [https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden](https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden-a-a002819d-7205-4558-922c-771d34a93ba5#ref=rss)
-### uns
-
-* [https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne](https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne-a-1faa2583-0cba-4a11-a1bf-31e606ec8b7b#ref=rss)
-### ich
-
-* [https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne](https://www.spiegel.de/politik/stimmung-in-deutschland-meckern-koennen-wir-kolumne-a-1faa2583-0cba-4a11-a1bf-31e606ec8b7b#ref=rss)
-### anita
-
-* [https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin](https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin-a-b788fa30-5691-490c-9b58-4718006e79c0#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin](https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin-a-b788fa30-5691-490c-9b58-4718006e79c0#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin](https://www.spiegel.de/ausland/ungarn-wer-ist-anita-orban-die-neue-aussenministerin-a-b788fa30-5691-490c-9b58-4718006e79c0#ref=rss)
-### spritpreise
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### geben
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-### teilweise
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona](https://www.spiegel.de/ausland/donald-trump-grenzmauer-zu-mexiko-beschaedigt-uraltes-indigenes-bodenbild-in-arizona-a-f256433f-da60-4eda-91da-fb723737ee51#ref=rss)
-### kraftstoffpreise
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
 ### deutlich
 
-* [https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter](https://www.spiegel.de/wirtschaft/spritpreise-konzerne-geben-tankrabatt-nur-teilweise-an-kunden-weiter-a-b80a0946-c8da-432d-b6be-67705f9f9c77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-### geld
+* [https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen](https://www.spiegel.de/wirtschaft/donald-trump-eu-und-wirtschaft-kritisieren-neue-zoelle-oekonomen-warnen-vor-folgen-a-4b95873f-a53d-4488-b4ea-fe787a3b930c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### tier
 
-* [https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt](https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt-a-bb433fbf-bed1-4a9d-9000-8b9ba42de374#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl](https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl-a-8b673f8f-6dad-49bd-94e7-db10eb20b197#ref=rss)
-### hilft
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort](https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt](https://www.spiegel.de/wirtschaft/strompreise-und-energiewende-warum-deutschland-strom-ins-ausland-verschenkt-a-bb433fbf-bed1-4a9d-9000-8b9ba42de374#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet](https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet-a-b39d3fda-c61a-404f-8a31-2728f0468db8#ref=rss)
-### lars
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort](https://www.spiegel.de/panorama/ostsee-wal-news-heute-todkrankes-tier-lediglich-an-einem-anderen-ort-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen](https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen-a-9ff18fbc-eebf-4944-b44e-e932d7e87379#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+### mitte
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat](https://www.spiegel.de/politik/deutschland/lars-klingbeil-wettert-gegen-donald-trump-soll-sehen-welche-scherbenhaufen-er-angerichtet-hat-a-eea0b5b9-ca69-4986-8ab6-9c48bc670b5d#ref=rss)
-### pawel
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+### macht
 
-* [https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren](https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren-a-1c489a1e-94ee-4964-849d-9f08f2ca97d6#ref=rss)
-### talankin
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative-a-362aaed4-c03c-438d-a620-8c9db60d4676#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren](https://www.spiegel.de/kultur/kino/oscar-fuer-besten-dokumentarfilm-von-pawel-talankin-geht-waehrend-flug-nach-frankfurt-verloren-a-1c489a1e-94ee-4964-849d-9f08f2ca97d6#ref=rss)
-### euro
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### gewählt
 
-* [https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner](https://www.spiegel.de/wirtschaft/service/tankrabatt-ab-1-mai-tankrabatt-zeigt-immer-staerkere-wirkung-mittagssprung-etwas-kleiner-a-c6e49cc2-b240-4c60-974e-b6873f58fe20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl](https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl-a-8b673f8f-6dad-49bd-94e7-db10eb20b197#ref=rss)
-### tonaufnahmen
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+### parteien
 
-* [https://www.spiegel.de/kultur/prinzessin-diana-geheime-tonaufnahmen-sollen-erstmals-veroeffentlicht-werden](https://www.spiegel.de/kultur/prinzessin-diana-geheime-tonaufnahmen-sollen-erstmals-veroeffentlicht-werden-a-29d7af50-7ee6-447f-a512-925832a5f67f#ref=rss)
-### jobsuche
+* [https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht](https://www.spiegel.de/ausland/frankreich-wie-die-politische-mitte-wahlkampfhilfe-fuer-marine-le-pen-macht-a-524b26d5-eeb5-4857-85b8-377f315f68c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen](https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen-a-9ff18fbc-eebf-4944-b44e-e932d7e87379#ref=rss)
+### deutschlandticket
 
-* [https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden](https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden-a-a002819d-7205-4558-922c-771d34a93ba5#ref=rss)
-### geschäftsmodell
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-auf-diesen-strecken-wird-das-deutschlandticket-zur-ice-alternative-a-362aaed4-c03c-438d-a620-8c9db60d4676#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden](https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden-a-a002819d-7205-4558-922c-771d34a93ba5#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen](https://www.spiegel.de/politik/deutschland/mieten-und-wehrpflicht-wie-bsw-linke-und-afd-mit-apps-politik-machen-a-9ff18fbc-eebf-4944-b44e-e932d7e87379#ref=rss)
+### food
 
-* [https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden](https://www.spiegel.de/karriere/diskriminierung-bei-der-jobsuche-wie-scheinbewerbungen-zum-geschaeftsmodell-werden-a-a002819d-7205-4558-922c-771d34a93ba5#ref=rss)
-* [https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma](https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma-a-30eb70df-200e-434a-90f0-bd775d4b64a9#ref=rss)
-### sylt
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+### noise
 
-* [https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall](https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall-a-2cf8d6f9-e035-471a-a516-72ad7280634d#ref=rss)
-### fahrradfahrerin
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall](https://www.spiegel.de/panorama/sylt-fahrradfahrerin-stirbt-bei-unfall-a-2cf8d6f9-e035-471a-a516-72ad7280634d#ref=rss)
-### april
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+### ums
 
-* [https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020](https://www.spiegel.de/panorama/asyl-6144-neue-antraege-im-april-niedrigster-wert-seit-2020-a-7800d50d-79f6-42fb-99f2-9cfc90caad38#ref=rss)
-* [https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma](https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma-a-30eb70df-200e-434a-90f0-bd775d4b64a9#ref=rss)
-### arthrose
+* [https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast](https://www.spiegel.de/gesundheit/food-noise-wie-wir-wieder-entspannter-mit-ernaehrung-umgeh-podcast-a-c336cebc-1433-490e-b92f-b44e46c26feb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet](https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet-a-b39d3fda-c61a-404f-8a31-2728f0468db8#ref=rss)
-### betroffene
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen](https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen-a-43eb2dd0-631c-47ef-a93a-379c8cfbe9a2#ref=rss)
+### rheinlandpfalz
 
-* [https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet](https://www.spiegel.de/gesundheit/diagnose/knie-prothesen-bei-arthrose-was-die-gesundheitsreform-fuer-betroffene-bedeutet-a-b39d3fda-c61a-404f-8a31-2728f0468db8#ref=rss)
-### baseballschiedsrichter
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+### usregierung
 
-* [https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma](https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma-a-30eb70df-200e-434a-90f0-bd775d4b64a9#ref=rss)
-### takuto
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### abziehen
 
-* [https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma](https://www.spiegel.de/sport/japan-baseball-schiedsrichter-takuto-kawakami-nach-kopftreffer-im-koma-a-30eb70df-200e-434a-90f0-bd775d4b64a9#ref=rss)
-### leon
+* [https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/news-us-truppenabzug-aus-deutschland-grosse-koalition-in-rheinland-pfalz-neuer-fdp-generalsekretaer-a-d97dadd1-a355-4142-afa2-38eb8699b77c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### falschen
 
-* [https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr](https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr-a-780b2b2f-4244-4e8f-87d8-4b0871fcdba2#ref=rss)
-### draisaitl
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+### lockt
 
-* [https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr](https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr-a-780b2b2f-4244-4e8f-87d8-4b0871fcdba2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt](https://www.spiegel.de/ausland/ukraine-wie-russland-junge-afrikaner-mit-falschen-versprechungen-in-den-krieg-lockt-a-575f2f72-7a84-44af-82bc-37f8b781e1d3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/usa-und-deutschland-us-regierung-will-5000-soldaten-aus-deutschland-abziehen-a-5968dc5d-d441-4ceb-9fd1-ea11fbfd3504#ref=rss)
+### iranischen
+
+* [https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran](https://www.spiegel.de/ausland/donald-trump-nicht-zufrieden-mit-neuem-vorschlag-zu-kriegsende-aus-iran-a-8f87b3e1-7aa6-4d49-8106-f1f879a0928f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus](https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus-a-6cf7f1f7-d20f-4856-91b3-0e22263b2e7e#ref=rss)
+### untersagt
+
+* [https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post](https://www.spiegel.de/ausland/usa-berufungsgericht-untersagt-versand-von-abtreibungspille-per-post-a-9fe88e6c-22e2-4c89-846d-8347fd58342c#ref=rss)
+### rosalía
+
+* [https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch](https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch-a-29b4d9cc-b464-4368-95da-d2af5af8cdd5#ref=rss)
+### lux
+
+* [https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch](https://www.spiegel.de/kultur/musik/rosalia-mit-lux-in-berlin-und-dann-schwang-das-stroboskop-wie-ein-weihrauchkelch-a-29b4d9cc-b464-4368-95da-d2af5af8cdd5#ref=rss)
+### narges
+
+* [https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus](https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus-a-6cf7f1f7-d20f-4856-91b3-0e22263b2e7e#ref=rss)
+### mohammadi
+
+* [https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus](https://www.spiegel.de/ausland/iran-nobelpreistraegerin-narges-mohammadi-mit-herzproblemen-im-krankenhaus-a-6cf7f1f7-d20f-4856-91b3-0e22263b2e7e#ref=rss)
+### einkommen
+
+* [https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen](https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen-a-43eb2dd0-631c-47ef-a93a-379c8cfbe9a2#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen](https://www.spiegel.de/politik/lars-klingbeil-will-untere-einkommen-entlasten-spitzenverdiener-sollen-mehr-zahlen-a-43eb2dd0-631c-47ef-a93a-379c8cfbe9a2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### fifa
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
+### neutralität
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
 ### wm
 
-* [https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr](https://www.spiegel.de/sport/eishockey/nhl-playoffs-leon-draisaitl-mit-edmonton-oilers-ausgeschieden-wm-mit-deutschland-in-gefahr-a-780b2b2f-4244-4e8f-87d8-4b0871fcdba2#ref=rss)
-### experte
+* [https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet](https://www.spiegel.de/sport/fussball-wm-2026-iran-fordert-von-fifa-sicherheitsgarantien-und-politische-neutralitaet-a-512004f2-6d84-4469-9d49-c626a52769e4#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl](https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl-a-8b673f8f-6dad-49bd-94e7-db10eb20b197#ref=rss)
-### diebstahl
+* [https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt](https://www.spiegel.de/ausland/1-mai-in-berlin-polizei-zieht-positive-bilanz-friedliche-demos-und-ikkimel-auftritt-a-cf953cf7-e4f4-4c31-81c5-fd6617db857a#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl](https://www.spiegel.de/wirtschaft/soziales/rente-koalition-plant-milliarden-griff-in-die-rentenkasse-experte-spricht-von-diebstahl-a-8b673f8f-6dad-49bd-94e7-db10eb20b197#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-soldaten-deutlich-hoeheren-sold-zahlen-a-adedb4d4-4ebe-4535-83b6-84d5533f593d#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna](https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna-a-0ff3b989-d436-4f88-a707-b32300ce6818#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna](https://www.spiegel.de/ausland/kuba-donald-trump-verschaerft-sanktionen-kurz-nach-massendemo-in-havanna-a-0ff3b989-d436-4f88-a707-b32300ce6818#ref=rss)
 
