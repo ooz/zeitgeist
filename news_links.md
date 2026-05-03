@@ -4,353 +4,346 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sigmund
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-### freud
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-### alessandro
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### zanardi
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt-a-94a7c47d-e1fd-43b1-bba5-ab4782978ef6#ref=rss)
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt-a-94a7c47d-e1fd-43b1-bba5-ab4782978ef6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck](https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck-a-28184664-576c-40e7-b83e-1fbbedcb4d81#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### uns
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-* [https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen](https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-* [https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen](https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen-a-2cee0a29-a73d-4a8d-8555-ae86eef9074a#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-* [https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen](https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen-a-2cee0a29-a73d-4a8d-8555-ae86eef9074a#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen](https://www.spiegel.de/familie/kindergeburtstag-zu-hause-kein-alleinunterhalter-keine-huepfburg-aber-jede-menge-fragen-a-2cee0a29-a73d-4a8d-8555-ae86eef9074a#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### emirate
-
-* [https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise](https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise-a-b453de7b-bb9d-46de-a75c-63a90bacd806#ref=rss)
-### luftraum
-
-* [https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise](https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise-a-b453de7b-bb9d-46de-a75c-63a90bacd806#ref=rss)
-### schrittweise
-
-* [https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise](https://www.spiegel.de/ausland/iran-krieg-dubai-emirate-oeffnen-nach-waffenruhe-ihren-luftraum-schrittweise-a-b453de7b-bb9d-46de-a75c-63a90bacd806#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt-a-94a7c47d-e1fd-43b1-bba5-ab4782978ef6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale-a-be73593c-f180-44bb-8d08-6c7fcc5e325b#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-rettet-remis-in-der-nachspielzeit-hamburger-sv-schlaegt-eintracht-frankfurt-a-94a7c47d-e1fd-43b1-bba5-ab4782978ef6#ref=rss)
-### meeressäuger
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-* [https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck](https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck-a-28184664-576c-40e7-b83e-1fbbedcb4d81#ref=rss)
-### nordsee
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### tränen
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
-### wochenlang
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### land
-
-* [https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee](https://www.spiegel.de/wissenschaft/natur/ostsee-wal-timmy-im-video-der-meeressaeuger-ist-zurueck-in-der-nordsee-a-faeb54e0-802f-4461-a8af-95979cd86e20#ref=rss)
-* [https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt](https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt-a-c5b2ade0-f60c-4e05-a35e-b500761b8192#ref=rss)
-### jule
-
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale-a-be73593c-f180-44bb-8d08-6c7fcc5e325b#ref=rss)
-### brand
-
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale-a-be73593c-f180-44bb-8d08-6c7fcc5e325b#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-jule-brand-schiesst-olympique-lyon-ins-finale-a-be73593c-f180-44bb-8d08-6c7fcc5e325b#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten](https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten-a-60b5d557-c530-4984-a006-dba481b9160d#ref=rss)
-### jindal
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten](https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten-a-60b5d557-c530-4984-a006-dba481b9160d#ref=rss)
-### steel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten](https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten-a-60b5d557-c530-4984-a006-dba481b9160d#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten](https://www.spiegel.de/wirtschaft/unternehmen/nach-verhandlungen-mit-jindal-steel-thyssenkrupp-will-stahlsparte-vorerst-doch-behalten-a-60b5d557-c530-4984-a006-dba481b9160d#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/mobilitaet/tankrabatt-diesel-und-benzin-muessten-laut-adac-drei-cent-guenstiger-sein](https://www.spiegel.de/mobilitaet/tankrabatt-diesel-und-benzin-muessten-laut-adac-drei-cent-guenstiger-sein-a-9aae5696-2a11-4df8-913a-5ba247fecd07#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/mobilitaet/tankrabatt-diesel-und-benzin-muessten-laut-adac-drei-cent-guenstiger-sein](https://www.spiegel.de/mobilitaet/tankrabatt-diesel-und-benzin-muessten-laut-adac-drei-cent-guenstiger-sein-a-9aae5696-2a11-4df8-913a-5ba247fecd07#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein](https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein](https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen](https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss)
-### gelassen
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-### geplanten
-
-* [https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft](https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-### xatar
-
-* [https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck](https://www.spiegel.de/kultur/musik/xatar-ard-serie-ueber-rapper-ganz-unten-ganz-oben-und-wieder-zurueck-a-28184664-576c-40e7-b83e-1fbbedcb4d81#ref=rss)
-### hobby
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-### horsing
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
-### meisterschaften
-
-* [https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main](https://www.spiegel.de/sport/hobby-horsing-die-besten-bilder-der-deutschen-meisterschaften-in-frankfurt-am-main-a-a3263ad7-1b58-4049-a36b-b5e221fbc3d4#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus](https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus-a-8c9d9638-df60-4b47-87d2-f44ad9974075#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+* [https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere](https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere-a-1cbf3d29-48bd-40b9-bc2a-fff0e4c72461#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft](https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft-a-c7395954-4091-44ce-8359-a57e95ea4e11#ref=rss)
+* [https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos](https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos-a-ec7a6d8a-af3c-49f9-8cb0-b2646c53a3c7#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen](https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen-a-c4307c39-8eab-415b-8fe4-4be04ef97d1c#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende](https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende-a-799a4f42-4169-4783-972e-52d2cdfc50e0#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus](https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus-a-8c9d9638-df60-4b47-87d2-f44ad9974075#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland-a-e5695f54-970e-4b4d-8189-f221b6fab58a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft](https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft-a-3189a034-fc7c-434b-9614-02b816af5e2b#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus](https://www.spiegel.de/ausland/gaza-ratten-und-parasiten-breiten-sich-in-zeltlagern-aus-a-8c9d9638-df60-4b47-87d2-f44ad9974075#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### tiere
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+* [https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere](https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere-a-1cbf3d29-48bd-40b9-bc2a-fff0e4c72461#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an-a-e9e877c8-3c6c-4021-92f4-397160a8522a#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt](https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt-a-c5b2ade0-f60c-4e05-a35e-b500761b8192#ref=rss)
-### sollte
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt](https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt-a-c5b2ade0-f60c-4e05-a35e-b500761b8192#ref=rss)
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-### tier
-
-* [https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt](https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt-a-c5b2ade0-f60c-4e05-a35e-b500761b8192#ref=rss)
-### mensch
-
-* [https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt](https://www.spiegel.de/panorama/grillen-jeder-der-tiere-isst-sollte-sich-einmal-ansehen-wie-ein-tier-stirbt-a-c5b2ade0-f60c-4e05-a35e-b500761b8192#ref=rss)
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### theorien
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-### einiges
-
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-aktuell-sind-seine-theorien-heute-podcast-a-0a1a891a-af85-4682-b2fc-b0eb0347524f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### pascal
-
-* [https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen](https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen-a-9f5ca959-6eb2-440c-a13a-cfdbacd5bb3d#ref=rss)
-### faber
-
-* [https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen](https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen-a-9f5ca959-6eb2-440c-a13a-cfdbacd5bb3d#ref=rss)
-### sirenen
-
-* [https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen](https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen-a-9f5ca959-6eb2-440c-a13a-cfdbacd5bb3d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen](https://www.spiegel.de/panorama/gesellschaft/katastrophenalarm-pascal-faber-aus-hessen-testet-sirenen-a-9f5ca959-6eb2-440c-a13a-cfdbacd5bb3d#ref=rss)
-* [https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast](https://www.spiegel.de/ausland/sigmund-freud-wie-stark-praegt-uns-die-kindheit-podcast-a-4165f674-930e-4dc2-b9ec-2d112cfc9587#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki](https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki-a-9b5bec71-12d6-4992-ab0d-39cca7a4bc57#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki](https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki-a-9b5bec71-12d6-4992-ab0d-39cca7a4bc57#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki](https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki-a-9b5bec71-12d6-4992-ab0d-39cca7a4bc57#ref=rss)
-### natoosterweiterung
-
-* [https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen](https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen](https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen](https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein](https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/wissenschaft/norwegen-riesiger-muenzschatz-aus-der-wikingerzeit-entdeckt](https://www.spiegel.de/wissenschaft/norwegen-riesiger-muenzschatz-aus-der-wikingerzeit-entdeckt-a-22136d8a-943a-4426-aac9-a6461410cdc0#ref=rss)
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-### öltanker
-
-* [https://www.spiegel.de/ausland/jemen-oeltanker-offenbar-vor-jemenitischer-kueste-gekapert](https://www.spiegel.de/ausland/jemen-oeltanker-offenbar-vor-jemenitischer-kueste-gekapert-a-ca772f7c-108c-4126-806b-91284d9bc162#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/jemen-oeltanker-offenbar-vor-jemenitischer-kueste-gekapert](https://www.spiegel.de/ausland/jemen-oeltanker-offenbar-vor-jemenitischer-kueste-gekapert-a-ca772f7c-108c-4126-806b-91284d9bc162#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### beine
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### später
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### gewann
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### handbike
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-er-brauchte-keine-beine-um-die-menschen-zu-bewegen-nachruf-a-e63fd1ed-a144-4af8-9260-51928f741c51#ref=rss)
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### anne
-
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-### boleyn
-
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-### porträt
-
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-### frau
-
-* [https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben](https://www.spiegel.de/geschichte/anne-boleyn-forscher-wollen-verschollenes-portraet-per-ki-identifiziert-haben-a-317d6f23-6f5d-4955-b93d-74d7a6874752#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte](https://www.spiegel.de/panorama/leute/prinz-william-und-prinzessin-kate-feiern-elften-geburtstag-von-prinzessin-charlotte-a-3f7f33b5-c4f8-4025-a1b5-8baabdd370a4#ref=rss)
-### kerosin
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird](https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird](https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss)
-### flüge
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird](https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein](https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt](https://www.spiegel.de/politik/deutschland/usa-ziehen-truppen-aus-deutschland-ab-cdu-reagiert-gelassen-linke-befuerwortet-schritt-a-02d07c6b-8d1e-4fef-821a-2c48184c17b1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### spirit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein](https://www.spiegel.de/wirtschaft/unternehmen/spirit-us-airline-stellt-flugbetrieb-wegen-hoher-kerosin-kosten-durch-iran-krieg-ein-a-08f66fc3-0208-45cc-bc6a-bcaa9c2c406f#ref=rss)
-### berti
-
-* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
-### vogts
-
-* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
-### rainer
-
-* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
-### bonhof
-
-* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-berti-vogts-verteidigt-rainer-bonhof-nach-fan-kritik-a-e339704c-3edd-4699-aabe-a26cc6663d27#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### dnatest
-
-* [https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter](https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter-a-537ab0d9-1d84-4b9e-a311-52a93be002a0#ref=rss)
-### zwillinge
-
-* [https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter](https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter-a-537ab0d9-1d84-4b9e-a311-52a93be002a0#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter](https://www.spiegel.de/panorama/gesellschaft/dna-test-zwillinge-aus-london-haben-verschiedene-vaeter-a-537ab0d9-1d84-4b9e-a311-52a93be002a0#ref=rss)
-### 59
-
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### gestorben
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal](https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal-a-78ebbbdd-df57-404e-a982-586f6172d6ca#ref=rss)
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft](https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft-a-3189a034-fc7c-434b-9614-02b816af5e2b#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben](https://www.spiegel.de/sport/olympia/alessandro-zanardi-ist-tot-ex-formel-1-pilot-und-parasportler-mit-59-jahren-gestorben-a-fabb240a-8503-4423-b7a7-8b33f3a17236#ref=rss)
-### buckelwal
+* [https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt](https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt-a-b665ea8b-15a4-4190-8a01-75edcd1da874#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+* [https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos](https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos-a-ec7a6d8a-af3c-49f9-8cb0-b2646c53a3c7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### szenen
+* [https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt](https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt-a-b665ea8b-15a4-4190-8a01-75edcd1da874#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen](https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen-a-c4307c39-8eab-415b-8fe4-4be04ef97d1c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
-### odyssee
+* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### erfasst
 
-* [https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee](https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-endlich-frei-die-dramatischsten-szenen-von-timmys-odyssee-a-3a93ba4a-7c86-4572-8fe0-b18c7a1416f6#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland-a-e5695f54-970e-4b4d-8189-f221b6fab58a#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### bundesliga
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### aufstieg
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### rinteln
+
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+### lebensgefährte
+
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+### fest
+
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/rinteln-mutter-und-lebensgefaehrte-tot-polizei-nimmt-zwei-verdaechtige-fest-a-8a26f5bc-003f-4aa6-867d-37657b5d0040#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### theologe
+
+* [https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel](https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel-a-96ec0317-8283-4168-8fae-3dea12473f6e#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel](https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel-a-96ec0317-8283-4168-8fae-3dea12473f6e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland-a-e5695f54-970e-4b4d-8189-f221b6fab58a#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel](https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel-a-96ec0317-8283-4168-8fae-3dea12473f6e#ref=rss)
+### thiel
+
+* [https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel](https://www.spiegel.de/kultur/us-rechte-und-religion-theologe-warnt-vor-religioesen-tech-milliardaeren-wie-peter-thiel-a-96ec0317-8283-4168-8fae-3dea12473f6e#ref=rss)
+### tankrabatt
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+### adac
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+### benzin
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+### diesel
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+### teuer
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+* [https://www.spiegel.de/tests/kueche/durchziehschaerfer-im-test-nur-mal-schnell-die-messer-schaerfen](https://www.spiegel.de/tests/kueche/durchziehschaerfer-im-test-nur-mal-schnell-die-messer-schaerfen-a-8db9cbd9-279f-4c69-ac9f-83b273b9631e#ref=rss)
+### weiterhin
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer](https://www.spiegel.de/wirtschaft/service/tankrabatt-adac-haelt-benzin-und-diesel-fuer-zu-teuer-a-edec5915-e766-4d06-b968-7e4d62a79913#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an-a-e9e877c8-3c6c-4021-92f4-397160a8522a#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-koenige-der-nacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-koenige-der-nacht-im-schnellcheck-a-b5a3bbc6-c277-45cd-9ce7-541a797bb966#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-koenige-der-nacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-koenige-der-nacht-im-schnellcheck-a-b5a3bbc6-c277-45cd-9ce7-541a797bb966#ref=rss)
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### lukas
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal](https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal-a-78ebbbdd-df57-404e-a982-586f6172d6ca#ref=rss)
+### podolski
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal](https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal-a-78ebbbdd-df57-404e-a982-586f6172d6ca#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal](https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal-a-78ebbbdd-df57-404e-a982-586f6172d6ca#ref=rss)
+* [https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere](https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere-a-1cbf3d29-48bd-40b9-bc2a-fff0e4c72461#ref=rss)
+### club
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal](https://www.spiegel.de/sport/fussball/lukas-podolski-mit-40-jahren-gewinnt-er-zum-ersten-mal-den-polnischen-pokal-a-78ebbbdd-df57-404e-a982-586f6172d6ca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga](https://www.spiegel.de/sport/fussball/schalke-04-das-erfolgsrezept-hinter-dem-aufstieg-aber-reicht-das-auch-fuer-die-bundesliga-a-6e9df385-9f61-42b2-9f63-a03385fdabc3#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt](https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt-a-b665ea8b-15a4-4190-8a01-75edcd1da874#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt](https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt-a-b665ea8b-15a4-4190-8a01-75edcd1da874#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt](https://www.spiegel.de/ausland/iran-erstmals-seit-jahren-hinrichtung-nach-frauenprotesten-vollstreckt-a-b665ea8b-15a4-4190-8a01-75edcd1da874#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft](https://www.spiegel.de/sport/tischtennis-wm-china-verliert-erstmals-seit-26-jahren-spiel-bei-weltmeisterschaft-a-3189a034-fc7c-434b-9614-02b816af5e2b#ref=rss)
+### adventskonzert
+
+* [https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest](https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest-a-fd754606-6a61-478a-81e7-9f3557521b52#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest](https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest-a-fd754606-6a61-478a-81e7-9f3557521b52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-angela-merkel-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-angela-merkel-spiegel-cover-a-c6c609be-30f3-4328-85f3-9b0247156816#ref=rss)
+### landesregierung
+
+* [https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest](https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest-a-fd754606-6a61-478a-81e7-9f3557521b52#ref=rss)
+### rund
+
+* [https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest](https://www.spiegel.de/politik/deutschland/adventskonzert-fdp-kritisiert-hohe-ausgaben-der-landesregierung-um-hendrik-wuest-a-fd754606-6a61-478a-81e7-9f3557521b52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+### landes
+
+* [https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus](https://www.spiegel.de/ausland/libanon-israel-gibt-trotz-waffenruhe-neue-evakuierungsaufrufe-fuer-sueden-des-landes-heraus-a-abaca6e6-0894-4f51-af92-b1566a5194ee#ref=rss)
+### miami
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-miami-start-des-grossen-preises-wegen-unwetter-vorverlegt](https://www.spiegel.de/sport/formel1/formel-1-in-miami-start-des-grossen-preises-wegen-unwetter-vorverlegt-a-c487f8ab-48ab-42dd-a952-17ee1f2ec1a8#ref=rss)
+### äußerte
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-miami-start-des-grossen-preises-wegen-unwetter-vorverlegt](https://www.spiegel.de/sport/formel1/formel-1-in-miami-start-des-grossen-preises-wegen-unwetter-vorverlegt-a-c487f8ab-48ab-42dd-a952-17ee1f2ec1a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland-a-e5695f54-970e-4b4d-8189-f221b6fab58a#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+### escootern
+
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt](https://www.spiegel.de/panorama/hessen-auto-erfasst-ehepaar-mit-e-scootern-frau-stirbt-a-aa906d70-7500-4bb1-b47c-36f1bd9ff140#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### shakira
+
+* [https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere](https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere-a-1cbf3d29-48bd-40b9-bc2a-fff0e4c72461#ref=rss)
+### rio
+
+* [https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere](https://www.spiegel.de/panorama/leute/shakira-in-rio-mega-show-an-der-copacabana-groesstes-konzert-ihrer-karriere-a-1cbf3d29-48bd-40b9-bc2a-fff0e4c72461#ref=rss)
+### stephen
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+### colbert
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+### late
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+### show
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+### new
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### york
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### times
+
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show](https://www.spiegel.de/kultur/tv/stephen-colbert-ueber-seinen-abschied-von-der-late-show-a-11ac03d5-347d-4d6d-985c-13a7845f9d0a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an-a-e9e877c8-3c6c-4021-92f4-397160a8522a#ref=rss)
+### schattenflotte
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an-a-e9e877c8-3c6c-4021-92f4-397160a8522a#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-streitkraefte-greifen-zwei-tanker-von-putins-schattenflotte-an-a-e9e877c8-3c6c-4021-92f4-397160a8522a#ref=rss)
+### tucker
+
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### carlson
+
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein](https://www.spiegel.de/ausland/usa-tucker-carlson-wirft-donald-trump-vor-geisel-netanyahus-zu-sein-a-e4c46ec9-fe3c-4aef-b93f-3093360b60dc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen](https://www.spiegel.de/politik/deutschland/wehrdienst-schon-200-000-junge-menschen-haben-post-von-der-bundeswehr-bekommen-a-d810fd29-877f-4ac1-b66e-f8dbbea0f87f#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren](https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren-a-ba779f7e-bf23-4edf-bf98-7490581cec3d#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+* [https://www.spiegel.de/tests/kueche/durchziehschaerfer-im-test-nur-mal-schnell-die-messer-schaerfen](https://www.spiegel.de/tests/kueche/durchziehschaerfer-im-test-nur-mal-schnell-die-messer-schaerfen-a-8db9cbd9-279f-4c69-ac9f-83b273b9631e#ref=rss)
+### merz
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-75de382d-6ea8-451b-ae88-69d72b255a35#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-angela-merkel-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-angela-merkel-spiegel-cover-a-c6c609be-30f3-4328-85f3-9b0247156816#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg](https://www.spiegel.de/sport/fussball/fc-schalke-04-zurueck-in-der-bundesliga-so-feierte-gelsenkirchen-den-aufstieg-a-b3c1c9f4-0721-469f-b6d5-1eac0a1199bb#ref=rss)
+### sex
+
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren](https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren-a-ba779f7e-bf23-4edf-bf98-7490581cec3d#ref=rss)
+### alter
+
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren](https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren-a-ba779f7e-bf23-4edf-bf98-7490581cec3d#ref=rss)
+### neu
+
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren](https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren-a-ba779f7e-bf23-4edf-bf98-7490581cec3d#ref=rss)
+### erfinden
+
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren](https://www.spiegel.de/partnerschaft/sex-im-alter-wie-aeltere-sex-neu-erfinden-und-frauen-profitieren-a-ba779f7e-bf23-4edf-bf98-7490581cec3d#ref=rss)
+### sexualberaterin
+
+* [https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft](https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft-a-c7395954-4091-44ce-8359-a57e95ea4e11#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft](https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft-a-c7395954-4091-44ce-8359-a57e95ea4e11#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft](https://www.spiegel.de/partnerschaft/sexuelle-unlust-sexualberaterin-erklaert-wie-das-drei-minuten-spiel-hilft-a-c7395954-4091-44ce-8359-a57e95ea4e11#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos](https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos-a-ec7a6d8a-af3c-49f9-8cb0-b2646c53a3c7#ref=rss)
+### bewusstlos
+
+* [https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos](https://www.spiegel.de/panorama/australien-fuenfjaehrige-getoetet-anwohner-schlagen-47-jaehrigen-verdaechtigen-bewusstlos-a-ec7a6d8a-af3c-49f9-8cb0-b2646c53a3c7#ref=rss)
+### nina
+
+* [https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen](https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen-a-c4307c39-8eab-415b-8fe4-4be04ef97d1c#ref=rss)
+### chuba
+
+* [https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen](https://www.spiegel.de/panorama/nina-chuba-ueber-depressionen-ich-konnte-morgens-ploetzlich-nicht-mehr-aufstehen-a-c4307c39-8eab-415b-8fe4-4be04ef97d1c#ref=rss)
+### washington
+
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/us-zoelle-ifo-praesident-clemens-fuest-warnt-wegen-vor-rezession-in-deutschland-a-e5695f54-970e-4b4d-8189-f221b6fab58a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen](https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende](https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende-a-799a4f42-4169-4783-972e-52d2cdfc50e0#ref=rss)
+### illegalen
+
+* [https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende](https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende-a-799a4f42-4169-4783-972e-52d2cdfc50e0#ref=rss)
+### rave
+
+* [https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende](https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende-a-799a4f42-4169-4783-972e-52d2cdfc50e0#ref=rss)
+### militärgelände
+
+* [https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende](https://www.spiegel.de/panorama/frankreich-40-000-menschen-feiern-illegalen-rave-auf-militaergelaende-a-799a4f42-4169-4783-972e-52d2cdfc50e0#ref=rss)
 
