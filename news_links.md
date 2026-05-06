@@ -4,332 +4,335 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen](https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen-a-928b617f-c0ca-4e08-9444-3b206b5fa953#ref=rss)
-* [https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein](https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein-a-6d160209-a96e-444a-916f-9dfd8106f6b1#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt](https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt-a-b8a99be1-77a4-4e62-a983-a58c4c00451c#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-* [https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf](https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf-a-6de73eb3-527d-4b95-8d70-4d4a2894f655#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch](https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch-a-3d0cc496-8129-4794-bb42-f507657f9110#ref=rss)
-### biontech
-
-* [https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen](https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen-a-fe4870a3-cec4-4409-8825-eab9a50fd180#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-* [https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation](https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation-a-b4b46d53-04b4-4057-9a5b-d018ab7dbe48#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt](https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt-a-b8a99be1-77a4-4e62-a983-a58c4c00451c#ref=rss)
-* [https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein](https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein-a-6d160209-a96e-444a-916f-9dfd8106f6b1#ref=rss)
-* [https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte](https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte-a-1b90f1c1-55fa-4046-9df5-4c4463639b9c#ref=rss)
-### dolls
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-### erste
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-* [https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein](https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein-a-6d160209-a96e-444a-916f-9dfd8106f6b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen-a-65fb2f26-a515-4aa5-b5cc-dc5eb849a704#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-### waffenruhe
-
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen](https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen-a-9ee04f57-ba08-4f29-81ca-5bff2079cef4#ref=rss)
-### experte
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-* [https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation](https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation-a-b4b46d53-04b4-4057-9a5b-d018ab7dbe48#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt](https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt-a-b8a99be1-77a4-4e62-a983-a58c4c00451c#ref=rss)
-### verrohung
-
-* [https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt](https://www.spiegel.de/ausland/israel-wie-itamar-ben-gvir-gewalt-und-verrohung-anheizt-a-b8a99be1-77a4-4e62-a983-a58c4c00451c#ref=rss)
-### inklusion
-
-* [https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen](https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen-a-928b617f-c0ca-4e08-9444-3b206b5fa953#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen](https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen-a-928b617f-c0ca-4e08-9444-3b206b5fa953#ref=rss)
-### hilfen
-
-* [https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen](https://www.spiegel.de/panorama/gesellschaft/inklusion-bundesregierung-plant-kuerzungen-bei-hilfen-fuer-menschen-mit-behinderungen-a-928b617f-c0ca-4e08-9444-3b206b5fa953#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller](https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller-a-c019dd67-4d93-4adb-aaed-7d323dafd08d#ref=rss)
-### olympiabewerbung
-
-* [https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller](https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller-a-c019dd67-4d93-4adb-aaed-7d323dafd08d#ref=rss)
-### offiziell
-
-* [https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller](https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller-a-c019dd67-4d93-4adb-aaed-7d323dafd08d#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller](https://www.spiegel.de/sport/olympia/berliner-olympia-bewerbung-huerdenlauf-ueber-querstehende-e-roller-a-c019dd67-4d93-4adb-aaed-7d323dafd08d#ref=rss)
-* [https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab](https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab-a-c88901b6-4dba-45bf-91f2-8752bef48728#ref=rss)
-### pussycat
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-### welttournee
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-### wollten
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab](https://www.spiegel.de/kultur/musik/pussycat-dolls-sagen-zahlreiche-us-auftritte-der-welttournee-ab-a-864646c8-6694-494f-b09d-3e5378deccb7#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-### dhl
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-### heißt
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen](https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen-a-fe4870a3-cec4-4409-8825-eab9a50fd180#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post](https://www.spiegel.de/wirtschaft/dhl-die-deutsche-post-heisst-bald-nicht-mehr-deutsche-post-a-0c070712-863c-4dd0-b454-7383cf2e7fcb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein](https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein-a-6d160209-a96e-444a-916f-9dfd8106f6b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein](https://www.spiegel.de/panorama/amokfahrt-in-leipzig-gericht-weist-tatverdaechtigen-in-psychiatrie-ein-a-6d160209-a96e-444a-916f-9dfd8106f6b1#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-### schließt
-
-* [https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen](https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen-a-fe4870a3-cec4-4409-8825-eab9a50fd180#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/adac-und-ifo-institut-zu-tankrabatt-konzerne-geben-rabatt-bislang-nur-teilweise-weiter](https://www.spiegel.de/mobilitaet/auto/adac-und-ifo-institut-zu-tankrabatt-konzerne-geben-rabatt-bislang-nur-teilweise-weiter-a-ffcc72a8-e8e6-403e-9693-1d926f6d49da#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde](https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde-a-d3275866-55ad-42e8-9366-50dbdcc61d32#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall](https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall-a-857410e2-517b-44ad-9b5c-e250948171a4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland](https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland-a-5cb5dea4-18a8-4806-ad91-5d74501d1709#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere-a-5de9a773-4a79-444f-b1f6-82b853434c88#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/geschichte/us-einwanderungspolitik-die-geschichte-der-mexikanischen-arbeitsmigration-in-den-1940ern](https://www.spiegel.de/geschichte/us-einwanderungspolitik-die-geschichte-der-mexikanischen-arbeitsmigration-in-den-1940ern-a-9e40b08f-74b2-4408-9767-ed3d5262c4e8#ref=rss)
-### lange
-
-* [https://www.spiegel.de/geschichte/us-einwanderungspolitik-die-geschichte-der-mexikanischen-arbeitsmigration-in-den-1940ern](https://www.spiegel.de/geschichte/us-einwanderungspolitik-die-geschichte-der-mexikanischen-arbeitsmigration-in-den-1940ern-a-9e40b08f-74b2-4408-9767-ed3d5262c4e8#ref=rss)
-* [https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte](https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte-a-1b90f1c1-55fa-4046-9df5-4c4463639b9c#ref=rss)
-### wiedergewählt
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-### vorbei
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los](https://www.spiegel.de/politik/deutschland/jens-spahn-wiedergewaehlt-jetzt-wird-friedrich-merz-seinen-fraktionschef-nicht-mehr-los-a-e28a2f22-1743-41f4-9dad-3cf15e33b1d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-### amal
+* [https://www.spiegel.de/ausland/vor-regierungswechsel-in-budapest-polizei-in-ungarn-ermittelt-bei-viktor-orban-naher-mediengruppe](https://www.spiegel.de/ausland/vor-regierungswechsel-in-budapest-polizei-in-ungarn-ermittelt-bei-viktor-orban-naher-mediengruppe-a-76d8067b-3d8b-41a4-b908-fb1a70b47bf0#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei](https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei-a-d37df9a9-5c82-4e96-ab71-e0859744fdd3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts](https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts-a-eb7eed9c-3bf6-41a8-a190-151cdf7ea512#ref=rss)
+### angeklagten
 
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-### khalil
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### tod
 
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-### israelische
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-* [https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf](https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf-a-6de73eb3-527d-4b95-8d70-4d4a2894f655#ref=rss)
-### berichtet
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
+* [https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht](https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht-a-a8faf08e-de55-4870-8c7e-bc87c51a3e94#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall](https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall-a-857410e2-517b-44ad-9b5c-e250948171a4#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem](https://www.spiegel.de/ausland/libanon-die-journalistin-amal-khalil-wusste-dass-sie-sterben-koennte-und-fuhr-trotzdem-a-a8bb7c8c-e095-4c7b-a517-6cfb02e1d742#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
-### alberta
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen](https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen-a-0016b31f-3176-4f0a-b77c-91a63e21cc56#ref=rss)
-### separatisten
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen](https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen-a-0016b31f-3176-4f0a-b77c-91a63e21cc56#ref=rss)
-### unterschriften
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen](https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen-a-0016b31f-3176-4f0a-b77c-91a63e21cc56#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen](https://www.spiegel.de/ausland/alberta-kanadische-separatisten-haben-noetige-unterschriften-fuer-volksentscheid-zusammen-a-0016b31f-3176-4f0a-b77c-91a63e21cc56#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### polizistin
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+* [https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt](https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt-a-1840214c-ba49-4be3-8aab-b833817c8f3e#ref=rss)
+### elevate
 
-* [https://www.spiegel.de/karriere/vom-polizist-zur-polizistin-verdacht-auf-missbraeuchliche-aenderung-des-geschlechtseintrags](https://www.spiegel.de/karriere/vom-polizist-zur-polizistin-verdacht-auf-missbraeuchliche-aenderung-des-geschlechtseintrags-a-de96c78c-7ac7-4cb5-b451-0cf98216137c#ref=rss)
-### verdacht
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### sneakermillionär
 
-* [https://www.spiegel.de/karriere/vom-polizist-zur-polizistin-verdacht-auf-missbraeuchliche-aenderung-des-geschlechtseintrags](https://www.spiegel.de/karriere/vom-polizist-zur-polizistin-verdacht-auf-missbraeuchliche-aenderung-des-geschlechtseintrags-a-de96c78c-7ac7-4cb5-b451-0cf98216137c#ref=rss)
-### umbruch
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### stepan
 
-* [https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch](https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch-a-3d0cc496-8129-4794-bb42-f507657f9110#ref=rss)
-### warnen
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### timoshin
 
-* [https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch](https://www.spiegel.de/mobilitaet/auto/verbrenner-aus-laute-minderheit-in-der-autoindustrie-behindert-den-umbruch-a-3d0cc496-8129-4794-bb42-f507657f9110#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### tages
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### modelabel
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### hantavirus
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### ausgenommen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-### virus
+* [https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll](https://www.spiegel.de/wirtschaft/elevate-wie-sneaker-millionaer-stepan-timoshin-das-modelabel-ausgenommen-haben-soll-a-0df7676c-c915-4beb-8d55-cfd2762c8ac9#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-### paar
+* [https://www.spiegel.de/ausland/vor-regierungswechsel-in-budapest-polizei-in-ungarn-ermittelt-bei-viktor-orban-naher-mediengruppe](https://www.spiegel.de/ausland/vor-regierungswechsel-in-budapest-polizei-in-ungarn-ermittelt-bei-viktor-orban-naher-mediengruppe-a-76d8067b-3d8b-41a4-b908-fb1a70b47bf0#ref=rss)
+### löwen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
-### lage
+* [https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei](https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei-a-d37df9a9-5c82-4e96-ab71-e0859744fdd3#ref=rss)
+### womöglich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-abschied-von-x-hantavirus-stellenabbau-bei-biontech-a-e3021fe7-f1f0-46b2-a27f-71735b416840#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-### tankrabatt
+* [https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei](https://www.spiegel.de/panorama/dortmund-zoobesucher-fuettert-loewen-mit-schweinegulasch-mitarbeiter-rufen-die-polizei-a-d37df9a9-5c82-4e96-ab71-e0859744fdd3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere-a-5de9a773-4a79-444f-b1f6-82b853434c88#ref=rss)
+### pussy
 
-* [https://www.spiegel.de/mobilitaet/auto/adac-und-ifo-institut-zu-tankrabatt-konzerne-geben-rabatt-bislang-nur-teilweise-weiter](https://www.spiegel.de/mobilitaet/auto/adac-und-ifo-institut-zu-tankrabatt-konzerne-geben-rabatt-bislang-nur-teilweise-weiter-a-ffcc72a8-e8e6-403e-9693-1d926f6d49da#ref=rss)
-### bamberg
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+### riot
 
-* [https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte](https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte-a-1b90f1c1-55fa-4046-9df5-4c4463639b9c#ref=rss)
-### busfahrer
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+### biennale
 
-* [https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte](https://www.spiegel.de/panorama/bamberg-busfahrer-laesst-fahrgast-lenken-zwei-verletzte-a-1b90f1c1-55fa-4046-9df5-4c4463639b9c#ref=rss)
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+### offiziellen
+
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig](https://www.spiegel.de/kultur/pussy-riot-protest-gegen-russischen-pavillon-bei-biennale-in-venedig-a-8312b5ca-839f-4df5-a2db-070fc3ecd37b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
 ### fabian
 
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
+### glaubt
+
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
 ### vater
 
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar](https://www.spiegel.de/panorama/justiz/fall-fabian-vater-und-angeklagte-offenbar-wieder-ein-paar-a-6dee7ff6-f977-441f-a204-fefcefef7a38#ref=rss)
-### mv
+* [https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h](https://www.spiegel.de/panorama/justiz/rostocker-mordprozess-um-den-toten-fabian-warum-glaubt-der-vater-so-fest-an-die-unschuld-der-angeklagten-gina-h-a-cdaec282-02c2-4bbe-bc4b-42915fde0d07#ref=rss)
+### nick
 
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-### hondius
+* [https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht](https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht-a-a8faf08e-de55-4870-8c7e-bc87c51a3e94#ref=rss)
+### cannon
 
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung](https://www.spiegel.de/wissenschaft/mensch/hantavirus-auf-kreuzfahrtschiff-mv-hondius-experte-erklaert-moegliche-mensch-zu-mensch-uebertragung-a-b538934f-a1d7-4031-be10-438ff24ee1cf#ref=rss)
-### russland
+* [https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht](https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht-a-a8faf08e-de55-4870-8c7e-bc87c51a3e94#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation](https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation-a-b4b46d53-04b4-4057-9a5b-d018ab7dbe48#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht](https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht-a-a8faf08e-de55-4870-8c7e-bc87c51a3e94#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation](https://www.spiegel.de/ausland/russland-experte-sieht-keine-hinweise-auf-manipulierte-daten-zur-inflation-a-b4b46d53-04b4-4057-9a5b-d018ab7dbe48#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-### schwester
+* [https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht](https://www.spiegel.de/kultur/kino/nick-cannon-erlaubt-seinem-sohn-das-dating-seiner-gleichaltrigen-tochter-nicht-a-a8faf08e-de55-4870-8c7e-bc87c51a3e94#ref=rss)
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+### prinzessin
 
-* [https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen](https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen-a-9ee04f57-ba08-4f29-81ca-5bff2079cef4#ref=rss)
-### pippa
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+### kate
 
-* [https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen](https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen-a-9ee04f57-ba08-4f29-81ca-5bff2079cef4#ref=rss)
-### matthews
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen](https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen-a-9ee04f57-ba08-4f29-81ca-5bff2079cef4#ref=rss)
-### anwesen
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen](https://www.spiegel.de/panorama/leute/kates-schwester-pippa-matthews-muss-offenbar-anwesen-mit-streichelzoo-verkaufen-a-9ee04f57-ba08-4f29-81ca-5bff2079cef4#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen-a-65fb2f26-a515-4aa5-b5cc-dc5eb849a704#ref=rss)
-* [https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab](https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab-a-c88901b6-4dba-45bf-91f2-8752bef48728#ref=rss)
+* [https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland](https://www.spiegel.de/panorama/leute/royals-prinzessin-kate-reist-erstmals-seit-krebstherapie-ins-ausland-a-adcd2660-b5c8-4766-a34c-5bd121f2c347#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### gut
+
+* [https://www.spiegel.de/psychologie/selbsttest-von-psychotherapeutin-maren-lammers-zu-emotionen-sind-sie-ein-gefuehlsmensch](https://www.spiegel.de/psychologie/selbsttest-von-psychotherapeutin-maren-lammers-zu-emotionen-sind-sie-ein-gefuehlsmensch-a-41ecf1be-a2dc-4e91-86eb-c00ae5b96bb0#ref=rss)
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/medizin/hantaviren-ausbruch-auf-kreuzfahrtschiff-andes-typ-bei-zwei-patienten-nachgewiesen](https://www.spiegel.de/wissenschaft/medizin/hantaviren-ausbruch-auf-kreuzfahrtschiff-andes-typ-bei-zwei-patienten-nachgewiesen-a-057a9f1c-1988-4f34-95eb-7bfca3f98f3b#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/wissenschaft/medizin/hantaviren-ausbruch-auf-kreuzfahrtschiff-andes-typ-bei-zwei-patienten-nachgewiesen](https://www.spiegel.de/wissenschaft/medizin/hantaviren-ausbruch-auf-kreuzfahrtschiff-andes-typ-bei-zwei-patienten-nachgewiesen-a-057a9f1c-1988-4f34-95eb-7bfca3f98f3b#ref=rss)
+* [https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen](https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen-a-695a8c2d-2a03-47a0-a978-a9071c28ac8f#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde](https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde-a-d3275866-55ad-42e8-9366-50dbdcc61d32#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde](https://www.spiegel.de/panorama/leute/papst-leo-warum-der-pontifex-beim-bankservice-zunaechst-abgewiesen-wurde-a-d3275866-55ad-42e8-9366-50dbdcc61d32#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+### fdpvorsitz
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### henning
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### höne
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### alena
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### trauschel
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### generalsekretärin
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-henning-hoene-setzt-auf-alena-trauschel-als-generalsekretaerin-a-87ad0bbb-de56-4cab-a19c-716178b21f42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+### prognosen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck](https://www.spiegel.de/sport/fussball/fussball-wm-2026-hotelbuchungen-in-den-usa-bleiben-bislang-hinter-prognosen-zurueck-a-c12f2702-a47d-4b72-8fff-e11736aa1627#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen](https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen-a-695a8c2d-2a03-47a0-a978-a9071c28ac8f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland](https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland-a-5cb5dea4-18a8-4806-ad91-5d74501d1709#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen](https://www.spiegel.de/ausland/strasse-von-hormus-schiff-franzoesischer-reederei-angegriffen-a-695a8c2d-2a03-47a0-a978-a9071c28ac8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+### lindsey
+
+* [https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock](https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock-a-fec436e5-d383-4aa5-952f-a8a279362c19#ref=rss)
+### vonn
+
+* [https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock](https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock-a-fec436e5-d383-4aa5-952f-a8a279362c19#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock](https://www.spiegel.de/sport/wintersport/lindsey-vonn-gibt-auf-der-met-gala-ihre-comeback-party-mit-gehstock-a-fec436e5-d383-4aa5-952f-a8a279362c19#ref=rss)
+* [https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt](https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt-a-1840214c-ba49-4be3-8aab-b833817c8f3e#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall](https://www.spiegel.de/panorama/justiz/hessen-zehnjaehriger-sohn-am-steuer-mutter-stirbt-bei-unfall-a-857410e2-517b-44ad-9b5c-e250948171a4#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland](https://www.spiegel.de/ausland/ukraine-meldet-trotz-waffenruhe-ueber-100-drohnenangriffe-aus-russland-a-5cb5dea4-18a8-4806-ad91-5d74501d1709#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere-a-5de9a773-4a79-444f-b1f6-82b853434c88#ref=rss)
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/neue-studie-mikroplastik-in-der-luft-erwaermt-die-atmosphaere-a-5de9a773-4a79-444f-b1f6-82b853434c88#ref=rss)
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/netzwelt/dazn-und-fussballliga-gelingt-schlag-gegen-pay-tv-piraten](https://www.spiegel.de/netzwelt/dazn-und-fussballliga-gelingt-schlag-gegen-pay-tv-piraten-a-9cbd79e4-06ec-4ff7-973f-af64ee4ecc73#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+### spdchefin
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ueber-koalitionskrise-rente-und-umgang-mit-merz-a-0825f273-2752-4195-a04b-79e40b9edc67#ref=rss)
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+### landgericht
+
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### cottbus
+
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt](https://www.spiegel.de/panorama/landgericht-cottbus-angeklagter-nach-tod-von-polizist-wegen-verbotenem-autorennen-verurteilt-a-0b964ac6-a8b9-4bd2-a838-e6332b40bde5#ref=rss)
+### durchsucht
+
+* [https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts](https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts-a-eb7eed9c-3bf6-41a8-a190-151cdf7ea512#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts](https://www.spiegel.de/panorama/justiz/euskirchen-polizei-durchsucht-jva-wegen-bestechungsverdachts-a-eb7eed9c-3bf6-41a8-a190-151cdf7ea512#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
 ### prozent
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen-a-65fb2f26-a515-4aa5-b5cc-dc5eb849a704#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-### kritiker
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/katherina-reiche-will-lockerungen-bei-neuen-oel-und-gasheizungen-a-65fb2f26-a515-4aa5-b5cc-dc5eb849a704#ref=rss)
-* [https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf](https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf-a-6de73eb3-527d-4b95-8d70-4d4a2894f655#ref=rss)
-### hegseth
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-### emirate
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-kostet-in-den-usa-jetzt-50-prozent-mehr-als-vor-dem-iran-krieg-a-b262aa28-fe8e-4a62-8595-cf82c4561ad6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### billie
 
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-* [https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf](https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf-a-6de73eb3-527d-4b95-8d70-4d4a2894f655#ref=rss)
-### wissen
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+### eilish
 
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### irans
+* [https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden](https://www.spiegel.de/panorama/billie-eilish-us-popstar-freut-sich-aufs-aelterwerden-a-bdf60caf-009a-49ff-b31a-8b53ba6db5d5#ref=rss)
+### fifapräsident
 
-* [https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig](https://www.spiegel.de/ausland/iran-krieg-pete-hegseth-erklaert-waffenruhe-fuer-gueltig-a-70dbb49e-e4ca-496c-a711-8b86859252b8#ref=rss)
-* [https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf](https://www.spiegel.de/ausland/vereinige-arabische-emirate-setzen-auf-israel-und-sind-nun-irans-hauptfeind-am-golf-a-6de73eb3-527d-4b95-8d70-4d4a2894f655#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### gianni
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/jens-spahn-mit-gut-86-prozent-als-cdu-csu-fraktionschef-wiedergewaehlt-a-8963b7d0-5358-4b33-b859-763a853e6a2b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### köln
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### infantino
 
-* [https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab](https://www.spiegel.de/panorama/koeln-schafft-den-spielplatz-doch-nicht-ab-a-c88901b6-4dba-45bf-91f2-8752bef48728#ref=rss)
-### norwegen
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### verteidigt
 
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### fjorde
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise](https://www.spiegel.de/sport/fussball/fussball-wm-2026-fifa-praesident-gianni-infantino-verteidigt-hohe-ticketpreise-a-9222706c-463a-4790-8daa-93e0fcba8048#ref=rss)
+### amt
 
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### abwasser
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden](https://www.spiegel.de/wissenschaft/natur/aquakultur-in-norwegen-bericht-warnt-vor-naehrstoffflut-und-algenblueten-in-fjorden-a-e37d1a49-a7b4-4b32-b62f-452477fa180b#ref=rss)
-### fragen
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+### macht
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil](https://www.spiegel.de/politik/bundesregierung-ein-jahr-im-amt-strassenumfrage-zu-friedrich-merz-und-lars-klingbeil-a-e3fe0016-8218-4e50-b0aa-b02a2a43e34d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### bernd
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### regierungschef
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### kriegesmann
 
-* [https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum-a-2e468fec-dc3c-4194-81de-1560b07e365b#ref=rss)
-### ilie
+* [https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen](https://www.spiegel.de/panorama/bildung/g9-reform-in-nrw-bernd-kriegesmann-ueber-fehlende-studienanfaenger-und-unsichere-prognosen-a-629466d0-e340-4bac-9e44-f27f13ac1b22#ref=rss)
+### themen
 
-* [https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum-a-2e468fec-dc3c-4194-81de-1560b07e365b#ref=rss)
-### bolojan
+* [https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt](https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt-a-1840214c-ba49-4be3-8aab-b833817c8f3e#ref=rss)
+### april
 
-* [https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/rumaenien-regierungschef-ilie-bolojan-verliert-misstrauensvotum-a-2e468fec-dc3c-4194-81de-1560b07e365b#ref=rss)
-### china
+* [https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt](https://www.spiegel.de/politik/spiegel-debatte-diese-fuenf-themen-haben-sie-im-april-am-meisten-beschaeftigt-a-1840214c-ba49-4be3-8aab-b833817c8f3e#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit](https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit-a-6b22ce9f-3b7f-4446-8bfb-e4fe7a4d775a#ref=rss)
-### boeing
+* [https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen](https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen-a-3e5c850a-3b9a-4222-9d9c-a991585bc2cb#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit](https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit-a-6b22ce9f-3b7f-4446-8bfb-e4fe7a4d775a#ref=rss)
-### 737
+* [https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen](https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen-a-3e5c850a-3b9a-4222-9d9c-a991585bc2cb#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit](https://www.spiegel.de/wissenschaft/technik/crash-von-china-eastern-flug-mu5735-neuen-daten-zufolge-sass-der-taeter-im-cockpit-a-6b22ce9f-3b7f-4446-8bfb-e4fe7a4d775a#ref=rss)
+* [https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen](https://www.spiegel.de/netzwelt/wirverlassenx-warum-spd-gruene-und-linke-jetzt-auf-bluesky-setzen-a-3e5c850a-3b9a-4222-9d9c-a991585bc2cb#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### gewinn
+
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch](https://www.spiegel.de/wirtschaft/bmw-gewinn-geht-23-prozent-zurueck-vorstand-bleibt-optimistisch-a-5da39f4e-4ecd-4bae-b684-2d18be7f26b1#ref=rss)
 
