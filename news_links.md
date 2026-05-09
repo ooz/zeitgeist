@@ -4,308 +4,300 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
-
-* [https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt](https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt-a-62512754-daae-4792-b99d-1433f4b49076#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge](https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge-a-2aae433f-10ef-4eba-b556-53f3a4004b99#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa](https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa-a-68ad1542-83c1-4fd5-ba79-03c3cd9020d0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt](https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt-a-62512754-daae-4792-b99d-1433f4b49076#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-* [https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv](https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv-a-ef12081f-ae36-4706-a465-479e0817e6db#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge](https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge-a-2aae433f-10ef-4eba-b556-53f3a4004b99#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge](https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge-a-2aae433f-10ef-4eba-b556-53f3a4004b99#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden](https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden-a-ba213f3a-c214-4d42-b9fd-206f23c00def#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren](https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren-a-f3f48b47-5a12-449f-bf51-32a29da39155#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude](https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude-a-0dcd1fcf-ddb2-4965-95af-89b97a02a355#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren](https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren-a-f3f48b47-5a12-449f-bf51-32a29da39155#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate](https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate-a-1fd2ce3e-41c0-4416-8307-e5b4cb5abbab#ref=rss)
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate](https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate-a-1fd2ce3e-41c0-4416-8307-e5b4cb5abbab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen-a-a0b91036-239b-4324-abc9-803199be78e0#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa](https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa-a-68ad1542-83c1-4fd5-ba79-03c3cd9020d0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa](https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa-a-68ad1542-83c1-4fd5-ba79-03c3cd9020d0#ref=rss)
-* [https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht](https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht-a-f742beb3-6bcc-4b08-b599-5d6e269fe2fc#ref=rss)
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/pentagon-veroeffentlicht-geheime-ufo-akten](https://www.spiegel.de/ausland/pentagon-veroeffentlicht-geheime-ufo-akten-a-2cb6a516-ff0f-4103-8d37-91566d944d00#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orbans-system-zerlegt-sich-schon-vor-dem-offiziellen-machtwechsel](https://www.spiegel.de/ausland/ungarn-viktor-orbans-system-zerlegt-sich-schon-vor-dem-offiziellen-machtwechsel-a-7b95035f-fbff-4278-a340-e71d108ee93d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen](https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen-a-12ca0a81-5518-4792-8de0-5adfcfbd28f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-* [https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt](https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt-a-51a5b73a-8875-4a0f-9bf7-4eed443deb7b#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt](https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt-a-62512754-daae-4792-b99d-1433f4b49076#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude](https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude-a-0dcd1fcf-ddb2-4965-95af-89b97a02a355#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen](https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen-a-39d4a58f-8846-4175-a3ef-e666d8fb32d5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht](https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht-a-519e7595-e60b-47ed-8a76-a4f646f38a22#ref=rss)
+* [https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen](https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen-a-ca86d36e-ec06-48b3-8c61-60274b6fe344#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+### irankrieg
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### zverev
+* [https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer](https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer-a-20f21ea2-85e4-4dc6-a638-fa582b44329d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+* [https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen](https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen-a-ca86d36e-ec06-48b3-8c61-60274b6fe344#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+* [https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche](https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche-a-c93936c5-2777-4543-8d2d-b50b055f139e#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung](https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung-a-87474d7c-2aee-4c6b-b7c5-40aa41ece790#ref=rss)
-### deutschen
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten-a-1fe3db21-9cfa-4ab8-86f6-4e65f25bd733#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung](https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung-a-87474d7c-2aee-4c6b-b7c5-40aa41ece790#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### chancen
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten-a-1fe3db21-9cfa-4ab8-86f6-4e65f25bd733#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung](https://www.spiegel.de/sport/tennis/tennis-zverev-besiegt-altmeier-trotz-wechselhafter-leistung-a-87474d7c-2aee-4c6b-b7c5-40aa41ece790#ref=rss)
-* [https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt](https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt-a-51a5b73a-8875-4a0f-9bf7-4eed443deb7b#ref=rss)
-### erst
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+* [https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank](https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank-a-6dde1e4d-5fc2-4ac7-9c57-4faac7735528#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren](https://www.spiegel.de/ausland/suedafrika-cyril-ramaphosa-droht-amtsenthebungsverfahren-a-f3f48b47-5a12-449f-bf51-32a29da39155#ref=rss)
-* [https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv](https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv-a-ef12081f-ae36-4706-a465-479e0817e6db#ref=rss)
-### monate
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate](https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate-a-1fd2ce3e-41c0-4416-8307-e5b4cb5abbab#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate](https://www.spiegel.de/sport/fussball/wm-2026-mexiko-verlaengert-sommerferien-auf-fast-drei-monate-a-1fd2ce3e-41c0-4416-8307-e5b4cb5abbab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### katar
-
-* [https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa](https://www.spiegel.de/ausland/donald-trump-erwartet-jumbojet-aus-katar-zum-geburtstag-der-usa-a-68ad1542-83c1-4fd5-ba79-03c3cd9020d0#ref=rss)
-### veröffentlicht
-
-* [https://www.spiegel.de/ausland/pentagon-veroeffentlicht-geheime-ufo-akten](https://www.spiegel.de/ausland/pentagon-veroeffentlicht-geheime-ufo-akten-a-2cb6a516-ff0f-4103-8d37-91566d944d00#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen](https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen-a-12ca0a81-5518-4792-8de0-5adfcfbd28f3#ref=rss)
-### mountbattenwindsor
-
-* [https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen](https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen-a-12ca0a81-5518-4792-8de0-5adfcfbd28f3#ref=rss)
-### königlichen
-
-* [https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen](https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen-a-12ca0a81-5518-4792-8de0-5adfcfbd28f3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen](https://www.spiegel.de/panorama/leute/andrew-mountbatten-windsor-mann-bestreitet-angriff-auf-frueheren-britischen-prinzen-a-12ca0a81-5518-4792-8de0-5adfcfbd28f3#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### louis
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht](https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht-a-f742beb3-6bcc-4b08-b599-5d6e269fe2fc#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht](https://www.spiegel.de/ausland/papst-leo-xiv-warum-er-mit-seinem-maga-bruder-louis-nicht-ueber-politik-spricht-a-f742beb3-6bcc-4b08-b599-5d6e269fe2fc#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt](https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt-a-62512754-daae-4792-b99d-1433f4b49076#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt](https://www.spiegel.de/panorama/freiburg-zwei-tote-nach-porsche-probefahrt-a-62512754-daae-4792-b99d-1433f4b49076#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen-a-a0b91036-239b-4324-abc9-803199be78e0#ref=rss)
-### tochterfirmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/porsche-wickelt-drei-tochterfirmen-ab-500-jobs-betroffen-a-a0b91036-239b-4324-abc9-803199be78e0#ref=rss)
-### lefkada
-
-* [https://www.spiegel.de/ausland/griechenland-fischer-entdeckt-kampfdrohne-in-kuestenhoehle-von-lefkada](https://www.spiegel.de/ausland/griechenland-fischer-entdeckt-kampfdrohne-in-kuestenhoehle-von-lefkada-a-72033baa-4bc7-49c0-91f3-12eb1bc3d637#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/griechenland-fischer-entdeckt-kampfdrohne-in-kuestenhoehle-von-lefkada](https://www.spiegel.de/ausland/griechenland-fischer-entdeckt-kampfdrohne-in-kuestenhoehle-von-lefkada-a-72033baa-4bc7-49c0-91f3-12eb1bc3d637#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge](https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge-a-2aae433f-10ef-4eba-b556-53f3a4004b99#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an](https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an-a-03f30219-d904-49e5-9885-08dc7da0bb17#ref=rss)
-### umweltminister
-
-* [https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an](https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an-a-03f30219-d904-49e5-9885-08dc7da0bb17#ref=rss)
-### einwegvapes
-
-* [https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an](https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an-a-03f30219-d904-49e5-9885-08dc7da0bb17#ref=rss)
-### grund
-
-* [https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an](https://www.spiegel.de/wirtschaft/carsten-schneider-umweltminister-kuendigt-verbot-von-einweg-vapes-an-a-03f30219-d904-49e5-9885-08dc7da0bb17#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast](https://www.spiegel.de/ausland/donald-trump-und-iran-krieg-inflation-umfragen-und-wachsender-druck-podcast-a-754888a9-953e-4986-92d0-7fc402c34652#ref=rss)
-### federico
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-### valverde
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### saison
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen](https://www.spiegel.de/sport/fussball/real-madrid-kabinenzoff-und-sportlicher-misserfolg-was-ist-los-bei-den-koeniglichen-a-07d086a5-638a-458f-8984-0743885b7a30#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei](https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei-a-3c872ded-d507-45bd-846c-64f481a22cb6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik](https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik-a-3cd3f4a1-2fb8-4865-9965-432e72b3ad61#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen](https://www.spiegel.de/sport/fussball/real-madrid-federico-valverde-und-aurelien-tchouameni-muessen-500-000-euro-zahlen-a-7444dc03-c564-48aa-b412-84d75debaa7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei](https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei-a-3c872ded-d507-45bd-846c-64f481a22cb6#ref=rss)
+* [https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor](https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor-a-390235d5-530d-4760-9531-c713a2efce0d#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer](https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer-a-20f21ea2-85e4-4dc6-a638-fa582b44329d#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
-### stromausfall
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll](https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll-a-f48190f6-f273-4afd-8f88-be2d0cc7d32c#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht](https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht-a-519e7595-e60b-47ed-8a76-a4f646f38a22#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/ausland/geht-oesterreich-jetzt-schaerfer-gegen-wladimir-putins-spione-vor](https://www.spiegel.de/ausland/geht-oesterreich-jetzt-schaerfer-gegen-wladimir-putins-spione-vor-a-fe74ff5d-4883-42f4-ae55-d2ee0ef290b3#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### mai
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht](https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht-a-519e7595-e60b-47ed-8a76-a4f646f38a22#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### männer
+
+* [https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik](https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik-a-3cd3f4a1-2fb8-4865-9965-432e72b3ad61#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+### volksbegehren
+
+* [https://www.spiegel.de/panorama/berlin-autofrei-volksbegehren-ist-gescheitert-initiatoren-enttaeuscht](https://www.spiegel.de/panorama/berlin-autofrei-volksbegehren-ist-gescheitert-initiatoren-enttaeuscht-a-43a2f1c2-1432-49c4-8431-62cc353e793c#ref=rss)
+### gescheitert
+
+* [https://www.spiegel.de/panorama/berlin-autofrei-volksbegehren-ist-gescheitert-initiatoren-enttaeuscht](https://www.spiegel.de/panorama/berlin-autofrei-volksbegehren-ist-gescheitert-initiatoren-enttaeuscht-a-43a2f1c2-1432-49c4-8431-62cc353e793c#ref=rss)
+* [https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor](https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor-a-390235d5-530d-4760-9531-c713a2efce0d#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei](https://www.spiegel.de/panorama/justiz/brandenburg-frau-prangert-volksverhetzung-in-zug-an-doch-schaffnerin-ruft-nicht-die-polizei-a-3c872ded-d507-45bd-846c-64f481a22cb6#ref=rss)
+* [https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an-a-0f0322d9-67f9-4a78-a540-755e75fd8594#ref=rss)
+### stromsteuer
+
+* [https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor](https://www.spiegel.de/politik/spd-schlaegt-senkung-der-stromsteuer-vor-a-390235d5-530d-4760-9531-c713a2efce0d#ref=rss)
 ### tag
 
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt](https://www.spiegel.de/panorama/gesellschaft/berlin-stromausfall-in-4500-haushalten-im-westen-der-hauptstadt-a-353b5cd5-177f-45a7-a79e-981415ac37f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-### baumschatten
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie](https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie-a-e06f17b8-0f3d-411d-849a-7b73fdf5daa0#ref=rss)
-### comic
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer](https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer-a-20f21ea2-85e4-4dc6-a638-fa582b44329d#ref=rss)
+### julia
 
-* [https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie](https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie-a-e06f17b8-0f3d-411d-849a-7b73fdf5daa0#ref=rss)
-### sofort
+* [https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen](https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen-a-d270e86b-f38b-459f-b589-5c0802de2dc4#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie](https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie-a-e06f17b8-0f3d-411d-849a-7b73fdf5daa0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden](https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden-a-ba213f3a-c214-4d42-b9fd-206f23c00def#ref=rss)
-### erinnert
+* [https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen](https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen-a-d270e86b-f38b-459f-b589-5c0802de2dc4#ref=rss)
+### omid
 
-* [https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie](https://www.spiegel.de/kultur/comic-erzaehlung-baumschatten-wenn-sie-es-gern-einfach-haben-ist-dieser-comic-nichts-fuer-sie-a-e06f17b8-0f3d-411d-849a-7b73fdf5daa0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-### heidenheim
+* [https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen](https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen-a-d270e86b-f38b-459f-b589-5c0802de2dc4#ref=rss)
+### nouripour
 
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### frank
+* [https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen](https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-und-omid-nouripour-wollen-megaprojekt-stoppen-a-d270e86b-f38b-459f-b589-5c0802de2dc4#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### schmidt
+* [https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an-a-0f0322d9-67f9-4a78-a540-755e75fd8594#ref=rss)
+### hähnchen
 
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-### dazu
+* [https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an-a-0f0322d9-67f9-4a78-a540-755e75fd8594#ref=rss)
+### einkaufswagen
 
-* [https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga](https://www.spiegel.de/sport/fussball/1-fc-heidenheim-trainer-frank-schmidt-glaubt-noch-an-den-klassenerhalt-in-der-fussball-bundesliga-a-026c9156-6bcf-46d0-8484-13aa9b64de38#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude](https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude-a-0dcd1fcf-ddb2-4965-95af-89b97a02a355#ref=rss)
-### sinzig
+* [https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an-a-0f0322d9-67f9-4a78-a540-755e75fd8594#ref=rss)
+### feuerwehr
 
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-### spezialkräfte
+* [https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/dossenheim-jugendliche-grillen-haehnchen-auf-einkaufswagen-feuerwehr-rueckt-an-a-0f0322d9-67f9-4a78-a540-755e75fd8594#ref=rss)
+### meer
 
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-### volksbank
+* [https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer](https://www.spiegel.de/ausland/iran-krieg-oel-treibt-offenbar-vor-iranischer-insel-charg-im-meer-a-20f21ea2-85e4-4dc6-a638-fa582b44329d#ref=rss)
+* [https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll](https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll-a-f48190f6-f273-4afd-8f88-be2d0cc7d32c#ref=rss)
+### denver
 
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-### täter
+* [https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab](https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab-a-d036c326-72f9-44b6-a16b-01043c98193d#ref=rss)
+### start
 
-* [https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht](https://www.spiegel.de/panorama/justiz/sinzig-in-rheinland-pfalz-spezialkraefte-befreien-geiseln-aus-volksbank-taeter-offenbar-auf-der-flucht-a-f7ae7751-a879-4a6c-9834-9977d0324478#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab](https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab-a-d036c326-72f9-44b6-a16b-01043c98193d#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv](https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv-a-ef12081f-ae36-4706-a465-479e0817e6db#ref=rss)
-### hisbollah
+* [https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab](https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab-a-d036c326-72f9-44b6-a16b-01043c98193d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht](https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht-a-519e7595-e60b-47ed-8a76-a4f646f38a22#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv](https://www.spiegel.de/ausland/israel-vs-hisbollah-das-leid-der-zivilisten-im-libanon-spiegel-tv-a-ef12081f-ae36-4706-a465-479e0817e6db#ref=rss)
-### entlastungsprämie
+* [https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab](https://www.spiegel.de/panorama/denver-flugzeug-bricht-start-nach-kollision-mit-person-ab-a-d036c326-72f9-44b6-a16b-01043c98193d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht](https://www.spiegel.de/wissenschaft/natur/erdueberlastungstag-am-sonntag-sind-die-ressourcen-fuer-2026-in-deutschland-aufgebraucht-a-519e7595-e60b-47ed-8a76-a4f646f38a22#ref=rss)
+### uli
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes](https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss)
-### kritik
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+### hoeneß
 
-* [https://www.spiegel.de/ausland/ungarn-viktor-orbans-system-zerlegt-sich-schon-vor-dem-offiziellen-machtwechsel](https://www.spiegel.de/ausland/ungarn-viktor-orbans-system-zerlegt-sich-schon-vor-dem-offiziellen-machtwechsel-a-7b95035f-fbff-4278-a340-e71d108ee93d#ref=rss)
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### walerij
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+### hohe
 
-* [https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt](https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt-a-3ece24c0-4bb4-4b27-a970-f3ed26b14e32#ref=rss)
-### gerassimow
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-uli-hoeness-kritisiert-hohe-ticketpreise-scharf-a-3fcaa233-bb4f-450c-adc9-dad523304387#ref=rss)
+* [https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen](https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen-a-ca86d36e-ec06-48b3-8c61-60274b6fe344#ref=rss)
+### biontech
 
-* [https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt](https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt-a-3ece24c0-4bb4-4b27-a970-f3ed26b14e32#ref=rss)
-### ukraine
+* [https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust](https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust-a-074af8f4-c2b7-4e16-9404-f0f25f7c690d#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt](https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt-a-3ece24c0-4bb4-4b27-a970-f3ed26b14e32#ref=rss)
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### giorgia
+* [https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust](https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust-a-074af8f4-c2b7-4e16-9404-f0f25f7c690d#ref=rss)
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-im-studium-wie-ki-agenten-pruefungen-fuer-studierende-bestehen-koennen](https://www.spiegel.de/start/kuenstliche-intelligenz-im-studium-wie-ki-agenten-pruefungen-fuer-studierende-bestehen-koennen-a-ea1a22ee-ede5-44d7-9b5f-dd27a2abb339#ref=rss)
+### knowhowverlust
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### meloni
+* [https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust](https://www.spiegel.de/wirtschaft/biontech-curevac-gruender-warnt-vor-gefaehrlichem-know-how-verlust-a-074af8f4-c2b7-4e16-9404-f0f25f7c690d#ref=rss)
+### bonnie
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### biennale
+* [https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen](https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen-a-39d4a58f-8846-4175-a3ef-e666d8fb32d5#ref=rss)
+### tyler
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen](https://www.spiegel.de/ausland/giorgia-meloni-und-die-biennale-in-venedig-die-russen-kommen-a-59ff4a8f-e5da-4e5e-8a70-ec29115a53a6#ref=rss)
-### scientologygebäude
+* [https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen](https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen-a-39d4a58f-8846-4175-a3ef-e666d8fb32d5#ref=rss)
+### koma
 
-* [https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude](https://www.spiegel.de/panorama/justiz/scientology-speedruns-warum-stuermen-jugendliche-ploetzlich-scientology-gebaeude-a-0dcd1fcf-ddb2-4965-95af-89b97a02a355#ref=rss)
-### bts
+* [https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen](https://www.spiegel.de/panorama/leute/bonnie-tyler-nach-not-op-im-koma-tour-offen-a-39d4a58f-8846-4175-a3ef-e666d8fb32d5#ref=rss)
+### lionel
 
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-### claudia
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+### messi
 
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-### sheinbaum
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+### nennt
 
-* [https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans](https://www.spiegel.de/panorama/bts-in-mexiko-praesidentin-claudia-sheinbaum-empfaengt-k-pop-stars-vor-50-000-fans-a-cb07dc4f-8c23-4c53-8774-3388b19f00dc#ref=rss)
-### virginia
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+### favoriten
 
-* [https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt](https://www.spiegel.de/ausland/virginia-oberstes-gericht-kippt-referendum-fuer-neuen-wahlkreiszuschnitt-a-51a5b73a-8875-4a0f-9bf7-4eed443deb7b#ref=rss)
-### tanker
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+### titel
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge](https://www.spiegel.de/ausland/krieg-in-nahost-us-flugzeuge-feuern-auf-tanker-unter-iranischer-flagge-a-2aae433f-10ef-4eba-b556-53f3a4004b99#ref=rss)
-### taliban
+* [https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel](https://www.spiegel.de/sport/weltmeisterschaft-2026-lionel-messi-nennt-seine-favoriten-auf-den-titel-a-da88597e-8c83-446b-a97a-8140671b12c7#ref=rss)
+### nina
 
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### suchen
+* [https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen](https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen-a-66d9188c-c3e8-4dc6-b135-7c72cf17e986#ref=rss)
+### warken
 
-* [https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten](https://www.spiegel.de/panorama/afghanistan-vertreter-der-taliban-in-deutschland-suchen-praktikanten-a-1106b3b4-f5b2-4b1b-a92f-50092dbb3d3e#ref=rss)
-### münchen
+* [https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen](https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen-a-66d9188c-c3e8-4dc6-b135-7c72cf17e986#ref=rss)
+### defizit
 
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden](https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden-a-ba213f3a-c214-4d42-b9fd-206f23c00def#ref=rss)
-### eisbachwelle
+* [https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen](https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen-a-66d9188c-c3e8-4dc6-b135-7c72cf17e986#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden](https://www.spiegel.de/panorama/gesellschaft/muenchen-auf-der-eisbachwelle-darf-wieder-gesurft-werden-a-ba213f3a-c214-4d42-b9fd-206f23c00def#ref=rss)
+* [https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen](https://www.spiegel.de/politik/pflegeversicherung-nina-warken-korrigiert-defizit-und-plant-mehrbelastungen-a-66d9188c-c3e8-4dc6-b135-7c72cf17e986#ref=rss)
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+### militärparade
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+### 9
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### angst
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### ukrainischen
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai](https://www.spiegel.de/ausland/russland-wladimir-putin-feiert-abgespeckte-militaerparade-zum-9-mai-a-22b510ef-867d-4961-9520-3261cfbb909d#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik](https://www.spiegel.de/ausland/usa-zwei-tote-bei-angriff-auf-mutmassliches-drogenboot-im-pazifik-a-3cd3f4a1-2fb8-4865-9965-432e72b3ad61#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/geht-oesterreich-jetzt-schaerfer-gegen-wladimir-putins-spione-vor](https://www.spiegel.de/ausland/geht-oesterreich-jetzt-schaerfer-gegen-wladimir-putins-spione-vor-a-fe74ff5d-4883-42f4-ae55-d2ee0ef290b3#ref=rss)
+### hobbygärtner
+
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+### umdenken
+
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+### statt
+
+* [https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen](https://www.spiegel.de/wirtschaft/hobbygaertner-warum-vor-allem-maenner-beim-duengen-umdenken-sollen-a-539ddba6-28f2-4928-9815-06e9cb1db6a0#ref=rss)
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen](https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen-a-ca86d36e-ec06-48b3-8c61-60274b6fe344#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-von-psychotherapeutin-maren-lammers-mit-schmerzhaften-gefuehlen-umgehen](https://www.spiegel.de/psychologie/coaching-von-psychotherapeutin-maren-lammers-mit-schmerzhaften-gefuehlen-umgehen-a-b3247181-3876-4f8d-a1b6-281d0237f591#ref=rss)
+### einige
+
+* [https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen](https://www.spiegel.de/reise/kerosin-mangel-durch-iran-krieg-flughafenverband-erwartet-millionen-flugstreichungen-a-ca86d36e-ec06-48b3-8c61-60274b6fe344#ref=rss)
+* [https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank](https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank-a-6dde1e4d-5fc2-4ac7-9c57-4faac7735528#ref=rss)
+### coaching
+
+* [https://www.spiegel.de/psychologie/coaching-von-psychotherapeutin-maren-lammers-mit-schmerzhaften-gefuehlen-umgehen](https://www.spiegel.de/psychologie/coaching-von-psychotherapeutin-maren-lammers-mit-schmerzhaften-gefuehlen-umgehen-a-b3247181-3876-4f8d-a1b6-281d0237f591#ref=rss)
+### reisetipps
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+### travel
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+### besten
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+### tipps
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+* [https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank](https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank-a-6dde1e4d-5fc2-4ac7-9c57-4faac7735528#ref=rss)
+### reisen
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+* [https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll](https://www.spiegel.de/reise/reisen-mit-kindern-worauf-es-ankommt-wenn-der-urlaub-mit-der-familie-toll-werden-soll-a-f48190f6-f273-4afd-8f88-be2d0cc7d32c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+### besser
+
+* [https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen](https://www.spiegel.de/reise/reisetipps-bei-spiegel-travel-erfahren-sie-die-besten-tipps-fuers-reisen-a-13b345ec-ed0a-4aa4-841b-012fbc641393#ref=rss)
+* [https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank](https://www.spiegel.de/reise/reiseuebelkeit-warum-werde-ich-immer-reisekrank-a-6dde1e4d-5fc2-4ac7-9c57-4faac7735528#ref=rss)
+### geistlicher
+
+* [https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten-a-1fe3db21-9cfa-4ab8-86f6-4e65f25bd733#ref=rss)
+### statue
+
+* [https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-geistlicher-verteidigt-segnung-goldener-statue-des-us-praesidenten-a-1fe3db21-9cfa-4ab8-86f6-4e65f25bd733#ref=rss)
+### wirbt
+
+* [https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen](https://www.spiegel.de/ausland/donald-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-a-f3a77c7b-14a1-473d-a7ee-bea673cd9a6d#ref=rss)
+* [https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche](https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche-a-c93936c5-2777-4543-8d2d-b50b055f139e#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-und-vetternwirtschaft-zu-krank-zum-unterrichten-aber-fit-genug-fuer-die-fraktion](https://www.spiegel.de/politik/deutschland/afd-und-vetternwirtschaft-zu-krank-zum-unterrichten-aber-fit-genug-fuer-die-fraktion-a-e75805cd-765f-480c-bc46-2dfba6eeb2ef#ref=rss)
+### vetternwirtschaft
+
+* [https://www.spiegel.de/politik/deutschland/afd-und-vetternwirtschaft-zu-krank-zum-unterrichten-aber-fit-genug-fuer-die-fraktion](https://www.spiegel.de/politik/deutschland/afd-und-vetternwirtschaft-zu-krank-zum-unterrichten-aber-fit-genug-fuer-die-fraktion-a-e75805cd-765f-480c-bc46-2dfba6eeb2ef#ref=rss)
+### kiagenten
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-im-studium-wie-ki-agenten-pruefungen-fuer-studierende-bestehen-koennen](https://www.spiegel.de/start/kuenstliche-intelligenz-im-studium-wie-ki-agenten-pruefungen-fuer-studierende-bestehen-koennen-a-ea1a22ee-ede5-44d7-9b5f-dd27a2abb339#ref=rss)
+### magyar
+
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer](https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss)
+### regierungschef
+
+* [https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche](https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche-a-c93936c5-2777-4543-8d2d-b50b055f139e#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche](https://www.spiegel.de/ausland/iran-katars-regierungschef-wirbt-bei-jd-vance-fuer-neue-friedensgespraeche-a-c93936c5-2777-4543-8d2d-b50b055f139e#ref=rss)
+### teneriffa
+
+* [https://www.spiegel.de/panorama/hantavirus-auf-der-mv-hondius-teneriffa-stellt-sich-auf-ankunft-des-schiffs-ein](https://www.spiegel.de/panorama/hantavirus-auf-der-mv-hondius-teneriffa-stellt-sich-auf-ankunft-des-schiffs-ein-a-376741c1-cc2a-4245-a555-c2826f5a930d#ref=rss)
 
