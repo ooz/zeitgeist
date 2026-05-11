@@ -4,317 +4,315 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen](https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen-a-38b6ad6f-49fd-4b45-b294-e8c8a7d2cebd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen](https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen-a-b4dc8ed5-d1ce-46db-81d5-ee8df8300a2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland-a-fa882c08-761e-49d3-b2d0-0beaab0cefad#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen](https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen-a-38b6ad6f-49fd-4b45-b294-e8c8a7d2cebd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz](https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz-a-34de540c-d4f8-409e-a02c-edb10f8f3697#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luebeck-polizisten-muessen-nach-fehler-bei-verkehrskontrolle-geldstrafen-zahlen](https://www.spiegel.de/panorama/justiz/luebeck-polizisten-muessen-nach-fehler-bei-verkehrskontrolle-geldstrafen-zahlen-a-76b9492d-d319-4e2b-896e-730a281140e1#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen](https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen-a-38b6ad6f-49fd-4b45-b294-e8c8a7d2cebd#ref=rss)
-### hantavirus
-
-* [https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen](https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen-a-835cf1fd-ecaf-4560-a2f0-a6afb289bd22#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wissenschaft/mensch/ki-folge-beim-podcast-ufo-kuenstliche-intelligenz-kann-fast-alles-ausser-lustig-rumlabern](https://www.spiegel.de/wissenschaft/mensch/ki-folge-beim-podcast-ufo-kuenstliche-intelligenz-kann-fast-alles-ausser-lustig-rumlabern-a-f80c4949-b85b-4c9d-9784-32e801a61f25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz](https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz-a-34de540c-d4f8-409e-a02c-edb10f8f3697#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-### rip
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt](https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654#ref=rss)
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen](https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen-a-835cf1fd-ecaf-4560-a2f0-a6afb289bd22#ref=rss)
-* [https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt](https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt-a-4a444885-b697-4710-8649-5729a7a48318#ref=rss)
-### liegen
-
-* [https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen](https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen-a-835cf1fd-ecaf-4560-a2f0-a6afb289bd22#ref=rss)
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### tote
-
-* [https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen](https://www.spiegel.de/wissenschaft/hantavirus-was-gegen-eine-pandemie-spricht-und-wo-die-risiken-liegen-a-835cf1fd-ecaf-4560-a2f0-a6afb289bd22#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter](https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter-a-913220ba-8ba0-4f53-b00a-c452b9bafacd#ref=rss)
-### ems
-
-* [https://www.spiegel.de/panorama/ems-segler-geht-ueber-bord-toechter-alarmieren-retter](https://www.spiegel.de/panorama/ems-segler-geht-ueber-bord-toechter-alarmieren-retter-a-2de7462c-fb69-423f-896e-a281a96efc0d#ref=rss)
-### töchter
-
-* [https://www.spiegel.de/panorama/ems-segler-geht-ueber-bord-toechter-alarmieren-retter](https://www.spiegel.de/panorama/ems-segler-geht-ueber-bord-toechter-alarmieren-retter-a-2de7462c-fb69-423f-896e-a281a96efc0d#ref=rss)
-### verona
-
-* [https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz](https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz-a-9c7445d9-0cce-4751-bfdb-0aec96efdf49#ref=rss)
-### pooth
-
-* [https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz](https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz-a-9c7445d9-0cce-4751-bfdb-0aec96efdf49#ref=rss)
-### höheren
-
-* [https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz](https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz-a-9c7445d9-0cce-4751-bfdb-0aec96efdf49#ref=rss)
-### schadensersatz
-
-* [https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz](https://www.spiegel.de/panorama/leute/verona-pooth-scheitert-mit-klage-auf-hoeheren-schadensersatz-a-9c7445d9-0cce-4751-bfdb-0aec96efdf49#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung](https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung-a-2d523e53-08b2-4c9c-bf42-8627ddae7737#ref=rss)
-### zsolt
-
-* [https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung](https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung-a-2d523e53-08b2-4c9c-bf42-8627ddae7737#ref=rss)
-### hegedűs
-
-* [https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung](https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung-a-2d523e53-08b2-4c9c-bf42-8627ddae7737#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung](https://www.spiegel.de/ausland/ungarn-kuenftiger-gesundheitsminister-zsolt-hegedus-tanzt-bei-vereidigung-a-2d523e53-08b2-4c9c-bf42-8627ddae7737#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan](https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan-a-782bcc1f-cf9d-4468-ab04-421810785453#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-### wochenlange
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-### quarantäne
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-### hondiuspassagiere
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### hantavirusausbruch
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### betroffenen
-
-* [https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an](https://www.spiegel.de/wissenschaft/mensch/hantavirus-australien-ordnet-wochenlange-quarantaene-fuer-hondius-passagiere-an-a-0cc3e160-2012-4d68-8668-6a698f3abbbd#ref=rss)
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige](https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige-a-7960f4e6-1f9b-486f-b574-5111a2395a39#ref=rss)
+* [https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen](https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen-a-4d8d0dbd-71cf-48bb-9064-57f9e88e172b#ref=rss)
 ### irankrieg
 
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
-* [https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten](https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten-a-3e6f49bd-651c-45ee-8219-abc351afcb85#ref=rss)
-### lohnt
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro](https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro-a-5c308920-22c7-4498-84ae-3812fb16f6b0#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein](https://www.spiegel.de/wirtschaft/umfrage-zu-hohen-preisen-zwei-drittel-schraenken-energieverbrauch-ein-a-834873d7-c04f-4585-818d-a14447b82614#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan](https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan-a-782bcc1f-cf9d-4468-ab04-421810785453#ref=rss)
-### werner
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird-a-24a0c744-3205-409d-a54c-cff45000658b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus](https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus-a-acbc4112-ac49-4af0-942f-cd16848420d8#ref=rss)
-### herzog
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird-a-24a0c744-3205-409d-a54c-cff45000658b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus](https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus-a-acbc4112-ac49-4af0-942f-cd16848420d8#ref=rss)
-### cannes
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus](https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus-a-acbc4112-ac49-4af0-942f-cd16848420d8#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+* [https://www.spiegel.de/panorama/namibia-vier-deutsche-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/namibia-vier-deutsche-bei-flugzeugabsturz-gestorben-a-8d193835-8cdd-4bf9-91c0-f8ddcb613373#ref=rss)
+* [https://www.spiegel.de/wirtschaft/quantencomputer-kommt-das-nvidia-der-zukunft-aus-deutschland](https://www.spiegel.de/wirtschaft/quantencomputer-kommt-das-nvidia-der-zukunft-aus-deutschland-a-748f1215-ba23-4aec-94aa-e2adbc01fd80#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus](https://www.spiegel.de/kultur/werner-herzog-schlaegt-einladung-zum-filmfestival-nach-cannes-aus-a-acbc4112-ac49-4af0-942f-cd16848420d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### auebad
+* [https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will](https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will-a-974fac0f-dca7-4e43-a6dd-04b2cabfd2aa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-wegen-vorbereitung-von-sprengstoffanschlag-festgenommen](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-wegen-vorbereitung-von-sprengstoffanschlag-festgenommen-a-bca44e16-b14e-41b2-a221-d410c4c071ff#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### schlema
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig-a-2dc66c96-f418-45c3-a1d8-9141f6a2001f#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### rechtsextremen
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige](https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige-a-7960f4e6-1f9b-486f-b574-5111a2395a39#ref=rss)
+### hantavirus
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### freie
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel](https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel-a-39aa1c8a-3d81-4c12-9579-c78869d50a12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen](https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen-a-4f1d3957-5d4d-4bc2-b008-ae4c64f629b8#ref=rss)
+### hondius
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### sachsen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen](https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen-a-4f1d3957-5d4d-4bc2-b008-ae4c64f629b8#ref=rss)
+### maintal
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### erste
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt](https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### runde
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro](https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro-a-5c308920-22c7-4498-84ae-3812fb16f6b0#ref=rss)
+* [https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai](https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai-a-e15bbae3-5a8d-44e8-b1da-7e1db0de20ce#ref=rss)
+### haus
 
-* [https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-kandidat-der-rechtsextremen-partei-freie-sachsen-gewinnt-erste-runde-der-ob-wahl-a-6672ae96-284c-44ad-80b3-eec84fb30442#ref=rss)
-### vögel
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+* [https://www.spiegel.de/kultur/niederlande-nazi-raubkunst-taucht-im-haus-von-waffen-ss-general-auf](https://www.spiegel.de/kultur/niederlande-nazi-raubkunst-taucht-im-haus-von-waffen-ss-general-auf-a-55325d21-0754-4820-9d29-da82aae84a95#ref=rss)
+### familie
 
-* [https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern](https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern-a-fde1c6a7-50fc-44e3-8101-b35a3a1249aa#ref=rss)
-### frauen
+* [https://www.spiegel.de/kultur/niederlande-nazi-raubkunst-taucht-im-haus-von-waffen-ss-general-auf](https://www.spiegel.de/kultur/niederlande-nazi-raubkunst-taucht-im-haus-von-waffen-ss-general-auf-a-55325d21-0754-4820-9d29-da82aae84a95#ref=rss)
+* [https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai](https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai-a-e15bbae3-5a8d-44e8-b1da-7e1db0de20ce#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern](https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern-a-fde1c6a7-50fc-44e3-8101-b35a3a1249aa#ref=rss)
-### städten
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig-a-2dc66c96-f418-45c3-a1d8-9141f6a2001f#ref=rss)
+### kraftstoffsteuer
 
-* [https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern](https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern-a-fde1c6a7-50fc-44e3-8101-b35a3a1249aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland-a-fa882c08-761e-49d3-b2d0-0beaab0cefad#ref=rss)
-### studie
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern](https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern-a-fde1c6a7-50fc-44e3-8101-b35a3a1249aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/iw-regional-ranking-die-wirtschaftliche-zukunft-von-400-staedten-und-kreisen-in-deutschland-a-fa882c08-761e-49d3-b2d0-0beaab0cefad#ref=rss)
-### forscher
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+### irankriegs
 
-* [https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern](https://www.spiegel.de/wissenschaft/natur/voegel-fuerchten-sich-offenbar-eher-vor-frauen-als-vor-maennern-a-fde1c6a7-50fc-44e3-8101-b35a3a1249aa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an](https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an-a-e2e4106c-8629-4243-8ecc-e3ad3b43053e#ref=rss)
-### narges
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen](https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen-a-f139958c-a21c-40fa-a22a-683771eb9132#ref=rss)
-### mohammadi
+* [https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen](https://www.spiegel.de/ausland/irankrieg-donald-trump-will-kraftstoffsteuer-in-den-usa-aussetzen-a-c99de99e-baba-46c6-b9aa-87b0aa8d422c#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen](https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen-a-f139958c-a21c-40fa-a22a-683771eb9132#ref=rss)
-### kaution
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+### 20
 
-* [https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen](https://www.spiegel.de/ausland/iran-narges-mohammadi-nach-herzinfarkt-zur-behandlung-aus-haft-entlassen-a-f139958c-a21c-40fa-a22a-683771eb9132#ref=rss)
-### drohnen
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen](https://www.spiegel.de/wirtschaft/deutschland-rheinmetall-und-telekom-arbeiten-an-abwehrschirm-gegen-drohnen-a-38b6ad6f-49fd-4b45-b294-e8c8a7d2cebd#ref=rss)
-### berlin
+* [https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein](https://www.spiegel.de/wirtschaft/china-chinesischer-automarkt-bricht-wegen-irankrieg-um-mehr-als-20-prozent-ein-a-8d36ea42-39d7-4bc1-baa2-bfb8d2a089d3#ref=rss)
+### griechenland
 
-* [https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein](https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein-a-3543ca2a-8699-415a-8592-6f53ec729967#ref=rss)
-### wissenschaftssenatorin
+* [https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada](https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada-a-6e3c7d70-9f77-464f-aa12-64ee2963dbc8#ref=rss)
+### mutmaßliche
 
-* [https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein](https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein-a-3543ca2a-8699-415a-8592-6f53ec729967#ref=rss)
-### kommen
+* [https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada](https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada-a-6e3c7d70-9f77-464f-aa12-64ee2963dbc8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig-a-2dc66c96-f418-45c3-a1d8-9141f6a2001f#ref=rss)
+### lefkada
 
-* [https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein](https://www.spiegel.de/panorama/bildung/berlin-wissenschaftssenatorin-raeumt-vernachlaessigung-von-tu-gebaeuden-ein-a-3543ca2a-8699-415a-8592-6f53ec729967#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe](https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe-a-a55ff180-73cd-4b18-8490-dff32fb28a5d#ref=rss)
-### dgb
+* [https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada](https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada-a-6e3c7d70-9f77-464f-aa12-64ee2963dbc8#ref=rss)
+### insel
 
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-### yasmin
+* [https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada](https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada-a-6e3c7d70-9f77-464f-aa12-64ee2963dbc8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel](https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel-a-39aa1c8a-3d81-4c12-9579-c78869d50a12#ref=rss)
+### ziel
 
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-### fahimi
+* [https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada](https://www.spiegel.de/ausland/griechenland-raetsel-um-mutmassliche-ukrainische-kamikazedrohne-vor-lefkada-a-6e3c7d70-9f77-464f-aa12-64ee2963dbc8#ref=rss)
+* [https://www.spiegel.de/panorama/namibia-vier-deutsche-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/namibia-vier-deutsche-bei-flugzeugabsturz-gestorben-a-8d193835-8cdd-4bf9-91c0-f8ddcb613373#ref=rss)
+### manuel
 
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-### vorsitzende
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison-a-5f02b638-4ffb-48ad-9527-97dc48734bbb#ref=rss)
+### baum
 
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-### politisch
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison-a-5f02b638-4ffb-48ad-9527-97dc48734bbb#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt](https://www.spiegel.de/wirtschaft/dgb-yasmin-fahimi-als-vorsitzende-mit-grosser-mehrheit-bestaetigt-a-4c5b1845-6c65-4006-b355-c9e749ce3ce2#ref=rss)
-* [https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten](https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten-a-3e6f49bd-651c-45ee-8219-abc351afcb85#ref=rss)
-### schweiz
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison-a-5f02b638-4ffb-48ad-9527-97dc48734bbb#ref=rss)
+### augsburg
 
-* [https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz](https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz-a-34de540c-d4f8-409e-a02c-edb10f8f3697#ref=rss)
-### wohnort
-
-* [https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz](https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz-a-34de540c-d4f8-409e-a02c-edb10f8f3697#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz](https://www.spiegel.de/wirtschaft/wohnsitze-immer-mehr-deutsche-leben-in-der-schweiz-a-34de540c-d4f8-409e-a02c-edb10f8f3697#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-werte-steigen-weiter-ist-die-migrationspolitik-der-union-gescheitert](https://www.spiegel.de/politik/deutschland/afd-werte-steigen-weiter-ist-die-migrationspolitik-der-union-gescheitert-a-9410d3db-6f02-4ae6-bd0e-1ce4dcf6eb7d#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an](https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an-a-e2e4106c-8629-4243-8ecc-e3ad3b43053e#ref=rss)
-### gibraltar
-
-* [https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an](https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an-a-e2e4106c-8629-4243-8ecc-e3ad3b43053e#ref=rss)
-### grindwale
-
-* [https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an](https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an-a-e2e4106c-8629-4243-8ecc-e3ad3b43053e#ref=rss)
-### schiffslärm
-
-* [https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an](https://www.spiegel.de/wissenschaft/natur/strasse-von-gibraltar-grindwale-schreien-gegen-schiffslaerm-an-a-e2e4106c-8629-4243-8ecc-e3ad3b43053e#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt](https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt-a-4a444885-b697-4710-8649-5729a7a48318#ref=rss)
-* [https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne](https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne-a-9adc7c1e-f901-42b7-b0be-556c47446cec#ref=rss)
-### ständig
-
-* [https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt](https://www.spiegel.de/karriere/krankmeldungen-im-job-eine-mitarbeiterin-ist-staendig-krank-ist-kuendigung-erlaubt-a-4a444885-b697-4710-8649-5729a7a48318#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan](https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-rechner-so-viel-geld-schenkt-ihnen-der-staat-fuer-ihren-etf-sparplan-a-782bcc1f-cf9d-4468-ab04-421810785453#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten](https://www.spiegel.de/panorama/drohender-kerosinmangel-die-meisten-kunden-koennen-sich-einen-privatjet-trotzdem-leisten-a-3e6f49bd-651c-45ee-8219-abc351afcb85#ref=rss)
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### gescheitert
-
-* [https://www.spiegel.de/politik/deutschland/afd-werte-steigen-weiter-ist-die-migrationspolitik-der-union-gescheitert](https://www.spiegel.de/politik/deutschland/afd-werte-steigen-weiter-ist-die-migrationspolitik-der-union-gescheitert-a-9410d3db-6f02-4ae6-bd0e-1ce4dcf6eb7d#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen](https://www.spiegel.de/panorama/hantavirus-vier-deutsche-kreuzfahrt-passagiere-in-frankfurt-am-main-angekommen-a-02498cfd-9b28-43da-a355-426cdf17589d#ref=rss)
-### human
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe](https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe-a-a55ff180-73cd-4b18-8490-dff32fb28a5d#ref=rss)
-### rights
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe](https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe-a-a55ff180-73cd-4b18-8490-dff32fb28a5d#ref=rss)
-### watch
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe](https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe-a-a55ff180-73cd-4b18-8490-dff32fb28a5d#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe](https://www.spiegel.de/sport/fussball/wm-2026-human-rights-watch-sieht-in-turnier-in-den-usa-potenzielle-menschenrechtskatastrophe-a-a55ff180-73cd-4b18-8490-dff32fb28a5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### tod
-
-* [https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne](https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne-a-9adc7c1e-f901-42b7-b0be-556c47446cec#ref=rss)
-### tieres
-
-* [https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne](https://www.spiegel.de/psychologie/mensch-und-haustier-warum-der-tod-eines-tieres-existenzielle-aengste-ausloest-kolumne-a-9adc7c1e-f901-42b7-b0be-556c47446cec#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen](https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen-a-b4dc8ed5-d1ce-46db-81d5-ee8df8300a2a#ref=rss)
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison-a-5f02b638-4ffb-48ad-9527-97dc48734bbb#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen](https://www.spiegel.de/politik/deutschland/bundesregierung-russland-beauftragt-organisierte-kriminalitaet-fuer-gezielte-toetungen-a-b4dc8ed5-d1ce-46db-81d5-ee8df8300a2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### christian
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-baum-und-der-fc-augsburg-sind-die-ueberraschung-der-saison-a-5f02b638-4ffb-48ad-9527-97dc48734bbb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-wegen-vorbereitung-von-sprengstoffanschlag-festgenommen](https://www.spiegel.de/panorama/justiz/hamburg-17-jaehriger-wegen-vorbereitung-von-sprengstoffanschlag-festgenommen-a-bca44e16-b14e-41b2-a221-d410c4c071ff#ref=rss)
+### emmanuel
 
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### schmidt
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+### macron
 
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### repräsentant
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+### kenia
 
-* [https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck](https://www.spiegel.de/ausland/christian-schmidt-tritt-als-hoher-repraesentant-fuer-bosnien-und-herzegowina-zurueck-a-a6a500c6-9051-402b-ac68-9b202c10f79f#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+### video
 
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### schulze
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-sorgt-mit-auftritt-in-kenia-fuer-beifall-a-307971b7-0a80-4e86-8419-29ef2d7d031c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen](https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen-a-4f1d3957-5d4d-4bc2-b008-ae4c64f629b8#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### bürgergeldempfänger
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird-a-24a0c744-3205-409d-a54c-cff45000658b#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen](https://www.spiegel.de/politik/deutschland/unter-druck-der-afd-umfragewerte-sachsen-anhalts-ministerpraesident-will-buergergeldempfaenger-noch-staerker-unter-druck-setzen-a-3cfc3083-57d7-44ba-8e46-84ee99ac1d1f#ref=rss)
-### sandra
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird-a-24a0c744-3205-409d-a54c-cff45000658b#ref=rss)
+### spekuliert
 
-* [https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter](https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter-a-913220ba-8ba0-4f53-b00a-c452b9bafacd#ref=rss)
-### bullock
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-warum-auch-ueber-angela-merkel-spekuliert-wird-a-24a0c744-3205-409d-a54c-cff45000658b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter](https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter-a-913220ba-8ba0-4f53-b00a-c452b9bafacd#ref=rss)
-### erinnert
+* [https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland](https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland-a-5b24b3a8-2653-4690-aad9-f1167a4593fe#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter](https://www.spiegel.de/panorama/leute/sandra-bullock-teilt-familienfotos-und-erinnert-an-ihre-tote-mutter-a-913220ba-8ba0-4f53-b00a-c452b9bafacd#ref=rss)
+* [https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland](https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland-a-5b24b3a8-2653-4690-aad9-f1167a4593fe#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland](https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland-a-5b24b3a8-2653-4690-aad9-f1167a4593fe#ref=rss)
+### siedler
+
+* [https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland](https://www.spiegel.de/ausland/israel-eu-beschliesst-neue-sanktionen-gegen-siedler-im-westjordanland-a-5b24b3a8-2653-4690-aad9-f1167a4593fe#ref=rss)
+### juliette
+
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+### binoche
+
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+### lehnt
+
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### intimitätskoordinatoren
+
+* [https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab](https://www.spiegel.de/kultur/juliette-binoche-schauspielerin-lehnt-intimitaetskoordinatoren-am-set-ab-a-9472b47d-e31f-4620-85c8-f062dc2ba7dd#ref=rss)
+### indien
+
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+### homeoffice
+
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro](https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro-a-5c308920-22c7-4498-84ae-3812fb16f6b0#ref=rss)
+### essen
+
+* [https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch](https://www.spiegel.de/wirtschaft/indien-im-iran-krieg-regierung-wirbt-fuer-homeoffice-und-weniger-oelverbrauch-a-dd8a3222-0995-42a0-b36d-04de1f5f0095#ref=rss)
+* [https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen](https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen-a-4d8d0dbd-71cf-48bb-9064-57f9e88e172b#ref=rss)
+### mv
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+### bürgerprotest
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt](https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781#ref=rss)
+### passagiere
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen](https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen-a-4f1d3957-5d4d-4bc2-b008-ae4c64f629b8#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-hantavirus-auf-kreuzfahrtschiff-mv-hondius-buergerprotest-in-maintal-a-6ba74e56-6a72-49c0-94cb-8e22bd02f5ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro](https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro-a-5c308920-22c7-4498-84ae-3812fb16f6b0#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-prozess-um-angriff-auf-israelisches-ruestungsunternehmen-eskaliert-weiter](https://www.spiegel.de/panorama/justiz/stuttgart-prozess-um-angriff-auf-israelisches-ruestungsunternehmen-eskaliert-weiter-a-0e6913f3-1901-42bd-974a-6b51619f0422#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/donald-trump-verdaechtiger-von-washington-plaediert-auf-nicht-schuldig-a-2dc66c96-f418-45c3-a1d8-9141f6a2001f#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien](https://www.spiegel.de/panorama/justiz/oviedo-haftstrafe-fuer-deutsche-eltern-im-horrorhaus-prozess-in-spanien-a-f8588332-ab29-491e-a6bf-9c7c6989f9b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige](https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige-a-7960f4e6-1f9b-486f-b574-5111a2395a39#ref=rss)
+### joachim
+
+* [https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt](https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt-a-7d10a9ad-5c13-4420-ae8a-16840e1240a3#ref=rss)
+### löw
+
+* [https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt](https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt-a-7d10a9ad-5c13-4420-ae8a-16840e1240a3#ref=rss)
+### comeback
+
+* [https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt](https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt-a-7d10a9ad-5c13-4420-ae8a-16840e1240a3#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt](https://www.spiegel.de/sport/joachim-loew-comeback-als-trainer-ex-dfb-coach-hat-bislang-das-innere-feuer-bei-den-anfragen-gefehlt-a-7d10a9ad-5c13-4420-ae8a-16840e1240a3#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### partnerschaft
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### reform
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### kindschaftsrechts
+
+* [https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts](https://www.spiegel.de/politik/deutschland/gewalt-in-der-partnerschaft-stefanie-hubig-plant-reform-des-kindschaftsrechts-a-7aa5d200-ae81-452e-86dc-c2ff3972a0df#ref=rss)
+### britische
+
+* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel](https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel-a-39aa1c8a-3d81-4c12-9579-c78869d50a12#ref=rss)
+### armee
+
+* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel](https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel-a-39aa1c8a-3d81-4c12-9579-c78869d50a12#ref=rss)
+### hilfsgüter
+
+* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel](https://www.spiegel.de/wissenschaft/medizin/hantavirus-verdachtsfall-britische-armee-liefert-hilfsgueter-auf-atlantikinsel-a-39aa1c8a-3d81-4c12-9579-c78869d50a12#ref=rss)
+### verbrennerbusse
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will](https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will-a-974fac0f-dca7-4e43-a6dd-04b2cabfd2aa#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will](https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-warum-die-hochbahn-wieder-verbrennerbusse-anschaffen-will-a-974fac0f-dca7-4e43-a6dd-04b2cabfd2aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/quantencomputer-kommt-das-nvidia-der-zukunft-aus-deutschland](https://www.spiegel.de/wirtschaft/quantencomputer-kommt-das-nvidia-der-zukunft-aus-deutschland-a-748f1215-ba23-4aec-94aa-e2adbc01fd80#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige](https://www.spiegel.de/politik/deutschland/bundeswehr-veranstaltet-immer-mehr-feriencamps-fuer-minderjaehrige-a-7960f4e6-1f9b-486f-b574-5111a2395a39#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/kultur/tv/gaza-doku-filmemacher-attackieren-bbc-nach-bafta-auszeichnung](https://www.spiegel.de/kultur/tv/gaza-doku-filmemacher-attackieren-bbc-nach-bafta-auszeichnung-a-57edb4dd-c3c9-4879-bf59-457ce8876b77#ref=rss)
+### worte
+
+* [https://www.spiegel.de/kultur/tv/gaza-doku-filmemacher-attackieren-bbc-nach-bafta-auszeichnung](https://www.spiegel.de/kultur/tv/gaza-doku-filmemacher-attackieren-bbc-nach-bafta-auszeichnung-a-57edb4dd-c3c9-4879-bf59-457ce8876b77#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen](https://www.spiegel.de/wissenschaft/hantavirus-hondius-kapitaen-spricht-in-video-von-extrem-anstrengenden-wochen-a-4f1d3957-5d4d-4bc2-b008-ae4c64f629b8#ref=rss)
+### reederei
+
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### freilassung
+
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro](https://www.spiegel.de/wirtschaft/service/spritpreise-diesel-kostet-an-tankstellen-weniger-als-zwei-euro-a-5c308920-22c7-4498-84ae-3812fb16f6b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt](https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781#ref=rss)
+### rechenzentrum
+
+* [https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt](https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt](https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781#ref=rss)
+### oleksij
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### makejew
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-ukraine-und-russland-oleksij-makejew-lehnt-vermittlerrolle-fuer-altkanzler-ab-a-429fde68-addd-4784-b211-5e2270526816#ref=rss)
+### florida
+
+* [https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai](https://www.spiegel.de/netzwelt/florida-familie-von-erschossenem-klagt-gegen-openai-a-e15bbae3-5a8d-44e8-b1da-7e1db0de20ce#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen](https://www.spiegel.de/backstage/neues-angebot-spiegel-coaching-wann-immer-sie-wollen-a-4d8d0dbd-71cf-48bb-9064-57f9e88e172b#ref=rss)
 
