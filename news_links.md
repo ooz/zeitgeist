@@ -4,352 +4,363 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte](https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte-a-ae9a352b-c65e-43ac-a694-bc1ccdb145c8#ref=rss)
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-* [https://www.spiegel.de/panorama/kleinflugzeug-absturz-vor-florida-elf-menschen-aus-dem-meer-gerettet](https://www.spiegel.de/panorama/kleinflugzeug-absturz-vor-florida-elf-menschen-aus-dem-meer-gerettet-a-34eac9ce-66ea-49be-9b21-7e3e21552562#ref=rss)
-* [https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur](https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur-a-8a0ea34e-28ac-4c26-84a5-5d69935fb9dc#ref=rss)
-### streeting
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen](https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen-a-fa0bd733-a7bf-4ee5-99f6-db5c6e52f1bb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double-a-6d30b3ac-f3ed-4a86-acbf-89dc225726f8#ref=rss)
-### italien
-
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double-a-6d30b3ac-f3ed-4a86-acbf-89dc225726f8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur](https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur-a-8a0ea34e-28ac-4c26-84a5-5d69935fb9dc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen](https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen-a-f249b6c5-6227-49b8-b2be-f22c4ac1a461#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben](https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben-a-d354e2b7-72d6-44de-90ad-69f79728dd8e#ref=rss)
-* [https://www.spiegel.de/ausland/marokko-us-armee-meldet-tod-von-19-jaehriger-soldatin](https://www.spiegel.de/ausland/marokko-us-armee-meldet-tod-von-19-jaehriger-soldatin-a-0afad3e5-8a7a-48be-8f54-f51e452a7357#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte](https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte-a-ae9a352b-c65e-43ac-a694-bc1ccdb145c8#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert](https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert-a-39a64918-d3fd-44c6-a2bb-24a85043024b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte](https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte-a-ae9a352b-c65e-43ac-a694-bc1ccdb145c8#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert](https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert-a-39a64918-d3fd-44c6-a2bb-24a85043024b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren](https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren-a-503ecc46-90e2-4b9d-a4ed-e37ccdaa940e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt](https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt-a-d09fe915-e5ae-4c23-92ad-23c810845efe#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen](https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen-a-23a3bd39-47da-4a77-9ef2-53c7b1b88273#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-### wes
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### streit
-
-* [https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen](https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen-a-2dbc9ecd-e358-4b7a-b9cf-68b7861e0e30#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-* [https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen](https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen-a-b4fc5fda-8485-4a05-b14e-dd5f46ed5bbd#ref=rss)
-### experten
-
-* [https://www.spiegel.de/sport/fussball/unzureichend-experten-kritisieren-fifa-hitzeprotokoll-bei-der-wm](https://www.spiegel.de/sport/fussball/unzureichend-experten-kritisieren-fifa-hitzeprotokoll-bei-der-wm-a-7e40d2cf-f7c5-4a39-8dbe-f09f8cb82a67#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu](https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu-a-50d14e49-6b82-4064-9a74-89666eb61357#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt](https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt-a-4488c07f-6f71-4458-8fd7-15ba2ccbd80c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen-a-86d05609-bba8-49bd-a04d-913e6d1ba3b0#ref=rss)
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-* [https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen](https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen-a-b4fc5fda-8485-4a05-b14e-dd5f46ed5bbd#ref=rss)
-### rathaus
-
-* [https://www.spiegel.de/ausland/lgbtq-in-polen-rathaus-in-warschau-erkennt-erstmals-gleichgeschlechtliche-ehe-an](https://www.spiegel.de/ausland/lgbtq-in-polen-rathaus-in-warschau-erkennt-erstmals-gleichgeschlechtliche-ehe-an-a-b9c7d6c2-1aab-4629-9c3f-5ea60e079a21#ref=rss)
-### gleichgeschlechtliche
-
-* [https://www.spiegel.de/ausland/lgbtq-in-polen-rathaus-in-warschau-erkennt-erstmals-gleichgeschlechtliche-ehe-an](https://www.spiegel.de/ausland/lgbtq-in-polen-rathaus-in-warschau-erkennt-erstmals-gleichgeschlechtliche-ehe-an-a-b9c7d6c2-1aab-4629-9c3f-5ea60e079a21#ref=rss)
-### valie
-
-* [https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben](https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben-a-d354e2b7-72d6-44de-90ad-69f79728dd8e#ref=rss)
-### export
-
-* [https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben](https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben-a-d354e2b7-72d6-44de-90ad-69f79728dd8e#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben](https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben-a-d354e2b7-72d6-44de-90ad-69f79728dd8e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben](https://www.spiegel.de/panorama/feministische-kunstpionierin-valie-export-gestorben-a-d354e2b7-72d6-44de-90ad-69f79728dd8e#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren](https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren-a-503ecc46-90e2-4b9d-a4ed-e37ccdaa940e#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte](https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte-a-ae9a352b-c65e-43ac-a694-bc1ccdb145c8#ref=rss)
-### kolumbien
-
-* [https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren](https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren-a-503ecc46-90e2-4b9d-a4ed-e37ccdaa940e#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren](https://www.spiegel.de/ausland/kolumbien-rotes-kreuz-meldet-schlimmste-gewalt-seit-jahren-a-503ecc46-90e2-4b9d-a4ed-e37ccdaa940e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-### berichte
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen](https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen-a-23a3bd39-47da-4a77-9ef2-53c7b1b88273#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen](https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen-a-23a3bd39-47da-4a77-9ef2-53c7b1b88273#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu](https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu-a-50d14e49-6b82-4064-9a74-89666eb61357#ref=rss)
-### usmilitärs
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen](https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen-a-23a3bd39-47da-4a77-9ef2-53c7b1b88273#ref=rss)
-* [https://www.spiegel.de/panorama/kleinflugzeug-absturz-vor-florida-elf-menschen-aus-dem-meer-gerettet](https://www.spiegel.de/panorama/kleinflugzeug-absturz-vor-florida-elf-menschen-aus-dem-meer-gerettet-a-34eac9ce-66ea-49be-9b21-7e3e21552562#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen](https://www.spiegel.de/ausland/krieg-in-iran-us-admiral-dementiert-berichte-ueber-iranische-raketenstellungen-a-23a3bd39-47da-4a77-9ef2-53c7b1b88273#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-### antarktis
-
-* [https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion](https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion-a-d4d033da-23c8-46b6-b88f-b32d4cc02dcb#ref=rss)
-### eis
-
-* [https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion](https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion-a-d4d033da-23c8-46b6-b88f-b32d4cc02dcb#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion](https://www.spiegel.de/wissenschaft/weltall/antarktis-forscher-finden-im-eis-spuren-einer-sternexplosion-a-d4d033da-23c8-46b6-b88f-b32d4cc02dcb#ref=rss)
-* [https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur](https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur-a-8a0ea34e-28ac-4c26-84a5-5d69935fb9dc#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### alexandra
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### popp
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-### verlässt
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vs-vfl-wolfsburg-alexandra-popp-geht-als-legende-aber-ohne-titel-a-69adac39-f84a-447c-a3e0-72e2dee10810#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### influencerinnen
-
-* [https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert](https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert-a-39a64918-d3fd-44c6-a2bb-24a85043024b#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert](https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert-a-39a64918-d3fd-44c6-a2bb-24a85043024b#ref=rss)
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert](https://www.spiegel.de/deinspiegel/wie-influencerinnen-arbeiten-irgendwann-dachte-ich-das-ist-doch-bescheuert-a-39a64918-d3fd-44c6-a2bb-24a85043024b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### leere
-
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-### zapfsäulen
-
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-### stromausfälle
-
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-### verdorbenes
-
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-### essen
-
-* [https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr](https://www.spiegel.de/ausland/energiekrise-wegen-us-blockade-kuba-hat-keinen-tropfen-oel-mehr-a-4eb18bcc-257f-46e5-9a02-dd90eaa116b6#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### exvizepremierministerin
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### rayner
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### london
-
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen](https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen-a-2dbc9ecd-e358-4b7a-b9cf-68b7861e0e30#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen](https://www.spiegel.de/ausland/tschechien-abgeordnete-stellen-sich-gegen-treffen-der-sudetendeutschen-a-2dbc9ecd-e358-4b7a-b9cf-68b7861e0e30#ref=rss)
-### amateurfußball
-
-* [https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt](https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt-a-d09fe915-e5ae-4c23-92ad-23c810845efe#ref=rss)
-### linienrichter
-
-* [https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt](https://www.spiegel.de/sport/fussball/fussball-schlag-gegen-linienrichter-spiele-in-thueringen-abgesagt-a-d09fe915-e5ae-4c23-92ad-23c810845efe#ref=rss)
-### catherine
-
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-### dianas
-
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-### ring
-
-* [https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger](https://www.spiegel.de/reise/catherine-princess-of-wales-pasta-kochkurs-in-italien-dianas-ring-bleibt-am-finger-a-05b742f8-d888-49cf-9d32-e4145532fb8a#ref=rss)
-### white
-
-* [https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd](https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd-a-b7459be9-e013-4c35-b706-819bfaccc04e#ref=rss)
-### tiger
-
-* [https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd](https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd-a-b7459be9-e013-4c35-b706-819bfaccc04e#ref=rss)
-### menschenjagd
-
-* [https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd](https://www.spiegel.de/netzwelt/web/white-tiger-ex-fbi-agent-ueber-die-ermittlungen-podcastserie-menschenjagd-a-b7459be9-e013-4c35-b706-819bfaccc04e#ref=rss)
-### margrethe
-
-* [https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus](https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus-a-e9fe3b35-7d89-4c2e-9d01-7ed830e85078#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus](https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus-a-e9fe3b35-7d89-4c2e-9d01-7ed830e85078#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus](https://www.spiegel.de/panorama/herzprobleme-daenische-koenigin-margrethe-im-krankenhaus-a-e9fe3b35-7d89-4c2e-9d01-7ed830e85078#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu](https://www.spiegel.de/wissenschaft/natur/weltmeere-steuern-auf-neuen-waermerekord-zu-a-50d14e49-6b82-4064-9a74-89666eb61357#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/ausland/fpv-drohnen-wurden-zum-gamechanger-in-der-ukraine-nun-nutzen-sie-auch-rebellen-und-terroristen](https://www.spiegel.de/ausland/fpv-drohnen-wurden-zum-gamechanger-in-der-ukraine-nun-nutzen-sie-auch-rebellen-und-terroristen-a-b1070f8c-490a-4fbe-b9b4-9a01a38b12a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### problem
-
-* [https://www.spiegel.de/ausland/fpv-drohnen-wurden-zum-gamechanger-in-der-ukraine-nun-nutzen-sie-auch-rebellen-und-terroristen](https://www.spiegel.de/ausland/fpv-drohnen-wurden-zum-gamechanger-in-der-ukraine-nun-nutzen-sie-auch-rebellen-und-terroristen-a-b1070f8c-490a-4fbe-b9b4-9a01a38b12a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### palästina
-
-* [https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen](https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen-a-fa0bd733-a7bf-4ee5-99f6-db5c6e52f1bb#ref=rss)
-### 36
-
-* [https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen](https://www.spiegel.de/kultur/kino/palaestina-36-warum-dieser-film-kaum-hilft-den-nahostkonflikt-zu-verstehen-a-fa0bd733-a7bf-4ee5-99f6-db5c6e52f1bb#ref=rss)
-### hugh
-
-* [https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord](https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord-a-12da3258-c6bf-48aa-9e71-27aa7ef26b13#ref=rss)
-### jackman
-
-* [https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord](https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord-a-12da3258-c6bf-48aa-9e71-27aa7ef26b13#ref=rss)
-### glennkill
-
-* [https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord](https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord-a-12da3258-c6bf-48aa-9e71-27aa7ef26b13#ref=rss)
-### schafskrimi
-
-* [https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord](https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord-a-12da3258-c6bf-48aa-9e71-27aa7ef26b13#ref=rss)
-### mäh
-
-* [https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord](https://www.spiegel.de/kultur/kino/hugh-jackman-in-glennkill-ein-schafskrimi-maeh-maeh-mord-a-12da3258-c6bf-48aa-9e71-27aa7ef26b13#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur](https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur-a-8a0ea34e-28ac-4c26-84a5-5d69935fb9dc#ref=rss)
-### straße
-
-* [https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur](https://www.spiegel.de/politik/nazi-zeit-und-zweiter-weltkrieg-brauchen-wir-noch-eine-deutsche-erinnerungskultur-a-8a0ea34e-28ac-4c26-84a5-5d69935fb9dc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen](https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen-a-f249b6c5-6227-49b8-b2be-f22c4ac1a461#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen](https://www.spiegel.de/wissenschaft/medizin/hantavirus-welche-typen-in-deutschland-vorkommen-und-wie-sie-sich-schuetzen-koennen-a-f249b6c5-6227-49b8-b2be-f22c4ac1a461#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann](https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
 ### xi
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
 ### jinping
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-### gipfel
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen-a-86d05609-bba8-49bd-a04d-913e6d1ba3b0#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst](https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst-a-7dd7629a-fc74-43a2-ac10-f4f2c42b64da#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-gipfel-in-china-ohne-streit-ueber-zoelle-a-d911e988-0a30-4c28-98d3-a3f3181add90#ref=rss)
-### aufgefunden
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke](https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46#ref=rss)
+### peking
 
-* [https://www.spiegel.de/ausland/marokko-us-armee-meldet-tod-von-19-jaehriger-soldatin](https://www.spiegel.de/ausland/marokko-us-armee-meldet-tod-von-19-jaehriger-soldatin-a-0afad3e5-8a7a-48be-8f54-f51e452a7357#ref=rss)
-### msci
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar](https://www.spiegel.de/ausland/taiwan-xi-jinping-sollte-aus-den-fehlern-von-donald-trump-und-wladimir-putin-lernen-kommentar-a-2f997aa7-a485-4751-8118-715063837320#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### world
+* [https://www.spiegel.de/effilee/gastgeben-als-akt-des-widerstands-eine-neue-generation-entdeckt-das-einladen-zum-essen](https://www.spiegel.de/effilee/gastgeben-als-akt-des-widerstands-eine-neue-generation-entdeckt-das-einladen-zum-essen-a-91fe0c3d-d5d1-4a72-b32c-460acf77c387#ref=rss)
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### fondsmanager
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg-a-ff2e55d7-0226-4731-8ea2-23fd84446d80#ref=rss)
+### hauptstadt
 
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### bert
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### flossbach
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### tote
 
-* [https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview](https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss)
-### inter
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten](https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten-a-4845c55a-716b-4915-9733-8b7b15f897f9#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double-a-6d30b3ac-f3ed-4a86-acbf-89dc225726f8#ref=rss)
-### mailand
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+### siedler
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double-a-6d30b3ac-f3ed-4a86-acbf-89dc225726f8#ref=rss)
-### double
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-sichert-sich-erneut-das-double-a-6d30b3ac-f3ed-4a86-acbf-89dc225726f8#ref=rss)
-### protest
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
+### attackiert
 
-* [https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-tritt-zurueck-protest-gegen-premier-keir-starmer-a-88694475-63a8-4fe7-8e1c-4efe3c7bd714#ref=rss)
-### papst
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### jugendlichen
 
-* [https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen](https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen-a-b4fc5fda-8485-4a05-b14e-dd5f46ed5bbd#ref=rss)
-### leo
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen](https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen-a-b4fc5fda-8485-4a05-b14e-dd5f46ed5bbd#ref=rss)
-### xiv
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-stecken-offenbar-moschee-nahe-ramallah-in-brand-a-446d9edf-cc3f-4fd2-810b-f0ce37f6739d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+### zalando
 
-* [https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen](https://www.spiegel.de/ausland/man-darf-aufruestung-nicht-verteidigung-nennen-a-b4fc5fda-8485-4a05-b14e-dd5f46ed5bbd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt](https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt-a-4488c07f-6f71-4458-8fd7-15ba2ccbd80c#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt](https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt-a-4488c07f-6f71-4458-8fd7-15ba2ccbd80c#ref=rss)
+### straße
+
+* [https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt](https://www.spiegel.de/wirtschaft/zalando-konzern-verschaetzt-sich-bei-abwicklung-des-standorts-erfurt-a-4488c07f-6f71-4458-8fd7-15ba2ccbd80c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke](https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### bond
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### aaron
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### taylorjohnson
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### gillian
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### anderson
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### 007
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams](https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams-a-2f6b1caf-94f4-4169-870d-f70cac0ef29e#ref=rss)
+### thailand
+
+* [https://www.spiegel.de/wissenschaft/natur/thailand-forschende-graben-suedostasiens-groessten-dinosaurier-aus](https://www.spiegel.de/wissenschaft/natur/thailand-forschende-graben-suedostasiens-groessten-dinosaurier-aus-a-8b496b6d-c970-4cd2-b5fe-38c36910eb65#ref=rss)
+### größten
+
+* [https://www.spiegel.de/wissenschaft/natur/thailand-forschende-graben-suedostasiens-groessten-dinosaurier-aus](https://www.spiegel.de/wissenschaft/natur/thailand-forschende-graben-suedostasiens-groessten-dinosaurier-aus-a-8b496b6d-c970-4cd2-b5fe-38c36910eb65#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+### medien
+
+* [https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams](https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams-a-2f6b1caf-94f4-4169-870d-f70cac0ef29e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams](https://www.spiegel.de/sport/fussball/refcams-in-der-bundesliga-warum-tragen-schiedsrichter-jetzt-bodycams-a-2f6b1caf-94f4-4169-870d-f70cac0ef29e#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv](https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv-a-49c48195-a603-4a22-aa85-f6ffc152414b#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### jeweils
+
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus](https://www.spiegel.de/ausland/ukraine-und-russland-tauschen-jeweils-205-gefangene-aus-a-1af3e312-33c8-49d6-b49a-ce86db92ea62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv](https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv-a-49c48195-a603-4a22-aa85-f6ffc152414b#ref=rss)
+### sponsor
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+### land
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-saudi-arabien-tritt-als-sponsor-auf-a-3931a046-ac65-4fc5-9336-2f5297b472b9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke](https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46#ref=rss)
+### uschi
+
+* [https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst](https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst-a-7dd7629a-fc74-43a2-ac10-f4f2c42b64da#ref=rss)
+### glas
+
+* [https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst](https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst-a-7dd7629a-fc74-43a2-ac10-f4f2c42b64da#ref=rss)
+### film
+
+* [https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst](https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst-a-7dd7629a-fc74-43a2-ac10-f4f2c42b64da#ref=rss)
+### gesprochen
+
+* [https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst](https://www.spiegel.de/panorama/leute/uschi-glas-fuehlte-sich-vom-neuen-deutschen-film-erpresst-a-7dd7629a-fc74-43a2-ac10-f4f2c42b64da#ref=rss)
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+### neue
+
+* [https://www.spiegel.de/effilee/gastgeben-als-akt-des-widerstands-eine-neue-generation-entdeckt-das-einladen-zum-essen](https://www.spiegel.de/effilee/gastgeben-als-akt-des-widerstands-eine-neue-generation-entdeckt-das-einladen-zum-essen-a-91fe0c3d-d5d1-4a72-b32c-460acf77c387#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### emilia
+
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+### clarke
+
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+### psychischen
+
+* [https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen](https://www.spiegel.de/panorama/leute/emilia-clarke-kaempfte-nach-hirn-ops-mit-psychischen-folgen-a-b0d3f627-81ae-4a4b-bc84-03976b226ddb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### helsinki
+
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf](https://www.spiegel.de/ausland/helsinki-flughafen-nimmt-nach-mehrstuendiger-sperrung-betrieb-wieder-auf-a-40b57026-287b-474a-9247-2033d2810c88#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen-a-86d05609-bba8-49bd-a04d-913e6d1ba3b0#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-im-falle-eines-wahlsieges-etliche-beamtenposten-neu-besetzen-a-86d05609-bba8-49bd-a04d-913e6d1ba3b0#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
+### nahost
+
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben](https://www.spiegel.de/ausland/krieg-in-nahost-saudi-arabien-und-vae-sollen-erstmals-iran-angegriffen-haben-a-7a13e796-d396-448a-ad88-b6f8643d2f8a#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-wird-bahnfahren-teurer-weil-die-bundesregierung-eine-reform-verzoegert](https://www.spiegel.de/wirtschaft/deutsche-bahn-wird-bahnfahren-teurer-weil-die-bundesregierung-eine-reform-verzoegert-a-cbd9a883-bef0-408f-8421-66380cb6ef81#ref=rss)
+### frühjahr
+
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr](https://www.spiegel.de/wirtschaft/krieg-in-nahost-bundesregierung-erwartet-deutlichen-konjunktur-daempfer-im-fruehjahr-a-0af2d476-f1e1-410f-a0fa-53d47e88ee9d#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### paraffinklumpen
+
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+### norderney
+
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+### borkum
+
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+### juist
+
+* [https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt](https://www.spiegel.de/panorama/nordsee-paraffinklumpen-an-straenden-von-norderney-borkum-und-juist-entdeckt-a-aea7c7a7-e233-4629-8039-7d52357f4cee#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### wohnungsbau
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung](https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung-a-c7d1866f-4bda-46ca-8284-9361e3d0f6cd#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung](https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung-a-c7d1866f-4bda-46ca-8284-9361e3d0f6cd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-meldet-21-tote-nach-russischem-grossangriff-auf-kyjiw-a-e91a8a53-7ecc-425c-949a-2727e9b42e35#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung](https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung-a-c7d1866f-4bda-46ca-8284-9361e3d0f6cd#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung](https://www.spiegel.de/wirtschaft/unternehmen/wohnungsbau-ifo-institut-meldet-deutlich-schlechtere-stimmung-a-c7d1866f-4bda-46ca-8284-9361e3d0f6cd#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten](https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten-a-4845c55a-716b-4915-9733-8b7b15f897f9#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg-a-ff2e55d7-0226-4731-8ea2-23fd84446d80#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg-a-ff2e55d7-0226-4731-8ea2-23fd84446d80#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-wird-ausgebuht-und-kritisiert-trainer-nach-sieg-a-ff2e55d7-0226-4731-8ea2-23fd84446d80#ref=rss)
+### max
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### giesinger
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### the
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### voice
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### of
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### germany
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany](https://www.spiegel.de/panorama/leute/max-giesinger-spricht-ueber-psychischen-zerfall-waehrend-the-voice-of-germany-a-c0855b05-475b-44c0-a478-3b7fda4a0bbd#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten](https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten-a-4845c55a-716b-4915-9733-8b7b15f897f9#ref=rss)
+### anholt
+
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### handelt
+
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+### newsupdate
+
+* [https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht](https://www.spiegel.de/panorama/ostsee-wal-news-heute-unfassbare-frechheit-was-hier-abgeht-a-44332347-b576-46e0-89ca-2eaaf7c35f8d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen](https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss)
+### chinareise
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere](https://www.spiegel.de/wirtschaft/donald-trump-steckte-vor-china-reise-millionen-in-apple-papiere-a-f5aeb9fa-b5b4-4ad9-83d9-67fb2ef27e52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv](https://www.spiegel.de/sport/eishockey/eishockey-wm-2026-spielplan-ergebnisse-deb-kader-tv-a-49c48195-a603-4a22-aa85-f6ffc152414b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag](https://www.spiegel.de/politik/deutschland/news-us-praesident-donald-trump-trifft-erneut-auf-chinas-staatschef-xi-chaos-in-der-britischen-regierung-bundeskanzler-friedrich-merz-beim-katholikentag-a-c926b9c7-f658-44d6-8d3c-bb2e0961b2b8#ref=rss)
+### haiti
+
+* [https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten](https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten-a-4845c55a-716b-4915-9733-8b7b15f897f9#ref=rss)
+### uno
+
+* [https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten](https://www.spiegel.de/ausland/haiti-kaempfe-zwischen-gangs-uno-berichtet-von-mindestens-78-toten-a-4845c55a-716b-4915-9733-8b7b15f897f9#ref=rss)
+### vw
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke](https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-wird-bahnfahren-teurer-weil-die-bundesregierung-eine-reform-verzoegert](https://www.spiegel.de/wirtschaft/deutsche-bahn-wird-bahnfahren-teurer-weil-die-bundesregierung-eine-reform-verzoegert-a-cbd9a883-bef0-408f-8421-66380cb6ef81#ref=rss)
 
