@@ -4,308 +4,369 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fußball
+### donald
 
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-### city
+* [https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder](https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder-a-6cfc58b6-d99b-4dea-bc28-5278cdaa2f0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar-a-9ff5fc2c-fc9f-499a-a75a-76097ebe9a49#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar-a-9ff5fc2c-fc9f-499a-a75a-76097ebe9a49#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt-a-74d66c19-4ce5-4914-aaa6-8d01c2cf1ee5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm](https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm-a-54efa4a1-1459-4a6b-81d8-0be38fea2fc7#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse](https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse-a-b71ae3cd-90d2-4c2e-9940-75b089e6243d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+* [https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen](https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen-a-29b5ed6c-3afb-4e83-832d-1a7f6605b13a#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus-a-c6ad9885-72f2-40bb-bfa8-6b298f9f757a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft](https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft-a-578f298f-26af-4331-ad96-4dd9c83e98bd#ref=rss)
-* [https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben](https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben-a-d4e6deac-3ec5-42b0-a904-fcbd8b876858#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar](https://www.spiegel.de/wissenschaft/natur/donald-trump-albino-bulle-wird-zum-internetstar-a-9ff5fc2c-fc9f-499a-a75a-76097ebe9a49#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus-a-c6ad9885-72f2-40bb-bfa8-6b298f9f757a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo](https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss)
-### deutschen
+* [https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier](https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier-a-98c73453-115d-414f-a21f-8a8c10d596ea#ref=rss)
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr-a-d0466bbe-a3f8-4845-8cfb-7507384cc6f9#ref=rss)
-### gestorben
+* [https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab](https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab-a-cabb6fc5-57bb-4fc4-8469-fc32bc527faf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert](https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert-a-dfe80033-2cbf-49ff-aac2-3bf6c51ecb5a#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-* [https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben](https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben-a-d4e6deac-3ec5-42b0-a904-fcbd8b876858#ref=rss)
-### hering
+* [https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab](https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab-a-cabb6fc5-57bb-4fc4-8469-fc32bc527faf#ref=rss)
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### amt
 
-* [https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft](https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft-a-578f298f-26af-4331-ad96-4dd9c83e98bd#ref=rss)
-### emily
-
-* [https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland](https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland-a-58a5f66f-c135-4500-976a-d1992470c393#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung](https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung-a-1431dcba-6f19-4bbd-ac28-3814c1a9fafc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf](https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf-a-183ef8d4-22d5-47cb-9f8e-5909064dc0cb#ref=rss)
-### pep
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-### guardiola
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-* [https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck](https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck-a-2ef2ef62-2bb0-4570-8936-d8feb2dcabdb#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland](https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland-a-58a5f66f-c135-4500-976a-d1992470c393#ref=rss)
-### seines
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-tritt-bei-manchester-city-zum-saisonende-zurueck-a-f2bd33e3-f354-49ff-918d-854ccd3d69a6#ref=rss)
-* [https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck](https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck-a-2ef2ef62-2bb0-4570-8936-d8feb2dcabdb#ref=rss)
-### kaiserreichsgruppe
-
-* [https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt-a-74d66c19-4ce5-4914-aaa6-8d01c2cf1ee5#ref=rss)
-### unterstützer
-
-* [https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt-a-74d66c19-4ce5-4914-aaa6-8d01c2cf1ee5#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserreichsgruppe-drei-unterstuetzer-verurteilt-a-74d66c19-4ce5-4914-aaa6-8d01c2cf1ee5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-### beratergremium
-
-* [https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt](https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt-a-727eca0c-0726-417d-963f-bdcdd64fba82#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt](https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt-a-727eca0c-0726-417d-963f-bdcdd64fba82#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt](https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt-a-727eca0c-0726-417d-963f-bdcdd64fba82#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt](https://www.spiegel.de/wissenschaft/warum-der-expertenrat-fuer-klimafragen-jetzt-vor-gerissenen-zielen-warnt-a-727eca0c-0726-417d-963f-bdcdd64fba82#ref=rss)
-* [https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm](https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm-a-54efa4a1-1459-4a6b-81d8-0be38fea2fc7#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus-a-c6ad9885-72f2-40bb-bfa8-6b298f9f757a#ref=rss)
-### tuchel
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-thomas-tuchel-sortiert-stars-aus-englands-kader-aus-a-c6ad9885-72f2-40bb-bfa8-6b298f9f757a#ref=rss)
-### marco
-
-* [https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck](https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck-a-2ef2ef62-2bb0-4570-8936-d8feb2dcabdb#ref=rss)
-### rubio
-
-* [https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck](https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck-a-2ef2ef62-2bb0-4570-8936-d8feb2dcabdb#ref=rss)
-### bild
-
-* [https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck](https://www.spiegel.de/ausland/nato-gipfel-in-schweden-marco-rubio-weist-vorwurf-des-us-truppenabzugs-als-strafe-zurueck-a-2ef2ef62-2bb0-4570-8936-d8feb2dcabdb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr-a-d0466bbe-a3f8-4845-8cfb-7507384cc6f9#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-### partner
-
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verfolgung-von-vergewaltigungen-wie-eine-gesetzesluecke-mutmassliche-taten-schuetzt](https://www.spiegel.de/politik/deutschland/verfolgung-von-vergewaltigungen-wie-eine-gesetzesluecke-mutmassliche-taten-schuetzt-a-754d69df-7557-46ff-ac57-a026c0d3bdbf#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt](https://www.spiegel.de/panorama/justiz/bayern-frau-zu-lebenslanger-haft-fuer-giftmord-an-partner-verurteilt-a-e88d65ca-c9d0-4acd-8cbf-7d15a091b677#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten-a-d684e29f-7da7-4a75-b1fa-dde6c506ef3a#ref=rss)
-### sv
-
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-### elversberg
-
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-### frank
-
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-### holzer
-
-* [https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins](https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/freiburg-oberbuergermeister-martin-horn-spendet-50-000-euro-an-spd](https://www.spiegel.de/politik/deutschland/freiburg-oberbuergermeister-martin-horn-spendet-50-000-euro-an-spd-a-845f3642-3650-4ce8-bec4-1497feb592e7#ref=rss)
-### horn
-
-* [https://www.spiegel.de/politik/deutschland/freiburg-oberbuergermeister-martin-horn-spendet-50-000-euro-an-spd](https://www.spiegel.de/politik/deutschland/freiburg-oberbuergermeister-martin-horn-spendet-50-000-euro-an-spd-a-845f3642-3650-4ce8-bec4-1497feb592e7#ref=rss)
-### carlo
-
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-### petrini
-
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-* [https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben](https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben-a-d4e6deac-3ec5-42b0-a904-fcbd8b876858#ref=rss)
-### slow
-
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung](https://www.spiegel.de/kultur/carlo-petrini-ist-tot-begruender-der-slow-food-genussbewegung-a-1914686e-4aa6-46f7-a5a7-c1014fc42c1c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig](https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig-a-8044d476-3e05-43c7-9d09-00b92a9ed905#ref=rss)
-### cheopspyramide
-
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-weshalb-die-cheops-pyramide-auch-erdbeben-uebersteht](https://www.spiegel.de/wissenschaft/mensch/aegypten-weshalb-die-cheops-pyramide-auch-erdbeben-uebersteht-a-46bf13f8-6b06-4448-8829-f54140551a49#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-weshalb-die-cheops-pyramide-auch-erdbeben-uebersteht](https://www.spiegel.de/wissenschaft/mensch/aegypten-weshalb-die-cheops-pyramide-auch-erdbeben-uebersteht-a-46bf13f8-6b06-4448-8829-f54140551a49#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder](https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder-a-4048af74-f32d-434a-8c6b-17d805ad2558#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten-a-d684e29f-7da7-4a75-b1fa-dde6c506ef3a#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten-a-d684e29f-7da7-4a75-b1fa-dde6c506ef3a#ref=rss)
-### fehlverhalten
-
-* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-britische-polizei-bittet-um-hinweise-zu-fehlverhalten-a-d684e29f-7da7-4a75-b1fa-dde6c506ef3a#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale](https://www.spiegel.de/sport/fussball/fussball-manuel-neuer-fehlt-dem-fc-bayern-muenchen-im-dfb-pokalfinale-a-61894a40-4820-4a20-a84d-e74325ae91eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm](https://www.spiegel.de/wirtschaft/experten-beklagen-gigantischen-co-fussabdruck-der-wm-a-54efa4a1-1459-4a6b-81d8-0be38fea2fc7#ref=rss)
-### mark
-
-* [https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit](https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit-a-694d6f8b-c5d6-446e-a0ed-ad4f68def5f5#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit](https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit-a-694d6f8b-c5d6-446e-a0ed-ad4f68def5f5#ref=rss)
+* [https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder](https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder-a-6cfc58b6-d99b-4dea-bc28-5278cdaa2f0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
 ### trumps
 
-* [https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit](https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit-a-694d6f8b-c5d6-446e-a0ed-ad4f68def5f5#ref=rss)
-### mahnt
+* [https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder](https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder-a-6cfc58b6-d99b-4dea-bc28-5278cdaa2f0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+### songs
 
-* [https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit](https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit-a-694d6f8b-c5d6-446e-a0ed-ad4f68def5f5#ref=rss)
-### europa
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+* [https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla](https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla-a-ae3dbe4d-9ae5-47c9-a480-05706e1fac90#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit](https://www.spiegel.de/ausland/nato-mark-rutte-lobt-trumps-truppenentsendung-und-mahnt-europa-zur-eigenstaendigkeit-a-694d6f8b-c5d6-446e-a0ed-ad4f68def5f5#ref=rss)
-### hendrik
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern-a-80ddb90f-3919-4918-9ba6-3f101a17a522#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft](https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft-a-578f298f-26af-4331-ad96-4dd9c83e98bd#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast](https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast-a-7d5aa589-8c88-41fc-8a65-d1a7560758e5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft](https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft-a-578f298f-26af-4331-ad96-4dd9c83e98bd#ref=rss)
-### zehn
+* [https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast](https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast-a-7d5aa589-8c88-41fc-8a65-d1a7560758e5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre](https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre-a-e8486a11-d9ed-46af-8ce9-af34742ca24e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern-a-29c4efca-da77-48b2-b3c2-b0d4d62ad0cf#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft](https://www.spiegel.de/politik/deutschland/hendrik-hering-ex-landtagspraesident-von-rheinland-pfalz-hering-geht-doch-nicht-zur-lottogesellschaft-a-578f298f-26af-4331-ad96-4dd9c83e98bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig](https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig-a-8044d476-3e05-43c7-9d09-00b92a9ed905#ref=rss)
-### berlinmitte
+* [https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre](https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre-a-e8486a11-d9ed-46af-8ce9-af34742ca24e#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+### ralf
 
-* [https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig](https://www.spiegel.de/politik/deutschland/berlin-mitte-bundesrat-anbau-wird-noch-spaeter-fertig-a-8044d476-3e05-43c7-9d09-00b92a9ed905#ref=rss)
-### brite
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest](https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest-a-c3d31ffb-f21f-45b6-aa0c-32df0af4853d#ref=rss)
-### kenton
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
+### fall
 
-* [https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest](https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest-a-c3d31ffb-f21f-45b6-aa0c-32df0af4853d#ref=rss)
-### cool
+* [https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse](https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse-a-b71ae3cd-90d2-4c2e-9940-75b089e6243d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### reformen
 
-* [https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest](https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest-a-c3d31ffb-f21f-45b6-aa0c-32df0af4853d#ref=rss)
-### everest
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
+### spd
 
-* [https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest](https://www.spiegel.de/sport/bergsteigen-brite-kenton-cool-bezwingt-zum-20-mal-den-mount-everest-a-c3d31ffb-f21f-45b6-aa0c-32df0af4853d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab](https://www.spiegel.de/politik/deutschland/spd-lehnt-kuerzungen-der-entwicklungshilfe-ab-a-cabb6fc5-57bb-4fc4-8469-fc32bc527faf#ref=rss)
+### tulsi
+
+* [https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder](https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder-a-6cfc58b6-d99b-4dea-bc28-5278cdaa2f0a#ref=rss)
+### gabbard
+
+* [https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder](https://www.spiegel.de/ausland/tulsi-gabbard-us-geheimdienstkoordinatorin-legt-amt-nieder-a-6cfc58b6-d99b-4dea-bc28-5278cdaa2f0a#ref=rss)
+### technopop
+
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+### floss
+
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink](https://www.spiegel.de/kultur/techno-pop-von-floss-prickelig-in-pink-a-a04af8b2-ff36-4473-bc48-6baa5842ee85#ref=rss)
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+### warsh
+
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+### machte
+
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt](https://www.spiegel.de/wirtschaft/kevin-warsh-neuer-fed-chef-im-weissen-haus-vereidigt-a-268dae4a-6f36-452f-9e07-f8f1c3f9056c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+### lukas
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-beendet-seine-fussball-karriere](https://www.spiegel.de/sport/fussball/lukas-podolski-beendet-seine-fussball-karriere-a-d1849fbf-2f0d-4c19-b3e6-605e45b3b16f#ref=rss)
+### podolski
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-beendet-seine-fussball-karriere](https://www.spiegel.de/sport/fussball/lukas-podolski-beendet-seine-fussball-karriere-a-d1849fbf-2f0d-4c19-b3e6-605e45b3b16f#ref=rss)
+### erlangen
+
+* [https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla](https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla-a-ae3dbe4d-9ae5-47c9-a480-05706e1fac90#ref=rss)
+### volksfestwirte
+
+* [https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla](https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla-a-ae3dbe4d-9ae5-47c9-a480-05706e1fac90#ref=rss)
+### skandal
+
+* [https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla](https://www.spiegel.de/panorama/erlangen-bittet-volksfestwirte-um-verzicht-auf-umstrittene-songs-wie-layla-a-ae3dbe4d-9ae5-47c9-a480-05706e1fac90#ref=rss)
+### keir
+
+* [https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast](https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast-a-7d5aa589-8c88-41fc-8a65-d1a7560758e5#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast](https://www.spiegel.de/ausland/keir-starmer-wie-labour-den-eigenen-premier-demontiert-podcast-a-7d5aa589-8c88-41fc-8a65-d1a7560758e5#ref=rss)
+### christopher
+
+* [https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier](https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier-a-98c73453-115d-414f-a21f-8a8c10d596ea#ref=rss)
+### nolan
+
+* [https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier](https://www.spiegel.de/kultur/kino/christopher-nolan-liest-e-mails-nur-auf-papier-a-98c73453-115d-414f-a21f-8a8c10d596ea#ref=rss)
+### ikkimel
+
+* [https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre](https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre-a-e8486a11-d9ed-46af-8ce9-af34742ca24e#ref=rss)
+### 50
+
+* [https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre](https://www.spiegel.de/kultur/musik/ikkimel-verschenkt-tickets-an-menschen-ueber-70-jahre-a-e8486a11-d9ed-46af-8ce9-af34742ca24e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### fußballem
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### müller
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### star
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-afd-heimliche-handyvideos-befeuern-streit-um-broschuere](https://www.spiegel.de/politik/deutschland/cdu-und-afd-heimliche-handyvideos-befeuern-streit-um-broschuere-a-44483455-fb67-4e70-95a9-7b8b440f33f8#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte](https://www.spiegel.de/sport/fussball/fussball-em-1976-in-belgrad-das-turnier-das-den-jungen-dieter-mueller-zum-star-machte-a-e65dd1d3-f02b-4476-bbe8-8c76d230e8fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-afd-heimliche-handyvideos-befeuern-streit-um-broschuere](https://www.spiegel.de/politik/deutschland/cdu-und-afd-heimliche-handyvideos-befeuern-streit-um-broschuere-a-44483455-fb67-4e70-95a9-7b8b440f33f8#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern-a-80ddb90f-3919-4918-9ba6-3f101a17a522#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern-a-80ddb90f-3919-4918-9ba6-3f101a17a522#ref=rss)
+### nsvergangenheit
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-studie-untersucht-ns-vergangenheit-von-richtern-a-80ddb90f-3919-4918-9ba6-3f101a17a522#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+### andere
+
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### hochzeit
+
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national](https://www.spiegel.de/kultur/ralf-etienne-auf-sky-der-eine-ist-ralf-schumacher-aber-der-andere-ein-ex-politiker-des-front-national-a-d706798d-8e61-426c-9b3c-f88996da30c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
+### polen
+
+* [https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt](https://www.spiegel.de/politik/deutschland/nato-und-donald-trump-vergiftetes-geschenk-fuer-polen-unsicherheit-im-buendnis-bleibt-a-987ab47f-cfe9-4448-9996-d8f973329719#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert](https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert-a-dfe80033-2cbf-49ff-aac2-3bf6c51ecb5a#ref=rss)
+### stephen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert](https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert-a-dfe80033-2cbf-49ff-aac2-3bf6c51ecb5a#ref=rss)
+### colbert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert](https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert-a-dfe80033-2cbf-49ff-aac2-3bf6c51ecb5a#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert](https://www.spiegel.de/politik/deutschland/news-des-tages-tuerkei-chp-verfolgung-von-vergewaltigungen-stephen-colbert-a-dfe80033-2cbf-49ff-aac2-3bf6c51ecb5a#ref=rss)
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### slowenien
+
+* [https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt](https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt-a-db77700b-8209-43dd-b0b3-485c44118e22#ref=rss)
+### janez
+
+* [https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt](https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt-a-db77700b-8209-43dd-b0b3-485c44118e22#ref=rss)
+### janša
+
+* [https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt](https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt-a-db77700b-8209-43dd-b0b3-485c44118e22#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt](https://www.spiegel.de/ausland/slowenien-ex-premier-janez-jansa-erneut-zum-ministerpraesident-gewaehlt-a-db77700b-8209-43dd-b0b3-485c44118e22#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern-a-29c4efca-da77-48b2-b3c2-b0d4d62ad0cf#ref=rss)
+### missbrauch
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern-a-29c4efca-da77-48b2-b3c2-b0d4d62ad0cf#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ex-betreuer-gesteht-missbrauch-von-kita-kindern-a-29c4efca-da77-48b2-b3c2-b0d4d62ad0cf#ref=rss)
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### geraldine
+
+* [https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse](https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse-a-b71ae3cd-90d2-4c2e-9940-75b089e6243d#ref=rss)
+### rauch
+
+* [https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse](https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse-a-b71ae3cd-90d2-4c2e-9940-75b089e6243d#ref=rss)
+### geldbuße
+
+* [https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse](https://www.spiegel.de/panorama/geraldine-rauch-verfahren-nach-like-mit-hakenkreuzen-endet-ohne-geldbusse-a-b71ae3cd-90d2-4c2e-9940-75b089e6243d#ref=rss)
+### badeunfall
+
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### schwestern
+
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### see
+
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/badeunfall-in-unterfranken-schwestern-ertrinken-in-see-eltern-ohne-strafe-verurteilt-a-4f2570cf-9831-4a8b-b257-23820d432f68#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+### nuuk
+
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+### mitten
+
+* [https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene](https://www.spiegel.de/ausland/groenland-proteste-in-nuuk-gegen-neues-us-konsulat-und-trumps-plaene-a-2bd5db3b-432a-4e88-a128-7774964be0f1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### volker
+
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### beck
+
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### deutschisraelischen
+
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### gesellschaft
+
+* [https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen](https://www.spiegel.de/politik/volker-beck-was-sie-ueber-den-vorsitzenden-der-deutsch-israelischen-gesellschaft-wissen-muessen-a-cc3d1136-f910-4892-8afa-28ae249074e2#ref=rss)
+### verpasst
+
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### jr
+
+* [https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr](https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+### ticket
+
+* [https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht](https://www.spiegel.de/panorama/justiz/flixtrain-mannheim-mann-ohne-ticket-schlaegt-zugbegleiterinnen-ins-gesicht-a-cfa1f19b-92ed-4e61-a57c-425885d223a5#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/wissenschaft/natur/argentinien-unwetter-spuelt-tausende-penisfische-an-die-kueste](https://www.spiegel.de/wissenschaft/natur/argentinien-unwetter-spuelt-tausende-penisfische-an-die-kueste-a-6ee3e3b6-b497-4c81-b94d-8a3128c3bb33#ref=rss)
+### werner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### gatzer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo](https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss)
-### fernverkehr
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### wechselt
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo](https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss)
-### flixtrain
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo](https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss)
-### italo
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo](https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss)
-### paris
+* [https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber](https://www.spiegel.de/wirtschaft/unternehmen/werner-gatzer-aufsichtsratschef-der-deutschen-bahn-wechselt-wohl-zum-flughafen-ber-a-c314dc0e-c904-43db-8b86-88c7802b271c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
+### bartek
 
-* [https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland](https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland-a-58a5f66f-c135-4500-976a-d1992470c393#ref=rss)
-### staffel
+* [https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen](https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen-a-29b5ed6c-3afb-4e83-832d-1a7f6605b13a#ref=rss)
+### ziemski
 
-* [https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland](https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland-a-58a5f66f-c135-4500-976a-d1992470c393#ref=rss)
-### griechenland
+* [https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen](https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen-a-29b5ed6c-3afb-4e83-832d-1a7f6605b13a#ref=rss)
+### mount
 
-* [https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland](https://www.spiegel.de/kultur/tv/emily-in-paris-netflix-serie-endet-mit-sechster-staffel-dreharbeiten-in-griechenland-a-58a5f66f-c135-4500-976a-d1992470c393#ref=rss)
-### deutschland
+* [https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen](https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen-a-29b5ed6c-3afb-4e83-832d-1a7f6605b13a#ref=rss)
+### everest
 
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt](https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt-a-067f864d-6262-4bad-b5e7-079fa1865e0b#ref=rss)
-### oft
+* [https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen](https://www.spiegel.de/sport/bartek-ziemski-er-klettert-auf-den-mount-everest-als-waere-es-ein-gipfel-in-den-voralpen-a-29b5ed6c-3afb-4e83-832d-1a7f6605b13a#ref=rss)
+### berlinkreuzberg
 
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-### statt
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### unbekannter
 
-* [https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle](https://www.spiegel.de/start/fachkraeftemangel-auslaendische-auszubildende-und-studierende-in-deutschland-geraten-oft-in-schuldenfalle-a-c1898cff-98df-4ce1-ac40-5cecbc0fc9ea#ref=rss)
-### katherina
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### schießt
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung](https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung-a-1431dcba-6f19-4bbd-ac28-3814c1a9fafc#ref=rss)
-### reiche
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung](https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung-a-1431dcba-6f19-4bbd-ac28-3814c1a9fafc#ref=rss)
-### wirtschaftsministerin
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### fahrendes
 
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung](https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung-a-1431dcba-6f19-4bbd-ac28-3814c1a9fafc#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### auto
 
-* [https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-zahl-fertiggestellter-wohnungen-so-niedrig-wie-seit-2012-nicht-mehr-a-d0466bbe-a3f8-4845-8cfb-7507384cc6f9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder](https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder-a-4048af74-f32d-434a-8c6b-17d805ad2558#ref=rss)
-### google
+* [https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto](https://www.spiegel.de/panorama/justiz/berlin-kreuzberg-unbekannter-schiesst-am-helllichten-tag-auf-fahrendes-auto-a-e5bffaa2-cd74-4c13-93f3-10b1a60f179c#ref=rss)
+### zdfpolitbarometer
 
-* [https://www.spiegel.de/netzwelt/google-meta-und-tiktok-verbraucherschuetzer-fordern-geldbussen-fuer-betruegerische-werbung](https://www.spiegel.de/netzwelt/google-meta-und-tiktok-verbraucherschuetzer-fordern-geldbussen-fuer-betruegerische-werbung-a-ba44016b-e949-4935-ad99-704f46bbc3fb#ref=rss)
-### meta
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
+### viele
 
-* [https://www.spiegel.de/netzwelt/google-meta-und-tiktok-verbraucherschuetzer-fordern-geldbussen-fuer-betruegerische-werbung](https://www.spiegel.de/netzwelt/google-meta-und-tiktok-verbraucherschuetzer-fordern-geldbussen-fuer-betruegerische-werbung-a-ba44016b-e949-4935-ad99-704f46bbc3fb#ref=rss)
-### knds
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt](https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt-a-067f864d-6262-4bad-b5e7-079fa1865e0b#ref=rss)
-### panzerbauer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt](https://www.spiegel.de/wirtschaft/unternehmen/knds-warum-es-richtig-ist-dass-der-staat-beim-panzerbauer-einsteigt-a-067f864d-6262-4bad-b5e7-079fa1865e0b#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder](https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder-a-4048af74-f32d-434a-8c6b-17d805ad2558#ref=rss)
-### becker
-
-* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder](https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder-a-4048af74-f32d-434a-8c6b-17d805ad2558#ref=rss)
-### werde
-
-* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder](https://www.spiegel.de/sport/tennis/tennis-boris-becker-unterstuetzt-profis-im-streit-um-hoehrere-preisgelder-a-4048af74-f32d-434a-8c6b-17d805ad2558#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf](https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf-a-183ef8d4-22d5-47cb-9f8e-5909064dc0cb#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf](https://www.spiegel.de/panorama/gesellschaft/grundwasser-knappheit-niedersachsen-ruft-zum-wassersparen-auf-a-183ef8d4-22d5-47cb-9f8e-5909064dc0cb#ref=rss)
-### kyle
-
-* [https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben](https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben-a-d4e6deac-3ec5-42b0-a904-fcbd8b876858#ref=rss)
-### busch
-
-* [https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben](https://www.spiegel.de/sport/kyle-busch-ist-tot-nascar-star-mit-41-jahren-gestorben-a-d4e6deac-3ec5-42b0-a904-fcbd8b876858#ref=rss)
-### apotheken
-
-* [https://www.spiegel.de/wirtschaft/apotheken-sollen-zusaetzliche-leistungen-anbieten-koennen](https://www.spiegel.de/wirtschaft/apotheken-sollen-zusaetzliche-leistungen-anbieten-koennen-a-df6cbe95-e135-419a-948e-a1a904b81c79#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-viele-deutsche-wollen-reformen-und-trauen-sie-der-politik-nicht-zu-a-88bd580b-2bdc-42fe-b9fd-4f47ea02e034#ref=rss)
 
