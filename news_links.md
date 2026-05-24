@@ -4,314 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-* [https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal](https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal-a-23fc4b5f-1196-4c1e-93e1-2b87fd074814#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rechenzentren-wie-buergerproteste-milliardenschwere-ki-projekte-bremsen](https://www.spiegel.de/wirtschaft/rechenzentren-wie-buergerproteste-milliardenschwere-ki-projekte-bremsen-a-a208859d-3ab5-4f15-9dd1-e5bf232c6e9f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten](https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten-a-3e28f9f7-0029-4da7-b87f-fbad214d3d75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte](https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte-a-ad470e4b-6e2b-4381-a40b-1a84160ef361#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied](https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied-a-6bcc7ad9-db0b-4bd3-bbab-65fbb4a3b966#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet](https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet-a-25f0b5f1-f6a0-4029-a524-7677016c35cb#ref=rss)
 ### mehr
 
+* [https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse](https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse-a-49b26bb3-1681-4f4e-86ca-3abbdcbaf81b#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche](https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche-a-5a9a69c4-ea69-44e0-82ce-739fb89708cb#ref=rss)
+* [https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist](https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist-a-078333c7-9d43-455f-bc85-93afc3866969#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein](https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein-a-20d96198-5440-42ac-b4b8-cdc9ee5b628d#ref=rss)
 * [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-### viele
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte](https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte-a-ad470e4b-6e2b-4381-a40b-1a84160ef361#ref=rss)
-* [https://www.spiegel.de/netzwelt/bundesnetzagentur-sms-nutzung-bricht-stark-ein](https://www.spiegel.de/netzwelt/bundesnetzagentur-sms-nutzung-bricht-stark-ein-a-8ab0826d-3f3c-4cfe-aa24-d5a080f69cef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-### weg
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich-a-9b4d001a-b5eb-40d0-bbd0-60d070525809#ref=rss)
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### millionär
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa](https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa-a-bf0c99d0-a9be-4a63-88cc-4a30c9653955#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### russland
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich-a-9b4d001a-b5eb-40d0-bbd0-60d070525809#ref=rss)
+* [https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken](https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken-a-8601e1e5-27b4-48cf-81d2-ef3f61c166f9#ref=rss)
+### gerade
 
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### oreschnikrakete
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen-a-0d72100b-fb61-466e-baf0-82b7c1f06cdb#ref=rss)
-### schlechte
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung](https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung-a-5872df32-9273-4358-9444-87e2b6b48731#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten](https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten-a-3e28f9f7-0029-4da7-b87f-fbad214d3d75#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### cannes
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-### lösung
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### alles
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten](https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten-a-3e28f9f7-0029-4da7-b87f-fbad214d3d75#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### ankara
-
-* [https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an](https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an-a-da356d39-ea48-4168-a959-c0f5672c942a#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an](https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an-a-da356d39-ea48-4168-a959-c0f5672c942a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet](https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet-a-72263499-5fa8-482e-962c-4b2be8cb9c29#ref=rss)
-### landes
-
-* [https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an](https://www.spiegel.de/ausland/ankara-tuerkische-behoerden-ordnen-raeumung-der-oppositionszentrale-von-chp-an-a-da356d39-ea48-4168-a959-c0f5672c942a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-### teenager
-
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte](https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte-a-ad470e4b-6e2b-4381-a40b-1a84160ef361#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte](https://www.spiegel.de/panorama/justiz/grossbritannien-milde-strafen-fuer-teenager-nach-vergewaltigung-sorgen-fuer-debatte-a-ad470e4b-6e2b-4381-a40b-1a84160ef361#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied](https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied-a-6bcc7ad9-db0b-4bd3-bbab-65fbb4a3b966#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied](https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied-a-6bcc7ad9-db0b-4bd3-bbab-65fbb4a3b966#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied](https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied-a-6bcc7ad9-db0b-4bd3-bbab-65fbb4a3b966#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied](https://www.spiegel.de/sport/formel1/formel-1-in-kanada-max-verstappen-droht-erneut-mit-abschied-a-6bcc7ad9-db0b-4bd3-bbab-65fbb4a3b966#ref=rss)
-### windrad
-
-* [https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor](https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor-a-b8ec5d5b-0c9f-4b8b-bc6b-505c08c86643#ref=rss)
-### brennt
-
-* [https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor](https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor-a-b8ec5d5b-0c9f-4b8b-bc6b-505c08c86643#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor](https://www.spiegel.de/panorama/kitzingen-windrad-brennt-polizei-warnt-vor-abstuerzendem-rotor-a-b8ec5d5b-0c9f-4b8b-bc6b-505c08c86643#ref=rss)
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-### barbara
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-### plura
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-### netze
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet](https://www.spiegel.de/wirtschaft/unternehmen/stromnetz-wie-lew-ingenieurin-barbara-plura-die-netze-nachverdichtet-a-e4fe14b4-e0e6-43eb-905d-794142dab9f2#ref=rss)
-### waldrama
-
-* [https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal](https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal-a-23fc4b5f-1196-4c1e-93e1-2b87fd074814#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal](https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal-a-23fc4b5f-1196-4c1e-93e1-2b87fd074814#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal](https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal-a-23fc4b5f-1196-4c1e-93e1-2b87fd074814#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung](https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung-a-5872df32-9273-4358-9444-87e2b6b48731#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal](https://www.spiegel.de/kultur/wal-drama-in-der-ostsee-so-blickt-die-welt-auf-uns-und-den-buckelwal-a-23fc4b5f-1196-4c1e-93e1-2b87fd074814#ref=rss)
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa](https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa-a-bf0c99d0-a9be-4a63-88cc-4a30c9653955#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa](https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa-a-bf0c99d0-a9be-4a63-88cc-4a30c9653955#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa](https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa-a-bf0c99d0-a9be-4a63-88cc-4a30c9653955#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa](https://www.spiegel.de/ausland/irankrieg-das-sagt-teheran-zum-moeglichen-abkommen-mit-den-usa-a-bf0c99d0-a9be-4a63-88cc-4a30c9653955#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### gefürchtete
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein](https://www.spiegel.de/ausland/russland-setzt-erneut-gefuerchtete-oreschnik-rakete-ein-a-74e5eb76-63f9-4507-959b-8152e54366b5#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten](https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten-a-3e28f9f7-0029-4da7-b87f-fbad214d3d75#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-### eberl
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu](https://www.spiegel.de/politik/deutschland/bundeswehr-nur-wenige-trauen-laut-umfrage-streitkraeften-die-verteidigung-deutschlands-zu-a-da684f2b-579d-4475-a65d-77a4dd5aca57#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gewinnt-double-trotzdem-debatte-um-zukunft-von-max-eberl-a-36e86c31-db42-40df-8712-ecf5db787b12#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet](https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet-a-25f0b5f1-f6a0-4029-a524-7677016c35cb#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### william
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### angewohnheit
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### orla
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### otto
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto](https://www.spiegel.de/panorama/leute/prinz-william-diese-schlechte-angewohnheit-haben-seine-hunde-orla-und-otto-a-1e24494d-a974-4c46-adda-d8e99779c9a2#ref=rss)
-### gesund
-
-* [https://www.spiegel.de/gesundheit/erdbeeren-so-gesund-sind-die-fruechte](https://www.spiegel.de/gesundheit/erdbeeren-so-gesund-sind-die-fruechte-a-fc8a8fd0-9ee7-406f-8d0e-7a24dfac551f#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan](https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan-a-3b1323ff-bb48-48fa-af71-4f6159c72f23#ref=rss)
-### trümmern
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan](https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan-a-3b1323ff-bb48-48fa-af71-4f6159c72f23#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-nach-baustelleneinsturz-unter-truemmern-eingeschlossen-a-b6cd466e-5421-42c5-8e38-e905a193b95f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet](https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet-a-72263499-5fa8-482e-962c-4b2be8cb9c29#ref=rss)
-### zug
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan](https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan-a-3b1323ff-bb48-48fa-af71-4f6159c72f23#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan](https://www.spiegel.de/ausland/pakistan-mindestens-24-tote-bei-anschlag-auf-zug-mit-soldaten-in-provinz-belutschistan-a-3b1323ff-bb48-48fa-af71-4f6159c72f23#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet](https://www.spiegel.de/politik/deutschland/news-was-manuel-neuer-und-wolfgang-kubicki-verbindet-a-72263499-5fa8-482e-962c-4b2be8cb9c29#ref=rss)
-* [https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen](https://www.spiegel.de/ausland/massiver-russischer-angriff-auf-kyjiw-mit-raketen-und-drohnen-a-731deecf-cf52-4854-b2df-e70ccf2ba585#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### jr
+* [https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse](https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse-a-49b26bb3-1681-4f4e-86ca-3abbdcbaf81b#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen](https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen-a-6107c2b2-97ef-463a-ad33-449e1117485e#ref=rss)
+### fühlen
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### feiert
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+* [https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist](https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist-a-078333c7-9d43-455f-bc85-93afc3866969#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### bettina
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+* [https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken](https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken-a-8601e1e5-27b4-48cf-81d2-ef3f61c166f9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### anderson
+* [https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen](https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen-a-6107c2b2-97ef-463a-ad33-449e1117485e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein](https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein-a-20d96198-5440-42ac-b4b8-cdc9ee5b628d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### bahamas
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch-a-33ad58d4-559b-4777-8870-8fa2e2190295#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### hätten
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-### paar
+* [https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein](https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein-a-20d96198-5440-42ac-b4b8-cdc9ee5b628d#ref=rss)
+* [https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken](https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken-a-8601e1e5-27b4-48cf-81d2-ef3f61c166f9#ref=rss)
+* [https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns](https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns-a-2c70c3f8-21f8-4b20-ac91-574590a23a4a#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas](https://www.spiegel.de/panorama/leute/donald-trump-jr-feiert-hochzeit-mit-bettina-anderson-auf-den-bahamas-a-6ad23a64-eb4a-4a5d-811f-20be67c7c367#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet](https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet-a-25f0b5f1-f6a0-4029-a524-7677016c35cb#ref=rss)
-### kalifornien
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland](https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland-a-866c669f-21c9-473b-b090-4462965670fd#ref=rss)
+### ankara
 
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-### chemietank
+* [https://www.spiegel.de/ausland/ankara-polizei-setzt-traenengas-und-gummigeschosse-bei-sturm-auf-chp-zentrale-ein](https://www.spiegel.de/ausland/ankara-polizei-setzt-traenengas-und-gummigeschosse-bei-sturm-auf-chp-zentrale-ein-a-95e68899-d429-4bee-b272-513dce7999ad#ref=rss)
+### özel
 
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-### steigt
+* [https://www.spiegel.de/ausland/ankara-polizei-setzt-traenengas-und-gummigeschosse-bei-sturm-auf-chp-zentrale-ein](https://www.spiegel.de/ausland/ankara-polizei-setzt-traenengas-und-gummigeschosse-bei-sturm-auf-chp-zentrale-ein-a-95e68899-d429-4bee-b272-513dce7999ad#ref=rss)
+### kindergärten
 
-* [https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt](https://www.spiegel.de/panorama/kalifornien-undichter-chemietank-heizt-sich-weiter-auf-explosionsgefahr-steigt-a-360d03e9-63cd-41d6-8a44-b6b9685a4dcb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-ozeane-steigen-vor-allem-durch-ausdehnung-waermeren-wassers-an](https://www.spiegel.de/wissenschaft/klimakrise-ozeane-steigen-vor-allem-durch-ausdehnung-waermeren-wassers-an-a-4cee98d7-2e08-4d87-8bc2-cbc19cced629#ref=rss)
-### trachtenunternehmerin
+* [https://www.spiegel.de/ausland/frankreich-missbrauchsskandal-in-schulen-und-kindergaerten](https://www.spiegel.de/ausland/frankreich-missbrauchsskandal-in-schulen-und-kindergaerten-a-95583ede-1478-4c30-911d-98e4463b587e#ref=rss)
+### paris
 
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen-a-0d72100b-fb61-466e-baf0-82b7c1f06cdb#ref=rss)
-### verkaufen
+* [https://www.spiegel.de/ausland/frankreich-missbrauchsskandal-in-schulen-und-kindergaerten](https://www.spiegel.de/ausland/frankreich-missbrauchsskandal-in-schulen-und-kindergaerten-a-95583ede-1478-4c30-911d-98e4463b587e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen-a-0d72100b-fb61-466e-baf0-82b7c1f06cdb#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### queerpolitik
+* [https://www.spiegel.de/karriere/koennen-sie-mit-bruechen-rechnen-raetsel-der-woche](https://www.spiegel.de/karriere/koennen-sie-mit-bruechen-rechnen-raetsel-der-woche-a-001454f5-6b6b-4d96-b613-60f6ba101a11#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze](https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze-a-b4a41f00-4952-4830-97fe-ec155e462a79#ref=rss)
+### lösung
 
-* [https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung](https://www.spiegel.de/politik/deutschland/queerpolitik-von-union-und-spd-friedrich-merz-findet-keine-zeit-fuer-die-queerbeauftragte-seiner-regierung-a-5872df32-9273-4358-9444-87e2b6b48731#ref=rss)
-### deal
+* [https://www.spiegel.de/karriere/koennen-sie-mit-bruechen-rechnen-raetsel-der-woche](https://www.spiegel.de/karriere/koennen-sie-mit-bruechen-rechnen-raetsel-der-woche-a-001454f5-6b6b-4d96-b613-60f6ba101a11#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen](https://www.spiegel.de/ausland/usa-iran-abkommen-das-soll-im-deal-zwischen-den-usa-und-iran-stehen-a-9f8e3b1b-768a-48c8-ae62-6f5a1f2f9319#ref=rss)
-### general
+* [https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse](https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse-a-49b26bb3-1681-4f4e-86ca-3abbdcbaf81b#ref=rss)
+### nudeln
 
-* [https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug](https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug-a-6f6693a4-223d-4268-b051-0671ba613f0c#ref=rss)
-### erich
+* [https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse](https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse-a-49b26bb3-1681-4f4e-86ca-3abbdcbaf81b#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug](https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug-a-6f6693a4-223d-4268-b051-0671ba613f0c#ref=rss)
-### manstein
+* [https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse](https://www.spiegel.de/ausland/china-vom-trump-xi-gipfel-bleiben-nudeln-mit-sosse-a-49b26bb3-1681-4f4e-86ca-3abbdcbaf81b#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen](https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen-a-6107c2b2-97ef-463a-ad33-449e1117485e#ref=rss)
+### pfingstenspezial
 
-* [https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug](https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug-a-6f6693a4-223d-4268-b051-0671ba613f0c#ref=rss)
-### später
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich-a-9b4d001a-b5eb-40d0-bbd0-60d070525809#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug](https://www.spiegel.de/geschichte/general-erich-von-manstein-hitlers-williges-werkzeug-a-6f6693a4-223d-4268-b051-0671ba613f0c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet](https://www.spiegel.de/partnerschaft/beziehung-welcher-bindungstyp-sie-sind-und-was-das-fuer-die-liebe-bedeutet-a-25f0b5f1-f6a0-4029-a524-7677016c35cb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich-a-9b4d001a-b5eb-40d0-bbd0-60d070525809#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-pfingsten-spezial-mit-zwei-millionen-euro-moeglich-a-9b4d001a-b5eb-40d0-bbd0-60d070525809#ref=rss)
+### elterngeld
+
+* [https://www.spiegel.de/politik/deutschland/elterngeld-spd-fraktion-stellt-sich-gegen-pauschale-kuerzungen](https://www.spiegel.de/politik/deutschland/elterngeld-spd-fraktion-stellt-sich-gegen-pauschale-kuerzungen-a-6f0bbf0b-c211-4c16-b16c-b664ffac332e#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/politik/deutschland/elterngeld-spd-fraktion-stellt-sich-gegen-pauschale-kuerzungen](https://www.spiegel.de/politik/deutschland/elterngeld-spd-fraktion-stellt-sich-gegen-pauschale-kuerzungen-a-6f0bbf0b-c211-4c16-b16c-b664ffac332e#ref=rss)
+### gefühle
+
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen](https://www.spiegel.de/psychologie/gefuehle-so-verstehen-sie-warum-sie-fuehlen-was-sie-gerade-fuehlen-a-a4498eb9-a321-4c12-9f31-f91e12f59a2d#ref=rss)
+* [https://www.spiegel.de/panorama/hohenstein-mann-hilft-reisebus-beim-einparken-und-wird-schwer-verletzt](https://www.spiegel.de/panorama/hohenstein-mann-hilft-reisebus-beim-einparken-und-wird-schwer-verletzt-a-fbfc0235-0685-400f-adb9-7e52ee24376f#ref=rss)
+### schüsse
+
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+* [https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns](https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns-a-2c70c3f8-21f8-4b20-ac91-574590a23a4a#ref=rss)
+### nahm
+
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+* [https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong](https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong-a-c7326344-0f8a-4efb-9c0e-2f961db4692c#ref=rss)
+### video
+
+* [https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf](https://www.spiegel.de/ausland/mutmasslicher-anschlag-tv-teams-nehmen-zufaellig-schuesse-in-der-naehe-des-weissen-hauses-auf-a-9389e9f4-e083-4ce6-a351-c7b5b1ef4518#ref=rss)
+* [https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong](https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong-a-c7326344-0f8a-4efb-9c0e-2f961db4692c#ref=rss)
+### french
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### runde
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+### kamen
+
+* [https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris](https://www.spiegel.de/sport/tennis/french-open-2026-alexander-zverev-in-runde-zwei-von-paris-a-93efcab5-2a8b-49d0-9b32-762965a582b7#ref=rss)
+* [https://www.spiegel.de/panorama/vokuhila-wettbewerb-in-belgien-und-ewig-gruessen-die-achtziger](https://www.spiegel.de/panorama/vokuhila-wettbewerb-in-belgien-und-ewig-gruessen-die-achtziger-a-39c8a287-2603-42b3-9131-b8f534d6ddd2#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch-a-33ad58d4-559b-4777-8870-8fa2e2190295#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch-a-33ad58d4-559b-4777-8870-8fa2e2190295#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch-a-33ad58d4-559b-4777-8870-8fa2e2190295#ref=rss)
+### sexuellen
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/fc-schalke-04-ermittlungen-gegen-mitarbeiter-wegen-des-anfangsverdachts-auf-sexuellen-missbrauch-a-33ad58d4-559b-4777-8870-8fa2e2190295#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong](https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong-a-c7326344-0f8a-4efb-9c0e-2f961db4692c#ref=rss)
+* [https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns](https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns-a-2c70c3f8-21f8-4b20-ac91-574590a23a4a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong](https://www.spiegel.de/politik/deutscher-gaza-aktivist-sie-feuerten-in-unsere-richtung-mit-einer-art-gummi-streumunitiong-a-c7326344-0f8a-4efb-9c0e-2f961db4692c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche](https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche-a-5a9a69c4-ea69-44e0-82ce-739fb89708cb#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche](https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche-a-5a9a69c4-ea69-44e0-82ce-739fb89708cb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche](https://www.spiegel.de/panorama/bilder-vom-pfingstwochenende-o-du-sommerliche-a-5a9a69c4-ea69-44e0-82ce-739fb89708cb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich](https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich](https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss)
+### dritten
+
+* [https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich](https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich](https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss)
+* [https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist](https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist-a-078333c7-9d43-455f-bc85-93afc3866969#ref=rss)
+### betroffenen
+
+* [https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist](https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist-a-078333c7-9d43-455f-bc85-93afc3866969#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein](https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein-a-20d96198-5440-42ac-b4b8-cdc9ee5b628d#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist](https://www.spiegel.de/ausland/transrechte-in-den-usa-sie-haben-die-paesse-griffbereit-und-fragen-sich-ob-es-schon-zu-spaet-ist-a-078333c7-9d43-455f-bc85-93afc3866969#ref=rss)
+* [https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns](https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns-a-2c70c3f8-21f8-4b20-ac91-574590a23a4a#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### leon
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### cransmontana
+
+* [https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein](https://www.spiegel.de/panorama/justiz/crans-montana-benefizkonzert-erloes-soll-nicht-bei-opfern-angekommen-sein-a-20d96198-5440-42ac-b4b8-cdc9ee5b628d#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland](https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland-a-866c669f-21c9-473b-b090-4462965670fd#ref=rss)
+### eskalation
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart](https://www.spiegel.de/ausland/ukraine-krieg-putin-hat-an-teuren-waffen-nicht-gespart-a-8c18f0e2-54ec-46f6-b703-bd086b47b56c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland](https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland-a-866c669f-21c9-473b-b090-4462965670fd#ref=rss)
+### knacken
+
+* [https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken](https://www.spiegel.de/kultur/tv/quiz-zu-wer-wird-millionaer-wuerden-sie-die-million-knacken-a-8601e1e5-27b4-48cf-81d2-ef3f61c166f9#ref=rss)
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/panorama/vokuhila-wettbewerb-in-belgien-und-ewig-gruessen-die-achtziger](https://www.spiegel.de/panorama/vokuhila-wettbewerb-in-belgien-und-ewig-gruessen-die-achtziger-a-39c8a287-2603-42b3-9131-b8f534d6ddd2#ref=rss)
 ### schmetterlinge
 
 * [https://www.spiegel.de/partnerschaft/wie-verliebtheit-schmetterlinge-im-bauch-ausloest](https://www.spiegel.de/partnerschaft/wie-verliebtheit-schmetterlinge-im-bauch-ausloest-a-0bf4be37-211b-43af-94f2-abed4c173ce6#ref=rss)
 ### bauch
 
 * [https://www.spiegel.de/partnerschaft/wie-verliebtheit-schmetterlinge-im-bauch-ausloest](https://www.spiegel.de/partnerschaft/wie-verliebtheit-schmetterlinge-im-bauch-ausloest-a-0bf4be37-211b-43af-94f2-abed4c173ce6#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### hecking
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-dieter-hecking-geht-lieber-zur-landesgartenschau-als-das-pokalfinale-zu-schauen-a-e48742df-ac87-44fd-a0c2-6bcc63f9725d#ref=rss)
+### enhanced
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### games
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### las
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### schwimmer
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+### wir
+
+* [https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken](https://www.spiegel.de/sport/olympia/enhanced-games-in-las-vegas-ukrainischer-schwimmer-andrii-govorov-will-weltrekord-knacken-a-6ebf6ada-371e-4ab3-b61c-26f97e58a7c1#ref=rss)
+* [https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns](https://www.spiegel.de/panorama/australien-erneut-toedlicher-hai-angriff-vor-der-kueste-von-hull-river-nahe-cairns-a-2c70c3f8-21f8-4b20-ac91-574590a23a4a#ref=rss)
+### einparken
+
+* [https://www.spiegel.de/panorama/hohenstein-mann-hilft-reisebus-beim-einparken-und-wird-schwer-verletzt](https://www.spiegel.de/panorama/hohenstein-mann-hilft-reisebus-beim-einparken-und-wird-schwer-verletzt-a-fbfc0235-0685-400f-adb9-7e52ee24376f#ref=rss)
+### bafög
+
+* [https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze](https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze-a-b4a41f00-4952-4830-97fe-ec155e462a79#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze](https://www.spiegel.de/start/bafoeg-studierende-kritisieren-spahns-absage-an-hoehere-saetze-a-b4a41f00-4952-4830-97fe-ec155e462a79#ref=rss)
+### oreschnikrakete
+
+* [https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland](https://www.spiegel.de/politik/deutschland/einsatz-von-oreschnik-rakete-merz-verurteilt-eskalation-durch-russland-a-866c669f-21c9-473b-b090-4462965670fd#ref=rss)
+### galaxie
+
+* [https://www.spiegel.de/wissenschaft/weltall/galaxie-loki-astronomen-stossen-in-milchstrasse-auf-moegliche-ueberreste-eines-fremden-sternensystems](https://www.spiegel.de/wissenschaft/weltall/galaxie-loki-astronomen-stossen-in-milchstrasse-auf-moegliche-ueberreste-eines-fremden-sternensystems-a-03cf4926-7f3e-44f6-a3f8-82cf75966b24#ref=rss)
+### astronomen
+
+* [https://www.spiegel.de/wissenschaft/weltall/galaxie-loki-astronomen-stossen-in-milchstrasse-auf-moegliche-ueberreste-eines-fremden-sternensystems](https://www.spiegel.de/wissenschaft/weltall/galaxie-loki-astronomen-stossen-in-milchstrasse-auf-moegliche-ueberreste-eines-fremden-sternensystems-a-03cf4926-7f3e-44f6-a3f8-82cf75966b24#ref=rss)
+### cannes
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung](https://www.spiegel.de/kultur/kino/filmfestspiele-in-cannes-kein-hollywood-ist-auch-keine-loesung-a-17bac793-3b74-41f7-9860-eafebc63e34b#ref=rss)
 
