@@ -4,304 +4,249 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### hitzewelle
 
-* [https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren](https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren-a-8a091cb9-7907-42a5-a3f6-331cf451ad4a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet](https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet-a-073ba63b-a65f-43d2-ab25-49f07d352ea7#ref=rss)
-### armedangels
-
-* [https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert](https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert-a-5b40f62e-e546-4743-b0e8-8fdff237d120#ref=rss)
-* [https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans](https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans-a-41bcfbb9-f56f-412b-895f-0bbc1ff50de6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/italien-mafia-vermoegen-von-mehr-als-200-millionen-euro-beschlagnahmt](https://www.spiegel.de/panorama/justiz/italien-mafia-vermoegen-von-mehr-als-200-millionen-euro-beschlagnahmt-a-f692dc46-bf48-4e2e-942a-ca853c070e73#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten](https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten-a-f1dee248-5b0d-40dc-a7e3-4974efe3547a#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer](https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer-a-97c85179-f6a4-456d-b0a8-d892ce8fc88e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren](https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren-a-8a091cb9-7907-42a5-a3f6-331cf451ad4a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet](https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet-a-073ba63b-a65f-43d2-ab25-49f07d352ea7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren](https://www.spiegel.de/ausland/donald-trump-portraet-des-us-praesidenten-koennte-demnaechst-250-dollar-schein-zieren-a-8a091cb9-7907-42a5-a3f6-331cf451ad4a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin](https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin-a-79d357de-d4bd-495f-adfb-6368b0dd5703#ref=rss)
-### nicolas
-
-* [https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage](https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage-a-128979f7-ac71-4147-ad77-cda5d658f397#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet](https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet-a-ee6bc7a5-8f66-40db-ae74-84d572a5fb6f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen](https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen-a-7522aa89-caa2-4724-bd3a-042c5a6bebee#ref=rss)
-* [https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte](https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte-a-5c3ea84f-7ff4-4b96-b99d-7bb087790d1f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee](https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee-a-2a4f5b92-d728-4f5e-9a08-eaadc2a5428d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt](https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt-a-bf7a5304-0dc6-4a64-9b02-be523342cb72#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert](https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert-a-5b40f62e-e546-4743-b0e8-8fdff237d120#ref=rss)
-* [https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen](https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen-a-1c7b8a19-323e-4db8-9bd5-6ae7900e9aa0#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt](https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt-a-d7545f5b-4776-49a6-8752-eb01c8929b9b#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert](https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert-a-5b40f62e-e546-4743-b0e8-8fdff237d120#ref=rss)
-* [https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans](https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans-a-41bcfbb9-f56f-412b-895f-0bbc1ff50de6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer](https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer-a-97c85179-f6a4-456d-b0a8-d892ce8fc88e#ref=rss)
-### vfs
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### global
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt](https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt-a-d7545f5b-4776-49a6-8752-eb01c8929b9b#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt](https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt-a-bf7a5304-0dc6-4a64-9b02-be523342cb72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-### cage
-
-* [https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage](https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage-a-128979f7-ac71-4147-ad77-cda5d658f397#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet](https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet-a-ee6bc7a5-8f66-40db-ae74-84d572a5fb6f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet](https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet-a-ee6bc7a5-8f66-40db-ae74-84d572a5fb6f#ref=rss)
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet](https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet-a-ee6bc7a5-8f66-40db-ae74-84d572a5fb6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten](https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten-a-f1dee248-5b0d-40dc-a7e3-4974efe3547a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet](https://www.spiegel.de/ausland/hitze-in-europa-das-klima-ufo-zeigt-was-die-erderwaermung-konkret-bedeutet-a-ee6bc7a5-8f66-40db-ae74-84d572a5fb6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-### marine
-
-* [https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee](https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee-a-2a4f5b92-d728-4f5e-9a08-eaadc2a5428d#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee](https://www.spiegel.de/politik/deutsche-marine-schickt-offenbar-aufklaerer-zu-russischen-schiffen-in-die-ostsee-a-2a4f5b92-d728-4f5e-9a08-eaadc2a5428d#ref=rss)
-### sorge
-
-* [https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus](https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus-a-c4b94940-ed0d-4e7f-bb94-eaff95aed945#ref=rss)
-### historische
-
-* [https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus](https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus-a-c4b94940-ed0d-4e7f-bb94-eaff95aed945#ref=rss)
-### tyrus
-
-* [https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus](https://www.spiegel.de/ausland/libanon-sorge-um-historische-stadt-tyrus-a-c4b94940-ed0d-4e7f-bb94-eaff95aed945#ref=rss)
-### toxischen
-
-* [https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert](https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert-a-5b40f62e-e546-4743-b0e8-8fdff237d120#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen](https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen-a-7522aa89-caa2-4724-bd3a-042c5a6bebee#ref=rss)
-### mode
-
-* [https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert](https://www.spiegel.de/kultur/armedangels-so-hat-der-spiegel-zu-den-toxischen-arbeitsbedingungen-recherchiert-a-5b40f62e-e546-4743-b0e8-8fdff237d120#ref=rss)
-* [https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans](https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans-a-41bcfbb9-f56f-412b-895f-0bbc1ff50de6#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/justiz/italien-mafia-vermoegen-von-mehr-als-200-millionen-euro-beschlagnahmt](https://www.spiegel.de/panorama/justiz/italien-mafia-vermoegen-von-mehr-als-200-millionen-euro-beschlagnahmt-a-f692dc46-bf48-4e2e-942a-ca853c070e73#ref=rss)
-### starb
-
-* [https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer](https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer-a-97c85179-f6a4-456d-b0a8-d892ce8fc88e#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer](https://www.spiegel.de/panorama/justiz/kuchelmiss-elfjaehriger-starb-bei-schlittenunfall-strafbefehl-gegen-autofahrer-a-97c85179-f6a4-456d-b0a8-d892ce8fc88e#ref=rss)
-* [https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen](https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen-a-1c7b8a19-323e-4db8-9bd5-6ae7900e9aa0#ref=rss)
-### befürchten
-
-* [https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen](https://www.spiegel.de/mobilitaet/ktm-enduro-motorraeder-das-sollten-sie-ueber-alibi-zulassungen-wissen-a-1c7b8a19-323e-4db8-9bd5-6ae7900e9aa0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-### visadienstleister
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### geschäft
-
-* [https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa](https://www.spiegel.de/ausland/visa-dienstleister-vfs-global-das-geschaeft-mit-dem-traum-von-europa-a-4dd734fa-8e9e-4b04-a4ce-602d4289e88c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-in-china-vorsichtige-toene-trotz-drohendem-handelskonflikt](https://www.spiegel.de/wirtschaft/katherina-reiche-in-china-vorsichtige-toene-trotz-drohendem-handelskonflikt-a-00436614-b50c-45c5-9d92-587b1aa6ed26#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/katherina-reiche-in-china-vorsichtige-toene-trotz-drohendem-handelskonflikt](https://www.spiegel.de/wirtschaft/katherina-reiche-in-china-vorsichtige-toene-trotz-drohendem-handelskonflikt-a-00436614-b50c-45c5-9d92-587b1aa6ed26#ref=rss)
-### genozid
-
-* [https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt](https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt-a-bf7a5304-0dc6-4a64-9b02-be523342cb72#ref=rss)
-### namibia
-
-* [https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt](https://www.spiegel.de/politik/deutschland/gedenken-an-den-genozid-warum-die-deutsche-aussoehnung-mit-namibia-seit-jahren-nicht-vorankommt-a-bf7a5304-0dc6-4a64-9b02-be523342cb72#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen-a-8f83d1e4-9f1b-4203-8687-6bd43503ec13#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt](https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt-a-1f279a88-afe9-4d97-9f97-0993bf294533#ref=rss)
-### polymarket
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt](https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt-a-1f279a88-afe9-4d97-9f97-0993bf294533#ref=rss)
-### angeklagt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt](https://www.spiegel.de/netzwelt/netzpolitik/google-ingenieur-wegen-insiderhandels-auf-polymarket-angeklagt-a-1f279a88-afe9-4d97-9f97-0993bf294533#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt-a-232bdd8f-40fd-4aaf-b9b7-21d4e9d004a7#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance-a-5dc065bf-d898-4ae2-8dd5-552218bb6ff0#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance-a-5dc065bf-d898-4ae2-8dd5-552218bb6ff0#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance-a-5dc065bf-d898-4ae2-8dd5-552218bb6ff0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030-a-a309a3b5-6ffc-4299-91c0-1f28a90198e9#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-wittert-in-sachsen-anhalt-ihre-letzte-chance-a-5dc065bf-d898-4ae2-8dd5-552218bb6ff0#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt](https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt-a-d7545f5b-4776-49a6-8752-eb01c8929b9b#ref=rss)
-### korbach
+* [https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah](https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah-a-bbaf2548-a9dc-47eb-a880-360952fd1820#ref=rss)
+* [https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier](https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier-a-8bcb85c5-725b-4a4a-a1d3-26cefe47e138#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/justiz/korbach-unbekannte-koepfen-einhorn-oder-war-es-doch-der-dessen-name-nicht-genannt-werden-darf](https://www.spiegel.de/panorama/justiz/korbach-unbekannte-koepfen-einhorn-oder-war-es-doch-der-dessen-name-nicht-genannt-werden-darf-a-1649eafe-371a-4d19-bac2-a4d2cb4e0e83#ref=rss)
-### unbekannte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht](https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht-a-1c48bd59-d927-4691-bc93-1b14f3386272#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/justiz/korbach-unbekannte-koepfen-einhorn-oder-war-es-doch-der-dessen-name-nicht-genannt-werden-darf](https://www.spiegel.de/panorama/justiz/korbach-unbekannte-koepfen-einhorn-oder-war-es-doch-der-dessen-name-nicht-genannt-werden-darf-a-1649eafe-371a-4d19-bac2-a4d2cb4e0e83#ref=rss)
-### heizungsgesetz
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
 
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-### verbände
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter](https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter-a-e9ec459a-058c-4d96-a2ee-e5e34e905430#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-### mieter
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss)
-### mücken
+* [https://www.spiegel.de/panorama/justiz/bundestagswahl-2025-mutmassliche-bauschaum-saboteure-angeklagt](https://www.spiegel.de/panorama/justiz/bundestagswahl-2025-mutmassliche-bauschaum-saboteure-angeklagt-a-e8575d59-4ace-47e0-84aa-998648877636#ref=rss)
+### anklage
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-### lernen
+* [https://www.spiegel.de/panorama/justiz/bundestagswahl-2025-mutmassliche-bauschaum-saboteure-angeklagt](https://www.spiegel.de/panorama/justiz/bundestagswahl-2025-mutmassliche-bauschaum-saboteure-angeklagt-a-e8575d59-4ace-47e0-84aa-998648877636#ref=rss)
+* [https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht](https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht-a-1c48bd59-d927-4691-bc93-1b14f3386272#ref=rss)
+### seniorin
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-### insektenschutzmittel
+* [https://www.spiegel.de/panorama/justiz/euskirchen-seniorin-mit-rollator-geblitzt](https://www.spiegel.de/panorama/justiz/euskirchen-seniorin-mit-rollator-geblitzt-a-37008944-aac0-44b8-a58b-6cab3fe0cb77#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-### nahrung
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah](https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah-a-bbaf2548-a9dc-47eb-a880-360952fd1820#ref=rss)
+### gewitter
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-### verbinden
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+### wochenende
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-### forschende
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub](https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub-a-db0d03e5-5c9a-42b1-94be-6b2a04d17990#ref=rss)
+### ende
 
-* [https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden](https://www.spiegel.de/wissenschaft/natur/insektenabwehr-muecken-koennen-lernen-insektenschutzmittel-mit-nahrung-zu-verbinden-a-d2ae471f-01da-4d35-9f73-2cb79a7fcebe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### hauptstadt
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag](https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag-a-a012af93-7776-49d6-b065-8cf3c549ca58#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt](https://www.spiegel.de/politik/afd-in-berlin-radikales-law-and-order-programm-fuer-die-hauptstadt-a-d7545f5b-4776-49a6-8752-eb01c8929b9b#ref=rss)
-### iran
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030-a-a309a3b5-6ffc-4299-91c0-1f28a90198e9#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-### partner
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-### verlieren
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-es-stehen-heftige-gewitter-bevor-a-685ac84f-ef0c-49a3-a787-682425e2b36b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten](https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten-a-ebe9e09e-413f-4219-95d9-44bdbf7ff122#ref=rss)
+### pflegeversicherung
 
-* [https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren](https://www.spiegel.de/ausland/iran-und-waffenruhe-in-nahost-donald-trump-droht-zentrale-partner-fuer-iran-deal-zu-verlieren-a-f40e7239-215f-4550-b9b9-bf77d32d6450#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen-a-8f83d1e4-9f1b-4203-8687-6bd43503ec13#ref=rss)
-### offiziell
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten](https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten-a-ebe9e09e-413f-4219-95d9-44bdbf7ff122#ref=rss)
+### droht
 
-* [https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage](https://www.spiegel.de/panorama/leute/nicolas-cage-heisst-jetzt-offiziell-nicolas-cage-a-128979f7-ac71-4147-ad77-cda5d658f397#ref=rss)
-### büffel
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten](https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten-a-ebe9e09e-413f-4219-95d9-44bdbf7ff122#ref=rss)
+* [https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier](https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier-a-8bcb85c5-725b-4a4a-a1d3-26cefe47e138#ref=rss)
+### cmat
 
-* [https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet](https://www.spiegel.de/panorama/donald-trump-in-bangladesch-bueffel-wird-dank-online-ruhm-doch-nicht-geschlachtet-a-073ba63b-a65f-43d2-ab25-49f07d352ea7#ref=rss)
-### einzelhandel
+* [https://www.spiegel.de/panorama/leute/cmat-wehrt-sich-gegen-bodyshaming-und-erhaelt-support-von-sophie-ellis-bextor](https://www.spiegel.de/panorama/leute/cmat-wehrt-sich-gegen-bodyshaming-und-erhaelt-support-von-sophie-ellis-bextor-a-9e069716-bc7c-4996-8716-9fda36db5991#ref=rss)
+### erhält
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen-a-8f83d1e4-9f1b-4203-8687-6bd43503ec13#ref=rss)
-### sterben
+* [https://www.spiegel.de/panorama/leute/cmat-wehrt-sich-gegen-bodyshaming-und-erhaelt-support-von-sophie-ellis-bextor](https://www.spiegel.de/panorama/leute/cmat-wehrt-sich-gegen-bodyshaming-und-erhaelt-support-von-sophie-ellis-bextor-a-9e069716-bc7c-4996-8716-9fda36db5991#ref=rss)
+### dua
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-kleine-laeden-sterben-aus-waehrend-grosse-handelsketten-wachsen-a-8f83d1e4-9f1b-4203-8687-6bd43503ec13#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin](https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin-a-79d357de-d4bd-495f-adfb-6368b0dd5703#ref=rss)
-### ticketkontrolle
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### lipa
 
-* [https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt-a-232bdd8f-40fd-4aaf-b9b7-21d4e9d004a7#ref=rss)
-### verletzt
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### callum
 
-* [https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt-a-232bdd8f-40fd-4aaf-b9b7-21d4e9d004a7#ref=rss)
-* [https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte](https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte-a-5c3ea84f-7ff4-4b96-b99d-7bb087790d1f#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### turner
 
-* [https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/panorama/justiz/zugbegleiter-bei-ticketkontrolle-toedlich-verletzt-verdaechtiger-wegen-mordes-angeklagt-a-232bdd8f-40fd-4aaf-b9b7-21d4e9d004a7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin](https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin-a-79d357de-d4bd-495f-adfb-6368b0dd5703#ref=rss)
-### sting
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### sizilien
 
-* [https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen](https://www.spiegel.de/kultur/musik/sting-meint-zu-ahnen-woher-die-toxischen-maenner-kommen-a-7522aa89-caa2-4724-bd3a-042c5a6bebee#ref=rss)
-### french
+* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-heiraten-auf-sizilien-grande-amore-a-0eb61c98-0c55-4b77-b08e-e8d85298b75e#ref=rss)
+### landesregierung
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### open
+* [https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-landesregierung-verstiess-bei-northvolt-gegen-informationspflicht](https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-landesregierung-verstiess-bei-northvolt-gegen-informationspflicht-a-3aea0c50-1adb-474c-869b-88e89780cd96#ref=rss)
+### informationspflicht
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-landesregierung-verstiess-bei-northvolt-gegen-informationspflicht](https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-landesregierung-verstiess-bei-northvolt-gegen-informationspflicht-a-3aea0c50-1adb-474c-869b-88e89780cd96#ref=rss)
+### tauben
+
+* [https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber](https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber-a-522bf5a5-994c-47fd-b27f-64b952c629fe#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber](https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber-a-522bf5a5-994c-47fd-b27f-64b952c629fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter](https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter-a-e9ec459a-058c-4d96-a2ee-e5e34e905430#ref=rss)
+### augen
+
+* [https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber](https://www.spiegel.de/wissenschaft/innerer-kompass-tauben-navigieren-laut-forschenden-womoeglich-mit-der-leber-a-522bf5a5-994c-47fd-b27f-64b952c629fe#ref=rss)
+* [https://www.spiegel.de/kultur/musik/entzauberte-saitengoetter-wolfgang-hoebel-ausser-atem-auf-rockkonzerten](https://www.spiegel.de/kultur/musik/entzauberte-saitengoetter-wolfgang-hoebel-ausser-atem-auf-rockkonzerten-a-3ad7d7ff-0002-0001-0000-000223757142#ref=rss)
+### uno
+
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030-a-a309a3b5-6ffc-4299-91c0-1f28a90198e9#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-mit-ersten-todesopfern-die-uno-erwartet-rekordjahre-zwischen-2026-und-2030-a-a309a3b5-6ffc-4299-91c0-1f28a90198e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag](https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag-a-a012af93-7776-49d6-b065-8cf3c549ca58#ref=rss)
+### friederike
+
+* [https://www.spiegel.de/geschichte/soldatin-friederike-krueger-befreiungskriege-ausserordentlich-verdienstliches-heldenmaedchen](https://www.spiegel.de/geschichte/soldatin-friederike-krueger-befreiungskriege-ausserordentlich-verdienstliches-heldenmaedchen-a-faf83eb3-aff9-410d-a354-d105b8af03c7#ref=rss)
+### krüger
+
+* [https://www.spiegel.de/geschichte/soldatin-friederike-krueger-befreiungskriege-ausserordentlich-verdienstliches-heldenmaedchen](https://www.spiegel.de/geschichte/soldatin-friederike-krueger-befreiungskriege-ausserordentlich-verdienstliches-heldenmaedchen-a-faf83eb3-aff9-410d-a354-d105b8af03c7#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-dee6ec4d-ca5f-454a-a7db-94fb7487a6ca#ref=rss)
+### arbeitslosen
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-dee6ec4d-ca5f-454a-a7db-94fb7487a6ca#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-dee6ec4d-ca5f-454a-a7db-94fb7487a6ca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter](https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter-a-e9ec459a-058c-4d96-a2ee-e5e34e905430#ref=rss)
+### scheuer
+
+* [https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht](https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht-a-1c48bd59-d927-4691-bc93-1b14f3386272#ref=rss)
+### meinen
+
+* [https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub](https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub-a-db0d03e5-5c9a-42b1-94be-6b2a04d17990#ref=rss)
+* [https://www.spiegel.de/kultur/die-ganze-welt-scheint-motorradfahrer-zu-hassen-meinen-die-mich](https://www.spiegel.de/kultur/die-ganze-welt-scheint-motorradfahrer-zu-hassen-meinen-die-mich-a-fcbc23a5-0b7d-4ccf-b954-832b7f1557bd#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub](https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub-a-db0d03e5-5c9a-42b1-94be-6b2a04d17990#ref=rss)
+* [https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag](https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag-a-a012af93-7776-49d6-b065-8cf3c549ca58#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub](https://www.spiegel.de/reise/brenner-pass-alpenstrasse-fuer-autofahrer-geschlossen-was-heisst-das-fuer-meinen-urlaub-a-db0d03e5-5c9a-42b1-94be-6b2a04d17990#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-weiterer-mutmasslicher-entfuehrer-bekommt-sicheres-geleit](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-weiterer-mutmasslicher-entfuehrer-bekommt-sicheres-geleit-a-ba026d0a-7ab8-4940-9493-bbc8498ede11#ref=rss)
+### anthropic
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-nun-wertvoller-als-openai](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-nun-wertvoller-als-openai-a-3b956f22-28a7-4f50-9274-a4d95184dbd2#ref=rss)
+### openai
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-nun-wertvoller-als-openai](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-nun-wertvoller-als-openai-a-3b956f22-28a7-4f50-9274-a4d95184dbd2#ref=rss)
+### germany’s
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+### next
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+### heidi
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+### klum
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+### publikum
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/entzauberte-saitengoetter-wolfgang-hoebel-ausser-atem-auf-rockkonzerten](https://www.spiegel.de/kultur/musik/entzauberte-saitengoetter-wolfgang-hoebel-ausser-atem-auf-rockkonzerten-a-3ad7d7ff-0002-0001-0000-000223757142#ref=rss)
+### darüber
+
+* [https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht](https://www.spiegel.de/kultur/germanys-next-topmodel-heidi-klums-gntm-finale-in-hollywood-wurde-schon-monate-vorher-gedreht-a-1b9f99ad-0bd9-4d53-8e49-008e8e9fb3e9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben](https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben-a-bfac5196-c067-49c6-b0d8-ab3ef085405f#ref=rss)
+### rassemblement
+
+* [https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah](https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah-a-bbaf2548-a9dc-47eb-a880-360952fd1820#ref=rss)
+### national
+
+* [https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah](https://www.spiegel.de/ausland/frankreich-der-rassemblement-national-grenzt-sich-von-der-afd-ab-aber-bleibt-ihr-ideologisch-nah-a-bbaf2548-a9dc-47eb-a880-360952fd1820#ref=rss)
+### mieten
+
+* [https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter](https://www.spiegel.de/wirtschaft/service/wohnen-in-diesen-staedten-liegen-die-mieten-unter-8-50-euro-pro-quadratmeter-a-e9ec459a-058c-4d96-a2ee-e5e34e905430#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-weiterer-mutmasslicher-entfuehrer-bekommt-sicheres-geleit](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-weiterer-mutmasslicher-entfuehrer-bekommt-sicheres-geleit-a-ba026d0a-7ab8-4940-9493-bbc8498ede11#ref=rss)
 ### jannik
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev-a-4e48c99c-2e81-4ded-acdd-7d840cd3f882#ref=rss)
 ### sinner
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### juan
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev-a-4e48c99c-2e81-4ded-acdd-7d840cd3f882#ref=rss)
+### bedeutet
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### manuel
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev-a-4e48c99c-2e81-4ded-acdd-7d840cd3f882#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### cerúndolo
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-scheidet-aus-was-bedeutet-das-fuer-alexander-zverev-a-4e48c99c-2e81-4ded-acdd-7d840cd3f882#ref=rss)
+### rumänien
 
-* [https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo](https://www.spiegel.de/sport/tennis/sensation-bei-french-open-jannik-sinner-verliert-in-der-hitze-gegen-juan-manuel-cerundolo-a-b7c9decb-d35c-49f8-bd6e-545cc33637c8#ref=rss)
-### union
+* [https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung](https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung-a-6c1659eb-a2b9-43dd-8d6c-1a2460d5b2b8#ref=rss)
+### einschlag
 
-* [https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten](https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten-a-f1dee248-5b0d-40dc-a7e3-4974efe3547a#ref=rss)
-### vermögende
+* [https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung](https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung-a-6c1659eb-a2b9-43dd-8d6c-1a2460d5b2b8#ref=rss)
+### drohne
 
-* [https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten](https://www.spiegel.de/wirtschaft/soziales/pflegekosten-spd-zeigt-sich-offen-fuer-pflege-vorstoss-aus-der-union-vermoegende-mehr-zu-belasten-a-f1dee248-5b0d-40dc-a7e3-4974efe3547a#ref=rss)
-### grundschule
+* [https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung](https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung-a-6c1659eb-a2b9-43dd-8d6c-1a2460d5b2b8#ref=rss)
+### eu
 
-* [https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte](https://www.spiegel.de/panorama/newel-butzweiler-smartphone-entzuendet-sich-in-grundschule-selbst-acht-verletzte-a-5c3ea84f-7ff4-4b96-b99d-7bb087790d1f#ref=rss)
-### korallenriffe
+* [https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung](https://www.spiegel.de/ausland/rumaenien-einschlag-russischer-drohne-sorgt-international-fuer-empoerung-a-6c1659eb-a2b9-43dd-8d6c-1a2460d5b2b8#ref=rss)
+* [https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier](https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier-a-8bcb85c5-725b-4a4a-a1d3-26cefe47e138#ref=rss)
+### steven
 
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### widerstandsfähig
+* [https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben](https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben-a-bfac5196-c067-49c6-b0d8-ab3ef085405f#ref=rss)
+### spielberg
 
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig](https://www.spiegel.de/wissenschaft/natur/klimawandel-korallenriffe-vor-australien-zeigen-sich-besonders-widerstandsfaehig-a-1ccbf98c-5dab-4a17-b5f5-baf9146453c8#ref=rss)
-### zwölfjährige
+* [https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben](https://www.spiegel.de/panorama/leute/steven-spielberg-us-regisseur-glaubt-an-ausserirdisches-leben-a-bfac5196-c067-49c6-b0d8-ab3ef085405f#ref=rss)
+### überwachungsbehörde
 
-* [https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin](https://www.spiegel.de/panorama/justiz/dinslaken-zwei-zwoelfjaehrige-sterben-bei-autounfall-staatsanwaltschaft-ermittelt-gegen-autofahrerin-a-79d357de-d4bd-495f-adfb-6368b0dd5703#ref=rss)
+* [https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier](https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier-a-8bcb85c5-725b-4a4a-a1d3-26cefe47e138#ref=rss)
+### europapartei
+
+* [https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier](https://www.spiegel.de/ausland/afd-ueberwachungsbehoerde-nimmt-europapartei-der-rechtsextremen-ins-visier-a-8bcb85c5-725b-4a4a-a1d3-26cefe47e138#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-roland-koch-stellt-sich-in-kanzlerdebatte-hinter-den-regierungschef](https://www.spiegel.de/politik/deutschland/friedrich-merz-roland-koch-stellt-sich-in-kanzlerdebatte-hinter-den-regierungschef-a-f6f9853d-3a19-4d12-8e35-4e660a83aff7#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-roland-koch-stellt-sich-in-kanzlerdebatte-hinter-den-regierungschef](https://www.spiegel.de/politik/deutschland/friedrich-merz-roland-koch-stellt-sich-in-kanzlerdebatte-hinter-den-regierungschef-a-f6f9853d-3a19-4d12-8e35-4e660a83aff7#ref=rss)
+### afdnachwuchs
+
+* [https://www.spiegel.de/politik/hoyerswerda-afd-nachwuchs-wirbt-fruehmorgens-vor-schule](https://www.spiegel.de/politik/hoyerswerda-afd-nachwuchs-wirbt-fruehmorgens-vor-schule-a-0c0d72be-0e32-4948-b09d-f65f491dca2f#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/politik/hoyerswerda-afd-nachwuchs-wirbt-fruehmorgens-vor-schule](https://www.spiegel.de/politik/hoyerswerda-afd-nachwuchs-wirbt-fruehmorgens-vor-schule-a-0c0d72be-0e32-4948-b09d-f65f491dca2f#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-oekonomen-schlagen-ausweitung-nur-fuer-buerobeschaeftigte-vor](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-oekonomen-schlagen-ausweitung-nur-fuer-buerobeschaeftigte-vor-a-6d5997ca-d848-43fe-81c4-095a097434b3#ref=rss)
+### achtstundentag
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-oekonomen-schlagen-ausweitung-nur-fuer-buerobeschaeftigte-vor](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-oekonomen-schlagen-ausweitung-nur-fuer-buerobeschaeftigte-vor-a-6d5997ca-d848-43fe-81c4-095a097434b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne-a-f98798a0-4c8e-4f89-aec8-e2f6405d51e5#ref=rss)
+### telekom
+
+* [https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag](https://www.spiegel.de/wirtschaft/telekom-und-ver-di-einigen-sich-auf-neuen-tarifvertrag-a-a012af93-7776-49d6-b065-8cf3c549ca58#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne-a-f98798a0-4c8e-4f89-aec8-e2f6405d51e5#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-spd-chefin-ministerin-reformblockade-kolumne-a-f98798a0-4c8e-4f89-aec8-e2f6405d51e5#ref=rss)
 
