@@ -4,305 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009](https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009-a-c9a20590-1a90-417e-b1e9-3959d184157e#ref=rss)
-* [https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000](https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000-a-8861e97e-23ce-4c2e-8787-2bed0fe0752e#ref=rss)
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-der-ebola-ausbruch-zeigt-warum-entwicklungshilfe-unverzichtbar-ist](https://www.spiegel.de/ausland/demokratische-republik-kongo-der-ebola-ausbruch-zeigt-warum-entwicklungshilfe-unverzichtbar-ist-a-7a9fa9bc-f5b5-4698-beca-de445c6f38f6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll](https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll-a-048a8bf0-93ec-437f-9f54-40969b819e0c#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1](https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1-a-997def15-3ed7-41ab-b2f1-d73c11d61f65#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken](https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken-a-af04342f-2d66-4958-a7c0-5d8ca8f1d388#ref=rss)
-### dorothee
-
-* [https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert](https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert-a-49f5b040-97a5-4ef5-9c98-70d5635a40d2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### bär
-
-* [https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert](https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert-a-49f5b040-97a5-4ef5-9c98-70d5635a40d2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### bünning
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-* [https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen](https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen-a-49903da2-a5e9-4862-a428-d59f0bce6f6f#ref=rss)
-* [https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour](https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour-a-de502860-6236-4b2a-8e99-9fd25984655a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung](https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung-a-bde68e45-12a7-4ea5-9afd-2d501d784f2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken](https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken-a-af04342f-2d66-4958-a7c0-5d8ca8f1d388#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung](https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung-a-bde68e45-12a7-4ea5-9afd-2d501d784f2b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft](https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft-a-ca63b62d-b0cc-47f6-8aa9-81cd0f751a1c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt-a-50f774d8-0788-4637-b97a-c4df57c2437d#ref=rss)
-* [https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000](https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000-a-8861e97e-23ce-4c2e-8787-2bed0fe0752e#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich](https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich-a-3336bdcc-7bdd-45dc-8ae8-9b7e16dd8c08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich](https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich-a-3336bdcc-7bdd-45dc-8ae8-9b7e16dd8c08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht](https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht-a-218a34a6-8f0a-40ab-802b-bb1b67a30d98#ref=rss)
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft](https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft-a-ca63b62d-b0cc-47f6-8aa9-81cd0f751a1c#ref=rss)
-* [https://www.spiegel.de/panorama/masken-prozesse-wie-der-bund-einen-maskenhaendler-schikanierte](https://www.spiegel.de/panorama/masken-prozesse-wie-der-bund-einen-maskenhaendler-schikanierte-a-8b771334-b4d0-46ca-baa0-20ba56dbbfbd#ref=rss)
-### innenverteidiger
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-### lars
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-### hirnblutung
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-### operiert
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert](https://www.spiegel.de/sport/fussball/dynamo-dresden-innenverteidiger-lars-buenning-nach-hirnblutung-operiert-a-35fdb344-046a-48dd-877f-d8fc22adca96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009](https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009-a-c9a20590-1a90-417e-b1e9-3959d184157e#ref=rss)
-### stand
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009](https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009-a-c9a20590-1a90-417e-b1e9-3959d184157e#ref=rss)
-### 2009
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009](https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009-a-c9a20590-1a90-417e-b1e9-3959d184157e#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009](https://www.spiegel.de/wirtschaft/unternehmen/abfall-aufkommen-in-deutschland-faellt-auf-tiefsten-stand-seit-2009-a-c9a20590-1a90-417e-b1e9-3959d184157e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum](https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum-a-cfec97f8-110d-4f0f-94e7-139b2eb7aa95#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung](https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung-a-bde68e45-12a7-4ea5-9afd-2d501d784f2b#ref=rss)
-### einschüchterung
-
-* [https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung](https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung-a-bde68e45-12a7-4ea5-9afd-2d501d784f2b#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung](https://www.spiegel.de/politik/iran-zwei-hinrichtungen-nach-protesten-menschenrechtler-warnen-vor-einschuechterung-a-bde68e45-12a7-4ea5-9afd-2d501d784f2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen](https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen-a-c72d1674-fc40-4225-9775-345995653f99#ref=rss)
-### alexandra
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga-a-1bca9a22-f0c4-4cf2-a308-c673e5897311#ref=rss)
-### popp
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga-a-1bca9a22-f0c4-4cf2-a308-c673e5897311#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga](https://www.spiegel.de/sport/fussball/alexandra-popp-bvb-frauen-scheitern-am-aufstieg-in-die-dritte-liga-a-1bca9a22-f0c4-4cf2-a308-c673e5897311#ref=rss)
-### bielefeld
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt-a-50f774d8-0788-4637-b97a-c4df57c2437d#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt-a-50f774d8-0788-4637-b97a-c4df57c2437d#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-messerangreifer-zu-lebenslanger-haft-verurteilt-a-50f774d8-0788-4637-b97a-c4df57c2437d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen](https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen-a-c72d1674-fc40-4225-9775-345995653f99#ref=rss)
 ### studierende
 
-* [https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert](https://www.spiegel.de/start/bafoeg-dorothee-baer-aeussert-sich-studierende-sind-empoert-a-49f5b040-97a5-4ef5-9c98-70d5635a40d2#ref=rss)
-### sehen
+* [https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen](https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen-a-2bf4cbc3-a763-4eb3-ab62-d7e7aa95f07d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar](https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar-a-98fc9501-523d-42f2-a315-59d932d1800b#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich](https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich-a-3336bdcc-7bdd-45dc-8ae8-9b7e16dd8c08#ref=rss)
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen](https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen-a-b3ff3c0c-2ceb-4f20-bc31-297857eb000f#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich](https://www.spiegel.de/panorama/denglisch-im-alltag-mental-load-quiet-quitting-white-privilege-eure-trendwoerter-nerven-mich-a-3336bdcc-7bdd-45dc-8ae8-9b7e16dd8c08#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### fahren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-### uber
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-### fahrende
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen](https://www.spiegel.de/wirtschaft/unternehmen/autonomes-fahren-uber-und-autobrains-erproben-selbst-fahrende-taxis-in-muenchen-a-4c057f5c-3ab1-49f3-af23-546eae5eb9e9#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-fuenf-menschen-sterben-bei-explosion-in-raketenfabrik](https://www.spiegel.de/panorama/suedkorea-mindestens-fuenf-menschen-sterben-bei-explosion-in-raketenfabrik-a-c3b46eab-4180-4b4f-9ddb-933700212def#ref=rss)
-### euphoria
-
-* [https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen](https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen-a-49903da2-a5e9-4862-a428-d59f0bce6f6f#ref=rss)
-### alexa
-
-* [https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen](https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen-a-49903da2-a5e9-4862-a428-d59f0bce6f6f#ref=rss)
-### demie
-
-* [https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen](https://www.spiegel.de/panorama/leute/euphoria-alexa-demie-musste-von-ihrer-rolle-maddy-abstand-nehmen-a-49903da2-a5e9-4862-a428-d59f0bce6f6f#ref=rss)
-### testspiel
-
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken](https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken-a-af04342f-2d66-4958-a7c0-5d8ca8f1d388#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen](https://www.spiegel.de/sport/fussball/nationalmannschaft-warum-fast-alle-dfb-profis-ploetzlich-pinke-schuhe-tragen-a-e928fd84-92c4-4adf-8944-9670b4b69a21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll](https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll-a-048a8bf0-93ec-437f-9f54-40969b819e0c#ref=rss)
-### mia
-
-* [https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar](https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar-a-d5be51ce-8a94-4a32-b074-a8724a662cdf#ref=rss)
-### kid
-
-* [https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar](https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar-a-d5be51ce-8a94-4a32-b074-a8724a662cdf#ref=rss)
-### cudi
-
-* [https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar](https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar-a-d5be51ce-8a94-4a32-b074-a8724a662cdf#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar](https://www.spiegel.de/panorama/leute/trump-symphatisantin-m-i-a-verklagt-kid-cudi-auf-2-8-millionen-dollar-a-d5be51ce-8a94-4a32-b074-a8724a662cdf#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-### 235000
-
-* [https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000](https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000-a-8861e97e-23ce-4c2e-8787-2bed0fe0752e#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000](https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000-a-8861e97e-23ce-4c2e-8787-2bed0fe0752e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-chef-zieht-rote-linien-fuer-die-reformplaene-der-regierung](https://www.spiegel.de/wirtschaft/soziales/ver-di-chef-zieht-rote-linien-fuer-die-reformplaene-der-regierung-a-acdd4b10-1aa4-4906-a033-f94365a242bd#ref=rss)
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000](https://www.spiegel.de/politik/migration-nettozuwanderung-nach-deutschland-halbiert-sich-auf-235-000-a-8861e97e-23ce-4c2e-8787-2bed0fe0752e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum](https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum-a-cfec97f8-110d-4f0f-94e7-139b2eb7aa95#ref=rss)
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben](https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben-a-aa8fdc5c-86ea-4839-a63a-fcbc28887046#ref=rss)
+* [https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft](https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft-a-7d0f928c-a76b-48f9-b771-447e107c8dac#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutschland-gegen-finnland-vorletzter-wm-test-mit-begrenzten-erkenntnissen](https://www.spiegel.de/sport/fussball/deutschland-gegen-finnland-vorletzter-wm-test-mit-begrenzten-erkenntnissen-a-6a7f5569-f403-41c3-b4ef-a1176dbe6e47#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum](https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum-a-cfec97f8-110d-4f0f-94e7-139b2eb7aa95#ref=rss)
-### prozent
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutschland-gegen-finnland-vorletzter-wm-test-mit-begrenzten-erkenntnissen](https://www.spiegel.de/sport/fussball/deutschland-gegen-finnland-vorletzter-wm-test-mit-begrenzten-erkenntnissen-a-6a7f5569-f403-41c3-b4ef-a1176dbe6e47#ref=rss)
+### dorothee
 
-* [https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum](https://www.spiegel.de/wirtschaft/jeff-bezos-will-aermere-amerikaner-von-steuern-befreien-warum-a-cfec97f8-110d-4f0f-94e7-139b2eb7aa95#ref=rss)
-* [https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour](https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour-a-de502860-6236-4b2a-8e99-9fd25984655a#ref=rss)
-### schwerin
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar](https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar-a-98fc9501-523d-42f2-a315-59d932d1800b#ref=rss)
+### bär
 
-* [https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft](https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft-a-ca63b62d-b0cc-47f6-8aa9-81cd0f751a1c#ref=rss)
-### dreistellige
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar](https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar-a-98fc9501-523d-42f2-a315-59d932d1800b#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft](https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft-a-ca63b62d-b0cc-47f6-8aa9-81cd0f751a1c#ref=rss)
-### vorgängen
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### partei
 
-* [https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft](https://www.spiegel.de/panorama/justiz/ostseewal-timmy-staatsanwaltschaft-mit-anzeigen-und-hinweisen-ueberhaeuft-a-ca63b62d-b0cc-47f6-8aa9-81cd0f751a1c#ref=rss)
-### frauen
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen](https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen-a-b3ff3c0c-2ceb-4f20-bc31-297857eb000f#ref=rss)
+### flucht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen](https://www.spiegel.de/wirtschaft/unternehmen/kinderkrankentage-werden-meistens-von-frauen-genommen-a-c72d1674-fc40-4225-9775-345995653f99#ref=rss)
-### schweiz
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1](https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1-a-997def15-3ed7-41ab-b2f1-d73c11d61f65#ref=rss)
-### allerdings
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft](https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft-a-7d0f928c-a76b-48f9-b771-447e107c8dac#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1](https://www.spiegel.de/sport/eishockey/eishockey-wm-schweiz-unterliegt-finnland-nach-verlaengerung-0-1-a-997def15-3ed7-41ab-b2f1-d73c11d61f65#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt](https://www.spiegel.de/politik/ukraine-krieg-viele-menschen-nach-russischen-angriffen-verletzt-a-bf726c70-2d38-488a-a4a7-149e0f528560#ref=rss)
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### lennart
-
-* [https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll](https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll-a-048a8bf0-93ec-437f-9f54-40969b819e0c#ref=rss)
-### karl
-
-* [https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll](https://www.spiegel.de/sport/fussball/lennart-karl-wie-seine-leichtigkeit-deutschland-bei-der-wm-helfen-soll-a-048a8bf0-93ec-437f-9f54-40969b819e0c#ref=rss)
-### beiträge
-
-* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-rechnet-offenbar-mit-staerkerem-anstieg-der-beitraege](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-rechnet-offenbar-mit-staerkerem-anstieg-der-beitraege-a-0d92124a-3946-4484-8099-a6cdf30bf444#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht](https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht-a-218a34a6-8f0a-40ab-802b-bb1b67a30d98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-rechnet-offenbar-mit-staerkerem-anstieg-der-beitraege](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-rechnet-offenbar-mit-staerkerem-anstieg-der-beitraege-a-0d92124a-3946-4484-8099-a6cdf30bf444#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### explosion
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621#ref=rss)
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren](https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren-a-1012fe42-15ad-49f0-9ed5-6aca7444ab58#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-fuenf-menschen-sterben-bei-explosion-in-raketenfabrik](https://www.spiegel.de/panorama/suedkorea-mindestens-fuenf-menschen-sterben-bei-explosion-in-raketenfabrik-a-c3b46eab-4180-4b4f-9ddb-933700212def#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+### svenja
 
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-chef-zieht-rote-linien-fuer-die-reformplaene-der-regierung](https://www.spiegel.de/wirtschaft/soziales/ver-di-chef-zieht-rote-linien-fuer-die-reformplaene-der-regierung-a-acdd4b10-1aa4-4906-a033-f94365a242bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht](https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht-a-218a34a6-8f0a-40ab-802b-bb1b67a30d98#ref=rss)
-### deniz
+* [https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job](https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job-a-9e165138-1bdc-4cb2-bc40-7a56d13cef42#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### bafög
 
-* [https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken](https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken-a-af04342f-2d66-4958-a7c0-5d8ca8f1d388#ref=rss)
-### undav
+* [https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen](https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen-a-2bf4cbc3-a763-4eb3-ab62-d7e7aa95f07d#ref=rss)
+### erhöhung
 
-* [https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken](https://www.spiegel.de/sport/fussball/deniz-undav-ueber-seine-auswechslung-gegen-finnland-es-sind-die-arschbacken-a-af04342f-2d66-4958-a7c0-5d8ca8f1d388#ref=rss)
-### schattenflotte
+* [https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen](https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen-a-2bf4cbc3-a763-4eb3-ab62-d7e7aa95f07d#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### frankreich
+* [https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen](https://www.spiegel.de/politik/deutschland/bafoeg-warum-studierende-jetzt-doch-um-die-erhoehung-bangen-muessen-a-2bf4cbc3-a763-4eb3-ab62-d7e7aa95f07d#ref=rss)
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### öltanker
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### brandmauer
 
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### tagor
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### hinter
 
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### atlantik
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028-a-caacc8e8-865e-42ec-8986-01eee7038323#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik](https://www.spiegel.de/politik/russland-und-die-schattenflotte-frankreich-beschlagnahmt-oeltanker-tagor-im-atlantik-a-5b3caf08-4eb9-426c-8165-d839dd1ce0d5#ref=rss)
-### steigen
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht](https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht-a-218a34a6-8f0a-40ab-802b-bb1b67a30d98#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### sehr
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### kubicki
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht](https://www.spiegel.de/wirtschaft/soziales/krankenkasse-so-stark-steigen-ihre-beitraege-oder-auch-nicht-a-218a34a6-8f0a-40ab-802b-bb1b67a30d98#ref=rss)
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### ursache
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028-a-caacc8e8-865e-42ec-8986-01eee7038323#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### auge
+* [https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt](https://www.spiegel.de/politik/deutschland/fdp-und-die-brandmauer-zur-afd-was-hinter-dem-neuen-kurs-von-wolfgang-kubicki-steckt-a-8faf3c64-e9e0-45ce-acf1-2af87320ad7f#ref=rss)
+### cenk
 
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-### anderen
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### uygur
 
-* [https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge](https://www.spiegel.de/gesundheit/eine-raetselhafte-patientin-warum-verschwimmt-die-sicht-im-rechten-auge-a-c610a122-d994-49ff-833f-f3c3e6ab59b3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### würde
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### hasan
 
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### gern
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### piker
 
-* [https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen](https://www.spiegel.de/panorama/leute/dorothee-baer-wuerde-gern-selbst-ins-all-fliegen-a-262750ba-8469-4e41-9c64-fbb504fac230#ref=rss)
-### malta
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour](https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour-a-de502860-6236-4b2a-8e99-9fd25984655a#ref=rss)
-### labour
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### verweigert
 
-* [https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour](https://www.spiegel.de/politik/malta-historischer-vierter-wahlsieg-in-folge-fuer-labour-a-de502860-6236-4b2a-8e99-9fd25984655a#ref=rss)
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### einreise
+
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel](https://www.spiegel.de/ausland/cenk-uygur-und-hasan-piker-grossbritannien-verweigert-politischen-streamern-einreise-wegen-aussagen-zu-israel-a-32c5ee12-776e-4efa-8b4e-a8abf9013078#ref=rss)
+* [https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job](https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job-a-9e165138-1bdc-4cb2-bc40-7a56d13cef42#ref=rss)
+### regeln
+
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+### plant
+
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london](https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london-a-480a5257-42cf-4df3-b64a-fce2da6f2fad#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+* [https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job](https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job-a-9e165138-1bdc-4cb2-bc40-7a56d13cef42#ref=rss)
+### oft
+
+* [https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten](https://www.spiegel.de/panorama/rauchen-und-nichtraucherschutzgesetz-in-welchen-bundeslaendern-welche-regeln-gelten-a-4a39af99-59ed-49c4-962a-59dd7e5d1b7e#ref=rss)
+* [https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job](https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job-a-9e165138-1bdc-4cb2-bc40-7a56d13cef42#ref=rss)
+### charli
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film](https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film-a-ededf0dd-39c1-452a-a30c-bbc03b67b74a#ref=rss)
+### xcx
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film](https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film-a-ededf0dd-39c1-452a-a30c-bbc03b67b74a#ref=rss)
+### cover
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film](https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film-a-ededf0dd-39c1-452a-a30c-bbc03b67b74a#ref=rss)
+### fashion
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film](https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film-a-ededf0dd-39c1-452a-a30c-bbc03b67b74a#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film](https://www.spiegel.de/kultur/musik/charli-xcx-martin-scorsese-john-cale-und-marc-jacobs-auf-dem-cover-von-music-fashion-film-a-ededf0dd-39c1-452a-a30c-bbc03b67b74a#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+### vertreibung
+
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+### versöhnung
+
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+### 500000
+
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht](https://www.spiegel.de/panorama/justiz/stiftung-flucht-vertreibung-versoehnung-ueber-500-000-euro-verschwunden-untreueverdacht-a-87653fb2-44dc-4203-a541-b698dd5697ef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+### großen
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-zerstoert-den-u-boot-killer](https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-zerstoert-den-u-boot-killer-a-ac590b22-2fd0-429d-8d12-4d6da08b6983#ref=rss)
+### 2028
+
+* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028-a-caacc8e8-865e-42ec-8986-01eee7038323#ref=rss)
+### druck
+
+* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-das-steckt-hinter-dem-beitragsschock-2028-a-caacc8e8-865e-42ec-8986-01eee7038323#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-dorothee-baer-empoert-mit-bafoeg-aeusserung-viele-anzeigen-zu-totem-wal-a-a1faf82d-3789-4979-b040-807a6ef2b6db#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus](https://www.spiegel.de/ausland/iran-teheran-setzt-offenbar-verhandlungen-mit-usa-aus-a-0856bef2-aca5-4c7d-9346-8efb6b2f9465#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
+### vororten
+
+* [https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf](https://www.spiegel.de/ausland/libanon-israel-ruft-menschen-in-beiruts-vororten-zur-flucht-auf-a-46e9092d-9e68-4267-8a64-9ada3727bb04#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken](https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken-a-b216842c-d8be-4e4d-8a87-feffc64b09d6#ref=rss)
+### magnifica
+
+* [https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken](https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken-a-b216842c-d8be-4e4d-8a87-feffc64b09d6#ref=rss)
+### humanitas
+
+* [https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken](https://www.spiegel.de/panorama/leo-xiv-experten-muessen-sich-lateinische-worte-fuer-papst-lehrschreiben-magnifica-humanitas-ausdenken-a-b216842c-d8be-4e4d-8a87-feffc64b09d6#ref=rss)
+### ibiza
+
+* [https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger](https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger-a-9b5ee06d-986f-4a93-b49f-d2d170a8995b#ref=rss)
+### nachbarinseln
+
+* [https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger](https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger-a-9b5ee06d-986f-4a93-b49f-d2d170a8995b#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger](https://www.spiegel.de/wissenschaft/natur/hufeisennatter-schlangen-schwimmen-von-ibiza-zu-nachbarinseln-wohl-aus-hunger-a-9b5ee06d-986f-4a93-b49f-d2d170a8995b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft](https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft-a-7d0f928c-a76b-48f9-b771-447e107c8dac#ref=rss)
+### comeback
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london](https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london-a-480a5257-42cf-4df3-b64a-fce2da6f2fad#ref=rss)
+### turnier
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london](https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london-a-480a5257-42cf-4df3-b64a-fce2da6f2fad#ref=rss)
+### london
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london](https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london-a-480a5257-42cf-4df3-b64a-fce2da6f2fad#ref=rss)
+### usamerikanische
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london](https://www.spiegel.de/sport/tennis/tennis-serena-williams-plant-comeback-bei-turnier-in-london-a-480a5257-42cf-4df3-b64a-fce2da6f2fad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark-a-b0e4ce99-e832-4515-8381-36855e1587fc#ref=rss)
+### privilegiert
+
+* [https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar](https://www.spiegel.de/start/bafoeg-dorothee-baer-nennt-studierende-privilegiert-und-stoppt-reform-kommentar-a-98fc9501-523d-42f2-a315-59d932d1800b#ref=rss)
+### nada
+
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### freigang
+
+* [https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck](https://www.spiegel.de/sport/fussball/nada-laura-freigang-wegen-moeglicher-verstoesse-gegen-meldepflichtauflagen-unter-druck-a-6e40ecbf-778b-48e8-9348-08d59c8eadb0#ref=rss)
+### görlitzer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben](https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben-a-aa8fdc5c-86ea-4839-a63a-fcbc28887046#ref=rss)
+### park
+
+* [https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben](https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben-a-aa8fdc5c-86ea-4839-a63a-fcbc28887046#ref=rss)
+### zumindest
+
+* [https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben](https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben-a-aa8fdc5c-86ea-4839-a63a-fcbc28887046#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen](https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen-a-b3ff3c0c-2ceb-4f20-bc31-297857eb000f#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben](https://www.spiegel.de/panorama/justiz/berlin-goerlitzer-park-muss-nachts-offen-bleiben-a-aa8fdc5c-86ea-4839-a63a-fcbc28887046#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen](https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen-a-b3ff3c0c-2ceb-4f20-bc31-297857eb000f#ref=rss)
+### rosamund
+
+* [https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung](https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung-a-66705434-04d7-4bf7-9edc-f493b275e754#ref=rss)
+### pike
+
+* [https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung](https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung-a-66705434-04d7-4bf7-9edc-f493b275e754#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung](https://www.spiegel.de/kultur/wir-sehen-das-schauspielerin-rosamund-pike-ruegt-publikum-fuer-handynutzung-a-66705434-04d7-4bf7-9edc-f493b275e754#ref=rss)
+### flensburg
+
+* [https://www.spiegel.de/panorama/justiz/flensburg-haendler-wegen-antisemitischem-aushang-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/flensburg-haendler-wegen-antisemitischem-aushang-zu-bewaehrungsstrafe-verurteilt-a-caa5d46e-c3b8-49e1-8442-37a2968ebfa3#ref=rss)
+### verurteilte
+
+* [https://www.spiegel.de/panorama/justiz/flensburg-haendler-wegen-antisemitischem-aushang-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/flensburg-haendler-wegen-antisemitischem-aushang-zu-bewaehrungsstrafe-verurteilt-a-caa5d46e-c3b8-49e1-8442-37a2968ebfa3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### namen
+
+* [https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren](https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren-a-1012fe42-15ad-49f0-9ed5-6aca7444ab58#ref=rss)
+### bomb
+
+* [https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren](https://www.spiegel.de/panorama/justiz/mallorca-bluetooth-geraet-mit-dem-namen-bomb-flieger-muss-umkehren-a-1012fe42-15ad-49f0-9ed5-6aca7444ab58#ref=rss)
+### denkt
+
+* [https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job](https://www.spiegel.de/karriere/adhs-hochbegabung-hypersensibilitaet-neurodivergenz-im-job-a-9e165138-1bdc-4cb2-bc40-7a56d13cef42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark-a-b0e4ce99-e832-4515-8381-36855e1587fc#ref=rss)
+### arla
+
+* [https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft](https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft-a-7d0f928c-a76b-48f9-b771-447e107c8dac#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft](https://www.spiegel.de/wirtschaft/molkereien-arla-und-dmk-fusion-schafft-riesige-milchgenossenschaft-a-7d0f928c-a76b-48f9-b771-447e107c8dac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-weshalb-der-staat-auf-milliarden-fuer-digitalisierung-sitzt](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-weshalb-der-staat-auf-milliarden-fuer-digitalisierung-sitzt-a-00ba2f41-9867-45a4-8b2f-4de640bf5a0d#ref=rss)
+### easyjet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark-a-b0e4ce99-e832-4515-8381-36855e1587fc#ref=rss)
+### castlelake
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-us-finanzinvestor-castlelake-erwaegt-uebernahme-airline-aktie-steigt-stark-a-b0e4ce99-e832-4515-8381-36855e1587fc#ref=rss)
+### tschechien
+
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### marla
+
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### ausgeliefert
+
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+### sitzt
+
+* [https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an](https://www.spiegel.de/panorama/justiz/marla-svenja-liebich-tschechisches-landgericht-ordnet-auslieferung-an-a-68899d04-071a-469e-80ba-83595f56baa6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-weshalb-der-staat-auf-milliarden-fuer-digitalisierung-sitzt](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-weshalb-der-staat-auf-milliarden-fuer-digitalisierung-sitzt-a-00ba2f41-9867-45a4-8b2f-4de640bf5a0d#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen](https://www.spiegel.de/politik/deutschland/afd-niedersachsen-verfassungsschutz-darf-partei-vorerst-hochstufen-a-b3ff3c0c-2ceb-4f20-bc31-297857eb000f#ref=rss)
 
