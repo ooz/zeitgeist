@@ -4,265 +4,377 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### russland
 
-* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
-* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/politik/afd-was-sich-die-partei-von-ihrer-russland-mission-verspricht](https://www.spiegel.de/politik/afd-was-sich-die-partei-von-ihrer-russland-mission-verspricht-a-efd97eb6-3f19-490a-b933-80b6922cd3ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### insel
+
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen](https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen-a-1c7377f3-f0cd-402f-9827-91bf98f43103#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler-a-e3106d2c-a447-4bbe-ba97-40a38ec26e27#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen-a-2879a55d-5166-4184-b6d1-f9ed309623d4#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit](https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit-a-f00603cb-e2a7-4cf2-a4dd-674018056dd0#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug-a-410d6e3b-2c31-4ee9-afe3-06b1c6fac2d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion](https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion-a-5832e6d5-5dfe-4a81-bdc6-26a24198a125#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
-* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen-a-2879a55d-5166-4184-b6d1-f9ed309623d4#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
-* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### timmy
+
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+* [https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort](https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort-a-467838bd-f0f3-4905-8106-15defbc99b47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### anholt
+
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug-a-410d6e3b-2c31-4ee9-afe3-06b1c6fac2d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### pflegereform
+
+* [https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar](https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar-a-9d3f8561-7c24-4228-853a-ec9932734ec4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe](https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe-a-dcf71e97-695e-4313-8986-902ab2a90f31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe](https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe-a-dcf71e97-695e-4313-8986-902ab2a90f31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe](https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe-a-dcf71e97-695e-4313-8986-902ab2a90f31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+### putin
 
-* [https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig](https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig-a-429c3119-4682-42b5-bccf-75db0351fb3e#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
-* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### axel
 
-* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
-### warnt
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### kritisieren
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### fans
+* [https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb](https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb-a-4d4334c7-1e8b-4cef-a6ad-ce59b5e72ede#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+### lange
 
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### wm
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-shakira-helene-fischer-killermichel-diese-elf-songs-muessen-sie-kennen-a-2879a55d-5166-4184-b6d1-f9ed309623d4#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### musk
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### erklärt
+* [https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk](https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk-a-d559edf9-8d56-49ff-b749-8216803abcad#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig](https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig-a-429c3119-4682-42b5-bccf-75db0351fb3e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
-### yfood
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+### untersuchung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
-### nestlé
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### dänischen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
-### wasser
+* [https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen](https://www.spiegel.de/panorama/erste-obduktionsergebnisse-timmy-war-ein-maedchen-a-1e1750d7-0fb7-490b-a105-00958a8c6cfb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### manfred
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### macht
+* [https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier](https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier-a-56fce8d9-7652-4d7e-86cd-d140bbc324c1#ref=rss)
+### hamm
 
-* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
-* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
-### bewerbung
+* [https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier](https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier-a-56fce8d9-7652-4d7e-86cd-d140bbc324c1#ref=rss)
+### bilder
 
-* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit](https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit-a-f00603cb-e2a7-4cf2-a4dd-674018056dd0#ref=rss)
-### woche
+* [https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier](https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier-a-56fce8d9-7652-4d7e-86cd-d140bbc324c1#ref=rss)
+* [https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort](https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort-a-467838bd-f0f3-4905-8106-15defbc99b47#ref=rss)
+### fotografen
 
-* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
-* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
-### maven
+* [https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier](https://www.spiegel.de/kultur/manfred-hamm-der-bildermagier-a-56fce8d9-7652-4d7e-86cd-d140bbc324c1#ref=rss)
+* [https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze](https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze-a-77224743-9cd4-4ac5-ab64-69f3ef7bf0f3#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot](https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot-a-e2e9198e-f54f-4b7a-ab11-39a7f3ab772f#ref=rss)
-### tot
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler-a-e3106d2c-a447-4bbe-ba97-40a38ec26e27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+### verloren
 
-* [https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot](https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot-a-e2e9198e-f54f-4b7a-ab11-39a7f3ab772f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### wetterdienst
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-es-ist-nicht-irgendein-fritze-es-ist-der-bundeskanzler-a-e3106d2c-a447-4bbe-ba97-40a38ec26e27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+### kleinflugzeug
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
-### lizenzentzug
+* [https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug-a-410d6e3b-2c31-4ee9-afe3-06b1c6fac2d7#ref=rss)
+### insassen
 
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
-### regionalliga
+* [https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/kroatien-vier-tote-bei-absturz-von-kleinflugzeug-a-410d6e3b-2c31-4ee9-afe3-06b1c6fac2d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### warken
 
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
-### insolvenz
+* [https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar](https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar-a-9d3f8561-7c24-4228-853a-ec9932734ec4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
-### tom
+* [https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar](https://www.spiegel.de/politik/deutschland/pflegereform-nina-warken-spart-bei-den-falschen-kommentar-a-9d3f8561-7c24-4228-853a-ec9932734ec4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen](https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen-a-ff6a3c9f-3483-4396-a597-dd98f0de2c20#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen](https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen-a-f4aa1659-8da1-4a49-9455-8a3c4ca552a9#ref=rss)
-### holland
+* [https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe](https://www.spiegel.de/panorama/justiz/hamburg-gericht-verurteilt-mann-nach-schuessen-in-hamburg-zu-langer-haftstrafe-a-dcf71e97-695e-4313-8986-902ab2a90f31#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen](https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen-a-1c7377f3-f0cd-402f-9827-91bf98f43103#ref=rss)
+### versteigerung
 
-* [https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen](https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen-a-f4aa1659-8da1-4a49-9455-8a3c4ca552a9#ref=rss)
-### neuweltschraubenwurmfliege
+* [https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen](https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen-a-1c7377f3-f0cd-402f-9827-91bf98f43103#ref=rss)
+### rügen
 
-* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
-### kalb
+* [https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen](https://www.spiegel.de/panorama/gesellschaft/insel-ostervilm-so-lief-die-versteigerung-der-ehemaligen-ddr-militaerstation-vor-ruegen-a-1c7377f3-f0cd-402f-9827-91bf98f43103#ref=rss)
+### tages
 
-* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### google
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### experten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### äußern
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
 ### erstmals
 
-* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
-### karim
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
-### adeyemi
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen](https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen-a-ff6a3c9f-3483-4396-a597-dd98f0de2c20#ref=rss)
+### zweifel
 
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
-### ökonom
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin](https://www.spiegel.de/ausland/russland-die-ersten-sprechen-schon-von-rissen-im-machtapparat-von-wladimir-putin-a-829e052a-cf4b-4355-8a04-0bdd73ebeac7#ref=rss)
+### putins
 
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### koppel
-
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### patente
-
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
-### munition
-
-* [https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition](https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition-a-aa62064e-9fb8-448b-a317-269d9c558b5a#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition](https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition-a-aa62064e-9fb8-448b-a317-269d9c558b5a#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### marjane
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### satrapi
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### 56
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-### film
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
-### iran
-
-* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
-* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen](https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen-a-cb6b4be7-9ed2-41c8-82c6-21ffeeaa3a51#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen](https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen-a-cb6b4be7-9ed2-41c8-82c6-21ffeeaa3a51#ref=rss)
-### israel
-
-* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+* [https://www.spiegel.de/politik/afd-was-sich-die-partei-von-ihrer-russland-mission-verspricht](https://www.spiegel.de/politik/afd-was-sich-die-partei-von-ihrer-russland-mission-verspricht-a-efd97eb6-3f19-490a-b933-80b6922cd3ad#ref=rss)
 ### mücken
 
-* [https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will](https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will-a-a76b9d71-c17d-4d83-bdcf-6bc2966feb5e#ref=rss)
-### freisetzen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-wm-donald-trump-wladimir-putin-russland-google-stechmuecken-a-c49eab20-cbbe-4b36-8f9d-fdf5396a5517#ref=rss)
+### knds
 
-* [https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will](https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will-a-a76b9d71-c17d-4d83-bdcf-6bc2966feb5e#ref=rss)
-### afd
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller](https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller-a-b20a30f7-6b03-4dcd-a703-bcb1d245ffb7#ref=rss)
+### prüfer
 
-* [https://www.spiegel.de/panorama/justiz/afd-prozess-um-alice-weidels-goldschatz-gutachterin-haelt-testament-fuer-unwirksam](https://www.spiegel.de/panorama/justiz/afd-prozess-um-alice-weidels-goldschatz-gutachterin-haelt-testament-fuer-unwirksam-a-b026f5c4-9203-4a4b-a903-dbd9de959038#ref=rss)
-### martin
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller](https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller-a-b20a30f7-6b03-4dcd-a703-bcb1d245ffb7#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
-### kaymer
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller](https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller-a-b20a30f7-6b03-4dcd-a703-bcb1d245ffb7#ref=rss)
+* [https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze](https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze-a-77224743-9cd4-4ac5-ab64-69f3ef7bf0f3#ref=rss)
+### konsequenzen
 
-* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
-### potsdam
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller](https://www.spiegel.de/wirtschaft/unternehmen/knds-pruefer-sehen-anhaltspunkte-fuer-unregelmaessigkeiten-bei-panzerhersteller-a-b20a30f7-6b03-4dcd-a703-bcb1d245ffb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck](https://www.spiegel.de/politik/deutschland/uno-abstimmung-verloren-faehrt-deutschland-jetzt-seine-zahlungen-zurueck-a-df7284ad-53ab-44b9-8486-4f46d84520e6#ref=rss)
+### tibet
 
-* [https://www.spiegel.de/netzwelt/web/smart-glasses-potsdam-will-heimliche-aufnahmen-in-schwimmbaedern-verhindern](https://www.spiegel.de/netzwelt/web/smart-glasses-potsdam-will-heimliche-aufnahmen-in-schwimmbaedern-verhindern-a-41316353-ec2e-4758-aa48-5895efcb1cfe#ref=rss)
-### dao
+* [https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze](https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze-a-77224743-9cd4-4ac5-ab64-69f3ef7bf0f3#ref=rss)
+### aufnahmen
 
-* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
-### alain
+* [https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze](https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze-a-77224743-9cd4-4ac5-ab64-69f3ef7bf0f3#ref=rss)
+### roten
 
-* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
-### gomis
+* [https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze](https://www.spiegel.de/panorama/rote-kobolde-ueber-tibet-spektakulaere-aufnahmen-seltener-roter-blitze-a-77224743-9cd4-4ac5-ab64-69f3ef7bf0f3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion](https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion-a-5832e6d5-5dfe-4a81-bdc6-26a24198a125#ref=rss)
+### eier
 
-* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
-### stunden
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
+### lang
 
-* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
-* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
-### sophie
+* [https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/vechta-betrueger-verschafft-sich-120-000-eier-und-wird-zu-zwei-jahren-haft-verurteilt-a-f2154b69-2e30-4236-b3c6-ec68a89c6251#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+### fc
 
-* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
-### sydow
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+### st
 
-* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
-### abschiebezentren
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+### pauli
 
-* [https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas](https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas-a-88a7869b-e3c1-4fcb-a211-1b07933b3b75#ref=rss)
-### bringen
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas](https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas-a-88a7869b-e3c1-4fcb-a211-1b07933b3b75#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### john
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### blessin
 
-* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
-### d
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+### liga
 
-* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
-### rockefeller
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin](https://www.spiegel.de/sport/fussball/fc-st-pauli-trennt-sich-von-trainer-alexander-blessin-a-0fd3fcc8-f495-43a8-a721-fd0cd4c64fe9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### wal
 
-* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
-### lars
+* [https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort](https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort-a-467838bd-f0f3-4905-8106-15defbc99b47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort](https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort-a-467838bd-f0f3-4905-8106-15defbc99b47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet](https://www.spiegel.de/wissenschaft/natur/wal-timmy-obduktion-des-angespuelten-buckelwals-vor-anholt-gestartet-a-9fc5d791-2ac5-4e88-bf79-5795b410fa02#ref=rss)
+### messer
 
-* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
-### bärbel
+* [https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort](https://www.spiegel.de/kultur/buckelwal-timmy-bild-macht-eine-wal-obduktion-zum-ki-tatort-a-467838bd-f0f3-4905-8106-15defbc99b47#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen](https://www.spiegel.de/panorama/justiz/rostock-fabian-verblutete-nach-sechs-messerstichen-a-ff6a3c9f-3483-4396-a597-dd98f0de2c20#ref=rss)
+### schreiber
 
-* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
-### bas
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### türkisch
 
-* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
-### kühe
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### 49
 
-* [https://www.spiegel.de/panorama/wolfhagen-in-hessen-ausgebuexte-kuehe-spazieren-durch-krankenhaus](https://www.spiegel.de/panorama/wolfhagen-in-hessen-ausgebuexte-kuehe-spazieren-durch-krankenhaus-a-f18ae414-43a4-456c-88da-e69a0cce55aa#ref=rss)
-### uspräsidentschaftswahl
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### alt
 
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### jd
+* [https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt](https://www.spiegel.de/kultur/tv/axel-schreiber-ist-tot-tuerkisch-fuer-anfaenger-schauspieler-wurde-49-jahre-alt-a-f360c8b3-7bff-4a68-acd2-0aec7921291e#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### vance
+* [https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb](https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb-a-4d4334c7-1e8b-4cef-a6ad-ce59b5e72ede#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### marco
+* [https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb](https://www.spiegel.de/sport/fussball/fussball-fanhilfen-kritisieren-neue-stadionverbotsrichtlinien-des-dfb-a-4d4334c7-1e8b-4cef-a6ad-ce59b5e72ede#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### rubio
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+### linke
 
-* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
-### flaschen
+* [https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger](https://www.spiegel.de/politik/deutschland/pflegereform-gruene-und-linke-warnen-vor-schweren-belastungen-fuer-buerger-a-6e946b00-8afb-4bb9-b437-0d69ea2febea#ref=rss)
+### metallica
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### stadion
+* [https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion](https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion-a-5832e6d5-5dfe-4a81-bdc6-26a24198a125#ref=rss)
+### bleeding
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
-### verbraucherzentralen
+* [https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion](https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion-a-5832e6d5-5dfe-4a81-bdc6-26a24198a125#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/strom-verbraucherzentralen-fordern-senkung-der-stromsteuer-fuer-alle](https://www.spiegel.de/wirtschaft/strom-verbraucherzentralen-fordern-senkung-der-stromsteuer-fuer-alle-a-761b750e-e59c-4349-a82e-279a0143b774#ref=rss)
+* [https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion](https://www.spiegel.de/kultur/musik/metallica-fast-10-000-blutspender-in-deutschland-dank-bleeding-me-aktion-a-5832e6d5-5dfe-4a81-bdc6-26a24198a125#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel-a-0fefde91-71b3-4dad-af46-013e6419fb7c#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### mourinho
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### fenerbahçe
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte](https://www.spiegel.de/sport/fussball/jose-mourinho-zieht-wegen-strafen-bei-fenerbahce-istanbul-vor-europaeischen-gerichtshof-fuer-menschenrechte-a-dc6ce34e-ac98-4b9e-ac62-702be7654726#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### unicredit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel-a-0fefde91-71b3-4dad-af46-013e6419fb7c#ref=rss)
+### wittern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel-a-0fefde91-71b3-4dad-af46-013e6419fb7c#ref=rss)
+### falsches
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel-a-0fefde91-71b3-4dad-af46-013e6419fb7c#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-uebernahme-durch-unicredit-deutsche-wittern-falsches-spiel-a-0fefde91-71b3-4dad-af46-013e6419fb7c#ref=rss)
+### jess
+
+* [https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk](https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk-a-d559edf9-8d56-49ff-b749-8216803abcad#ref=rss)
+### asato
+
+* [https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk](https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk-a-d559edf9-8d56-49ff-b749-8216803abcad#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk](https://www.spiegel.de/netzwelt/jess-asato-per-ki-erzeugte-bikinibilder-politikerin-klagt-gegen-elon-musk-a-d559edf9-8d56-49ff-b749-8216803abcad#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### verhängt
+
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### einreisesperre
+
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### briten
+
+* [https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche](https://www.spiegel.de/wirtschaft/russland-moskau-verhaengt-einreisesperre-gegen-fuenf-briten-wegen-krypto-recherche-a-6f602c6f-15e7-485c-bf56-ce4204c86f52#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### budapest
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen](https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen-a-1c460d4f-3b1f-42e2-97be-0c384e7832ba#ref=rss)
+### anklage
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen](https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen-a-1c460d4f-3b1f-42e2-97be-0c384e7832ba#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen](https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen-a-1c460d4f-3b1f-42e2-97be-0c384e7832ba#ref=rss)
+### prideparade
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen](https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen-a-1c460d4f-3b1f-42e2-97be-0c384e7832ba#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen](https://www.spiegel.de/ausland/budapest-ungarn-anklage-gegen-buergermeister-gergely-karacsony-wegen-pride-parade-2025-fallen-gelassen-a-1c460d4f-3b1f-42e2-97be-0c384e7832ba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### hahnöfersand
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
+### gefangenenmeuterei
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei](https://www.spiegel.de/panorama/justiz/hamburg-angriff-auf-justizbeamte-in-hahnoefersand-staatsanwaltschaft-ermittelt-wegen-gefangenenmeuterei-a-9c7b34bb-bbe4-4062-bc6c-986c8785cee9#ref=rss)
 
