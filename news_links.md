@@ -6,314 +6,263 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-* [https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen](https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen-a-5b85377f-8cf6-461e-bd0c-3f62f0c948f6#ref=rss)
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
+* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland-a-133d721e-2bc8-47d9-8c2e-0daf8735d767#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat](https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat-a-08c9a373-2a9f-47b9-845a-47d4b9e93230#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren](https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren-a-8d92fd37-8b25-4911-8b9a-47b78d764571#ref=rss)
-### krank
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit](https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit-a-f00603cb-e2a7-4cf2-a4dd-674018056dd0#ref=rss)
+### ich
 
-* [https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen](https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen-a-c88676ec-627c-455e-95dd-2c6f9def3010#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen](https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen-a-7c8b7557-311f-4cd3-8927-197d984297b2#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
+* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
+* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig](https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig-a-429c3119-4682-42b5-bccf-75db0351fb3e#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z](https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z-a-5055a02e-6cc1-4ee0-ab85-314580ce2a8b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai](https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai-a-b1e5c3fd-921d-4771-b337-a4667cf0f139#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren](https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren-a-8d92fd37-8b25-4911-8b9a-47b78d764571#ref=rss)
-### offenbar
+* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z](https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z-a-5055a02e-6cc1-4ee0-ab85-314580ce2a8b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dueren-koeln-mann-klammert-sich-nach-parkplatzstreit-an-weiterfahrenden-lkw](https://www.spiegel.de/panorama/justiz/dueren-koeln-mann-klammert-sich-nach-parkplatzstreit-an-weiterfahrenden-lkw-a-e5aa1893-1c0a-4892-aaa4-2e7b92b3f7e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### new
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### fans
 
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-### afd
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
+### wm
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen-a-eaa2d5d0-5a44-4cea-9980-b804db844f60#ref=rss)
-* [https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden](https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden-a-3b2d7cfa-302e-444e-a07b-eca91b2ef4c1#ref=rss)
-### unosicherheitsrat
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat](https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat-a-08c9a373-2a9f-47b9-845a-47d4b9e93230#ref=rss)
-### wildschweine
+* [https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig](https://www.spiegel.de/ausland/migration-eugh-erklaert-deutsche-kuerzung-von-asylleistungen-fuer-rechtswidrig-a-429c3119-4682-42b5-bccf-75db0351fb3e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
+### yfood
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren](https://www.spiegel.de/wissenschaft/wildschweine-vertreiben-so-schuetzen-sie-sich-und-ihren-garten-vor-den-tieren-a-8d92fd37-8b25-4911-8b9a-47b78d764571#ref=rss)
-### scheitert
+* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
+### nestlé
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat](https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat-a-08c9a373-2a9f-47b9-845a-47d4b9e93230#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### kleinen
+* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen](https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen-a-c88676ec-627c-455e-95dd-2c6f9def3010#ref=rss)
-### richtig
-
-* [https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen](https://www.spiegel.de/familie/krank-mit-kind-wenn-papa-flachliegt-und-die-kleinen-keine-pause-kennen-a-c88676ec-627c-455e-95dd-2c6f9def3010#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht](https://www.spiegel.de/ausland/iran-krieg-und-die-usa-fuenf-gruende-warum-es-mit-einem-deal-nicht-vorangeht-a-c3f2c695-cbf0-477e-9de4-f3230fc81b08#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russlands-versuche-ukrainischen-drohnen-abzuwehren-die-zebra-lkws-brettern-durch-die-suedukraine](https://www.spiegel.de/ausland/russlands-versuche-ukrainischen-drohnen-abzuwehren-die-zebra-lkws-brettern-durch-die-suedukraine-a-e4d0b87b-e142-4524-be6a-2985c4352e8c#ref=rss)
-* [https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt](https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt-a-5dc57bb6-3e2a-469d-a273-9c3fd92e0e64#ref=rss)
-### überwachungskamera
-
-* [https://www.spiegel.de/panorama/japan-ueberwachungskamera-filmt-baerenangriff-auf-fabrikgelaende-in-fukushima](https://www.spiegel.de/panorama/japan-ueberwachungskamera-filmt-baerenangriff-auf-fabrikgelaende-in-fukushima-a-07656e16-217a-40db-90d0-1701ac831df4#ref=rss)
-### fukushima
-
-* [https://www.spiegel.de/panorama/japan-ueberwachungskamera-filmt-baerenangriff-auf-fabrikgelaende-in-fukushima](https://www.spiegel.de/panorama/japan-ueberwachungskamera-filmt-baerenangriff-auf-fabrikgelaende-in-fukushima-a-07656e16-217a-40db-90d0-1701ac831df4#ref=rss)
-### 1860
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen](https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen-a-f08fe75a-775e-4970-87a7-69f9f618a6b4#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen](https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen-a-f08fe75a-775e-4970-87a7-69f9f618a6b4#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen](https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen-a-f08fe75a-775e-4970-87a7-69f9f618a6b4#ref=rss)
-### neu
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen](https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen-a-f08fe75a-775e-4970-87a7-69f9f618a6b4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer-a-6bf11d59-0c73-4841-bd6a-d0a83f1fe54d#ref=rss)
-### club
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen](https://www.spiegel.de/sport/fussball/1860-muenchen-3-liga-traditionsclub-muss-schon-wieder-in-der-regionalliga-neu-beginnen-a-f08fe75a-775e-4970-87a7-69f9f618a6b4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer-a-6bf11d59-0c73-4841-bd6a-d0a83f1fe54d#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-### thiel
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-### wiener
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-### festwochen
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-### usmilliardär
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten](https://www.spiegel.de/kultur/peter-thiel-warum-die-wiener-festwochen-den-talk-mit-dem-us-milliardaer-absagten-a-75dda09f-1217-4359-a619-e98412d912df#ref=rss)
-* [https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum](https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum-a-ea48b6fa-2c86-4a1f-aeef-a2d8e5d4b5fa#ref=rss)
-### eli
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland-a-133d721e-2bc8-47d9-8c2e-0daf8735d767#ref=rss)
-### lilly
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/eli-lilly-us-pharmakonzern-halbiert-milliardeninvestition-in-deutschland-a-133d721e-2bc8-47d9-8c2e-0daf8735d767#ref=rss)
-### aldi
-
-* [https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum](https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum-a-ea48b6fa-2c86-4a1f-aeef-a2d8e5d4b5fa#ref=rss)
-### nord
-
-* [https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum](https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum-a-ea48b6fa-2c86-4a1f-aeef-a2d8e5d4b5fa#ref=rss)
-### salmonellen
-
-* [https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum](https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum-a-ea48b6fa-2c86-4a1f-aeef-a2d8e5d4b5fa#ref=rss)
-### basilikum
-
-* [https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum](https://www.spiegel.de/panorama/aldi-nord-warnt-vor-salmonellen-im-basilikum-a-ea48b6fa-2c86-4a1f-aeef-a2d8e5d4b5fa#ref=rss)
-### michelle
-
-* [https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z](https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z-a-5055a02e-6cc1-4ee0-ab85-314580ce2a8b#ref=rss)
-### obama
-
-* [https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z](https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z-a-5055a02e-6cc1-4ee0-ab85-314580ce2a8b#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z](https://www.spiegel.de/panorama/leute/michelle-obama-arbeit-nervt-durchhalten-raet-die-ex-first-lady-der-gen-z-a-5055a02e-6cc1-4ee0-ab85-314580ce2a8b#ref=rss)
-* [https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden](https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden-a-3b2d7cfa-302e-444e-a07b-eca91b2ef4c1#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-verkauft-autozuliefergeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-verkauft-autozuliefergeschaeft-a-78fe1099-e7a9-47ba-bfa0-931723c2ad01#ref=rss)
-### bestätigt
-
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-* [https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt](https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt-a-5dc57bb6-3e2a-469d-a273-9c3fd92e0e64#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende](https://www.spiegel.de/ausland/iran-krieg-netanyahu-sieht-konflikt-mit-teheran-noch-nicht-am-ende-a-58c1e66a-d633-4217-836d-3f63542b5b64#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/oekologischer-fussabdruck-von-kuenstlicher-intelligenz-wie-stark-schaden-sie-der-umwelt-wenn-sie-der-ki-eine-frage-stellen](https://www.spiegel.de/wissenschaft/technik/oekologischer-fussabdruck-von-kuenstlicher-intelligenz-wie-stark-schaden-sie-der-umwelt-wenn-sie-der-ki-eine-frage-stellen-a-487227eb-fdf0-4b32-b540-f9fe2e526916#ref=rss)
-### nbafinals
-
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### york
-
-* [https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen](https://www.spiegel.de/sport/basketball/nba-finals-2026-das-muessen-sie-zu-den-nba-finals-wissen-a-97b04148-09d8-4855-ba5d-f1cf964d6868#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer-a-6bf11d59-0c73-4841-bd6a-d0a83f1fe54d#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-tobias-strobl-vom-sc-verl-wird-neuer-cheftrainer-a-6bf11d59-0c73-4841-bd6a-d0a83f1fe54d#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen-a-eaa2d5d0-5a44-4cea-9980-b804db844f60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig](https://www.spiegel.de/wirtschaft/unternehmen/yfood-nestle-uebernimmt-hersteller-von-milchdrinks-vollstaendig-a-7bb4e412-801d-4ed8-b1ce-e5f7fd3cf38e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-so-koennte-das-bsw-der-afd-zur-macht-verhelfen-a-eaa2d5d0-5a44-4cea-9980-b804db844f60#ref=rss)
-### tages
+* [https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut](https://www.spiegel.de/kultur/donald-trump-diese-bilder-zeigen-wie-trump-sein-blaues-wunder-baut-a-69bb5d17-492a-4f40-853a-ab901131afae#ref=rss)
+* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
+### bewerbung
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sitz
+* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit](https://www.spiegel.de/politik/deutschland/uno-niederlage-fuer-deutschland-die-quittung-fuer-arroganz-und-prinzipienlosigkeit-a-f00603cb-e2a7-4cf2-a4dd-674018056dd0#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat](https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat-a-08c9a373-2a9f-47b9-845a-47d4b9e93230#ref=rss)
-### sankt
+* [https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde](https://www.spiegel.de/start/startklar-newsletter-was-kann-ich-tun-wenn-ich-nach-einer-bewerbung-geghostet-werde-a-96d85db4-0dca-4f71-9136-fa4b79973f80#ref=rss)
+* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
+### maven
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-### petersburg
+* [https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot](https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot-a-e2e9198e-f54f-4b7a-ab11-39a7f3ab772f#ref=rss)
+### tot
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-### wadephul
+* [https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot](https://www.spiegel.de/wissenschaft/weltall/mars-orbiter-maven-ist-nach-monatelanger-funkstille-offiziell-tot-a-e2e9198e-f54f-4b7a-ab11-39a7f3ab772f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### wetterdienst
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine](https://www.spiegel.de/politik/deutschland/news-des-tages-sitz-im-uno-sicherheitsrat-angriff-auf-sankt-petersburg-wildschweine-a-2e052568-b4df-4f44-b093-916f7b1d0937#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat](https://www.spiegel.de/politik/deutschland-scheitert-mit-bewerbung-fuer-sitz-im-uno-sicherheitsrat-a-08c9a373-2a9f-47b9-845a-47d4b9e93230#ref=rss)
-### eukommission
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-hagel-sturm-und-starkregen-a-39eb1c07-70d1-4081-a4b6-a1aebc752674#ref=rss)
+### lizenzentzug
 
-* [https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen](https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen-a-7c8b7557-311f-4cd3-8927-197d984297b2#ref=rss)
-### tech
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
+### regionalliga
 
-* [https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen](https://www.spiegel.de/politik/deutschland/digitale-unabhaengigkeit-so-will-die-eu-kommission-die-marktmacht-von-big-tech-brechen-a-7c8b7557-311f-4cd3-8927-197d984297b2#ref=rss)
-### mann
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
+### insolvenz
 
-* [https://www.spiegel.de/panorama/justiz/dueren-koeln-mann-klammert-sich-nach-parkplatzstreit-an-weiterfahrenden-lkw](https://www.spiegel.de/panorama/justiz/dueren-koeln-mann-klammert-sich-nach-parkplatzstreit-an-weiterfahrenden-lkw-a-e5aa1893-1c0a-4892-aaa4-2e7b92b3f7e9#ref=rss)
-* [https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen](https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen-a-5b85377f-8cf6-461e-bd0c-3f62f0c948f6#ref=rss)
-### schnecken
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/1860-muenchen-lizenzentzug-abstieg-in-die-regionalliga-drohene-insolvenz-das-sind-die-gruende-a-77890f24-3e50-42b9-afb5-c4523d70ae77#ref=rss)
+### tom
 
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-schnecken-so-langsam](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-schnecken-so-langsam-a-24d0d510-c244-4ce7-9882-eac3d4f840ba#ref=rss)
-### spiegel
+* [https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen](https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen-a-f4aa1659-8da1-4a49-9455-8a3c4ca552a9#ref=rss)
+### holland
 
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-schnecken-so-langsam](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-schnecken-so-langsam-a-24d0d510-c244-4ce7-9882-eac3d4f840ba#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### intelligenz
+* [https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen](https://www.spiegel.de/kultur/kino/tom-holland-hat-angst-vorm-vorlesen-a-f4aa1659-8da1-4a49-9455-8a3c4ca552a9#ref=rss)
+### neuweltschraubenwurmfliege
 
-* [https://www.spiegel.de/wissenschaft/technik/oekologischer-fussabdruck-von-kuenstlicher-intelligenz-wie-stark-schaden-sie-der-umwelt-wenn-sie-der-ki-eine-frage-stellen](https://www.spiegel.de/wissenschaft/technik/oekologischer-fussabdruck-von-kuenstlicher-intelligenz-wie-stark-schaden-sie-der-umwelt-wenn-sie-der-ki-eine-frage-stellen-a-487227eb-fdf0-4b32-b540-f9fe2e526916#ref=rss)
-### partei
+* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+### kalb
 
-* [https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden](https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden-a-3b2d7cfa-302e-444e-a07b-eca91b2ef4c1#ref=rss)
-### 2022
+* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden](https://www.spiegel.de/politik/afd-hessen-partei-darf-als-verdachtsfall-eingestuft-werden-a-3b2d7cfa-302e-444e-a07b-eca91b2ef4c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### spanien
+* [https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas](https://www.spiegel.de/wissenschaft/natur/neuwelt-schraubenwurmfliege-fleischfressender-parasit-befaellt-kalb-in-texas-a-2e11bd55-1826-4ff2-9bb9-aa77e1e81cd8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online](https://www.spiegel.de/netzwelt/web/deutschland-ist-weniger-online-a-f4aa8357-7766-4d58-ba70-f99afe5178df#ref=rss)
+### karim
 
-* [https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai](https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai-a-b1e5c3fd-921d-4771-b337-a4667cf0f139#ref=rss)
-### mai
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
+### adeyemi
 
-* [https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai](https://www.spiegel.de/wissenschaft/mensch/spanien-meldet-hoechstzahl-an-hitzetoten-fuer-den-monat-mai-a-b1e5c3fd-921d-4771-b337-a4667cf0f139#ref=rss)
-### felix
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein](https://www.spiegel.de/sport/fussball/karim-adeyemi-ueber-waffenbesitz-wenn-ich-es-bestellen-kann-kann-es-niemals-illegal-sein-a-965895d5-085f-4326-9424-65c839c39bf3#ref=rss)
+### ökonom
 
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### banaszak
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### oliver
 
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### grünencochef
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### koppel
 
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### nachzahlen
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### patente
 
-* [https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen](https://www.spiegel.de/politik/deutschland/felix-banaszak-gruenen-co-chef-muss-wegen-zweitwohnsitz-wohl-steuern-nachzahlen-a-57ddd65d-bbf1-4f64-bbfa-7c1f65b9b2d7#ref=rss)
-### bill
+* [https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente](https://www.spiegel.de/wirtschaft/china-und-deutschland-oekonom-oliver-koppel-warnt-vor-ausverkauf-deutscher-patente-a-2d93592a-c234-45db-84dc-bac167fa04c7#ref=rss)
+### munition
 
-* [https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen](https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen-a-5b85377f-8cf6-461e-bd0c-3f62f0c948f6#ref=rss)
-### pulte
+* [https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition](https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition-a-aa62064e-9fb8-448b-a317-269d9c558b5a#ref=rss)
+### tod
 
-* [https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen](https://www.spiegel.de/ausland/bill-pulte-wer-ist-der-mann-den-sie-little-trump-nennen-a-5b85377f-8cf6-461e-bd0c-3f62f0c948f6#ref=rss)
-### fragen
+* [https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition](https://www.spiegel.de/panorama/justiz/polizist-der-gsg-9-toedlich-verletzt-kollege-vertauschte-offenbar-munition-a-aa62064e-9fb8-448b-a317-269d9c558b5a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### marjane
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### satrapi
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sazan
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### 56
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### ivanka
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### albanischen
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+### film
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### insel
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### privates
+* [https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben](https://www.spiegel.de/kultur/literatur/marjane-satrapi-ist-tot-persepolis-autorin-mit-56-jahren-gestorben-a-f56fbc9a-9d8a-462c-a7a8-e44431dd3eea#ref=rss)
+* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### luxusresort
+* [https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen](https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen-a-cb6b4be7-9ed2-41c8-82c6-21ffeeaa3a51#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen](https://www.spiegel.de/ausland/sazan-ivanka-trump-und-jared-kushner-wollen-aus-der-albanischen-insel-ein-privates-luxusresort-machen-a-52117cf0-e0a6-4edd-894f-1ed6f320ad12#ref=rss)
-### prag
+* [https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen](https://www.spiegel.de/panorama/hannover-oberleitungsschaden-auf-bahnstrecke-auch-fernverkehr-betroffen-a-cb6b4be7-9ed2-41c8-82c6-21ffeeaa3a51#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an](https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an-a-571e9043-9dd5-4059-acc3-c932f902627a#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet](https://www.spiegel.de/panorama/israel-wie-mein-koffer-in-den-nahostkonflikt-geriet-a-dc0d9c47-b40d-4d77-ba78-3ef3d6f347a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+### mücken
 
-* [https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an](https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an-a-571e9043-9dd5-4059-acc3-c932f902627a#ref=rss)
-### mondstaub
+* [https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will](https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will-a-a76b9d71-c17d-4d83-bdcf-6bc2966feb5e#ref=rss)
+### freisetzen
 
-* [https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an](https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an-a-571e9043-9dd5-4059-acc3-c932f902627a#ref=rss)
-### akademie
+* [https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will](https://www.spiegel.de/wissenschaft/google-projekt-debug-warum-der-konzern-millionen-muecken-freisetzen-will-a-a76b9d71-c17d-4d83-bdcf-6bc2966feb5e#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an](https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an-a-571e9043-9dd5-4059-acc3-c932f902627a#ref=rss)
-### wissenschaften
+* [https://www.spiegel.de/panorama/justiz/afd-prozess-um-alice-weidels-goldschatz-gutachterin-haelt-testament-fuer-unwirksam](https://www.spiegel.de/panorama/justiz/afd-prozess-um-alice-weidels-goldschatz-gutachterin-haelt-testament-fuer-unwirksam-a-b026f5c4-9203-4a4b-a903-dbd9de959038#ref=rss)
+### martin
 
-* [https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an](https://www.spiegel.de/wissenschaft/prag-oberstes-gericht-ordnet-uebergabe-von-einem-gramm-mondstaub-an-die-akademie-der-wissenschaften-an-a-571e9043-9dd5-4059-acc3-c932f902627a#ref=rss)
-### qualifikantin
+* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
+### kaymer
 
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### aryna
+* [https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme](https://www.spiegel.de/sport/golf/golf-mit-schmerzmitteln-zugeballert-martin-kaymer-spricht-ueber-gesundheitliche-probleme-a-87e3d613-0b98-4d66-b9cb-14ef8a9fd02f#ref=rss)
+### potsdam
 
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### sabalenka
+* [https://www.spiegel.de/netzwelt/web/smart-glasses-potsdam-will-heimliche-aufnahmen-in-schwimmbaedern-verhindern](https://www.spiegel.de/netzwelt/web/smart-glasses-potsdam-will-heimliche-aufnahmen-in-schwimmbaedern-verhindern-a-41316353-ec2e-4758-aa48-5895efcb1cfe#ref=rss)
+### dao
 
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### diana
+* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
+### alain
 
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### schnaider
+* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
+### gomis
 
-* [https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider](https://www.spiegel.de/sport/tennis/french-open-qualifikantin-maja-chwalinska-im-halbfinale-aryna-sabalenka-scheitert-an-diana-schnaider-a-f8050f04-607a-40ce-9d50-81e9a7a01d49#ref=rss)
-### gerhard
+* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt](https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt-a-5dc57bb6-3e2a-469d-a273-9c3fd92e0e64#ref=rss)
-### schröder
+* [https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden](https://www.spiegel.de/kultur/kino/dao-von-alain-gomis-bei-dieser-familienfeier-bleibt-man-gerne-drei-stunden-a-7fb9f01a-0da8-4c59-bc00-f549518e821d#ref=rss)
+* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
+### sophie
 
-* [https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt](https://www.spiegel.de/ausland/gerhard-schroeder-in-russland-russische-agentur-tass-bestaetigt-a-5dc57bb6-3e2a-469d-a273-9c3fd92e0e64#ref=rss)
+* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
+### sydow
+
+* [https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen](https://www.spiegel.de/start/tierphysiotherapie-sophie-sydow-erzaehlt-von-ausbildung-aufgaben-und-einkommen-a-f8c03375-de6d-455e-8f89-043fe64eb233#ref=rss)
+### abschiebezentren
+
+* [https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas](https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas-a-88a7869b-e3c1-4fcb-a211-1b07933b3b75#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas](https://www.spiegel.de/politik/deutschland/return-hubs-expertin-kritisiert-eu-plaene-zu-abschiebezentren-ausserhalb-europas-a-88a7869b-e3c1-4fcb-a211-1b07933b3b75#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
+### john
+
+* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
+### d
+
+* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
+### rockefeller
+
+* [https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte](https://www.spiegel.de/geschichte/ida-tarbell-wie-eine-journalistin-john-d-rockefeller-zu-fall-brachte-a-f447519e-418b-4c58-afdd-9ec3ec4901a4#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden](https://www.spiegel.de/politik/deutschland/israel-und-die-spd-worueber-lars-klingbeil-und-baerbel-bas-lieber-nicht-reden-a-ab4698d3-d5d7-4f4b-a582-f70fb7dcf997#ref=rss)
+### kühe
+
+* [https://www.spiegel.de/panorama/wolfhagen-in-hessen-ausgebuexte-kuehe-spazieren-durch-krankenhaus](https://www.spiegel.de/panorama/wolfhagen-in-hessen-ausgebuexte-kuehe-spazieren-durch-krankenhaus-a-f18ae414-43a4-456c-88da-e69a0cce55aa#ref=rss)
+### uspräsidentschaftswahl
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio](https://www.spiegel.de/ausland/us-praesidentschaftswahl-2028-donald-trump-setzt-auf-duo-jd-vance-und-marco-rubio-a-6a658eb8-7464-45bf-95b2-26b0f6dbdb29#ref=rss)
+### flaschen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
+### stadion
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen](https://www.spiegel.de/sport/fussball/wm-2026-fifa-verbietet-fans-leere-flaschen-mit-ins-stadion-zu-bringen-a-a122341a-b3f4-4440-ac0e-64d8a1afccbd#ref=rss)
+### verbraucherzentralen
+
+* [https://www.spiegel.de/wirtschaft/strom-verbraucherzentralen-fordern-senkung-der-stromsteuer-fuer-alle](https://www.spiegel.de/wirtschaft/strom-verbraucherzentralen-fordern-senkung-der-stromsteuer-fuer-alle-a-761b750e-e59c-4349-a82e-279a0143b774#ref=rss)
 
