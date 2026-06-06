@@ -4,315 +4,297 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gesundheitsreform-wie-die-pharmalobby-die-politik-torpediert](https://www.spiegel.de/wirtschaft/unternehmen/gesundheitsreform-wie-die-pharmalobby-die-politik-torpediert-a-f94d53bb-1cd1-4e63-b088-2488e93a994a#ref=rss)
-* [https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland](https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland-a-9bb00f4e-412f-49ba-bd5b-be767359d7ce#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt](https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt-a-e8f246ef-5a13-4c1d-bcbd-9d776ce19731#ref=rss)
-### wm
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern](https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern-a-b4282680-735a-4e07-a7f5-81e3100f1e96#ref=rss)
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+* [https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben](https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben-a-941974dd-9237-4377-ae7a-f2da24106fc7#ref=rss)
+### monaco
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt](https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt-a-e8f246ef-5a13-4c1d-bcbd-9d776ce19731#ref=rss)
-### kanzler
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream-a-78d6147c-704e-4eb4-b8b6-5073f5e5bac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### lennart
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend-a-b20c3e36-fb44-4f69-b9ea-cb8f2b2d7845#ref=rss)
+* [https://www.spiegel.de/deinspiegel/tierfuehrerschein-das-pro-und-contra](https://www.spiegel.de/deinspiegel/tierfuehrerschein-das-pro-und-contra-a-27a94147-4fb3-41f8-bd9e-af841c75654f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung](https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung-a-48ce2c7a-61b3-402c-bca3-9707bcd913da#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### karl
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das-a-d1df85bf-a5fa-447d-82b8-c6355858dd58#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel](https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel-a-4b04646b-5059-4401-a371-afc47c38aa1d#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel](https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel-a-4b04646b-5059-4401-a371-afc47c38aa1d#ref=rss)
+* [https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich](https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich-a-760bda5c-94c4-49cf-a39d-ab422a442bcd#ref=rss)
+### kim
 
-* [https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim](https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim-a-af9adc71-95ea-43c1-9088-edcd3ddd19dc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen](https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen-a-4a322421-995c-4dc4-bb56-5a8813d890f4#ref=rss)
-### fall
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+### kardashian
 
-* [https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim](https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim-a-af9adc71-95ea-43c1-9088-edcd3ddd19dc#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann](https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-a-7d41453e-1679-489d-b631-db371379171f#ref=rss)
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### künstliche
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+### lewis
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen-a-01e60dcd-a6ac-4532-b036-0078d7c1125a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach](https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach-a-4b554e0b-efef-4262-a992-1083c3007edb#ref=rss)
-### intelligenz
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+### hamilton
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen-a-01e60dcd-a6ac-4532-b036-0078d7c1125a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach](https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach-a-4b554e0b-efef-4262-a992-1083c3007edb#ref=rss)
-### wir
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+### paris
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen-a-01e60dcd-a6ac-4532-b036-0078d7c1125a#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann](https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-a-7d41453e-1679-489d-b631-db371379171f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes](https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes-a-85b4987c-95a1-4926-a0ea-c28c7831f183#ref=rss)
-### spacex
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+### oft
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung](https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung-a-32532c62-d3dd-4e51-add8-22426e067601#ref=rss)
-### fragen
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+### großen
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-### tag
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+### preis
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm-a-d6d92199-2df7-45a0-b2eb-4ef333e1e980#ref=rss)
-### meinungsfreiheit
+* [https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/monaco-kim-kardashian-schon-wieder-in-der-naehe-von-lewis-hamilton-a-ab9bd950-5766-437c-a799-dc75fd7f473e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart](https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart-a-24185f7b-7380-405d-aa91-899a9fb64358#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege](https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege-a-aa035f88-4150-47f9-ab0c-a1f3e5ada4c3#ref=rss)
+### verhängt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream-a-78d6147c-704e-4eb4-b8b6-5073f5e5bac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### merz
+* [https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege](https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege-a-aa035f88-4150-47f9-ab0c-a1f3e5ada4c3#ref=rss)
+### texas
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream-a-78d6147c-704e-4eb4-b8b6-5073f5e5bac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### 2026
+* [https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege](https://www.spiegel.de/wissenschaft/kanada-verhaengt-einfuhrverbot-fuer-rinder-aus-texas-wegen-neuwelt-schraubenwurmfliege-a-aa035f88-4150-47f9-ab0c-a1f3e5ada4c3#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
+* [https://www.spiegel.de/panorama/drogen-dreck-chaos-in-berlin-brennpunkt-kottbusser-tor-spiegel-tv](https://www.spiegel.de/panorama/drogen-dreck-chaos-in-berlin-brennpunkt-kottbusser-tor-spiegel-tv-a-948ea33d-f6d6-46e5-8be0-939b450ca66d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen](https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen-a-948fc339-c8ad-42c4-87bc-7c552850dc0d#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/drogen-dreck-chaos-in-berlin-brennpunkt-kottbusser-tor-spiegel-tv](https://www.spiegel.de/panorama/drogen-dreck-chaos-in-berlin-brennpunkt-kottbusser-tor-spiegel-tv-a-948ea33d-f6d6-46e5-8be0-939b450ca66d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+### impfstoffe
+
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend-a-b20c3e36-fb44-4f69-b9ea-cb8f2b2d7845#ref=rss)
+### ebolavirus
+
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend-a-b20c3e36-fb44-4f69-b9ea-cb8f2b2d7845#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen](https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen-a-948fc339-c8ad-42c4-87bc-7c552850dc0d#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend-a-b20c3e36-fb44-4f69-b9ea-cb8f2b2d7845#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### mittel
+
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-in-afrika-diese-impfstoffe-gelten-als-besonders-vielversprechend-a-b20c3e36-fb44-4f69-b9ea-cb8f2b2d7845#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel](https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel-a-4b04646b-5059-4401-a371-afc47c38aa1d#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente](https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente-a-34e2abdb-205b-42b2-bc9f-da09f5293af0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern](https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern-a-b4282680-735a-4e07-a7f5-81e3100f1e96#ref=rss)
+### elterngeld
+
+* [https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente](https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente-a-34e2abdb-205b-42b2-bc9f-da09f5293af0#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente](https://www.spiegel.de/politik/johannes-winkel-chef-der-jungen-union-fordert-weniger-erhoehung-der-rente-a-34e2abdb-205b-42b2-bc9f-da09f5293af0#ref=rss)
+* [https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen](https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen-a-91f2c40c-30ad-41c0-93c3-111583794079#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### wirtz
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-### deutsche
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt](https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt-a-e8f246ef-5a13-4c1d-bcbd-9d776ce19731#ref=rss)
-### verletzung
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### parteitag
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+### vier
 
-* [https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim](https://www.spiegel.de/politik/deutschland/afd-finanzaffaere-beschaeftigt-parteitag-in-heidenheim-a-af9adc71-95ea-43c1-9088-edcd3ddd19dc#ref=rss)
-### neuen
+* [https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen](https://www.spiegel.de/sport/fussball/dfb-vor-fussball-wm-2026-in-den-usa-unter-donald-trump-schweigen-aussitzen-ausweichen-a-7dddec71-db7b-4ec7-a7e1-abe26f93ee86#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern](https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern-a-b4282680-735a-4e07-a7f5-81e3100f1e96#ref=rss)
+### bushido
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wir-sollten-unbedingt-aufhoeren-der-ki-alles-zuzutrauen-a-01e60dcd-a6ac-4532-b036-0078d7c1125a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin](https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin-a-f28bb2b2-427d-4485-827d-ed0d323867c7#ref=rss)
-### börsengang
+* [https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt](https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt-a-7271bee4-4698-4e85-9a68-9e8bc8557e85#ref=rss)
+### rapper
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-### experten
+* [https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt](https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt-a-7271bee4-4698-4e85-9a68-9e8bc8557e85#ref=rss)
+### sex
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-### risiken
+* [https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt](https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt-a-7271bee4-4698-4e85-9a68-9e8bc8557e85#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt](https://www.spiegel.de/panorama/leute/bushido-rapper-muss-nach-sex-ins-mrt-a-7271bee4-4698-4e85-9a68-9e8bc8557e85#ref=rss)
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+### zdfdoku
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung](https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung-a-32532c62-d3dd-4e51-add8-22426e067601#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen](https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen-a-91f2c40c-30ad-41c0-93c3-111583794079#ref=rss)
+### entlassen
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung](https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung-a-32532c62-d3dd-4e51-add8-22426e067601#ref=rss)
-### vorsicht
+* [https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen](https://www.spiegel.de/panorama/jobcenter-mitarbeiter-nach-kritik-in-zdf-doku-entlassen-a-91f2c40c-30ad-41c0-93c3-111583794079#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen](https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen-a-948fc339-c8ad-42c4-87bc-7c552850dc0d#ref=rss)
+### einige
 
-* [https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger](https://www.spiegel.de/wirtschaft/service/boersengang-von-spacex-experten-warnen-vor-risiken-fuer-privatanleger-a-ec9de7d2-8b2d-4fcf-a49d-88ca01b0273b#ref=rss)
-* [https://www.spiegel.de/panorama/australien-taucher-stirbt-nach-hai-attacke-vor-der-kueste](https://www.spiegel.de/panorama/australien-taucher-stirbt-nach-hai-attacke-vor-der-kueste-a-91cead72-8ef1-4c6c-a0e1-0b9792996cec#ref=rss)
-### sieben
+* [https://www.spiegel.de/deinspiegel/tierfuehrerschein-das-pro-und-contra](https://www.spiegel.de/deinspiegel/tierfuehrerschein-das-pro-und-contra-a-27a94147-4fb3-41f8-bd9e-af841c75654f#ref=rss)
+* [https://www.spiegel.de/tests/kueche/wasserkocher-von-kitchenaid-aarke-ritter-russel-hobbs-und-gastroback-im-test](https://www.spiegel.de/tests/kueche/wasserkocher-von-kitchenaid-aarke-ritter-russel-hobbs-und-gastroback-im-test-a-f40d3a39-6c9a-4d08-934a-ab9efcdc3c6e#ref=rss)
+### french
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/us-armee-attackiert-ziele-in-iran-luftalarm-in-zwei-golfstaaten](https://www.spiegel.de/ausland/us-armee-attackiert-ziele-in-iran-luftalarm-in-zwei-golfstaaten-a-1e9b443f-ff18-4500-aa5a-9210e72091e4#ref=rss)
-### sollte
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+### open
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### lügenfritz
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+### mirra
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart](https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart-a-24185f7b-7380-405d-aa91-899a9fb64358#ref=rss)
-### dürfen
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen](https://www.spiegel.de/politik/deutschland/meinungsfreiheit-in-deutschland-sollte-man-den-kanzler-luegenfritz-nennen-duerfen-a-710647b8-f2f7-4f50-b0b1-bb1c2285988c#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-### dua
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern](https://www.spiegel.de/politik/deutschland/altersbezuege-vier-jahre-bundestag-entsprechen-28-jahren-von-durchschnittsverdienern-a-b4282680-735a-4e07-a7f5-81e3100f1e96#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren](https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren-a-9a5d76cb-18f8-4c9e-b352-121af653e894#ref=rss)
-### lipa
+* [https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska](https://www.spiegel.de/sport/tennis/french-open-mirra-andreeva-gewinnt-finale-gegen-maja-chwalinska-a-72d9295c-3561-47b7-bc5c-977f05cabb0c#ref=rss)
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren](https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren-a-9a5d76cb-18f8-4c9e-b352-121af653e894#ref=rss)
-### hochzeit
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung](https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung-a-48ce2c7a-61b3-402c-bca3-9707bcd913da#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren](https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren-a-9a5d76cb-18f8-4c9e-b352-121af653e894#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung](https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung-a-48ce2c7a-61b3-402c-bca3-9707bcd913da#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben-a-e5fe7f03-eabc-4db9-a556-3c124c4d4f95#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren](https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren-a-9a5d76cb-18f8-4c9e-b352-121af653e894#ref=rss)
-* [https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland](https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland-a-9bb00f4e-412f-49ba-bd5b-be767359d7ce#ref=rss)
-### allen
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung](https://www.spiegel.de/ausland/russland-ukraine-krieg-alltag-in-kyjiw-trotz-russischer-grossangriffe-und-zerstoerung-a-48ce2c7a-61b3-402c-bca3-9707bcd913da#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben-a-e5fe7f03-eabc-4db9-a556-3c124c4d4f95#ref=rss)
+### new
 
-* [https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren](https://www.spiegel.de/panorama/leute/dua-lipa-feiert-hochzeit-auf-silizien-buerger-protestieren-a-9a5d76cb-18f8-4c9e-b352-121af653e894#ref=rss)
-* [https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes](https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes-a-85b4987c-95a1-4926-a0ea-c28c7831f183#ref=rss)
-### linstow
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### york
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-kanzler-beim-cdu-landesparteitag-in-linstow-livestream-a-78d6147c-704e-4eb4-b8b6-5073f5e5bac3#ref=rss)
-### union
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### knicks
 
-* [https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart](https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart-a-24185f7b-7380-405d-aa91-899a9fb64358#ref=rss)
-### strafrecht
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### nbafinals
 
-* [https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart](https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart-a-24185f7b-7380-405d-aa91-899a9fb64358#ref=rss)
-### spd
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### feiern
 
-* [https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart](https://www.spiegel.de/politik/deutschland/luegenfritz-fall-die-union-will-das-strafrecht-aendern-doch-die-spd-bleibt-hart-a-24185f7b-7380-405d-aa91-899a9fb64358#ref=rss)
-### flughafen
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm-a-d6d92199-2df7-45a0-b2eb-4ef333e1e980#ref=rss)
-### offenbar
+* [https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-finals-basketballparty-in-manhattan-nach-sieg-der-new-york-knicks-a-81d77289-059c-47e3-a3fb-ae07af5f3f46#ref=rss)
+* [https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich](https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich-a-760bda5c-94c4-49cf-a39d-ab422a442bcd#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-legen-petersburger-flughafen-zeitweise-lahm-a-d6d92199-2df7-45a0-b2eb-4ef333e1e980#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-### taylor
+* [https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet](https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet-a-11db8ef6-1659-424c-b2ef-6da827c978ef#ref=rss)
+### baby
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin](https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin-a-f28bb2b2-427d-4485-827d-ed0d323867c7#ref=rss)
-### swift
+* [https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet](https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet-a-11db8ef6-1659-424c-b2ef-6da827c978ef#ref=rss)
+### westjordanland
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin](https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin-a-f28bb2b2-427d-4485-827d-ed0d323867c7#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet](https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet-a-11db8ef6-1659-424c-b2ef-6da827c978ef#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin](https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin-a-f28bb2b2-427d-4485-827d-ed0d323867c7#ref=rss)
-### milliardärin
+* [https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet](https://www.spiegel.de/ausland/israel-baby-im-westjordanland-nach-palaestinensischen-angaben-durch-soldaten-getoetet-a-11db8ef6-1659-424c-b2ef-6da827c978ef#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin](https://www.spiegel.de/panorama/leute/taylor-swift-laut-forbes-nun-zweifache-milliardaerin-a-f28bb2b2-427d-4485-827d-ed0d323867c7#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/wissenschaft/medizin/transplantationen-zahl-der-organspenden-in-deutschland-gestiegen](https://www.spiegel.de/wissenschaft/medizin/transplantationen-zahl-der-organspenden-in-deutschland-gestiegen-a-2ac35530-757c-4929-b064-0a98c37a186a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch-a-1109ef66-6d04-472d-95ea-ac44e0013c29#ref=rss)
+### senna
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-### florian
+* [https://www.spiegel.de/kultur/senna-gammour-ueber-maenner-willst-du-dir-das-wirklich-antun-schwester](https://www.spiegel.de/kultur/senna-gammour-ueber-maenner-willst-du-dir-das-wirklich-antun-schwester-a-f2a97b00-ea3a-402f-937d-9dbaa6b1ecad#ref=rss)
+### gammour
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-### fällt
+* [https://www.spiegel.de/kultur/senna-gammour-ueber-maenner-willst-du-dir-das-wirklich-antun-schwester](https://www.spiegel.de/kultur/senna-gammour-ueber-maenner-willst-du-dir-das-wirklich-antun-schwester-a-f2a97b00-ea3a-402f-937d-9dbaa6b1ecad#ref=rss)
+### putin
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler](https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-vs-deutschland-florian-wirtz-ist-jetzt-der-deutsche-schluesselspieler-a-b696cc79-0feb-4ba9-b1c2-e38a614f1e70#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### 18jährige
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben-a-e5fe7f03-eabc-4db9-a556-3c124c4d4f95#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### verpasst
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-warum-verhandlungen-mit-wladimir-putin-jetzt-wenig-aussicht-haben-a-e5fe7f03-eabc-4db9-a556-3c124c4d4f95#ref=rss)
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+### freundlichkeit
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel](https://www.spiegel.de/sport/fussball/lennart-karl-beim-abschied-fliessen-offenbar-traenen-im-team-hotel-a-5f139f03-8691-4ab6-a09b-fcf24e937ba1#ref=rss)
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### roland
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann](https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-a-7d41453e-1679-489d-b631-db371379171f#ref=rss)
-### weißmann
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch-a-1109ef66-6d04-472d-95ea-ac44e0013c29#ref=rss)
+### rené
 
-* [https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann](https://www.spiegel.de/ausland/oesterreich-podcast-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-a-7d41453e-1679-489d-b631-db371379171f#ref=rss)
-### ilmkreis
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+### borbonus
 
-* [https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen](https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen-a-4a322421-995c-4dc4-bb56-5a8813d890f4#ref=rss)
-### landrätin
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen](https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen-a-4a322421-995c-4dc4-bb56-5a8813d890f4#ref=rss)
-### beschluss
+* [https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus](https://www.spiegel.de/psychologie/freundlichkeit-wie-wirke-ich-freundlicher-podcast-mit-rene-borbonus-a-cf3eda06-408a-4a6e-b380-f725b80e56a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das-a-d1df85bf-a5fa-447d-82b8-c6355858dd58#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen](https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen-a-4a322421-995c-4dc4-bb56-5a8813d890f4#ref=rss)
-### kippen
+* [https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass](https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass-a-b4c7671e-3d05-4ee5-8768-88fe1762265d#ref=rss)
+### kind
 
-* [https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen](https://www.spiegel.de/panorama/gesellschaft/ilm-kreis-thueringen-afd-gegen-demokratie-leben-landraetin-will-beschluss-kippen-a-4a322421-995c-4dc4-bb56-5a8813d890f4#ref=rss)
-### faltbare
+* [https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass](https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass-a-b4c7671e-3d05-4ee5-8768-88fe1762265d#ref=rss)
+### getränkemarkt
 
-* [https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes](https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes-a-85b4987c-95a1-4926-a0ea-c28c7831f183#ref=rss)
-### ebikes
+* [https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass](https://www.spiegel.de/panorama/metzingen-polizei-findet-vermisstes-kind-in-5000-liter-saftfass-a-b4c7671e-3d05-4ee5-8768-88fe1762265d#ref=rss)
+### frédéric
 
-* [https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes](https://www.spiegel.de/mobilitaet/faltbare-e-bikes-im-test-brompton-cube-dahon-tern-uto-vello-bikes-a-85b4987c-95a1-4926-a0ea-c28c7831f183#ref=rss)
-### nvidia
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+### vasseur
 
-* [https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach](https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach-a-4b554e0b-efef-4262-a992-1083c3007edb#ref=rss)
-### ibm
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+### findet
 
-* [https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach](https://www.spiegel.de/wirtschaft/nach-ki-hype-an-der-boerse-us-aktien-geben-nach-a-4b554e0b-efef-4262-a992-1083c3007edb#ref=rss)
-### neonazi
+* [https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik](https://www.spiegel.de/sport/formel1/monaco-ferrari-teamchef-frederic-vasseur-in-klinik-a-a14aca33-e8bf-44ba-aac4-2085fd6990b3#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel](https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel-a-4b04646b-5059-4401-a371-afc47c38aa1d#ref=rss)
+### charité
 
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### rathaus
+* [https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen](https://www.spiegel.de/wissenschaft/medizin/ebolapatient-aus-berliner-charite-entlassen-a-948fc339-c8ad-42c4-87bc-7c552850dc0d#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-nutzt-zitat-von-angela-merkel-bei-sozialreformen-wir-schaffen-das-a-d1df85bf-a5fa-447d-82b8-c6355858dd58#ref=rss)
+### bevölkerungsdeckel
 
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-### überall
+* [https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel](https://www.spiegel.de/ausland/schweiz-verpasst-sich-das-land-einen-bevoelkerungsdeckel-a-4b04646b-5059-4401-a371-afc47c38aa1d#ref=rss)
+### boards
 
-* [https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz](https://www.spiegel.de/politik/deutschland/news-kanzler-im-ost-wahlkampf-neonazi-fuers-rathaus-bundeswehr-als-abenteuerspielplatz-a-0cec02e3-ce34-4355-96d0-26a089dd78c9#ref=rss)
-* [https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen](https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen-a-a668ff3c-3f79-4ab5-9087-0090dc465d14#ref=rss)
-### elf
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+### of
 
-* [https://www.spiegel.de/reise/camping-elf-tipps-mit-denen-sie-richtig-geld-sparen](https://www.spiegel.de/reise/camping-elf-tipps-mit-denen-sie-richtig-geld-sparen-a-ed43b9b9-c8c0-4cb1-8a3d-3e0cc4559064#ref=rss)
-### denen
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+### canada
 
-* [https://www.spiegel.de/reise/camping-elf-tipps-mit-denen-sie-richtig-geld-sparen](https://www.spiegel.de/reise/camping-elf-tipps-mit-denen-sie-richtig-geld-sparen-a-ed43b9b9-c8c0-4cb1-8a3d-3e0cc4559064#ref=rss)
-### keime
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+### gegenwärtig
 
-* [https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen](https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen-a-a668ff3c-3f79-4ab5-9087-0090dc465d14#ref=rss)
-### flugzeug
+* [https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt](https://www.spiegel.de/kultur/musik/boards-of-canada-so-duester-und-gegenwaertig-dass-es-schmerzt-a-dd7a3309-4393-49b8-a748-e41c098fc454#ref=rss)
+### test
 
-* [https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen](https://www.spiegel.de/reise/keime-im-flugzeug-wie-sie-sich-an-bord-vor-bakterien-und-viren-schuetzen-a-a668ff3c-3f79-4ab5-9087-0090dc465d14#ref=rss)
-### iran
+* [https://www.spiegel.de/tests/kueche/wasserkocher-von-kitchenaid-aarke-ritter-russel-hobbs-und-gastroback-im-test](https://www.spiegel.de/tests/kueche/wasserkocher-von-kitchenaid-aarke-ritter-russel-hobbs-und-gastroback-im-test-a-f40d3a39-6c9a-4d08-934a-ab9efcdc3c6e#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/ausland/us-armee-attackiert-ziele-in-iran-luftalarm-in-zwei-golfstaaten](https://www.spiegel.de/ausland/us-armee-attackiert-ziele-in-iran-luftalarm-in-zwei-golfstaaten-a-1e9b443f-ff18-4500-aa5a-9210e72091e4#ref=rss)
-### fans
+* [https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich](https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich-a-760bda5c-94c4-49cf-a39d-ab422a442bcd#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien](https://www.spiegel.de/sport/wm-2026-fifa-erlaubt-fans-doch-wasserflaschen-in-den-stadien-a-ca248781-59d0-4b35-bd1b-3aecb77ed931#ref=rss)
-### google
+* [https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich](https://www.spiegel.de/panorama/gefaehrliche-extremsportart-deutscher-wingsuit-flieger-verunglueckt-toedlich-a-760bda5c-94c4-49cf-a39d-ab422a442bcd#ref=rss)
+* [https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben](https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben-a-941974dd-9237-4377-ae7a-f2da24106fc7#ref=rss)
+### leo
 
-* [https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung](https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung-a-32532c62-d3dd-4e51-add8-22426e067601#ref=rss)
-### kirechenleistung
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch-a-1109ef66-6d04-472d-95ea-ac44e0013c29#ref=rss)
+### xiv
 
-* [https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung](https://www.spiegel.de/wirtschaft/spacex-kurz-vor-boersengang-mega-deal-mit-google-ueber-ki-rechenleistung-a-32532c62-d3dd-4e51-add8-22426e067601#ref=rss)
-### eukommission
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ich-lerne-spaet-in-der-nacht-deutsch-a-1109ef66-6d04-472d-95ea-ac44e0013c29#ref=rss)
+### bernadette
 
-* [https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland](https://www.spiegel.de/politik/eu-kommission-fordert-erneut-ende-der-grenzkontrollen-in-deutschland-a-9bb00f4e-412f-49ba-bd5b-be767359d7ce#ref=rss)
-### sprengstoffbeladene
+* [https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben](https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben-a-941974dd-9237-4377-ae7a-f2da24106fc7#ref=rss)
+### chirac
 
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-### seedrohne
-
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-### ferieninsel
-
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel](https://www.spiegel.de/ausland/ukraine-kiew-entschuldigt-sich-fuer-sprengstoffbeladene-seedrohne-vor-ferieninsel-a-43cb786e-7460-43ef-824d-16e0db0123b0#ref=rss)
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### schock
-
-* [https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus](https://www.spiegel.de/sport/lennart-karl-faellt-fuer-fussball-wm-aus-a-5b513eb3-4687-40e0-bfb6-34e4b19401dc#ref=rss)
-### henry
-
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### nowak
-
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor](https://www.spiegel.de/panorama/henry-nowak-grossbritannien-wirft-usa-einmischung-vor-a-080c39a7-354b-432b-8e8e-53c2c6ee19cb#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt](https://www.spiegel.de/sport/fussball/dfb-frauen-deutschland-schlaegt-norwegen-qualifikation-fuer-wm-2027-in-brasilien-geglueckt-a-e8f246ef-5a13-4c1d-bcbd-9d776ce19731#ref=rss)
+* [https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben](https://www.spiegel.de/ausland/bernadette-chirac-ehemalige-premiere-dame-frankreichs-mit-93-jahren-gestorben-a-941974dd-9237-4377-ae7a-f2da24106fc7#ref=rss)
 
