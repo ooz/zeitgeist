@@ -4,247 +4,307 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### apple
+### viele
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere-a-7b4a035d-8188-4ed1-bd33-bce068e05ae9#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren](https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren-a-4988d6e8-a8db-4eb4-b520-ddadb3336577#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea](https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea-a-33160732-a921-41ba-ac63-8c09b3ab62d7#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven](https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven-a-42829e5d-ec0c-4f98-bb30-5a4e8a4106e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden-a-255451a3-8131-4e4b-8d96-caeb82f55f42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist](https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist-a-0d300ffb-e308-4ac7-a479-7ba01fbe9456#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung](https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung-a-0d6ad2d0-9400-467c-8cfe-8b3e215144ff#ref=rss)
-* [https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region](https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region-a-43f79e8f-c9ed-4c9a-b7af-8cce41567c0f#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren](https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren-a-4988d6e8-a8db-4eb4-b520-ddadb3336577#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-* [https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten](https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten-a-a2b1de88-3689-45bd-9f3e-79bbdee281f1#ref=rss)
-* [https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten](https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten-a-e705fbd7-5b32-4fc4-b6c4-fe5a045e0219#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten](https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten-a-a2b1de88-3689-45bd-9f3e-79bbdee281f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drohnen-machen-deutschen-flughaefen-schwer-zu-schaffen](https://www.spiegel.de/wirtschaft/drohnen-machen-deutschen-flughaefen-schwer-zu-schaffen-a-9a2740b3-1a09-4204-86b0-c61671dbb09b#ref=rss)
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr](https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr-a-8d34aea4-4ce5-49bf-a9d5-d48af89cf4c9#ref=rss)
-* [https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht](https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht-a-9765b413-1397-477a-8479-a4e35ba272f3#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen](https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen-a-82fbe35f-b4d1-44ef-b5dc-8494853a9819#ref=rss)
-### land
-
-* [https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien](https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien-a-b7dd4b88-ff18-4e75-9f56-edb77a3a9b40#ref=rss)
-* [https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht](https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht-a-9765b413-1397-477a-8479-a4e35ba272f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-spricht-den-westdeutschen-das-deutschsein-ab](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-spricht-den-westdeutschen-das-deutschsein-ab-a-6e87052f-16c2-4f6b-b325-648ab03b500f#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea](https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea-a-33160732-a921-41ba-ac63-8c09b3ab62d7#ref=rss)
-### entwicklerkonferenz
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-### wwdc
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat](https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat-a-52197c35-ef83-49d6-8234-2c8ed4eb3ba5#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-### kiversion
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-### siri
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-auf-entwicklerkonferenz-wwdc-neue-ki-version-von-siri-vor-a-3a62e926-c979-40df-a760-110612f3e1c5#ref=rss)
-### jafar
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-### panahi
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta](https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta-a-65ca18a8-edd5-47a4-a07f-e72d02022ade#ref=rss)
-### wehrt
-
-* [https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab](https://www.spiegel.de/kultur/kino/jafar-panahi-iranischer-regisseur-kaempft-gegen-haftstrafe-gericht-schmettert-berufung-ab-a-162361a3-280e-44e3-9c0b-0691d7ad0254#ref=rss)
-* [https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien](https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien-a-b7dd4b88-ff18-4e75-9f56-edb77a3a9b40#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta](https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta-a-65ca18a8-edd5-47a4-a07f-e72d02022ade#ref=rss)
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-### verhängt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta](https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta-a-65ca18a8-edd5-47a4-a07f-e72d02022ade#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-monaco-aerger-um-tempoverstoesse-alpine-legt-einspruch-gegen-rennergebnis-ein](https://www.spiegel.de/sport/formel1/formel-1-in-monaco-aerger-um-tempoverstoesse-alpine-legt-einspruch-gegen-rennergebnis-ein-a-0fef7680-d34e-4341-adc7-3088b8fdb574#ref=rss)
-### ordnungsgeld
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta](https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta-a-65ca18a8-edd5-47a4-a07f-e72d02022ade#ref=rss)
-### meta
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta](https://www.spiegel.de/netzwelt/netzpolitik/landgericht-frankfurt-verhaengt-ordnungsgeld-gegen-meta-a-65ca18a8-edd5-47a4-a07f-e72d02022ade#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze](https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze-a-ce1b052a-d807-498f-b5ca-6a9d2ae2a5d9#ref=rss)
-### unoklimasekretariat
-
-* [https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze](https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze-a-ce1b052a-d807-498f-b5ca-6a9d2ae2a5d9#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze](https://www.spiegel.de/wissenschaft/natur/fussball-wm-uno-klimasekretariat-warnt-vor-extremer-hitze-a-ce1b052a-d807-498f-b5ca-6a9d2ae2a5d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr](https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr-a-8d34aea4-4ce5-49bf-a9d5-d48af89cf4c9#ref=rss)
-### krim
-
-* [https://www.spiegel.de/ausland/ukraine-greift-offenbar-passagierzug-auf-der-krim-an](https://www.spiegel.de/ausland/ukraine-greift-offenbar-passagierzug-auf-der-krim-an-a-97b6668c-61c3-464a-bcdd-4e659a21e3d2#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-greift-offenbar-passagierzug-auf-der-krim-an](https://www.spiegel.de/ausland/ukraine-greift-offenbar-passagierzug-auf-der-krim-an-a-97b6668c-61c3-464a-bcdd-4e659a21e3d2#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-regierung-von-nikol-paschinjan-nach-parlamentswahl-gestaerkt](https://www.spiegel.de/ausland/armenien-regierung-von-nikol-paschinjan-nach-parlamentswahl-gestaerkt-a-3c9b68c5-fcc3-44f5-b026-a49c1f311559#ref=rss)
-### nsraubkunst
-
-* [https://www.spiegel.de/kultur/ns-raubkunst-neues-schiedsgericht-soll-ueber-rubens-gemaelde-entscheiden](https://www.spiegel.de/kultur/ns-raubkunst-neues-schiedsgericht-soll-ueber-rubens-gemaelde-entscheiden-a-fb25d9b0-4700-4b27-a4cf-74726fdb3a23#ref=rss)
-### monaco
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-monaco-aerger-um-tempoverstoesse-alpine-legt-einspruch-gegen-rennergebnis-ein](https://www.spiegel.de/sport/formel1/formel-1-in-monaco-aerger-um-tempoverstoesse-alpine-legt-einspruch-gegen-rennergebnis-ein-a-0fef7680-d34e-4341-adc7-3088b8fdb574#ref=rss)
-### euroeinführung
-
-* [https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten](https://www.spiegel.de/panorama/euro-einfuehrung-ging-der-deutsche-beitritt-auf-kosten-der-verbuendeten-a-a2b1de88-3689-45bd-9f3e-79bbdee281f1#ref=rss)
-### paschinjan
-
-* [https://www.spiegel.de/ausland/armenien-regierung-von-nikol-paschinjan-nach-parlamentswahl-gestaerkt](https://www.spiegel.de/ausland/armenien-regierung-von-nikol-paschinjan-nach-parlamentswahl-gestaerkt-a-3c9b68c5-fcc3-44f5-b026-a49c1f311559#ref=rss)
-### anke
-
-* [https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr](https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr-a-8d34aea4-4ce5-49bf-a9d5-d48af89cf4c9#ref=rss)
-### rehlinger
-
-* [https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr](https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr-a-8d34aea4-4ce5-49bf-a9d5-d48af89cf4c9#ref=rss)
-### stahlindustrie
-
-* [https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr](https://www.spiegel.de/wirtschaft/klimapolitik-anke-rehlinger-sieht-umbau-der-stahlindustrie-in-gefahr-a-8d34aea4-4ce5-49bf-a9d5-d48af89cf4c9#ref=rss)
-### mondmission
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-diese-prada-unterwaesche-sollen-astronauten-auf-der-mondmission-tragen](https://www.spiegel.de/wissenschaft/weltall/nasa-diese-prada-unterwaesche-sollen-astronauten-auf-der-mondmission-tragen-a-df682215-b1aa-4e36-8559-d8220416cfee#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-diese-prada-unterwaesche-sollen-astronauten-auf-der-mondmission-tragen](https://www.spiegel.de/wissenschaft/weltall/nasa-diese-prada-unterwaesche-sollen-astronauten-auf-der-mondmission-tragen-a-df682215-b1aa-4e36-8559-d8220416cfee#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren](https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren-a-4988d6e8-a8db-4eb4-b520-ddadb3336577#ref=rss)
-### shakira
-
-* [https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien](https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien-a-b7dd4b88-ff18-4e75-9f56-edb77a3a9b40#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien](https://www.spiegel.de/panorama/shakira-saengerin-wehrt-sich-gegen-gefaelschte-wahlkampfbilder-in-kolumbien-a-b7dd4b88-ff18-4e75-9f56-edb77a3a9b40#ref=rss)
-### kassenpatienten
-
-* [https://www.spiegel.de/wirtschaft/soziales/gesundheit-immer-erst-zum-hausarzt-was-das-fuer-kassenpatienten-bedeutet](https://www.spiegel.de/wirtschaft/soziales/gesundheit-immer-erst-zum-hausarzt-was-das-fuer-kassenpatienten-bedeutet-a-bfdae6d1-47bb-4e46-ac20-662f6def736d#ref=rss)
-### christian
-
-* [https://www.spiegel.de/sport/fussball/christian-eriksen-nach-zusammenbruch-vor-krankenhaus-entlassung](https://www.spiegel.de/sport/fussball/christian-eriksen-nach-zusammenbruch-vor-krankenhaus-entlassung-a-71857100-690a-44e1-948e-93aa810ada25#ref=rss)
-### eriksen
-
-* [https://www.spiegel.de/sport/fussball/christian-eriksen-nach-zusammenbruch-vor-krankenhaus-entlassung](https://www.spiegel.de/sport/fussball/christian-eriksen-nach-zusammenbruch-vor-krankenhaus-entlassung-a-71857100-690a-44e1-948e-93aa810ada25#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/japan-baer-gesichtet-stadt-schliesst-alle-schulen](https://www.spiegel.de/panorama/japan-baer-gesichtet-stadt-schliesst-alle-schulen-a-c6731ce8-e0a6-42b7-82b5-3bbba3988640#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/japan-baer-gesichtet-stadt-schliesst-alle-schulen](https://www.spiegel.de/panorama/japan-baer-gesichtet-stadt-schliesst-alle-schulen-a-c6731ce8-e0a6-42b7-82b5-3bbba3988640#ref=rss)
-* [https://www.spiegel.de/panorama/reutlingen-grossflaechiger-stromausfall-nach-brand](https://www.spiegel.de/panorama/reutlingen-grossflaechiger-stromausfall-nach-brand-a-dad9ca8f-90f8-4f60-a8a3-4201f9d1dc3c#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere-a-7b4a035d-8188-4ed1-bd33-bce068e05ae9#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-kroent-in-paris-seine-komplizierte-karriere-a-7b4a035d-8188-4ed1-bd33-bce068e05ae9#ref=rss)
-### armand
-
-* [https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren](https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren-a-4988d6e8-a8db-4eb4-b520-ddadb3336577#ref=rss)
-### duplantis
-
-* [https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren](https://www.spiegel.de/sport/leichtathletik/stabhochsprung-serien-sieger-armand-duplantis-kassiert-erste-niederlage-seit-drei-jahren-a-4988d6e8-a8db-4eb4-b520-ddadb3336577#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung](https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung-a-0d6ad2d0-9400-467c-8cfe-8b3e215144ff#ref=rss)
-### berichterstattung
-
-* [https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung](https://www.spiegel.de/ausland/israel-armee-verschaerft-zensur-fuer-die-berichterstattung-a-0d6ad2d0-9400-467c-8cfe-8b3e215144ff#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region](https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region-a-43f79e8f-c9ed-4c9a-b7af-8cce41567c0f#ref=rss)
-### pufferzone
-
-* [https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region](https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region-a-43f79e8f-c9ed-4c9a-b7af-8cce41567c0f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region](https://www.spiegel.de/ausland/israel-pufferzonen-politik-zementiert-den-krieg-in-der-region-a-43f79e8f-c9ed-4c9a-b7af-8cce41567c0f#ref=rss)
-* [https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten](https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten-a-e705fbd7-5b32-4fc4-b6c4-fe5a045e0219#ref=rss)
-### südkoreas
-
-* [https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht](https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht-a-9765b413-1397-477a-8479-a4e35ba272f3#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht](https://www.spiegel.de/ausland/suedkoreas-praesident-sieht-nach-wahlpanne-demokratie-bedroht-a-9765b413-1397-477a-8479-a4e35ba272f3#ref=rss)
-### donald
-
-* [https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen](https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen-a-82fbe35f-b4d1-44ef-b5dc-8494853a9819#ref=rss)
-### trump
-
-* [https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen](https://www.spiegel.de/sport/donald-trump-und-ufc-event-freedom-250-juristen-wollen-kaefigkaempfe-stoppen-a-82fbe35f-b4d1-44ef-b5dc-8494853a9819#ref=rss)
-### höcke
-
-* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-spricht-den-westdeutschen-das-deutschsein-ab](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-spricht-den-westdeutschen-das-deutschsein-ab-a-6e87052f-16c2-4f6b-b325-648ab03b500f#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/wirtschaft/drohnen-machen-deutschen-flughaefen-schwer-zu-schaffen](https://www.spiegel.de/wirtschaft/drohnen-machen-deutschen-flughaefen-schwer-zu-schaffen-a-9a2740b3-1a09-4204-86b0-c61671dbb09b#ref=rss)
-### jill
-
-* [https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt](https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt-a-d37a6356-ba52-416a-bfd6-411e644a8a6f#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt](https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt-a-d37a6356-ba52-416a-bfd6-411e644a8a6f#ref=rss)
-### ehemalige
-
-* [https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt](https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt-a-d37a6356-ba52-416a-bfd6-411e644a8a6f#ref=rss)
-### first
-
-* [https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt](https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt-a-d37a6356-ba52-416a-bfd6-411e644a8a6f#ref=rss)
-### lady
-
-* [https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt](https://www.spiegel.de/ausland/jill-biden-wie-die-ehemalige-first-lady-die-ausfaelle-ihres-mannes-schoenschreibt-a-d37a6356-ba52-416a-bfd6-411e644a8a6f#ref=rss)
-### student
-
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-### unter
-
-* [https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb](https://www.spiegel.de/netzwelt/frankfurt-student-gewinnt-bei-apple-entwicklerwettbewerb-a-9274bf56-caaf-4e66-8137-45d674a32115#ref=rss)
-* [https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten](https://www.spiegel.de/start/umfrage-zum-berufseinstieg-studierende-sorgen-sich-um-jobaussichten-a-e705fbd7-5b32-4fc4-b6c4-fe5a045e0219#ref=rss)
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/praearcturus-gigas-dieser-riesenskorpion-war-so-gross-wie-ein-hund](https://www.spiegel.de/wissenschaft/natur/praearcturus-gigas-dieser-riesenskorpion-war-so-gross-wie-ein-hund-a-e2710051-2235-4583-a68e-2436254ee2f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz](https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz-a-c04748ed-2346-4400-acd3-fb40cc907c94#ref=rss)
 ### reutlingen
 
-* [https://www.spiegel.de/panorama/reutlingen-grossflaechiger-stromausfall-nach-brand](https://www.spiegel.de/panorama/reutlingen-grossflaechiger-stromausfall-nach-brand-a-dad9ca8f-90f8-4f60-a8a3-4201f9d1dc3c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein](https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein-a-40e59af6-f390-4567-ab07-29448d5237c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik-a-f9290e82-14a1-4e64-9c6c-bfcebbc5070e#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck](https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck-a-11c3eb0e-2bdd-4e41-83d8-85f3311a04a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck](https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck-a-11c3eb0e-2bdd-4e41-83d8-85f3311a04a4#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen](https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen-a-5c41d5ef-3b03-4930-97d5-36d7e2d749ea#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden-a-255451a3-8131-4e4b-8d96-caeb82f55f42#ref=rss)
+### stromausfall
+
+* [https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein](https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein-a-40e59af6-f390-4567-ab07-29448d5237c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik-a-f9290e82-14a1-4e64-9c6c-bfcebbc5070e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen](https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen-a-5c41d5ef-3b03-4930-97d5-36d7e2d749ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft](https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft-a-2ad20fa9-9280-426d-9f00-0ea5b5b6a3af#ref=rss)
+### gemeinsamen
+
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz](https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz-a-c04748ed-2346-4400-acd3-fb40cc907c94#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns](https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns-a-fe5dfaf8-a171-4cfb-902d-9e20649ebfb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte](https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte-a-7c6b41c3-2ace-4654-aaa3-74bcad30938f#ref=rss)
+### bundesländer
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz](https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz-a-c04748ed-2346-4400-acd3-fb40cc907c94#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist](https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist-a-0d300ffb-e308-4ac7-a479-7ba01fbe9456#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat](https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat-a-52197c35-ef83-49d6-8234-2c8ed4eb3ba5#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein-a-58cc7c73-ed79-42c4-a7cf-d7d0d0f199dd#ref=rss)
+### wo
+
+* [https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist](https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist-a-0d300ffb-e308-4ac7-a479-7ba01fbe9456#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+### landespartei
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+### slogan
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+### groß
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/praearcturus-gigas-dieser-riesenskorpion-war-so-gross-wie-ein-hund](https://www.spiegel.de/wissenschaft/natur/praearcturus-gigas-dieser-riesenskorpion-war-so-gross-wie-ein-hund-a-e2710051-2235-4583-a68e-2436254ee2f2#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft](https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft-a-2ad20fa9-9280-426d-9f00-0ea5b5b6a3af#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar](https://www.spiegel.de/panorama/niedersachsen-hat-einen-neue-slogan-gross-und-nicht-mehr-klar-a-fa397296-8b24-41fe-9411-5700a884253d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck](https://www.spiegel.de/wirtschaft/soziales/frankfurt-am-main-studierenden-wg-bekommt-26-700-euro-zurueck-a-11c3eb0e-2bdd-4e41-83d8-85f3311a04a4#ref=rss)
+### landgericht
+
+* [https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven](https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven-a-42829e5d-ec0c-4f98-bb30-5a4e8a4106e1#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven](https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven-a-42829e5d-ec0c-4f98-bb30-5a4e8a4106e1#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven](https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven-a-42829e5d-ec0c-4f98-bb30-5a4e8a4106e1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft](https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft-a-2ad20fa9-9280-426d-9f00-0ea5b5b6a3af#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven](https://www.spiegel.de/panorama/landgericht-bremen-jahrelange-haft-und-psychiatrie-fuer-anschlagsplaene-in-bremerhaven-a-42829e5d-ec0c-4f98-bb30-5a4e8a4106e1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein](https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein-a-40e59af6-f390-4567-ab07-29448d5237c0#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein](https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein-a-40e59af6-f390-4567-ab07-29448d5237c0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein](https://www.spiegel.de/panorama/justiz/stromausfall-in-reutlingen-koennte-brandstiftung-gewesen-sein-a-40e59af6-f390-4567-ab07-29448d5237c0#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-oepnv-soll-nach-bruecken-sperrung-kostenlos-werden-a-255451a3-8131-4e4b-8d96-caeb82f55f42#ref=rss)
+### staatsschutz
+
+* [https://www.spiegel.de/sport/ironman-veranstaltung-staatsschutz-ermittelt-nach-mutmasslichem-anschlag-in-hamburg](https://www.spiegel.de/sport/ironman-veranstaltung-staatsschutz-ermittelt-nach-mutmasslichem-anschlag-in-hamburg-a-6e08e41b-391d-4d8b-9b4d-8cbf7f294ac9#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen](https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen-a-5c41d5ef-3b03-4930-97d5-36d7e2d749ea#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen](https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen-a-5c41d5ef-3b03-4930-97d5-36d7e2d749ea#ref=rss)
+### knicks
+
+* [https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen](https://www.spiegel.de/sport/basketball/nba-finals-die-new-york-knicks-locken-sogar-donald-trump-an-der-ist-aber-nicht-willkommen-a-5c41d5ef-3b03-4930-97d5-36d7e2d749ea#ref=rss)
+### fcas
+
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### kampfjets
+
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### eurofighter
+
+* [https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa](https://www.spiegel.de/politik/deutschland/fcas-braucht-die-luftwaffe-nach-dem-kampfjet-aus-jetzt-ersatz-aus-den-usa-a-1682016c-7f0a-4fa7-914e-725985ed18b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas](https://www.spiegel.de/politik/deutschland-und-frankreich-stoppen-gemeinsamen-kampfjet-fcas-a-7e9fbe17-7f39-4259-981b-e3f00c0da9a9#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik-a-f9290e82-14a1-4e64-9c6c-bfcebbc5070e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik-a-f9290e82-14a1-4e64-9c6c-bfcebbc5070e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat](https://www.spiegel.de/ausland/krieg-zwischen-iran-und-israel-welche-optionen-donald-trump-jetzt-noch-hat-a-52197c35-ef83-49d6-8234-2c8ed4eb3ba5#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-stromausfall-in-reutlingen-bildungspolitik-a-f9290e82-14a1-4e64-9c6c-bfcebbc5070e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist](https://www.spiegel.de/wirtschaft/bundeslaender-ranking-wie-gut-ihr-bundesland-fuer-die-zukunft-geruestet-ist-a-0d300ffb-e308-4ac7-a479-7ba01fbe9456#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+### 21
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+### fertig
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahnprojekt-wird-erst-ende-2031-fertig-a-c0fffe93-b038-4775-9a8a-bf3ea40afde9#ref=rss)
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### sophia
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+### thomalla
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+### dackel
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### preis
+
+* [https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel](https://www.spiegel.de/sport/fussball/french-open-sophia-thomalla-schenkt-alexander-zverev-einen-dackel-a-fe799f08-c4fe-4f29-9982-1499b7c28486#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+### hilfetelefon
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+### beratungen
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-hilfetelefon-verzeichnet-rekordzahl-an-beratungen-a-962c74c3-80e6-4c71-89fb-53b5bdce9867#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch](https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns](https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns-a-fe5dfaf8-a171-4cfb-902d-9e20649ebfb5#ref=rss)
+* [https://www.spiegel.de/ausland/la-france-insoumise-der-linkspopulist-der-den-rechten-den-weg-an-die-macht-ebnen-koennte](https://www.spiegel.de/ausland/la-france-insoumise-der-linkspopulist-der-den-rechten-den-weg-an-die-macht-ebnen-koennte-a-6671288a-0ae2-4526-9890-48934c42b606#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns](https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns-a-fe5dfaf8-a171-4cfb-902d-9e20649ebfb5#ref=rss)
+### konzerns
+
+* [https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns](https://www.spiegel.de/ausland/tuerkei-milliardaer-macht-witz-ueber-kurdin-schuesse-auf-gebaeude-seines-konzerns-a-fe5dfaf8-a171-4cfb-902d-9e20649ebfb5#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz](https://www.spiegel.de/wirtschaft/soziales/bundeslaender-stellen-sich-gegen-reiches-neues-heizungsgesetz-a-c04748ed-2346-4400-acd3-fb40cc907c94#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+### gegenschlägen
+
+* [https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen](https://www.spiegel.de/ausland/iran-krieg-raketenbeschuss-trotz-waffenruhe-israel-reagiert-mit-gegenschlaegen-a-ef5e386c-ae72-45c3-8ad6-535a292d461f#ref=rss)
+### flavio
+
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### cobolli
+
+* [https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen](https://www.spiegel.de/sport/french-open-finalist-flavio-cobolli-gutes-verlieren-ist-wie-gewinnen-a-2013a247-8180-4a70-a83b-39927b4bb9c9#ref=rss)
+### michail
+
+* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft](https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft-a-2ad20fa9-9280-426d-9f00-0ea5b5b6a3af#ref=rss)
+### chodorkowski
+
+* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft](https://www.spiegel.de/ausland/russland-michail-chodorkowski-gericht-verurteilt-kremlkritiker-zu-zehn-jahren-haft-a-2ad20fa9-9280-426d-9f00-0ea5b5b6a3af#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/web/whatsapp-kettenbrief-zu-angeblicher-aenderung-bei-gruppenchats-ab-samstag-kursiert](https://www.spiegel.de/netzwelt/web/whatsapp-kettenbrief-zu-angeblicher-aenderung-bei-gruppenchats-ab-samstag-kursiert-a-48c8fd38-c043-4af7-92dd-95f7af70fb67#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter](https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter-a-1ae9d103-326b-4392-88c7-acbe147b9377#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter](https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter-a-1ae9d103-326b-4392-88c7-acbe147b9377#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter](https://www.spiegel.de/sport/fussball/juergen-klopp-ex-coach-des-fc-liverpool-ist-jetzt-fast-ein-ritter-a-1ae9d103-326b-4392-88c7-acbe147b9377#ref=rss)
+### stahl
+
+* [https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte](https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte-a-7c6b41c3-2ace-4654-aaa3-74bcad30938f#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea](https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea-a-33160732-a921-41ba-ac63-8c09b3ab62d7#ref=rss)
-### xi
+* [https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte](https://www.spiegel.de/wirtschaft/stahlimporte-eu-rat-billigt-schaerfere-zollregeln-fuer-stahlimporte-a-7c6b41c3-2ace-4654-aaa3-74bcad30938f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch](https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384#ref=rss)
+### jan
 
-* [https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea](https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea-a-33160732-a921-41ba-ac63-8c09b3ab62d7#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+### van
 
-* [https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea](https://www.spiegel.de/ausland/china-xi-jinping-beginnt-staatsbesuch-in-nordkorea-a-33160732-a921-41ba-ac63-8c09b3ab62d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+### aken
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-linkenchef-jan-van-aken-spricht-sich-fuer-ex-kanzlerin-als-eu-vermittlerin-im-russland-ukraine-krieg-aus-a-ff4fb7bb-4e7f-48f9-9209-dd59e5fdf240#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein-a-58cc7c73-ed79-42c4-a7cf-d7d0d0f199dd#ref=rss)
+### beschwerde
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein-a-58cc7c73-ed79-42c4-a7cf-d7d0d0f199dd#ref=rss)
+### auslieferung
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-legt-beschwerde-gegen-auslieferung-ein-a-58cc7c73-ed79-42c4-a7cf-d7d0d0f199dd#ref=rss)
 
