@@ -4,303 +4,276 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fußballwm
+### bundesregierung
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen](https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen-a-384c97f2-6751-4261-ba12-4ef37604efe5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-die-unterschiedlichen-quartiere-der-teams](https://www.spiegel.de/sport/fussball/fussball-wm-die-unterschiedlichen-quartiere-der-teams-a-8b9f980b-b606-4823-bba5-915e221caf0c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion](https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wm-2026-fussball-quiz-bist-du-ein-wm-profi](https://www.spiegel.de/deinspiegel/wm-2026-fussball-quiz-bist-du-ein-wm-profi-a-4d89230d-b95d-4ef1-be22-0c9eb48ca482#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen](https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen-a-384c97f2-6751-4261-ba12-4ef37604efe5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen](https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen-a-384c97f2-6751-4261-ba12-4ef37604efe5#ref=rss)
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet-a-f7e857f5-8cb9-404b-ac41-2136e7a2a1a3#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/fcas-aus-wie-muss-der-deutsche-kampfjet-der-zukunft-aussehen-herr-hinz](https://www.spiegel.de/ausland/fcas-aus-wie-muss-der-deutsche-kampfjet-der-zukunft-aussehen-herr-hinz-a-c35823d1-ba50-4de7-8253-0778e29182c7#ref=rss)
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab](https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab-a-dd639722-faca-4ea0-bb57-4df18092672d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028](https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028-a-a76ba256-196e-4128-8dc7-3381ecf5f338#ref=rss)
+* [https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform](https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform-a-b848d2a9-28e5-4616-89fe-a82b98093339#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt](https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt-a-250c9f87-38d3-4630-80d1-29d682f8a7ba#ref=rss)
 ### 2026
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wm-2026-fussball-quiz-bist-du-ein-wm-profi](https://www.spiegel.de/deinspiegel/wm-2026-fussball-quiz-bist-du-ein-wm-profi-a-4d89230d-b95d-4ef1-be22-0c9eb48ca482#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion](https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss)
-### drei
+* [https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm](https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm-a-fc2a326d-c6cc-406c-9f7e-984d5a39d502#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote](https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote-a-a857af15-c141-447e-bf4d-4dc14957efcd#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur-a-d7b05a48-ad11-4fe4-91c8-8ad882481213#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-### geben
+* [https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet](https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet-a-af6637e7-5eed-4d3c-a935-23c3485592fa#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt](https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt-a-88a0f5a5-277b-4d7c-86a9-2099cb8177a7#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/politik/deutschland/als-der-arbeitgeber-boss-und-die-gewerkschaftschefin-aufeinandertreffen-droht-die-stimmung-zu-kippen](https://www.spiegel.de/politik/deutschland/als-der-arbeitgeber-boss-und-die-gewerkschaftschefin-aufeinandertreffen-droht-die-stimmung-zu-kippen-a-7d75ab8b-d0ed-457b-9bac-b4589028adf3#ref=rss)
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet](https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet-a-af6637e7-5eed-4d3c-a935-23c3485592fa#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt](https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt-a-88a0f5a5-277b-4d7c-86a9-2099cb8177a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert](https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert-a-85d4d533-11ea-45c9-b304-33c98fb5b5ae#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### kinder
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken](https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken-a-95fe0f68-ecf4-4450-95b5-d1da687a2f24#ref=rss)
+* [https://www.spiegel.de/ausland/israel-fuer-christen-kann-es-sehr-unangenehm-werden](https://www.spiegel.de/ausland/israel-fuer-christen-kann-es-sehr-unangenehm-werden-a-21ad7dca-09eb-4c62-bd81-f946ac4dc4a2#ref=rss)
+* [https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung](https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung-a-105a4783-2ef1-4bcf-ae33-30164e476abf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### ki
 
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
-### donald
+* [https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben](https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben-a-63cc86f9-d214-41e9-a43b-13602db89bac#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab](https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab-a-6ba3108e-e0dc-4c2f-9a3a-feded86006be#ref=rss)
-### trump
+* [https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm](https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm-a-fc2a326d-c6cc-406c-9f7e-984d5a39d502#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote](https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote-a-a857af15-c141-447e-bf4d-4dc14957efcd#ref=rss)
+### wm
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab](https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab-a-6ba3108e-e0dc-4c2f-9a3a-feded86006be#ref=rss)
-### iran
+* [https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm](https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm-a-fc2a326d-c6cc-406c-9f7e-984d5a39d502#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab](https://www.spiegel.de/ausland/krieg-in-nahost-donald-trump-sagt-angekuendigte-angriffe-auf-iran-ab-a-6ba3108e-e0dc-4c2f-9a3a-feded86006be#ref=rss)
-### bülent
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde](https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde-a-d8c1d676-8430-4c15-b804-5a282586b046#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### ceylan
+* [https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung](https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung-a-6fada1d9-a0f2-4df7-8fb4-ceaeb6bf7021#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### comedian
+* [https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung](https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung-a-105a4783-2ef1-4bcf-ae33-30164e476abf#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+* [https://www.spiegel.de/politik/suedkorea-weitere-30-jahre-haft-fuer-ex-praesidenten-yoon-suk-yeol](https://www.spiegel.de/politik/suedkorea-weitere-30-jahre-haft-fuer-ex-praesidenten-yoon-suk-yeol-a-faac5bb7-736f-47aa-8eb4-61b98e64b81c#ref=rss)
+### börse
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### operndebüt
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert](https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert-a-85d4d533-11ea-45c9-b304-33c98fb5b5ae#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### entführung
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### serail
+* [https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab](https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab-a-dd639722-faca-4ea0-bb57-4df18092672d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+### lehnt
 
-* [https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail](https://www.spiegel.de/panorama/leute/buelent-ceylan-comedian-gibt-operndebuet-in-die-entfuehrung-aus-dem-serail-a-584bd180-ec6a-4667-ad03-53b66ae2257f#ref=rss)
-### news
+* [https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab](https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab-a-dd639722-faca-4ea0-bb57-4df18092672d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### 2028
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### mexikostadt
+* [https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab](https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab-a-dd639722-faca-4ea0-bb57-4df18092672d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028](https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028-a-a76ba256-196e-4128-8dc7-3381ecf5f338#ref=rss)
+### streit
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion](https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss)
-### eröffnet
+* [https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab](https://www.spiegel.de/politik/deutschland/eu-haushalt-deutschland-lehnt-vorschlag-der-kommission-ab-a-dd639722-faca-4ea0-bb57-4df18092672d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt](https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt-a-250c9f87-38d3-4630-80d1-29d682f8a7ba#ref=rss)
+### darron
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-### alles
+* [https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben](https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben-a-63cc86f9-d214-41e9-a43b-13602db89bac#ref=rss)
+### lee
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-### wichtige
+* [https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben](https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben-a-63cc86f9-d214-41e9-a43b-13602db89bac#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-fifa-verbietet-kurz-vor-turnierstart-haiti-trikot-a-c0b76d8c-2388-4e0a-8a29-0fc6f3d7b455#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-### kenia
+* [https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben](https://www.spiegel.de/sport/american-football/darron-lee-ex-footballprofi-soll-seine-partnerin-getoetet-und-danach-die-ki-um-hilfe-gefragt-haben-a-63cc86f9-d214-41e9-a43b-13602db89bac#ref=rss)
+* [https://www.spiegel.de/politik/suedkorea-weitere-30-jahre-haft-fuer-ex-praesidenten-yoon-suk-yeol](https://www.spiegel.de/politik/suedkorea-weitere-30-jahre-haft-fuer-ex-praesidenten-yoon-suk-yeol-a-faac5bb7-736f-47aa-8eb4-61b98e64b81c#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/ebola-in-kenia-protestieren-anwohner-gegen-ein-geplantes-us-quarantaenezentrum](https://www.spiegel.de/ausland/ebola-in-kenia-protestieren-anwohner-gegen-ein-geplantes-us-quarantaenezentrum-a-a5d18890-e4a8-44ec-8569-5ba7fdafbeb2#ref=rss)
-### menschen
+* [https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm](https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm-a-fc2a326d-c6cc-406c-9f7e-984d5a39d502#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt](https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt-a-88a0f5a5-277b-4d7c-86a9-2099cb8177a7#ref=rss)
+### uhr
 
-* [https://www.spiegel.de/ausland/ebola-in-kenia-protestieren-anwohner-gegen-ein-geplantes-us-quarantaenezentrum](https://www.spiegel.de/ausland/ebola-in-kenia-protestieren-anwohner-gegen-ein-geplantes-us-quarantaenezentrum-a-a5d18890-e4a8-44ec-8569-5ba7fdafbeb2#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-### bundesländer
+* [https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm](https://www.spiegel.de/gesundheit/fussball-wm-2026-so-bekaempfen-sie-den-schlafmangel-waehrend-der-wm-a-fc2a326d-c6cc-406c-9f7e-984d5a39d502#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur-a-d7b05a48-ad11-4fe4-91c8-8ad882481213#ref=rss)
-### warnen
+* [https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet](https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet-a-af6637e7-5eed-4d3c-a935-23c3485592fa#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt](https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt-a-88a0f5a5-277b-4d7c-86a9-2099cb8177a7#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur-a-d7b05a48-ad11-4fe4-91c8-8ad882481213#ref=rss)
-### missbrauch
+* [https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet](https://www.spiegel.de/panorama/hamburg-sicherheitskontrolle-am-flughafen-wieder-geoeffnet-a-af6637e7-5eed-4d3c-a935-23c3485592fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### ebola
 
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-drei-bundeslaender-warnen-vor-missbrauch-und-fordern-korrektur-a-d7b05a48-ad11-4fe4-91c8-8ad882481213#ref=rss)
-### schützen
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken](https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken-a-95fe0f68-ecf4-4450-95b5-d1da687a2f24#ref=rss)
+### kongo
 
-* [https://www.spiegel.de/netzwelt/politiker-beleidigung-wir-muessen-die-betroffenen-nicht-weniger-schuetzen-sondern-besser](https://www.spiegel.de/netzwelt/politiker-beleidigung-wir-muessen-die-betroffenen-nicht-weniger-schuetzen-sondern-besser-a-725b7045-2365-43c9-89b9-91e2dbe2ec20#ref=rss)
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
-### leonardo
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken](https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken-a-95fe0f68-ecf4-4450-95b5-d1da687a2f24#ref=rss)
+### who
 
-* [https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus](https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus-a-edb46036-60e9-4f19-a522-4a848f4ec7ee#ref=rss)
-### bittencourt
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken](https://www.spiegel.de/wissenschaft/medizin/ebola-im-kongo-who-warnt-vor-blinden-flecken-a-95fe0f68-ecf4-4450-95b5-d1da687a2f24#ref=rss)
+### david
 
-* [https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus](https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus-a-edb46036-60e9-4f19-a522-4a848f4ec7ee#ref=rss)
-### energie
+* [https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot](https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot-a-2623affc-c56b-4162-b2b2-1474bc7845c3#ref=rss)
+### hockney
 
-* [https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus](https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus-a-edb46036-60e9-4f19-a522-4a848f4ec7ee#ref=rss)
-### cottbus
+* [https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot](https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot-a-2623affc-c56b-4162-b2b2-1474bc7845c3#ref=rss)
+### künstler
 
-* [https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus](https://www.spiegel.de/sport/fussball/leonardo-bittencourt-wechselt-zu-energie-cottbus-a-edb46036-60e9-4f19-a522-4a848f4ec7ee#ref=rss)
-### wen
+* [https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot](https://www.spiegel.de/kultur/david-hockney-britischer-kuenstler-ist-tot-a-2623affc-c56b-4162-b2b2-1474bc7845c3#ref=rss)
+### wachstum
 
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen](https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen-a-384c97f2-6751-4261-ba12-4ef37604efe5#ref=rss)
-### magentatv
+* [https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028](https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028-a-a76ba256-196e-4128-8dc7-3381ecf5f338#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### nennen
 
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen](https://www.spiegel.de/netzwelt/web/fussball-wm-live-fuer-wen-sich-magentatv-lohnt-und-fuer-wen-ard-und-zdf-reichen-a-384c97f2-6751-4261-ba12-4ef37604efe5#ref=rss)
-### luxus
+* [https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028](https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028-a-a76ba256-196e-4128-8dc7-3381ecf5f338#ref=rss)
+* [https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform](https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform-a-b848d2a9-28e5-4616-89fe-a82b98093339#ref=rss)
+### experten
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-die-unterschiedlichen-quartiere-der-teams](https://www.spiegel.de/sport/fussball/fussball-wm-die-unterschiedlichen-quartiere-der-teams-a-8b9f980b-b606-4823-bba5-915e221caf0c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### marius
+* [https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028](https://www.spiegel.de/wirtschaft/bundesbankprognose-irankrieg-bremst-wachstum-bis-2028-a-a76ba256-196e-4128-8dc7-3381ecf5f338#ref=rss)
+* [https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt](https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt-a-f43ec0c6-1be7-483d-b918-ad6412bc87c4#ref=rss)
+### entlassungen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### borg
+* [https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen](https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen-a-15d0dd9b-c22a-4f71-9a00-943a3f5eeb58#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### høiby
+* [https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen](https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen-a-15d0dd9b-c22a-4f71-9a00-943a3f5eeb58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt](https://www.spiegel.de/wirtschaft/reformdebatte-die-tyrannei-der-alten-und-der-neue-generationenkonflikt-a-250c9f87-38d3-4630-80d1-29d682f8a7ba#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss)
-### israel
+* [https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen](https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen-a-15d0dd9b-c22a-4f71-9a00-943a3f5eeb58#ref=rss)
+* [https://www.spiegel.de/ausland/israel-fuer-christen-kann-es-sehr-unangenehm-werden](https://www.spiegel.de/ausland/israel-fuer-christen-kann-es-sehr-unangenehm-werden-a-21ad7dca-09eb-4c62-bd81-f946ac4dc4a2#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise](https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise-a-9c824ab2-95b4-41a9-a4b2-53eb79d7155e#ref=rss)
-### journalistin
+* [https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen](https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen-a-15d0dd9b-c22a-4f71-9a00-943a3f5eeb58#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt](https://www.spiegel.de/panorama/hamburg-sicherheitsbereich-im-flughafen-wegen-polizeilicher-lage-geraeumt-a-88a0f5a5-277b-4d7c-86a9-2099cb8177a7#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise](https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise-a-9c824ab2-95b4-41a9-a4b2-53eb79d7155e#ref=rss)
-### land
+* [https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen](https://www.spiegel.de/karriere/entlassungen-wie-unternehmen-jetzt-unter-hochdruck-stellen-abbauen-a-15d0dd9b-c22a-4f71-9a00-943a3f5eeb58#ref=rss)
+* [https://www.spiegel.de/politik/joachim-koschnicke-erst-beriet-er-angela-merkel-jetzt-soll-er-katherina-reiche-retten](https://www.spiegel.de/politik/joachim-koschnicke-erst-beriet-er-angela-merkel-jetzt-soll-er-katherina-reiche-retten-a-a661d29d-ec91-4949-a845-e60820397621#ref=rss)
+### alabama
 
-* [https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise](https://www.spiegel.de/ausland/israel-verweigert-franzoesischer-journalistin-alice-froussard-die-einreise-a-9c824ab2-95b4-41a9-a4b2-53eb79d7155e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-### hinz
+* [https://www.spiegel.de/panorama/justiz/alabama-oberstes-us-gericht-stoppt-hinrichtung-per-stickstoff-in-letzter-minute](https://www.spiegel.de/panorama/justiz/alabama-oberstes-us-gericht-stoppt-hinrichtung-per-stickstoff-in-letzter-minute-a-9240ab3e-89de-48ec-819f-fd2867fab1b2#ref=rss)
+### westnilvirus
 
-* [https://www.spiegel.de/ausland/fcas-aus-wie-muss-der-deutsche-kampfjet-der-zukunft-aussehen-herr-hinz](https://www.spiegel.de/ausland/fcas-aus-wie-muss-der-deutsche-kampfjet-der-zukunft-aussehen-herr-hinz-a-c35823d1-ba50-4de7-8253-0778e29182c7#ref=rss)
-### 21
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+### erreger
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### bahnchefin
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+### andere
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### evelyn
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote](https://www.spiegel.de/ausland/fussball-wm-2026-die-weltmeisterschaft-der-einreiseverbote-a-a857af15-c141-447e-bf4d-4dc14957efcd#ref=rss)
+### risiken
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### palla
+* [https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch](https://www.spiegel.de/wissenschaft/west-nil-virus-der-erreger-ist-jetzt-in-berlin-heimisch-a-90b3a28b-10ec-4697-835d-9b02b132fc07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### natalie
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### milliarden
+* [https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung](https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung-a-6fada1d9-a0f2-4df7-8fb4-ceaeb6bf7021#ref=rss)
+### imbruglia
 
-* [https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert](https://www.spiegel.de/wirtschaft/stuttgart-21-warum-bahn-chefin-evelyn-palla-weitere-milliarden-fordert-a-15c49e85-be21-4dec-903f-f9093893a8cd#ref=rss)
-### spotify
+* [https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung](https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung-a-6fada1d9-a0f2-4df7-8fb4-ceaeb6bf7021#ref=rss)
+### kinderwunschbehandlung
 
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-### onlineabos
+* [https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung](https://www.spiegel.de/panorama/natalie-imbruglia-spricht-ueber-ihre-kinderwunschbehandlung-a-6fada1d9-a0f2-4df7-8fb4-ceaeb6bf7021#ref=rss)
+### gesundheitsreform
 
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform](https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform-a-b848d2a9-28e5-4616-89fe-a82b98093339#ref=rss)
+### afd
 
-* [https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus](https://www.spiegel.de/netzwelt/netflix-spotify-und-youtube-deutsche-geben-mehr-fuer-onlineabos-aus-a-a87334be-7d3b-418d-b5d8-880d1f8a40b8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt](https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt-a-7b8d3d73-07ae-4bd2-a831-ecf453fbf818#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform](https://www.spiegel.de/politik/nina-warken-opposition-attackiert-plaene-fuer-gesundheitsreform-a-b848d2a9-28e5-4616-89fe-a82b98093339#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde](https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde-a-d8c1d676-8430-4c15-b804-5a282586b046#ref=rss)
+### raúl
 
-* [https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt](https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt-a-7b8d3d73-07ae-4bd2-a831-ecf453fbf818#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet-a-f7e857f5-8cb9-404b-ac41-2136e7a2a1a3#ref=rss)
-### pentagon
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss)
+### jiménez
 
-* [https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt](https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt-a-7b8d3d73-07ae-4bd2-a831-ecf453fbf818#ref=rss)
-### mehrere
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss)
+### ruhrgebiet
 
-* [https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt](https://www.spiegel.de/ausland/usa-offenbar-gefahrenstoffe-im-pentagon-entdeckt-a-7b8d3d73-07ae-4bd2-a831-ecf453fbf818#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-### taiwan
+* [https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt](https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt-a-f43ec0c6-1be7-483d-b918-ad6412bc87c4#ref=rss)
+### a40
 
-* [https://www.spiegel.de/ausland/taiwan-china-dringt-erstmals-in-verbotene-gewaesser-um-taiping-insel-ein](https://www.spiegel.de/ausland/taiwan-china-dringt-erstmals-in-verbotene-gewaesser-um-taiping-insel-ein-a-5bfd3299-a046-4d74-9982-0fcb6e197a86#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/taiwan-china-dringt-erstmals-in-verbotene-gewaesser-um-taiping-insel-ein](https://www.spiegel.de/ausland/taiwan-china-dringt-erstmals-in-verbotene-gewaesser-um-taiping-insel-ein-a-5bfd3299-a046-4d74-9982-0fcb6e197a86#ref=rss)
-### elbtunnel
-
-* [https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn](https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn-a-7945fae1-f6bf-494f-81ad-fca6af8d45f0#ref=rss)
-### a7
-
-* [https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn](https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn-a-7945fae1-f6bf-494f-81ad-fca6af8d45f0#ref=rss)
+* [https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt](https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt-a-f43ec0c6-1be7-483d-b918-ad6412bc87c4#ref=rss)
 ### gesperrt
 
-* [https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn](https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn-a-7945fae1-f6bf-494f-81ad-fca6af8d45f0#ref=rss)
-* [https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt](https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt-a-9daf7cfd-52ab-491a-a377-d359481d845c#ref=rss)
-### wochenende
+* [https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt](https://www.spiegel.de/panorama/ruhrgebiet-a40-bei-muelheim-zehn-tage-wegen-bombensuche-gesperrt-a-f43ec0c6-1be7-483d-b918-ad6412bc87c4#ref=rss)
+### antisemitismus
 
-* [https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn](https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn-a-7945fae1-f6bf-494f-81ad-fca6af8d45f0#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung](https://www.spiegel.de/politik/antisemitismus-im-netz-anne-frank-bildungsstaette-sieht-gefaehrliche-entwicklung-a-105a4783-2ef1-4bcf-ae33-30164e476abf#ref=rss)
+### jurist
 
-* [https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn](https://www.spiegel.de/mobilitaet/elbtunnel-und-a7-gesperrt-im-norden-wird-es-am-wochenende-voll-auf-der-autobahn-a-7945fae1-f6bf-494f-81ad-fca6af8d45f0#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-### waren
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote](https://www.spiegel.de/panorama/niederlande-autofahrer-faehrt-in-gruppe-von-fahrradfahrern-drei-tote-a-4e444c1b-421a-4526-9219-67ad857c99c6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/usa-erzeugerpreise-steigen-staerker-als-erwartet-a-f7e857f5-8cb9-404b-ac41-2136e7a2a1a3#ref=rss)
-### tom
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### hay
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### hanks
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### geplante
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### taylor
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### eu
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### swift
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### inc
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### travis
+* [https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel](https://www.spiegel.de/wirtschaft/jurist-daniel-hay-kritisiert-geplante-eu-inc-sozialdumping-mit-europaeischem-guetesiegel-a-f15b9d94-5f1b-4a51-b8d4-c25ff254de08#ref=rss)
+### jeden
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### kelce
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### wunsch
 
-* [https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd](https://www.spiegel.de/kultur/kino/tom-hanks-schickt-verlobten-von-taylor-swift-travis-kelce-an-den-herd-a-edc036e9-840a-4cb7-8b33-3cab45408585#ref=rss)
-### opposition
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### erfüllt
 
-* [https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor](https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor-a-c9a7fccf-bd3a-4129-bd09-1ce8107cab2d#ref=rss)
-### merz
+* [https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt](https://www.spiegel.de/wirtschaft/spacex-boersengang-warum-die-wall-street-elon-musk-jeden-wunsch-erfuellt-a-85c70f0b-fc91-4a62-adfb-b0eefa8a2376#ref=rss)
+### tu
 
-* [https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor](https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor-a-c9a7fccf-bd3a-4129-bd09-1ce8107cab2d#ref=rss)
-### reformen
+* [https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde](https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde-a-d8c1d676-8430-4c15-b804-5a282586b046#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor](https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor-a-c9a7fccf-bd3a-4129-bd09-1ce8107cab2d#ref=rss)
-### groß
+* [https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde](https://www.spiegel.de/politik/deutschland/tu-berlin-will-vortraege-bei-linkem-jugendkongress-beschraenken-nach-afd-beschwerde-a-d8c1d676-8430-4c15-b804-5a282586b046#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor](https://www.spiegel.de/politik/bundestag-opposition-wirft-friedrich-merz-mangelnde-reformen-vor-a-c9a7fccf-bd3a-4129-bd09-1ce8107cab2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert-a-cf518206-9dc6-4268-b441-96aa96249f48#ref=rss)
-### 2030
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert-a-cf518206-9dc6-4268-b441-96aa96249f48#ref=rss)
-### vertraglich
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+### firma
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert-a-cf518206-9dc6-4268-b441-96aa96249f48#ref=rss)
-### fixiert
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+* [https://www.spiegel.de/karriere/konflikte-im-job-mit-kollegen-ueber-gefuehle-reden-das-hat-viel-ueberwindung-gekostet](https://www.spiegel.de/karriere/konflikte-im-job-mit-kollegen-ueber-gefuehle-reden-das-hat-viel-ueberwindung-gekostet-a-b834d190-a509-452a-97ed-0f4a1aaf4861#ref=rss)
+### ersatz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert-a-cf518206-9dc6-4268-b441-96aa96249f48#ref=rss)
-### rund
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-jede-fuenfte-firma-sieht-ki-als-ersatz-fuer-hochschulabschluss-a-67dd38cb-58b1-4340-acb9-34b3da3f4382#ref=rss)
+### arbeit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-abbau-von-28-000-jobs-bis-2030-vertraglich-fixiert-a-cf518206-9dc6-4268-b441-96aa96249f48#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion](https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss)
-### zakynthos
+* [https://www.spiegel.de/karriere/konflikte-im-job-mit-kollegen-ueber-gefuehle-reden-das-hat-viel-ueberwindung-gekostet](https://www.spiegel.de/karriere/konflikte-im-job-mit-kollegen-ueber-gefuehle-reden-das-hat-viel-ueberwindung-gekostet-a-b834d190-a509-452a-97ed-0f4a1aaf4861#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### clemens
 
-* [https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt](https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt-a-9daf7cfd-52ab-491a-a377-d359481d845c#ref=rss)
-### bleibt
+* [https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon](https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon-a-c4d70e1e-1c55-4ab3-8bd6-9d004e2df000#ref=rss)
+### pig
 
-* [https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt](https://www.spiegel.de/panorama/zakynthos-griechenland-touristen-hotspot-bleibt-gesperrt-a-9daf7cfd-52ab-491a-a377-d359481d845c#ref=rss)
-### sparer
+* [https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon](https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon-a-c4d70e1e-1c55-4ab3-8bd6-9d004e2df000#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/wirtschaft/service/ezb-zinsentscheidung-was-die-zinserhoehung-fuer-sparer-und-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/service/ezb-zinsentscheidung-was-die-zinserhoehung-fuer-sparer-und-kreditnehmer-bedeutet-a-8e89c40a-aef7-4a57-be4d-b8d2da26c91a#ref=rss)
-### zac
+* [https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon](https://www.spiegel.de/kultur/tv/clemens-pig-neuer-orf-chef-gewaehlt-nach-stundenlangem-sitzungsmarathon-a-c4d70e1e-1c55-4ab3-8bd6-9d004e2df000#ref=rss)
+### schnieder
 
-* [https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf](https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf-a-ac6574d6-55c1-4d5f-98b6-b38cd0a2acf4#ref=rss)
-### efron
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### zusätzliche
 
-* [https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf](https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf-a-ac6574d6-55c1-4d5f-98b6-b38cd0a2acf4#ref=rss)
-### baut
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf](https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf-a-ac6574d6-55c1-4d5f-98b6-b38cd0a2acf4#ref=rss)
-### hanf
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-patrick-schnieder-lehnt-zusaetzliche-milliarden-fuer-die-bahn-ab-a-e86c7fb3-7831-4f80-99b0-d03fa3b5d972#ref=rss)
+### hhla
 
-* [https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf](https://www.spiegel.de/kultur/kino/zac-efron-baut-auf-und-aus-hanf-a-ac6574d6-55c1-4d5f-98b6-b38cd0a2acf4#ref=rss)
-### abend
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-5f3e86b1-6a6f-4f0f-a3fb-b0ede1fe0598#ref=rss)
-### socialmediaverbot
-
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
-### ethikrat
-
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
-### netz
-
-* [https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will](https://www.spiegel.de/familie/social-media-verbot-wie-der-deutsche-ethikrat-kinder-und-jugendliche-im-netz-schuetzen-will-a-9983138b-7109-45e4-961f-e3c063d7519f#ref=rss)
-### viertel
-
-* [https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion](https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert](https://www.spiegel.de/wirtschaft/hamburger-hafenkonzern-hhla-geht-von-der-boerse-kleinanleger-empoert-a-85d4d533-11ea-45c9-b304-33c98fb5b5ae#ref=rss)
 
