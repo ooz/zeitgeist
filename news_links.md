@@ -4,329 +4,308 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### eltern
 
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-* [https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt](https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt-a-c8701b43-272d-4fe4-9953-f2c5dd6510a9#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht-a-33da7d23-7f3d-446d-950d-7274958a394d#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool](https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool-a-faaf56a2-9ea6-4b2d-bda0-3844c4b910cc#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen](https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen-a-2068be7f-ee12-47cb-ba0e-c22c338a0d5f#ref=rss)
-* [https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro](https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro-a-916b4e57-7591-4e8f-af4b-e2d29fd37335#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien](https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien-a-015bf845-90c2-4147-a6bd-8753d7b06b52#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-62053c31-bd47-4d91-8cc7-e53927a1970f#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab](https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab-a-a01d5c4d-c8b1-4261-ad9e-f60f178b1620#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### macht
 
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### david
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-* [https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt](https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt-a-b21886c1-d78e-45bc-bbdb-60ff0ca61280#ref=rss)
-### hockney
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-* [https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt](https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt-a-b21886c1-d78e-45bc-bbdb-60ff0ca61280#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf](https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf-a-96ccda6a-cb25-48b2-bc53-0f2e7b45b6c3#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/voelkisch-und-rueckwaertsgewandt-rechte-burschen-und-ihr-netzwerk-mit-afd-und-neonazis-spiegel-tv](https://www.spiegel.de/panorama/voelkisch-und-rueckwaertsgewandt-rechte-burschen-und-ihr-netzwerk-mit-afd-und-neonazis-spiegel-tv-a-c4582d4b-5d30-4c5a-9bf9-924b05b5c5eb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel](https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel-a-71629e1d-a318-4a70-9c9e-ba12ec4e9bdd#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen](https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen-a-2068be7f-ee12-47cb-ba0e-c22c338a0d5f#ref=rss)
-* [https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt](https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt-a-b21886c1-d78e-45bc-bbdb-60ff0ca61280#ref=rss)
-### arbeitslos
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld](https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld-a-c213236b-c1d9-410e-a023-1c62ef5e066f#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld](https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld-a-c213236b-c1d9-410e-a023-1c62ef5e066f#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
+* [https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden](https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden-a-c382f55d-345f-4770-a6fa-8be6594593e0#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer](https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer-a-0dfed0f2-a6c7-440f-ad62-fe5da70ee6b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-koennen-eine-demuetigung-sein-experte-spricht-ueber-kulturkampf-um-schulsport](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-koennen-eine-demuetigung-sein-experte-spricht-ueber-kulturkampf-um-schulsport-a-80478e8d-d290-430b-9aa4-5eae7797775b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen](https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen-a-cfca36dd-8da5-42af-becc-7fee2f17cc3a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-hessen-nordrhein-westfalen-einige-bundeslaender-halten-an-diaetenerhoehung-fest](https://www.spiegel.de/politik/deutschland/bayern-hessen-nordrhein-westfalen-einige-bundeslaender-halten-an-diaetenerhoehung-fest-a-d94ab1a7-267a-4114-b18c-93e7e2a7a4b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer](https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer-a-0dfed0f2-a6c7-440f-ad62-fe5da70ee6b3#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### schlafmangel
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht](https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht-a-da61d0bf-2034-4165-9c6d-25aed5a0024c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien](https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien-a-015bf845-90c2-4147-a6bd-8753d7b06b52#ref=rss)
-### 80
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-62053c31-bd47-4d91-8cc7-e53927a1970f#ref=rss)
-* [https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit](https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit-a-b71819ec-196e-4ee7-8c95-09de4d7af1c2#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-62053c31-bd47-4d91-8cc7-e53927a1970f#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht-a-33da7d23-7f3d-446d-950d-7274958a394d#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool](https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool-a-faaf56a2-9ea6-4b2d-bda0-3844c4b910cc#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-62053c31-bd47-4d91-8cc7-e53927a1970f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-* [https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt](https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt-a-c8701b43-272d-4fe4-9953-f2c5dd6510a9#ref=rss)
-### kritische
-
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### infrastruktur
-
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### dan
-
-* [https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem](https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem-a-17d111fe-0c1d-4978-a557-fc33fbb77500#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem](https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem-a-17d111fe-0c1d-4978-a557-fc33fbb77500#ref=rss)
-### brito
-
-* [https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf](https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf-a-96ccda6a-cb25-48b2-bc53-0f2e7b45b6c3#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf](https://www.spiegel.de/sport/fussball/brasilien-star-brito-ist-tot-es-brauchte-nicht-nur-pele-um-weltmeister-zu-werden-nachruf-a-96ccda6a-cb25-48b2-bc53-0f2e7b45b6c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-### nordirland
-
-* [https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer](https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer-a-27037fd4-faaa-4139-882f-3413cf977fa9#ref=rss)
-### messerattacke
-
-* [https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer](https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer-a-27037fd4-faaa-4139-882f-3413cf977fa9#ref=rss)
-### hass
-
-* [https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer](https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer-a-27037fd4-faaa-4139-882f-3413cf977fa9#ref=rss)
-### einwanderer
-
-* [https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer](https://www.spiegel.de/ausland/nordirland-ausschreitungen-nach-messerattacke-hass-auf-einwanderer-a-27037fd4-faaa-4139-882f-3413cf977fa9#ref=rss)
-### netzwerk
-
-* [https://www.spiegel.de/panorama/voelkisch-und-rueckwaertsgewandt-rechte-burschen-und-ihr-netzwerk-mit-afd-und-neonazis-spiegel-tv](https://www.spiegel.de/panorama/voelkisch-und-rueckwaertsgewandt-rechte-burschen-und-ihr-netzwerk-mit-afd-und-neonazis-spiegel-tv-a-c4582d4b-5d30-4c5a-9bf9-924b05b5c5eb#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-### stars
-
-* [https://www.spiegel.de/kultur/wm-eroeffnungszeremonien-banaler-budenzauber](https://www.spiegel.de/kultur/wm-eroeffnungszeremonien-banaler-budenzauber-a-1287bc5b-821d-43f4-9770-c0b37c1b9c83#ref=rss)
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss](https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss-a-743e1650-96ed-420f-8b1b-efd85d451dce#ref=rss)
-### jeanluc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen](https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen-a-2068be7f-ee12-47cb-ba0e-c22c338a0d5f#ref=rss)
-### dompé
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen](https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen-a-2068be7f-ee12-47cb-ba0e-c22c338a0d5f#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen](https://www.spiegel.de/sport/fussball/bundesliga-jean-luc-dompe-vom-hamburger-sv-muss-hohe-geldstrafe-bezahlen-a-2068be7f-ee12-47cb-ba0e-c22c338a0d5f#ref=rss)
-### unternehmensberater
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld](https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld-a-c213236b-c1d9-410e-a023-1c62ef5e066f#ref=rss)
-### bewirbt
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist](https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### till
-
-* [https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld](https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld-a-c213236b-c1d9-410e-a023-1c62ef5e066f#ref=rss)
-* [https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro](https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro-a-916b4e57-7591-4e8f-af4b-e2d29fd37335#ref=rss)
-### bewerbungen
-
-* [https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld](https://www.spiegel.de/karriere/arbeitslose-akademiker-vom-it-studium-direkt-ins-buergergeld-a-c213236b-c1d9-410e-a023-1c62ef5e066f#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### alle
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-will-arbeiten-aber-niemand-gibt-mir-eine-chance-a-18caf1a4-4f3c-4218-9519-fcef63f4e2f9#ref=rss)
-* [https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt](https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt-a-b21886c1-d78e-45bc-bbdb-60ff0ca61280#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/wissenschaft/technik/klima-tuerkei-und-australien-schlagen-weltweite-elektrifizierungsquote-von-35-prozent-vor](https://www.spiegel.de/wissenschaft/technik/klima-tuerkei-und-australien-schlagen-weltweite-elektrifizierungsquote-von-35-prozent-vor-a-41638d83-fd18-40c2-82e9-caae9b1e1cb7#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wissenschaft/technik/klima-tuerkei-und-australien-schlagen-weltweite-elektrifizierungsquote-von-35-prozent-vor](https://www.spiegel.de/wissenschaft/technik/klima-tuerkei-und-australien-schlagen-weltweite-elektrifizierungsquote-von-35-prozent-vor-a-41638d83-fd18-40c2-82e9-caae9b1e1cb7#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht](https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht-a-da61d0bf-2034-4165-9c6d-25aed5a0024c#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht](https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht-a-da61d0bf-2034-4165-9c6d-25aed5a0024c#ref=rss)
-### zweimal
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht](https://www.spiegel.de/wirtschaft/rene-benko-ex-milliardaer-muss-voraussichtlich-wieder-vor-gericht-a-da61d0bf-2034-4165-9c6d-25aed5a0024c#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem](https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem-a-17d111fe-0c1d-4978-a557-fc33fbb77500#ref=rss)
-### spacex
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-### westnilvirus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss](https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss-a-743e1650-96ed-420f-8b1b-efd85d451dce#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben](https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss)
-* [https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit](https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit-a-b71819ec-196e-4ee7-8c95-09de4d7af1c2#ref=rss)
-### jane
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-### fonda
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-### käfigkampf
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### new
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-### york
-
-* [https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york](https://www.spiegel.de/kultur/jane-fonda-und-trumps-80-geburtstag-gegenaktion-zum-kaefigkampf-in-new-york-a-21995562-0ae5-4de0-a76a-dea32b1ee9b3#ref=rss)
-### rettungsversuch
-
-* [https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro](https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro-a-916b4e57-7591-4e8f-af4b-e2d29fd37335#ref=rss)
-### landwirtschaftsministerium
-
-* [https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro](https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro-a-916b4e57-7591-4e8f-af4b-e2d29fd37335#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro](https://www.spiegel.de/panorama/buckelwal-timmy-rettungsversuch-kostet-das-landwirtschaftsministerium-rund-50-000-euro-a-916b4e57-7591-4e8f-af4b-e2d29fd37335#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen-a-d9c34672-8d62-4e3a-b54c-5215e428b577#ref=rss)
-### bundesjugendspiele
-
-* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-koennen-eine-demuetigung-sein-experte-spricht-ueber-kulturkampf-um-schulsport](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-koennen-eine-demuetigung-sein-experte-spricht-ueber-kulturkampf-um-schulsport-a-80478e8d-d290-430b-9aa4-5eae7797775b#ref=rss)
-### kleze
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### beste
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### cure
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung](https://www.spiegel.de/kultur/musik/klez-e-neues-album-einmal-mehr-mit-dir-gegen-die-furcht-baustelle-der-hoffnung-a-5fdfc98c-5ec0-4943-8c4c-b62ff7e32354#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen](https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen-a-30215d52-df3f-4a48-b5f4-2d4f3fb6caf6#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen](https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen-a-4a5df0c0-b5aa-4d18-b52c-0af5aa56ff63#ref=rss)
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
 ### 2026
 
-* [https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick](https://www.spiegel.de/sport/wm-2026-die-stadien-in-kanada-den-usa-und-mexiko-im-ueberblick-a-733e78d9-ffbd-4c34-9163-ac07ef2a20e1#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
-### friedrich
+* [https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen](https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen-a-4a5df0c0-b5aa-4d18-b52c-0af5aa56ff63#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda-a-eb4fd58d-1b3b-41c0-947c-0101eb8018b0#ref=rss)
+### schlafen
 
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### merz
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool](https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool-a-faaf56a2-9ea6-4b2d-bda0-3844c4b910cc#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### kündigt
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte-a-80d3a25e-5b5f-4e48-b189-b9e6cc5fa483#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht-a-33da7d23-7f3d-446d-950d-7274958a394d#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an](https://www.spiegel.de/ausland/donald-trump-friedrich-merz-kuendigt-geburtstagsgeschenk-fuer-trump-an-a-a7e8d7be-e4cd-49a6-8f2e-978888ab21d8#ref=rss)
-### olivia
+* [https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen](https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen-a-4a5df0c0-b5aa-4d18-b52c-0af5aa56ff63#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda-a-eb4fd58d-1b3b-41c0-947c-0101eb8018b0#ref=rss)
+### wir
 
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss](https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss-a-743e1650-96ed-420f-8b1b-efd85d451dce#ref=rss)
-### rodrigo
+* [https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden](https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden-a-c382f55d-345f-4770-a6fa-8be6594593e0#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss](https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss-a-743e1650-96ed-420f-8b1b-efd85d451dce#ref=rss)
-### plötzlich
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner](https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner-a-7d8af51f-912b-4f31-b74b-eed8bdbe88e9#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss](https://www.spiegel.de/kultur/musik/olivia-rodrigo-wann-entflieht-sie-ihrem-maerchenschloss-a-743e1650-96ed-420f-8b1b-efd85d451dce#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem](https://www.spiegel.de/ausland/alaska-wahl-dan-sullivan-fordert-dan-sullivan-heraus-die-namensgleichheit-ist-ein-problem-a-17d111fe-0c1d-4978-a557-fc33fbb77500#ref=rss)
-### netflix
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte-a-80d3a25e-5b5f-4e48-b189-b9e6cc5fa483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
-### fifa
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner](https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner-a-7d8af51f-912b-4f31-b74b-eed8bdbe88e9#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup](https://www.spiegel.de/netzwelt/games/fifa-spiel-zur-wm-2026-auf-netflix-im-test-das-taugt-das-neue-fifa-world-cup-a-5216d05f-aedf-451b-883a-20f391449778#ref=rss)
-### naruto
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-missbrauch-da-lassen-sich-leute-die-urlaubsreise-finanzieren-samt-ferienwohnung](https://www.spiegel.de/wirtschaft/soziales/pflege-missbrauch-da-lassen-sich-leute-die-urlaubsreise-finanzieren-samt-ferienwohnung-a-a27b67bb-92e0-40a6-b52f-39312c9dea98#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+* [https://www.spiegel.de/kultur/sneaker-und-anzug-sollte-man-das-wirklich-kombinieren](https://www.spiegel.de/kultur/sneaker-und-anzug-sollte-man-das-wirklich-kombinieren-a-f540e625-5cce-4d81-b66e-0ae83c3db365#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt](https://www.spiegel.de/ausland/trump-als-mangafigur-naruto-warum-japan-sich-ueber-ein-ki-video-aufregt-a-c8701b43-272d-4fe4-9953-f2c5dd6510a9#ref=rss)
-### schweiz
+* [https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist](https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist-a-54da6f91-fc5d-45a1-b557-60f7f461c2b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda-a-eb4fd58d-1b3b-41c0-947c-0101eb8018b0#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner](https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner-a-7d8af51f-912b-4f31-b74b-eed8bdbe88e9#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer](https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer-a-e08bb73f-580d-4c97-b589-7b6f0d3be246#ref=rss)
-### zehn
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner](https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner-a-7d8af51f-912b-4f31-b74b-eed8bdbe88e9#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer](https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer-a-e08bb73f-580d-4c97-b589-7b6f0d3be246#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### millionen
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### job
 
-* [https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer](https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer-a-e08bb73f-580d-4c97-b589-7b6f0d3be246#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen-a-d9c34672-8d62-4e3a-b54c-5215e428b577#ref=rss)
+* [https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben](https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben-a-1788da76-83c1-4f3e-86f7-e55a8280cf12#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht-a-33da7d23-7f3d-446d-950d-7274958a394d#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab](https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab-a-a01d5c4d-c8b1-4261-ad9e-f60f178b1620#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+### kampfjets
+
+* [https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab](https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab-a-a01d5c4d-c8b1-4261-ad9e-f60f178b1620#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab](https://www.spiegel.de/ausland/ostsee-schwedische-armee-faengt-zwei-russische-kampfjets-ab-a-a01d5c4d-c8b1-4261-ad9e-f60f178b1620#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+### prideparade
+
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+### feiern
+
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+### protestieren
+
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo](https://www.spiegel.de/panorama/pride-parade-in-seoul-zehntausende-feiern-ebenso-viele-protestieren-auf-gegendemo-a-14489f21-74ab-47d9-99c4-a6b581a10188#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer](https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer-a-0dfed0f2-a6c7-440f-ad62-fe5da70ee6b3#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sklaverei
+
+* [https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen](https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen-a-30215d52-df3f-4a48-b5f4-2d4f3fb6caf6#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen](https://www.spiegel.de/ausland/usa-trump-regierung-muss-entfernte-tafeln-zur-sklaverei-vorerst-wieder-anbringen-a-30215d52-df3f-4a48-b5f4-2d4f3fb6caf6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen](https://www.spiegel.de/sport/fussball-wm-2026-koennen-die-usa-sommermaerchen-a-4a5df0c0-b5aa-4d18-b52c-0af5aa56ff63#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden](https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden-a-c382f55d-345f-4770-a6fa-8be6594593e0#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden](https://www.spiegel.de/ausland/wie-wir-mit-kuenstlicher-intelligenz-zu-einer-gesellschaft-der-trickser-und-huetchenspieler-werden-a-c382f55d-345f-4770-a6fa-8be6594593e0#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### sead
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+### kolašinac
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+### mannschaft
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-abwehr-von-bosniens-sead-kolasinac-gegen-kanada-absolut-sensationell-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+### hisbollah
+
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen](https://www.spiegel.de/ausland/israel-attackiert-hisbollah-im-libanon-mit-luftschlaegen-a-d664f292-9613-48ae-b4fd-a575cb78e518#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-deutschland-drohen-bis-2036-rund-4-3-millionen-fehlende-arbeitskraefte-a-80d3a25e-5b5f-4e48-b189-b9e6cc5fa483#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer](https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer-a-0dfed0f2-a6c7-440f-ad62-fe5da70ee6b3#ref=rss)
+### funktioniert
+
+* [https://www.spiegel.de/wissenschaft/natur/duenger-ersatz-vom-trockenklo-auf-den-acker-und-zurueck](https://www.spiegel.de/wissenschaft/natur/duenger-ersatz-vom-trockenklo-auf-den-acker-und-zurueck-a-3c5aa895-551c-47ac-9486-623f0f6d3125#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+### land
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner](https://www.spiegel.de/ausland/pakistan-meldet-einigung-ueber-text-des-abkommens-teheran-erklaert-sich-zum-kriegsgewinner-a-7d8af51f-912b-4f31-b74b-eed8bdbe88e9#ref=rss)
+### perfekten
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land](https://www.spiegel.de/sport/fussball-wm-2026-usa-gewinnen-auftaktspiel-gegen-paraguay-im-eigenen-land-a-3f1acd8f-e06c-4d86-a0bc-1e326d7f554c#ref=rss)
+### david
+
+* [https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist](https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist-a-54da6f91-fc5d-45a1-b557-60f7f461c2b6#ref=rss)
+### beckham
+
+* [https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist](https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist-a-54da6f91-fc5d-45a1-b557-60f7f461c2b6#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist](https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist-a-54da6f91-fc5d-45a1-b557-60f7f461c2b6#ref=rss)
+* [https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben](https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben-a-1788da76-83c1-4f3e-86f7-e55a8280cf12#ref=rss)
+### ärger
+
+* [https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist](https://www.spiegel.de/panorama/leute/david-beckham-erzaehlt-wie-das-virale-be-honest-meme-entstanden-ist-a-54da6f91-fc5d-45a1-b557-60f7f461c2b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### trionda
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-untersuchung-zum-wm-spielball-trionda-a-eb4fd58d-1b3b-41c0-947c-0101eb8018b0#ref=rss)
+### leben
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer](https://www.spiegel.de/politik/deutschland/ukraine-krieg-uno-meldet-hoechststand-ziviler-opfer-a-060b3430-a09b-474c-be16-3733428f044f#ref=rss)
+* [https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben](https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben-a-1788da76-83c1-4f3e-86f7-e55a8280cf12#ref=rss)
+### anthropic
+
+* [https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen](https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen-a-cfca36dd-8da5-42af-becc-7fee2f17cc3a#ref=rss)
+### mythos
+
+* [https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen](https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen-a-cfca36dd-8da5-42af-becc-7fee2f17cc3a#ref=rss)
+### 5
+
+* [https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen](https://www.spiegel.de/netzwelt/anthropic-ki-modell-mythos-nach-us-exportbeschraenkungen-vom-netz-genommen-a-cfca36dd-8da5-42af-becc-7fee2f17cc3a#ref=rss)
+### schlecht
+
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+### unter
+
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wie-schlecht-schlafen-mutter-und-vater-von-zwei-kindern-unter-zwei-a-748b981d-da1a-453b-b22d-707a5f471792#ref=rss)
+### bundesländer
+
+* [https://www.spiegel.de/politik/deutschland/bayern-hessen-nordrhein-westfalen-einige-bundeslaender-halten-an-diaetenerhoehung-fest](https://www.spiegel.de/politik/deutschland/bayern-hessen-nordrhein-westfalen-einige-bundeslaender-halten-an-diaetenerhoehung-fest-a-d94ab1a7-267a-4114-b18c-93e7e2a7a4b6#ref=rss)
+### knds
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer](https://www.spiegel.de/wirtschaft/unternehmen/knds-abgeordnete-fordern-mehr-macht-des-bundes-beim-panzerbauer-a-0dfed0f2-a6c7-440f-ad62-fe5da70ee6b3#ref=rss)
+### crafting
+
+* [https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben](https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben-a-1788da76-83c1-4f3e-86f7-e55a8280cf12#ref=rss)
+### passt
+
+* [https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben](https://www.spiegel.de/karriere/job-crafting-in-fuenf-schritten-die-arbeit-wieder-lieben-lernen-best-of-smarter-leben-a-1788da76-83c1-4f3e-86f7-e55a8280cf12#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer](https://www.spiegel.de/ausland/schweiz-svp-initiative-zur-bevoelkerungsobergrenze-verunsichert-zuwanderer-a-e08bb73f-580d-4c97-b589-7b6f0d3be246#ref=rss)
-* [https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit](https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit-a-b71819ec-196e-4ee7-8c95-09de4d7af1c2#ref=rss)
-### bundestag
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-schafft-bahncard-100-plastikkarte-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-schafft-bahncard-100-plastikkarte-ab-a-dc5a51ce-80c3-4099-8f16-cac17132ae8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### 100
 
-* [https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel](https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel-a-71629e1d-a318-4a70-9c9e-ba12ec4e9bdd#ref=rss)
-### kam
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-schafft-bahncard-100-plastikkarte-ab](https://www.spiegel.de/wirtschaft/deutsche-bahn-schafft-bahncard-100-plastikkarte-ab-a-dc5a51ce-80c3-4099-8f16-cac17132ae8d#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel](https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel-a-71629e1d-a318-4a70-9c9e-ba12ec4e9bdd#ref=rss)
-### vorfall
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### schlafentzug
 
-* [https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel](https://www.spiegel.de/politik/deutschland/afd-entsandte-im-parlament-nach-dem-auftritt-im-bundestag-kam-es-zum-polizeieinsatz-im-hotel-a-71629e1d-a318-4a70-9c9e-ba12ec4e9bdd#ref=rss)
-### tod
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### jasmin
 
-* [https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt](https://www.spiegel.de/kultur/zum-tod-von-david-hockney-er-strahlte-optimismus-in-die-welt-a-b21886c1-d78e-45bc-bbdb-60ff0ca61280#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien](https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien-a-015bf845-90c2-4147-a6bd-8753d7b06b52#ref=rss)
-### justizminister
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+### oleg
 
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### anschläge
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-verstehe-gut-warum-schlafentzug-eine-foltermethode-ist-a-22528593-2981-4062-9ab2-625dc521efa6#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur](https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-justizminister-wollen-haertere-strafen-fuer-anschlaege-auf-die-kritische-infrastruktur-a-634c03cb-ca43-4a45-a300-d712266d3251#ref=rss)
-### neapel
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht](https://www.spiegel.de/familie/schlafmangel-bei-eltern-ich-habe-in-noch-versucht-zu-arbeiten-aber-es-ging-einfach-nicht-a-33da7d23-7f3d-446d-950d-7274958a394d#ref=rss)
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### lilith
 
-* [https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien](https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien-a-015bf845-90c2-4147-a6bd-8753d7b06b52#ref=rss)
-### berufsverbot
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+### nächte
 
-* [https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien](https://www.spiegel.de/panorama/justiz/neapel-berufsverbot-fuer-aerzte-nach-tod-von-herzkrankem-domenico-in-italien-a-015bf845-90c2-4147-a6bd-8753d7b06b52#ref=rss)
-### turnier
+* [https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen](https://www.spiegel.de/familie/schlafentzug-bei-eltern-ich-habe-wieder-in-allen-3-betten-geschlafen-a-3e5b997c-9c1c-45b0-9ffe-57157664f62c#ref=rss)
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich](https://www.spiegel.de/familie/schlafmangel-bei-eltern-wir-haben-muetter-und-vaeter-getrackt-so-schlecht-schlafen-sie-wirklich-a-8004a752-d6a1-464c-88bd-5a2217f1e424#ref=rss)
+### andere
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-62053c31-bd47-4d91-8cc7-e53927a1970f#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool](https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool-a-faaf56a2-9ea6-4b2d-bda0-3844c4b910cc#ref=rss)
+### wo
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-befreit-vereinsfeste-von-gema-zahlungen-a-d9c34672-8d62-4e3a-b54c-5215e428b577#ref=rss)
-### luft
+* [https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool](https://www.spiegel.de/familie/schlafmangel-bei-eltern-schlafen-sie-schlechter-als-andere-interaktives-tool-a-faaf56a2-9ea6-4b2d-bda0-3844c4b910cc#ref=rss)
+### geburtstag
 
-* [https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit](https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit-a-b71819ec-196e-4ee7-8c95-09de4d7af1c2#ref=rss)
-### nationalsozialismus
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
+### nationalmannschaft
 
-* [https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit](https://www.spiegel.de/geschichte/forschungszentrum-fuer-luft-und-raumfahrt-im-nationalsozialismus-verfolgung-menschenversuche-zwangsarbeit-a-b71819ec-196e-4ee7-8c95-09de4d7af1c2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft](https://www.spiegel.de/politik/deutschland/news-donald-trumps-geburtstag-iran-krieg-deutsche-nationalmannschaft-a-bfeccfcb-5aa5-4304-8030-6b6a500ae589#ref=rss)
 
