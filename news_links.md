@@ -4,366 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bahn
+### new
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn-a-0969ef71-27b8-4911-af09-b9ad3bdf646f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa](https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa-a-1cc40f53-d3ee-4cad-b7f5-eb97ebb25ce1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-* [https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest](https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest-a-e8e2ce1c-7b84-485e-b3cb-66c732477dba#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump](https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump-a-c84cc184-0fb4-45fe-a233-1aeb9abc85d5#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### sonntag
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump](https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump-a-c84cc184-0fb4-45fe-a233-1aeb9abc85d5#ref=rss)
+### knicks
 
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde](https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde-a-19b046b7-35c6-4154-a6bd-b05efa4a1fcb#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
-### könig
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-* [https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour](https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour-a-2c84f689-5770-4102-afe0-f99972c61b8a#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler](https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler-a-74d5cfc3-63f0-4ebf-8ca9-b85a9ba24a9b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system](https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system-a-58f4e0cd-e749-4cc0-927a-a6703696bdd8#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn-a-0969ef71-27b8-4911-af09-b9ad3bdf646f#ref=rss)
-### folgt
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn-a-0969ef71-27b8-4911-af09-b9ad3bdf646f#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-das-folgt-aus-dem-megaflop-der-deutschen-bahn-a-0969ef71-27b8-4911-af09-b9ad3bdf646f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-### großbordell
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt](https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt-a-3e60e9ee-8ad8-4a35-be71-e7b465a0cf7e#ref=rss)
-### artemis
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt](https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt-a-3e60e9ee-8ad8-4a35-be71-e7b465a0cf7e#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt](https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt-a-3e60e9ee-8ad8-4a35-be71-e7b465a0cf7e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-### millionenhöhe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt](https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt-a-3e60e9ee-8ad8-4a35-be71-e7b465a0cf7e#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt](https://www.spiegel.de/wirtschaft/unternehmen/berlin-grossbordell-artemis-offenbar-mit-coronahilfen-in-millionenhoehe-gestuetzt-a-3e60e9ee-8ad8-4a35-be71-e7b465a0cf7e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt](https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt-a-ff795229-b6c3-403f-8176-5c6244d369e3#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+* [https://www.spiegel.de/psychologie/empathie-lernen-koennen-sie-sich-in-andere-einfuehlen-dieses-coaching-hilft-ihnen](https://www.spiegel.de/psychologie/empathie-lernen-koennen-sie-sich-in-andere-einfuehlen-dieses-coaching-hilft-ihnen-a-b37a74a7-e0b2-4b92-975d-2c0789d06ad7#ref=rss)
 ### 2026
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### tierorakel
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond](https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond-a-9ad2ccfd-df92-48df-850e-dc222a31089e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse](https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse-a-265ad061-fcbc-4a4f-8c96-61938a1087ad#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### dfbelf
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-### tina
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-### glaubt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-### heißt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-tierorakel-tina-glaubt-nicht-an-deutschen-sieg-a-d6d6ad1b-2325-4cdf-90bc-921743f2e54b#ref=rss)
-* [https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour](https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour-a-2c84f689-5770-4102-afe0-f99972c61b8a#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa](https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa-a-1cc40f53-d3ee-4cad-b7f5-eb97ebb25ce1#ref=rss)
-### abkommen
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa](https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa-a-1cc40f53-d3ee-4cad-b7f5-eb97ebb25ce1#ref=rss)
-### deal
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa](https://www.spiegel.de/ausland/iran-abkommen-vermittler-pakistan-erwartet-rasche-einigung-mit-den-usa-a-1cc40f53-d3ee-4cad-b7f5-eb97ebb25ce1#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden](https://www.spiegel.de/ausland/iran-krieg-donald-trump-widerspricht-iran-abkommen-soll-am-sonntag-unterzeichnet-werden-a-70738eb1-8b6f-4a88-9402-72ea421af209#ref=rss)
-* [https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf](https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf-a-ff3db2f7-0a64-459f-9901-adfe79bdb19c#ref=rss)
-### helgoland
-
-* [https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee](https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee-a-b0ca95bb-412a-4de4-948e-eeb1805fc40c#ref=rss)
-### funny
-
-* [https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee](https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee-a-b0ca95bb-412a-4de4-948e-eeb1805fc40c#ref=rss)
-### girl
-
-* [https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee](https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee-a-b0ca95bb-412a-4de4-948e-eeb1805fc40c#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee](https://www.spiegel.de/panorama/helgoland-faehre-funny-girl-treibt-manoevrierunfaehig-in-der-nordsee-a-b0ca95bb-412a-4de4-948e-eeb1805fc40c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### rauchen
-
-* [https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind](https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind-a-0595bdae-e44c-41c6-8a96-7a395aaecf57#ref=rss)
-### zigaretten
-
-* [https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind](https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind-a-0595bdae-e44c-41c6-8a96-7a395aaecf57#ref=rss)
-### gen
-
-* [https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind](https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind-a-0595bdae-e44c-41c6-8a96-7a395aaecf57#ref=rss)
-### z
-
-* [https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind](https://www.spiegel.de/kultur/rauchen-warum-zigaretten-bei-gen-z-und-promis-wieder-angesagt-sind-a-0595bdae-e44c-41c6-8a96-7a395aaecf57#ref=rss)
-### belästigungsvorwürfe
-
-* [https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast](https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast-a-50cd7833-d424-4b1a-aac7-e4edeb76473f#ref=rss)
-### roland
-
-* [https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast](https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast-a-50cd7833-d424-4b1a-aac7-e4edeb76473f#ref=rss)
-### weißmann
-
-* [https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast](https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast-a-50cd7833-d424-4b1a-aac7-e4edeb76473f#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast](https://www.spiegel.de/ausland/oesterreich-metoo-fall-beim-orf-belaestigungsvorwuerfe-gegen-roland-weissmann-podcast-a-50cd7833-d424-4b1a-aac7-e4edeb76473f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin-a-b375a504-1c77-452e-bd54-38d7c0d09d4d#ref=rss)
-### arktis
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-### finden
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-* [https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf](https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf-a-ff3db2f7-0a64-459f-9901-adfe79bdb19c#ref=rss)
-### system
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-* [https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system](https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system-a-58f4e0cd-e749-4cc0-927a-a6703696bdd8#ref=rss)
-### kippt
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-### schwinden
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt](https://www.spiegel.de/wissenschaft/natur/arktis-forscher-finden-hinweise-dass-das-system-jetzt-schon-kippt-a-5bd0bca8-c97f-4cb1-8c08-a9e7866e8750#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### carl
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### gustaf
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### silvia
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### goldene
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### hochzeit
-
-* [https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit](https://www.spiegel.de/panorama/schweden-koenig-carl-gustaf-und-koenigin-silvia-feiern-goldene-hochzeit-a-49d053f1-806c-492c-94a5-c80407c7b3fb#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### center
-
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### name
-
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### fassade
-
-* [https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade](https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-verschwindet-von-der-fassade-a-bf36b966-2c72-4e53-a5d9-fb0621c6f072#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-1da66ed4-6fd8-4d4e-b901-f5eb5335a80c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-1da66ed4-6fd8-4d4e-b901-f5eb5335a80c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
-### programm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-1da66ed4-6fd8-4d4e-b901-f5eb5335a80c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler](https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler-a-74d5cfc3-63f0-4ebf-8ca9-b85a9ba24a9b#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-### parteitag
-
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin-a-b375a504-1c77-452e-bd54-38d7c0d09d4d#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-* [https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf](https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf-a-ff3db2f7-0a64-459f-9901-adfe79bdb19c#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest](https://www.spiegel.de/ausland/ungarn-fidesz-haelt-trotz-machtverlust-vorerst-an-viktor-orban-fest-a-2f14c6b1-1a79-4b19-a6ff-2d8090cb3486#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde](https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde-a-19b046b7-35c6-4154-a6bd-b05efa4a1fcb#ref=rss)
-### hug
-
-* [https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde](https://www.spiegel.de/stil/daniel-hug-wie-ein-nzz-redakteur-zum-uhrenhistoriker-wurde-a-19b046b7-35c6-4154-a6bd-b05efa4a1fcb#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### bande
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### originalausgaben
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### russischer
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### literatur
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen](https://www.spiegel.de/panorama/justiz/frankreich-bande-ersetzt-originalausgaben-russischer-literatur-durch-faelschungen-a-052be473-a847-408d-96ec-5b08f1a440fb#ref=rss)
-### oberbayern
-
-* [https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss](https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss-a-ff1f192d-fc59-4d8c-8fe2-e86e44e1d1a7#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss](https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss-a-ff1f192d-fc59-4d8c-8fe2-e86e44e1d1a7#ref=rss)
-### frontalzusammenstoß
-
-* [https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss](https://www.spiegel.de/panorama/autounfall-in-oberbayern-familie-mit-kleinkind-stirbt-bei-frontalzusammenstoss-a-ff1f192d-fc59-4d8c-8fe2-e86e44e1d1a7#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest](https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest-a-e8e2ce1c-7b84-485e-b3cb-66c732477dba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler](https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler-a-74d5cfc3-63f0-4ebf-8ca9-b85a9ba24a9b#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest](https://www.spiegel.de/kultur/nsdap-archiv-was-die-recherche-in-der-nazi-kartei-bei-kuenstlern-ausloest-a-e8e2ce1c-7b84-485e-b3cb-66c732477dba#ref=rss)
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
-### seth
-
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
-### rogen
-
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond](https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond-a-9ad2ccfd-df92-48df-850e-dc222a31089e#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
-### ehe
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### sagrada
 
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
-### glücklich
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### família
 
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+* [https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche](https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche-a-1d18bccb-2ae6-4df6-95bb-fc2b3b262871#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond](https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond-a-9ad2ccfd-df92-48df-850e-dc222a31089e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse](https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse-a-265ad061-fcbc-4a4f-8c96-61938a1087ad#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr](https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr-a-9aff8fb4-31f0-46a1-acdd-cdcd2b2adb87#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump](https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump-a-c84cc184-0fb4-45fe-a233-1aeb9abc85d5#ref=rss)
+### strecke
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
+### hamburgberlin
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung](https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung-a-a67272ab-e3d3-421d-aa26-ad0ff0e81103#ref=rss)
+* [https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr](https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr-a-9aff8fb4-31f0-46a1-acdd-cdcd2b2adb87#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### 80
+
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
+* [https://www.spiegel.de/psychologie/empathie-lernen-koennen-sie-sich-in-andere-einfuehlen-dieses-coaching-hilft-ihnen](https://www.spiegel.de/psychologie/empathie-lernen-koennen-sie-sich-in-andere-einfuehlen-dieses-coaching-hilft-ihnen-a-b37a74a7-e0b2-4b92-975d-2c0789d06ad7#ref=rss)
+### nbatitel
+
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt](https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt-a-ff795229-b6c3-403f-8176-5c6244d369e3#ref=rss)
+* [https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche](https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche-a-1d18bccb-2ae6-4df6-95bb-fc2b3b262871#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump](https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump-a-c84cc184-0fb4-45fe-a233-1aeb9abc85d5#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
+### kapitän
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen](https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen-a-398e2354-ac1d-4297-8b97-d9b08cee12d0#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schweiz-gegen-katar-granit-xhaka-kritisiert-team-heftig-tuerkei-verliert-gegen-australien-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### nba
+
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
+### 53
+
+* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+### bevölkerungszahl
+
+* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals](https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals-a-6e6f60c3-8955-4815-8abf-1deeff11d206#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
+### finanzierung
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
+### bodensee
+
+* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
+### felchen
+
+* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
+### marmelade
+
+* [https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung](https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung-a-a67272ab-e3d3-421d-aa26-ad0ff0e81103#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+### geburtstag
+
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar](https://www.spiegel.de/ausland/iran-krieg-einigung-ueber-moegliches-iran-rahmenabkommen-weiter-unklar-a-2f3783e8-55f6-4681-8f82-5b38139466c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump](https://www.spiegel.de/politik/deutschland/news-irankrieg-donald-trump-a-c84cc184-0fb4-45fe-a233-1aeb9abc85d5#ref=rss)
+### italo
+
+* [https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr](https://www.spiegel.de/mobilitaet/italo-evg-warnt-vor-abkopplung-von-16-staedten-vom-bahn-fernverkehr-a-9aff8fb4-31f0-46a1-acdd-cdcd2b2adb87#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+### verraten
+
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht](https://www.spiegel.de/panorama/leute/seth-rogen-was-den-komiker-seit-jahren-in-der-ehe-gluecklich-macht-a-277198ac-61b4-47f0-a6da-f76c92853b75#ref=rss)
-* [https://www.spiegel.de/familie/tipps-bei-schlafmangel-was-schlaflose-naechte-mit-eltern-machen-und-wie-sie-sie-gut-ueberstehen](https://www.spiegel.de/familie/tipps-bei-schlafmangel-was-schlaflose-naechte-mit-eltern-machen-und-wie-sie-sie-gut-ueberstehen-a-c2bd1443-8b96-4b0d-99af-37b1fa6fdc7d#ref=rss)
-### justizminister
+* [https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert](https://www.spiegel.de/wissenschaft/sagrada-familia-in-barcelona-wie-die-revolutionaere-statik-der-kirche-funktioniert-a-26e49293-e910-4cc4-b642-ac760e8754f9#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### schattenflotte
 
-* [https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf](https://www.spiegel.de/karriere/jurastudium-justizminister-sehen-keinen-grossen-reformbedarf-a-ff3db2f7-0a64-459f-9901-adfe79bdb19c#ref=rss)
-### marburg
+* [https://www.spiegel.de/ausland/grossbritannien-meldet-einsatz-gegen-schiff-der-russischen-schattenflotte-im-aermelkanal](https://www.spiegel.de/ausland/grossbritannien-meldet-einsatz-gegen-schiff-der-russischen-schattenflotte-im-aermelkanal-a-185a515a-e60a-48d7-810b-1657cfe49577#ref=rss)
+### cartoons
 
-* [https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern](https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern-a-f3746fbe-4625-4bcb-9456-71102a6b3722#ref=rss)
-### uni
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+### käfig
 
-* [https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern](https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern-a-f3746fbe-4625-4bcb-9456-71102a6b3722#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+### politik
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-donald-trump-im-kaefig-und-die-ki-hoffnung-der-politik-a-20cab5a1-b233-48b1-85f1-bcc4ca9079d8#ref=rss)
+### curaçao
+
+* [https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond](https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond-a-9ad2ccfd-df92-48df-850e-dc222a31089e#ref=rss)
+### stars
+
+* [https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond](https://www.spiegel.de/deinspiegel/wm-2026-gruppe-e-aus-sicht-dreier-jugendlicher-auf-curacao-sagt-man-de-bal-is-rond-a-9ad2ccfd-df92-48df-850e-dc222a31089e#ref=rss)
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen](https://www.spiegel.de/ausland/donald-trump-und-der-80-geburtstag-was-berliner-dem-us-praesidenten-wuenschen-a-8b3cb663-86f0-4541-95ca-4ed3ca01a456#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals](https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals-a-6e6f60c3-8955-4815-8abf-1deeff11d206#ref=rss)
+### timothée
+
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+### chalamet
+
+* [https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars](https://www.spiegel.de/sport/basketball/timothee-chalamet-zu-knicks-erfolg-in-der-nba-lieber-das-hier-als-die-oscars-a-b264597f-2d9f-42a2-9c50-558004b3a636#ref=rss)
+### a8
+
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
+### dachbox
+
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
 ### vier
 
-* [https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern](https://www.spiegel.de/start/marburg-diese-mitbewohner-werden-fuer-die-uni-zu-influencern-a-f3746fbe-4625-4bcb-9456-71102a6b3722#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
-### charles
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+### autos
 
-* [https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour](https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour-a-2c84f689-5770-4102-afe0-f99972c61b8a#ref=rss)
-### the
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour](https://www.spiegel.de/panorama/koenig-charles-so-liefen-seine-geburtstagsfeierlichkeiten-bei-trooping-the-colour-a-2c84f689-5770-4102-afe0-f99972c61b8a#ref=rss)
-### tausende
+* [https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos](https://www.spiegel.de/panorama/a8-bei-weyarn-dachbox-oeffnet-sich-auf-der-autobahn-unfall-mit-vier-autos-a-3413e380-2461-4c38-8792-f0ba822ba9a0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben](https://www.spiegel.de/panorama/justiz/new-york-city-mann-soll-17-jaehrigen-ins-koma-gepruegelt-haben-a-e79a2727-a742-4a55-a88d-bd00fb13915c#ref=rss)
+### klar
 
-* [https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha](https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha-a-04bc68b3-b56a-4679-b2fe-29d7b89f00ab#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha](https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha-a-04bc68b3-b56a-4679-b2fe-29d7b89f00ab#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha](https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha-a-04bc68b3-b56a-4679-b2fe-29d7b89f00ab#ref=rss)
-### tod
-
-* [https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha](https://www.spiegel.de/ausland/thailand-tausende-nehmen-abschied-von-prinzessin-bha-a-04bc68b3-b56a-4679-b2fe-29d7b89f00ab#ref=rss)
-### sven
-
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-### schulze
-
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-### cduministerpräsident
-
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/sven-schulze-cdu-ministerpraesident-warnt-vor-isolation-durch-umgang-mit-der-afd-a-cf6763d4-0166-47e2-86c6-df6a7c1ac2cf#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-neues-familienticket-fuer-knapp-100-euro-startet-am-sonntag-a-96a54000-7dd5-4fd0-a0f6-439641808caf#ref=rss)
-* [https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system](https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system-a-58f4e0cd-e749-4cc0-927a-a6703696bdd8#ref=rss)
-### ghanas
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### partey
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-### land
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon](https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-laesst-ghanas-thomas-partey-nicht-einreisen-die-usa-schon-a-42212628-0878-4583-9e42-a793a66ae1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin-a-b375a504-1c77-452e-bd54-38d7c0d09d4d#ref=rss)
-### ralf
-
-* [https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler](https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler-a-74d5cfc3-63f0-4ebf-8ca9-b85a9ba24a9b#ref=rss)
-### ludwig
-
-* [https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler](https://www.spiegel.de/wirtschaft/mdr-intendant-ralf-ludwig-die-afd-plaene-wuerden-teurer-fuer-die-beitragszahler-a-74d5cfc3-63f0-4ebf-8ca9-b85a9ba24a9b#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin-a-b375a504-1c77-452e-bd54-38d7c0d09d4d#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-mit-traumergebnis-zur-spitzenkandidatin-a-b375a504-1c77-452e-bd54-38d7c0d09d4d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse](https://www.spiegel.de/sport/fussball/wm-2026-brasilien-gegen-marokko-dass-sie-probleme-haben-war-klar-aber-so-grosse-a-265ad061-fcbc-4a4f-8c96-61938a1087ad#ref=rss)
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
 ### sydney
 
-* [https://www.spiegel.de/panorama/sydney-frau-bei-hai-angriff-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/sydney-frau-bei-hai-angriff-lebensgefaehrlich-verletzt-a-995f4f07-5864-4896-b0ab-dcc26a9b42a8#ref=rss)
-### schach
+* [https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen](https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen-a-398e2354-ac1d-4297-8b97-d9b08cee12d0#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system](https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system-a-58f4e0cd-e749-4cc0-927a-a6703696bdd8#ref=rss)
-### einfluss
+* [https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen](https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen-a-398e2354-ac1d-4297-8b97-d9b08cee12d0#ref=rss)
+### halten
 
-* [https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system](https://www.spiegel.de/sport/schach/schach-russland-dominierte-den-sport-ueber-jahrzehnte-jetzt-broeckelt-das-system-a-58f4e0cd-e749-4cc0-927a-a6703696bdd8#ref=rss)
-### eltern
+* [https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen](https://www.spiegel.de/wissenschaft/technik/sydney-in-australien-nach-hai-attacke-sollen-drohnen-schwimmer-besser-schuetzen-a-398e2354-ac1d-4297-8b97-d9b08cee12d0#ref=rss)
+* [https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel](https://www.spiegel.de/sport/basketball/new-york-lets-go-knicks-so-feiert-new-york-den-nba-titel-a-d438afdf-ae2a-4258-9b5b-a5c3a20e8877#ref=rss)
+### i̇lkay
 
-* [https://www.spiegel.de/familie/tipps-bei-schlafmangel-was-schlaflose-naechte-mit-eltern-machen-und-wie-sie-sie-gut-ueberstehen](https://www.spiegel.de/familie/tipps-bei-schlafmangel-was-schlaflose-naechte-mit-eltern-machen-und-wie-sie-sie-gut-ueberstehen-a-c2bd1443-8b96-4b0d-99af-37b1fa6fdc7d#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### gündoğan
+
+* [https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird](https://www.spiegel.de/sport/ilkay-guendogan-kolumne-zur-fussball-wm-2026-warum-deutschland-ueberraschen-wird-a-62df1300-0a68-40df-a408-75e7ee9b49fc#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt](https://www.spiegel.de/panorama/frankreich-drei-menschen-im-mont-blanc-massiv-verunglueckt-a-ff795229-b6c3-403f-8176-5c6244d369e3#ref=rss)
+### timmy
+
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals](https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals-a-6e6f60c3-8955-4815-8abf-1deeff11d206#ref=rss)
+### knochen
+
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals](https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals-a-6e6f60c3-8955-4815-8abf-1deeff11d206#ref=rss)
+### buckelwals
+
+* [https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals](https://www.spiegel.de/wissenschaft/natur/wal-timmy-museen-konkurrieren-um-knochen-des-buckelwals-a-6e6f60c3-8955-4815-8abf-1deeff11d206#ref=rss)
+### münze
+
+* [https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche](https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche-a-1d18bccb-2ae6-4df6-95bb-fc2b3b262871#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche](https://www.spiegel.de/karriere/eine-muenze-und-drei-frauen-raetsel-der-woche-a-1d18bccb-2ae6-4df6-95bb-fc2b3b262871#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### bustickets
+
+* [https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich](https://www.spiegel.de/ausland/gute-nachricht-sagrada-familia-waechst-dfb-elf-gibt-bustickets-aus-erfurt-macht-gluecklich-a-235ee647-403e-45c6-ba78-dbdc67664725#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
+### manuela
+
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
+### schwesig
+
+* [https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig](https://www.spiegel.de/politik/spd-in-mecklenburg-vorpommern-wie-wollen-sie-die-afd-einholen-manuela-schwesig-a-30315459-635b-4947-ab32-ea4c3723137b#ref=rss)
+### züge
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-hamburg-hannover-fuer-zuege-gesperrt-hamburg-berlin-wieder-freigegeben-a-671f60e7-67c5-4546-9e8f-d20fac509b63#ref=rss)
 
