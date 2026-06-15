@@ -4,333 +4,392 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### curaçao
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn](https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn-a-e7c556fb-c32b-47a1-a74b-2062cfd53bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn](https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn-a-e7c556fb-c32b-47a1-a74b-2062cfd53bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung](https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung-a-a67272ab-e3d3-421d-aa26-ad0ff0e81103#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-* [https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts](https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts-a-b68c129d-b7dd-42a3-8662-a7c605772240#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt](https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt-a-fc4ea20a-0153-4804-9663-123bcc6d45ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt](https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt-a-6cfe8e58-2157-44f7-a9db-8399b33a2f0a#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt](https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt-a-b96bd3d4-36bc-42e4-b48e-d7e16b750d1b#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### 55
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-* [https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts](https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts-a-b68c129d-b7dd-42a3-8662-a7c605772240#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-* [https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts](https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts-a-b68c129d-b7dd-42a3-8662-a7c605772240#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen](https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen-a-a9edbd35-7cb2-48f6-ac52-fb63a6579261#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt](https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt-a-fc4ea20a-0153-4804-9663-123bcc6d45ac#ref=rss)
-### platz
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari-a-76887e82-ecbc-4a17-ae17-f72103eb340e#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/bikepacking-taschen-im-test-gepaecksets-von-ortlibe-cyclite-topeak-restrap-und-capsuled-1780573174](https://www.spiegel.de/tests/fahrrad-zubehoer/bikepacking-taschen-im-test-gepaecksets-von-ortlibe-cyclite-topeak-restrap-und-capsuled-1780573174-a-c7f943e8-b2c2-4e9d-ba05-7885fa4fa934#ref=rss)
-### nba
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen](https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt](https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt-a-b96bd3d4-36bc-42e4-b48e-d7e16b750d1b#ref=rss)
-### york
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen](https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/streit-in-beziehungen-wie-paare-nach-toxischem-schweigen-wieder-ins-gespraech-kommen](https://www.spiegel.de/wissenschaft/mensch/streit-in-beziehungen-wie-paare-nach-toxischem-schweigen-wieder-ins-gespraech-kommen-a-5a1aad70-860b-49b7-8d0e-3b7121e4a2a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt](https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt-a-b96bd3d4-36bc-42e4-b48e-d7e16b750d1b#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
 ### 80
 
-* [https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt](https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt-a-b96bd3d4-36bc-42e4-b48e-d7e16b750d1b#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### liveticker
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-curacao-im-liveticker-a-4df6e223-7a79-41ae-94c5-6ff5933ce7e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
-### zehnmillioneninitiative
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-### ergebnis
-
-* [https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab](https://www.spiegel.de/ausland/schweiz-schweizer-lehnen-zehnmillioneninitiative-mit-55-prozent-ab-a-a743f3b3-712e-42d1-8377-d35288802e66#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
-### genf
-
-* [https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel](https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel-a-45b6c0e0-193d-4ab6-b009-9a81cd4a5795#ref=rss)
-### g7gipfel
-
-* [https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel](https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel-a-45b6c0e0-193d-4ab6-b009-9a81cd4a5795#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel](https://www.spiegel.de/ausland/genf-grossaufgebot-der-polizei-bei-protesten-gegen-g7-gipfel-a-45b6c0e0-193d-4ab6-b009-9a81cd4a5795#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen](https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen](https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen-a-a9edbd35-7cb2-48f6-ac52-fb63a6579261#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen](https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen-a-a9edbd35-7cb2-48f6-ac52-fb63a6579261#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen](https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen-a-a9edbd35-7cb2-48f6-ac52-fb63a6579261#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen](https://www.spiegel.de/sport/fussball/aufregung-um-spruch-von-juergen-klopp-bundestrainer-julian-nagelsmann-reagiert-gelassen-a-a9edbd35-7cb2-48f6-ac52-fb63a6579261#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-### begrenzung
-
-* [https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts](https://www.spiegel.de/ausland/schweizer-volksabstimmung-ueber-begrenzung-der-migration-ende-eines-erfolgsrezepts-a-b68c129d-b7dd-42a3-8662-a7c605772240#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
-### findet
-
-* [https://www.spiegel.de/kultur/ed-sheeran-verhilft-lang-vergessener-platte-von-1978-zu-spaetem-streaming-debuet](https://www.spiegel.de/kultur/ed-sheeran-verhilft-lang-vergessener-platte-von-1978-zu-spaetem-streaming-debuet-a-f4408139-98c9-4c3f-9ff5-46fbc4ab3737#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/ed-sheeran-verhilft-lang-vergessener-platte-von-1978-zu-spaetem-streaming-debuet](https://www.spiegel.de/kultur/ed-sheeran-verhilft-lang-vergessener-platte-von-1978-zu-spaetem-streaming-debuet-a-f4408139-98c9-4c3f-9ff5-46fbc4ab3737#ref=rss)
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt](https://www.spiegel.de/politik/deutschland/cdu-und-afd-das-kumpel-foto-der-witz-und-die-frage-was-cdu-und-afd-in-sachsen-anhalt-noch-trennt-a-fc4ea20a-0153-4804-9663-123bcc6d45ac#ref=rss)
-### windrad
-
-* [https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt](https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt-a-cd1f076d-79e4-439f-a92d-828a5fbde56e#ref=rss)
-### bahnstrecke
-
-* [https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt](https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt-a-cd1f076d-79e4-439f-a92d-828a5fbde56e#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt](https://www.spiegel.de/panorama/brand-in-nordrhein-westfalen-windrad-in-flammen-bahnstrecke-gesperrt-a-cd1f076d-79e4-439f-a92d-828a5fbde56e#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari-a-76887e82-ecbc-4a17-ae17-f72103eb340e#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari-a-76887e82-ecbc-4a17-ae17-f72103eb340e#ref=rss)
-### ferrari
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari-a-76887e82-ecbc-4a17-ae17-f72103eb340e#ref=rss)
-### lief
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-barcelona-lewis-hamilton-gewinnt-erstmals-grand-prix-fuer-ferrari-a-76887e82-ecbc-4a17-ae17-f72103eb340e#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn](https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn-a-e7c556fb-c32b-47a1-a74b-2062cfd53bb7#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn](https://www.spiegel.de/netzwelt/web/fussball-wm-2026-per-tv-oder-stream-so-jubeln-sie-frueher-als-ihre-nachbarn-a-e7c556fb-c32b-47a1-a74b-2062cfd53bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-555f711f-082f-49da-a990-cf972403ad66#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### langer
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
-### mannschaft
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-vs-curacao-hier-gibts-alles-wichtige-zur-nationalelf-a-0cc946de-2d1d-4237-8864-16240afbb9b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### nationalmannschaft
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### klarer
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-was-sie-ueber-das-spiel-der-nationalmannschaft-gegen-curacao-wissen-muessen-a-507e2fec-978d-4eca-81e2-b96d66c30974#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
-### jalen
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-### brunson
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-### talent
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-### knicks
-
-* [https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks](https://www.spiegel.de/sport/basketball/nba-jalen-brunson-wird-vom-unterschaetzten-talent-zum-erloeser-der-new-yorks-knicks-a-3d851b43-7325-4be1-b12b-49f83e20013a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### rainald
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-### goetz
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-### sprache
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-### unser
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt](https://www.spiegel.de/kultur/schoener-schreiben-wie-rainald-goetz-die-deutsche-sprache-zum-klingen-bringt-a-a61996ba-f261-4847-bd3d-6e9f8d9fa9d0#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch](https://www.spiegel.de/sport/basketball/nba-new-york-knicks-holen-den-titel-die-welthauptstadt-dreht-durch-a-8cc10fe0-2ef1-47b0-9ba6-1e8a519410b1#ref=rss)
-### kirechenzentren
-
-* [https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen](https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen](https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss)
-### gelten
-
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-angriffe-auf-hisbollah-ziele-in-beiruter-vororten](https://www.spiegel.de/ausland/libanon-israel-meldet-angriffe-auf-hisbollah-ziele-in-beiruter-vororten-a-d52de032-ca67-499f-9d7e-20e8449be688#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
-### euaufsichtsbehörde
-
-* [https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt](https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt-a-6cfe8e58-2157-44f7-a9db-8399b33a2f0a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt](https://www.spiegel.de/politik/deutschland/afd-was-hinter-der-untersuchung-der-eu-aufsichtsbehoerde-steckt-a-6cfe8e58-2157-44f7-a9db-8399b33a2f0a#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
 ### geburtstag
 
-* [https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt](https://www.spiegel.de/ausland/donald-trump-wird-80-der-mann-der-die-welt-in-permanenten-ueberlebensmodus-versetzt-a-b96bd3d4-36bc-42e4-b48e-d7e16b750d1b#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
-### tyra
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### banks
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+### weißen
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### netflix
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### marius
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### streit
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### borg
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/streit-in-beziehungen-wie-paare-nach-toxischem-schweigen-wieder-ins-gespraech-kommen](https://www.spiegel.de/wissenschaft/mensch/streit-in-beziehungen-wie-paare-nach-toxischem-schweigen-wieder-ins-gespraech-kommen-a-5a1aad70-860b-49b7-8d0e-3b7121e4a2a7#ref=rss)
-### doku
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### wm
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### next
+* [https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut](https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut-a-25105a86-8d75-4213-bccd-a96bda946ef6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker-a-c0250872-667e-4811-9ec4-a5fd2cfa8c06#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### top
+* [https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut](https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut-a-25105a86-8d75-4213-bccd-a96bda946ef6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker-a-c0250872-667e-4811-9ec4-a5fd2cfa8c06#ref=rss)
+### frau
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### model
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+* [https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei](https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei-a-874c554f-6479-48d0-842c-2dc39b1b1cc1#ref=rss)
+### haus
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model](https://www.spiegel.de/panorama/leute/tyra-banks-verklagt-netflix-wegen-verleumdung-streit-wegen-doku-inside-americans-next-top-model-a-10e811b9-220c-4639-8489-2c611bdb8b3a#ref=rss)
-### manuel
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### neuer
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-manuel-neuer-oliver-baumann-und-jonas-urbig-in-der-nationalmannschaft-a-7e3f93d6-a274-467e-be6f-a3cfdeec678f#ref=rss)
-### bevölkerungszahl
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision](https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision-a-b683ad2c-0088-4bd1-83ae-839cff0c19f1#ref=rss)
+* [https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote](https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote-a-b3701012-7d45-443d-aacd-608de20a4102#ref=rss)
+### feiert
 
-* [https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl](https://www.spiegel.de/ausland/schweiz-buerger-stimmen-laut-hochrechnung-gegen-begrenzung-der-bevoelkerungszahl-a-e07a4538-0bb7-4ce4-8d93-d0342a1f0244#ref=rss)
-### finanzierung
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### vier
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher](https://www.spiegel.de/wirtschaft/deutsche-bahn-finanzierung-fuer-ueber-90-zentrale-bahnprojekte-unsicher-a-58c8d21c-5d6f-4868-a478-784f33822c6a#ref=rss)
-### bodensee
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### høiby
 
-* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
-### felchen
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden](https://www.spiegel.de/panorama/bodensee-fangverbot-fuer-felchen-koennte-bald-gelockert-werden-a-6f97a13a-54ec-473b-a37d-c7834140f030#ref=rss)
-### marmelade
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### jane
 
-* [https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung](https://www.spiegel.de/politik/marmelade-eu-aendert-fruehstuecksrichtlinie-zu-konfituere-bezeichnung-a-a67272ab-e3d3-421d-aa26-ad0ff0e81103#ref=rss)
+* [https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit](https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit-a-8fab7e62-a211-4098-9f60-74a77236d58c#ref=rss)
+### fonda
+
+* [https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit](https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit-a-8fab7e62-a211-4098-9f60-74a77236d58c#ref=rss)
+### paramount
+
+* [https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit](https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit-a-8fab7e62-a211-4098-9f60-74a77236d58c#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit](https://www.spiegel.de/kultur/jane-fonda-warner-brothers-uebernahme-durch-paramount-ist-angriff-auf-rede-und-medienfreiheit-a-8fab7e62-a211-4098-9f60-74a77236d58c#ref=rss)
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+### nathaniel
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut](https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut-a-25105a86-8d75-4213-bccd-a96bda946ef6#ref=rss)
+### brown
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut](https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut-a-25105a86-8d75-4213-bccd-a96bda946ef6#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut](https://www.spiegel.de/sport/fussball/wm-2026-nathaniel-brown-und-die-neue-deutsche-demut-a-25105a86-8d75-4213-bccd-a96bda946ef6#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo](https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo-a-945c17a3-5188-4c80-9c0a-4ed0806d9582#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### boston
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+### red
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+### sox
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen-a-e77b2cb1-ac5e-44b0-a33a-9d2f69fd80f8#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### gute
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-zieht-um-bye-bye-bellevue](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-zieht-um-bye-bye-bellevue-a-cddf28d1-76f2-4762-83fc-293fbf3aa2ef#ref=rss)
 ### steinmeier
 
-* [https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft](https://www.spiegel.de/politik/donald-trump-steinmeier-wuenscht-zum-80-geburtstag-weisheit-und-positive-kraft-a-5cdd6a20-3bef-4d18-8c3c-9719e0372ce2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-zieht-um-bye-bye-bellevue](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-zieht-um-bye-bye-bellevue-a-cddf28d1-76f2-4762-83fc-293fbf3aa2ef#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/israel-will-den-suedlibanon-weiter-besetzen](https://www.spiegel.de/ausland/israel-will-den-suedlibanon-weiter-besetzen-a-9d82e8fe-40d1-4a31-b101-bf816a8ef716#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/israel-will-den-suedlibanon-weiter-besetzen](https://www.spiegel.de/ausland/israel-will-den-suedlibanon-weiter-besetzen-a-9d82e8fe-40d1-4a31-b101-bf816a8ef716#ref=rss)
+### eugh
+
+* [https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden](https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden-a-079f87da-58af-496f-8f7a-0c41b0ba0132#ref=rss)
+### flatratenutzer
+
+* [https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden](https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden-a-079f87da-58af-496f-8f7a-0c41b0ba0132#ref=rss)
+### entscheiden
+
+* [https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden](https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden-a-079f87da-58af-496f-8f7a-0c41b0ba0132#ref=rss)
+### speziell
+
+* [https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden](https://www.spiegel.de/wirtschaft/mobilfunk-eugh-soll-streit-um-flatrate-nutzer-entscheiden-a-079f87da-58af-496f-8f7a-0c41b0ba0132#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+### alf
+
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+### anne
+
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+### schedeen
+
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben](https://www.spiegel.de/kultur/serienmama-in-alf-schauspielerin-anne-schedeen-gestorben-a-a08d9cc5-e21d-4b06-98e3-2f0677c3176a#ref=rss)
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+### rope
+
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+### jumping
+
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+### brücke
+
+* [https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod](https://www.spiegel.de/panorama/rope-jumping-in-brasilien-veranstalter-vergisst-sicherheitsseil-frau-springt-von-bruecke-in-den-tod-a-6af224a0-e47d-4ff5-aa72-61e370b79314#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/mobilitaet/schweiz-zuerich-stimmt-gegen-dauerhaften-schutz-von-parkplaetzen](https://www.spiegel.de/mobilitaet/schweiz-zuerich-stimmt-gegen-dauerhaften-schutz-von-parkplaetzen-a-6bceba3f-221e-4883-af69-76f7da984f38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### stimmt
+
+* [https://www.spiegel.de/mobilitaet/schweiz-zuerich-stimmt-gegen-dauerhaften-schutz-von-parkplaetzen](https://www.spiegel.de/mobilitaet/schweiz-zuerich-stimmt-gegen-dauerhaften-schutz-von-parkplaetzen-a-6bceba3f-221e-4883-af69-76f7da984f38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### art
+
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei](https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei-a-874c554f-6479-48d0-842c-2dc39b1b1cc1#ref=rss)
+### gefeiert
+
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen-a-e77b2cb1-ac5e-44b0-a33a-9d2f69fd80f8#ref=rss)
+### ja
+
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus](https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen-a-e77b2cb1-ac5e-44b0-a33a-9d2f69fd80f8#ref=rss)
+### hamilton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen-a-e77b2cb1-ac5e-44b0-a33a-9d2f69fd80f8#ref=rss)
+### ferrari
+
+* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-holt-ersten-grand-prix-sieg-fuer-ferrari-wie-eine-gottheit-gefeiert-pressestimmen-a-e77b2cb1-ac5e-44b0-a33a-9d2f69fd80f8#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer](https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer-a-c54a8026-2892-4084-a939-07194b98fb50#ref=rss)
+### 16
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### social
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer](https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer-a-c54a8026-2892-4084-a939-07194b98fb50#ref=rss)
+### media
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer](https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer-a-c54a8026-2892-4084-a939-07194b98fb50#ref=rss)
+### finden
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16](https://www.spiegel.de/netzwelt/grossbritannien-will-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-a-df486b7f-652f-4c54-9e4b-9216de17a763#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
+### steuerreform
+
+* [https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen](https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen-a-e28f6af9-6db3-4c85-a2b2-39107230ef5e#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen](https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen-a-e28f6af9-6db3-4c85-a2b2-39107230ef5e#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen](https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen-a-e28f6af9-6db3-4c85-a2b2-39107230ef5e#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen](https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen-a-e28f6af9-6db3-4c85-a2b2-39107230ef5e#ref=rss)
+### harten
+
+* [https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen](https://www.spiegel.de/politik/deutschland/steuerreform-mit-diesem-trick-will-lars-klingbeil-die-union-ueberzeugen-a-e28f6af9-6db3-4c85-a2b2-39107230ef5e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss)
+### justin
+
+* [https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten](https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten-a-6c7c302b-e3d2-4233-96cf-c3445b47da21#ref=rss)
+### trudeau
+
+* [https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten](https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten-a-6c7c302b-e3d2-4233-96cf-c3445b47da21#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten](https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten-a-6c7c302b-e3d2-4233-96cf-c3445b47da21#ref=rss)
+* [https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote](https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote-a-b3701012-7d45-443d-aacd-608de20a4102#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten](https://www.spiegel.de/panorama/leute/justin-trudeau-im-shitstorm-manchmal-rufen-die-boyfriend-pflichten-a-6c7c302b-e3d2-4233-96cf-c3445b47da21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rente-senioren-union-erklaert-reform-zur-schicksalsfrage-der-koalition](https://www.spiegel.de/wirtschaft/rente-senioren-union-erklaert-reform-zur-schicksalsfrage-der-koalition-a-9f5f357d-15af-47ed-b8d8-4b3c23a3519d#ref=rss)
+### mettemarit
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/norwegen-mette-marit-sohn-marius-borg-hoiby-zu-vier-jahren-haft-verurteilt-a-05189de9-8791-42bc-b969-12f077d92ed9#ref=rss)
+### wein
+
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+### champagner
+
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner](https://www.spiegel.de/wirtschaft/trump-droht-frankreich-erneut-mit-zoellen-auf-wein-und-champagner-a-2069adad-4f73-40e8-bdba-499d8159147e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### elsenfeld
+
+* [https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei](https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei-a-874c554f-6479-48d0-842c-2dc39b1b1cc1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei](https://www.spiegel.de/panorama/messerangriff-in-elsenfeld-in-bayern-frau-erstochen-angehoeriger-stellt-sich-der-polizei-a-874c554f-6479-48d0-842c-2dc39b1b1cc1#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### sichern
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo](https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo-a-945c17a3-5188-4c80-9c0a-4ed0806d9582#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
+### aussicht
+
+* [https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern](https://www.spiegel.de/ausland/nach-einigung-im-iran-krieg-merz-meloni-starmer-und-macron-wollen-strasse-von-hormus-sichern-a-551ffe7d-750c-427b-aa4f-988710baa37a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/die-work-life-balance-ist-hier-schon-mal-nicht-das-problem-was-lernt-man-bei-mord-mit-aussicht-ueber-die-eifel](https://www.spiegel.de/kultur/tv/die-work-life-balance-ist-hier-schon-mal-nicht-das-problem-was-lernt-man-bei-mord-mit-aussicht-ueber-die-eifel-a-ebba5c35-96e6-4e5b-8ffd-96992c692782#ref=rss)
+### felix
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker-a-c0250872-667e-4811-9ec4-a5fd2cfa8c06#ref=rss)
+### nmecha
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker-a-c0250872-667e-4811-9ec4-a5fd2cfa8c06#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision](https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision-a-b683ad2c-0088-4bd1-83ae-839cff0c19f1#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision](https://www.spiegel.de/panorama/vor-der-kroatischen-kueste-mindestens-drei-touristen-tote-bei-schiffskollision-a-b683ad2c-0088-4bd1-83ae-839cff0c19f1#ref=rss)
+* [https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote](https://www.spiegel.de/panorama/flugzeugabsturz-nahe-kansas-city-mutmasslich-zwoelf-tote-a-b3701012-7d45-443d-aacd-608de20a4102#ref=rss)
+### influencer
+
+* [https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer](https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer-a-c54a8026-2892-4084-a939-07194b98fb50#ref=rss)
+### nie
+
+* [https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer](https://www.spiegel.de/netzwelt/influencer-die-grossen-verfuehrer-jugendlicher-online-kaeufer-a-c54a8026-2892-4084-a939-07194b98fb50#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/rente-senioren-union-erklaert-reform-zur-schicksalsfrage-der-koalition](https://www.spiegel.de/wirtschaft/rente-senioren-union-erklaert-reform-zur-schicksalsfrage-der-koalition-a-9f5f357d-15af-47ed-b8d8-4b3c23a3519d#ref=rss)
+### mg4
+
+* [https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo](https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo-a-945c17a3-5188-4c80-9c0a-4ed0806d9582#ref=rss)
+### urban
+
+* [https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo](https://www.spiegel.de/mobilitaet/auto/mg4-urban-im-test-groesser-als-ein-vw-golf-billiger-als-ein-id-polo-a-945c17a3-5188-4c80-9c0a-4ed0806d9582#ref=rss)
+### käfigkämpfern
+
+* [https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos](https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-mit-ufc-kaefigkampf-vor-dem-weissen-haus-die-fotos-a-7910339d-ae2b-46a9-ac16-4ce22e606887#ref=rss)
+### kündigung
+
+* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
+### schlaflos
+
+* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
+### selbstzweifel
+
+* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
+### fachkräfte
+
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
+### interaktive
+
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
+### karte
+
+* [https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte](https://www.spiegel.de/karriere/arbeitsmarkt-wo-es-offene-stellen-gibt-und-fachkraefte-fehlen-eine-interaktive-karte-a-e851703d-330c-4d91-a1c4-18e1563b3067#ref=rss)
 
