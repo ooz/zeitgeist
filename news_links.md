@@ -4,341 +4,338 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ende
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist](https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist-a-9448ce40-9354-4bcf-9b42-8c2f26a50909#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet](https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet-a-bc3ac8df-b2c1-4b29-85f1-30bb2f6fa263#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger](https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger-a-076c5025-c1b0-4c8f-ba55-ce41a338d9f8#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot](https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot-a-ceee18ce-ebb8-4f0e-91e7-8604b1c73dca#ref=rss)
-* [https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger](https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger-a-076c5025-c1b0-4c8f-ba55-ce41a338d9f8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs](https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs-a-5d188e66-bdcd-4404-8985-dfb37c0af426#ref=rss)
-* [https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist](https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist-a-9448ce40-9354-4bcf-9b42-8c2f26a50909#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland-a-cd857c11-68e8-4eda-9ec0-43d023c98536#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei](https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei-a-fec4e9a8-2581-4bfd-bf5d-8d74524d24bb#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei](https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei-a-fec4e9a8-2581-4bfd-bf5d-8d74524d24bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit](https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit-a-679fdffb-44e7-49c5-8f8b-3c54a30d3bc1#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen](https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen-a-501483f8-f9b8-4042-8807-f4dacaf90227#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland-a-cd857c11-68e8-4eda-9ec0-43d023c98536#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland-a-cd857c11-68e8-4eda-9ec0-43d023c98536#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen](https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen-a-501483f8-f9b8-4042-8807-f4dacaf90227#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-### vielleicht
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet](https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet-a-bc3ac8df-b2c1-4b29-85f1-30bb2f6fa263#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger](https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger-a-076c5025-c1b0-4c8f-ba55-ce41a338d9f8#ref=rss)
-### knds
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs](https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs-a-5d188e66-bdcd-4404-8985-dfb37c0af426#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs](https://www.spiegel.de/politik/deutschland/bundesregierung-einigt-sich-mit-knds-auf-details-des-staatseinstiegs-a-5d188e66-bdcd-4404-8985-dfb37c0af426#ref=rss)
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet](https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet-a-bc3ac8df-b2c1-4b29-85f1-30bb2f6fa263#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet](https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet-a-bc3ac8df-b2c1-4b29-85f1-30bb2f6fa263#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst](https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst-a-cd9bdf8c-a44c-49e5-82c0-66eacd77cb4f#ref=rss)
-### weit
-
-* [https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus](https://www.spiegel.de/ausland/von-der-leyen-schliesst-ende-der-iran-sanktionen-ohne-entgegenkommen-aus-a-cd84d5f1-6b10-4b9d-b41f-9bd2df565151#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2172185c-e71b-479f-8626-5244154cd732#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen](https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen-a-89756d12-0e17-42ed-a593-87d578fb4d17#ref=rss)
-### flammen
-
-* [https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen](https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen-a-89756d12-0e17-42ed-a593-87d578fb4d17#ref=rss)
-### historischen
-
-* [https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen](https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen-a-89756d12-0e17-42ed-a593-87d578fb4d17#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen](https://www.spiegel.de/ausland/kyjiw-ukraine-beruehmtes-hoehlenkloster-steht-in-flammen-a-89756d12-0e17-42ed-a593-87d578fb4d17#ref=rss)
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-### straße
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist](https://www.spiegel.de/wissenschaft/majorana-2-microsofts-neuer-quantenchip-rechnet-mit-teilchen-deren-existenz-unbewiesen-ist-a-9448ce40-9354-4bcf-9b42-8c2f26a50909#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
-### afdpolitiker
-
-* [https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei](https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei-a-fec4e9a8-2581-4bfd-bf5d-8d74524d24bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei](https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei-a-fec4e9a8-2581-4bfd-bf5d-8d74524d24bb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen-a-4f7319d3-4996-4ccc-8109-3122665940bd#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei](https://www.spiegel.de/panorama/berlin-afd-politiker-hat-kein-recht-auf-einstellung-im-gehobenen-dienst-bei-der-polizei-a-fec4e9a8-2581-4bfd-bf5d-8d74524d24bb#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot](https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot-a-ceee18ce-ebb8-4f0e-91e7-8604b1c73dca#ref=rss)
-### exportbann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-### kimodelle
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte](https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss)
-* [https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet](https://www.spiegel.de/ausland/usa-iran-abkommen-waffenstillstand-verlaengert-atomfragen-offen-was-das-memorandum-wirklich-bedeutet-a-bc3ac8df-b2c1-4b29-85f1-30bb2f6fa263#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen](https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen-a-29aa899f-2ee9-44fc-a6de-5f8ab5d7f05a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen](https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen-a-9975069f-adfb-4a38-93d8-0531f90d53bf#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-bevoelkerungszahl-in-deutschland-sinkt-2025-leicht](https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-bevoelkerungszahl-in-deutschland-sinkt-2025-leicht-a-e3bfa42e-54fd-4ed3-a981-b3eeba2ee4fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr](https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr-a-1409e27d-37ed-4ed9-9042-c4c855974cbe#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen](https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen-a-501483f8-f9b8-4042-8807-f4dacaf90227#ref=rss)
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-### forschende
+* [https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor](https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor-a-6a8e3de1-dc6c-4ee3-a48a-459a6a2b5a40#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock](https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock-a-52b656c9-b1c7-43f7-b912-e808d994d1cd#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen](https://www.spiegel.de/wissenschaft/klimakrise-waelder-koennen-offenbar-weniger-co-speichern-als-angenommen-a-501483f8-f9b8-4042-8807-f4dacaf90227#ref=rss)
-* [https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger](https://www.spiegel.de/wissenschaft/studie-zu-erziehung-streng-erzogene-kinder-schummeln-haeufiger-a-076c5025-c1b0-4c8f-ba55-ce41a338d9f8#ref=rss)
-### hannover
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus](https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus-a-ab5853cc-f036-40f4-bc18-fa3084f215eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch](https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch-a-d857df01-81b9-4e8f-af39-26428c4406a1#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus](https://www.spiegel.de/gesundheit/diagnose/demenz-in-deutschland-so-sieht-es-in-ihrem-landkreis-aus-a-2a562da4-ea3b-446e-a580-cf93e5f54ec0#ref=rss)
-### polizisten
+* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa-a-6662e761-3f7b-402b-9b67-17b307ad61bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern](https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern-a-07e89c66-858d-43cd-946c-b5886d6d1698#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen-a-4f7319d3-4996-4ccc-8109-3122665940bd#ref=rss)
-### mehrere
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-### zweite
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr](https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr-a-4d0270f6-d2e2-4d7c-853e-15688c63ca6d#ref=rss)
-### kurzer
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus](https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus-a-ab5853cc-f036-40f4-bc18-fa3084f215eb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot](https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot-a-58133114-0340-48bc-af8d-31a923a0332d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetzbetreiber-kassieren-ab-obwohl-der-netzausbau-hakt](https://www.spiegel.de/wirtschaft/unternehmen/stromnetzbetreiber-kassieren-ab-obwohl-der-netzausbau-hakt-a-d10cebd1-2483-41af-a29a-ada47b8444c3#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr](https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr-a-4d0270f6-d2e2-4d7c-853e-15688c63ca6d#ref=rss)
-### zeit
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus](https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus-a-ab5853cc-f036-40f4-bc18-fa3084f215eb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert](https://www.spiegel.de/panorama/hannover-fuenf-polizisten-vom-dienst-suspendiert-a-6fb308ca-5eaa-454b-bf47-6ae86ddff83e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr](https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr-a-4d0270f6-d2e2-4d7c-853e-15688c63ca6d#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-### problem
-
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-### gut
-
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-* [https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst](https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst-a-cd9bdf8c-a44c-49e5-82c0-66eacd77cb4f#ref=rss)
-### legt
-
-* [https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist](https://www.spiegel.de/politik/deutschland/ulrich-siegmund-und-guido-heuer-warum-die-foto-affaere-fuer-die-cdu-ein-problem-ist-a-283fc52c-a442-45dd-b75f-dffac07a78db#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
-### art
-
-* [https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr](https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr-a-4d0270f6-d2e2-4d7c-853e-15688c63ca6d#ref=rss)
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr](https://www.spiegel.de/panorama/gesellschaft/schleswig-wie-gefaehrlich-sind-belastungsuebungen-bei-der-feuerwehr-a-4d0270f6-d2e2-4d7c-853e-15688c63ca6d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-sind-die-neuen-eu-sanktionen-gegen-russland-a-cd857c11-68e8-4eda-9ec0-43d023c98536#ref=rss)
-* [https://www.spiegel.de/ausland/russland-tu-22m3-bomber-stuerzt-in-irkutsk-ab](https://www.spiegel.de/ausland/russland-tu-22m3-bomber-stuerzt-in-irkutsk-ab-a-225999d9-f1d5-4f26-84e4-2d3e23989c8c#ref=rss)
-### abend
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2172185c-e71b-479f-8626-5244154cd732#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2172185c-e71b-479f-8626-5244154cd732#ref=rss)
-### fußballfans
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2172185c-e71b-479f-8626-5244154cd732#ref=rss)
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-### kimmel
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an](https://www.spiegel.de/kultur/jimmy-kimmel-gratuliert-donald-trump-zum-geburtstag-und-spielt-dabei-auf-jeffrey-epstein-an-a-4e4a8b76-7f18-4e3e-9b54-cca2c9060ba1#ref=rss)
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-### shirin
-
-* [https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst](https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst-a-cd9bdf8c-a44c-49e5-82c0-66eacd77cb4f#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst](https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst-a-cd9bdf8c-a44c-49e5-82c0-66eacd77cb4f#ref=rss)
-### klum
-
-* [https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst](https://www.spiegel.de/kultur/gut-genug-wird-shirin-david-von-heidi-klum-gedisst-a-cd9bdf8c-a44c-49e5-82c0-66eacd77cb4f#ref=rss)
-### albanien
-
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-### luxusresort
-
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot](https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot-a-ceee18ce-ebb8-4f0e-91e7-8604b1c73dca#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren](https://www.spiegel.de/ausland/albanien-wie-die-flamingo-proteste-gegen-das-luxusresort-von-ivanka-trump-eskalieren-a-fad51bbd-8354-461d-a56a-cdb05e12f703#ref=rss)
-* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
-### ed
-
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-### sheeran
-
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-### beschäftigt
-
-* [https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause](https://www.spiegel.de/panorama/ed-sheeran-plant-offenbar-elternpause-a-d20969c4-633d-49ef-9139-aaa25fbf9d5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### irkutsk
-
-* [https://www.spiegel.de/ausland/russland-tu-22m3-bomber-stuerzt-in-irkutsk-ab](https://www.spiegel.de/ausland/russland-tu-22m3-bomber-stuerzt-in-irkutsk-ab-a-225999d9-f1d5-4f26-84e4-2d3e23989c8c#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### haise
-
-* [https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/lars-haise-bundestag-hebt-immunitaet-von-afd-politiker-auf-a-c0e60d94-455e-414d-ab04-53b6a5e1f773#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit](https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit-a-679fdffb-44e7-49c5-8f8b-3c54a30d3bc1#ref=rss)
-### monarchie
-
-* [https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit](https://www.spiegel.de/ausland/norwegen-ueberlebt-die-monarchie-die-skandale-um-mette-marit-a-679fdffb-44e7-49c5-8f8b-3c54a30d3bc1#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot](https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot-a-ceee18ce-ebb8-4f0e-91e7-8604b1c73dca#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot](https://www.spiegel.de/ausland/grossbritannien-gericht-bestaetigt-palestine-action-verbot-a-ceee18ce-ebb8-4f0e-91e7-8604b1c73dca#ref=rss)
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-### japan
-
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen-a-4f7319d3-4996-4ccc-8109-3122665940bd#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte](https://www.spiegel.de/reise/kumano-kodo-in-japan-was-mich-der-beruehmte-pilgerweg-ueber-das-wandern-lehrte-a-b1b898f1-26a4-46dc-8802-1db348f4b946#ref=rss)
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-### kündigung
-
-* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
-### schlaflos
-
-* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
-### selbstzweifel
-
-* [https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel](https://www.spiegel.de/karriere/kuendigung-schlaflos-nach-der-entlassung-strategien-gegen-gruebeln-und-selbstzweifel-a-247f4f05-62b1-467d-b144-9d7b91635eed#ref=rss)
-### commerzbank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/unicredit-uebernahmeversuch-der-commerzbank-von-verstecktem-foulspiel-zu-offener-konfrontation](https://www.spiegel.de/wirtschaft/unternehmen/unicredit-uebernahmeversuch-der-commerzbank-von-verstecktem-foulspiel-zu-offener-konfrontation-a-e63ce256-7003-4de6-8e3e-4c3cc51565e1#ref=rss)
-### unicredit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/unicredit-uebernahmeversuch-der-commerzbank-von-verstecktem-foulspiel-zu-offener-konfrontation](https://www.spiegel.de/wirtschaft/unternehmen/unicredit-uebernahmeversuch-der-commerzbank-von-verstecktem-foulspiel-zu-offener-konfrontation-a-e63ce256-7003-4de6-8e3e-4c3cc51565e1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen](https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen-a-29aa899f-2ee9-44fc-a6de-5f8ab5d7f05a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt](https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt-a-f411f14b-8f2b-46f4-8177-3f11a6d40722#ref=rss)
 ### wm
 
-* [https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt](https://www.spiegel.de/sport/japanische-fussballfans-bei-der-wm-90-minuten-hat-ein-spiel-dann-wird-aufgeraeumt-a-82aebc40-06ce-4848-94ee-0b9c202a33d5#ref=rss)
-### göttingen
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/schuss-auf-polizisten-in-goettingen-ermittler-suchen-16-jaehrigen-tatverdaechtigen-a-4f7319d3-4996-4ccc-8109-3122665940bd#ref=rss)
-### bildungsbericht
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### 22
 
-* [https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster](https://www.spiegel.de/panorama/bildung/bildungsbericht-schulkinder-werden-weniger-und-fallen-zu-oft-durchs-raster-a-83568b53-25ef-4e8a-ba8c-c1663d9dfb81#ref=rss)
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen](https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen-a-9975069f-adfb-4a38-93d8-0531f90d53bf#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot](https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot-a-58133114-0340-48bc-af8d-31a923a0332d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank](https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank-a-55deb64d-baf8-4448-9f8a-ed18eb3cba8b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+### erschossen
+
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### kind
+
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock](https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock-a-52b656c9-b1c7-43f7-b912-e808d994d1cd#ref=rss)
+### trump
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich](https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich-a-2d98268b-97f7-4c6e-a221-b362aae76aec#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung-a-3fbd683f-b6c3-4532-a801-75139ec5b16d#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa-a-6662e761-3f7b-402b-9b67-17b307ad61bd#ref=rss)
+### europaparlament
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa-a-6662e761-3f7b-402b-9b67-17b307ad61bd#ref=rss)
+### dürften
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa-a-6662e761-3f7b-402b-9b67-17b307ad61bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern](https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern-a-07e89c66-858d-43cd-946c-b5886d6d1698#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-europaparlament-beschliesst-umsetzung-des-handelsdeals-mit-den-usa-a-6662e761-3f7b-402b-9b67-17b307ad61bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung-a-3fbd683f-b6c3-4532-a801-75139ec5b16d#ref=rss)
+### elon
+
+* [https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor](https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor-a-6a8e3de1-dc6c-4ee3-a48a-459a6a2b5a40#ref=rss)
+### musk
+
+* [https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor](https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor-a-6a8e3de1-dc6c-4ee3-a48a-459a6a2b5a40#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor](https://www.spiegel.de/kultur/tv/wegen-belfast-berichterstattung-elon-musk-geht-rechtlich-gegen-zdf-vor-a-6a8e3de1-dc6c-4ee3-a48a-459a6a2b5a40#ref=rss)
+### telegram
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/telegram-indien-schraenkt-zugang-zum-messaging-dienst-ein](https://www.spiegel.de/netzwelt/netzpolitik/telegram-indien-schraenkt-zugang-zum-messaging-dienst-ein-a-1e75d008-9cca-44db-98cc-1f95cd33c304#ref=rss)
+### indien
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/telegram-indien-schraenkt-zugang-zum-messaging-dienst-ein](https://www.spiegel.de/netzwelt/netzpolitik/telegram-indien-schraenkt-zugang-zum-messaging-dienst-ein-a-1e75d008-9cca-44db-98cc-1f95cd33c304#ref=rss)
+### mehmet
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### scholl
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### bett
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### gelegt
+
+* [https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben](https://www.spiegel.de/panorama/justiz/mehmet-scholl-mann-soll-in-das-haus-eingedrungen-sein-und-sich-ins-bett-der-tochter-gelegt-haben-a-b3645a7e-fe8d-4023-b575-c498eb999453#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+### eher
+
+* [https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/augsburg-polizist-wegen-bestechung-eines-tuev-pruefers-zu-7800-euro-geldstrafe-verurteilt-a-ada50111-3e79-4f82-bb1d-4a970429b373#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### lebensmittel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus](https://www.spiegel.de/wirtschaft/unternehmen/inflation-bei-lebensmitteln-deutsche-haushalte-gaben-2023-im-schnitt-335-euro-pro-monat-aus-a-ab5853cc-f036-40f4-bc18-fa3084f215eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-warum-das-neue-eu-gesetz-probleme-schafft-meinung-a-3fbd683f-b6c3-4532-a801-75139ec5b16d#ref=rss)
+### fachleute
+
+* [https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen](https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen-a-29aa899f-2ee9-44fc-a6de-5f8ab5d7f05a#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen](https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen-a-29aa899f-2ee9-44fc-a6de-5f8ab5d7f05a#ref=rss)
+### prothesen
+
+* [https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen](https://www.spiegel.de/wissenschaft/ukraine-fachleute-lernen-in-deutschland-prothesen-zu-bauen-a-29aa899f-2ee9-44fc-a6de-5f8ab5d7f05a#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/j-lo-bei-smartless-sie-ist-seit-scheidung-ein-neuer-mensch-sagt-jennifer-lopez](https://www.spiegel.de/panorama/leute/j-lo-bei-smartless-sie-ist-seit-scheidung-ein-neuer-mensch-sagt-jennifer-lopez-a-23cd5d5f-7725-4215-9d9f-3e2221091a54#ref=rss)
+### lopez
+
+* [https://www.spiegel.de/panorama/leute/j-lo-bei-smartless-sie-ist-seit-scheidung-ein-neuer-mensch-sagt-jennifer-lopez](https://www.spiegel.de/panorama/leute/j-lo-bei-smartless-sie-ist-seit-scheidung-ein-neuer-mensch-sagt-jennifer-lopez-a-23cd5d5f-7725-4215-9d9f-3e2221091a54#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt](https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt-a-f411f14b-8f2b-46f4-8177-3f11a6d40722#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt](https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt-a-f411f14b-8f2b-46f4-8177-3f11a6d40722#ref=rss)
+* [https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank](https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank-a-55deb64d-baf8-4448-9f8a-ed18eb3cba8b#ref=rss)
+### raffinerie
+
+* [https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt](https://www.spiegel.de/ausland/russland-moskau-meldet-abwehr-von-60-drohnen-raffinerie-brennt-a-f411f14b-8f2b-46f4-8177-3f11a6d40722#ref=rss)
+### iran
+
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern](https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern-a-07e89c66-858d-43cd-946c-b5886d6d1698#ref=rss)
+### diplomatische
+
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+### spannungen
+
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland](https://www.spiegel.de/sport/iran-bei-der-wm-2026-proteste-und-diplomatische-spannungen-beim-2-2-gegen-neuseeland-a-f6b76ed7-f25e-4b14-97aa-39561d7ee9e3#ref=rss)
+### abdullah
+
+* [https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot](https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot-a-58133114-0340-48bc-af8d-31a923a0332d#ref=rss)
+### ibrahim
+
+* [https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot](https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot-a-58133114-0340-48bc-af8d-31a923a0332d#ref=rss)
+### haft
+
+* [https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot](https://www.spiegel.de/kultur/musik/abdullah-ibrahim-ist-tot-a-58133114-0340-48bc-af8d-31a923a0332d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mann-nach-auftragsmord-an-dreifacher-mutter-zu-lebenslanger-haft-verurteilt-a-5c695a61-10e8-44c4-8cb5-e367e1e491bf#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen](https://www.spiegel.de/wissenschaft/unicef-fast-jedes-kind-weltweit-von-klimakrise-betroffen-a-63ea0bf2-5dc2-450b-a417-8cc970b5636c#ref=rss)
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank](https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank-a-55deb64d-baf8-4448-9f8a-ed18eb3cba8b#ref=rss)
+### bund
+
+* [https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank](https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank-a-55deb64d-baf8-4448-9f8a-ed18eb3cba8b#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank](https://www.spiegel.de/wirtschaft/commerzbank-bund-lehnt-unicredit-angebot-fuer-commerzbank-a-55deb64d-baf8-4448-9f8a-ed18eb3cba8b#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+### merz
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+### donald
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich](https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich-a-2d98268b-97f7-4c6e-a221-b362aae76aec#ref=rss)
+### geburtstag
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich](https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich-a-2d98268b-97f7-4c6e-a221-b362aae76aec#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-iran-holt-remis-gegen-neuseeland-a-79611414-e03e-4f3a-a1bf-629d0479c898#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### landkreistag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch](https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch-a-d857df01-81b9-4e8f-af39-26428c4406a1#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch](https://www.spiegel.de/wirtschaft/unternehmen/pflegekosten-landkreistag-haelt-100-000-euro-grenze-fuer-kinder-zu-hoch-a-d857df01-81b9-4e8f-af39-26428c4406a1#ref=rss)
+### jelena
+
+* [https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren](https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren-a-cdc16ccd-cbfd-45e0-ae9c-3c48e59c1a83#ref=rss)
+### rybakina
+
+* [https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren](https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren-a-cdc16ccd-cbfd-45e0-ae9c-3c48e59c1a83#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren](https://www.spiegel.de/sport/tennis/tennis-jelena-rybakina-deaktivierte-instagram-konto-wegen-hass-kommentaren-a-cdc16ccd-cbfd-45e0-ae9c-3c48e59c1a83#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### schleswigholstein
+
+* [https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden](https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden-a-07ad7574-a1bc-47a4-a222-ec6dfb4b3573#ref=rss)
+### explosion
+
+* [https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden](https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden-a-07ad7574-a1bc-47a4-a222-ec6dfb4b3573#ref=rss)
+### einsatzkräfte
+
+* [https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden](https://www.spiegel.de/panorama/kropp-in-schleswig-holstein-toter-nach-explosion-in-mehrfamilienhaus-gefunden-a-07ad7574-a1bc-47a4-a222-ec6dfb4b3573#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock](https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock-a-52b656c9-b1c7-43f7-b912-e808d994d1cd#ref=rss)
+### kap
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### verde
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### lamine
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### yamal
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### rein
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal](https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss)
+### roku
+
+* [https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen](https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen-a-9975069f-adfb-4a38-93d8-0531f90d53bf#ref=rss)
+### fox
+
+* [https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen](https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen-a-9975069f-adfb-4a38-93d8-0531f90d53bf#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen](https://www.spiegel.de/netzwelt/web/roku-fox-will-tv-stick-hersteller-fuer-22-milliarden-dollar-uebernehmen-a-9975069f-adfb-4a38-93d8-0531f90d53bf#ref=rss)
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### bevölkerungszahl
+
+* [https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-bevoelkerungszahl-in-deutschland-sinkt-2025-leicht](https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-bevoelkerungszahl-in-deutschland-sinkt-2025-leicht-a-e3bfa42e-54fd-4ed3-a981-b3eeba2ee4fe#ref=rss)
+### drogen
+
+* [https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr](https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr-a-1409e27d-37ed-4ed9-9042-c4c855974cbe#ref=rss)
+### opioide
+
+* [https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr](https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr-a-1409e27d-37ed-4ed9-9042-c4c855974cbe#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr](https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr-a-1409e27d-37ed-4ed9-9042-c4c855974cbe#ref=rss)
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### obwohl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stromnetzbetreiber-kassieren-ab-obwohl-der-netzausbau-hakt](https://www.spiegel.de/wirtschaft/unternehmen/stromnetzbetreiber-kassieren-ab-obwohl-der-netzausbau-hakt-a-d10cebd1-2483-41af-a29a-ada47b8444c3#ref=rss)
+### straße
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern](https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern-a-07e89c66-858d-43cd-946c-b5886d6d1698#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern](https://www.spiegel.de/wirtschaft/unternehmen/moeglicher-irandeal-und-strasse-von-hormus-bis-sich-der-schiffsverkehr-normalisiert-koennte-es-wochen-dauern-a-07e89c66-858d-43cd-946c-b5886d6d1698#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock](https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock-a-52b656c9-b1c7-43f7-b912-e808d994d1cd#ref=rss)
+### feuerwehr
+
+* [https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock](https://www.spiegel.de/panorama/dortmund-in-nrw-feuerwehr-rettet-vierjaehriges-kind-aus-dachrinne-im-vierten-stock-a-52b656c9-b1c7-43f7-b912-e808d994d1cd#ref=rss)
+### urlaubsgeld
+
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### 3000
+
+* [https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt](https://www.spiegel.de/karriere/urlaubsgeld-wer-leer-ausgeht-und-wer-bis-zu-3000-euro-erhaelt-a-3384f47e-1756-4eb2-aaf1-ada365f72ae7#ref=rss)
+### sheryl
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich](https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich-a-2d98268b-97f7-4c6e-a221-b362aae76aec#ref=rss)
+### crow
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich](https://www.spiegel.de/panorama/leute/donald-trump-sheryl-crow-kritisiert-kaefigkaempfe-zum-80-geburtstag-als-schaendlich-a-2d98268b-97f7-4c6e-a221-b362aae76aec#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### künstler
+
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### semyon
+
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
+### skrepetsky
+
+* [https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen](https://www.spiegel.de/ausland/polen-russischer-kuenstler-und-putin-kritiker-semyon-skrepetsky-erschossen-a-70c08560-6d7b-4680-afc1-b6df54399fc3#ref=rss)
 
