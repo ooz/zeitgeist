@@ -4,306 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle](https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle-a-e5d15044-173d-4941-8dea-f59d11615fae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland-a-5f8c091f-443b-45e7-b012-62f3e578bad5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch](https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch-a-d849a432-c1fa-4826-b2a9-18ed8012fc9a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus](https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus-a-b6f94345-3571-4f66-8b7d-a21956ba57cb#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen](https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss)
-* [https://www.spiegel.de/panorama/loredo-texas-insassen-in-brennendem-jet-gefangen-ein-toter](https://www.spiegel.de/panorama/loredo-texas-insassen-in-brennendem-jet-gefangen-ein-toter-a-26220436-1148-4106-a43e-7997734db1b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen](https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss)
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten-a-503bc0de-01fd-445c-a26d-d9a2871b682d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt-a-dd7efc1f-1ffa-4ea8-86d1-60d23026ebf0#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-* [https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt](https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt-a-20932f28-0180-4394-8947-303f364cf0cc#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden](https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden-a-2de5f129-a619-4c8a-9547-7a429b591f26#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar](https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar-a-cad5065b-4d0d-4bcf-aa8e-9ede9a6d8e2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen](https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein](https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein-a-e46802f9-822f-42f2-9fe0-c78b7d940030#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten-a-503bc0de-01fd-445c-a26d-d9a2871b682d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt-a-dd7efc1f-1ffa-4ea8-86d1-60d23026ebf0#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament](https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament-a-b5d9affa-4bf2-4ba5-8328-2c7989557369#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin](https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin-a-fe129cfe-70a7-497c-9bbc-a5187bc2d2af#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher-a-131c562c-4e1c-4bde-87b6-1119bddd8de4#ref=rss)
-### verbraucher
-
-* [https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament](https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament-a-b5d9affa-4bf2-4ba5-8328-2c7989557369#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher-a-131c562c-4e1c-4bde-87b6-1119bddd8de4#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher-a-131c562c-4e1c-4bde-87b6-1119bddd8de4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### wout
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-### aert
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-### verpasst
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt](https://www.spiegel.de/sport/radsport/tour-de-france-2026-wout-van-aert-verpasst-den-start-verletzt-a-1c81a19a-db66-4bff-8fe7-4e4373aefc8c#ref=rss)
-### neuweltschraubenwurmfliege
-
-* [https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus](https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus-a-b6f94345-3571-4f66-8b7d-a21956ba57cb#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus](https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus-a-b6f94345-3571-4f66-8b7d-a21956ba57cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden](https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden-a-2de5f129-a619-4c8a-9547-7a429b591f26#ref=rss)
-### genug
-
-* [https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus](https://www.spiegel.de/wissenschaft/neuwelt-schraubenwurmfliege-in-den-usa-fleischfressender-parasit-loest-katastrophenfall-aus-a-b6f94345-3571-4f66-8b7d-a21956ba57cb#ref=rss)
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle](https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle-a-e5d15044-173d-4941-8dea-f59d11615fae#ref=rss)
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle](https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle-a-e5d15044-173d-4941-8dea-f59d11615fae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle](https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle-a-e5d15044-173d-4941-8dea-f59d11615fae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
-### gebaut
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+* [https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen](https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen-a-e11a597f-3902-4cdc-a86a-13ec53339f74#ref=rss)
+* [https://www.spiegel.de/kultur/g7-gipfel-auf-social-media-hallo-lieblingsmerz](https://www.spiegel.de/kultur/g7-gipfel-auf-social-media-hallo-lieblingsmerz-a-3eb18c3f-556e-4c16-a8a3-040f889682b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle](https://www.spiegel.de/wirtschaft/immobilien-viele-wohnungen-entstehen-laut-analyse-an-falscher-stelle-a-e5d15044-173d-4941-8dea-f59d11615fae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden](https://www.spiegel.de/wissenschaft/windkraft-langzeitstudie-sieht-keine-nachweisbaren-gesundheitsschaeden-a-2de5f129-a619-4c8a-9547-7a429b591f26#ref=rss)
-### zoll
-
-* [https://www.spiegel.de/panorama/justiz/staudt-in-rheinland-pfalz-zoll-entdeckt-illegale-zigarettenfabrik](https://www.spiegel.de/panorama/justiz/staudt-in-rheinland-pfalz-zoll-entdeckt-illegale-zigarettenfabrik-a-252fbc82-fc07-46c8-9978-5069075e4016#ref=rss)
-### moderator
-
-* [https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich](https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich-a-2f763930-112c-4435-8902-24ae6fad8075#ref=rss)
-### jeremy
-
-* [https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich](https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich-a-2f763930-112c-4435-8902-24ae6fad8075#ref=rss)
-### clarkson
-
-* [https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich](https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich-a-2f763930-112c-4435-8902-24ae6fad8075#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich](https://www.spiegel.de/kultur/tv/moderator-jeremy-clarkson-macht-krebserkrankung-in-tv-show-oeffentlich-a-2f763930-112c-4435-8902-24ae6fad8075#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt-a-dd7efc1f-1ffa-4ea8-86d1-60d23026ebf0#ref=rss)
-### gänsegeier
-
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
-### gesichtet
-
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
-### kam
-
-* [https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben](https://www.spiegel.de/wissenschaft/klein-lobke-bei-hannover-gaensegeier-soll-storchennest-gepluendert-haben-a-dbe0221f-f735-4c0a-b8c3-d3e0bce475ed#ref=rss)
-* [https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt](https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt-a-20932f28-0180-4394-8947-303f364cf0cc#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-darf-gesamte-partei-beobachten-a-503bc0de-01fd-445c-a26d-d9a2871b682d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament](https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament-a-b5d9affa-4bf2-4ba5-8328-2c7989557369#ref=rss)
-### jede
-
-* [https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt](https://www.spiegel.de/panorama/burgberg-im-allgaeu-erfahrener-alpinist-in-den-bergen-verunglueckt-a-20932f28-0180-4394-8947-303f364cf0cc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere](https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere-a-9ab2cb5e-caf2-48b5-983c-75d9b4e83a64#ref=rss)
-### sean
-
-* [https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm](https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm-a-cd7143c2-1a76-4ea5-ba50-0adb2adce2dd#ref=rss)
-### penn
-
-* [https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm](https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm-a-cd7143c2-1a76-4ea5-ba50-0adb2adce2dd#ref=rss)
-### oscarpreisträger
-
-* [https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm](https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm-a-cd7143c2-1a76-4ea5-ba50-0adb2adce2dd#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm](https://www.spiegel.de/kultur/kino/sean-penn-oscarpreistraeger-plant-film-zum-kapitolsturm-a-cd7143c2-1a76-4ea5-ba50-0adb2adce2dd#ref=rss)
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### irankrieg
-
-* [https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen](https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss)
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen](https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar](https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar-a-cad5065b-4d0d-4bcf-aa8e-9ede9a6d8e2b#ref=rss)
-### gefangen
-
-* [https://www.spiegel.de/panorama/loredo-texas-insassen-in-brennendem-jet-gefangen-ein-toter](https://www.spiegel.de/panorama/loredo-texas-insassen-in-brennendem-jet-gefangen-ein-toter-a-26220436-1148-4106-a43e-7997734db1b7#ref=rss)
-### moderna
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland-a-5f8c091f-443b-45e7-b012-62f3e578bad5#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/moderna-hat-interesse-an-biontech-werken-in-deutschland-a-5f8c091f-443b-45e7-b012-62f3e578bad5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch](https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch-a-d849a432-c1fa-4826-b2a9-18ed8012fc9a#ref=rss)
-### vorfälle
-
-* [https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch](https://www.spiegel.de/panorama/gesellschaft/antisemitismus-zahl-der-vorfaelle-in-deutschland-bleibt-hoch-a-d849a432-c1fa-4826-b2a9-18ed8012fc9a#ref=rss)
-### ricky
-
-* [https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere](https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere-a-9ab2cb5e-caf2-48b5-983c-75d9b4e83a64#ref=rss)
-### maría
-
-* [https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere](https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere-a-9ab2cb5e-caf2-48b5-983c-75d9b4e83a64#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere](https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere-a-9ab2cb5e-caf2-48b5-983c-75d9b4e83a64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament](https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament-a-b5d9affa-4bf2-4ba5-8328-2c7989557369#ref=rss)
-### un
-
-* [https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere](https://www.spiegel.de/kultur/musik/ricky-martin-sein-produzent-hielt-maria-fuer-das-ende-von-dessen-karriere-a-9ab2cb5e-caf2-48b5-983c-75d9b4e83a64#ref=rss)
-### tankstellen
-
-* [https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein](https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein-a-e46802f9-822f-42f2-9fe0-c78b7d940030#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein](https://www.spiegel.de/ausland/russlands-tankstellen-schraenken-angebot-offenbar-flaechendeckend-ein-a-e46802f9-822f-42f2-9fe0-c78b7d940030#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende](https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende-a-098bf187-a8c1-407f-a7e2-2b2ea1832814#ref=rss)
-### reinigungsstufe
-
-* [https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament](https://www.spiegel.de/wirtschaft/abwasserreinigung-streit-ueber-vierte-reinigungsstufe-erreicht-europaparlament-a-b5d9affa-4bf2-4ba5-8328-2c7989557369#ref=rss)
-### ssakten
-
-* [https://www.spiegel.de/geschichte/nazi-kartei-jetzt-mit-links-zu-ss-akten-was-sie-ueber-die-ss-wissen-sollten](https://www.spiegel.de/geschichte/nazi-kartei-jetzt-mit-links-zu-ss-akten-was-sie-ueber-die-ss-wissen-sollten-a-c249d4a9-a869-4d57-be94-da70db9b320a#ref=rss)
-### neptunwerft
-
-* [https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende](https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende-a-098bf187-a8c1-407f-a7e2-2b2ea1832814#ref=rss)
-### energiewende
-
-* [https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende](https://www.spiegel.de/wirtschaft/neptun-werft-milliardenauftrag-fuer-windstrom-plattform-geht-nach-rostock-warnemuende-a-098bf187-a8c1-407f-a7e2-2b2ea1832814#ref=rss)
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar](https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar-a-cad5065b-4d0d-4bcf-aa8e-9ede9a6d8e2b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik](https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### kichatbot
-
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-### grok
-
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac#ref=rss)
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne](https://www.spiegel.de/politik/katherina-reiche-warum-die-energiewende-auch-ohne-sie-weiterlaeuft-kolumne-a-2c4d7071-0b83-4624-a832-610376810c46#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-### kimmich
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-lionel-messi-stellt-mit-hattrick-wm-torrekord-von-miroslav-klose-ein-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
-### mettemarit
-
-* [https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin](https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin-a-fe129cfe-70a7-497c-9bbc-a5187bc2d2af#ref=rss)
-### palast
-
-* [https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin](https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin-a-fe129cfe-70a7-497c-9bbc-a5187bc2d2af#ref=rss)
-### kronprinzessin
-
-* [https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin](https://www.spiegel.de/panorama/leute/mette-marit-palast-berichtet-von-erfolgreicher-lungentransplantation-bei-kronprinzessin-a-fe129cfe-70a7-497c-9bbc-a5187bc2d2af#ref=rss)
-### novo
-
-* [https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar](https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar-a-cad5065b-4d0d-4bcf-aa8e-9ede9a6d8e2b#ref=rss)
-### nordisk
-
-* [https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar](https://www.spiegel.de/netzwelt/cyberkriminelle-fordern-nach-angriff-auf-novo-nordisk-25-millionen-dollar-a-cad5065b-4d0d-4bcf-aa8e-9ede9a6d8e2b#ref=rss)
-### supermarkt
-
-* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher-a-131c562c-4e1c-4bde-87b6-1119bddd8de4#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/gentechnik-im-supermarkt-bio-verbaende-warnen-vor-folgen-fuer-verbraucher-a-131c562c-4e1c-4bde-87b6-1119bddd8de4#ref=rss)
-### marko
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### arnautović
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic](https://www.spiegel.de/sport/fussball/wm-2026-oesterreich-gewinnt-gegen-jordanien-dank-marko-arnautovic-a-b5e3953f-1a7f-493f-a7e2-9d332956631b#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
+* [https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen](https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen-a-e11a597f-3902-4cdc-a86a-13ec53339f74#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel](https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel-a-6b0101f6-cb16-408a-9d2b-cb27d1b91efe#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert-a-cc4ffd93-f376-44b6-8fee-3a1fcc5b35f5#ref=rss)
 ### großbritannien
 
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### premier
+* [https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab](https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab-a-6ba57d7e-4454-4e1e-b247-38ee728ba476#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will](https://www.spiegel.de/ausland/keir-starmer-in-grossbritannien-wie-der-premier-die-demokratie-vor-elon-musk-retten-will-a-bdfbfed9-42e9-436d-b225-18f1a4c2ce63#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung-a-a5e9a3df-3621-42ae-b465-d51477f29061#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-was-wenn-die-afd-den-verfassungsschutz-uebernimmt-a-dd7efc1f-1ffa-4ea8-86d1-60d23026ebf0#ref=rss)
-### straße
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-a757644c-f330-4401-b817-b5b43049457f#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
-### hormus
+* [https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert-a-38793a8e-572f-4bd4-9642-7ef409f8e323#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus](https://www.spiegel.de/wirtschaft/iran-deal-tanker-tracker-melden-schiffe-mit-iranischen-oel-exporten-in-der-strasse-von-hormus-a-3f95c16c-d78c-4cc3-b5e4-85656ccfe717#ref=rss)
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung-a-a5e9a3df-3621-42ae-b465-d51477f29061#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+* [https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten](https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten-a-d1beeea8-b16e-4e47-8702-8452b9005f9a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung-a-a5e9a3df-3621-42ae-b465-d51477f29061#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-a757644c-f330-4401-b817-b5b43049457f#ref=rss)
+### ulmen
+
+* [https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie](https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie-a-3f99c6dc-9c2d-42f5-ae5b-0c06540342fc#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk](https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk-a-11717b5e-f5cc-4a48-80c4-5f433296e389#ref=rss)
+* [https://www.spiegel.de/panorama/fuersteneck-bei-passau-verlorener-geldbeutel-nach-vierteljahrhundert-wiedergefunden](https://www.spiegel.de/panorama/fuersteneck-bei-passau-verlorener-geldbeutel-nach-vierteljahrhundert-wiedergefunden-a-c138be82-6f01-47e1-bffe-5c3534944bff#ref=rss)
+### nato
+
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab](https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab-a-6ba57d7e-4454-4e1e-b247-38ee728ba476#ref=rss)
+### 550
+
+* [https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab](https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab-a-6ba57d7e-4454-4e1e-b247-38ee728ba476#ref=rss)
+### sender
+
+* [https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab](https://www.spiegel.de/wirtschaft/bbc-oeffentlicher-rundfunk-in-grossbritannien-baut-550-jobs-ab-a-6ba57d7e-4454-4e1e-b247-38ee728ba476#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen-a-c06ba51c-71dc-4726-93a4-04377a8ef053#ref=rss)
+### streifenwagen
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen-a-c06ba51c-71dc-4726-93a4-04377a8ef053#ref=rss)
+### verdächtige
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen-a-c06ba51c-71dc-4726-93a4-04377a8ef053#ref=rss)
+### hubschrauber
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen-a-c06ba51c-71dc-4726-93a4-04377a8ef053#ref=rss)
+* [https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk](https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk-a-11717b5e-f5cc-4a48-80c4-5f433296e389#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-juwelendiebe-fluechten-vor-40-streifenwagen-verdaechtige-festgenommen-a-c06ba51c-71dc-4726-93a4-04377a8ef053#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie](https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie-a-3f99c6dc-9c2d-42f5-ae5b-0c06540342fc#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit](https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit-a-62f775af-4d40-4cc9-9709-f165d831c1da#ref=rss)
+### dr
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-a757644c-f330-4401-b817-b5b43049457f#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-a757644c-f330-4401-b817-b5b43049457f#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-portugal-gegen-dr-kongo-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss)
+* [https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein](https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein-a-0e97998e-fd5c-459f-b6d3-555a88af3e70#ref=rss)
+### viktor
+
+* [https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene](https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene-a-020ce123-6f6c-4663-add2-2a052b5f68bb#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene](https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene-a-020ce123-6f6c-4663-add2-2a052b5f68bb#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene](https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene-a-020ce123-6f6c-4663-add2-2a052b5f68bb#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene](https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene-a-020ce123-6f6c-4663-add2-2a052b5f68bb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-a757644c-f330-4401-b817-b5b43049457f#ref=rss)
+### rechten
+
+* [https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene](https://www.spiegel.de/politik/deutschland/viktor-orban-in-bruessel-als-eine-journalistin-ihn-mit-herr-premierminister-anspricht-verzieht-er-keine-miene-a-020ce123-6f6c-4663-add2-2a052b5f68bb#ref=rss)
+### g7gipfel
+
+* [https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert-a-38793a8e-572f-4bd4-9642-7ef409f8e323#ref=rss)
+* [https://www.spiegel.de/kultur/g7-gipfel-auf-social-media-hallo-lieblingsmerz](https://www.spiegel.de/kultur/g7-gipfel-auf-social-media-hallo-lieblingsmerz-a-3eb18c3f-556e-4c16-a8a3-040f889682b0#ref=rss)
+### inszeniert
+
+* [https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert-a-38793a8e-572f-4bd4-9642-7ef409f8e323#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-ich-bin-der-chef-wie-trump-sich-beim-treffen-inszeniert-a-38793a8e-572f-4bd4-9642-7ef409f8e323#ref=rss)
+* [https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt](https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt-a-be19fd4f-124b-4533-a26f-133ff74c8a04#ref=rss)
+### eva
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+### maria
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+### michelmann
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+* [https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten](https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten-a-d1beeea8-b16e-4e47-8702-8452b9005f9a#ref=rss)
+### fest
+
+* [https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen](https://www.spiegel.de/ausland/eva-maria-michelmann-in-haft-in-syrien-das-raetselhafte-verschwinden-der-deutschen-a-62c47dac-6352-43ed-bcf0-612d7643097b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+* [https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten](https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten-a-d1beeea8-b16e-4e47-8702-8452b9005f9a#ref=rss)
+### riasbericht
+
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+### angekommen
+
+* [https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei](https://www.spiegel.de/sport/antisemitismus-in-deutschland-rias-bericht-2025-zeigt-hohes-vorfallsniveau-wo-bleibt-der-aufschrei-a-580511de-bce3-42c1-96dc-24f674b59788#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel](https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel-a-6b0101f6-cb16-408a-9d2b-cb27d1b91efe#ref=rss)
+### ostfriesland
+
+* [https://www.spiegel.de/sport/ostfriesland-ex-jugendtrainer-soll-spieler-geohrfeigt-und-belaestigt-haben](https://www.spiegel.de/sport/ostfriesland-ex-jugendtrainer-soll-spieler-geohrfeigt-und-belaestigt-haben-a-799240eb-3fc6-46ad-973d-ab321aed6920#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/ostfriesland-ex-jugendtrainer-soll-spieler-geohrfeigt-und-belaestigt-haben](https://www.spiegel.de/sport/ostfriesland-ex-jugendtrainer-soll-spieler-geohrfeigt-und-belaestigt-haben-a-799240eb-3fc6-46ad-973d-ab321aed6920#ref=rss)
+### ozempicwirkstoff
+
+* [https://www.spiegel.de/wissenschaft/wegovy-co-wie-wirksam-ist-die-abnehmtablette-mit-ozempic-wirkstoff](https://www.spiegel.de/wissenschaft/wegovy-co-wie-wirksam-ist-die-abnehmtablette-mit-ozempic-wirkstoff-a-da74fb73-6595-4be5-a325-2ca5d8f115f0#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wissenschaft/wegovy-co-wie-wirksam-ist-die-abnehmtablette-mit-ozempic-wirkstoff](https://www.spiegel.de/wissenschaft/wegovy-co-wie-wirksam-ist-die-abnehmtablette-mit-ozempic-wirkstoff-a-da74fb73-6595-4be5-a325-2ca5d8f115f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### callamard
+
+* [https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten](https://www.spiegel.de/ausland/amnesty-chefin-agnes-callamard-deutschland-gehoert-zu-denen-die-sich-feige-verhalten-a-d1beeea8-b16e-4e47-8702-8452b9005f9a#ref=rss)
+### magenta
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+### besseren
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+### vorbei
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos](https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos-a-ba959d81-a7fc-4dcf-93bd-1901c22a6fa5#ref=rss)
+### streamingdienst
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-tv-warum-magenta-den-besseren-job-als-ard-und-zdf-macht-a-ea276c70-67e9-445a-b096-f147663d3113#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie](https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie-a-3f99c6dc-9c2d-42f5-ae5b-0c06540342fc#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+### ole
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+### werner
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-ole-werner-a-19ed738d-aadd-4d75-a45a-f95de60bc669#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+### trionda
+
+* [https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit](https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit-a-62f775af-4d40-4cc9-9709-f165d831c1da#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit](https://www.spiegel.de/kultur/offizieller-wm-ball-trionda-das-ende-der-unberechenbarkeit-a-62f775af-4d40-4cc9-9709-f165d831c1da#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos](https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos-a-ba959d81-a7fc-4dcf-93bd-1901c22a6fa5#ref=rss)
+### kriegsschiff
+
+* [https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen](https://www.spiegel.de/ausland/russisches-kriegsschiff-im-aermelkanal-der-vorfall-zeigt-dass-wir-vertrauensbildende-massnahmen-mit-russland-brauchen-a-e11a597f-3902-4cdc-a86a-13ec53339f74#ref=rss)
+### autos
+
+* [https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos](https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos-a-ba959d81-a7fc-4dcf-93bd-1901c22a6fa5#ref=rss)
+### lage
+
+* [https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos](https://www.spiegel.de/mobilitaet/auto/berlin-mehr-einwohner-gemeldet-weniger-autos-a-ba959d81-a7fc-4dcf-93bd-1901c22a6fa5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abkommen-zum-iran-krieg-nazi-kartei-no-teams](https://www.spiegel.de/politik/deutschland/news-des-tages-abkommen-zum-iran-krieg-nazi-kartei-no-teams-a-1deaee19-a615-4ad9-a844-783cb8136a23#ref=rss)
+### homo
+
+* [https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt](https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt-a-be19fd4f-124b-4533-a26f-133ff74c8a04#ref=rss)
+### erectus
+
+* [https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt](https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt-a-be19fd4f-124b-4533-a26f-133ff74c8a04#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt](https://www.spiegel.de/wissenschaft/archaeologie-homo-erectus-hat-schon-vor-ueber-1-7-millionen-jahren-feuer-genutzt-a-be19fd4f-124b-4533-a26f-133ff74c8a04#ref=rss)
+### heraus
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung-a-a5e9a3df-3621-42ae-b465-d51477f29061#ref=rss)
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### anders
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-maerchen-von-der-tollen-stimmung-a-a5e9a3df-3621-42ae-b465-d51477f29061#ref=rss)
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### gaby
+
+* [https://www.spiegel.de/panorama/leute/gaby-koester-komikerin-lebt-seit-ihrem-schlaganfall-vom-dispo](https://www.spiegel.de/panorama/leute/gaby-koester-komikerin-lebt-seit-ihrem-schlaganfall-vom-dispo-a-0ccd08ed-601e-4c4b-9317-a6948d755a47#ref=rss)
+### köster
+
+* [https://www.spiegel.de/panorama/leute/gaby-koester-komikerin-lebt-seit-ihrem-schlaganfall-vom-dispo](https://www.spiegel.de/panorama/leute/gaby-koester-komikerin-lebt-seit-ihrem-schlaganfall-vom-dispo-a-0ccd08ed-601e-4c4b-9317-a6948d755a47#ref=rss)
+### christian
+
+* [https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie](https://www.spiegel.de/kultur/tv/fall-collien-fernandes-christian-ulmen-klagt-gegen-kuendigung-seiner-streamingserie-a-3f99c6dc-9c2d-42f5-ae5b-0c06540342fc#ref=rss)
+### nazikartei
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abkommen-zum-iran-krieg-nazi-kartei-no-teams](https://www.spiegel.de/politik/deutschland/news-des-tages-abkommen-zum-iran-krieg-nazi-kartei-no-teams-a-1deaee19-a615-4ad9-a844-783cb8136a23#ref=rss)
+### spott
+
+* [https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel](https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel-a-6b0101f6-cb16-408a-9d2b-cb27d1b91efe#ref=rss)
+### kraftstoffmangel
+
+* [https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel](https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel-a-6b0101f6-cb16-408a-9d2b-cb27d1b91efe#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel](https://www.spiegel.de/ausland/russland-buerger-reagieren-mit-spott-auf-kriegsbedingten-kraftstoffmangel-a-6b0101f6-cb16-408a-9d2b-cb27d1b91efe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### till
+
+* [https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein](https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein-a-0e97998e-fd5c-459f-b6d3-555a88af3e70#ref=rss)
+### backhaus
+
+* [https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein](https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein-a-0e97998e-fd5c-459f-b6d3-555a88af3e70#ref=rss)
+### buckelwal
+
+* [https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein](https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein-a-0e97998e-fd5c-459f-b6d3-555a88af3e70#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein](https://www.spiegel.de/panorama/till-backhaus-buckelwal-minister-laedt-zur-dankesparty-fuer-helfer-auf-poel-ein-a-0e97998e-fd5c-459f-b6d3-555a88af3e70#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert-a-cc4ffd93-f376-44b6-8fee-3a1fcc5b35f5#ref=rss)
+### mähwerk
+
+* [https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk](https://www.spiegel.de/panorama/hammelburg-unterfranken-mann-faellt-von-rasenmaeher-und-geraet-mit-haenden-in-maehwerk-a-11717b5e-f5cc-4a48-80c4-5f433296e389#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert-a-cc4ffd93-f376-44b6-8fee-3a1fcc5b35f5#ref=rss)
+### bus
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-drohneneinschlag-in-bus-mit-kindern-kyjiw-dementiert-a-cc4ffd93-f376-44b6-8fee-3a1fcc5b35f5#ref=rss)
+### krise
+
+* [https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst](https://www.spiegel.de/politik/deutschland/nato-in-der-krise-so-wollen-die-europaeer-die-luecken-fuellen-die-trump-in-der-nato-reisst-a-315f34bb-ccd3-4fa8-b347-5fb99a3a120c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### presserat
+
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### journalistenverbände
+
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### kennzeichnungspflicht
+
+* [https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte](https://www.spiegel.de/kultur/presserat-journalistenverbaende-fordern-kennzeichnungspflicht-fuer-ki-inhalte-a-23de0b9c-60cf-44ed-aa57-fa492117497c#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### erbe
+
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
+### zipse
+
+* [https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse](https://www.spiegel.de/wirtschaft/bmw-in-der-krise-das-vergiftete-erbe-des-oliver-zipse-a-1f268457-3c40-408d-ab59-f3033e8e6c3f#ref=rss)
 
