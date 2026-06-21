@@ -4,343 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### millionen
-
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten](https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten-a-3303b4ef-e4b8-4498-afcf-e7a0d2974d7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte](https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte-a-16ea29cb-0645-4ac9-a5ba-707122c233fc#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus-a-c6c3864f-faa8-4b9b-a35e-8a550eb6a396#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen](https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen-a-2f3ee305-525a-4105-aaf8-4a9145f51409#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention](https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention-a-ec159294-2df5-4173-8fed-7c1270b599d1#ref=rss)
-* [https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren](https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren-a-2780291e-2fdd-43da-9ad3-98b500a25dae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten](https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten-a-3303b4ef-e4b8-4498-afcf-e7a0d2974d7a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-* [https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren](https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren-a-2780291e-2fdd-43da-9ad3-98b500a25dae#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland](https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland-a-eee017e7-83b5-45e3-a39f-aa094d208341#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york](https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york-a-05841b93-7c2a-440a-b5f3-316b0c3d75f6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
 ### 2026
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-* [https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york](https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york-a-05841b93-7c2a-440a-b5f3-316b0c3d75f6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht](https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht-a-765b4edf-a1a5-4a4d-8039-d87b978c438c#ref=rss)
-### schweden
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland](https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland-a-87eb5a9a-93ce-43cd-9455-f6e6ec408822#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten-a-e6945653-f395-48ce-b0a9-401c222956c8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### fpö
-
-* [https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor](https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor-a-56af92f9-24c6-46e6-b01b-4a0cc2dc745b#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden](https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden-a-50c4acd7-f2cc-4008-85d5-2e389489840e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner](https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner-a-d613e7ff-02b3-4324-985b-71dc34c211d5#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden](https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden-a-50c4acd7-f2cc-4008-85d5-2e389489840e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-* [https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren](https://www.spiegel.de/panorama/hitzewelle-in-deutschland-hauptsache-einen-kuehlen-kopf-bewahren-a-2780291e-2fdd-43da-9ad3-98b500a25dae#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten](https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten-a-3b5c044a-a3ff-4439-91a5-59e2a969f12f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein-a-89886e23-df9f-4fa2-b96e-677a9fda927e#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen](https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen-a-492af421-7218-4190-b5c6-751b327ccdd3#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland](https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland-a-eee017e7-83b5-45e3-a39f-aa094d208341#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden](https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden-a-60ed4b62-6f30-4af3-bae6-5cb84164674b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
 ### elfenbeinküste
 
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-### wissen
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### wm
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### friedrich
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland](https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland-a-87eb5a9a-93ce-43cd-9455-f6e6ec408822#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten](https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten-a-3303b4ef-e4b8-4498-afcf-e7a0d2974d7a#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-### besser
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein-a-89886e23-df9f-4fa2-b96e-677a9fda927e#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-niederlande-gegen-schweden-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-### karin
-
-* [https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor](https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor-a-56af92f9-24c6-46e6-b01b-4a0cc2dc745b#ref=rss)
-### kneissl
-
-* [https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor](https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor-a-56af92f9-24c6-46e6-b01b-4a0cc2dc745b#ref=rss)
-### hochzeit
-
-* [https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor](https://www.spiegel.de/ausland/oesterreich-ex-aussenministerin-karin-kneissl-wirft-fpoe-mobbing-vor-a-56af92f9-24c6-46e6-b01b-4a0cc2dc745b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-### wiebke
-
-* [https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden](https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden-a-50c4acd7-f2cc-4008-85d5-2e389489840e#ref=rss)
-### winter
-
-* [https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden](https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden-a-50c4acd7-f2cc-4008-85d5-2e389489840e#ref=rss)
-### regierungschefin
-
-* [https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden](https://www.spiegel.de/politik/cdu-wiebke-winter-koennte-bremens-erste-regierungschefin-werden-a-50c4acd7-f2cc-4008-85d5-2e389489840e#ref=rss)
-### patrice
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-### aminati
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-### medizin
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein-a-89886e23-df9f-4fa2-b96e-677a9fda927e#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-### klar
-
-* [https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter](https://www.spiegel.de/panorama/leute/patrice-aminati-schluckte-krebs-medikamente-heimlich-dann-merkte-es-ihre-tochter-a-0b7501da-9f3f-4978-90b2-f62395eec297#ref=rss)
-* [https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten](https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten-a-3b5c044a-a3ff-4439-91a5-59e2a969f12f#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein-a-89886e23-df9f-4fa2-b96e-677a9fda927e#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-in-der-medizin-die-ki-allein-eingesetzt-kann-lebensgefaehrlich-sein-a-89886e23-df9f-4fa2-b96e-677a9fda927e#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen](https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen-a-492af421-7218-4190-b5c6-751b327ccdd3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen](https://www.spiegel.de/ausland/afghanistan-wir-haben-familien-getroffen-die-ihre-toechter-verkaufen-a-492af421-7218-4190-b5c6-751b327ccdd3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention](https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention-a-ec159294-2df5-4173-8fed-7c1270b599d1#ref=rss)
-### jäger
-
-* [https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention](https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention-a-ec159294-2df5-4173-8fed-7c1270b599d1#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention](https://www.spiegel.de/ausland/japan-baeren-greifen-immer-oefter-menschen-an-jaeger-und-polizei-trainieren-als-praevention-a-ec159294-2df5-4173-8fed-7c1270b599d1#ref=rss)
-* [https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt](https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt-a-92485740-940a-4c68-a5d0-3b865990059a#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york](https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york-a-05841b93-7c2a-440a-b5f3-316b0c3d75f6#ref=rss)
-### rudern
-
-* [https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york](https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york-a-05841b93-7c2a-440a-b5f3-316b0c3d75f6#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york](https://www.spiegel.de/sport/wm-2026-norwegische-fans-rudern-auf-dem-times-square-in-new-york-a-05841b93-7c2a-440a-b5f3-316b0c3d75f6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll](https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll-a-bb3386e3-4f03-4fff-9606-51939e30f8c9#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen](https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen-a-2f3ee305-525a-4105-aaf8-4a9145f51409#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll](https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll-a-bb3386e3-4f03-4fff-9606-51939e30f8c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte](https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte-a-16ea29cb-0645-4ac9-a5ba-707122c233fc#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll](https://www.spiegel.de/politik/deutschland/innenministerkonferenz-wie-der-online-kult-um-rechtsterroristen-eingedaemmt-werden-soll-a-bb3386e3-4f03-4fff-9606-51939e30f8c9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### yan
-
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-### diomande
-
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist](https://www.spiegel.de/sport/fussball/deutschland-vs-elfenbeinkueste-warum-yan-diomande-einer-der-spannendsten-spieler-der-wm-ist-a-e3187768-4464-4b18-996a-82830c9f4740#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland](https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland-a-eee017e7-83b5-45e3-a39f-aa094d208341#ref=rss)
-### dua
-
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-### lipa
-
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-### callum
-
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
-### turner
-
-* [https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes](https://www.spiegel.de/panorama/leute/dua-lipa-und-callum-turner-mr-mrs-millionen-likes-a-b6f513a5-7211-4914-a5eb-cb0629269a1f#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim](https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim-a-072704b5-7821-48da-b2ab-056272cf11d1#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel](https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel-a-b20162f3-14fa-43e6-89d9-52c6c681f13c#ref=rss)
+* [https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen](https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen-a-5a93ac2f-832f-4302-8950-2df565272d8e#ref=rss)
+* [https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben](https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben-a-c9928ec3-87ee-45c0-b7bd-3235ce2444fe#ref=rss)
 ### fußballwm
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht](https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht-a-765b4edf-a1a5-4a4d-8039-d87b978c438c#ref=rss)
-### abend
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/panorama/fussball-wm-wenn-harry-kane-england-an-den-plattenspieler-darf-laeuft-country-musik](https://www.spiegel.de/panorama/fussball-wm-wenn-harry-kane-england-an-den-plattenspieler-darf-laeuft-country-musik-a-0964030e-99af-4c76-97b1-368a198730f3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-e321b73e-906f-4aa5-85da-855cebe041f8#ref=rss)
-### straße
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus-a-c6c3864f-faa8-4b9b-a35e-8a550eb6a396#ref=rss)
-### hormus
+* [https://www.spiegel.de/panorama/bayern-19-jaehriger-bergsteiger-stuerzt-in-den-tod](https://www.spiegel.de/panorama/bayern-19-jaehriger-bergsteiger-stuerzt-in-den-tod-a-9349994b-c603-48d8-938a-a0959546d019#ref=rss)
+* [https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen](https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen-a-5a93ac2f-832f-4302-8950-2df565272d8e#ref=rss)
+* [https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben](https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben-a-c9928ec3-87ee-45c0-b7bd-3235ce2444fe#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus-a-c6c3864f-faa8-4b9b-a35e-8a550eb6a396#ref=rss)
-### landes
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue-a-bab6c056-cab8-4e4f-b234-575dae308a5b#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten-a-e6945653-f395-48ce-b0a9-401c222956c8#ref=rss)
+### sonntag
 
-* [https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus-a-c6c3864f-faa8-4b9b-a35e-8a550eb6a396#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland](https://www.spiegel.de/panorama/hitze-gewitter-und-sturm-fegen-weiter-ueber-deutschland-a-eee017e7-83b5-45e3-a39f-aa094d208341#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird](https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird-a-91ad159f-3ee1-4bda-a5e7-9055f596ca90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland](https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland-a-87eb5a9a-93ce-43cd-9455-f6e6ec408822#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle](https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle-a-b7540fae-1642-4801-8ac0-5a4105bbe80b#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-verkuendet-erneute-schliessung-der-strasse-von-hormus-a-c6c3864f-faa8-4b9b-a35e-8a550eb6a396#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen](https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen-a-2f3ee305-525a-4105-aaf8-4a9145f51409#ref=rss)
-### linke
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner](https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner-a-d613e7ff-02b3-4324-985b-71dc34c211d5#ref=rss)
-### luigi
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner](https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner-a-d613e7ff-02b3-4324-985b-71dc34c211d5#ref=rss)
-### pantisano
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner](https://www.spiegel.de/politik/deutschland/die-linke-luigi-pantisano-ist-neuer-co-parteichef-neben-ines-schwerdtner-a-d613e7ff-02b3-4324-985b-71dc34c211d5#ref=rss)
-### könig
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### charles
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### iii
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### meghan
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder](https://www.spiegel.de/panorama/leute/koenig-charles-iii-sieht-er-die-kinder-von-harry-und-meghan-das-erste-mal-nach-vier-jahren-wieder-a-0240f4bc-804a-4a4d-940d-b564f4fe9dd6#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen](https://www.spiegel.de/ausland/iran-und-usa-wollen-gespraeche-ueber-kriegsende-offenbar-wiederaufnehmen-a-2f3ee305-525a-4105-aaf8-4a9145f51409#ref=rss)
-### felix
-
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-### banaszak
-
-* [https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten](https://www.spiegel.de/politik/felix-banaszak-gruenen-co-chef-attackiert-merz-mit-derben-worten-a-677d1eab-b803-4ebe-a041-2f282b22cbe9#ref=rss)
-### ronaldinho
-
-* [https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten](https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten-a-3b5c044a-a3ff-4439-91a5-59e2a969f12f#ref=rss)
-### plant
-
-* [https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten](https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten-a-3b5c044a-a3ff-4439-91a5-59e2a969f12f#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten](https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten-a-3303b4ef-e4b8-4498-afcf-e7a0d2974d7a#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten](https://www.spiegel.de/sport/fussball/plant-ronaldinho-sein-comeback-bei-einem-italienischen-drittligisten-a-3b5c044a-a3ff-4439-91a5-59e2a969f12f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim](https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim-a-072704b5-7821-48da-b2ab-056272cf11d1#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel](https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel-a-b20162f3-14fa-43e6-89d9-52c6c681f13c#ref=rss)
+* [https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen](https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen-a-5a93ac2f-832f-4302-8950-2df565272d8e#ref=rss)
 ### nagelsmann
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### kanzler
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### de
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle](https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle-a-b7540fae-1642-4801-8ac0-5a4105bbe80b#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet](https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet-a-d2356718-53cb-49cc-97a7-1ec6b98cf1e1#ref=rss)
+### deniz
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### undav
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben](https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben-a-c9928ec3-87ee-45c0-b7bd-3235ce2444fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde](https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde-a-9a327ecd-af46-49cb-926c-b7f131c38383#ref=rss)
+### orf
+
+* [https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung](https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung-a-24fe3af5-0811-48e6-9b06-89f87e512b84#ref=rss)
+### machtmissbrauch
+
+* [https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung](https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung-a-24fe3af5-0811-48e6-9b06-89f87e512b84#ref=rss)
+### belästigung
+
+* [https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung](https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung-a-24fe3af5-0811-48e6-9b06-89f87e512b84#ref=rss)
+### chef
+
+* [https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung](https://www.spiegel.de/ausland/oesterreich-die-zukunft-des-orf-nach-machtmissbrauch-und-belaestigung-a-24fe3af5-0811-48e6-9b06-89f87e512b84#ref=rss)
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden](https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden-a-60ed4b62-6f30-4af3-bae6-5cb84164674b#ref=rss)
+### wirkt
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden](https://www.spiegel.de/wirtschaft/soziales/rente-diese-reformidee-koennte-zum-befreiungsschlag-fuer-deutschland-werden-a-60ed4b62-6f30-4af3-bae6-5cb84164674b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland](https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland-a-87eb5a9a-93ce-43cd-9455-f6e6ec408822#ref=rss)
+### könig
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+### teilt
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### infantino
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus](https://www.spiegel.de/sport/fussball/fussball-wm-2026-koenig-willem-alexander-teilt-seitenhieb-an-fifa-boss-infantino-aus-a-455d6d63-4992-4405-b1ff-9df5b7d22a23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rentenkommission-diw-praesident-fratzscher-kritisiert-plaene-fuer-altersvorsorge](https://www.spiegel.de/wirtschaft/rentenkommission-diw-praesident-fratzscher-kritisiert-plaene-fuer-altersvorsorge-a-07371874-b28d-4f40-a4ca-c406b8abf0f4#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue-a-bab6c056-cab8-4e4f-b234-575dae308a5b#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-mario-vogue-a-bab6c056-cab8-4e4f-b234-575dae308a5b#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird](https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird-a-91ad159f-3ee1-4bda-a5e7-9055f596ca90#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/gesellschaft/braunkohledoerfer-in-erkelenz-rueckkehr-in-gerettete-orte-wird-zur-kostenfrage](https://www.spiegel.de/panorama/gesellschaft/braunkohledoerfer-in-erkelenz-rueckkehr-in-gerettete-orte-wird-zur-kostenfrage-a-ad023125-6fcc-4dba-b7a7-87561a9e8fbf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde](https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde-a-9a327ecd-af46-49cb-926c-b7f131c38383#ref=rss)
+### queere
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+### community
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+### csd
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+### merseburg
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+### riesig
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten-a-e6945653-f395-48ce-b0a9-401c222956c8#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### siegt
+
+* [https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd](https://www.spiegel.de/politik/queere-community-in-sachsen-anhalt-csd-in-merseburg-und-angst-vor-der-afd-a-63eeb6a8-a954-42fd-bce7-df0fcdbf45fa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird](https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird-a-91ad159f-3ee1-4bda-a5e7-9055f596ca90#ref=rss)
+* [https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood](https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood-a-3319fb81-113a-438f-8b42-c740c4ef5afa#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird](https://www.spiegel.de/panorama/unwetter-und-hitzerekorde-wo-es-am-sonntag-heftig-wird-a-91ad159f-3ee1-4bda-a5e7-9055f596ca90#ref=rss)
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+### dfbsieg
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-ist-schon-gruppensieger-dank-der-15-paraden-von-curacao-keeper-eloy-room-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### krim
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim](https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim-a-072704b5-7821-48da-b2ab-056272cf11d1#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim](https://www.spiegel.de/ausland/russlands-angriffskrieg-tote-und-verletzte-nach-ukrainischen-drohnenangriffen-auf-der-krim-a-072704b5-7821-48da-b2ab-056272cf11d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland](https://www.spiegel.de/politik/deutschland/news-christliche-fussball-spieler-wm-2026-spiegel-titel-krieg-gegen-russland-a-87eb5a9a-93ce-43cd-9455-f6e6ec408822#ref=rss)
+### rod
+
+* [https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder](https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder-a-0b09911f-5be1-43b2-ab3e-c488989985ef#ref=rss)
+### stewart
+
+* [https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder](https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder-a-0b09911f-5be1-43b2-ab3e-c488989985ef#ref=rss)
+### konzert
+
+* [https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder](https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder-a-0b09911f-5be1-43b2-ab3e-c488989985ef#ref=rss)
+### utah
+
+* [https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder](https://www.spiegel.de/kultur/musik/rod-stewart-wird-bei-konzert-in-utah-fast-ohnmaechtig-dann-spasst-er-wieder-a-0b09911f-5be1-43b2-ab3e-c488989985ef#ref=rss)
+### fratzscher
+
+* [https://www.spiegel.de/wirtschaft/rentenkommission-diw-praesident-fratzscher-kritisiert-plaene-fuer-altersvorsorge](https://www.spiegel.de/wirtschaft/rentenkommission-diw-praesident-fratzscher-kritisiert-plaene-fuer-altersvorsorge-a-07371874-b28d-4f40-a4ca-c406b8abf0f4#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/irankrieg-us-vizepraesident-jd-vance-rechnet-mit-fortschritten-bei-iranverhandlungen](https://www.spiegel.de/ausland/irankrieg-us-vizepraesident-jd-vance-rechnet-mit-fortschritten-bei-iranverhandlungen-a-59c69ff4-fa2f-4b4a-bc3e-1938ca8b4834#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/irankrieg-us-vizepraesident-jd-vance-rechnet-mit-fortschritten-bei-iranverhandlungen](https://www.spiegel.de/ausland/irankrieg-us-vizepraesident-jd-vance-rechnet-mit-fortschritten-bei-iranverhandlungen-a-59c69ff4-fa2f-4b4a-bc3e-1938ca8b4834#ref=rss)
+### julian
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-gegen-die-elfenbeinkueste-kommentar-die-geburt-einer-mannschaft-a-33530e6a-eb80-490b-b1d5-351912acf025#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel](https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel-a-b20162f3-14fa-43e6-89d9-52c6c681f13c#ref=rss)
+### brand
+
+* [https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel](https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel-a-b20162f3-14fa-43e6-89d9-52c6c681f13c#ref=rss)
+### hotel
+
+* [https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel](https://www.spiegel.de/panorama/hamburg-14-verletzte-bei-brand-in-hamburger-hotel-a-b20162f3-14fa-43e6-89d9-52c6c681f13c#ref=rss)
+### edinburgh
+
+* [https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen](https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen-a-5a93ac2f-832f-4302-8950-2df565272d8e#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen](https://www.spiegel.de/ausland/edinburgh-fuenf-verletzte-bei-mutmasslich-muslimfeindlichen-angriffen-a-5a93ac2f-832f-4302-8950-2df565272d8e#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle](https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle-a-b7540fae-1642-4801-8ac0-5a4105bbe80b#ref=rss)
+### alkoholverbot
+
+* [https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle](https://www.spiegel.de/ausland/frankreich-erlaesst-alkoholverbot-wegen-hitzewelle-a-b7540fae-1642-4801-8ac0-5a4105bbe80b#ref=rss)
+### toren
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### geschossen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
 ### bundestrainer
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### fremd
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-zweifacher-torschuetze-deniz-undav-wird-nach-sieg-ueber-elfenbeinkueste-gefeiert-a-be16cb40-b546-4e6e-b030-e28a6829e929#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-kanzler-und-bundestrainer-sind-sich-fremd-a-a646c925-f462-453c-b116-ffb5ffc761e0#ref=rss)
-### colorado
+* [https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben](https://www.spiegel.de/panorama/41-jaehriger-in-krefeld-nach-polizeischuessen-gestorben-a-c9928ec3-87ee-45c0-b7bd-3235ce2444fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-schlaegt-elfenbeinkueste-pressestimmen-zum-dfb-sieg-a-4bdf15fb-e698-4c01-b867-cc99fef40cfa#ref=rss)
+### champignysurmarne
 
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
-### river
+* [https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde](https://www.spiegel.de/panorama/justiz/champigny-sur-marne-polizisten-finden-bei-drogenrazzia-picassogemaelde-a-9a327ecd-af46-49cb-926c-b7f131c38383#ref=rss)
+### robin
 
-* [https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus](https://www.spiegel.de/wissenschaft/colorado-river-die-megaduerre-trocknet-amerikas-suedwesten-aus-a-4dcea1c7-552c-4b40-9d84-1e7b6cb04583#ref=rss)
-### sieben
+* [https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood](https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood-a-3319fb81-113a-438f-8b42-c740c4ef5afa#ref=rss)
+### hood
 
-* [https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten](https://www.spiegel.de/ausland/bolivien-praesident-verhaengt-ausnahmezustand-nach-wochenlangen-protesten-a-3303b4ef-e4b8-4498-afcf-e7a0d2974d7a#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### frank
+* [https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood](https://www.spiegel.de/kultur/the-death-of-robin-hood-ein-neuer-film-zeigt-unbekannte-facetten-von-robin-hood-a-3319fb81-113a-438f-8b42-c740c4ef5afa#ref=rss)
+### sean
 
-* [https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen](https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen-a-c17f4302-db21-4c8f-9941-a918ef43a03d#ref=rss)
-### stronach
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### sherman
 
-* [https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen](https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen-a-c17f4302-db21-4c8f-9941-a918ef43a03d#ref=rss)
-### sexueller
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### indigene
 
-* [https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen](https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen-a-c17f4302-db21-4c8f-9941-a918ef43a03d#ref=rss)
-### schuldig
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### küche
 
-* [https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen](https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen-a-c17f4302-db21-4c8f-9941-a918ef43a03d#ref=rss)
-### gesprochen
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen](https://www.spiegel.de/wirtschaft/frank-stronach-93-jaehriger-milliardaer-wegen-sexueller-uebergriffe-schuldig-gesprochen-a-c17f4302-db21-4c8f-9941-a918ef43a03d#ref=rss)
-### i̇lkay
+* [https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten](https://www.spiegel.de/ausland/sean-sherman-essen-wie-bei-crazy-horse-indigene-kueche-ohne-kolonialzutaten-a-937d3006-3135-4635-8e20-e6f24baadf03#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten-a-e6945653-f395-48ce-b0a9-401c222956c8#ref=rss)
+### ziffer
 
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht](https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht-a-765b4edf-a1a5-4a4d-8039-d87b978c438c#ref=rss)
-### gündoğan
+* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-steht-in-der-fakultaetensumme-ganz-hinten-a-e6945653-f395-48ce-b0a9-401c222956c8#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht](https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht-a-765b4edf-a1a5-4a4d-8039-d87b978c438c#ref=rss)
-### sané
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht](https://www.spiegel.de/sport/fussball/ilkay-guendogan-kolumne-zur-fussball-wm-2026-reizfigur-ihr-tut-leroy-sane-unrecht-a-765b4edf-a1a5-4a4d-8039-d87b978c438c#ref=rss)
-### chempark
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### reflecting
 
-* [https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt](https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt-a-92485740-940a-4c68-a5d0-3b865990059a#ref=rss)
-### dormagen
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### pool
 
-* [https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt](https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt-a-92485740-940a-4c68-a5d0-3b865990059a#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### washington
 
-* [https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt](https://www.spiegel.de/panorama/chempark-dormagen-25-mitarbeiter-durch-giftige-chemikalie-verletzt-a-92485740-940a-4c68-a5d0-3b865990059a#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c](https://www.spiegel.de/ausland/donald-trump-spricht-von-vandalismus-am-lincoln-memorial-reflecting-pool-in-washington-d-c-a-8960ca14-efcd-4362-862d-b1dc5cca8bc6#ref=rss)
+### sex
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet](https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet-a-d2356718-53cb-49cc-97a7-1ec6b98cf1e1#ref=rss)
+### sheila
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### kosten
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet](https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet-a-d2356718-53cb-49cc-97a7-1ec6b98cf1e1#ref=rss)
+### liz
 
-* [https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte](https://www.spiegel.de/politik/deutschland/beamte-und-soldaten-warum-ein-rechenfehler-den-steuerzahler-fuenf-millionen-euro-kosten-koennte-a-16ea29cb-0645-4ac9-a5ba-707122c233fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/nebenkostenabrechnung-wann-mieter-funkmessgeraeten-widersprechen-koennen](https://www.spiegel.de/wirtschaft/service/nebenkostenabrechnung-wann-mieter-funkmessgeraeten-widersprechen-koennen-a-5c1e6ed0-afa6-44fb-b2f3-07bc09ccf89c#ref=rss)
-### mieter
+* [https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet](https://www.spiegel.de/partnerschaft/sex-im-alter-was-sheila-de-liz-langzeitpaaren-fuer-besseren-sex-raet-a-d2356718-53cb-49cc-97a7-1ec6b98cf1e1#ref=rss)
+### tuchel
 
-* [https://www.spiegel.de/wirtschaft/service/nebenkostenabrechnung-wann-mieter-funkmessgeraeten-widersprechen-koennen](https://www.spiegel.de/wirtschaft/service/nebenkostenabrechnung-wann-mieter-funkmessgeraeten-widersprechen-koennen-a-5c1e6ed0-afa6-44fb-b2f3-07bc09ccf89c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha](https://www.spiegel.de/sport/fussball/wm-2026-live-brasilien-zittert-um-raphinha-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss)
 
