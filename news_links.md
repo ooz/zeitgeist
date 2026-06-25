@@ -4,342 +4,298 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### einmal
+### venezuela
 
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### partei
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela](https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela-a-664b658b-a150-4e34-918f-6e1eaecbda4a#ref=rss)
+* [https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas](https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas-a-97e39690-dc62-40a1-b8e6-e0ff313773ed#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall](https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall-a-938c2b21-a350-4142-9911-c446246c2427#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen-a-09d135ba-8075-44ac-9591-0ca0936de2f8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer-a-e6c10561-2da9-467b-9939-5c0bfe4976b1#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela](https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela-a-664b658b-a150-4e34-918f-6e1eaecbda4a#ref=rss)
+* [https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas](https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas-a-97e39690-dc62-40a1-b8e6-e0ff313773ed#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### angela
-
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### porträt
-
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab](https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab-a-7f283df5-93c1-4ee5-b6b4-1e1af7ed96aa#ref=rss)
-### rente
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition](https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition-a-75236896-723b-42e2-97e2-41d4cfe9074c#ref=rss)
-### riskante
-
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition](https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition-a-75236896-723b-42e2-97e2-41d4cfe9074c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check](https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check-a-ba1d42ea-6d8f-465b-a437-911e6118fbcc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse-a-7248dcdc-cdd8-498c-83f6-91622aae74a4#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen](https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen-a-ea833d82-41ca-4acd-8388-06342babac37#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe](https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe-a-e73d2c12-1512-4446-9d4f-e6796da90298#ref=rss)
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### klimaanlage
+* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-gibt-toetung-von-patienten-zu](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-gibt-toetung-von-patienten-zu-a-05474fe0-afac-4459-9397-0db04cb48fff#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+* [https://www.spiegel.de/ausland/kopenhagen-diese-stadt-belohnt-besucher-fuer-umweltbewusstes-verhalten](https://www.spiegel.de/ausland/kopenhagen-diese-stadt-belohnt-besucher-fuer-umweltbewusstes-verhalten-a-8967cc9d-3a96-4c31-8e34-fad8987b9be2#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen](https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen-a-ea833d82-41ca-4acd-8388-06342babac37#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe](https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe-a-e73d2c12-1512-4446-9d4f-e6796da90298#ref=rss)
-### merkel
+* [https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu](https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu-a-1e7eba3a-9829-44d0-9b38-3426fbcdfb35#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela](https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela-a-664b658b-a150-4e34-918f-6e1eaecbda4a#ref=rss)
+### tote
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### gezeigt
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet](https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet-a-1faf9bd6-a2ad-433d-8247-7a928855fda2#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben](https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben-a-c9538f92-5ff3-4650-9566-7e23b77d6f97#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben](https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben-a-c9538f92-5ff3-4650-9566-7e23b77d6f97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### ausfall
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### vassili
-
-* [https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor](https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor-a-7dfe07ba-441d-42ba-b232-ad5bd06ba33f#ref=rss)
-### golod
-
-* [https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor](https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor-a-7dfe07ba-441d-42ba-b232-ad5bd06ba33f#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor](https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor-a-7dfe07ba-441d-42ba-b232-ad5bd06ba33f#ref=rss)
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-### monitor
-
-* [https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor](https://www.spiegel.de/kultur/vassili-golod-uebernimmt-als-nachfolger-von-georg-restle-leitung-des-ard-magazins-monitor-a-7dfe07ba-441d-42ba-b232-ad5bd06ba33f#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist](https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist-a-cd6d6278-c6d6-4672-9851-11877312e97a#ref=rss)
-### unserer
-
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist](https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist-a-cd6d6278-c6d6-4672-9851-11877312e97a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse-a-7248dcdc-cdd8-498c-83f6-91622aae74a4#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist](https://www.spiegel.de/panorama/gesellschaft/social-media-warum-ein-verbot-fuer-kinder-und-jugendliche-der-falsche-weg-ist-a-cd6d6278-c6d6-4672-9851-11877312e97a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten](https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten-a-2d53f2af-b436-46c6-852d-017a53aa6a9e#ref=rss)
-### ingeborg
-
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-### bachmann
-
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-### jemand
-
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin](https://www.spiegel.de/kultur/ingeborg-bachmann-jemand-der-einmal-ich-war-geisterstunde-einer-stolz-vereinsamten-dichterin-a-d8868836-3961-4a2a-8f4c-e2e3634555ab#ref=rss)
-### zohran
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-### mamdani
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-### demokratischen
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-### junge
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus](https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss)
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-### dhlbote
-
-* [https://www.spiegel.de/panorama/justiz/herne-wanne-dhl-bote-wegen-gefaehrlicher-koerperverletzung-verurteilt](https://www.spiegel.de/panorama/justiz/herne-wanne-dhl-bote-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-67302786-8270-47aa-a74e-fcf0883cd4b5#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/herne-wanne-dhl-bote-wegen-gefaehrlicher-koerperverletzung-verurteilt](https://www.spiegel.de/panorama/justiz/herne-wanne-dhl-bote-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-67302786-8270-47aa-a74e-fcf0883cd4b5#ref=rss)
-### wohnung
-
-* [https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen](https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen-a-ea833d82-41ca-4acd-8388-06342babac37#ref=rss)
-### mieter
-
-* [https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen](https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen-a-ea833d82-41ca-4acd-8388-06342babac37#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen](https://www.spiegel.de/wirtschaft/hitze-in-der-wohnung-was-mieter-vor-dem-kauf-einer-klimaanlage-wissen-muessen-a-ea833d82-41ca-4acd-8388-06342babac37#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe](https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe-a-e73d2c12-1512-4446-9d4f-e6796da90298#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe](https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe-a-e73d2c12-1512-4446-9d4f-e6796da90298#ref=rss)
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe](https://www.spiegel.de/mobilitaet/bus-bahn/berlin-hitze-stellt-neue-u-bahn-ohne-klimaanlage-auf-die-probe-a-e73d2c12-1512-4446-9d4f-e6796da90298#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/neun-polizisten-schweigen-nach-toedlichem-polizeieinsatz](https://www.spiegel.de/panorama/justiz/neun-polizisten-schweigen-nach-toedlichem-polizeieinsatz-a-aac10442-6c46-4fbd-9d74-242d19920820#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/neun-polizisten-schweigen-nach-toedlichem-polizeieinsatz](https://www.spiegel.de/panorama/justiz/neun-polizisten-schweigen-nach-toedlichem-polizeieinsatz-a-aac10442-6c46-4fbd-9d74-242d19920820#ref=rss)
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-### sorgt
+* [https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause](https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause-a-cb21c0e8-56ff-49d1-8501-78dbb283e21a#ref=rss)
+* [https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt-a-d96bd73e-cf3b-4cb2-a20f-678609259d92#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten](https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten-a-0196d486-155c-418a-bb04-bfe75474d126#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### hitze
 
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### hamburg
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### gerade
 
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten](https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten-a-2d53f2af-b436-46c6-852d-017a53aa6a9e#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+* [https://www.spiegel.de/ausland/kopenhagen-diese-stadt-belohnt-besucher-fuer-umweltbewusstes-verhalten](https://www.spiegel.de/ausland/kopenhagen-diese-stadt-belohnt-besucher-fuer-umweltbewusstes-verhalten-a-8967cc9d-3a96-4c31-8e34-fad8987b9be2#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu](https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu-a-1e7eba3a-9829-44d0-9b38-3426fbcdfb35#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu](https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu-a-1e7eba3a-9829-44d0-9b38-3426fbcdfb35#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+### autobahn
+
+* [https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause](https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause-a-cb21c0e8-56ff-49d1-8501-78dbb283e21a#ref=rss)
+### lief
+
+* [https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause](https://www.spiegel.de/panorama/a4-mann-will-zeit-sparen-und-laeuft-ueber-autobahn-nach-hause-a-cb21c0e8-56ff-49d1-8501-78dbb283e21a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+### 164
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+### doppelerdbeben
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+### erschüttert
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela](https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela-a-664b658b-a150-4e34-918f-6e1eaecbda4a#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela](https://www.spiegel.de/panorama/erdbeben-in-venezuela-usa-schicken-rettungsteams-nach-venezuela-a-664b658b-a150-4e34-918f-6e1eaecbda4a#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist](https://www.spiegel.de/panorama/venezuela-mindestens-164-tote-was-bisher-ueber-das-doppelerdbeben-bekannt-ist-a-7eb87d02-ad25-4db2-8ae3-98d5f11fc307#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas](https://www.spiegel.de/panorama/venezuela-video-zeigt-moment-des-erdbebens-am-flughafen-in-caracas-a-97e39690-dc62-40a1-b8e6-e0ff313773ed#ref=rss)
+### gestürzt
+
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet](https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet-a-1faf9bd6-a2ad-433d-8247-7a928855fda2#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben](https://www.spiegel.de/ausland/venezuela-mindestens-164-tote-bei-schweren-erdbeben-a-2b4ae5f3-0fdc-4952-8ed4-8a554250edf6#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus](https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus-a-36cbc7f4-e0c3-43e3-b764-3087919c6bae#ref=rss)
+### agenten
+
+* [https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall](https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall-a-938c2b21-a350-4142-9911-c446246c2427#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall](https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall-a-938c2b21-a350-4142-9911-c446246c2427#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall](https://www.spiegel.de/ausland/russland-wie-moskau-agenten-an-einer-eliteuni-ausbildet-podcast-firewall-a-938c2b21-a350-4142-9911-c446246c2427#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten](https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten-a-0196d486-155c-418a-bb04-bfe75474d126#ref=rss)
+### afdverbot
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten](https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten-a-0196d486-155c-418a-bb04-bfe75474d126#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig-a-8243a5ff-c136-437d-8b3d-8645438dd0c9#ref=rss)
+### bundestagsabgeordnete
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten](https://www.spiegel.de/politik/deutschland/afd-verbot-bundestagsabgeordnete-wollen-afd-verfahren-endlich-einleiten-a-0196d486-155c-418a-bb04-bfe75474d126#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig-a-8243a5ff-c136-437d-8b3d-8645438dd0c9#ref=rss)
+### verfassungswidrig
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig](https://www.spiegel.de/politik/deutschland/afd-verbot-rechtsgutachten-haelt-partei-fuer-verfassungswidrig-a-8243a5ff-c136-437d-8b3d-8645438dd0c9#ref=rss)
+### mario
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+### götze
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+### mitten
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus](https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus-a-36cbc7f4-e0c3-43e3-b764-3087919c6bae#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter](https://www.spiegel.de/sport/fussball/mario-goetze-im-german-house-of-soccer-frankfurter-fussballbotschafter-a-af58543e-a489-4722-a8c3-ccd3d14c2320#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### alevitische
+
+* [https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe](https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe-a-339d2bf4-078f-4639-91dc-ee7877303323#ref=rss)
+### gräber
+
+* [https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe](https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe-a-339d2bf4-078f-4639-91dc-ee7877303323#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe](https://www.spiegel.de/panorama/kiel-unbekannte-bespruehen-alevitische-graeber-mit-roter-farbe-a-339d2bf4-078f-4639-91dc-ee7877303323#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt-a-d96bd73e-cf3b-4cb2-a20f-678609259d92#ref=rss)
+### truppenübungsplatz
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/rheinland-pfalz-soldat-wird-auf-truppenuebungsplatz-von-gelaendewagen-ueberrollt-und-stirbt-a-d96bd73e-cf3b-4cb2-a20f-678609259d92#ref=rss)
+### felsen
+
+* [https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet](https://www.spiegel.de/ausland/frankreich-taucherin-von-herabstuerzendem-felsen-getoetet-a-1faf9bd6-a2ad-433d-8247-7a928855fda2#ref=rss)
+### ioc
+
+* [https://www.spiegel.de/sport/olympia/ioc-beschliesst-neue-olympia-praemie-10-000-dollar-fuer-alle-athleten-auch-fuer-sportmillionaere](https://www.spiegel.de/sport/olympia/ioc-beschliesst-neue-olympia-praemie-10-000-dollar-fuer-alle-athleten-auch-fuer-sportmillionaere-a-7a9570c8-59f4-4228-97f1-c8e33c4c6457#ref=rss)
+### athleten
+
+* [https://www.spiegel.de/sport/olympia/ioc-beschliesst-neue-olympia-praemie-10-000-dollar-fuer-alle-athleten-auch-fuer-sportmillionaere](https://www.spiegel.de/sport/olympia/ioc-beschliesst-neue-olympia-praemie-10-000-dollar-fuer-alle-athleten-auch-fuer-sportmillionaere-a-7a9570c8-59f4-4228-97f1-c8e33c4c6457#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde-a-1ee8ceec-0083-4e15-b517-5ef91919defa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rente-finden-sie-heraus-wann-sie-in-den-ruhestand-gehen-koennten](https://www.spiegel.de/wirtschaft/rente-finden-sie-heraus-wann-sie-in-den-ruhestand-gehen-koennten-a-1e4fbebd-0ef7-43b6-9e9a-a51e17f48b8c#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde-a-1ee8ceec-0083-4e15-b517-5ef91919defa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde-a-1ee8ceec-0083-4e15-b517-5ef91919defa#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus](https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus-a-36cbc7f4-e0c3-43e3-b764-3087919c6bae#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/rente-was-das-minijob-aus-fuer-wirtschaft-und-beschaeftigte-bedeuten-wuerde-a-1ee8ceec-0083-4e15-b517-5ef91919defa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus](https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus-a-34fdd43d-d0e8-496f-929d-ed3a70701422#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus](https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus-a-36cbc7f4-e0c3-43e3-b764-3087919c6bae#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen-a-09d135ba-8075-44ac-9591-0ca0936de2f8#ref=rss)
+### sommerferien
+
+* [https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus](https://www.spiegel.de/mobilitaet/auto/ferien-2026-hier-drohen-zum-beginn-der-sommerferien-lange-staus-a-36cbc7f4-e0c3-43e3-b764-3087919c6bae#ref=rss)
+### philippe
+
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+### sands
+
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+### friedenspreis
+
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+### buchhandels
+
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+### allem
+
+* [https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/philippe-sands-erhaelt-friedenspreis-des-deutschen-buchhandels-a-15d425cf-7181-483b-8af1-a6b15ede2821#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus](https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus-a-34fdd43d-d0e8-496f-929d-ed3a70701422#ref=rss)
+### rettungsstelle
+
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
 ### mehr
 
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten](https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten-a-2d53f2af-b436-46c6-852d-017a53aa6a9e#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+### i̇lkay
 
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### bordbistro
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne](https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne-a-7514b463-f282-4927-82ab-39b458767402#ref=rss)
+### gündoğan
 
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-### pommes
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne](https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne-a-7514b463-f282-4927-82ab-39b458767402#ref=rss)
+### profis
 
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-### angebot
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne](https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne-a-7514b463-f282-4927-82ab-39b458767402#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### namen
 
-* [https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal](https://www.spiegel.de/kultur/bahn-schafft-fritten-im-bordbistro-ab-pommes-schranke-das-war-einmal-a-0678da41-a5d7-4985-9763-5bdca5213ef5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### kanzleramt
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne](https://www.spiegel.de/sport/fussball/ilkay-guendogan-ich-kenne-profis-die-in-der-halbzeitpause-ihren-namen-gegoogelt-haben-wm-kolumne-a-7514b463-f282-4927-82ab-39b458767402#ref=rss)
+* [https://www.spiegel.de/politik/peter-thiel-das-steckt-hinter-den-ominoesen-dialog-treffen-die-der-techmilliardaer-ins-leben-rief](https://www.spiegel.de/politik/peter-thiel-das-steckt-hinter-den-ominoesen-dialog-treffen-die-der-techmilliardaer-ins-leben-rief-a-917c1028-7adf-41b7-8cdc-1888df79c48d#ref=rss)
+### finden
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### frau
+* [https://www.spiegel.de/wirtschaft/rente-finden-sie-heraus-wann-sie-in-den-ruhestand-gehen-koennten](https://www.spiegel.de/wirtschaft/rente-finden-sie-heraus-wann-sie-in-den-ruhestand-gehen-koennten-a-1e4fbebd-0ef7-43b6-9e9a-a51e17f48b8c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen-a-09d135ba-8075-44ac-9591-0ca0936de2f8#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-### endlich
+* [https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus](https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus-a-34fdd43d-d0e8-496f-929d-ed3a70701422#ref=rss)
+### massiv
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### ahnengalerie
+* [https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus](https://www.spiegel.de/wissenschaft/natur/thueringen-eichenprachtkaefer-breitet-sich-massiv-aus-a-34fdd43d-d0e8-496f-929d-ed3a70701422#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### jack
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### vorgestellt
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### kayil
 
-* [https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut](https://www.spiegel.de/kultur/angela-merkel-und-das-portraet-fuers-kanzleramt-die-frau-die-sich-nicht-traut-a-44a0b6da-4c2e-48e1-a351-47abd0b31d2d#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### maja
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### knicks
 
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### göthberg
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### lazio
+* [https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister](https://www.spiegel.de/sport/basketball/nba-draft-alba-profi-jack-kayil-landet-bei-den-new-york-knicks-als-meister-zum-meister-a-cd937b38-69d7-4c6c-9835-69d2a3bee25a#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump](https://www.spiegel.de/ausland/deutsche-haben-mehr-vertrauen-in-xi-jinping-als-in-donald-trump-a-235f2b2a-8bd5-422c-8c8b-33273fd6a52b#ref=rss)
+### eustaaten
 
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### rom
+* [https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu](https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu-a-1e7eba3a-9829-44d0-9b38-3426fbcdfb35#ref=rss)
+### zollabkommen
 
-* [https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz](https://www.spiegel.de/sport/fussball/fussball-maja-goethberg-erhaelt-nach-vertragsstopp-bei-lazio-rom-schadensersatz-a-3e266874-3d36-428d-b046-ce97e267778d#ref=rss)
-### andy
+* [https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu](https://www.spiegel.de/wirtschaft/donald-trumps-handelskrieg-eu-staaten-stimmen-zollabkommen-mit-den-usa-zu-a-1e7eba3a-9829-44d0-9b38-3426fbcdfb35#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-### burnham
+* [https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten](https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten-a-5591932f-b132-4e0b-a5cc-469b203c59dd#ref=rss)
+### verhältnis
 
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-### krise
+* [https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten](https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten-a-5591932f-b132-4e0b-a5cc-469b203c59dd#ref=rss)
+### retten
 
-* [https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester](https://www.spiegel.de/ausland/favorit-fuer-die-starmer-nachfolge-in-grossbritannien-der-freche-junge-aus-manchester-a-660ef828-8b64-4656-800f-bfbb8226d2af#ref=rss)
-* [https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung](https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung-a-565c90c3-3a66-4257-be2f-9ac10703870b#ref=rss)
-### streit
+* [https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten](https://www.spiegel.de/ausland/ukraine-ist-das-polnisch-ukrainische-verhaeltnis-noch-zu-retten-a-5591932f-b132-4e0b-a5cc-469b203c59dd#ref=rss)
+### ecuador
 
-* [https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie](https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie-a-c344be1d-aaa4-4813-b9ab-c6f2b8691508#ref=rss)
-### polen
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen](https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-gegen-ecuador-wen-wuerden-sie-aufstellen-a-09d135ba-8075-44ac-9591-0ca0936de2f8#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie](https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie-a-c344be1d-aaa4-4813-b9ab-c6f2b8691508#ref=rss)
-### chaos
+* [https://www.spiegel.de/politik/peter-thiel-das-steckt-hinter-den-ominoesen-dialog-treffen-die-der-techmilliardaer-ins-leben-rief](https://www.spiegel.de/politik/peter-thiel-das-steckt-hinter-den-ominoesen-dialog-treffen-die-der-techmilliardaer-ins-leben-rief-a-917c1028-7adf-41b7-8cdc-1888df79c48d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung](https://www.spiegel.de/wissenschaft/hitze-ist-ein-massenmoerder-und-ein-wachstumskiller-meinung-a-11819fbf-31db-4626-af2b-48dc27618a1b#ref=rss)
+### große
 
-* [https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie](https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie-a-c344be1d-aaa4-4813-b9ab-c6f2b8691508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### beziehung
+* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer-a-e6c10561-2da9-467b-9939-5c0bfe4976b1#ref=rss)
+### preissprünge
 
-* [https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie](https://www.spiegel.de/ausland/streit-zwischen-polen-und-der-ukraine-chaos-multipliziert-mit-hysterie-a-c344be1d-aaa4-4813-b9ab-c6f2b8691508#ref=rss)
-* [https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung](https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung-a-565c90c3-3a66-4257-be2f-9ac10703870b#ref=rss)
-### reichardt
+* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer-a-e6c10561-2da9-467b-9939-5c0bfe4976b1#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben](https://www.spiegel.de/politik/deutschland/martin-reichardt-afd-politiker-soll-hitlergruss-gezeigt-haben-a-c9538f92-5ff3-4650-9566-7e23b77d6f97#ref=rss)
-### ehemaligen
+* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer-a-e6c10561-2da9-467b-9939-5c0bfe4976b1#ref=rss)
+### drin
 
-* [https://www.spiegel.de/geschichte/kriegsverbrecher-tribunal-in-den-haag-wohin-mit-den-beweisen-fuer-ein-jahrhundertverbrechen](https://www.spiegel.de/geschichte/kriegsverbrecher-tribunal-in-den-haag-wohin-mit-den-beweisen-fuer-ein-jahrhundertverbrechen-a-5e6e5035-cd70-485a-bc54-21eb4ee13c25#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab](https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab-a-7f283df5-93c1-4ee5-b6b4-1e1af7ed96aa#ref=rss)
-### klima
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-### elon
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss)
-### elbphilharmonie
-
-* [https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten](https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten-a-2d53f2af-b436-46c6-852d-017a53aa6a9e#ref=rss)
-### bald
-
-* [https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten](https://www.spiegel.de/kultur/musik/elbphilharmonie-in-hamburg-besuch-der-plaza-soll-bald-eintritt-kosten-a-2d53f2af-b436-46c6-852d-017a53aa6a9e#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### interview
-
-* [https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung](https://www.spiegel.de/panorama/michelle-und-barack-obama-schwaermen-von-ihrer-beziehung-a-565c90c3-3a66-4257-be2f-9ac10703870b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### zusammenarbeit
-
-* [https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab](https://www.spiegel.de/politik/deutschland/luigi-pantisanos-aeusserungen-friedrich-merz-lehnt-zusammenarbeit-mit-der-linkspartei-ab-a-7f283df5-93c1-4ee5-b6b4-1e1af7ed96aa#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition](https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition-a-75236896-723b-42e2-97e2-41d4cfe9074c#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition](https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition-a-75236896-723b-42e2-97e2-41d4cfe9074c#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition](https://www.spiegel.de/politik/deutschland/rente-manuela-schwesig-setzt-auf-riskante-abgrenzung-zur-koalition-a-75236896-723b-42e2-97e2-41d4cfe9074c#ref=rss)
-### aktion
-
-* [https://www.spiegel.de/netzwelt/web/operation-endgame-microsoft-und-bka-legen-hunderte-schadsoftware-server-lahm](https://www.spiegel.de/netzwelt/web/operation-endgame-microsoft-und-bka-legen-hunderte-schadsoftware-server-lahm-a-a1a76111-f3aa-4f3b-aa87-b1eaa2633e4c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### renningen
-
-* [https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter](https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter-a-bd505ad8-f61d-4fbc-9767-92fe975b8f52#ref=rss)
-### fund
-
-* [https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter](https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter-a-bd505ad8-f61d-4fbc-9767-92fe975b8f52#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter](https://www.spiegel.de/panorama/justiz/renningen-baden-wuerttemberg-polizei-ermittelt-nach-fund-von-babyleiche-gegen-mutter-a-bd505ad8-f61d-4fbc-9767-92fe975b8f52#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check](https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check-a-ba1d42ea-6d8f-465b-a437-911e6118fbcc#ref=rss)
-### gruppendritten
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check](https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check-a-ba1d42ea-6d8f-465b-a437-911e6118fbcc#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check](https://www.spiegel.de/sport/fussball/fussball-wm-2026-welche-gruppendritten-kommen-weiter-der-spiegel-check-a-ba1d42ea-6d8f-465b-a437-911e6118fbcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### euclid
-
-* [https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse-a-7248dcdc-cdd8-498c-83f6-91622aae74a4#ref=rss)
-### bild
-
-* [https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/esa-weltraumteleskop-euclid-zeigt-helles-zentrum-der-milchstrasse-a-7248dcdc-cdd8-498c-83f6-91622aae74a4#ref=rss)
-* [https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt](https://www.spiegel.de/kultur/angela-merkel-portraet-der-ehemaligen-bundeskanzlerin-kommt-ins-kanzleramt-a-1fd07b7b-7ec1-459b-a8b3-8d26789aef80#ref=rss)
-### bundesweite
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### infrastruktur
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-was-der-bundesweite-ausfall-ueber-verwundbarkeit-deutscher-infrastruktur-verraet-meinung-a-71cb35f0-9aac-4f6b-8d13-c3cfcc8e0266#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### freiheit
-
-* [https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit](https://www.spiegel.de/politik/deutschland/fdp-oeffnung-nach-rechts-kritik-an-hagens-gespraech-mit-der-jungen-freiheit-a-acc6e77d-833e-4410-aa72-31690a90c207#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-langsamer-a-e6c10561-2da9-467b-9939-5c0bfe4976b1#ref=rss)
 
