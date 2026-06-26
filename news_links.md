@@ -4,309 +4,383 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027](https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027-a-96107dc3-289f-4e65-96a6-05bc4dba5a82#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine](https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine-a-d6ab94ff-c658-410a-8938-674b4c0aacde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen](https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen-a-b92b482f-4f68-4e6e-90af-f967c8de3ffa#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen](https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen-a-b92b482f-4f68-4e6e-90af-f967c8de3ffa#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen-a-c09ebdb3-be61-4060-8da9-f66dc128101d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief](https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief-a-e9e10e74-a37c-48f5-a940-0dcb99fb0f05#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung](https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung-a-f5d6ee0d-1237-4d1e-a711-c703dc397552#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf](https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf-a-f88a4b90-0416-4096-8923-7358e60525d0#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine](https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine-a-d6ab94ff-c658-410a-8938-674b4c0aacde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027](https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027-a-96107dc3-289f-4e65-96a6-05bc4dba5a82#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier](https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier-a-4d8052de-0795-4f83-b3bc-6c0567bce190#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine](https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine-a-d6ab94ff-c658-410a-8938-674b4c0aacde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine](https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine-a-d6ab94ff-c658-410a-8938-674b4c0aacde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze](https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze-a-08f55f89-0684-4702-a600-0e5c2ba401a6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren](https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren-a-4e64a3d9-f363-4ef7-b96f-864a471054a2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier](https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier-a-4d8052de-0795-4f83-b3bc-6c0567bce190#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### krim
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren](https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren-a-4e64a3d9-f363-4ef7-b96f-864a471054a2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### sparen
-
-* [https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will](https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will-a-3d7ffa65-b8bd-4f59-96c9-ddf5e62eadda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen-a-c09ebdb3-be61-4060-8da9-f66dc128101d#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen-a-c09ebdb3-be61-4060-8da9-f66dc128101d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-wird-noch-mal-mehrere-milliarden-teurer](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-wird-noch-mal-mehrere-milliarden-teurer-a-57487b33-a1ba-45f8-a413-8fc453476b52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-offenbar-bis-zu-100-000-stellen-streichen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-offenbar-bis-zu-100-000-stellen-streichen-a-b875d735-19c7-4cc9-9eda-6a7c98e0867d#ref=rss)
-### sport
-
-* [https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze](https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze-a-08f55f89-0684-4702-a600-0e5c2ba401a6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
 ### deutschland
 
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief](https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief-a-e9e10e74-a37c-48f5-a940-0dcb99fb0f05#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos-a-f8f0450d-d1c7-4ee0-aa7d-145d7acacf62#ref=rss)
-### afdparteitag
+* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf](https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf-a-f88a4b90-0416-4096-8923-7358e60525d0#ref=rss)
-### erfurt
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf](https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf-a-f88a4b90-0416-4096-8923-7358e60525d0#ref=rss)
-### innenminister
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf](https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf-a-f88a4b90-0416-4096-8923-7358e60525d0#ref=rss)
+* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf](https://www.spiegel.de/panorama/afd-parteitag-in-erfurt-innenminister-ruft-gegendemonstranten-zu-gewaltverzicht-auf-a-f88a4b90-0416-4096-8923-7358e60525d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-wird-noch-mal-mehrere-milliarden-teurer](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-wird-noch-mal-mehrere-milliarden-teurer-a-57487b33-a1ba-45f8-a413-8fc453476b52#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier](https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier-a-4d8052de-0795-4f83-b3bc-6c0567bce190#ref=rss)
-### halbinsel
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-russland-erklaert-ausnahmezustand-auf-der-krim-nach-ukrainischen-angriffen-a-1f7475d4-6d95-4b94-bbf6-1bbe73cdaa32#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-### persischen
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-### golf
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-### fest
-
-* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf](https://www.spiegel.de/wirtschaft/strasse-von-hormus-zwei-weitere-hapag-lloyd-schiffe-verlassen-persischen-golf-a-ede2482d-af6c-4993-8780-31e489a6ef6c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### knds
-
-* [https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu](https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu-a-336291f8-afd1-43f2-bc90-ebb1f86d834e#ref=rss)
-### haushaltsausschuss
-
-* [https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu](https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu-a-336291f8-afd1-43f2-bc90-ebb1f86d834e#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu](https://www.spiegel.de/politik/deutschland/knds-haushaltsausschuss-stimmt-einstieg-der-bundesregierung-zu-a-336291f8-afd1-43f2-bc90-ebb1f86d834e#ref=rss)
-### windows
-
-* [https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027](https://www.spiegel.de/netzwelt/windows-10-microsoft-verlaengert-die-gnadenfrist-updates-bis-2027-a-96107dc3-289f-4e65-96a6-05bc4dba5a82#ref=rss)
-### trümmern
-
-* [https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine](https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-die-menschen-fielen-um-wie-dominosteine-a-d6ab94ff-c658-410a-8938-674b4c0aacde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will](https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will-a-3d7ffa65-b8bd-4f59-96c9-ddf5e62eadda#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will](https://www.spiegel.de/politik/deutschland/elterngeld-wie-prien-mit-laengerer-partnermonate-regel-geld-sparen-will-a-3d7ffa65-b8bd-4f59-96c9-ddf5e62eadda#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben](https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-venezuela-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-b56487fa-3f7f-4c60-8776-d26e8cac7a03#ref=rss)
-* [https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze](https://www.spiegel.de/fitness/halbmarathon-in-hamburg-ironman-in-frankfurt-acht-tipps-fuer-sport-bei-hitze-a-08f55f89-0684-4702-a600-0e5c2ba401a6#ref=rss)
-### mercedesbenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-autobauer-muss-sparen-und-will-35-stunden-woche-kippen-a-c09ebdb3-be61-4060-8da9-f66dc128101d#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen](https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen-a-b92b482f-4f68-4e6e-90af-f967c8de3ffa#ref=rss)
-### unterstützer
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen](https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen-a-b92b482f-4f68-4e6e-90af-f967c8de3ffa#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen](https://www.spiegel.de/panorama/justiz/rechtsextremes-netzwerk-zwei-mutmassliche-unterstuetzer-der-letzten-verteidigungswelle-festgenommen-a-b92b482f-4f68-4e6e-90af-f967c8de3ffa#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-17-jaehriger-von-fuenf-teenagern-in-hinterhalt-gelockt-und-getoetet](https://www.spiegel.de/ausland/frankreich-17-jaehriger-von-fuenf-teenagern-in-hinterhalt-gelockt-und-getoetet-a-dde215e5-c48d-47e6-b970-58a5241839a1#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/frankreich-17-jaehriger-von-fuenf-teenagern-in-hinterhalt-gelockt-und-getoetet](https://www.spiegel.de/ausland/frankreich-17-jaehriger-von-fuenf-teenagern-in-hinterhalt-gelockt-und-getoetet-a-dde215e5-c48d-47e6-b970-58a5241839a1#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/the-bear-am-ende-raucht-man-gemeinsam-eine-zigarette-und-dann-gehen-die-lichter-aus](https://www.spiegel.de/kultur/the-bear-am-ende-raucht-man-gemeinsam-eine-zigarette-und-dann-gehen-die-lichter-aus-a-eb8e1337-4287-4c3a-8ab4-11194ae472db#ref=rss)
-### bear
-
-* [https://www.spiegel.de/kultur/the-bear-am-ende-raucht-man-gemeinsam-eine-zigarette-und-dann-gehen-die-lichter-aus](https://www.spiegel.de/kultur/the-bear-am-ende-raucht-man-gemeinsam-eine-zigarette-und-dann-gehen-die-lichter-aus-a-eb8e1337-4287-4c3a-8ab4-11194ae472db#ref=rss)
-### münster
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete](https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete-a-4f737743-5ea3-4a8a-b236-4306fa890aee#ref=rss)
-### fahrräder
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete](https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete-a-4f737743-5ea3-4a8a-b236-4306fa890aee#ref=rss)
-### geflüchtete
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete](https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete-a-4f737743-5ea3-4a8a-b236-4306fa890aee#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete](https://www.spiegel.de/panorama/gesellschaft/muenster-ein-13-jaehriger-repariert-ehrenamtlich-fahrraeder-fuer-gefluechtete-a-4f737743-5ea3-4a8a-b236-4306fa890aee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung](https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung-a-f5d6ee0d-1237-4d1e-a711-c703dc397552#ref=rss)
-### paris
-
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
 * [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen](https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen-a-a14cf417-6d78-46c0-9afb-5531b1168049#ref=rss)
-### niederlanden
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### hochzeiten
+* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief](https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief-a-e9e10e74-a37c-48f5-a940-0dcb99fb0f05#ref=rss)
-### rekordtief
+* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### urteil
 
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief](https://www.spiegel.de/panorama/gesellschaft/deutschland-scheidungen-nehmen-zu-hochzeiten-fallen-auf-rekordtief-a-e9e10e74-a37c-48f5-a940-0dcb99fb0f05#ref=rss)
-### andy
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten-a-329d5509-8eb1-47c2-b068-00079269fc61#ref=rss)
-### burnham
+* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten-a-329d5509-8eb1-47c2-b068-00079269fc61#ref=rss)
-### labour
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten-a-329d5509-8eb1-47c2-b068-00079269fc61#ref=rss)
-### nigel
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
+### nuhr
 
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten-a-329d5509-8eb1-47c2-b068-00079269fc61#ref=rss)
-### farage
+* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-soll-labour-vor-nigel-farage-retten-a-329d5509-8eb1-47c2-b068-00079269fc61#ref=rss)
-### altersarmut
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
+### ecuador
 
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-hat-die-rentenkommission-wirklich-die-schwaechsten-vergessen](https://www.spiegel.de/wirtschaft/soziales/altersarmut-hat-die-rentenkommission-wirklich-die-schwaechsten-vergessen-a-ad0f78fe-b837-4cbd-9797-e812c712718a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
 ### wirklich
 
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-hat-die-rentenkommission-wirklich-die-schwaechsten-vergessen](https://www.spiegel.de/wirtschaft/soziales/altersarmut-hat-die-rentenkommission-wirklich-die-schwaechsten-vergessen-a-ad0f78fe-b837-4cbd-9797-e812c712718a#ref=rss)
-### totalenergies
+* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen](https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen-a-a14cf417-6d78-46c0-9afb-5531b1168049#ref=rss)
-### produkte
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+### extreme
 
-* [https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen](https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen-a-a14cf417-6d78-46c0-9afb-5531b1168049#ref=rss)
-### gericht
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+### politik
 
-* [https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen](https://www.spiegel.de/wissenschaft/technik/totalenergies-muss-klima-risiken-seiner-produkte-offenlegen-a-a14cf417-6d78-46c0-9afb-5531b1168049#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### zalando
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss](https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss-a-4e5cdecd-5776-48da-ade6-332c9b64234e#ref=rss)
-### finanzaufsicht
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+### gruppen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss](https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss-a-4e5cdecd-5776-48da-ade6-332c9b64234e#ref=rss)
-### bafin
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss](https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss-a-4e5cdecd-5776-48da-ade6-332c9b64234e#ref=rss)
-### visier
+* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss](https://www.spiegel.de/wirtschaft/unternehmen/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss-a-4e5cdecd-5776-48da-ade6-332c9b64234e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier](https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier-a-4d8052de-0795-4f83-b3bc-6c0567bce190#ref=rss)
-### wehrfähigen
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+### straße
 
-* [https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren](https://www.spiegel.de/politik/ukraine-krieg-eu-will-wehrfaehigen-ukrainern-flucht-erschweren-a-4e64a3d9-f363-4ef7-b96f-864a471054a2#ref=rss)
-### anschlag
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+### hormus
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### weihnachtsmarkt
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+### schiffe
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### taleb
+* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### al
+* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### abdulmohsen
+* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### lebenslanger
+* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### haft
+* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+### klimakrise
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-weihnachtsmarkt-taleb-al-abdulmohsen-zu-lebenslanger-haft-verurteilt-a-1432da7e-e8cf-474d-9790-e3d4809a0106#ref=rss)
-### koalition
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
+* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung](https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung-a-f5d6ee0d-1237-4d1e-a711-c703dc397552#ref=rss)
-### reformen
+* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+### 413
 
-* [https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung](https://www.spiegel.de/politik/deutschland/koalition-und-reformen-das-schwarz-rote-sommermaerchen-ist-moeglich-meinung-a-f5d6ee0d-1237-4d1e-a711-c703dc397552#ref=rss)
-### rabatte
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos-a-f8f0450d-d1c7-4ee0-aa7d-145d7acacf62#ref=rss)
-### eautos
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+### problem
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/authersteller-kappen-rabatte-auf-e-autos-a-f8f0450d-d1c7-4ee0-aa7d-145d7acacf62#ref=rss)
-### barack
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
-### obama
+* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+### john
 
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
-### basketball
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+### bolton
 
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
-### vorsichtiger
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+### ehemaliger
 
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
-### geworden
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+### schuldig
 
-* [https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist](https://www.spiegel.de/panorama/leute/barack-obama-warum-der-ex-praesident-beim-basketball-vorsichtiger-geworden-ist-a-9b5a4f5b-d425-4fd1-8e41-5631b2c0982f#ref=rss)
-### kampagne
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+### haftstrafe
 
-* [https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier](https://www.spiegel.de/netzwelt/web/desinformation-aus-russland-neue-kampagne-nimmt-landtagswahlen-ins-visier-a-4d8052de-0795-4f83-b3bc-6c0567bce190#ref=rss)
-### militärexperte
+* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
+* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### franzstefan
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+### bijan
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
-### gady
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+### moini
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen](https://www.spiegel.de/ausland/ukraine-krieg-militaerexperte-franz-stefan-gady-putin-koennte-eine-neue-mobilisierungswelle-ausrufen-a-2a9bb059-b593-4fee-bbcb-5b3d4fc493cd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+### partei
+
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+### schluss
+
+* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### berufung
+
+* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
+### kleinflugzeug
+
+* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
+### civic
+
+* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
+### tower
+
+* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### vw
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### vergiftete
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+### familie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### 100000
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### abbauen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
+### bastian
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### schweinsteiger
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
+### halle
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+### züge
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
+### zeugen
+
+* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
+### jehovas
+
+* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
+### sergej
+
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+### iwanow
+
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+### nachfolger
+
+* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### riesenplaneten
+
+* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
+### toi791
+
+* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
+### harmony
+
+* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
+### brutalismus
+
+* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
+### 3000
+
+* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+### taycan
+
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+### fakegetriebe
+
+* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
+### erst
+
+* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
+### ketamin
+
+* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### hartung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### hört
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### vorsitzender
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### geschäftsführung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
 
