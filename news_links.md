@@ -4,383 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
-### grad
-
-* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
-### nuhr
-
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-### ecuador
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten](https://www.spiegel.de/sport/fussball/deutschland-bei-der-wm-2026-was-die-daten-ueber-die-dfb-elf-verraten-a-e2243ecc-5c1a-4faf-9287-190172a4bbe0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-### extreme
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-### gruppen
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik](https://www.spiegel.de/ausland/usa-so-kapern-extreme-minderheiten-die-politik-a-bcbc948a-1a94-4342-b185-e0256683aa5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-### schiffe
-
-* [https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor](https://www.spiegel.de/ausland/usa-iran-krieg-donald-trump-wirft-iran-bruch-der-waffenruhe-in-der-strasse-von-hormus-vor-a-2fa135f6-c466-40e2-97cd-6e1d50fe9bdd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
-### jahren
+* [https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte](https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte-a-0e331e5c-00b0-4ae6-8def-a1cb2e0c04fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### china
 
-* [https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste](https://www.spiegel.de/kultur/best-of-samira-el-ouassil-das-ist-meine-letzte-kolumne-und-trotzdem-nicht-die-traurigste-a-7d5918b3-2a51-4a0d-8016-8a6f0b7812fe#ref=rss)
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-### hitze
+* [https://www.spiegel.de/ausland/china-schliesst-hochrangige-funktionaere-und-generaele-aus-dem-volkskongress-aus](https://www.spiegel.de/ausland/china-schliesst-hochrangige-funktionaere-und-generaele-aus-dem-volkskongress-aus-a-752b4257-2bbf-4680-8570-e65249be91d2#ref=rss)
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc](https://www.spiegel.de/panorama/hitze-in-europa-100-grad-bodentemperatur-auf-der-baustelle-und-schneematsch-am-mont-blanc-a-eddfca11-29a4-4c5e-a0a6-be1e7b63d847#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen](https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen-a-3f09a9d8-e07e-4316-8f88-9e8020bb0ff5#ref=rss)
+* [https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team](https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team-a-72794c84-2789-41ce-8aac-eadde9f90bb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden](https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden-a-01f406ef-7a27-47d5-a1a7-6e04f88dbf7f#ref=rss)
+### cem
 
-* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
-### derzeit
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### özdemir
 
-* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
-* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### standupcomedy
 
-* [https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein](https://www.spiegel.de/wissenschaft/mensch/hitzewelle-in-deutschland-die-klimakrise-steht-nicht-auf-dem-totenschein-a-673a20b1-39a0-4c01-bca0-2471e172e9a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-### 413
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor](https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor-a-4e602777-76dd-47f5-883d-13cc8d73ae90#ref=rss)
+* [https://www.spiegel.de/ausland/patrioten-pass-trump-stellt-neuen-us-reisepass-mit-bild-von-sich-selbst-vor](https://www.spiegel.de/ausland/patrioten-pass-trump-stellt-neuen-us-reisepass-mit-bild-von-sich-selbst-vor-a-f90378eb-c24f-4187-9d38-8da711ae6e4a#ref=rss)
+* [https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte](https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte-a-0e331e5c-00b0-4ae6-8def-a1cb2e0c04fc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
-### problem
+* [https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt](https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt-a-910b5881-33fb-4e58-a6bb-adab53b07e04#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden](https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden-a-01f406ef-7a27-47d5-a1a7-6e04f88dbf7f#ref=rss)
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+### bahrain
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### etwas
+* [https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff](https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff-a-a329731e-6bcd-46e2-b390-e84c136b3d77#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige](https://www.spiegel.de/sport/fussball-wm-2026-der-ohnmaechtige-a-e61d3471-4cc3-4bab-af97-6e9335e358b2#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-### john
+* [https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte](https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte-a-0e331e5c-00b0-4ae6-8def-a1cb2e0c04fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien](https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien-a-07174da5-506d-4ea8-81f4-dfe9879a7455#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-### bolton
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### boomt
 
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-### ehemaliger
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### ende
 
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-### schuldig
+* [https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht](https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht-a-352ce9e8-0b9b-4e27-a362-b1149aff7a98#ref=rss)
+* [https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab](https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab-a-8da5c932-5b9b-4938-9022-f651256d447a#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-### haftstrafe
+* [https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht](https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht-a-352ce9e8-0b9b-4e27-a362-b1149aff7a98#ref=rss)
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+### beachten
 
-* [https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig](https://www.spiegel.de/ausland/john-bolton-ehemaliger-berater-von-donald-trump-bekennt-sich-in-dokumentenaffaere-schuldig-a-92f3daa9-4c0a-4106-8912-f11b6b49715b#ref=rss)
-* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
-### afd
+* [https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht](https://www.spiegel.de/panorama/hettstedt-kaeufer-fuer-niewandtschacht-gesucht-a-352ce9e8-0b9b-4e27-a362-b1149aff7a98#ref=rss)
+* [https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert](https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert-a-6b653c82-a4f2-410a-b527-a65bf4e6599a#ref=rss)
+### madonna
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-### bijan
+* [https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue](https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue-a-dbe74993-9d80-4def-98b7-3fcf443ad22e#ref=rss)
+### interview
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-### moini
+* [https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue](https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue-a-dbe74993-9d80-4def-98b7-3fcf443ad22e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### andere
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-### partei
+* [https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue](https://www.spiegel.de/kultur/madonna-popstar-gesteht-neid-auf-kollegin-kylie-minogue-a-dbe74993-9d80-4def-98b7-3fcf443ad22e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus](https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus-a-4ce7ed51-aee3-4e8e-ac04-9897f54b8f4a#ref=rss)
+### víctor
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-### diesem
+* [https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor](https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor-a-4e602777-76dd-47f5-883d-13cc8d73ae90#ref=rss)
+### fernández
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-### schluss
+* [https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor](https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor-a-4e602777-76dd-47f5-883d-13cc8d73ae90#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden](https://www.spiegel.de/panorama/justiz/afd-bijan-moini-ueber-verfassungswidrigkeit-der-partei-und-fehler-der-behoerden-a-357918fc-7928-4676-a442-40b69bf92e3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### berufung
+* [https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor](https://www.spiegel.de/panorama/vatikan-glaubenshueter-victor-fernandez-wirft-israel-usa-und-eu-fehlende-moral-vor-a-4e602777-76dd-47f5-883d-13cc8d73ae90#ref=rss)
+* [https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab](https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab-a-8da5c932-5b9b-4938-9022-f651256d447a#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
-### fall
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe](https://www.spiegel.de/ausland/berufung-im-marius-borg-hoiby-staatsanwaltschaft-will-hoehere-gefaengnisstrafe-a-23629a33-d7cd-460f-b804-aab7b92b7104#ref=rss)
-### kleinflugzeug
-
-* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
-### civic
-
-* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
-### tower
-
-* [https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower](https://www.spiegel.de/panorama/peking-china-kleinflugzeug-fliegt-in-civic-tower-a-e35aa2fa-ea13-494f-97ac-2508dd9182fe#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### vw
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### vergiftete
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-### familie
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### 100000
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### abbauen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-kann-vw-wirklich-100-000-jobs-streichen-vier-szenarien-a-b93c701e-785a-46d2-8a62-34163b78ddde#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul](https://www.spiegel.de/politik/deutschland/news-des-tages-elterngeld-vw-vergiftete-hamburger-familie-in-istanbul-a-dec6b0da-a121-4819-be8f-e610eba90156#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet](https://www.spiegel.de/panorama/justiz/iran-anschlagsplaene-auf-volker-beck-prozess-gegen-mutmassliche-agenten-gestartet-a-8f20ed13-4589-4367-b46f-272a268b9736#ref=rss)
-### bastian
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### schweinsteiger
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-julian-nagelsmann-nimmt-manuel-neuer-in-schutz-a-a934b873-9ebb-4033-a54b-ad0ac6441bc3#ref=rss)
-### halle
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-### züge
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige](https://www.spiegel.de/mobilitaet/bus-bahn/halle-saale-neue-zuege-der-s-bahn-zu-lang-fuer-mehrere-bahnsteige-a-e731dead-0a96-4013-88f5-319dd82070d6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bremen-zwei-getoetete-menschen-gefunden-taeter-auf-der-flucht-a-18b6f640-c247-43d2-bdf6-722b305c7df6#ref=rss)
-### zeugen
-
-* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
-### jehovas
-
-* [https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv](https://www.spiegel.de/kultur/nazi-verfolgung-zeugen-jehovas-erzielen-etappensieg-im-streit-ueber-familienarchiv-a-f0bae33c-f409-4d0e-8897-e8b95962c4db#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-### iwanow
-
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot](https://www.spiegel.de/ausland/sergej-iwanow-ehemaliger-verteidigungsminister-von-russland-ist-tot-a-11b98095-8282-44f4-85c3-2f3d80ad1e86#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### riesenplaneten
-
-* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
-### toi791
-
-* [https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte](https://www.spiegel.de/wissenschaft/weltall/riesen-planeten-toi-791-b-und-toi-791-c-sind-fluffiger-als-zuckerwatte-a-1936e2a9-5d07-45c6-af08-fa4fc9922d22#ref=rss)
-### harmony
-
-* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
-### brutalismus
-
-* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
-### 3000
-
-* [https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile](https://www.spiegel.de/kultur/techno-duo-brutalismus-3000-neues-album-harmony-parolen-wie-projektile-a-053f8eed-c0d8-4d01-977d-984d74e3a213#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/china-schliesst-hochrangige-funktionaere-und-generaele-aus-dem-volkskongress-aus](https://www.spiegel.de/ausland/china-schliesst-hochrangige-funktionaere-und-generaele-aus-dem-volkskongress-aus-a-752b4257-2bbf-4680-8570-e65249be91d2#ref=rss)
 ### wissen
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/fussball-wm-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-2f16f7b5-7dcb-4c83-ae9c-cf4ea3f1517c#ref=rss)
-### porsche
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+### sängerin
 
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-### taycan
+* [https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto](https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto-a-351185e4-8b63-4896-acf3-60c131586f4c#ref=rss)
+### fürs
 
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-### fakegetriebe
+* [https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto](https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto-a-351185e4-8b63-4896-acf3-60c131586f4c#ref=rss)
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+### lesen
 
-* [https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe](https://www.spiegel.de/mobilitaet/auto/porsche-taycan-mit-e-shift-im-test-elektroauto-mit-fake-getriebe-a-f3f0c50f-fa69-4094-aeed-330b025e58e3#ref=rss)
-### erdbeben
+* [https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto](https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto-a-351185e4-8b63-4896-acf3-60c131586f4c#ref=rss)
+* [https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen](https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen-a-3f09a9d8-e07e-4316-8f88-9e8020bb0ff5#ref=rss)
+### schritt
 
-* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
-### venezuela
+* [https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto](https://www.spiegel.de/kultur/dua-lipa-saengerin-eroeffnet-buchladen-in-porto-a-351185e4-8b63-4896-acf3-60c131586f4c#ref=rss)
+* [https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab](https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab-a-8da5c932-5b9b-4938-9022-f651256d447a#ref=rss)
+### starnberger
 
-* [https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch](https://www.spiegel.de/wissenschaft/erdbeben-in-venezuela-eine-groessenordnung-von-20-000-bis-30-000-toten-ist-leider-realistisch-a-b521bf12-ab4f-45a0-bf03-9e2b60cd1141#ref=rss)
-### dieter
+* [https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt](https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt-a-910b5881-33fb-4e58-a6bb-adab53b07e04#ref=rss)
+### see
 
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
-### gewalt
+* [https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt](https://www.spiegel.de/panorama/starnberger-see-bayern-23-jaehriger-ertrinkt-a-910b5881-33fb-4e58-a6bb-adab53b07e04#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff](https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff-a-a329731e-6bcd-46e2-b390-e84c136b3d77#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff](https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff-a-a329731e-6bcd-46e2-b390-e84c136b3d77#ref=rss)
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+### leben
 
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben](https://www.spiegel.de/kultur/tv/dieter-nuhr-will-witze-ueber-gewalt-an-frauen-nicht-so-gemeint-haben-a-5c1958aa-49a3-40d3-b1a2-48a9fd398e49#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
-### ketamin
+* [https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff](https://www.spiegel.de/ausland/bahrain-meldet-iranischen-drohnenangriff-a-a329731e-6bcd-46e2-b390-e84c136b3d77#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa](https://www.spiegel.de/panorama/justiz/ketamin-deutschland-ist-zweitgroesster-umschlagplatz-in-europa-a-7e61908f-33ce-4520-b47b-6e7806a6739f#ref=rss)
-### magdeburg
+* [https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen](https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen-a-3f09a9d8-e07e-4316-8f88-9e8020bb0ff5#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### lernen
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-### alle
+* [https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen](https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen-a-3f09a9d8-e07e-4316-8f88-9e8020bb0ff5#ref=rss)
+### ja
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten](https://www.spiegel.de/panorama/justiz/magdeburg-urteil-nach-anschlag-er-hatte-die-absicht-alle-die-ihm-in-den-weg-kamen-zu-toeten-a-0aa84f86-572c-4644-9d96-a2f80f7a198c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
-### bosch
+* [https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen](https://www.spiegel.de/familie/sommerferien-wie-eltern-mit-ihren-kindern-spielerisch-lernen-koennen-a-3f09a9d8-e07e-4316-8f88-9e8020bb0ff5#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### stefan
+* [https://www.spiegel.de/ausland/patrioten-pass-trump-stellt-neuen-us-reisepass-mit-bild-von-sich-selbst-vor](https://www.spiegel.de/ausland/patrioten-pass-trump-stellt-neuen-us-reisepass-mit-bild-von-sich-selbst-vor-a-f90378eb-c24f-4187-9d38-8da711ae6e4a#ref=rss)
+### land
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### hartung
+* [https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte](https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte-a-0e331e5c-00b0-4ae6-8def-a1cb2e0c04fc#ref=rss)
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### hört
+* [https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte](https://www.spiegel.de/kultur/usa-wie-ich-nach-san-francisco-ging-und-dort-nach-meiner-alten-liebe-suchte-a-0e331e5c-00b0-4ae6-8def-a1cb2e0c04fc#ref=rss)
+* [https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen](https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen-a-e1273d3b-14f6-46c9-aac9-a147b35e2363#ref=rss)
+### christian
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### vorsitzender
+* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente](https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente-a-78f3ff7c-bd99-4ee9-88ce-d54895133bf6#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### geschäftsführung
+* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente](https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente-a-78f3ff7c-bd99-4ee9-88ce-d54895133bf6#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf](https://www.spiegel.de/wirtschaft/unternehmen/bosch-stefan-hartung-hoert-ueberraschend-als-vorsitzender-der-geschaeftsfuehrung-auf-a-1120f05b-870e-419a-860c-2d336f464a89#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente](https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente-a-78f3ff7c-bd99-4ee9-88ce-d54895133bf6#ref=rss)
+### merz
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos](https://www.spiegel.de/netzwelt/netzpolitik/deutsche-bahn-switch-tausch-ausbleibende-fehlermeldung-sorgte-fuer-chaos-a-1e6db34b-2d80-44b6-97c2-be90d0f89518#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente](https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente-a-78f3ff7c-bd99-4ee9-88ce-d54895133bf6#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente](https://www.spiegel.de/wirtschaft/service/christian-lindner-kritisiert-aussagen-von-friedrich-merz-zur-kapitalrente-a-78f3ff7c-bd99-4ee9-88ce-d54895133bf6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus](https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus-a-4ce7ed51-aee3-4e8e-ac04-9897f54b8f4a#ref=rss)
+### inside
+
+* [https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team](https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team-a-72794c84-2789-41ce-8aac-eadde9f90bb7#ref=rss)
+### austria
+
+* [https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team](https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team-a-72794c84-2789-41ce-8aac-eadde9f90bb7#ref=rss)
+### woche
+
+* [https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team](https://www.spiegel.de/ausland/inside-austria-so-arbeiten-wir-im-podcast-team-a-72794c84-2789-41ce-8aac-eadde9f90bb7#ref=rss)
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+### harvey
+
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien](https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien-a-07174da5-506d-4ea8-81f4-dfe9879a7455#ref=rss)
+### weinstein
+
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien](https://www.spiegel.de/panorama/justiz/harvey-weinstein-scheitert-vor-berufungsgericht-in-kalifornien-a-07174da5-506d-4ea8-81f4-dfe9879a7455#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer](https://www.spiegel.de/politik/deutschland/cem-oezdemir-ich-habe-ein-krass-privilegiertes-leben-meinen-wunschjob-und-kriege-auch-noch-geld-dafuer-a-e47daa89-f4b0-4c14-8d88-f00be2a269a6#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen](https://www.spiegel.de/politik/deutschland/cem-oezdemir-so-will-der-gruene-ministerpraesident-die-afd-stoppen-a-37b63e5b-8bd1-4096-a0a6-e46136bdf929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden](https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden-a-01f406ef-7a27-47d5-a1a7-6e04f88dbf7f#ref=rss)
+### joachim
+
+* [https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden](https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden-a-01f406ef-7a27-47d5-a1a7-6e04f88dbf7f#ref=rss)
+### gauck
+
+* [https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden](https://www.spiegel.de/politik/deutschland/krisenszenarien-beschreiben-koennen-wir-hervorragend-jetzt-muss-gehandelt-werden-a-01f406ef-7a27-47d5-a1a7-6e04f88dbf7f#ref=rss)
+### tirol
+
+* [https://www.spiegel.de/mobilitaet/auto/tirol-b179-fernpassroute-wegen-verkehrs-protest-gesperrt](https://www.spiegel.de/mobilitaet/auto/tirol-b179-fernpassroute-wegen-verkehrs-protest-gesperrt-a-e2162ad8-db02-4a5c-9508-71be8308a21a#ref=rss)
+### b179
+
+* [https://www.spiegel.de/mobilitaet/auto/tirol-b179-fernpassroute-wegen-verkehrs-protest-gesperrt](https://www.spiegel.de/mobilitaet/auto/tirol-b179-fernpassroute-wegen-verkehrs-protest-gesperrt-a-e2162ad8-db02-4a5c-9508-71be8308a21a#ref=rss)
+### kreative
+
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+### lösungen
+
+* [https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn](https://www.spiegel.de/ausland/stand-up-comedy-in-china-kreative-loesungen-in-sachsen-anhalt-und-eine-schildkroete-auf-der-autobahn-a-30a71774-1098-4808-8f6e-066690386fe5#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab](https://www.spiegel.de/ausland/burkina-faso-bricht-diplomatische-beziehungen-zu-frankreich-ab-a-8da5c932-5b9b-4938-9022-f651256d447a#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus](https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus-a-4ce7ed51-aee3-4e8e-ac04-9897f54b8f4a#ref=rss)
+### giffey
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus](https://www.spiegel.de/politik/deutschland/franziska-giffey-spricht-sich-gegen-abschaffung-der-rente-mit-63-aus-a-4ce7ed51-aee3-4e8e-ac04-9897f54b8f4a#ref=rss)
+### hansgeorg
+
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-ex-verfassungsschutzchef-attackiert-behoerde-bei-afd-kongress](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-ex-verfassungsschutzchef-attackiert-behoerde-bei-afd-kongress-a-0a07f223-acc1-470d-9c3c-d7e828f700cf#ref=rss)
+### maaßen
+
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-ex-verfassungsschutzchef-attackiert-behoerde-bei-afd-kongress](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-ex-verfassungsschutzchef-attackiert-behoerde-bei-afd-kongress-a-0a07f223-acc1-470d-9c3c-d7e828f700cf#ref=rss)
+### feldern
+
+* [https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen](https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen-a-e1273d3b-14f6-46c9-aac9-a147b35e2363#ref=rss)
+### rehkitze
+
+* [https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen](https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen-a-e1273d3b-14f6-46c9-aac9-a147b35e2363#ref=rss)
+### schützen
+
+* [https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen](https://www.spiegel.de/panorama/rehe-drohnen-ueber-feldern-sollen-rehkitze-vor-dem-tod-schuetzen-a-e1273d3b-14f6-46c9-aac9-a147b35e2363#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### sonnenbrillen
+
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+### worauf
+
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### achten
+
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### medikamente
+
+* [https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert](https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert-a-6b653c82-a4f2-410a-b527-a65bf4e6599a#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert](https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert-a-6b653c82-a4f2-410a-b527-a65bf4e6599a#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### temperaturen
+
+* [https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert](https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert-a-6b653c82-a4f2-410a-b527-a65bf4e6599a#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### grad
+
+* [https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert](https://www.spiegel.de/familie/medikamente-wie-hitze-die-wirkung-veraendert-a-6b653c82-a4f2-410a-b527-a65bf4e6599a#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen](https://www.spiegel.de/gesundheit/hitze-wie-sie-babys-und-kleinkinder-vor-der-sonne-schuetzen-a-255f0b07-6585-4b29-add1-dcf50d8290ed#ref=rss)
+### weibliche
+
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### comedians
+
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### füllen
+
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### säle
+
+* [https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele](https://www.spiegel.de/ausland/china-stand-up-comedy-boomt-weibliche-comedians-fuellen-zunehmend-die-saele-a-a3cd989f-1645-49a2-92dd-42f3a7111c9c#ref=rss)
+### restaurantkritiker
+
+* [https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches](https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches-a-acf72f19-a1e2-4f94-ae65-90ad86481de3#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches](https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches-a-acf72f19-a1e2-4f94-ae65-90ad86481de3#ref=rss)
+### dollase
+
+* [https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches](https://www.spiegel.de/kultur/restaurantkritiker-juergen-dollase-vegetarismus-und-veganismus-sind-etwas-weltanschauliches-a-acf72f19-a1e2-4f94-ae65-90ad86481de3#ref=rss)
 
