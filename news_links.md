@@ -4,387 +4,310 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### dan
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle](https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle-a-ba25359e-b471-49aa-b555-a24128eac829#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht-a-f3eafe2e-cabb-428f-895a-0362e3b98b0f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen](https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen-a-517dd3f6-11b4-4089-9f40-ddbac663bfbd#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen](https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen-a-08a202c7-a1e4-4959-ba9e-9544a0ffbbe2#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-### bernd
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-### neuendorf
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an](https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an-a-e810cec6-5265-4520-8bb1-a5a2d1ea435a#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte](https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss)
-### dieter
-
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen](https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen-a-08a202c7-a1e4-4959-ba9e-9544a0ffbbe2#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-### elfenbeinküste
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### news
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-* [https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus](https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus-a-94080105-8215-4fe3-a99f-fc688acbe702#ref=rss)
-### einige
-
-* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-bueros-in-wohnungen-verwandeln-investoren-koennen-foerdergeld-beantragen](https://www.spiegel.de/wirtschaft/wohnungsmarkt-bueros-in-wohnungen-verwandeln-investoren-koennen-foerdergeld-beantragen-a-cfe31d55-dce5-4aff-95f1-32221ecdcef2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden](https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden-a-167b341d-d29d-44dd-a8d1-2472412ff970#ref=rss)
-* [https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus](https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus-a-94080105-8215-4fe3-a99f-fc688acbe702#ref=rss)
-### offizielle
-
-* [https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen](https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen-a-517dd3f6-11b4-4089-9f40-ddbac663bfbd#ref=rss)
-### dienstagabend
-
-* [https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen](https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen-a-517dd3f6-11b4-4089-9f40-ddbac663bfbd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-### vorgänger
-
-* [https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen](https://www.spiegel.de/kultur/offizielle-kanzlerportraets-adenauer-fiel-aus-dem-rahmen-schroeder-wurde-zum-goldjungen-a-517dd3f6-11b4-4089-9f40-ddbac663bfbd#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte](https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte-a-e5cb512e-7840-4dd6-862b-74450a374a16#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie](https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0#ref=rss)
+* [https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern](https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern-a-75e0c720-928f-4ece-a715-cc5a8268571a#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-### konsequenzen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte-a-70ed414e-6a78-4111-b420-8d4ec64ac3fc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten](https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten-a-74b57189-0911-4fff-aeff-197eff5ba15f#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen](https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen-a-3a45e4c1-765f-4591-b4bf-e6fb67b70538#ref=rss)
-### vermeidet
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-kriselnder-agrarkonzern-braucht-mehr-zeit-fuer-sanierung](https://www.spiegel.de/wirtschaft/unternehmen/baywa-kriselnder-agrarkonzern-braucht-mehr-zeit-fuer-sanierung-a-631f7248-5b09-4d91-a11b-3eb24aee46ab#ref=rss)
+* [https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an](https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an-a-84fb230f-8b91-480e-ba9b-08189130e87b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich](https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich-a-9a3239b6-d062-476e-a512-57f020a2e221#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+### afd
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-### dfbboss
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dfb-praesident-bernd-neuendorf-setzt-sich-von-bundestrainer-julian-nagelsmann-ab-a-faf880c8-dfc5-4672-97eb-4e27caec80e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden](https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden-a-167b341d-d29d-44dd-a8d1-2472412ff970#ref=rss)
-### gastbeiträge
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an](https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an-a-e810cec6-5265-4520-8bb1-a5a2d1ea435a#ref=rss)
-### großen
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte](https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht](https://www.spiegel.de/politik/deutschland/katherina-reiche-zwei-gastbeitraege-der-wirtschaftsministerin-unter-ki-verdacht-a-a936c07e-a300-43db-ba8f-3e444054be7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-### midtermvorwahlen
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-### vielleicht
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-### offen
-
-* [https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan](https://www.spiegel.de/ausland/midterm-vorwahlen-in-alaska-dan-sullivan-darf-dan-sullivan-jetzt-doch-herausfordern-aber-vielleicht-nicht-als-dan-sullivan-a-79f1aa12-58e1-4da0-86bd-b010b79b9fbd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-### temperaturen
-
-* [https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle](https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle-a-ba25359e-b471-49aa-b555-a24128eac829#ref=rss)
-* [https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen](https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen-a-3a45e4c1-765f-4591-b4bf-e6fb67b70538#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle](https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle-a-ba25359e-b471-49aa-b555-a24128eac829#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht-a-f3eafe2e-cabb-428f-895a-0362e3b98b0f#ref=rss)
-### schienen
-
-* [https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle](https://www.spiegel.de/wissenschaft/extremwetter-in-deutschland-fuenf-lehren-aus-der-hitzewelle-a-ba25359e-b471-49aa-b555-a24128eac829#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-### italo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-italo-bald-zur-konkurrenz-wird-a-ed608a98-f5c6-4d34-b379-3ef9474b48ed#ref=rss)
-### nuhr
-
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen](https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen-a-08a202c7-a1e4-4959-ba9e-9544a0ffbbe2#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen](https://www.spiegel.de/kultur/tv/dieter-nuhr-und-sein-femizid-witz-einatmen-dieter-ausatmen-a-08a202c7-a1e4-4959-ba9e-9544a0ffbbe2#ref=rss)
-* [https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen](https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen-a-3a45e4c1-765f-4591-b4bf-e6fb67b70538#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-### schwäche
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-wm-kommentar-legt-seine-grosse-schwaeche-offen-a-4e010eb0-1a78-4142-84f8-aa960c69250e#ref=rss)
-### carlo
-
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-### ancelotti
-
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-### welt
-
-* [https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes](https://www.spiegel.de/sport/carlo-ancelotti-bei-der-wm-2026-die-augenbraue-gottes-a-e0f28e55-d51b-46da-98e3-6fe77b94b8e5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### erling
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker](https://www.spiegel.de/sport/fussball/wm-2026-live-elfenbeinkueste-gegen-norwegen-im-liveticker-a-bb6b9758-0c68-4e09-89e7-ace4485a0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus](https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus-a-94080105-8215-4fe3-a99f-fc688acbe702#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte](https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte](https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss)
-### stade
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-### luisa
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### ums
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-julian-nagelsmann-schuesse-in-stade-luisa-neubauers-protest-gegen-die-afd-a-3ad0eea6-41a0-4a41-93dc-9b4dbca40faf#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tankrabatt-laeuft-am-mittwoch-aus-schon-am-dienstag-steigen-die-preise-deutlich](https://www.spiegel.de/mobilitaet/auto/tankrabatt-laeuft-am-mittwoch-aus-schon-am-dienstag-steigen-die-preise-deutlich-a-bf27616a-fcb8-4690-9542-d40c21af8f13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft](https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft-a-cc1a22cc-fad9-4e7c-bf48-e7322d1e36e6#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit](https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit-a-eebd963e-862e-49d6-80f5-ea422b182209#ref=rss)
-### macht
+* [https://www.spiegel.de/panorama/monschau-drei-menschen-sterben-bei-feuer-in-der-eifel](https://www.spiegel.de/panorama/monschau-drei-menschen-sterben-bei-feuer-in-der-eifel-a-fc58eabb-34fb-46d5-914e-6fabf64b662f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden](https://www.spiegel.de/kultur/donald-trump-und-die-state-fair-diese-traurige-party-kann-selbst-fox-news-nicht-schoenreden-a-81cae10f-89a9-42a5-9e7f-896835e22644#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### neudelhi
+* [https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft](https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft-a-cc1a22cc-fad9-4e7c-bf48-e7322d1e36e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten](https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten-a-74b57189-0911-4fff-aeff-197eff5ba15f#ref=rss)
+### tor
 
-* [https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks](https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks-a-61f56fe9-80aa-4744-ad53-ee589f296ac8#ref=rss)
-### tuktuks
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks](https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks-a-61f56fe9-80aa-4744-ad53-ee589f296ac8#ref=rss)
-### zusammen
+* [https://www.spiegel.de/panorama/monschau-drei-menschen-sterben-bei-feuer-in-der-eifel](https://www.spiegel.de/panorama/monschau-drei-menschen-sterben-bei-feuer-in-der-eifel-a-fc58eabb-34fb-46d5-914e-6fabf64b662f#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks](https://www.spiegel.de/wirtschaft/indien-neu-delhi-forciert-umstieg-auf-elektrische-tuk-tuks-a-61f56fe9-80aa-4744-ad53-ee589f296ac8#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit](https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit-a-eebd963e-862e-49d6-80f5-ea422b182209#ref=rss)
-### verteidigt
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte-a-70ed414e-6a78-4111-b420-8d4ec64ac3fc#ref=rss)
+### verteilt
 
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-* [https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus](https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus-a-94080105-8215-4fe3-a99f-fc688acbe702#ref=rss)
-### usstaatsbürgerschaft
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte-a-70ed414e-6a78-4111-b420-8d4ec64ac3fc#ref=rss)
+### bodycams
 
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-### pläne
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verteilt-bodycams-an-2000-beschaeftigte-a-70ed414e-6a78-4111-b420-8d4ec64ac3fc#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts](https://www.spiegel.de/ausland/usa-supreme-court-trumps-stoppt-donald-trumps-einschraenkung-des-geburtsrechts-a-071f05fb-f7c5-444c-adc8-aac62554aa11#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-### tag
+* [https://www.spiegel.de/wirtschaft/service/europa-inflationsrate-im-euro-raum-sinkt-auf-2-8-prozent](https://www.spiegel.de/wirtschaft/service/europa-inflationsrate-im-euro-raum-sinkt-auf-2-8-prozent-a-6fe85087-7bf2-425c-b40a-04cfd387a6c6#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wissen
+* [https://www.spiegel.de/wirtschaft/service/europa-inflationsrate-im-euro-raum-sinkt-auf-2-8-prozent](https://www.spiegel.de/wirtschaft/service/europa-inflationsrate-im-euro-raum-sinkt-auf-2-8-prozent-a-6fe85087-7bf2-425c-b40a-04cfd387a6c6#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf](https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf-a-a4cc0730-f80c-477f-9eff-7f4311a07aad#ref=rss)
+### wimbledon
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-992e1983-2af7-4fa4-b225-6a67c235998e#ref=rss)
-### anna
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+### serena
 
-* [https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte](https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte-a-e5cb512e-7840-4dd6-862b-74450a374a16#ref=rss)
-### villiez
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+### williams
 
-* [https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte](https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte-a-e5cb512e-7840-4dd6-862b-74450a374a16#ref=rss)
-### neue
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte](https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte-a-e5cb512e-7840-4dd6-862b-74450a374a16#ref=rss)
-### antisemitismusbeauftragte
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten](https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten-a-74b57189-0911-4fff-aeff-197eff5ba15f#ref=rss)
+### klasse
 
-* [https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte](https://www.spiegel.de/panorama/hamburg-historikerin-anna-von-villiez-wird-neue-antisemitismusbeauftragte-a-e5cb512e-7840-4dd6-862b-74450a374a16#ref=rss)
-### sieht
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+### schwächen
 
-* [https://www.spiegel.de/mobilitaet/auto/tankrabatt-laeuft-am-mittwoch-aus-schon-am-dienstag-steigen-die-preise-deutlich](https://www.spiegel.de/mobilitaet/auto/tankrabatt-laeuft-am-mittwoch-aus-schon-am-dienstag-steigen-die-preise-deutlich-a-bf27616a-fcb8-4690-9542-d40c21af8f13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-bund-sieht-laender-in-der-pflicht-a-f3eafe2e-cabb-428f-895a-0362e3b98b0f#ref=rss)
-### lina
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an](https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an-a-e810cec6-5265-4520-8bb1-a5a2d1ea435a#ref=rss)
-### e
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an](https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an-a-e810cec6-5265-4520-8bb1-a5a2d1ea435a#ref=rss)
-### aussage
+* [https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen](https://www.spiegel.de/sport/tennis/wimbledon-serena-williams-zeigt-beim-einzel-comeback-klasse-und-schwaechen-a-6b6632a6-06dc-4481-a3c5-28eaa40524b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+### koch
 
-* [https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an](https://www.spiegel.de/panorama/justiz/lina-e-verweigert-aussage-gericht-ordnet-beugehaft-an-a-e810cec6-5265-4520-8bb1-a5a2d1ea435a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+### bilanz
+
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+### alles
+
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz](https://www.spiegel.de/wirtschaft/michelin-sterne-lohnt-sich-das-ueberhaupt-ein-koch-aus-hamburg-zieht-bilanz-a-73278153-1ad9-470a-83ac-4156e2e72c00#ref=rss)
+* [https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern](https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern-a-75e0c720-928f-4ece-a715-cc5a8268571a#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock-a-7e864179-4a18-45c6-bbdf-549cf4c8c340#ref=rss)
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock-a-7e864179-4a18-45c6-bbdf-549cf4c8c340#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets](https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets-a-b00aad42-7c8c-4460-a20a-f026acc7741f#ref=rss)
+### verbrechen
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-sechsjaehriger-stirbt-nach-sturz-aus-dem-elften-stock-a-7e864179-4a18-45c6-bbdf-549cf4c8c340#ref=rss)
+* [https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern](https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern-a-75e0c720-928f-4ece-a715-cc5a8268571a#ref=rss)
+### alice
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+### bühne
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-erteilt-gemeinsamem-auftritt-mit-sahra-wagenknecht-eine-absage-a-42edd54a-52bc-4f40-b289-b3e8251dd0bd#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf](https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf-a-a4cc0730-f80c-477f-9eff-7f4311a07aad#ref=rss)
+### parteisprecher
+
+* [https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft](https://www.spiegel.de/politik/deutschland/afd-neuer-parteisprecher-kommt-vom-institut-der-deutschen-wirtschaft-a-cc1a22cc-fad9-4e7c-bf48-e7322d1e36e6#ref=rss)
+### victor
+
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### willis
+
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### schrieb
+
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### ymca
+
+* [https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit](https://www.spiegel.de/kultur/musik/village-people-leadsaenger-victor-willis-ist-tot-er-schrieb-ymca-mit-a-7ec488ec-3e8e-4ea2-a7ff-d29b69bb06ea#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+### 25
+
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest](https://www.spiegel.de/panorama/leute/verhaftung-in-hessen-bundesanwaltschaft-nimmt-mutmasslichen-massenmoerder-fest-a-f3817e36-040d-4b60-a970-35b308f20409#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets](https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets-a-b00aad42-7c8c-4460-a20a-f026acc7741f#ref=rss)
+### pflegerin
+
+* [https://www.spiegel.de/panorama/justiz/pflegerin-soll-wachkomapatienten-geraete-entfernt-haben-fuer-ruhige-nachtschicht](https://www.spiegel.de/panorama/justiz/pflegerin-soll-wachkomapatienten-geraete-entfernt-haben-fuer-ruhige-nachtschicht-a-14d40e8f-0faf-4a27-8695-caa762b9f03a#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/pflegerin-soll-wachkomapatienten-geraete-entfernt-haben-fuer-ruhige-nachtschicht](https://www.spiegel.de/panorama/justiz/pflegerin-soll-wachkomapatienten-geraete-entfernt-haben-fuer-ruhige-nachtschicht-a-14d40e8f-0faf-4a27-8695-caa762b9f03a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt](https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt-a-c2e3320f-4e16-4f14-aab0-1d43921586dc#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen](https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen-a-faa9bf28-c1d0-4a0b-a110-4a086a283efa#ref=rss)
+### leben
+
+* [https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen](https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen-a-faa9bf28-c1d0-4a0b-a110-4a086a283efa#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen](https://www.spiegel.de/politik/deutschland/demokratie-leben-karin-prien-will-bei-demokratieprojekten-verfassungsschutz-einbeziehen-a-faa9bf28-c1d0-4a0b-a110-4a086a283efa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten](https://www.spiegel.de/wirtschaft/service/konsum-wofuer-europaeer-geld-ausgeben-und-was-sich-deutsche-leisten-a-74b57189-0911-4fff-aeff-197eff5ba15f#ref=rss)
+### jonathan
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+### tah
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+### pierluigi
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+### collina
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar](https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar-a-75e3dddf-69cf-4370-b45e-c0ac0d2825c0#ref=rss)
+### gegebene
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung](https://www.spiegel.de/sport/fussball/fussball-wm-tor-von-jonathan-tah-zaehlte-nicht-pierluigi-collina-verteidigt-entscheidung-a-1045fcac-0340-4ae1-b463-cc77fce9e459#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
 ### jürgen
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar](https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar-a-75e3dddf-69cf-4370-b45e-c0ac0d2825c0#ref=rss)
 ### klopp
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### idee
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar](https://www.spiegel.de/sport/fussball/juergen-klopp-als-bundestrainer-ja-bitte-kommentar-a-75e3dddf-69cf-4370-b45e-c0ac0d2825c0#ref=rss)
+### wm
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee](https://www.spiegel.de/sport/fussball/fussball-wm-2026-folgt-juergen-klopp-auf-julian-nagelsmann-das-waere-eine-schlechte-idee-a-b515381c-1a84-4b91-b11b-ab2b7a2ed657#ref=rss)
-### nina
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-### warken
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-### kassenchef
+* [https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht](https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+### mehreren
 
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-### stoßen
+* [https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets](https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets-a-b00aad42-7c8c-4460-a20a-f026acc7741f#ref=rss)
+* [https://www.spiegel.de/panorama/sturmschaeden-in-bayern-starkregen-ueberflutet-strassen-zugverkehr-lahmgelegt](https://www.spiegel.de/panorama/sturmschaeden-in-bayern-starkregen-ueberflutet-strassen-zugverkehr-lahmgelegt-a-1b509653-2aa4-46cd-82e2-ed6453217646#ref=rss)
+### dwayne
 
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart](https://www.spiegel.de/politik/deutschland/pflege-reform-durch-nina-warken-kassenchef-verlangt-kompletten-neustart-a-58a236bd-9937-47a3-ae44-00c414766dea#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit](https://www.spiegel.de/mobilitaet/auto/e-autos-unfallforscher-fordern-bessere-warngeraeusche-bei-niedriger-geschwindigkeit-a-eebd963e-862e-49d6-80f5-ea422b182209#ref=rss)
-### büros
+* [https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an](https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an-a-84fb230f-8b91-480e-ba9b-08189130e87b#ref=rss)
+### johnson
 
-* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-bueros-in-wohnungen-verwandeln-investoren-koennen-foerdergeld-beantragen](https://www.spiegel.de/wirtschaft/wohnungsmarkt-bueros-in-wohnungen-verwandeln-investoren-koennen-foerdergeld-beantragen-a-cfe31d55-dce5-4aff-95f1-32221ecdcef2#ref=rss)
-### hochhäuser
+* [https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an](https://www.spiegel.de/kultur/kino/dwayne-johnson-will-nicht-mehr-ueber-politik-reden-kollegen-greifen-ihn-dafuer-an-a-84fb230f-8b91-480e-ba9b-08189130e87b#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden](https://www.spiegel.de/wirtschaft/muenchen-umstrittene-hochhaeuser-sollen-gebaut-werden-a-167b341d-d29d-44dd-a8d1-2472412ff970#ref=rss)
-### rom
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich](https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich-a-9a3239b6-d062-476e-a512-57f020a2e221#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen](https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen-a-3a45e4c1-765f-4591-b4bf-e6fb67b70538#ref=rss)
-### pferdekutschen
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich](https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich-a-9a3239b6-d062-476e-a512-57f020a2e221#ref=rss)
+### tankstellen
 
-* [https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen](https://www.spiegel.de/panorama/rom-will-aus-tierschutzgruenden-pferdekutschen-durch-taxis-ersetzen-a-3a45e4c1-765f-4591-b4bf-e6fb67b70538#ref=rss)
-### berlin
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich](https://www.spiegel.de/wirtschaft/spritpreise-tankrabatt-laeuft-aus-preise-an-zapfsaeulen-steigen-deutlich-a-9a3239b6-d062-476e-a512-57f020a2e221#ref=rss)
+* [https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine](https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine-a-e5b70e3d-b840-4e03-b54f-65fe451eee76#ref=rss)
+### söhne
 
-* [https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus](https://www.spiegel.de/panorama/aufmarsch-in-berlin-politische-machtdemonstration-des-schiitischen-islamismus-a-94080105-8215-4fe3-a99f-fc688acbe702#ref=rss)
+* [https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter](https://www.spiegel.de/start/deutschland-soehne-bleiben-laenger-im-elternhaus-als-toechter-a-566d0149-7d64-41e6-aed8-8e10360a070a#ref=rss)
+### chris
+
+* [https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt](https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt-a-c2e3320f-4e16-4f14-aab0-1d43921586dc#ref=rss)
+### brown
+
+* [https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt](https://www.spiegel.de/panorama/justiz/chris-brown-nach-hundeangriff-auf-haushaelterin-zu-hoher-geldzahlung-verurteilt-a-c2e3320f-4e16-4f14-aab0-1d43921586dc#ref=rss)
+### usa
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf](https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf-a-a4cc0730-f80c-477f-9eff-7f4311a07aad#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### kimodelle
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf](https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf-a-a4cc0730-f80c-477f-9eff-7f4311a07aad#ref=rss)
+### 5
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf](https://www.spiegel.de/netzwelt/netzpolitik/usa-regierung-hebt-exportbeschraenkungen-fuer-anthropics-ki-modelle-auf-a-a4cc0730-f80c-477f-9eff-7f4311a07aad#ref=rss)
+### marcelo
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### bielsa
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-deniz-undav-zum-wm-aus-haben-deutschland-enttaeuscht-a-30e58f7a-9d5e-484e-930b-278afbb0ce8b#ref=rss)
+### geely
+
+* [https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie](https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0#ref=rss)
+### baut
+
+* [https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie](https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie](https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
+### macht
+
+* [https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie](https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### weltkrieg
+
+* [https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern](https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern-a-75e0c720-928f-4ece-a715-cc5a8268571a#ref=rss)
+### größte
+
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
+### privatanlegern
+
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs](https://www.spiegel.de/wirtschaft/service/geldanlage-der-groesste-fehler-von-privatanlegern-mit-msci-world-etfs-a-b644a25e-d66e-4282-9937-f65e2bed88e8#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt](https://www.spiegel.de/ausland/donald-trump-wie-der-supreme-court-trump-in-die-schranken-weist-und-das-praesidentenamt-staerkt-a-db159d26-3213-43c1-9cbe-0a24fd4fda26#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine](https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine-a-e5b70e3d-b840-4e03-b54f-65fe451eee76#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine](https://www.spiegel.de/ausland/russland-beschiesst-mehrere-tankstellen-in-der-ukraine-a-e5b70e3d-b840-4e03-b54f-65fe451eee76#ref=rss)
 
