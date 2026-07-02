@@ -4,308 +4,307 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### reformpaket
-
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition](https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition-a-d554f069-2200-4722-8219-a1fe258ee034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus](https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus-a-8a08b85a-e0b5-43aa-827a-adcbfb1f981d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit-a-8093bb32-e85b-4b76-9be1-7568d84923ae#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition](https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition-a-d554f069-2200-4722-8219-a1fe258ee034#ref=rss)
-* [https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus](https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus-a-8a08b85a-e0b5-43aa-827a-adcbfb1f981d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen-a-b816cf71-9505-4c21-a824-14d42db2a3de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll-a-5a9eeb2d-ebef-4614-b566-90c1d9ff4f5c#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/start/minijobs-fuer-studierende-was-wenn-sie-bald-wegfallen-newsletter](https://www.spiegel.de/start/minijobs-fuer-studierende-was-wenn-sie-bald-wegfallen-newsletter-a-eccaeff3-2c31-4cbb-963b-616dbe3eff0a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll-a-5a9eeb2d-ebef-4614-b566-90c1d9ff4f5c#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben](https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben-a-c10a2b34-6a03-429d-b833-e28afd339c26#ref=rss)
-* [https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser](https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser-a-514221b3-e4cf-4437-9b07-8ce051c08f70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit-a-8093bb32-e85b-4b76-9be1-7568d84923ae#ref=rss)
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus](https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus-a-8a08b85a-e0b5-43aa-827a-adcbfb1f981d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg](https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg-a-144b273e-7d47-4df3-8687-f22e02806faa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google](https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google-a-29aff2de-5710-49b0-8056-d40a017c11d5#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand](https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand-a-f645fade-9431-4e17-8786-57d36781e149#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition](https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition-a-d554f069-2200-4722-8219-a1fe258ee034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
-### kommen
+* [https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht](https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht-a-8c55e55d-326d-4306-beb0-defc0d93c160#ref=rss)
+* [https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich](https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich-a-34433357-3850-4c84-90fd-b5362dad84db#ref=rss)
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### julian
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus](https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus-a-8a08b85a-e0b5-43aa-827a-adcbfb1f981d#ref=rss)
-### ermittler
+* [https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall](https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall-a-55a05405-e4d2-4379-94da-e4c07b0d4bc7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus](https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus-a-c7c81524-bb41-4901-8142-878410941fea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke](https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke-a-eb802caf-0291-4f4c-8319-1a1ca4f7110e#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht](https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht-a-8c55e55d-326d-4306-beb0-defc0d93c160#ref=rss)
+* [https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich](https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich-a-34433357-3850-4c84-90fd-b5362dad84db#ref=rss)
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### capital
 
-* [https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus](https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus-a-c7c81524-bb41-4901-8142-878410941fea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen-a-b816cf71-9505-4c21-a824-14d42db2a3de#ref=rss)
-### melania
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+### bra
 
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+### tag
+
+* [https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind](https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind-a-0c0c3433-10da-401f-bf76-2f59edbb11ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind](https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind-a-0c0c3433-10da-401f-bf76-2f59edbb11ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen](https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen-a-28e4437c-623f-4ad3-a35c-dae71c1cb4da#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor](https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor-a-20db8929-9fbc-4c39-8a90-d056aa7c9418#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen](https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen-a-e1c3a549-5fc9-48cb-8800-288d3e8b4967#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt-a-39cb0575-46af-4e25-b826-d3881e5ea684#ref=rss)
+### reformpaket
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+* [https://www.spiegel.de/politik/reformpaket-der-bundesregierung-analyse-zu-chancen-und-knackpunkten](https://www.spiegel.de/politik/reformpaket-der-bundesregierung-analyse-zu-chancen-und-knackpunkten-a-57134a86-354e-46b6-84a8-ca2ce9ba33fd#ref=rss)
 ### alles
 
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-usa-erreichen-in-unterzahl-das-achtelfinale-oliver-kahn-kritisiert-trainerdebatte](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-usa-erreichen-in-unterzahl-das-achtelfinale-oliver-kahn-kritisiert-trainerdebatte-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
-### davon
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### bodensee
 
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
-### schwarzrot
+* [https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam](https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam-a-ce818d8e-50b5-457f-9712-22d83ab0ec50#ref=rss)
+* [https://www.spiegel.de/wissenschaft/es-gibt-da-einen-blinden-fleck-ueber-den-es-sich-lohnt-zu-reden](https://www.spiegel.de/wissenschaft/es-gibt-da-einen-blinden-fleck-ueber-den-es-sich-lohnt-zu-reden-a-2ab3b6c0-5bf4-4d79-bf33-50e496aed6be#ref=rss)
+### reichelt
 
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### durchbruch
+* [https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall](https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall-a-55a05405-e4d2-4379-94da-e4c07b0d4bc7#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren](https://www.spiegel.de/politik/bundesregierung-dieses-reformpaket-koennte-deutschland-endlich-aus-der-krise-fuehren-a-cb4dc5e1-09ea-41dd-82a7-e0b1e99ea5b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall](https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall-a-55a05405-e4d2-4379-94da-e4c07b0d4bc7#ref=rss)
+### einfluss
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall](https://www.spiegel.de/ausland/julian-reichelt-rechts-aussen-portal-gewinnt-an-einfluss-podcast-firewall-a-55a05405-e4d2-4379-94da-e4c07b0d4bc7#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht](https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht-a-8c55e55d-326d-4306-beb0-defc0d93c160#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle](https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle-a-ec0a3e87-bd70-46b2-9ffc-aecddde22642#ref=rss)
+* [https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht](https://www.spiegel.de/ausland/israel-warum-benjamin-netanyahu-als-favorit-in-den-wahlkampf-zieht-a-8c55e55d-326d-4306-beb0-defc0d93c160#ref=rss)
+### bezeichnet
+
+* [https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich](https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich-a-34433357-3850-4c84-90fd-b5362dad84db#ref=rss)
+* [https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen](https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen-a-fb761e51-9115-4218-9838-87801db0a8a5#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich](https://www.spiegel.de/ausland/trump-bezeichnet-deutschlands-nato-ausgaben-als-laecherlich-a-34433357-3850-4c84-90fd-b5362dad84db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor](https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor-a-20db8929-9fbc-4c39-8a90-d056aa7c9418#ref=rss)
+### teuer
+
+* [https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind](https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind-a-0c0c3433-10da-401f-bf76-2f59edbb11ec#ref=rss)
+### schafft
+
+* [https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind](https://www.spiegel.de/wirtschaft/krankschreibungen-warum-atteste-ab-dem-ersten-tag-teuer-und-wirkungslos-sind-a-0c0c3433-10da-401f-bf76-2f59edbb11ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### stade
+
+* [https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen](https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen-a-28e4437c-623f-4ad3-a35c-dae71c1cb4da#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen](https://www.spiegel.de/ausland/umstrittenes-geschenk-katars-donald-trump-sagt-usa-koennten-air-force-one-jet-nicht-bauen-a-4a434a33-dca2-4c42-9e8e-2eae0417771e#ref=rss)
-* [https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben](https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben-a-c10a2b34-6a03-429d-b833-e28afd339c26#ref=rss)
-### maßnahmen
+* [https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen](https://www.spiegel.de/panorama/justiz/stade-fatih-khan-g-wollte-sich-offenbar-nach-der-tat-das-leben-nehmen-a-28e4437c-623f-4ad3-a35c-dae71c1cb4da#ref=rss)
+### ferien
 
-* [https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition](https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition-a-d554f069-2200-4722-8219-a1fe258ee034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
-### geeinigt
+* [https://www.spiegel.de/deinspiegel/basteltipps-fuer-die-ferien-das-wird-ein-super-sommer](https://www.spiegel.de/deinspiegel/basteltipps-fuer-die-ferien-das-wird-ein-super-sommer-a-b877f906-e767-45ff-ac2a-3137d57da10b#ref=rss)
+### wien
 
-* [https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition](https://www.spiegel.de/politik/deutschland/steuern-arbeitsmarkt-buerokratieabbau-das-steht-im-reformpaket-der-koalition-a-d554f069-2200-4722-8219-a1fe258ee034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### legt
+* [https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen](https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen-a-2cf64f53-a8d0-4c82-8fc3-e5d7b845a7d0#ref=rss)
+### heinzchristian
 
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen-a-667ecf5f-4bb4-4957-9e65-40029cbf049d#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen](https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen-a-2cf64f53-a8d0-4c82-8fc3-e5d7b845a7d0#ref=rss)
+### strache
 
-* [https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse](https://www.spiegel.de/politik/deutschland/koalition-legt-reformpaket-vor-das-sind-die-fuenf-wichtigsten-beschluesse-a-5b246762-d148-4625-ae69-b022a3ce9abb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### taylor
+* [https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen](https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen-a-2cf64f53-a8d0-4c82-8fc3-e5d7b845a7d0#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-### swift
+* [https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen](https://www.spiegel.de/ausland/wien-heinz-christian-strache-in-untreue-prozess-freigesprochen-a-2cf64f53-a8d0-4c82-8fc3-e5d7b845a7d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+### the
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-### travis
+* [https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier](https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier-a-fbc608be-f2d4-4e6c-8603-8ac6af8f5617#ref=rss)
+### piano
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-### kelce
+* [https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier](https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier-a-fbc608be-f2d4-4e6c-8603-8ac6af8f5617#ref=rss)
+### tuner
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier](https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier-a-fbc608be-f2d4-4e6c-8603-8ac6af8f5617#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand](https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand-a-f645fade-9431-4e17-8786-57d36781e149#ref=rss)
-### drei
+* [https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier](https://www.spiegel.de/kultur/the-piano-tuner-mit-dustin-hoffman-bei-diesem-ganovenfilm-stimmt-nicht-nur-das-klavier-a-fbc608be-f2d4-4e6c-8603-8ac6af8f5617#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet](https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet-a-c657c35b-4cd7-4b5f-881a-ba0543074da7#ref=rss)
+### südfrankreich
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-### jahre
+* [https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land](https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land-a-ddded424-49a8-4f57-afa2-b096809c9643#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-die-lovestory-von-der-der-popstar-immer-getraeumt-hat-a-c6e59501-0b20-4bff-92fd-40accdf9395b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-### schattenflotte
+* [https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land](https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land-a-ddded424-49a8-4f57-afa2-b096809c9643#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben](https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben-a-c10a2b34-6a03-429d-b833-e28afd339c26#ref=rss)
-### drohnen
+* [https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land](https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land-a-ddded424-49a8-4f57-afa2-b096809c9643#ref=rss)
+### orte
 
-* [https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben](https://www.spiegel.de/ausland/schattenflotte-russische-drohnen-sollen-monatelang-europaeische-nuklearanlagen-ausgespaeht-haben-a-c10a2b34-6a03-429d-b833-e28afd339c26#ref=rss)
-### ohio
+* [https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land](https://www.spiegel.de/panorama/justiz/suedfrankreich-braende-zerstoeren-hunderte-hektar-land-a-ddded424-49a8-4f57-afa2-b096809c9643#ref=rss)
+* [https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen](https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen-a-e1c3a549-5fc9-48cb-8800-288d3e8b4967#ref=rss)
+### rapper
 
-* [https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus](https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus-a-c7c81524-bb41-4901-8142-878410941fea#ref=rss)
-### 16
-
-* [https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus](https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus-a-c7c81524-bb41-4901-8142-878410941fea#ref=rss)
-### jahrelang
-
-* [https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus](https://www.spiegel.de/panorama/justiz/ohio-ermittler-entdecken-16-verwahrloste-kinder-in-baufaelligem-haus-a-c7c81524-bb41-4901-8142-878410941fea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg](https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg-a-144b273e-7d47-4df3-8687-f22e02806faa#ref=rss)
-### sadie
-
-* [https://www.spiegel.de/kultur/sadie-sink-aergert-sich-ueber-handys-im-theaterpublikum](https://www.spiegel.de/kultur/sadie-sink-aergert-sich-ueber-handys-im-theaterpublikum-a-ffe297c9-a752-40a9-9607-94a9097e4d7f#ref=rss)
-### sink
-
-* [https://www.spiegel.de/kultur/sadie-sink-aergert-sich-ueber-handys-im-theaterpublikum](https://www.spiegel.de/kultur/sadie-sink-aergert-sich-ueber-handys-im-theaterpublikum-a-ffe297c9-a752-40a9-9607-94a9097e4d7f#ref=rss)
-### fender
-
-* [https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren](https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren-a-ec385d1e-5c82-4281-9fa6-e824693f8335#ref=rss)
-### stratocaster
-
-* [https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren](https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren-a-ec385d1e-5c82-4281-9fa6-e824693f8335#ref=rss)
-### männer
-
-* [https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren](https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren-a-ec385d1e-5c82-4281-9fa6-e824693f8335#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke](https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke-a-eb802caf-0291-4f4c-8319-1a1ca4f7110e#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren](https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren-a-ec385d1e-5c82-4281-9fa6-e824693f8335#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen-a-b816cf71-9505-4c21-a824-14d42db2a3de#ref=rss)
-### hersteller
-
-* [https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren](https://www.spiegel.de/kultur/fender-und-der-kampf-um-die-stratocaster-maenner-die-auf-gitarrenkoerper-starren-a-ec385d1e-5c82-4281-9fa6-e824693f8335#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen](https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen-a-d41d1290-e81b-403a-acfb-67f81ce8c739#ref=rss)
-### heftige
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-### innenstadt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote](https://www.spiegel.de/ausland/ukraine-krieg-heftige-angriffe-auf-kyjiwer-innenstadt-mindestens-13-tote-a-6c8e19c4-c04d-45f3-a66d-2470e4c5cad9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus](https://www.spiegel.de/wissenschaft/1400-menschen-kommen-in-deutschland-jaehrlich-wegen-hitze-ins-krankenhaus-a-8a08b85a-e0b5-43aa-827a-adcbfb1f981d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen-a-667ecf5f-4bb4-4957-9e65-40029cbf049d#ref=rss)
-### zehdenick
-
-* [https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser](https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser-a-514221b3-e4cf-4437-9b07-8ce051c08f70#ref=rss)
-### trinkwasser
-
-* [https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser](https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser-a-514221b3-e4cf-4437-9b07-8ce051c08f70#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser](https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser-a-514221b3-e4cf-4437-9b07-8ce051c08f70#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/tu-berlin-kann-derzeit-keine-zeugnisse-ausstellen](https://www.spiegel.de/panorama/bildung/tu-berlin-kann-derzeit-keine-zeugnisse-ausstellen-a-561d8b7a-723d-4b83-ae4d-eb853e700360#ref=rss)
-### grund
-
-* [https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser](https://www.spiegel.de/panorama/zehdenick-landkreis-warnt-vor-bromat-im-trinkwasser-a-514221b3-e4cf-4437-9b07-8ce051c08f70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit-a-8093bb32-e85b-4b76-9be1-7568d84923ae#ref=rss)
-### minijobs
-
-* [https://www.spiegel.de/start/minijobs-fuer-studierende-was-wenn-sie-bald-wegfallen-newsletter](https://www.spiegel.de/start/minijobs-fuer-studierende-was-wenn-sie-bald-wegfallen-newsletter-a-eccaeff3-2c31-4cbb-963b-616dbe3eff0a#ref=rss)
-### lars
-
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg](https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg-a-144b273e-7d47-4df3-8687-f22e02806faa#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg](https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg-a-144b273e-7d47-4df3-8687-f22e02806faa#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg](https://www.spiegel.de/wirtschaft/lars-klingbeil-spd-minister-streicht-post-ein-privileg-a-144b273e-7d47-4df3-8687-f22e02806faa#ref=rss)
-### parallelen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-julian-nagelsmann-wm-aus-legt-parallelen-schonungslos-offen-a-667ecf5f-4bb4-4957-9e65-40029cbf049d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke](https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke-a-eb802caf-0291-4f4c-8319-1a1ca4f7110e#ref=rss)
-### kannibalismus
-
-* [https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit-a-8093bb32-e85b-4b76-9be1-7568d84923ae#ref=rss)
-### gesundheit
-
-* [https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/kannibalismus-ist-schlecht-fuer-die-gesundheit-a-8093bb32-e85b-4b76-9be1-7568d84923ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/bildung/tu-berlin-kann-derzeit-keine-zeugnisse-ausstellen](https://www.spiegel.de/panorama/bildung/tu-berlin-kann-derzeit-keine-zeugnisse-ausstellen-a-561d8b7a-723d-4b83-ae4d-eb853e700360#ref=rss)
-### google
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt-a-39cb0575-46af-4e25-b826-d3881e5ea684#ref=rss)
+### tilidin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google](https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google-a-29aff2de-5710-49b0-8056-d40a017c11d5#ref=rss)
-### eigene
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+### drogensucht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google](https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google-a-29aff2de-5710-49b0-8056-d40a017c11d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-wie-deutschland-zur-ki-nation-werden-soll-a-5a9eeb2d-ebef-4614-b566-90c1d9ff4f5c#ref=rss)
-### konzern
+* [https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend](https://www.spiegel.de/kultur/musik/capital-bra-rapper-spricht-ueber-tilidin-sucht-entzug-und-seine-jugend-a-b4fe3411-29cd-4460-9b7e-b9ff037213f9#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+### verwaltungsgericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google](https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-gerichtshof-bestaetigt-milliardenbusse-gegen-google-a-29aff2de-5710-49b0-8056-d40a017c11d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle](https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle-a-ec0a3e87-bd70-46b2-9ffc-aecddde22642#ref=rss)
-### möbel
+* [https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen](https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen-a-9cd1c866-201a-4efc-b0f7-88377e67b4fd#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen](https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen-a-d41d1290-e81b-403a-acfb-67f81ce8c739#ref=rss)
-### usm
+* [https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen](https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen-a-9cd1c866-201a-4efc-b0f7-88377e67b4fd#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen](https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen-a-d41d1290-e81b-403a-acfb-67f81ce8c739#ref=rss)
-### haller
+* [https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen](https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen-a-9cd1c866-201a-4efc-b0f7-88377e67b4fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden](https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden-a-9b0a816b-c433-41a8-8e62-8e8d42265d88#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen](https://www.spiegel.de/wirtschaft/unternehmen/moebel-usm-haller-kann-auf-urheberrechtsschutz-hoffen-a-d41d1290-e81b-403a-acfb-67f81ce8c739#ref=rss)
+* [https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen](https://www.spiegel.de/panorama/grenzkontrollen-verwaltungsgericht-muenchen-entscheidet-drei-klagen-a-9cd1c866-201a-4efc-b0f7-88377e67b4fd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen](https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen-a-b481e22a-c08c-408f-958f-51d1d7899bdf#ref=rss)
+### umweltminister
+
+* [https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen](https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen-a-b481e22a-c08c-408f-958f-51d1d7899bdf#ref=rss)
+### rügen
+
+* [https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen](https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen-a-b481e22a-c08c-408f-958f-51d1d7899bdf#ref=rss)
+### tauchen
+
+* [https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen](https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen-a-b481e22a-c08c-408f-958f-51d1d7899bdf#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen](https://www.spiegel.de/politik/deutschland/carsten-schneider-umweltminister-geht-vor-ruegen-tauchen-a-b481e22a-c08c-408f-958f-51d1d7899bdf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus](https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus-a-013caade-126d-4f88-9981-c2edf1937552#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### krankschreibung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-krankschreibung-ab-tag-eins-friedrich-merz-und-sein-reformpaket-a-8debdcdc-544d-4572-82ab-2e5fa4301812#ref=rss)
+### england
+
+* [https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen](https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen-a-fb761e51-9115-4218-9838-87801db0a8a5#ref=rss)
+### wales
+
+* [https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen](https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen-a-fb761e51-9115-4218-9838-87801db0a8a5#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen](https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen-a-fb761e51-9115-4218-9838-87801db0a8a5#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung](https://www.spiegel.de/politik/deutschland/reformpaket-in-der-live-analyse-was-plant-die-bundesregierung-a-6ae489cf-f55f-4616-934a-ede7a0eb0e3a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania](https://www.spiegel.de/kultur/kino/melania-trump-verdiente-mehr-als-zehn-millionen-dollar-an-ihrem-amazon-werbefilm-melania-a-e8f2ad7a-7cbe-4482-9157-0a2fe84d5fc8#ref=rss)
-### thailand
+* [https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen](https://www.spiegel.de/ausland/england-und-wales-keir-starmer-entschuldigt-sich-fuer-jahrzehntelange-zwangsadoptionen-a-fb761e51-9115-4218-9838-87801db0a8a5#ref=rss)
+* [https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen](https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen-a-e1c3a549-5fc9-48cb-8800-288d3e8b4967#ref=rss)
+### interview
 
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-### kind
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### sucht
 
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja](https://www.spiegel.de/kultur/rapper-capital-bra-ueber-seine-drogensucht-hast-du-heute-vor-dem-interview-tilidin-genommen-ja-a-119277bf-66cc-4bb4-9fdd-9d8d5057aab3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam](https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam-a-ce818d8e-50b5-457f-9712-22d83ab0ec50#ref=rss)
+### gary
+
+* [https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor](https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor-a-20db8929-9fbc-4c39-8a90-d056aa7c9418#ref=rss)
+### glitter
+
+* [https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor](https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor-a-20db8929-9fbc-4c39-8a90-d056aa7c9418#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor](https://www.spiegel.de/panorama/justiz/gary-glitter-staatsanwaltschaft-wirft-ex-popstar-weitere-sexualverbrechen-vor-a-20db8929-9fbc-4c39-8a90-d056aa7c9418#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt-a-39cb0575-46af-4e25-b826-d3881e5ea684#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### nagelsmann
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-dfb-soll-julian-nagelsmann-den-ruecktritt-empfohlen-haben-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-c0f243c9-eb74-4735-892e-6d80c9683ddb#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet](https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet-a-c657c35b-4cd7-4b5f-881a-ba0543074da7#ref=rss)
 ### acht
 
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-### kamen
+* [https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet](https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet-a-c657c35b-4cd7-4b5f-881a-ba0543074da7#ref=rss)
+### tage
 
-* [https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote](https://www.spiegel.de/panorama/justiz/thailand-kind-rast-mit-pick-up-in-moenchsprozession-acht-tote-a-05978d24-3959-43a7-b6cb-29a46c3523c1#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand](https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand-a-f645fade-9431-4e17-8786-57d36781e149#ref=rss)
-### partnerinnen
+* [https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet](https://www.spiegel.de/ausland/venezuela-mann-acht-tage-nach-erdbeben-gerettet-a-c657c35b-4cd7-4b5f-881a-ba0543074da7#ref=rss)
+### verdi
 
-* [https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke](https://www.spiegel.de/panorama/justiz/europol-maenner-betaeubten-und-missbrauchten-partnerinnen-ermittlern-gelingt-schlag-gegen-netzwerke-a-eb802caf-0291-4f4c-8319-1a1ca4f7110e#ref=rss)
-### sébastien
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+### ruft
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-usa-erreichen-in-unterzahl-das-achtelfinale-oliver-kahn-kritisiert-trainerdebatte](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-usa-erreichen-in-unterzahl-das-achtelfinale-oliver-kahn-kritisiert-trainerdebatte-a-46fee176-d308-415b-9c24-97d8fc2b7383#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+### ausstand
 
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen-a-b816cf71-9505-4c21-a824-14d42db2a3de#ref=rss)
-### sexpuppen
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+### handel
 
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-bekraeftigt-verbot-von-sexpuppen-die-wie-kinder-aussehen-a-b816cf71-9505-4c21-a824-14d42db2a3de#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand](https://www.spiegel.de/mobilitaet/bus-bahn/bahn-puenktlichkeitsquote-im-juni-nur-knapp-ueber-historischem-tiefstand-a-f645fade-9431-4e17-8786-57d36781e149#ref=rss)
-### vatikan
+* [https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf](https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151#ref=rss)
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus](https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus-a-3c385c6f-a3fe-4075-a19b-b4ef0246adfe#ref=rss)
-### sechs
+* [https://www.spiegel.de/politik/reformpaket-der-bundesregierung-analyse-zu-chancen-und-knackpunkten](https://www.spiegel.de/politik/reformpaket-der-bundesregierung-analyse-zu-chancen-und-knackpunkten-a-57134a86-354e-46b6-84a8-ca2ce9ba33fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam](https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam-a-ce818d8e-50b5-457f-9712-22d83ab0ec50#ref=rss)
+### wasserhose
 
-* [https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus](https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus-a-3c385c6f-a3fe-4075-a19b-b4ef0246adfe#ref=rss)
-### bischöfe
+* [https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam](https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam-a-ce818d8e-50b5-457f-9712-22d83ab0ec50#ref=rss)
+### friedrichshafen
 
-* [https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus](https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus-a-3c385c6f-a3fe-4075-a19b-b4ef0246adfe#ref=rss)
-### piusbruderschaft
+* [https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam](https://www.spiegel.de/wissenschaft/natur/wasserhose-bei-friedrichshafen-wie-es-zum-tornado-ueber-dem-bodensee-kam-a-ce818d8e-50b5-457f-9712-22d83ab0ec50#ref=rss)
+### familientage
 
-* [https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus](https://www.spiegel.de/panorama/vatikan-schliesst-bischoefe-der-piusbruderschaft-aus-der-kirche-aus-a-3c385c6f-a3fe-4075-a19b-b4ef0246adfe#ref=rss)
-### sonne
+* [https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus](https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus-a-013caade-126d-4f88-9981-c2edf1937552#ref=rss)
+### ehefrauen
 
-* [https://www.spiegel.de/wissenschaft/weltall/weisser-zwergstern-wd-1856-verraet-was-nach-dem-tod-der-sonne-mit-den-planeten-passieren-koennte](https://www.spiegel.de/wissenschaft/weltall/weisser-zwergstern-wd-1856-verraet-was-nach-dem-tod-der-sonne-mit-den-planeten-passieren-koennte-a-9a83c77c-8232-45d8-92c2-eb2e6540e260#ref=rss)
-### bayer
+* [https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus](https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus-a-013caade-126d-4f88-9981-c2edf1937552#ref=rss)
+### gründe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle](https://www.spiegel.de/wirtschaft/unternehmen/ruveon-bayer-buendelt-glyphosat-geschaeft-fuer-den-us-markt-neuaufstellung-in-klagewelle-a-ec0a3e87-bd70-46b2-9ffc-aecddde22642#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus](https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus-a-013caade-126d-4f88-9981-c2edf1937552#ref=rss)
+### wmaus
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus](https://www.spiegel.de/sport/fussball/fussball-wm-familientage-ehefrauen-langweiliges-camp-die-falschen-gruende-fuer-das-wm-aus-a-013caade-126d-4f88-9981-c2edf1937552#ref=rss)
+### japan
+
+* [https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen](https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen-a-e1c3a549-5fc9-48cb-8800-288d3e8b4967#ref=rss)
+### bären
+
+* [https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen](https://www.spiegel.de/panorama/japan-ueberwachungskameras-sollen-vor-baeren-warnen-a-e1c3a549-5fc9-48cb-8800-288d3e8b4967#ref=rss)
+### nobelpreisträger
+
+* [https://www.spiegel.de/wissenschaft/es-gibt-da-einen-blinden-fleck-ueber-den-es-sich-lohnt-zu-reden](https://www.spiegel.de/wissenschaft/es-gibt-da-einen-blinden-fleck-ueber-den-es-sich-lohnt-zu-reden-a-2ab3b6c0-5bf4-4d79-bf33-50e496aed6be#ref=rss)
+### karlie
+
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### kloss
+
+* [https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen](https://www.spiegel.de/panorama/leute/karlie-kloss-ist-mit-jared-kushners-bruder-verheiratet-donald-trump-hat-sie-aber-wohl-nie-getroffen-a-f40b281c-640e-4c82-aff2-e0923692be85#ref=rss)
+### palliativarzt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt](https://www.spiegel.de/panorama/justiz/berlin-staatsanwalt-fordert-hoechststrafe-fuer-palliativarzt-a-39cb0575-46af-4e25-b826-d3881e5ea684#ref=rss)
+### eröffnet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden](https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden-a-9b0a816b-c433-41a8-8e62-8e8d42265d88#ref=rss)
+### halbleiterwerk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden](https://www.spiegel.de/wirtschaft/unternehmen/infineon-eroeffnet-neues-halbleiterwerk-in-dresden-a-9b0a816b-c433-41a8-8e62-8e8d42265d88#ref=rss)
 
