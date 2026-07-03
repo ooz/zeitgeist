@@ -4,292 +4,307 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### milliarden
 
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab](https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab-a-01fe1365-939f-44a6-9a21-1563f971deb6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance](https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance-a-3f7281f5-177c-4557-8a5e-2b4719e95604#ref=rss)
-* [https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst](https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst-a-cd4079ff-b709-432c-961f-c7c8a42ffd05#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne](https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne-a-cc229c7d-26d9-4288-92f3-d9e59fca632f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance](https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance-a-3f7281f5-177c-4557-8a5e-2b4719e95604#ref=rss)
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-* [https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst](https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst-a-cd4079ff-b709-432c-961f-c7c8a42ffd05#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an](https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an-a-8ff55604-8d2d-475d-9698-1fa17c21f425#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne](https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne-a-cc229c7d-26d9-4288-92f3-d9e59fca632f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-* [https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst](https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst-a-cd4079ff-b709-432c-961f-c7c8a42ffd05#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an](https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an-a-8ff55604-8d2d-475d-9698-1fa17c21f425#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wetter-deutscher-wetterdienst-korrigiert-temperaturrekord-nach-oben](https://www.spiegel.de/wissenschaft/wetter-deutscher-wetterdienst-korrigiert-temperaturrekord-nach-oben-a-099aa73d-e73d-425b-be87-3dad2c053dd1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-techkonzerne-dominieren-die-boersen-deutsche-verlieren-den-anschluss](https://www.spiegel.de/wirtschaft/us-techkonzerne-dominieren-die-boersen-deutsche-verlieren-den-anschluss-a-5a70407d-49a4-4775-ab1f-aa063c6419ff#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille](https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille-a-d0cdf18e-f894-49f1-8c30-cb337531f9ae#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### york
-
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### handofblood
-
-* [https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot](https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot-a-fc80c5bb-3d5c-462c-a803-7110bf18443a#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot](https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot-a-fc80c5bb-3d5c-462c-a803-7110bf18443a#ref=rss)
-### lief
-
-* [https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot](https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot-a-fc80c5bb-3d5c-462c-a803-7110bf18443a#ref=rss)
-* [https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt](https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt-a-e661d6a9-6463-4305-8ccf-60ea4cf3b34c#ref=rss)
-### neben
-
-* [https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot](https://www.spiegel.de/netzwelt/web/handofblood-influencer-spottet-im-zdf-ueber-wm-trinkpausen-per-trinkpausen-spot-a-fc80c5bb-3d5c-462c-a803-7110bf18443a#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier](https://www.spiegel.de/ausland/new-york-mutmasslicher-tibet-aktivist-stirbt-nach-selbstverbrennung-vor-dem-uno-hauptquartier-a-ab2121e3-fb04-402f-87c8-5cee5446a71f#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe](https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe-a-6951ce97-56b1-420b-956b-4960aca32bab#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe](https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe-a-6951ce97-56b1-420b-956b-4960aca32bab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wetter-deutscher-wetterdienst-korrigiert-temperaturrekord-nach-oben](https://www.spiegel.de/wissenschaft/wetter-deutscher-wetterdienst-korrigiert-temperaturrekord-nach-oben-a-099aa73d-e73d-425b-be87-3dad2c053dd1#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe](https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe-a-6951ce97-56b1-420b-956b-4960aca32bab#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe](https://www.spiegel.de/panorama/justiz/nsu-zschaepe-freundin-droht-mehrjaehrige-haftstrafe-a-6951ce97-56b1-420b-956b-4960aca32bab#ref=rss)
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-### anna
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-### netrebko
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### erschöpfung
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-### auftritte
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab](https://www.spiegel.de/kultur/musik/anna-netrebko-und-die-schwere-koerperliche-erschoepfung-opernstar-sagt-auftritte-ab-a-ae19445f-8529-4244-8ba3-91b4b59f2e6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### bnd
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### hybriden
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland](https://www.spiegel.de/politik/deutschland/bnd-bundesregierung-plant-deutlich-mehr-befugnisse-im-hybriden-krieg-mit-russland-a-d473f39b-a632-4bb3-9643-65ade93bf0d2#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch](https://www.spiegel.de/wissenschaft/new-york-city-temperatur-im-central-park-klettert-auf-14-jahres-hoch-a-b37eef2a-3e12-4be9-9022-19c51635b3ea#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot](https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot-a-9e780996-4c39-4823-99f4-9fa00a36d5ef#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht](https://www.spiegel.de/ausland/usa-85-jaehriger-deutscher-stirbt-in-ice-gewahrsam-mann-war-in-pflegeheim-untergebracht-a-0fc7e67a-a743-4bea-8a40-c8985a3354d1#ref=rss)
-* [https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit](https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit-a-0b22b9b9-6a37-44bc-abd5-d3c591a6b4a5#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne](https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne-a-cc229c7d-26d9-4288-92f3-d9e59fca632f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung-a-243ce8e3-41e3-4c65-9a5b-44816da8782e#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne](https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne-a-cc229c7d-26d9-4288-92f3-d9e59fca632f#ref=rss)
-* [https://www.spiegel.de/politik/koalition-will-reformpaket-nicht-zerreden-lassen](https://www.spiegel.de/politik/koalition-will-reformpaket-nicht-zerreden-lassen-a-ae4b016c-396c-47bb-a9c1-069accb72486#ref=rss)
-### ja
-
-* [https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne](https://www.spiegel.de/ausland/donald-trump-verteidigt-millionengeschaefte-seiner-familie-und-seine-soehne-a-cc229c7d-26d9-4288-92f3-d9e59fca632f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-### 250
-
-* [https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab](https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab-a-01fe1365-939f-44a6-9a21-1563f971deb6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance](https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance-a-3f7281f5-177c-4557-8a5e-2b4719e95604#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab](https://www.spiegel.de/kultur/250-jahr-feier-der-usa-von-trumps-pracht-buehne-fallen-waehrend-der-probe-stuecke-ab-a-01fe1365-939f-44a6-9a21-1563f971deb6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance](https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance-a-3f7281f5-177c-4557-8a5e-2b4719e95604#ref=rss)
-### manfred
-
-* [https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot](https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot-a-9e780996-4c39-4823-99f4-9fa00a36d5ef#ref=rss)
-### vorderwülbecke
-
-* [https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot](https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot-a-9e780996-4c39-4823-99f4-9fa00a36d5ef#ref=rss)
-### etwa
-
-* [https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot](https://www.spiegel.de/sport/wintersport/manfred-vorderwuelbecke-der-blickpunkt-sport-erfinder-ist-tot-a-9e780996-4c39-4823-99f4-9fa00a36d5ef#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung-a-243ce8e3-41e3-4c65-9a5b-44816da8782e#ref=rss)
-### polymarket
-
-* [https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche](https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche-a-184dbefe-bd25-4e60-89a0-826bf1a3dba6#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche](https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche-a-184dbefe-bd25-4e60-89a0-826bf1a3dba6#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche](https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche-a-184dbefe-bd25-4e60-89a0-826bf1a3dba6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille](https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille-a-d0cdf18e-f894-49f1-8c30-cb337531f9ae#ref=rss)
-### tasche
-
-* [https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche](https://www.spiegel.de/wirtschaft/polymarket-diese-wettplattform-lockt-jugendliche-an-und-zieht-ihnen-das-geld-aus-der-tasche-a-184dbefe-bd25-4e60-89a0-826bf1a3dba6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen](https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen-a-42292a53-855a-47f4-8b4d-aae80894ea9b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/anti-afd-proteste-wer-parteitage-blockiert-schaedigt-die-demokratie](https://www.spiegel.de/politik/deutschland/anti-afd-proteste-wer-parteitage-blockiert-schaedigt-die-demokratie-a-aed43d22-b6c2-4c98-a7ad-bc9254ae9da2#ref=rss)
-* [https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten](https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten-a-d94a55cf-1d2d-4fbf-9166-1f96cdaf5199#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung-a-243ce8e3-41e3-4c65-9a5b-44816da8782e#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-adoptionen-sinkt-auf-niedrigsten-stand-seit-wiedervereinigung-a-243ce8e3-41e3-4c65-9a5b-44816da8782e#ref=rss)
-* [https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben](https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben-a-42b900c9-7405-4fe9-ad52-d529962b8b21#ref=rss)
-### gökay
-
-* [https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit](https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit-a-0b22b9b9-6a37-44bc-abd5-d3c591a6b4a5#ref=rss)
-### akbulut
-
-* [https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit](https://www.spiegel.de/politik/goekay-akbulut-linkenabgeordnete-erhaelt-strafbefehl-nach-zugstreit-a-0b22b9b9-6a37-44bc-abd5-d3c591a6b4a5#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance](https://www.spiegel.de/ausland/usa-feiern-unabhaengigkeitserklaerung-dieser-250-geburtstag-ist-eine-verpasste-chance-a-3f7281f5-177c-4557-8a5e-2b4719e95604#ref=rss)
-### kid
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-### rock
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten](https://www.spiegel.de/kultur/musik/donald-trump-kid-rock-erzaehlt-von-naechtlichen-anrufen-beim-praesidenten-a-c3c1a9f6-19c9-4bf7-b7fa-f41526136a27#ref=rss)
-* [https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst](https://www.spiegel.de/politik/us-regierung-muss-entfernte-sklaverei-denkmaeler-nicht-wieder-aufstellen-vorerst-a-cd4079ff-b709-432c-961f-c7c8a42ffd05#ref=rss)
-### verbraucherschützer
-
-* [https://www.spiegel.de/netzwelt/verbraucherschuetzer-warnen-vor-falschen-bka-mails](https://www.spiegel.de/netzwelt/verbraucherschuetzer-warnen-vor-falschen-bka-mails-a-642cdf8c-707d-48cd-8357-2d18d8334c7c#ref=rss)
-### warnen
-
-* [https://www.spiegel.de/netzwelt/verbraucherschuetzer-warnen-vor-falschen-bka-mails](https://www.spiegel.de/netzwelt/verbraucherschuetzer-warnen-vor-falschen-bka-mails-a-642cdf8c-707d-48cd-8357-2d18d8334c7c#ref=rss)
-### mönchengladbach
-
-* [https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt](https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt-a-e661d6a9-6463-4305-8ccf-60ea4cf3b34c#ref=rss)
-### gülle
-
-* [https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt](https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt-a-e661d6a9-6463-4305-8ccf-60ea4cf3b34c#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt](https://www.spiegel.de/panorama/moenchengladbach-lkw-auflieger-mit-guelle-umgekippt-strasse-gesperrt-a-e661d6a9-6463-4305-8ccf-60ea4cf3b34c#ref=rss)
-### nürnberg
-
-* [https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben](https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben-a-42b900c9-7405-4fe9-ad52-d529962b8b21#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben](https://www.spiegel.de/panorama/nuernberg-nach-hitzeschaeden-erste-strassenbahnstrecke-wieder-freigegeben-a-42b900c9-7405-4fe9-ad52-d529962b8b21#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille](https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille-a-d0cdf18e-f894-49f1-8c30-cb337531f9ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### drohnen
+* [https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon](https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon-a-ed1fc022-015f-4a63-9d07-e51a8a40bdb4#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen](https://www.spiegel.de/politik/ukraine-vier-tote-und-zehn-verletzte-nach-russischen-drohnen-und-raketenangriffen-a-70a1158b-9a66-4444-84d2-12c4b59ae6d7#ref=rss)
-### ustechkonzerne
+* [https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen](https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen-a-242cadb7-9b6d-4dd9-a90c-f62147c5c942#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner](https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner-a-b9006d0e-3701-48b1-a9ee-bc1d12f8e4d9#ref=rss)
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### wm
 
-* [https://www.spiegel.de/wirtschaft/us-techkonzerne-dominieren-die-boersen-deutsche-verlieren-den-anschluss](https://www.spiegel.de/wirtschaft/us-techkonzerne-dominieren-die-boersen-deutsche-verlieren-den-anschluss-a-5a70407d-49a4-4775-ab1f-aa063c6419ff#ref=rss)
-### reformpaket
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-ef2d9e8b-4308-4a36-9351-b9d7fa7e2b50#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/koalition-will-reformpaket-nicht-zerreden-lassen](https://www.spiegel.de/politik/koalition-will-reformpaket-nicht-zerreden-lassen-a-ae4b016c-396c-47bb-a9c1-069accb72486#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda-a-7d2b1684-f427-4877-a462-7ac83fd220e9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-ef2d9e8b-4308-4a36-9351-b9d7fa7e2b50#ref=rss)
+### ägypten
 
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an](https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an-a-8ff55604-8d2d-475d-9698-1fa17c21f425#ref=rss)
-### eigenen
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-ef2d9e8b-4308-4a36-9351-b9d7fa7e2b50#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen](https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen-a-d36f785c-283b-4608-b1b0-5b0b7ec209b7#ref=rss)
+* [https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse](https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse-a-9ff63def-5761-456c-afdd-f4a7ca514d0d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+### kramnik
+
+* [https://www.spiegel.de/sport/schach/wladimir-kramnik-schach-weltverband-sperrt-ex-weltmeister-wegen-psychischer-gewalt](https://www.spiegel.de/sport/schach/wladimir-kramnik-schach-weltverband-sperrt-ex-weltmeister-wegen-psychischer-gewalt-a-7b40fdfb-95b2-4920-b3f5-fd0677abe521#ref=rss)
+### männer
+
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower-a-9f785b97-d86f-4edb-97be-7ae5110a3a44#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst](https://www.spiegel.de/ausland/iran-donald-trump-hatte-offenbar-sorge-dass-israel-teherans-topdiplomaten-waehrend-verhandlungsrunde-gezielt-toeten-laesst-a-e8a28f13-f7c9-43c8-8ec5-bbf653dfd271#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen](https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen-a-d36f785c-283b-4608-b1b0-5b0b7ec209b7#ref=rss)
-### matthias
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower-a-9f785b97-d86f-4edb-97be-7ae5110a3a44#ref=rss)
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### klopp
 
-* [https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten](https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten-a-d94a55cf-1d2d-4fbf-9166-1f96cdaf5199#ref=rss)
-### helferich
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war](https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war-a-38f5a2b0-abbb-4603-9d65-b1dd80d2d766#ref=rss)
+### amt
 
-* [https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten](https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten-a-d94a55cf-1d2d-4fbf-9166-1f96cdaf5199#ref=rss)
-### werfen
+* [https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck](https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck-a-03d3ae95-461c-4d5e-ace5-afa64dc71541#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland-a-564e11ec-2603-45be-b796-22d608f8308b#ref=rss)
+### spenden
 
-* [https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten](https://www.spiegel.de/politik/matthias-helferich-afd-parteigericht-erlaubt-verbleib-des-abgeordneten-a-d94a55cf-1d2d-4fbf-9166-1f96cdaf5199#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen](https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen-a-d36f785c-283b-4608-b1b0-5b0b7ec209b7#ref=rss)
-### großstädten
+* [https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen](https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen-a-242cadb7-9b6d-4dd9-a90c-f62147c5c942#ref=rss)
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### stade
 
-* [https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen](https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen-a-42292a53-855a-47f4-8b4d-aae80894ea9b#ref=rss)
-### stark
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### chinas
 
-* [https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen](https://www.spiegel.de/wirtschaft/immobilien-angebotsmieten-in-grossstaedten-stark-gestiegen-a-42292a53-855a-47f4-8b4d-aae80894ea9b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille](https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille-a-d0cdf18e-f894-49f1-8c30-cb337531f9ae#ref=rss)
-### syrien
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland-a-564e11ec-2603-45be-b796-22d608f8308b#ref=rss)
+### atomwaffen
 
-* [https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an](https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an-a-8ff55604-8d2d-475d-9698-1fa17c21f425#ref=rss)
-### libanon
+* [https://www.spiegel.de/politik/litauen-will-atomwaffen-stationieren-merz-respektiert-das](https://www.spiegel.de/politik/litauen-will-atomwaffen-stationieren-merz-respektiert-das-a-cb954537-ab82-4c24-8e27-c084fe967a1c#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an](https://www.spiegel.de/ausland/syrien-strebt-keine-militaerische-einmischung-im-libanon-an-a-8ff55604-8d2d-475d-9698-1fa17c21f425#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/litauen-will-atomwaffen-stationieren-merz-respektiert-das](https://www.spiegel.de/politik/litauen-will-atomwaffen-stationieren-merz-respektiert-das-a-cb954537-ab82-4c24-8e27-c084fe967a1c#ref=rss)
+### silo
 
-* [https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille](https://www.spiegel.de/panorama/justiz/anklam-polizei-zieht-betrunkenen-schulbusfahrer-aus-dem-verkehr-2-73-promille-a-d0cdf18e-f894-49f1-8c30-cb337531f9ae#ref=rss)
-### biomethan
+* [https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt](https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt-a-2d35856c-ce5e-4acc-bd0e-589a1bcab665#ref=rss)
+### serie
 
-* [https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen](https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen-a-d36f785c-283b-4608-b1b0-5b0b7ec209b7#ref=rss)
-### gasheizungen
+* [https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt](https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt-a-2d35856c-ce5e-4acc-bd0e-589a1bcab665#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen](https://www.spiegel.de/wirtschaft/soziales/heizungsgesetz-gruene-kritisieren-unionsangaben-zu-biomethan-fuer-gasheizungen-a-d36f785c-283b-4608-b1b0-5b0b7ec209b7#ref=rss)
+* [https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt](https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt-a-2d35856c-ce5e-4acc-bd0e-589a1bcab665#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner](https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner-a-b9006d0e-3701-48b1-a9ee-bc1d12f8e4d9#ref=rss)
+### erde
+
+* [https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt](https://www.spiegel.de/kultur/silo-bei-apple-tv-eine-serie-mit-so-viel-tiefe-dass-es-einem-den-atem-raubt-a-2d35856c-ce5e-4acc-bd0e-589a1bcab665#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben](https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben-a-63bbd8c2-2457-4d63-a01a-9f8d87e53b1c#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+### liveticker
+
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+### achtelfinale
+
+* [https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker](https://www.spiegel.de/sport/wm-2026-live-australien-gegen-aegypten-im-liveticker-a-9c4d3ed2-b412-41f5-908a-83762288fee9#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale-a-a4e97ac7-3676-477c-9a9d-0e3a1a1b65a2#ref=rss)
+### janlennard
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale-a-a4e97ac7-3676-477c-9a9d-0e3a1a1b65a2#ref=rss)
+### struff
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale-a-a4e97ac7-3676-477c-9a9d-0e3a1a1b65a2#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale-a-a4e97ac7-3676-477c-9a9d-0e3a1a1b65a2#ref=rss)
+### früheren
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-jan-lennard-struff-erreicht-erstmals-das-achtelfinale-a-a4e97ac7-3676-477c-9a9d-0e3a1a1b65a2#ref=rss)
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse](https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse-a-9ff63def-5761-456c-afdd-f4a7ca514d0d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse](https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse-a-9ff63def-5761-456c-afdd-f4a7ca514d0d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben](https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben-a-63bbd8c2-2457-4d63-a01a-9f8d87e53b1c#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse](https://www.spiegel.de/panorama/autofahrer-attackiert-feuerwehrmann-mutmasslich-wegen-gesperrter-strasse-a-9ff63def-5761-456c-afdd-f4a7ca514d0d#ref=rss)
+* [https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck](https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck-a-03d3ae95-461c-4d5e-ace5-afa64dc71541#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/sport/schach/wladimir-kramnik-schach-weltverband-sperrt-ex-weltmeister-wegen-psychischer-gewalt](https://www.spiegel.de/sport/schach/wladimir-kramnik-schach-weltverband-sperrt-ex-weltmeister-wegen-psychischer-gewalt-a-7b40fdfb-95b2-4920-b3f5-fd0677abe521#ref=rss)
+### irland
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-eu-welche-rolle-irland-bei-der-ratspraesidentschaft-spielt](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-eu-welche-rolle-irland-bei-der-ratspraesidentschaft-spielt-a-34501798-580c-47f7-962c-8983f3588ded#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-die-eu-welche-rolle-irland-bei-der-ratspraesidentschaft-spielt](https://www.spiegel.de/politik/deutschland/donald-trump-und-die-eu-welche-rolle-irland-bei-der-ratspraesidentschaft-spielt-a-34501798-580c-47f7-962c-8983f3588ded#ref=rss)
+* [https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit](https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit-a-15ad8e7e-2334-464e-b3c2-d5996e74ec7e#ref=rss)
+### lyra
+
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+### mckee
+
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-freispruch-im-mordprozess-um-getoetete-journalistin-lyra-mckee-a-a9064db5-c91c-4e32-872b-6736e7762e84#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+### hitzewelle
+
+* [https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet](https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet-a-35e30165-c525-421b-a34c-8de70c1c70ca#ref=rss)
+### temperaturen
+
+* [https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet](https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet-a-35e30165-c525-421b-a34c-8de70c1c70ca#ref=rss)
+### 40
+
+* [https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet](https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet-a-35e30165-c525-421b-a34c-8de70c1c70ca#ref=rss)
+### grad
+
+* [https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet](https://www.spiegel.de/ausland/spanien-erneute-hitzewelle-mit-temperaturen-ueber-40-grad-erwartet-a-35e30165-c525-421b-a34c-8de70c1c70ca#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+* [https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck](https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck-a-03d3ae95-461c-4d5e-ace5-afa64dc71541#ref=rss)
+### kopf
+
+* [https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/mann-tritt-opfer-gegen-kopf-vier-jahre-haft-a-711438ff-5d7e-42df-adcf-b966699dafc7#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty-a-6a76e6bb-f4df-4c6e-b4af-e3f1267b682f#ref=rss)
+### swift
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty-a-6a76e6bb-f4df-4c6e-b4af-e3f1267b682f#ref=rss)
+### travis
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty-a-6a76e6bb-f4df-4c6e-b4af-e3f1267b682f#ref=rss)
+### kelce
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty-a-6a76e6bb-f4df-4c6e-b4af-e3f1267b682f#ref=rss)
+### jawort
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-vorbereitungen-und-raetselraten-um-jawort-vor-der-hochzeitsparty-a-6a76e6bb-f4df-4c6e-b4af-e3f1267b682f#ref=rss)
+### helden
+
+* [https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon](https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon-a-ed1fc022-015f-4a63-9d07-e51a8a40bdb4#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon](https://www.spiegel.de/ausland/ukraine-streit-um-umstrittene-helden-im-geplanten-nationalpantheon-a-ed1fc022-015f-4a63-9d07-e51a8a40bdb4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda-a-7d2b1684-f427-4877-a462-7ac83fd220e9#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+### lars
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+### 555
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-lars-klingbeil-legt-entwurf-mit-555-milliarden-euro-ausgaben-vor-a-0e70bc5a-2da0-4778-a438-f55124b596a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda-a-7d2b1684-f427-4877-a462-7ac83fd220e9#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-ef2d9e8b-4308-4a36-9351-b9d7fa7e2b50#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+### reformpaket
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko](https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko-a-3824010d-cb17-40b0-9df1-de86242d4665#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuer-bundestrainer-250-jahr-feier-usa-reformpaket-a-278e602a-4ddd-44d2-b2e5-91521ca99537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war](https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war-a-38f5a2b0-abbb-4603-9d65-b1dd80d2d766#ref=rss)
+### alexandru
+
+* [https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck](https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck-a-03d3ae95-461c-4d5e-ace5-afa64dc71541#ref=rss)
+### munteanu
+
+* [https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck](https://www.spiegel.de/ausland/moldau-regierungschef-alexandru-munteanu-tritt-ueberraschend-zurueck-a-03d3ae95-461c-4d5e-ace5-afa64dc71541#ref=rss)
+### antarktis
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben](https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben-a-63bbd8c2-2457-4d63-a01a-9f8d87e53b1c#ref=rss)
+### erklärung
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben](https://www.spiegel.de/wissenschaft/natur/antarktis-wissenschaftler-wollen-raetsel-um-eisschild-geloest-haben-a-63bbd8c2-2457-4d63-a01a-9f8d87e53b1c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner](https://www.spiegel.de/mobilitaet/auto/elektroauto-reichweite-stromer-fahren-mit-derselben-energiemenge-mehr-als-dreimal-so-weit-wie-verbrenner-a-b9006d0e-3701-48b1-a9ee-bc1d12f8e4d9#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower-a-9f785b97-d86f-4edb-97be-7ae5110a3a44#ref=rss)
+### main
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower-a-9f785b97-d86f-4edb-97be-7ae5110a3a44#ref=rss)
+### höhe
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-feuerwehr-rettet-fensterputzer-am-commerzbank-tower-a-9f785b97-d86f-4edb-97be-7ae5110a3a44#ref=rss)
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### sienna
+
+* [https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele](https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele-a-cb12ea08-2978-4e63-bb65-d4ced5150376#ref=rss)
+### spiro
+
+* [https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele](https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele-a-cb12ea08-2978-4e63-bb65-d4ced5150376#ref=rss)
+### debütalbum
+
+* [https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele](https://www.spiegel.de/kultur/musik/sienna-spiro-debuet-album-visitor-ist-das-die-abloesung-fuer-adele-a-cb12ea08-2978-4e63-bb65-d4ced5150376#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war](https://www.spiegel.de/sport/fussball/klopp-ist-auch-nicht-mehr-der-der-er-in-liverpool-war-a-38f5a2b0-abbb-4603-9d65-b1dd80d2d766#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko](https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko-a-3824010d-cb17-40b0-9df1-de86242d4665#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko](https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko-a-3824010d-cb17-40b0-9df1-de86242d4665#ref=rss)
+* [https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit](https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit-a-15ad8e7e-2334-464e-b3c2-d5996e74ec7e#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko](https://www.spiegel.de/politik/deutschland/schwarz-rot-und-die-attest-regelung-das-krankenschein-fiasko-a-3824010d-cb17-40b0-9df1-de86242d4665#ref=rss)
+* [https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit](https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit-a-15ad8e7e-2334-464e-b3c2-d5996e74ec7e#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen](https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen-a-242cadb7-9b6d-4dd9-a90c-f62147c5c942#ref=rss)
+### neues
+
+* [https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen](https://www.spiegel.de/wissenschaft/mensch/naturschutz-und-bauprojekte-abgeschwaechtes-gesetz-zu-ausgleichsflaechen-a-242cadb7-9b6d-4dd9-a90c-f62147c5c942#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
+### chip
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda-a-7d2b1684-f427-4877-a462-7ac83fd220e9#ref=rss)
+### trionda
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda](https://www.spiegel.de/sport/fussball/fussball-wm-2026-so-funktioniert-die-technologie-mit-dem-chip-im-ball-trionda-a-7d2b1684-f427-4877-a462-7ac83fd220e9#ref=rss)
+### penélope
+
+* [https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen](https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen-a-862a89a0-0230-43bd-a353-81cc8a8a56b5#ref=rss)
+### cruz
+
+* [https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen](https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen-a-862a89a0-0230-43bd-a353-81cc8a8a56b5#ref=rss)
+### führerschein
+
+* [https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen](https://www.spiegel.de/panorama/leute/penelope-cruz-will-fuehrerschein-machen-a-862a89a0-0230-43bd-a353-81cc8a8a56b5#ref=rss)
+### tat
+
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### vollwaisen
+
+* [https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden](https://www.spiegel.de/panorama/stade-kinder-nach-tat-von-stade-vollwaisen-mehr-als-600-000-euro-spenden-a-694a938d-62f3-49d8-8682-98e2b2deadb5#ref=rss)
+### krassen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-ef2d9e8b-4308-4a36-9351-b9d7fa7e2b50#ref=rss)
+* [https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit](https://www.spiegel.de/panorama/informationsfreiheitsgesetz-heftige-kritik-an-geplanter-einschraenkung-der-informationsfreiheit-a-15ad8e7e-2334-464e-b3c2-d5996e74ec7e#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-soll-bei-nato-gipfel-milliarden-bekommen-a-386dc46c-1d13-459b-9e44-29cff88105b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland-a-564e11ec-2603-45be-b796-22d608f8308b#ref=rss)
+### gespräch
+
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-zitiert-chinas-botschafter-zum-gespraech-wegen-chinas-zusammenarbeit-mit-russland-a-564e11ec-2603-45be-b796-22d608f8308b#ref=rss)
 
