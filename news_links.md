@@ -4,369 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
+### donald
 
-* [https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen](https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen-a-bba484e4-45af-4578-9a2c-b6b280ac27b6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt](https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt-a-b4db33fe-d639-4f40-ae97-8704e698b424#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen](https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen-a-bba484e4-45af-4578-9a2c-b6b280ac27b6#ref=rss)
-* [https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren](https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren-a-4419212a-b095-463d-98eb-e3200d4c74d5#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist-a-789874bf-97ae-492c-a814-7089007344bb#ref=rss)
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/koeln-rund-1-5-millionen-menschen-feiern-christopher-street-day](https://www.spiegel.de/panorama/koeln-rund-1-5-millionen-menschen-feiern-christopher-street-day-a-cbfd7b2d-7808-444e-b02b-5b497e2a584d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen](https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen-a-ce6c9890-e41e-48d2-9d77-54095ac04ae8#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### wir
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen](https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen-a-82dc719a-2d63-40d2-ad9d-2cd4550923a0#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine](https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine-a-59ce7fbe-15cf-4f62-9c28-6571051074d3#ref=rss)
-### farage
-
-* [https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben](https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben-a-b13aaa1d-9071-4526-a5fe-b51db63bf807#ref=rss)
-### osbourne
-
-* [https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag](https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag-a-7c38d2be-0193-42ce-8e4a-fb7cae805038#ref=rss)
-### erleben
-
-* [https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag](https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag-a-54ce2c76-ae78-4a07-92b6-6607e965626e#ref=rss)
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### wülfershausen
-
-* [https://www.spiegel.de/politik/neuwahl-nach-wahlfaelschung-wuelfershausen-hat-eine-neue-buergermeisterin](https://www.spiegel.de/politik/neuwahl-nach-wahlfaelschung-wuelfershausen-hat-eine-neue-buergermeisterin-a-7c73ff63-d840-4536-83ea-e79a7657d2eb#ref=rss)
-### neu
-
-* [https://www.spiegel.de/politik/neuwahl-nach-wahlfaelschung-wuelfershausen-hat-eine-neue-buergermeisterin](https://www.spiegel.de/politik/neuwahl-nach-wahlfaelschung-wuelfershausen-hat-eine-neue-buergermeisterin-a-7c73ff63-d840-4536-83ea-e79a7657d2eb#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine](https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine-a-59ce7fbe-15cf-4f62-9c28-6571051074d3#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-* [https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren](https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren-a-4419212a-b095-463d-98eb-e3200d4c74d5#ref=rss)
-### folarin
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-### balogun
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus](https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus-a-a1a87518-99a8-4bda-b1f4-2552ca173024#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-### dankt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schiedsrichter-tantashev-erntet-massive-kritik-nach-frankreich-gegen-paraguay-a-82e8060d-f7c4-4e50-beda-692b2c17f328#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert](https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert-a-6ed5ea38-9e40-4d80-b259-66db8e42bb27#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert](https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert-a-6ed5ea38-9e40-4d80-b259-66db8e42bb27#ref=rss)
-### pragmatische
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert](https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert-a-6ed5ea38-9e40-4d80-b259-66db8e42bb27#ref=rss)
-### umsetzung
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert](https://www.spiegel.de/politik/deutschland/lars-klingbeil-im-ard-sommerinterview-pragmatische-umsetzung-von-krankschreibungsregeln-gefordert-a-6ed5ea38-9e40-4d80-b259-66db8e42bb27#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird](https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird-a-065a498c-98ca-4ae9-9d1d-0deb9be7c6e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird](https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird-a-065a498c-98ca-4ae9-9d1d-0deb9be7c6e1#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird](https://www.spiegel.de/sport/fussball/england-vs-mexiko-im-aztekenstadion-warum-die-hoehe-zum-problem-fuer-tuchels-team-wird-a-065a498c-98ca-4ae9-9d1d-0deb9be7c6e1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf](https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf-a-3985a0f3-6584-4d14-8228-04620b2070e5#ref=rss)
-### halbinsel
-
-* [https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf](https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf-a-3985a0f3-6584-4d14-8228-04620b2070e5#ref=rss)
-### hel
-
-* [https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf](https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf-a-3985a0f3-6584-4d14-8228-04620b2070e5#ref=rss)
-### buslinie
-
-* [https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf](https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf-a-3985a0f3-6584-4d14-8228-04620b2070e5#ref=rss)
-### 666
-
-* [https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf](https://www.spiegel.de/ausland/polen-auf-der-halbinsel-hel-fahren-sie-zur-hoelle-mit-dem-flixbus-der-buslinie-666-nur-die-kirche-regt-sich-auf-a-3985a0f3-6584-4d14-8228-04620b2070e5#ref=rss)
-### kopfhörer
-
-* [https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen](https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen-a-bba484e4-45af-4578-9a2c-b6b280ac27b6#ref=rss)
-### max
-
-* [https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen](https://www.spiegel.de/netzwelt/gadgets/sony-1000x-the-collexion-im-test-dieser-kopfhoerer-gibt-musik-raum-zum-atmen-a-bba484e4-45af-4578-9a2c-b6b280ac27b6#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt-a-a75bb735-013c-43d9-8d07-131fe59ed1c7#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt-a-a75bb735-013c-43d9-8d07-131fe59ed1c7#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt-a-a75bb735-013c-43d9-8d07-131fe59ed1c7#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt-a-a75bb735-013c-43d9-8d07-131fe59ed1c7#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-laesst-teamkollege-isaac-del-toro-in-barcelona-den-vortritt-a-a75bb735-013c-43d9-8d07-131fe59ed1c7#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### silverstone
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-### charles
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-### leclerc
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-### antonelli
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-charles-leclerc-gewinnt-kimi-antonelli-wird-opfer-der-technik-a-515c1d54-d115-4ad2-a670-cb73b8cefd16#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/koeln-rund-1-5-millionen-menschen-feiern-christopher-street-day](https://www.spiegel.de/panorama/koeln-rund-1-5-millionen-menschen-feiern-christopher-street-day-a-cbfd7b2d-7808-444e-b02b-5b497e2a584d#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen](https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen-a-ce6c9890-e41e-48d2-9d77-54095ac04ae8#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### leipziger
-
-* [https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen](https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen-a-ce6c9890-e41e-48d2-9d77-54095ac04ae8#ref=rss)
-### betrieb
-
-* [https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen](https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen-a-ce6c9890-e41e-48d2-9d77-54095ac04ae8#ref=rss)
-* [https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen](https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen-a-46c480f3-eb5f-4b17-8354-9a558d4b2950#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen](https://www.spiegel.de/panorama/nach-hitze-in-leipzig-strassenbahnverkehr-nach-schaeden-groesstenteils-wieder-angelaufen-a-ce6c9890-e41e-48d2-9d77-54095ac04ae8#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist-a-789874bf-97ae-492c-a814-7089007344bb#ref=rss)
-### swift
-
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist-a-789874bf-97ae-492c-a814-7089007344bb#ref=rss)
-### travis
-
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist-a-789874bf-97ae-492c-a814-7089007344bb#ref=rss)
-### kelce
-
-* [https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist](https://www.spiegel.de/kultur/taylor-swift-und-travis-kelce-was-bisher-ueber-die-feier-bekannt-geworden-ist-a-789874bf-97ae-492c-a814-7089007344bb#ref=rss)
-### nonnen
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-### 16
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-### jahrhunderts
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen](https://www.spiegel.de/karriere/karrieretipps-was-wir-von-nonnen-des-16-jahrhunderts-fuer-unseren-job-lernen-koennen-a-2ed549ee-2db6-4005-a0f7-fb4dc886bdc8#ref=rss)
-* [https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag](https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag-a-54ce2c76-ae78-4a07-92b6-6607e965626e#ref=rss)
-### nigel
-
-* [https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben](https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben-a-b13aaa1d-9071-4526-a5fe-b51db63bf807#ref=rss)
-### vorteile
-
-* [https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben](https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben-a-b13aaa1d-9071-4526-a5fe-b51db63bf807#ref=rss)
-### kryptounternehmer
-
-* [https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben](https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben-a-b13aaa1d-9071-4526-a5fe-b51db63bf807#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben](https://www.spiegel.de/ausland/grossbritannien-nigel-farage-soll-vorteile-von-dubiosem-kryptounternehmer-erhalten-haben-a-b13aaa1d-9071-4526-a5fe-b51db63bf807#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen](https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen-a-46c480f3-eb5f-4b17-8354-9a558d4b2950#ref=rss)
-### catania
-
-* [https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen](https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen-a-46c480f3-eb5f-4b17-8354-9a558d4b2950#ref=rss)
-### asche
-
-* [https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen](https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen-a-46c480f3-eb5f-4b17-8354-9a558d4b2950#ref=rss)
-### ätna
-
-* [https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen](https://www.spiegel.de/panorama/flughafen-catania-auf-sizilien-asche-des-aetna-behindert-starts-und-landungen-a-46c480f3-eb5f-4b17-8354-9a558d4b2950#ref=rss)
-### abend
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen](https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-achtelfinal-spielen-am-abend-und-in-der-nacht-wissen-a-7d852312-f3ba-4d76-bacb-eb10810e037d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
-### influencerin
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### rosa
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### jacob
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-### liebe
-
-* [https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen](https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss)
-* [https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag](https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag-a-7c38d2be-0193-42ce-8e4a-fb7cae805038#ref=rss)
-### sharon
-
-* [https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag](https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag-a-7c38d2be-0193-42ce-8e4a-fb7cae805038#ref=rss)
-### ozzy
-
-* [https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag](https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag-a-7c38d2be-0193-42ce-8e4a-fb7cae805038#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag](https://www.spiegel.de/kultur/sharon-osbourne-gedenkt-ozzy-osbourne-auf-instagram-an-ihrem-hochzeitstag-a-7c38d2be-0193-42ce-8e4a-fb7cae805038#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss)
-### jens
-
-* [https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren](https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren-a-4419212a-b095-463d-98eb-e3200d4c74d5#ref=rss)
-### stoltenberg
-
-* [https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren](https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren-a-4419212a-b095-463d-98eb-e3200d4c74d5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren](https://www.spiegel.de/ausland/jens-stoltenberg-die-europaeer-haetten-frueher-anfangen-sollen-mehr-in-die-verteidigung-zu-investieren-a-4419212a-b095-463d-98eb-e3200d4c74d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen](https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen-a-82dc719a-2d63-40d2-ad9d-2cd4550923a0#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen](https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen-a-82dc719a-2d63-40d2-ad9d-2cd4550923a0#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt](https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt-a-5d39ba3b-5fea-4eba-bc47-37e95839e28f#ref=rss)
-### marina
-
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt](https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt-a-5d39ba3b-5fea-4eba-bc47-37e95839e28f#ref=rss)
-### alalamein
-
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt](https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt-a-5d39ba3b-5fea-4eba-bc47-37e95839e28f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus](https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus-a-a1a87518-99a8-4bda-b1f4-2552ca173024#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-bautaetigkeit-erneut-gesunken-wohnungswirtschaft-warnt-vor-kollaps-beim-neubau](https://www.spiegel.de/wirtschaft/immobilien-bautaetigkeit-erneut-gesunken-wohnungswirtschaft-warnt-vor-kollaps-beim-neubau-a-544d5278-2aeb-474f-ba0d-34e083b60f4e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+### wm
+
+* [https://www.spiegel.de/panorama/panini-boerse-in-hamburg-hier-ist-kein-einziges-kind-am-handy](https://www.spiegel.de/panorama/panini-boerse-in-hamburg-hier-ist-kein-einziges-kind-am-handy-a-2cf9aa95-b9f1-4a4d-83ca-0d16f42dafd5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so](https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so-a-a443fbb9-3307-4053-9ad6-952fa6b596d3#ref=rss)
+### balogun
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal](https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal-a-4accdd46-084d-4071-93d3-f1455309dfd2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so](https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so-a-a443fbb9-3307-4053-9ad6-952fa6b596d3#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast](https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast-a-3d1a58a0-1766-4635-ad5a-f715efd661a1#ref=rss)
+### reiner
+
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+* [https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend](https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend-a-48a2de70-99bf-4580-bd32-f8da64590c12#ref=rss)
+* [https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran](https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran-a-10bbea97-7722-40b4-bb7d-ff164a3d4098#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt](https://www.spiegel.de/wissenschaft/mensch/aegypten-archaeologen-finden-2000-jahre-alte-graeber-in-marina-al-alamein-und-byzantinische-stadt-a-5d39ba3b-5fea-4eba-bc47-37e95839e28f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt](https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt-a-b4db33fe-d639-4f40-ae97-8704e698b424#ref=rss)
-### zugtickets
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren](https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren-a-20768c12-00aa-4dee-8b3d-41f9380e9834#ref=rss)
+### folarin
 
-* [https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme](https://www.spiegel.de/ausland/hilfe-gegen-hitze-in-leipzig-und-anderswo-billigere-zugtickets-tipps-gegen-po-probleme-a-5c2b3f3c-ba94-4db5-947f-d4c202ca7188#ref=rss)
-### bezahlt
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+### fifa
 
-* [https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt](https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt-a-b4db33fe-d639-4f40-ae97-8704e698b424#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt](https://www.spiegel.de/panorama/gesellschaft/schwalmstadt-hessen-anonymer-spender-erklaert-warum-er-jugendlichen-freibad-eintritt-bezahlt-a-b4db33fe-d639-4f40-ae97-8704e698b424#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
-### asma
-
-* [https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine](https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine-a-59ce7fbe-15cf-4f62-9c28-6571051074d3#ref=rss)
-### mhalla
-
-* [https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine](https://www.spiegel.de/kultur/literatur/asma-mhalla-ueber-den-technofaschismus-gehirne-an-der-leine-a-59ce7fbe-15cf-4f62-9c28-6571051074d3#ref=rss)
-### australien
-
-* [https://www.spiegel.de/panorama/australien-verdaechtige-space-balls-koennten-gefaehrlicher-weltraumschrott-sein](https://www.spiegel.de/panorama/australien-verdaechtige-space-balls-koennten-gefaehrlicher-weltraumschrott-sein-a-b00e2afc-36e5-4df2-b3b2-795deedc793f#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
 ### harry
 
-* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt](https://www.spiegel.de/panorama/leute/prinz-harry-reist-ohne-meghan-und-die-kinder-nach-london-polizeischutz-abgelehnt-a-8cc30622-4ea1-49b5-8a49-ac8200c5a57d#ref=rss)
-### medizin
+* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz](https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz-a-960306aa-9e6b-4317-a54c-59e9c2709538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+### england
 
-* [https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag](https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag-a-54ce2c76-ae78-4a07-92b6-6607e965626e#ref=rss)
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### berichten
+* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz](https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz-a-960306aa-9e6b-4317-a54c-59e9c2709538#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag](https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag-a-54ce2c76-ae78-4a07-92b6-6607e965626e#ref=rss)
-### übergriffen
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte-a-046e62bf-97a2-4c90-b48c-1ce0a39727d6#ref=rss)
+* [https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend](https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend-a-48a2de70-99bf-4580-bd32-f8da64590c12#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag](https://www.spiegel.de/start/sexismus-in-der-medizin-aerztinnen-berichten-von-uebergriffen-im-klinikalltag-a-54ce2c76-ae78-4a07-92b6-6607e965626e#ref=rss)
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### waldbrände
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung-a-948eef44-6045-412f-bf41-4ef097a11a0b#ref=rss)
+### mutmaßliche
 
-* [https://www.spiegel.de/wissenschaft/natur/frankreich-griechenland-spanien-portugal-waldbraende-wueten-in-europa](https://www.spiegel.de/wissenschaft/natur/frankreich-griechenland-spanien-portugal-waldbraende-wueten-in-europa-a-eca192ab-c0bb-4e51-9db0-b5c27b845f47#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet](https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet-a-3ac22bcf-7e7c-4f40-90ec-81571fe96c92#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wissenschaft/natur/frankreich-griechenland-spanien-portugal-waldbraende-wueten-in-europa](https://www.spiegel.de/wissenschaft/natur/frankreich-griechenland-spanien-portugal-waldbraende-wueten-in-europa-a-eca192ab-c0bb-4e51-9db0-b5c27b845f47#ref=rss)
-### patriot
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-deutsche-politiker-empoert-ueber-mutmassliche-trump-einmischung-a-d02eff8c-f785-409d-9c64-f25492d3fa41#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch](https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch-a-9ddc0f3e-0500-44a6-a179-3341ec5a586a#ref=rss)
-### front
+* [https://www.spiegel.de/panorama/panini-boerse-in-hamburg-hier-ist-kein-einziges-kind-am-handy](https://www.spiegel.de/panorama/panini-boerse-in-hamburg-hier-ist-kein-einziges-kind-am-handy-a-2cf9aa95-b9f1-4a4d-83ca-0d16f42dafd5#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde](https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde-a-2918bc9b-fe0d-48ee-835c-86da26138eb1#ref=rss)
+### benötigt
 
-* [https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch](https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch-a-9ddc0f3e-0500-44a6-a179-3341ec5a586a#ref=rss)
-### feierlichkeiten
+* [https://www.spiegel.de/wirtschaft/immobilien-bautaetigkeit-erneut-gesunken-wohnungswirtschaft-warnt-vor-kollaps-beim-neubau](https://www.spiegel.de/wirtschaft/immobilien-bautaetigkeit-erneut-gesunken-wohnungswirtschaft-warnt-vor-kollaps-beim-neubau-a-544d5278-2aeb-474f-ba0d-34e083b60f4e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten](https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten-a-b45a7680-692e-4b2c-8d71-eb86bff2ddd8#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch](https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch-a-9ddc0f3e-0500-44a6-a179-3341ec5a586a#ref=rss)
-### washington
+* [https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten](https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten-a-b45a7680-692e-4b2c-8d71-eb86bff2ddd8#ref=rss)
+### tage
 
-* [https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch](https://www.spiegel.de/ausland/usa-patriot-front-nutzt-feierlichkeiten-in-washington-d-c-fuer-aufmarsch-a-9ddc0f3e-0500-44a6-a179-3341ec5a586a#ref=rss)
-### frauen
+* [https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten](https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten-a-b45a7680-692e-4b2c-8d71-eb86bff2ddd8#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### missbrauch
+* [https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten](https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten-a-b45a7680-692e-4b2c-8d71-eb86bff2ddd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung-a-948eef44-6045-412f-bf41-4ef097a11a0b#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### ausbildung
+* [https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten](https://www.spiegel.de/kultur/tv/streaming-menschen-verbringen-jedes-jahr-mehrere-tage-mit-der-auswahl-von-streaminginhalten-a-b45a7680-692e-4b2c-8d71-eb86bff2ddd8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+### rob
 
-* [https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung](https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss)
-### halbe
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+### sketch
 
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss)
-### billion
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+### worte
 
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump](https://www.spiegel.de/kultur/tv/rob-reiner-sein-letzter-sketch-war-ein-seitenhieb-auf-donald-trump-a-49da67aa-de21-4b57-95a0-558006105fa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung-a-948eef44-6045-412f-bf41-4ef097a11a0b#ref=rss)
+### remscheid
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht](https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht-a-35e376da-dd2a-4784-a262-f7617ae808e8#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht](https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht-a-35e376da-dd2a-4784-a262-f7617ae808e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte-a-046e62bf-97a2-4c90-b48c-1ce0a39727d6#ref=rss)
+### waffenlager
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht](https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht-a-35e376da-dd2a-4784-a262-f7617ae808e8#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht](https://www.spiegel.de/panorama/justiz/remscheid-mann-gesteht-im-prozess-um-waffenlager-vor-wuppertaler-gericht-a-35e376da-dd2a-4784-a262-f7617ae808e8#ref=rss)
+### nordmeer
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+### russisches
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+### aufklärungsflugzeug
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### london
+
+* [https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben](https://www.spiegel.de/ausland/vorfall-im-nordmeer-russisches-aufklaerungsflugzeug-soll-sonobojen-neben-britischem-flugzeugtraeger-abgeworfen-haben-a-83945018-cc7f-4e16-821f-2768c27f354d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz](https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz-a-960306aa-9e6b-4317-a54c-59e9c2709538#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+### segler
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+### malizia
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+### 4
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht](https://www.spiegel.de/sport/boris-herrmann-segler-hat-mit-malizia-4-eine-neue-rennyacht-a-1fd10987-e3eb-4837-bd47-7bb51d3ff4f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll](https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll-a-2aae8821-ea03-4d96-94d3-9d01a88be155#ref=rss)
+### fall
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-england-steht-nach-abwehrschlacht-gegen-mexiko-im-viertelfinale-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun](https://www.spiegel.de/sport/fussball/fussball-wm-2026-donald-trump-gianni-infantino-und-der-fall-folarin-balogun-a-3b4a2638-28d8-4e3a-be67-445264bf2f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so](https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so-a-a443fbb9-3307-4053-9ad6-952fa6b596d3#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz](https://www.spiegel.de/panorama/leute/prinz-harry-reist-nach-london-jetzt-gibt-es-streit-ueber-seinen-schlafplatz-a-960306aa-9e6b-4317-a54c-59e9c2709538#ref=rss)
+### easyjet
+
+* [https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf](https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf-a-abebe26a-22ad-45cb-be20-632fdb1a374d#ref=rss)
+### übernahme
+
+* [https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf](https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf-a-abebe26a-22ad-45cb-be20-632fdb1a374d#ref=rss)
+### usinvestor
+
+* [https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf](https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf-a-abebe26a-22ad-45cb-be20-632fdb1a374d#ref=rss)
+### castlelake
+
+* [https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf](https://www.spiegel.de/wirtschaft/easyjet-gibt-widerstand-gegen-uebernahme-von-us-investor-castlelake-auf-a-abebe26a-22ad-45cb-be20-632fdb1a374d#ref=rss)
+### ich
+
+* [https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde](https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde-a-2918bc9b-fe0d-48ee-835c-86da26138eb1#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren](https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren-a-20768c12-00aa-4dee-8b3d-41f9380e9834#ref=rss)
+### student
+
+* [https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde](https://www.spiegel.de/panorama/hamburg-wie-ich-als-student-zeuge-eines-flugzeugungluecks-wurde-a-2918bc9b-fe0d-48ee-835c-86da26138eb1#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast](https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast-a-3d1a58a0-1766-4635-ad5a-f715efd661a1#ref=rss)
+### nsdap
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast](https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast-a-3d1a58a0-1766-4635-ad5a-f715efd661a1#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast](https://www.spiegel.de/ausland/oesterreich-wie-die-nsdap-so-stark-werden-konnte-podcast-a-3d1a58a0-1766-4635-ad5a-f715efd661a1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-beraet-kuenftig-eine-daenische-investmentgesellschaft](https://www.spiegel.de/politik/deutschland/robert-habeck-beraet-kuenftig-eine-daenische-investmentgesellschaft-a-3229c444-d2e9-496f-9994-fb97db3fbe44#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-beraet-kuenftig-eine-daenische-investmentgesellschaft](https://www.spiegel.de/politik/deutschland/robert-habeck-beraet-kuenftig-eine-daenische-investmentgesellschaft-a-3229c444-d2e9-496f-9994-fb97db3fbe44#ref=rss)
+### zuschauer
+
+* [https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren](https://www.spiegel.de/sport/fussball/england-besiegt-mexiko-bei-wm-den-tank-bis-auf-den-allerletzten-tropfen-leergefahren-a-d1a7a53f-6ec3-4d95-81f0-c951fd423e22#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal](https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal-a-4accdd46-084d-4071-93d3-f1455309dfd2#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal](https://www.spiegel.de/sport/fussball/reaktionen-aus-oslo-auf-wm-sieg-gegen-brasilien-es-ist-voellig-surreal-a-4accdd46-084d-4071-93d3-f1455309dfd2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so](https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so-a-a443fbb9-3307-4053-9ad6-952fa6b596d3#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung-a-948eef44-6045-412f-bf41-4ef097a11a0b#ref=rss)
+### teil
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-spd-sozialexperte-fordert-zehn-jahres-frist-fuer-abschaffung-a-948eef44-6045-412f-bf41-4ef097a11a0b#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+### bruce
+
+* [https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus](https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus-a-a1a87518-99a8-4bda-b1f4-2552ca173024#ref=rss)
+### springsteen
+
+* [https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus](https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus-a-a1a87518-99a8-4bda-b1f4-2552ca173024#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus](https://www.spiegel.de/kultur/musik/bruce-springsteen-verteidigt-kritischen-patriotismus-a-a1a87518-99a8-4bda-b1f4-2552ca173024#ref=rss)
+* [https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran](https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran-a-10bbea97-7722-40b4-bb7d-ff164a3d4098#ref=rss)
+### kapitalrente
+
+* [https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll](https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll-a-2aae8821-ea03-4d96-94d3-9d01a88be155#ref=rss)
+### anja
+
+* [https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll](https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll-a-2aae8821-ea03-4d96-94d3-9d01a88be155#ref=rss)
+### mikus
+
+* [https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll](https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll-a-2aae8821-ea03-4d96-94d3-9d01a88be155#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll](https://www.spiegel.de/wirtschaft/kapitalrente-wie-anja-mikus-milliarden-fuer-die-altersvorsorge-anlegen-soll-a-2aae8821-ea03-4d96-94d3-9d01a88be155#ref=rss)
+### offenburg
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schuesse-in-offenburg-ein-toter-eine-schwerverletzte-a-046e62bf-97a2-4c90-b48c-1ce0a39727d6#ref=rss)
+### südfrankreich
+
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### tour
+
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### de
+
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### france
+
+* [https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus](https://www.spiegel.de/panorama/hitzewelle-in-suedfrankreich-waldbrandgefahr-bremst-die-tour-de-france-aus-a-dd650acf-5c02-4230-8df5-1f1e48d0fdea#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend](https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend-a-48a2de70-99bf-4580-bd32-f8da64590c12#ref=rss)
+### destabilisierend
+
+* [https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend](https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend-a-48a2de70-99bf-4580-bd32-f8da64590c12#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend](https://www.spiegel.de/ausland/australien-regierung-kritisiert-chinesischen-raketentest-als-destabilisierend-a-48a2de70-99bf-4580-bd32-f8da64590c12#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so](https://www.spiegel.de/sport/fussball/wm-aus-fuer-brasilien-gegen-norwegen-eine-aera-endet-und-das-ist-gut-so-a-a443fbb9-3307-4053-9ad6-952fa6b596d3#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-studie-unternehmen-befuerchten-schwaechung-der-demokratie](https://www.spiegel.de/wirtschaft/bertelsmann-studie-unternehmen-befuerchten-schwaechung-der-demokratie-a-ffd9ccb7-8baf-4441-acff-91ffe9aa4440#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+### york
+
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+### wasserflugzeug
+
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren](https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren-a-20768c12-00aa-4dee-8b3d-41f9380e9834#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river](https://www.spiegel.de/panorama/new-york-city-bruchlandung-wasserflugzeug-kentert-im-east-river-a-50f7d79b-dba4-48ed-8607-5d91ca43da9c#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet](https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet-a-3ac22bcf-7e7c-4f40-90ec-81571fe96c92#ref=rss)
+### ali
+
+* [https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran](https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran-a-10bbea97-7722-40b4-bb7d-ff164a3d4098#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran](https://www.spiegel.de/ausland/iran-prozession-geleitet-ali-khameneis-leichnam-durch-teheran-a-10bbea97-7722-40b4-bb7d-ff164a3d4098#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet](https://www.spiegel.de/panorama/berlin-neukoelln-patient-in-krankenhaus-getoetet-a-3ac22bcf-7e7c-4f40-90ec-81571fe96c92#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren](https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren-a-20768c12-00aa-4dee-8b3d-41f9380e9834#ref=rss)
+### trümmern
+
+* [https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren](https://www.spiegel.de/panorama/erdbeben-in-venezuela-gerettet-nach-acht-tagen-unter-truemmern-ich-wurde-wiedergeboren-a-20768c12-00aa-4dee-8b3d-41f9380e9834#ref=rss)
 
