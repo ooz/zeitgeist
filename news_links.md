@@ -4,387 +4,401 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### natogipfel
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-* [https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei](https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei-a-cee68b63-ae9d-40ce-a423-d60a920d04d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-* [https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration](https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration-a-a3929fcc-a510-49fa-934b-4f9afb2da042#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest](https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest-a-556beb9d-65ad-448a-a0e0-71d0afbb76fb#ref=rss)
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/neuwagen-erweiterter-notbremsassistent-soll-auch-fussgaenger-und-radfahrer-schuetzen](https://www.spiegel.de/mobilitaet/auto/neuwagen-erweiterter-notbremsassistent-soll-auch-fussgaenger-und-radfahrer-schuetzen-a-ab03bb5c-cb49-4572-9083-6cf63ab7d28d#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-* [https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege](https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege-a-ef2022b4-9e9c-4414-ae15-c877eae5f20d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-* [https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration](https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration-a-a3929fcc-a510-49fa-934b-4f9afb2da042#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### greift
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft](https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft-a-343c3d33-fd02-46a8-bbc6-a384205f2704#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-* [https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei](https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei-a-cee68b63-ae9d-40ce-a423-d60a920d04d3#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### lars
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-### swift
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-### fans
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### balogun
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
 ### deutlich
 
-* [https://www.spiegel.de/mobilitaet/auto/neuwagen-erweiterter-notbremsassistent-soll-auch-fussgaenger-und-radfahrer-schuetzen](https://www.spiegel.de/mobilitaet/auto/neuwagen-erweiterter-notbremsassistent-soll-auch-fussgaenger-und-radfahrer-schuetzen-a-ab03bb5c-cb49-4572-9083-6cf63ab7d28d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf-a-75cf7d79-796a-4e13-a258-ac2ce3902c42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-### haushaltsentwurf
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe](https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe-a-c6a4cec6-7199-47e8-8073-7c07a43497ff#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen](https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen-a-ed85f6a5-cf1d-4df0-9342-5655cb8fe978#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-### ankara
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei](https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei-a-cee68b63-ae9d-40ce-a423-d60a920d04d3#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-angriffe-vor-nato-gipfel-gemeldet-a-4842984e-2426-4ca0-89ea-b12c01f76c8f#ref=rss)
-* [https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege](https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege-a-ef2022b4-9e9c-4414-ae15-c877eae5f20d#ref=rss)
-### verhaftungswelle
-
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel](https://www.spiegel.de/ausland/tuerkei-menschenrechtlerin-kritisiert-verhaftungswelle-vor-nato-gipfel-a-f95e4e45-4794-497b-b5ff-2c75031c427e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-### verwaltung
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-### technokraten
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-### übergeben
-
-* [https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben](https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf-a-75cf7d79-796a-4e13-a258-ac2ce3902c42#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt](https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
-### audi
-
-* [https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft](https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft-a-343c3d33-fd02-46a8-bbc6-a384205f2704#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft](https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft-a-343c3d33-fd02-46a8-bbc6-a384205f2704#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft](https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft-a-343c3d33-fd02-46a8-bbc6-a384205f2704#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft](https://www.spiegel.de/panorama/berlin-audi-rammt-tunnelwand-auf-der-a111-mann-in-haft-a-343c3d33-fd02-46a8-bbc6-a384205f2704#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-### travis
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-### kelce
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf](https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf-a-714d8c85-6bf3-420f-8a30-6c0cd71c10d5#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen](https://www.spiegel.de/netzwelt/taylor-swift-und-travis-kelce-wie-nutzer-mit-fake-hochzeitsbildern-von-taylor-swift-viral-gehen-a-3a2b7634-5039-4a4f-bda5-7a3fe4c0cec6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### menschenhandel
-
-* [https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest](https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest-a-556beb9d-65ad-448a-a0e0-71d0afbb76fb#ref=rss)
-### interpol
-
-* [https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest](https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest-a-556beb9d-65ad-448a-a0e0-71d0afbb76fb#ref=rss)
-### personen
-
-* [https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest](https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest-a-556beb9d-65ad-448a-a0e0-71d0afbb76fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest](https://www.spiegel.de/panorama/justiz/menschenhandel-interpol-nimmt-1024-personen-fest-a-556beb9d-65ad-448a-a0e0-71d0afbb76fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### news
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-### fall
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### fifapräsident
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei](https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei-a-cee68b63-ae9d-40ce-a423-d60a920d04d3#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei](https://www.spiegel.de/ausland/ruestung-benjamin-netanjahu-warnt-vor-kampfjet-deal-zwischen-usa-und-tuerkei-a-cee68b63-ae9d-40ce-a423-d60a920d04d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada](https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada-a-4c3fac7b-9f03-4ba2-a234-4aaada02da2a#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-### brände
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-vor-jonas-vingegaard-das-fahrradbrennen-a-d884ba91-cf0d-415a-afdc-40bc471cea4d#ref=rss)
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### deadly
-
-* [https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro](https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro-a-5bb07225-80b1-47e1-81ad-364c91a3135b#ref=rss)
-### patient
-
-* [https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro](https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro-a-5bb07225-80b1-47e1-81ad-364c91a3135b#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro](https://www.spiegel.de/kultur/deadly-patient-amazon-loescht-vergurkte-ki-synchro-a-5bb07225-80b1-47e1-81ad-364c91a3135b#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf-a-75cf7d79-796a-4e13-a258-ac2ce3902c42#ref=rss)
-### euro
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-plant-megareserve-fuer-brenner-nordzulauf-a-75cf7d79-796a-4e13-a258-ac2ce3902c42#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen](https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen-a-ed85f6a5-cf1d-4df0-9342-5655cb8fe978#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss)
-### sri
-
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-### lanka
-
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
+* [https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich](https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich-a-b329f2d1-62e6-437a-ba78-b0270e06df12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen](https://www.spiegel.de/ausland/sri-lanka-mindestens-26-tote-bei-gefaengnisausschreitungen-a-dbbea117-9b4f-4ffd-9db0-2127173904d8#ref=rss)
-* [https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege](https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege-a-ef2022b4-9e9c-4414-ae15-c877eae5f20d#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-### 1000
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor](https://www.spiegel.de/wissenschaft/waldbraende-in-diesem-jahr-wueteten-fast-1000-braende-in-europa-doppelt-so-viele-wie-im-zeitraum-zuvor-a-448f475f-bf6c-4ddc-9892-58b028ba51a6#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen](https://www.spiegel.de/panorama/bildung/verbeamtung-warum-zwei-lehrer-1000-euro-netto-trennen-a-ed85f6a5-cf1d-4df0-9342-5655cb8fe978#ref=rss)
-### schifffahrt
-
-* [https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe](https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe-a-c6a4cec6-7199-47e8-8073-7c07a43497ff#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe](https://www.spiegel.de/wirtschaft/schifffahrt-reedereien-setzen-trotz-irankrieg-auf-fossile-brennstoffe-a-c6a4cec6-7199-47e8-8073-7c07a43497ff#ref=rss)
-### fliege
-
-* [https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege](https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege-a-ef2022b4-9e9c-4414-ae15-c877eae5f20d#ref=rss)
-### tier
-
-* [https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege](https://www.spiegel.de/panorama/viersen-bus-unfall-mit-vier-verletzten-wegen-fliege-a-ef2022b4-9e9c-4414-ae15-c877eae5f20d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
-### verteidigungsausgaben
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump](https://www.spiegel.de/politik/deutschland/nato-gipfel-friedrich-merz-verteidigt-deutsche-verteidigungsausgaben-vor-donald-trump-a-6fa20054-a05c-480d-b9d1-60f93b964cfb#ref=rss)
-### heizungsgesetz
-
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### studie
-
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### kritisieren
-
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene](https://www.spiegel.de/politik/heizungsgesetz-von-katherina-reiche-studie-gruene-und-bund-kritisieren-gas-plaene-a-3e70b5d9-e226-4c28-9ecf-c2544bb42238#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027](https://www.spiegel.de/wirtschaft/bundesregierung-kabinett-beschliesst-haushaltsentwurf-fuer-2027-a-5b1af281-a43b-4fb2-a3f7-15549a3ec1c6#ref=rss)
-### tkms
-
-* [https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada](https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada-a-4c3fac7b-9f03-4ba2-a234-4aaada02da2a#ref=rss)
-### thyssenkrupptochter
-
-* [https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada](https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada-a-4c3fac7b-9f03-4ba2-a234-4aaada02da2a#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada](https://www.spiegel.de/wirtschaft/tkms-thyssenkrupp-tochter-laut-bericht-favorit-fuer-u-boot-deal-in-kanada-a-4c3fac7b-9f03-4ba2-a234-4aaada02da2a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### nina
-
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### chuba
-
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### gut
-
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf](https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf-a-714d8c85-6bf3-420f-8a30-6c0cd71c10d5#ref=rss)
-### teils
-
-* [https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind](https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss)
-### supertaifun
-
-* [https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota](https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota-a-fa35b647-4125-4e9f-bcdd-9f552b2d437b#ref=rss)
-### bavi
-
-* [https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota](https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota-a-fa35b647-4125-4e9f-bcdd-9f552b2d437b#ref=rss)
-### ikkimel
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf](https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf-a-714d8c85-6bf3-420f-8a30-6c0cd71c10d5#ref=rss)
-### publikum
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf](https://www.spiegel.de/kultur/musik/ikkimel-irritiert-publikum-beim-zdf-a-714d8c85-6bf3-420f-8a30-6c0cd71c10d5#ref=rss)
-### lydia
-
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
-### möcklinghoff
-
-* [https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf](https://www.spiegel.de/wissenschaft/natur/lydia-moecklinghoff-ist-tot-ein-leben-fuer-den-ameisenbaer-nachruf-a-c90e5129-4e4c-4bf7-b4a7-a43087258e5c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden](https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden-a-d1fb0c4f-3694-4afc-9aa8-53708dcaf915#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### ersten
+* [https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen](https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen-a-92170358-f1b4-45e6-9ab3-551c89100bdb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tschechien-neonazi-marla-svenja-liebich-darf-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/tschechien-neonazi-marla-svenja-liebich-darf-nach-deutschland-ausgeliefert-werden-a-d82cabab-8bb7-4fd6-9763-00bcda51f389#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### bier
 
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### halbjahr
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### tot
 
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/grenzkontrollen-unerlaubte-einreisen-nach-deutschland-im-ersten-halbjahr-2026-deutlich-gesunken-a-e175fc6c-b760-419f-a3cf-8a6935317ac3#ref=rss)
-### fußball
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### missbraucht
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht](https://www.spiegel.de/sport/fussball/donald-trump-und-gianni-infantino-die-bromanze-die-den-fussball-missbraucht-a-0d2f7efd-a713-4a46-a135-7b85f7024143#ref=rss)
-### machtdemonstration
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung](https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung-a-293313c1-c2cc-4cfa-bc55-d6bc4026b0bf#ref=rss)
+### plant
 
-* [https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration](https://www.spiegel.de/ausland/iran-trauerzeremonie-fuer-ali-khamenei-wird-zur-machtdemonstration-a-a3929fcc-a510-49fa-934b-4f9afb2da042#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### donald
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung](https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung-a-293313c1-c2cc-4cfa-bc55-d6bc4026b0bf#ref=rss)
+### trump
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung](https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung-a-293313c1-c2cc-4cfa-bc55-d6bc4026b0bf#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich](https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich-a-b329f2d1-62e6-437a-ba78-b0270e06df12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille-a-5be9eab2-adf2-4d80-b3b6-0c05fe660f91#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille-a-5be9eab2-adf2-4d80-b3b6-0c05fe660f91#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung](https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung-a-293313c1-c2cc-4cfa-bc55-d6bc4026b0bf#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen](https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen-a-92170358-f1b4-45e6-9ab3-551c89100bdb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### balogun
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### welt
+
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+### baut
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/xbox-chefin-asha-sharma-verkuendet-massiven-stellenabbau-und-beschwoert-glorreiche-zukunft](https://www.spiegel.de/netzwelt/games/xbox-chefin-asha-sharma-verkuendet-massiven-stellenabbau-und-beschwoert-glorreiche-zukunft-a-b3673403-d295-43dd-bcff-434671bb416d#ref=rss)
+### drogen
+
+* [https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich](https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich-a-b329f2d1-62e6-437a-ba78-b0270e06df12#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich](https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich-a-b329f2d1-62e6-437a-ba78-b0270e06df12#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich](https://www.spiegel.de/panorama/drogen-zahl-der-drogentoten-unter-30-steigt-2025-deutlich-a-b329f2d1-62e6-437a-ba78-b0270e06df12#ref=rss)
+* [https://www.spiegel.de/panorama/china-tote-und-vermisste-nach-fluten-und-erdrutsch](https://www.spiegel.de/panorama/china-tote-und-vermisste-nach-fluten-und-erdrutsch-a-3e5b89a0-6713-4608-bfd9-75c1bbb44e2e#ref=rss)
+### rechtspopulistische
+
+* [https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn](https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn-a-f4bef86a-0d0b-451f-b55a-c8824091ab55#ref=rss)
+### europa
+
+* [https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn](https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn-a-f4bef86a-0d0b-451f-b55a-c8824091ab55#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn](https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn-a-f4bef86a-0d0b-451f-b55a-c8824091ab55#ref=rss)
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+### heino
+
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille-a-5be9eab2-adf2-4d80-b3b6-0c05fe660f91#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro](https://www.spiegel.de/panorama/brandenburg-heino-fordert-nach-afd-wahlwerbung-mindestens-30-000-euro-a-40b9d439-2d34-42d0-a5f2-4da9451eff4c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### kondome
+
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+### verhütungsmittel
+
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt](https://www.spiegel.de/wirtschaft/service/kondome-tausende-gefaelschte-verhuetungsmittel-in-europa-auf-dem-markt-a-7ee5334c-f656-4d94-bc92-4fd366a35a4d#ref=rss)
+* [https://www.spiegel.de/panorama/china-tote-und-vermisste-nach-fluten-und-erdrutsch](https://www.spiegel.de/panorama/china-tote-und-vermisste-nach-fluten-und-erdrutsch-a-3e5b89a0-6713-4608-bfd9-75c1bbb44e2e#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-spezialeinheiten-stoppen-offenbar-auftragsmoerder-mit-videobrille-a-5be9eab2-adf2-4d80-b3b6-0c05fe660f91#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+### medienbericht
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken](https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken-a-f87a5b9e-f56d-4bde-8e7e-b440db88f181#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht](https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht-a-b4f85cf0-3a52-4fbb-a7b6-42d915f3ad44#ref=rss)
+### nähe
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden](https://www.spiegel.de/ausland/ukraine-hauptverdaechtige-nach-monaco-anschlag-offenbar-nahe-kyjiw-tot-aufgefunden-a-54210b18-1578-438e-af94-517cd4f31763#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken](https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken-a-f87a5b9e-f56d-4bde-8e7e-b440db88f181#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht](https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht-a-b4f85cf0-3a52-4fbb-a7b6-42d915f3ad44#ref=rss)
+### saugroboter
+
+* [https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht](https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht-a-b4f85cf0-3a52-4fbb-a7b6-42d915f3ad44#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht](https://www.spiegel.de/netzwelt/gadgets/australien-mann-nach-explosion-im-krankenhaus-saugroboter-im-verdacht-a-b4f85cf0-3a52-4fbb-a7b6-42d915f3ad44#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### laut
+
+* [https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken](https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken-a-f87a5b9e-f56d-4bde-8e7e-b440db88f181#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### lösung
+
+* [https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken](https://www.spiegel.de/netzwelt/web/balkonkraftwerke-viele-anlagen-lassen-sich-laut-medienbericht-leicht-hacken-a-f87a5b9e-f56d-4bde-8e7e-b440db88f181#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+### graham
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+### platner
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+### hoffnungsträger
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug](https://www.spiegel.de/ausland/usa-demokraten-draengen-graham-platner-wegen-vergewaltigungsvorwuerfen-zum-rueckzug-a-0a0b64e4-f29c-4d46-8d9b-a38cad98f053#ref=rss)
+* [https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden](https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden-a-d1fb0c4f-3694-4afc-9aa8-53708dcaf915#ref=rss)
+### gasreserve
+
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+### finanziert
+
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+### schwarzrot
+
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+### staatliche
+
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern](https://www.spiegel.de/wirtschaft/gasreserve-regierung-plant-strategische-vorraete-finanziert-von-verbrauchern-a-226712e6-85be-42b3-bb35-6b32f3865b66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+### melissa
+
+* [https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden](https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden-a-d1fb0c4f-3694-4afc-9aa8-53708dcaf915#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden](https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden-a-d1fb0c4f-3694-4afc-9aa8-53708dcaf915#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden](https://www.spiegel.de/panorama/leute/melissa-george-ist-mit-49-jahren-noch-einmal-mutter-geworden-a-d1fb0c4f-3694-4afc-9aa8-53708dcaf915#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### kommunen
+
+* [https://www.spiegel.de/panorama/gesellschaft/finanzkrise-der-gemeinden-kommunen-klagen-ueber-rekordschulden-trotz-beschlossener-entlastung](https://www.spiegel.de/panorama/gesellschaft/finanzkrise-der-gemeinden-kommunen-klagen-ueber-rekordschulden-trotz-beschlossener-entlastung-a-e52ddb0f-f63c-40a5-a660-dcc855c2f491#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/panorama/gesellschaft/finanzkrise-der-gemeinden-kommunen-klagen-ueber-rekordschulden-trotz-beschlossener-entlastung](https://www.spiegel.de/panorama/gesellschaft/finanzkrise-der-gemeinden-kommunen-klagen-ueber-rekordschulden-trotz-beschlossener-entlastung-a-e52ddb0f-f63c-40a5-a660-dcc855c2f491#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### sexualisierte
+
+* [https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen](https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen-a-92170358-f1b4-45e6-9ab3-551c89100bdb#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen](https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen-a-92170358-f1b4-45e6-9ab3-551c89100bdb#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen](https://www.spiegel.de/wissenschaft/rostock-frau-erlebte-sexualisierte-gewalt-durch-ihren-physiotherapeuten-wie-sie-es-schaffte-gegen-ihn-vorzugehen-a-92170358-f1b4-45e6-9ab3-551c89100bdb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### heizungstausch
+
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+### förderung
+
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+### reduzieren
+
+* [https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen](https://www.spiegel.de/wirtschaft/service/heizungstausch-regierung-plant-geringere-foerderung-fuer-waermepumpen-a-c376ea1b-f25c-45ff-a340-f657ea2834bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+### infantino
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+### sperre
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+### folarin
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen](https://www.spiegel.de/sport/fussball/wm-2026-skandal-um-balogun-sperre-gianni-infantino-sollte-zuruecktreten-pressestimmen-a-d931278b-213a-4667-8b84-daa6047127bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2026-belgien-verspottet-donald-trump-und-usa-nach-sieg-im-achtelfinale-a-9a33fe6d-14d8-4a90-b8e5-41a1f8874312#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-neonazi-marla-svenja-liebich-darf-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/tschechien-neonazi-marla-svenja-liebich-darf-nach-deutschland-ausgeliefert-werden-a-d82cabab-8bb7-4fd6-9763-00bcda51f389#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### explosionen
+
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### hotel
+
+* [https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel](https://www.spiegel.de/ausland/syrien-emmanuel-macron-in-damaskus-explosionen-nahe-hotel-a-a85a4e6b-641e-4470-b9f5-5926273f5be9#ref=rss)
+### lauren
+
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+### bennett
+
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+### weltweit
+
+* [https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot](https://www.spiegel.de/kultur/musik/saengerin-lauren-bennett-ist-tot-a-8797ae1b-86ea-488e-99ec-9fabf411556d#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### adolf
+
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### seger
+
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### europameister
+
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### 81
+
+* [https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben](https://www.spiegel.de/sport/olympia/nachruf-auf-ringer-adolf-seger-der-ehemalige-welt-und-europameister-ist-im-alter-von-81-jharen-gestorben-a-a72e8f5d-e7cf-4ac3-8db0-c4a219af1019#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen](https://www.spiegel.de/sport/fussball/wm-2026-usa-vs-belgien-donald-trump-hat-dem-team-der-usa-den-stecker-gezogen-a-96911c69-2cae-422c-b2fc-99385a185e87#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### mannheim
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+### größte
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+### flusswärmepumpe
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas](https://www.spiegel.de/wissenschaft/klimapolitik-mannheim-baut-groesste-flusswaermepumpe-europas-a-6550f3fa-4ef1-471e-9a98-a982b2573c01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+### cduarbeitnehmerflügel
+
+* [https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung](https://www.spiegel.de/politik/deutschland/krankschreibung-cdu-arbeitnehmerfluegel-befuerchtet-misstrauen-statt-loesung-a-6202f668-fe2f-41f3-8fbd-7db461a10efb#ref=rss)
+### mario
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### falke
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### ferri
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen](https://www.spiegel.de/sport/fussball-wm-2026-mario-der-falke-ferri-will-flitzen-a-f9bf1e5b-5bce-4377-a091-0ac459a44881#ref=rss)
+### lebenserwartung
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### höchstwerte
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+### gestiegen
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte](https://www.spiegel.de/wissenschaft/mensch/lebenserwartung-in-deutschland-maenner-und-frauen-erreichen-hoechstwerte-a-0a77cabb-b7fe-4fad-9034-773ec239746c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### proxima
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### fusion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### startup
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/proxima-fusion-start-up-fuer-kernfusion-mit-bewertung-von-mehr-als-2-4-milliarden-euro-a-b04e2f1d-7559-4248-91e4-c9d3b603ff0d#ref=rss)
+### auflösung
+
+* [https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung](https://www.spiegel.de/ausland/gaza-israelischer-aussenminister-gideon-saar-zweifelt-an-aufloesung-von-hamas-regierung-a-293313c1-c2cc-4cfa-bc55-d6bc4026b0bf#ref=rss)
+### alkoholfreies
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert](https://www.spiegel.de/wirtschaft/unternehmen/bier-alkoholfreies-bier-legt-bei-produktion-zu-klassisches-bier-verliert-a-cf176689-2163-4a6f-88aa-e83dfb966ee5#ref=rss)
 
