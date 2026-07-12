@@ -4,128 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/verurteilter-moerder-wehrt-sich-gegen-abschiebung-in-die-usa](https://www.spiegel.de/panorama/justiz/verurteilter-moerder-wehrt-sich-gegen-abschiebung-in-die-usa-a-5ba4e7b1-13c5-48ce-96d7-720cd1f08579#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-crew-verlaesst-brennendes-containerschiff-in-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-crew-verlaesst-brennendes-containerschiff-in-der-strasse-von-hormus-a-c863fbd6-07e6-484d-a920-4ed17deb105c#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### leben
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten](https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten-a-ba370e4d-acf5-4c76-a8a9-0c7e38484d6a#ref=rss)
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot](https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot-a-f05d70a9-5a92-47f9-baeb-9ba821655cd3#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten](https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten-a-ba370e4d-acf5-4c76-a8a9-0c7e38484d6a#ref=rss)
 ### zwei
 
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-perfekte-aufteilung-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-perfekte-aufteilung-gesucht-a-2e5e95f2-d476-4f0b-9650-5af1dd9f0676#ref=rss)
 * [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-* [https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod](https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod-a-8c4390f0-82de-4290-81c1-76f849693ad0#ref=rss)
-### ahrtal
+### menschen
 
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### norwegen
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
+### wm
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### deutsche
+* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
+### lindsey
 
-* [https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod](https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod-a-8c4390f0-82de-4290-81c1-76f849693ad0#ref=rss)
-* [https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat](https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat-a-5acc7f6b-d5ba-4826-80b1-992c17671b30#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
+* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
+### graham
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-* [https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende](https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende-a-bf95ad0a-e4c5-4899-8340-955c7ce2be9c#ref=rss)
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
+* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
+### festival
+
+* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
+* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
+* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
 ### thomas
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
 * [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### deutschen
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### tuchel
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte](https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte-a-bbe9447c-3401-4fba-80ff-6279664b4d44#ref=rss)
-* [https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat](https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat-a-5acc7f6b-d5ba-4826-80b1-992c17671b30#ref=rss)
-### deutschland
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### leben
 
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-* [https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende](https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende-a-bf95ad0a-e4c5-4899-8340-955c7ce2be9c#ref=rss)
-### land
-
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-* [https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen](https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen-a-d7779f9c-e2f9-416d-8743-0d42e036e8fb#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china](https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china-a-23914d45-d174-47bc-9954-b753669e9703#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen](https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen-a-8c52dcf5-9de7-4c08-a8bf-4f10b6b0a297#ref=rss)
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### weniger
-
+* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
 * [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### hängt
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
+### allein
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte](https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte-a-bbe9447c-3401-4fba-80ff-6279664b4d44#ref=rss)
-### zusammen
+* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
+### davon
 
+* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
+### jede
+
+* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
+### mussten
+
+* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+* [https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein](https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein-a-3d0608c9-8ba5-4349-b6af-5295395c8c3a#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
+### explosionen
+
+* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
+### angriffen
+
+* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+### synagoge
+
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+### gebracht
+
+* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
+### ussenators
+
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
+* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
+### chemnitz
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva](https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva-a-d70f69d3-5c27-4c33-b34e-fe0da587ecfb#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva](https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva-a-d70f69d3-5c27-4c33-b34e-fe0da587ecfb#ref=rss)
+* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
+### neues
+
+* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
+### leon
+
+* [https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle](https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle-a-a3206673-091e-45d9-b6d2-6e21be0b550b#ref=rss)
+### glatzer
+
+* [https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle](https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle-a-a3206673-091e-45d9-b6d2-6e21be0b550b#ref=rss)
+### nürnberg
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
+### neunjähriger
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
+### einbrecher
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+### jannik
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+### diesmal
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### sensation
+
+* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
+* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
+### unterhaltsvorschuss
+
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
+### kinderhilfswerk
+
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
+### milieu
+
+* [https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-nach-anschlag-fuehrt-spur-zu-angry-birds](https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-nach-anschlag-fuehrt-spur-zu-angry-birds-a-290cb9d1-6a5f-4a92-8ae5-e073008986f2#ref=rss)
+* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
+### kai
+
+* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
+### wegner
+
+* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
+### erling
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+### vorbei
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
 * [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot](https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot-a-f05d70a9-5a92-47f9-baeb-9ba821655cd3#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
+### schloss
+
+* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
+### bellevue
+
+* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
+### conor
+
+* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
+### mcgregor
+
+* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
+### nachbar
+
+* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
+### findet
+
+* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
+* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
+### bts
+
+* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
+### fische
+
+* [https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein](https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein-a-3d0608c9-8ba5-4349-b6af-5295395c8c3a#ref=rss)
+### kiefer
+
+* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
+### sutherland
+
+* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
 ### apps
 
 * [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-### eu
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-* [https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen](https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen-a-d7779f9c-e2f9-416d-8743-0d42e036e8fb#ref=rss)
 ### großen
 
 * [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
 * [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten](https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten-a-ba370e4d-acf5-4c76-a8a9-0c7e38484d6a#ref=rss)
 ### salsa
 
 * [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
@@ -138,265 +315,10 @@ tags: __no_header__
 ### clair
 
 * [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### festival
-
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
 ### roland
 
 * [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
 ### collombin
 
 * [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### flut
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-### führen
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-### patisserie
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### katastrophe
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter](https://www.spiegel.de/panorama/flut-im-ahrtal-eltern-fuehren-patisserie-im-gedenken-an-verstorbene-tochter-a-28138b26-846d-4f6b-9fb5-ec444af3aeb4#ref=rss)
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### verabschiedet
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### 11
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### wmviertelfinale
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-### brachte
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england](https://www.spiegel.de/sport/fussball/wm-2026-norwegen-verabschiedet-sich-nach-niederlage-gegen-england-a-b42b3da3-d632-4c03-8bc8-d93f1b979a45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### endet
-
-* [https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod](https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod-a-8c4390f0-82de-4290-81c1-76f849693ad0#ref=rss)
-* [https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen](https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen-a-d7779f9c-e2f9-416d-8743-0d42e036e8fb#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod](https://www.spiegel.de/panorama/unglueck-in-den-alpen-gleitschirmflieger-stuerzen-in-den-tod-a-8c4390f0-82de-4290-81c1-76f849693ad0#ref=rss)
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### cartoons
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### miriam
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### wurster
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-### geschehen
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-51ab3aba-18b2-45c5-a37f-6172e41f8bd1#ref=rss)
-* [https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert](https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert-a-2ba94fbb-1acc-4116-84f0-a09a3cd23c88#ref=rss)
-### kirevolution
-
-* [https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte](https://www.spiegel.de/wissenschaft/technik/wie-carl-zeiss-die-globale-ki-revolution-moeglich-machte-a-bbe9447c-3401-4fba-80ff-6279664b4d44#ref=rss)
-### kind
-
-* [https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert](https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert-a-2ba94fbb-1acc-4116-84f0-a09a3cd23c88#ref=rss)
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert](https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert-a-2ba94fbb-1acc-4116-84f0-a09a3cd23c88#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-crew-verlaesst-brennendes-containerschiff-in-der-strasse-von-hormus](https://www.spiegel.de/ausland/iran-krieg-crew-verlaesst-brennendes-containerschiff-in-der-strasse-von-hormus-a-c863fbd6-07e6-484d-a920-4ed17deb105c#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert](https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert-a-2ba94fbb-1acc-4116-84f0-a09a3cd23c88#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen](https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen-a-8c52dcf5-9de7-4c08-a8bf-4f10b6b0a297#ref=rss)
-### tal
-
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### kindheit
-
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-### wiederaufbau
-
-* [https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat](https://www.spiegel.de/panorama/ahrtal-wie-die-katastrophe-das-tal-meiner-kindheit-veraendert-hat-a-54d22b71-7d17-49eb-be1e-d8cff68acb5f#ref=rss)
-* [https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen](https://www.spiegel.de/ausland/wie-italien-die-chance-verpasst-hat-sich-zum-modernsten-land-europas-aufzuschwingen-a-d7779f9c-e2f9-416d-8743-0d42e036e8fb#ref=rss)
-### bibelsprüchen
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-### echte
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-### mission
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-### eher
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-### marketingtrick
-
-* [https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick](https://www.spiegel.de/wirtschaft/usa-energy-drinks-mit-bibelspruechen-echte-mission-oder-eher-ein-marketing-trick-a-9fe18449-0fc6-41de-ba7b-2ca0a694d0f7#ref=rss)
-### news
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china](https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china-a-23914d45-d174-47bc-9954-b753669e9703#ref=rss)
-### jude
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### bellingham
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china](https://www.spiegel.de/politik/deutschland/news-linke-kritik-an-der-regierung-geheimpakt-zwischen-russland-und-china-a-23914d45-d174-47bc-9954-b753669e9703#ref=rss)
-### heilbronn
-
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug](https://www.spiegel.de/panorama/leingarten-bei-heilbronn-frau-mit-kinderwagen-stirbt-nach-zusammenprall-mit-einem-zug-a-03b9c1fa-556b-43a2-9446-9b71da8f3e1f#ref=rss)
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-### neuseeland
-
-* [https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat](https://www.spiegel.de/karriere/auswandern-nach-neuseeland-wie-eine-deutsche-anwaeltin-sich-den-traum-erfuellt-hat-a-5acc7f6b-d5ba-4826-80b1-992c17671b30#ref=rss)
-### groß
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### see
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see](https://www.spiegel.de/panorama/schleswig-holstein-einsatzkraefte-bergen-vermisstes-maedchen-tot-aus-see-a-4101b5e4-9799-4e75-bda9-5cac56a5c666#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen](https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen-a-8c52dcf5-9de7-4c08-a8bf-4f10b6b0a297#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-### rattín
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot](https://www.spiegel.de/sport/fussball/fussball-wm-geburtshelfer-der-roten-karte-antonio-rattin-ist-tot-a-47e887c5-525a-4a52-bb97-1fe45784e70f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen](https://www.spiegel.de/sport/fussball/fussball-wm-war-der-ball-am-kabel-england-tor-sorgt-fuer-diskussionen-a-c71f030f-14a1-4e25-a829-8bc756e72723#ref=rss)
-### historikerin
-
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-### karen
-
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-### hagemann
-
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-### längst
-
-* [https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen](https://www.spiegel.de/geschichte/militaerhistorikerin-karen-hagemann-ueber-wehrpflicht-fuer-frauen-a-25d36b32-8420-40b2-afa6-0a1f9249dd7e#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten](https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten-a-ba370e4d-acf5-4c76-a8a9-0c7e38484d6a#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende](https://www.spiegel.de/ausland/katowice-in-polen-blueht-auf-gruendungen-in-deutschland-und-rechte-fuer-reisende-a-bf95ad0a-e4c5-4899-8340-955c7ce2be9c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/verurteilter-moerder-wehrt-sich-gegen-abschiebung-in-die-usa](https://www.spiegel.de/panorama/justiz/verurteilter-moerder-wehrt-sich-gegen-abschiebung-in-die-usa-a-5ba4e7b1-13c5-48ce-96d7-720cd1f08579#ref=rss)
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### lindsey
-
-* [https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot](https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot-a-f05d70a9-5a92-47f9-baeb-9ba821655cd3#ref=rss)
-### graham
-
-* [https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot](https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot-a-f05d70a9-5a92-47f9-baeb-9ba821655cd3#ref=rss)
-### ussenator
-
-* [https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot](https://www.spiegel.de/ausland/us-senator-lindsey-graham-ist-tot-a-f05d70a9-5a92-47f9-baeb-9ba821655cd3#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### eiffelturm
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### louvre
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### dicht
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### etappe
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### tour
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### de
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### france
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### verkürzt
-
-* [https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen](https://www.spiegel.de/panorama/frankreich-eiffelturm-und-louvre-dicht-etappe-der-tour-de-france-verkuerzt-zuege-gestrichen-a-10fc38a4-9874-42c2-baa4-a8977a836fd8#ref=rss)
-### autobahnen
-
-* [https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten](https://www.spiegel.de/mobilitaet/auto/autobahnen-ein-tempolimit-wuerde-jedes-jahr-90-menschen-das-leben-retten-a-ba370e4d-acf5-4c76-a8a9-0c7e38484d6a#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen](https://www.spiegel.de/wissenschaft/mensch/baderegeln-darf-man-mit-vollem-magen-wirklich-nicht-schwimmen-a-8c52dcf5-9de7-4c08-a8bf-4f10b6b0a297#ref=rss)
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### date
-
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### privaten
-
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### details
-
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
-### teilen
-
-* [https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten](https://www.spiegel.de/partnerschaft/floodlighting-beim-ersten-date-welche-privaten-details-sie-beim-kennenlernen-teilen-sollten-a-992fb7eb-9303-4ff0-a4f4-ee7c5e83db37#ref=rss)
 
