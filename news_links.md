@@ -4,321 +4,379 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### deutschland
 
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-perfekte-aufteilung-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-perfekte-aufteilung-gesucht-a-2e5e95f2-d476-4f0b-9650-5af1dd9f0676#ref=rss)
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-weiterer-us-patient-jetzt-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-weiterer-us-patient-jetzt-in-deutschland-a-e5643884-4d9f-4585-a095-48b8ede1e0ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein](https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein-a-7712cec0-a4fe-4b6d-a749-081d4724ccde#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### wm
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-### lindsey
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+* [https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar](https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar-a-cde7b088-3386-42d4-b501-8f69f2a8f82f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet](https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet-a-a269c81b-76c5-4a0d-8804-13df232f893e#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
-* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
-### graham
-
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
-* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-### festival
-
-* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### tuchel
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### allein
-
-* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
-### davon
-
-* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
-### jede
-
-* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt](https://www.spiegel.de/start/festival-allein-schoene-erlebnisse-haengen-nicht-davon-ab-ob-jemand-mitkommt-a-ca53de8c-4704-4368-9cea-7bf80b57e0ee#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
-### österreich
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden](https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden-a-ce013cce-c4c3-46f6-8c83-85e000dcd57e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein](https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein-a-7712cec0-a4fe-4b6d-a749-081d4724ccde#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht](https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht-a-ed55d83e-5b08-4a80-890c-4a5d2c2c65e6#ref=rss)
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet](https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet-a-a269c81b-76c5-4a0d-8804-13df232f893e#ref=rss)
+### fall
 
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
-* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
-### mussten
+* [https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht](https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht-a-ed55d83e-5b08-4a80-890c-4a5d2c2c65e6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+### musik
 
-* [https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/ausland/oesterreich-zwei-menschen-bei-flugzeugabsturz-gestorben-a-45e610c8-dc67-4150-bf6b-59b424f3401d#ref=rss)
-* [https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein](https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein-a-3d0608c9-8ba5-4349-b6af-5295395c8c3a#ref=rss)
-### iran
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### steigen
 
-* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
-### explosionen
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
-### angriffen
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+### eu
 
-* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
-### mehrere
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein](https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein-a-7712cec0-a4fe-4b6d-a749-081d4724ccde#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes](https://www.spiegel.de/ausland/iran-explosionen-im-sueden-des-landes-a-8490a060-c46c-4877-9082-13e07ad91f06#ref=rss)
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-### synagoge
+* [https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag](https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag-a-d581c731-d86b-4af8-9880-e94d3df42fc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent](https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent-a-65521b58-055b-47d1-946e-7e9359d50c73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
+### weg
 
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-### sicherheit
+* [https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag](https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag-a-d581c731-d86b-4af8-9880-e94d3df42fc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent](https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent-a-65521b58-055b-47d1-946e-7e9359d50c73#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-### gebracht
+* [https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt-a-2b2a16ee-8eec-440b-ac28-59595c32ef1e#ref=rss)
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht](https://www.spiegel.de/ausland/paris-300-menschen-nahe-einer-synagoge-in-sicherheit-gebracht-a-14e83845-b834-4c98-99bb-44628ebedbfc#ref=rss)
-### wohnung
+* [https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht](https://www.spiegel.de/panorama/oldenburg-polizist-nach-toedlichen-schuessen-auf-21-jaehrigen-lorenz-bald-vor-gericht-a-ed55d83e-5b08-4a80-890c-4a5d2c2c65e6#ref=rss)
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+### ruth
 
-* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
-### mutter
+* [https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans](https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans-a-b6b87a3b-4870-4d17-9f93-4e9adbf8f3d6#ref=rss)
+### moschner
 
-* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans](https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans-a-b6b87a3b-4870-4d17-9f93-4e9adbf8f3d6#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden](https://www.spiegel.de/panorama/hamburg-bramfeld-15-jaehrige-tot-in-wohnung-der-mutter-gefunden-a-1a4aaeec-a11c-49d6-9179-f7113c55c77b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
-### ussenators
+* [https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans](https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans-a-b6b87a3b-4870-4d17-9f93-4e9adbf8f3d6#ref=rss)
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+### fans
 
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
-### tod
+* [https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans](https://www.spiegel.de/panorama/ruth-moschner-wendet-sich-an-die-afd-waehler-unter-ihren-fans-a-b6b87a3b-4870-4d17-9f93-4e9adbf8f3d6#ref=rss)
+### ali
 
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-tochter-von-trumps-ukraine-gesandtem-keith-kellogg-fordert-obduktion-von-leichnam-des-us-senators-a-882eb580-6ef7-4a63-9fbd-9a4a690f3bee#ref=rss)
-* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
-### chemnitz
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+### g
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva](https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva-a-d70f69d3-5c27-4c33-b34e-fe0da587ecfb#ref=rss)
-### erst
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+### wimbledon
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva](https://www.spiegel.de/panorama/justiz/chemnitz-mann-schlaegt-essenslieferanten-und-landet-in-der-jva-a-d70f69d3-5c27-4c33-b34e-fe0da587ecfb#ref=rss)
-* [https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan](https://www.spiegel.de/ausland/zum-tod-von-us-senator-lindsey-graham-erst-gegner-dann-fan-a-7ba26cc2-883a-4ed3-9175-6f8ed4837a3a#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt](https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt-a-350ead77-60b1-4409-af1a-cef46ff1c6c7#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
-### neues
+* [https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf](https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-und-taucht-in-wimbledon-auf-a-dbd9c54c-dd9b-4c00-8509-9162627b2f52#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+### babys
 
-* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
-### parlament
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
-### zufolge
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### monate
 
-* [https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament](https://www.spiegel.de/ausland/israel-waehlt-am-27-oktober-ein-neues-parlament-a-7ad21827-1d46-4855-a76f-03d4419adf2d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
-### leon
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### alte
 
-* [https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle](https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle-a-a3206673-091e-45d9-b6d2-6e21be0b550b#ref=rss)
-### glatzer
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle](https://www.spiegel.de/deinspiegel/im-training-mit-surfprofi-leon-glatzer-auf-der-dauerwelle-a-a3206673-091e-45d9-b6d2-6e21be0b550b#ref=rss)
-### nürnberg
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### reagieren
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
-### neunjähriger
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
-### einbrecher
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer](https://www.spiegel.de/panorama/justiz/nuernberg-neunjaehriger-entdeckt-einbrecher-im-elternschlafzimmer-a-bf3016e8-09a8-4f4c-b0c7-305bed24ea8c#ref=rss)
-### alexander
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein](https://www.spiegel.de/politik/deutschland/israel-ein-importverbot-darf-kein-tabu-mehr-sein-a-7712cec0-a4fe-4b6d-a749-081d4724ccde#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-### zverev
+* [https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik](https://www.spiegel.de/wissenschaft/mensch/babys-und-musik-schon-drei-monate-alte-kinder-reagieren-auf-musik-a-1a4f575b-9082-4224-93c3-9a531fd42806#ref=rss)
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+### luft
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-### jannik
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-### sinner
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### leichter
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-### diesmal
+* [https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen](https://www.spiegel.de/panorama/hitze-in-deutschland-temperaturen-koennen-erneut-auf-35-grad-steigen-a-567c4d43-6434-4546-9a1f-d72974a60af8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+### fulda
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker](https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### sensation
+* [https://www.spiegel.de/geschichte/fulda-gap-im-kalten-krieg-angst-vor-dem-atomschlag](https://www.spiegel.de/geschichte/fulda-gap-im-kalten-krieg-angst-vor-dem-atomschlag-a-f3a1fe8c-8bf2-466a-816e-a726d2eb0f8f#ref=rss)
+### gap
 
-* [https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo](https://www.spiegel.de/sport/fussball/schweiz-aus-gegen-argentinien-bei-wm-die-traenen-des-breel-embolo-a-d2d07e7d-7c76-4955-ad94-6a51742d83e3#ref=rss)
-* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
-### unterhaltsvorschuss
+* [https://www.spiegel.de/geschichte/fulda-gap-im-kalten-krieg-angst-vor-dem-atomschlag](https://www.spiegel.de/geschichte/fulda-gap-im-kalten-krieg-angst-vor-dem-atomschlag-a-f3a1fe8c-8bf2-466a-816e-a726d2eb0f8f#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
-### kinderhilfswerk
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-kinderhilfswerk-warnt-vor-steigender-kinderarmut-a-e42fc5bd-1873-4841-9578-065dc0ffc290#ref=rss)
-### kündigt
+* [https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft](https://www.spiegel.de/panorama/yellowstone-nationalpark-in-den-usa-bison-wirft-tourist-meterhoch-in-die-luft-a-642985b0-338d-462f-a020-b818ee8d18eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
+### millie
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-die-abloesung-von-regierungschefin-julija-swyrydenko-an-a-e6f78481-90ff-4da8-b9a8-c1e69c132a6a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-### milieu
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+### bobby
 
-* [https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-nach-anschlag-fuehrt-spur-zu-angry-birds](https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-nach-anschlag-fuehrt-spur-zu-angry-birds-a-290cb9d1-6a5f-4a92-8ae5-e073008986f2#ref=rss)
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### kai
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+### brown
 
-* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
-### wegner
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
-### friedrich
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
-### merz
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen](https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen-a-66b64df8-3537-42da-9258-475c6e86a5c8#ref=rss)
+### britische
 
-* [https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz](https://www.spiegel.de/politik/deutschland/kai-wegner-sein-sturz-wird-zum-problem-fuer-friedrich-merz-a-c10a6093-58bd-4b71-b47b-b27d91144654#ref=rss)
-### erling
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### haaland
+* [https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel](https://www.spiegel.de/kultur/musik/millie-bobby-brown-probleme-bekam-probleme-wegen-einer-ofenkartoffel-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-### vorbei
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
-### team
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden](https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden-a-ce013cce-c4c3-46f6-8c83-85e000dcd57e#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-wird-immer-schlechter-und-vielleicht-trotzdem-weltmeister-a-3766eeef-64c9-4e38-9144-9fccea1c3716#ref=rss)
-### norwegen
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung](https://www.spiegel.de/sport/fussball/wm-2026-argentinien-muss-gegen-die-schweiz-in-die-verlaengerung-a-d45c9de6-6dad-450a-8308-61e74f4d4787#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### frankwalter
+* [https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-weiterer-us-patient-jetzt-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/ebola-ausbruch-weiterer-us-patient-jetzt-in-deutschland-a-e5643884-4d9f-4585-a095-48b8ede1e0ee#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### italien
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
-### steinmeier
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+### europa
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
-### verteidigt
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### beispiel
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
-### schloss
+* [https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan](https://www.spiegel.de/wirtschaft/hitzewelle-in-italien-kaesereien-sorgen-sich-um-die-qualitaet-von-parmesan-a-fece7317-5820-423f-a8cf-e7df5cf4fd58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+### folarin
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
-### bellevue
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+### balogun
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue](https://www.spiegel.de/politik/frank-walter-steinmeier-bundespraesident-verteidigt-sanierungskosten-fuer-schloss-bellevue-a-159caf0b-0283-46c3-a109-d721219083fe#ref=rss)
-### conor
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
-### mcgregor
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+### millionenminus
 
-* [https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung](https://www.spiegel.de/sport/conor-mcgregor-comeback-kampf-endet-nach-einer-minute-mit-verletzung-a-ea4f5a12-fe32-46d2-8fb0-37deccfb9daa#ref=rss)
-### nachbar
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+### zumindest
 
-* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
-### findet
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht](https://www.spiegel.de/sport/fussball/wm-2026-news-heute-harry-kane-verteidigt-thomas-tuchel-norwegens-alexander-soerloth-bedroht-a-f2831127-6da9-4fc5-97f0-f4679431e8f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent](https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent-a-65521b58-055b-47d1-946e-7e9359d50c73#ref=rss)
+### cristo
 
-* [https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige](https://www.spiegel.de/panorama/justiz/gaffender-nachbar-fotografiert-reanimation-und-kassiert-anzeige-a-488b9380-465f-4032-8009-89d81b957cf8#ref=rss)
-* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
-### spiel
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+### ted
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-entgleitet-das-spiel-dann-faengt-er-es-wieder-ein-a-092664e8-adb5-4c19-99a1-c943332b1bee#ref=rss)
-### bts
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+### lassoschauspieler
 
-* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten](https://www.spiegel.de/panorama/leute/cristo-fernandez-ted-lasso-schauspieler-gibt-sein-debuet-bei-us-zweitligisten-a-25cfb36b-6718-4306-8001-f7ebe10c2948#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen-a-4742b2a6-dbd2-4e02-9a69-06223e3daebd#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden](https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden-a-ce013cce-c4c3-46f6-8c83-85e000dcd57e#ref=rss)
+### packung
+
+* [https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden](https://www.spiegel.de/wirtschaft/neue-plaene-der-regierung-12-euro-fuer-eine-packung-zigaretten-tabaksteuer-soll-noch-staerker-erhoeht-werden-a-ce013cce-c4c3-46f6-8c83-85e000dcd57e#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen-a-4742b2a6-dbd2-4e02-9a69-06223e3daebd#ref=rss)
+### blume
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen-a-4742b2a6-dbd2-4e02-9a69-06223e3daebd#ref=rss)
+### verbietet
+
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+### zusatzkosten
+
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+### flugzeug
+
+* [https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten](https://www.spiegel.de/wirtschaft/fluggesellschaften-eu-staerkt-entschaedigungsansprueche-und-verbietet-zusatzkosten-a-3cbc69d9-e248-4da0-b9cd-49e181eec887#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent](https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent-a-65521b58-055b-47d1-946e-7e9359d50c73#ref=rss)
+### günther
+
+* [https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag](https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag-a-d581c731-d86b-4af8-9880-e94d3df42fc1#ref=rss)
+### jauch
+
+* [https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag](https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag-a-d581c731-d86b-4af8-9880-e94d3df42fc1#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag](https://www.spiegel.de/kultur/tv/guenther-jauch-wird-70-wer-wird-millionaer-quiz-zum-geburtstag-a-d581c731-d86b-4af8-9880-e94d3df42fc1#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet](https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet-a-a269c81b-76c5-4a0d-8804-13df232f893e#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### pogačar
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### massiver
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+### würde
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-fordert-wegen-massiver-hitze-aenderung-des-rennkalenders-a-f7bd8385-c42d-4fa9-aef9-eed95e73469f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen](https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen-a-66b64df8-3537-42da-9258-475c6e86a5c8#ref=rss)
+### überlebende
+
+* [https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar](https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar-a-cde7b088-3386-42d4-b501-8f69f2a8f82f#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar](https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar-a-cde7b088-3386-42d4-b501-8f69f2a8f82f#ref=rss)
+### bar
+
+* [https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar](https://www.spiegel.de/ausland/bangkok-ueberlebende-berichten-von-fehlenden-notausgaengen-nach-brand-in-bar-a-cde7b088-3386-42d4-b501-8f69f2a8f82f#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ruestung-investoren-ueberschuetten-drohnenhersteller-helsing-mit-geld](https://www.spiegel.de/wirtschaft/unternehmen/ruestung-investoren-ueberschuetten-drohnenhersteller-helsing-mit-geld-a-c125db4f-8107-45fa-b9d3-7d7bd533dda4#ref=rss)
+### jüngste
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ruestung-investoren-ueberschuetten-drohnenhersteller-helsing-mit-geld](https://www.spiegel.de/wirtschaft/unternehmen/ruestung-investoren-ueberschuetten-drohnenhersteller-helsing-mit-geld-a-c125db4f-8107-45fa-b9d3-7d7bd533dda4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### spdspitzenkandidat
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+### steffen
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+### krach
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-zeigt-sich-offen-fuer-buendnis-mit-der-cdu-a-95c74439-132c-4181-8b1a-eef2290c116e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt](https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt-a-350ead77-60b1-4409-af1a-cef46ff1c6c7#ref=rss)
+### umweltministerin
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen](https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen-a-66b64df8-3537-42da-9258-475c6e86a5c8#ref=rss)
+### hanka
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen](https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen-a-66b64df8-3537-42da-9258-475c6e86a5c8#ref=rss)
+### mittelstädt
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen](https://www.spiegel.de/politik/deutschland/brandenburg-umweltministerin-hanka-mittelstaedt-wuerde-einen-wolf-abschiessen-a-66b64df8-3537-42da-9258-475c6e86a5c8#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
-### gilt
+* [https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt-a-2b2a16ee-8eec-440b-ac28-59595c32ef1e#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben](https://www.spiegel.de/ausland/bts-in-muenchen-die-spektakulaere-show-der-glorreichen-sieben-a-474a5b42-21a0-4dc4-aa06-571b9703d14b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-### fische
+* [https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt-a-2b2a16ee-8eec-440b-ac28-59595c32ef1e#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet](https://www.spiegel.de/panorama/spanien-paar-aus-grossbritannien-mit-schweren-verbrennungen-aus-waldbrandgebiet-gerettet-a-a269c81b-76c5-4a0d-8804-13df232f893e#ref=rss)
+### teurer
 
-* [https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein](https://www.spiegel.de/panorama/a3-unfall-auf-autobahn-feuerwehr-sammelt-lebende-fische-ein-a-3d0608c9-8ba5-4349-b6af-5295395c8c3a#ref=rss)
-### kiefer
+* [https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent](https://www.spiegel.de/wirtschaft/flugreisen-fliegen-wird-teurer-kerosin-treibt-preise-um-8-5-prozent-a-65521b58-055b-47d1-946e-7e9359d50c73#ref=rss)
+### ölpreise
 
-* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
-### sutherland
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### börsen
 
-* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
-### welt
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### starten
 
-* [https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben](https://www.spiegel.de/kultur/kiefer-sutherland-moechte-noch-lange-leben-a-06e17bad-8b95-478f-9d03-dc591cba6357#ref=rss)
-### apps
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### schwach
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-### großen
+* [https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach](https://www.spiegel.de/wirtschaft/iran-krieg-us-angriffe-lassen-oelpreise-steigen-boersen-starten-schwach-a-274d57d1-adb6-4011-bf35-bf2f2c1dab28#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an](https://www.spiegel.de/netzwelt/netzpolitik/eu-justizkommissar-kuendigt-bussgelder-gegen-suechtig-machende-apps-an-a-23020da0-43e1-4c3a-9e86-1dba3b54e42c#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### salsa
+* [https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt](https://www.spiegel.de/sport/tennis/wimbledon-pressestimmen-zu-alexander-zverevs-niederlage-kein-ketchup-effekt-a-350ead77-60b1-4409-af1a-cef46ff1c6c7#ref=rss)
+### sam
 
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### on
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### neill
 
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### st
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### jurassic
 
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### clair
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### alter
 
-* [https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival](https://www.spiegel.de/panorama/toronto-zwei-menschen-sterben-bei-schiesserei-auf-salsa-on-st-clair-festival-a-10a96dea-5803-4b4f-a5ce-f84224f18dae#ref=rss)
-### roland
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### 78
 
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
-### collombin
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste](https://www.spiegel.de/sport/wintersport/nachruf-auf-den-schweizer-skistar-roland-collombin-der-wildeste-hund-auf-der-piste-a-87f9efba-ee5f-4117-9162-90bb57962529#ref=rss)
+* [https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben](https://www.spiegel.de/kultur/sam-neill-jurassic-park-star-im-alter-von-78-jahren-gestorben-a-29c6ef1f-ac63-4fe8-942f-5d1a61bd8aa0#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
+### bareiß
+
+* [https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt](https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-bei-autounfall-in-baden-wuerttemberg-offenbar-schwer-verletzt-a-718c5442-4f4e-4747-9e96-7f6ea142e01d#ref=rss)
 
