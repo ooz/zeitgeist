@@ -4,320 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-* [https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen](https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen-a-e62d5606-47f7-4141-94e1-e9e7e5605130#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv](https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv-a-77d7e1d8-640a-45e6-84ae-f00d0de12183#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re-a-f7c2fe71-3924-45bc-8a9a-7ef812cc4a83#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv](https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv-a-77d7e1d8-640a-45e6-84ae-f00d0de12183#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re-a-f7c2fe71-3924-45bc-8a9a-7ef812cc4a83#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv](https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv-a-77d7e1d8-640a-45e6-84ae-f00d0de12183#ref=rss)
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers](https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers-a-87f6b464-f58e-47d1-a486-7ddc07f886dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rauchen-schwarz-rot-macht-tabak-zum-luxus](https://www.spiegel.de/politik/deutschland/rauchen-schwarz-rot-macht-tabak-zum-luxus-a-f58031b8-24bf-4681-ba97-e9fe3ecf59b5#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/linksextremismus-angeklagte-der-hammerbande-schildert-motive-fuer-angriffe-in-ungarn](https://www.spiegel.de/panorama/justiz/linksextremismus-angeklagte-der-hammerbande-schildert-motive-fuer-angriffe-in-ungarn-a-bb242689-92fc-420b-8d89-e0a9c8f09465#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit](https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit-a-71377adc-e285-4da4-80cc-17042c6e2d3e#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert](https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert-a-09ee7831-cb3e-44af-8c20-c65cef8519f2#ref=rss)
-* [https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand](https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand-a-06104481-1c0e-4a41-855e-2e4ba399f3b5#ref=rss)
-### regimewechsel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss)
-* [https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte](https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss)
-* [https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte](https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus](https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus-a-b01cd651-eac1-4ea8-943e-f10a27720d74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus](https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus-a-b01cd651-eac1-4ea8-943e-f10a27720d74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sothebys-skelett-von-tyrannosaurus-rex-fuer-43-millionen-dollar-versteigert](https://www.spiegel.de/wissenschaft/sothebys-skelett-von-tyrannosaurus-rex-fuer-43-millionen-dollar-versteigert-a-b851a9a2-860d-4d43-8a5b-3a2350660528#ref=rss)
-* [https://www.spiegel.de/psychologie/klimakrise-es-ist-gesund-angst-zu-haben](https://www.spiegel.de/psychologie/klimakrise-es-ist-gesund-angst-zu-haben-a-4ec69e52-ba00-4be1-ab4a-f4ae2752f021#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv](https://www.spiegel.de/panorama/angriff-gegen-aufruestung-berlin-wie-es-ringt-und-kracht-spiegel-tv-a-77d7e1d8-640a-45e6-84ae-f00d0de12183#ref=rss)
-* [https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte](https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss)
-### ahrtal
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-### gordon
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-### entschuldigung
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-### solche
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt](https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt-a-32bfed4a-f6e8-481b-8b03-cc84a9f85eeb#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand](https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand-a-06104481-1c0e-4a41-855e-2e4ba399f3b5#ref=rss)
-### staatlichen
-
-* [https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung](https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss)
-* [https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe](https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe-a-37eb5639-aaf2-4859-b499-627aed709505#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt](https://www.spiegel.de/ausland/spanien-bruder-von-pedro-sanchez-wegen-vetternwirtschaft-verurteilt-a-65918f2d-9f3e-4c8f-a7e2-defc2e84c7db#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-### thadeusz
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### kulturstaatsminister
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer](https://www.spiegel.de/kultur/joerg-thadeusz-neuer-chef-der-verlagspreis-jury-verteidigt-erst-einmal-kulturstaatsminister-weimer-a-99135084-4d53-4a88-a6cb-118c57ddb512#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit](https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit-a-71377adc-e285-4da4-80cc-17042c6e2d3e#ref=rss)
-* [https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe](https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe-a-37eb5639-aaf2-4859-b499-627aed709505#ref=rss)
-### krause
-
-* [https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit](https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit-a-71377adc-e285-4da4-80cc-17042c6e2d3e#ref=rss)
-### verkündet
-
-* [https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit](https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit-a-71377adc-e285-4da4-80cc-17042c6e2d3e#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit](https://www.spiegel.de/wissenschaft/muenchen-dominik-krause-verkuendet-massnahmen-wegen-wasserknappheit-a-71377adc-e285-4da4-80cc-17042c6e2d3e#ref=rss)
-### krankheit
-
-* [https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re-a-f7c2fe71-3924-45bc-8a9a-7ef812cc4a83#ref=rss)
-### arte
-
-* [https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re-a-f7c2fe71-3924-45bc-8a9a-7ef812cc4a83#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/diagnose-multiple-sklerose-die-krankheit-der-tausend-gesichter-spiegel-tv-fuer-arte-re-a-f7c2fe71-3924-45bc-8a9a-7ef812cc4a83#ref=rss)
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### beweisen
-
-* [https://www.spiegel.de/geschichte/was-traeume-von-mars-kolonien-mit-amerikanischer-geschichte-zu-tun-haben](https://www.spiegel.de/geschichte/was-traeume-von-mars-kolonien-mit-amerikanischer-geschichte-zu-tun-haben-a-056572ef-011e-4c52-81ef-1c40f9ba77f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/geschichte/was-traeume-von-mars-kolonien-mit-amerikanischer-geschichte-zu-tun-haben](https://www.spiegel.de/geschichte/was-traeume-von-mars-kolonien-mit-amerikanischer-geschichte-zu-tun-haben-a-056572ef-011e-4c52-81ef-1c40f9ba77f0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sothebys-skelett-von-tyrannosaurus-rex-fuer-43-millionen-dollar-versteigert](https://www.spiegel.de/wissenschaft/sothebys-skelett-von-tyrannosaurus-rex-fuer-43-millionen-dollar-versteigert-a-b851a9a2-860d-4d43-8a5b-3a2350660528#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-koennte-die-stadt-kostjantyniwka-einnehmen-aber-zu-welchem-preis](https://www.spiegel.de/ausland/ukraine-krieg-russland-koennte-die-stadt-kostjantyniwka-einnehmen-aber-zu-welchem-preis-a-b3878ddd-bd7c-4c77-b50c-beae90430fd5#ref=rss)
-### kostjantyniwka
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-koennte-die-stadt-kostjantyniwka-einnehmen-aber-zu-welchem-preis](https://www.spiegel.de/ausland/ukraine-krieg-russland-koennte-die-stadt-kostjantyniwka-einnehmen-aber-zu-welchem-preis-a-b3878ddd-bd7c-4c77-b50c-beae90430fd5#ref=rss)
-### britische
-
-* [https://www.spiegel.de/ausland/coronapandemie-britische-regierung-soll-zehn-milliarden-pfund-verschwendet-haben](https://www.spiegel.de/ausland/coronapandemie-britische-regierung-soll-zehn-milliarden-pfund-verschwendet-haben-a-4c5fa4ee-08c9-4a9f-8c2a-284613941d78#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/coronapandemie-britische-regierung-soll-zehn-milliarden-pfund-verschwendet-haben](https://www.spiegel.de/ausland/coronapandemie-britische-regierung-soll-zehn-milliarden-pfund-verschwendet-haben-a-4c5fa4ee-08c9-4a9f-8c2a-284613941d78#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/panorama/justiz/linksextremismus-angeklagte-der-hammerbande-schildert-motive-fuer-angriffe-in-ungarn](https://www.spiegel.de/panorama/justiz/linksextremismus-angeklagte-der-hammerbande-schildert-motive-fuer-angriffe-in-ungarn-a-bb242689-92fc-420b-8d89-e0a9c8f09465#ref=rss)
-* [https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich](https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich-a-de34a378-bb81-4b9d-8f56-c723297a586c#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-am-franzoesischen-nationalfeiertag-a-90043fdb-fbd4-4284-8e03-97f98549fb55#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rauchen-schwarz-rot-macht-tabak-zum-luxus](https://www.spiegel.de/politik/deutschland/rauchen-schwarz-rot-macht-tabak-zum-luxus-a-f58031b8-24bf-4681-ba97-e9fe3ecf59b5#ref=rss)
-### mossadplan
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss)
-* [https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte](https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss)
-### berichte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss)
-* [https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich](https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich-a-de34a378-bb81-4b9d-8f56-c723297a586c#ref=rss)
-### israels
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss)
-* [https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte](https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus](https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus-a-b01cd651-eac1-4ea8-943e-f10a27720d74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus](https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus-a-b01cd651-eac1-4ea8-943e-f10a27720d74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus](https://www.spiegel.de/sport/fussball/fussball-wm-frankreich-kylian-mbappe-und-die-weltmeisterschaft-des-rassismus-a-b01cd651-eac1-4ea8-943e-f10a27720d74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-### beers
-
-* [https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen](https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen-a-e62d5606-47f7-4141-94e1-e9e7e5605130#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen](https://www.spiegel.de/wirtschaft/de-beers-diamantenkonzern-will-suedafrikas-groesste-mine-zwei-jahre-stilllegen-a-e62d5606-47f7-4141-94e1-e9e7e5605130#ref=rss)
-* [https://www.spiegel.de/psychologie/klimakrise-es-ist-gesund-angst-zu-haben](https://www.spiegel.de/psychologie/klimakrise-es-ist-gesund-angst-zu-haben-a-4ec69e52-ba00-4be1-ab4a-f4ae2752f021#ref=rss)
-### andere
-
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-### wege
-
-* [https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen](https://www.spiegel.de/sport/fussball/dfb-nach-scheitern-bei-wm-der-deutsche-fussball-braucht-mehr-frauen-a-54914b30-a8d6-4fe5-b33b-ccef77ceb952#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt](https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt-a-32bfed4a-f6e8-481b-8b03-cc84a9f85eeb#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-### jede
-
-* [https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten](https://www.spiegel.de/ausland/donald-trump-will-nun-doch-auf-schutzzoll-fuer-schifffahrt-durch-strasse-von-hormus-verzichten-a-3ffea398-4b31-4851-a9b8-655b127cb200#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-### namen
-
-* [https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers](https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers-a-87f6b464-f58e-47d1-a486-7ddc07f886dd#ref=rss)
-### stellte
-
-* [https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers](https://www.spiegel.de/wissenschaft/mensch/maya-staette-archaeologen-entschluesseln-namen-eines-astronoms-und-mathematikers-a-87f6b464-f58e-47d1-a486-7ddc07f886dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
-### warren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### buffett
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### bill
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-setzt-milliardenspende-an-stiftung-von-bill-gates-aus-a-6022936e-3c02-4726-990f-481f8c6bc022#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt](https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt-a-32bfed4a-f6e8-481b-8b03-cc84a9f85eeb#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert](https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert-a-09ee7831-cb3e-44af-8c20-c65cef8519f2#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt](https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt-a-32bfed4a-f6e8-481b-8b03-cc84a9f85eeb#ref=rss)
-* [https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand](https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand-a-06104481-1c0e-4a41-855e-2e4ba399f3b5#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt](https://www.spiegel.de/wissenschaft/medizin/zahl-der-ebolainfizierten-laut-who-wohl-mindestens-doppelt-so-hoch-wie-bekannt-a-32bfed4a-f6e8-481b-8b03-cc84a9f85eeb#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert](https://www.spiegel.de/panorama/stuttgart-krokodil-wuergt-schnuller-hoch-tierschuetzer-empoert-a-09ee7831-cb3e-44af-8c20-c65cef8519f2#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich](https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich-a-de34a378-bb81-4b9d-8f56-c723297a586c#ref=rss)
-### ukrainer
-
-* [https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich](https://www.spiegel.de/ausland/polen-berichte-ueber-angriffe-auf-ukrainer-haeufen-sich-a-de34a378-bb81-4b9d-8f56-c723297a586c#ref=rss)
-### braunschweig
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### menschliche
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### knochen
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### etlichen
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### gärten
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
-### liegen
-
-* [https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen](https://www.spiegel.de/wissenschaft/braunschweig-warum-menschliche-knochen-in-etlichen-gaerten-liegen-a-88b671e4-176e-40d5-9133-2596ed554cc0#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern](https://www.spiegel.de/sport/fussball/fussball-wm-lionel-messi-oder-kylian-mbappe-wen-darf-man-jetzt-anfeuern-a-101b0586-28bb-43ae-9e08-bde8bcc8258e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
-### reagiert
+* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe](https://www.spiegel.de/kultur/ns-raubkunst-bayern-reagiert-mit-forschungszentrum-und-picasso-rueckgabe-a-37eb5639-aaf2-4859-b499-627aed709505#ref=rss)
-### unfall
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen](https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen-a-84994e9c-32c7-4311-9e63-819b827a4cf0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
-* [https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand](https://www.spiegel.de/panorama/bruessel-mehrere-tote-nach-gebaeudebrand-a-06104481-1c0e-4a41-855e-2e4ba399f3b5#ref=rss)
-### fahrer
+* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen](https://www.spiegel.de/panorama/justiz/niederlande-14-jaehrige-bei-unfall-gestorben-fahrer-aus-deutschland-freigesprochen-a-4c42bc2f-6fb7-484d-a918-8bc866108341#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+### dessen
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer](https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer-a-6ce527b7-6a56-4f1e-959a-7c4a91d21324#ref=rss)
+* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+### falklandkrieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+### 16
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### cdukanzler
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
+### anderthalb
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
+* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
+### studie
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
+* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
+### kylie
+
+* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
+### jenner
+
+* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
+### kibrillen
+
+* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen](https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen-a-84994e9c-32c7-4311-9e63-819b827a4cf0#ref=rss)
+### john
+
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+### lennon
+
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+### elvis
+
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+### presley
+
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+### einst
+
+* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
+* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
+### schulden
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+### erkrankungen
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+### viele
+
+* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
+* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
+### mitglieder
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
+### diesel
+
+* [https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer](https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer-a-6ce527b7-6a56-4f1e-959a-7c4a91d21324#ref=rss)
+### with
+
+* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
+### love
+
+* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
+### dua
+
+* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
+### lipa
+
+* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
+### quiz
+
+* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
+### alles
+
+* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
+* [https://www.spiegel.de/politik/reform-des-informationsfreiheitsgesetzes-mit-diesem-trick-duerfen-union-und-spd-nicht-durchkommen](https://www.spiegel.de/politik/reform-des-informationsfreiheitsgesetzes-mit-diesem-trick-duerfen-union-und-spd-nicht-durchkommen-a-aa515591-fba6-452a-a0f0-1c128c23e64a#ref=rss)
+### angehörige
+
+* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
+### werfen
+
+* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
+### dghs
+
+* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
+### leichtfertigkeit
+
+* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/gadgets/openai-arbeitet-angeblich-an-chatgpt-lautsprecher-mit-extras](https://www.spiegel.de/netzwelt/gadgets/openai-arbeitet-angeblich-an-chatgpt-lautsprecher-mit-extras-a-d298bc9c-301b-4911-ad9a-3494c860864d#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+### 1986
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
+### marla
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
+### svenja
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
+### san
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+### francisco
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+### boot
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+### alcatraz
+
+* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
+### 20000
+
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+### schweine
+
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+### unter
+
+* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
+* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
+### miete
+
+* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### air
+
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### force
+
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### one
+
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### schwächen
+
+* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+### uwe
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### steimle
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### tino
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### chrupalla
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### ulrich
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+### siegmund
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
 
