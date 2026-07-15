@@ -6,318 +6,316 @@ tags: __no_header__
 
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen](https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen-a-84994e9c-32c7-4311-9e63-819b827a4cf0#ref=rss)
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei-a-7e1e9487-6819-4242-b9bb-9ef91d2952b9#ref=rss)
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-### dessen
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss)
+### markus
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit](https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer](https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer-a-6ce527b7-6a56-4f1e-959a-7c4a91d21324#ref=rss)
-* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### meghan
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen](https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen-a-75add19c-0010-425e-b203-8698ab603d29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-### falklandkrieg
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
 * [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
-### 16
+* [https://www.spiegel.de/wissenschaft/mensch/saharastaub-europa-immer-staerker-betroffen](https://www.spiegel.de/wissenschaft/mensch/saharastaub-europa-immer-staerker-betroffen-a-4d854f11-783d-44e1-97b3-6a433a0da27a#ref=rss)
+### system
 
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban](https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss)
+### kürzungen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china](https://www.spiegel.de/wirtschaft/deutsche-maschinenbauer-fordern-besseren-schutz-vor-unfairem-wettbewerb-aus-china-a-88f94877-dbb8-431e-a3a7-30cefcd9ab3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### cdukanzler
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen-a-c9a99336-28af-4325-b9db-327ec88f528f#ref=rss)
+### humanitäre
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
-### anderthalb
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-### antworten
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sagt-der-cdu-kanzler-auf-seiner-sommerpressekonferenz-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss)
-* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
-### studie
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+### andere
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart](https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart-a-c7d24876-372a-411e-9e74-96e541b02b88#ref=rss)
+### kürzen
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-### eltern
+* [https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft](https://www.spiegel.de/ausland/kuerzungen-bei-internationalen-organisationen-hat-die-humanitaere-hilfe-eine-zukunft-a-38e897d9-ad7d-44f9-afe9-f313429d70be#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll-a-d4b2b872-2f8b-4826-b3bd-3f4b0bac00b4#ref=rss)
+### nobby
 
-* [https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern](https://www.spiegel.de/karriere/kita-rechtsanspruch-studie-zeigt-mehr-elternzeit-bei-vaetern-und-schnellere-rueckkehr-von-muettern-a-80da229f-f584-4577-993d-2380659aab62#ref=rss)
-* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
-### kylie
+* [https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten](https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten-a-80b52820-82da-479f-942f-98678b5ec31d#ref=rss)
+### stiles
 
-* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
-### jenner
+* [https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten](https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten-a-80b52820-82da-479f-942f-98678b5ec31d#ref=rss)
+### kopfbälle
 
-* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
-### kibrillen
-
-* [https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen](https://www.spiegel.de/netzwelt/gadgets/kylie-jenner-aktivisten-entstellen-werbung-fuer-metas-ki-brillen-a-ebf00011-9ea6-4239-aa61-81d3c5f1ad3a#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen](https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen-a-84994e9c-32c7-4311-9e63-819b827a4cf0#ref=rss)
-### john
-
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-### lennon
-
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-### elvis
-
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-### presley
-
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-### einst
-
-* [https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley](https://www.spiegel.de/kultur/musik/john-lennon-warnte-mick-jagger-vor-elvis-presley-a-06aa0266-6b6e-4ce8-9dc7-36d1bf1ddc73#ref=rss)
-* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
-### schulden
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
-### erkrankungen
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten](https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten-a-80b52820-82da-479f-942f-98678b5ec31d#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland](https://www.spiegel.de/wirtschaft/service/schulden-erkrankungen-und-jobverlust-sind-haeufigste-gruende-fuer-ueberschuldung-in-deutschland-a-adf0f249-e50f-4a1a-9fe7-2f40db50e569#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-### viele
+* [https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten](https://www.spiegel.de/sport/fussball/fussball-weltmeister-nobby-stiles-wie-kopfbaelle-wohl-zu-seinem-tod-fuehrten-a-80b52820-82da-479f-942f-98678b5ec31d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart](https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart-a-c7d24876-372a-411e-9e74-96e541b02b88#ref=rss)
+### wärmepumpe
 
-* [https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten](https://www.spiegel.de/geschichte/historische-buergerwehr-in-bayern-warum-sich-buerger-einst-fuer-die-demokratie-bewaffneten-a-d3f9d464-9101-4331-aa6d-f4d5e9bbbf0e#ref=rss)
-* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
-### mitglieder
+* [https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart](https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart-a-c7d24876-372a-411e-9e74-96e541b02b88#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart](https://www.spiegel.de/wirtschaft/waermepumpe-laut-iw-statistik-erstmals-am-haeufigsten-eingebaute-heizungsart-a-c7d24876-372a-411e-9e74-96e541b02b88#ref=rss)
+* [https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen](https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen-a-5aa0e817-e2e1-466d-8f18-56a46c5b7cbc#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h](https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h-a-96638e51-fe8b-4060-bd41-4199ce68ef11#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder-a-e5ba1aa0-1fa8-440a-a87c-c5913e629061#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h](https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h-a-96638e51-fe8b-4060-bd41-4199ce68ef11#ref=rss)
+### pogačar
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h](https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h-a-96638e51-fe8b-4060-bd41-4199ce68ef11#ref=rss)
+### 509
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h](https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h-a-96638e51-fe8b-4060-bd41-4199ce68ef11#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h](https://www.spiegel.de/sport/radsport/tour-de-france-2026-11-etappe-tadej-pogacar-staunt-ueber-rekordtempo-von-50-9-km-h-a-96638e51-fe8b-4060-bd41-4199ce68ef11#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-eu-kommission-akzeptiert-aenderungsvorschlaege-fuer-x](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-eu-kommission-akzeptiert-aenderungsvorschlaege-fuer-x-a-9db55d58-17a6-4731-b9e5-316ad9155770#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-eu-kommission-akzeptiert-aenderungsvorschlaege-fuer-x](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-eu-kommission-akzeptiert-aenderungsvorschlaege-fuer-x-a-9db55d58-17a6-4731-b9e5-316ad9155770#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/panorama/kiel-vize-schulleiter-wegen-beziehung-mit-schuelerin-aus-beamtenverhaeltnis-entlassen](https://www.spiegel.de/panorama/kiel-vize-schulleiter-wegen-beziehung-mit-schuelerin-aus-beamtenverhaeltnis-entlassen-a-2cd781b1-d035-4b20-8613-ec83c0fc526a#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/panorama/kiel-vize-schulleiter-wegen-beziehung-mit-schuelerin-aus-beamtenverhaeltnis-entlassen](https://www.spiegel.de/panorama/kiel-vize-schulleiter-wegen-beziehung-mit-schuelerin-aus-beamtenverhaeltnis-entlassen-a-2cd781b1-d035-4b20-8613-ec83c0fc526a#ref=rss)
+### unterhaltsvorschuss
+
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll-a-d4b2b872-2f8b-4826-b3bd-3f4b0bac00b4#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll-a-d4b2b872-2f8b-4826-b3bd-3f4b0bac00b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen-a-c9a99336-28af-4325-b9db-327ec88f528f#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll](https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll-a-d4b2b872-2f8b-4826-b3bd-3f4b0bac00b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban](https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder-a-e5ba1aa0-1fa8-440a-a87c-c5913e629061#ref=rss)
+### tuchel
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder-a-e5ba1aa0-1fa8-440a-a87c-c5913e629061#ref=rss)
+### england
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder](https://www.spiegel.de/sport/fussball/wm-2026-thomas-tuchel-hat-in-england-herzen-erobert-verliert-er-sie-gerade-wieder-a-e5ba1aa0-1fa8-440a-a87c-c5913e629061#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban](https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen](https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen-a-75add19c-0010-425e-b203-8698ab603d29#ref=rss)
+### lernfähiges
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+### namen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lidl-hacker-stehlen-daten-von-kunden-des-onlineshops](https://www.spiegel.de/wirtschaft/service/lidl-hacker-stehlen-daten-von-kunden-des-onlineshops-a-f29a24c0-ac91-4688-817f-36598fbf0ba4#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/wirtschaft/service/ktf-kuerzungen-antworten-auf-die-wichtigsten-fragen-a-c9a99336-28af-4325-b9db-327ec88f528f#ref=rss)
+### amtszeit
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz](https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit](https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei-a-7e1e9487-6819-4242-b9bb-9ef91d2952b9#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-spanien-frankreich-deutschland-diese-feuersaison-ist-noch-lange-nicht-vorbei-a-7e1e9487-6819-4242-b9bb-9ef91d2952b9#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/gescheitertes-fregatten-projekt-pistorius-drohen-nachforderungen-in-hoehe-von-hunderten-millionen-euro](https://www.spiegel.de/politik/deutschland/gescheitertes-fregatten-projekt-pistorius-drohen-nachforderungen-in-hoehe-von-hunderten-millionen-euro-a-898f5a72-f68b-4ae7-86f2-ee883f86c44b#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-kyjiw-russische-tanker-mit-drohnen-angreift-a-196803f7-f0f1-4142-8ce5-31efacc43dc4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen](https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen-a-75add19c-0010-425e-b203-8698ab603d29#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit](https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit](https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss)
+### zweimal
+
+* [https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit](https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### großbrand
+
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+### munition
+
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+### behindert
+
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+### einsatzkräfte
+
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+* [https://www.spiegel.de/panorama/halstenbek-vermeintliche-giftschlange-entpuppt-sich-als-ki-fake-foto](https://www.spiegel.de/panorama/halstenbek-vermeintliche-giftschlange-entpuppt-sich-als-ki-fake-foto-a-02459f97-ef47-405c-80b3-17dc796a56d4#ref=rss)
+### alter
+
+* [https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten](https://www.spiegel.de/panorama/grossbrand-in-mecklenburg-vorpommern-explodierende-munition-behindert-loescharbeiten-a-0bdc814c-13fc-4119-a085-50ff841c6dea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### christopher
+
+* [https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film](https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film-a-78be5790-d650-4f7d-806a-4580189a1da2#ref=rss)
+### nolans
+
+* [https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film](https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film-a-78be5790-d650-4f7d-806a-4580189a1da2#ref=rss)
+### odyssee
+
+* [https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film](https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film-a-78be5790-d650-4f7d-806a-4580189a1da2#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film](https://www.spiegel.de/kultur/christopher-nolans-odyssee-mit-matt-damon-man-liebt-oder-hasst-diesen-film-a-78be5790-d650-4f7d-806a-4580189a1da2#ref=rss)
+### bottrop
+
+* [https://www.spiegel.de/panorama/bottrop-voegel-brueten-in-getraenkemarkt](https://www.spiegel.de/panorama/bottrop-voegel-brueten-in-getraenkemarkt-a-41ae4d9c-9307-4b66-bd9b-28cd0122b7d1#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban](https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss)
-### diesel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+### auftritt
 
-* [https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer](https://www.spiegel.de/wirtschaft/diesel-wird-im-wochenvergleich-um-fast-zwoelf-cent-teurer-a-6ce527b7-6a56-4f1e-959a-7c4a91d21324#ref=rss)
-### with
-
-* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
-### love
-
-* [https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert](https://www.spiegel.de/kultur/tv/meghan-markle-herzogin-fuer-netflix-show-with-love-meghan-fuer-daytime-emmy-nominiert-a-12b77bd8-6f1b-4a1b-93c6-2d360c6f4ee8#ref=rss)
-### dua
-
-* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
-### lipa
-
-* [https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans](https://www.spiegel.de/ausland/dua-lipa-stellt-sich-gegen-albanien-plaene-des-trump-clans-a-70f8e5bc-5760-4b84-b27b-213fd21b3e91#ref=rss)
-### quiz
-
-* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
-### alles
-
-* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst](https://www.spiegel.de/deinspiegel/quiz-alles-was-du-ueber-zecken-wissen-musst-a-888e16cb-30ed-4e3f-91ae-54b8c25dc0b8#ref=rss)
-* [https://www.spiegel.de/politik/reform-des-informationsfreiheitsgesetzes-mit-diesem-trick-duerfen-union-und-spd-nicht-durchkommen](https://www.spiegel.de/politik/reform-des-informationsfreiheitsgesetzes-mit-diesem-trick-duerfen-union-und-spd-nicht-durchkommen-a-aa515591-fba6-452a-a0f0-1c128c23e64a#ref=rss)
-### angehörige
-
-* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
-### dghs
-
-* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
-### leichtfertigkeit
-
-* [https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor](https://www.spiegel.de/panorama/gesellschaft/suizidhilfe-und-ihre-folgen-angehoerige-werfen-dghs-leichtfertigkeit-vor-a-3c31ed3c-ddb4-43cf-ac23-5478a775eac2#ref=rss)
-### niederlanden
-
-* [https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/drogenrazzia-in-deutschland-und-den-niederlanden-mehrere-festnahmen-a-752f2b28-a68e-4b53-b142-895b9ba81e3b#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/gadgets/openai-arbeitet-angeblich-an-chatgpt-lautsprecher-mit-extras](https://www.spiegel.de/netzwelt/gadgets/openai-arbeitet-angeblich-an-chatgpt-lautsprecher-mit-extras-a-d298bc9c-301b-4911-ad9a-3494c860864d#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien](https://www.spiegel.de/sport/fussball/fussball-wm-news-heute-eine-lektion-fuer-die-welt-presse-feiert-spanien-a-5abf0e38-8979-4f4a-ba88-7532f626e933#ref=rss)
-### 1986
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich](https://www.spiegel.de/sport/fussball/fussball-wm-1986-ali-ben-nasser-liess-die-hand-gottes-gewaehren-und-wurde-spaeter-damit-reich-a-14adcc53-53e1-4ab9-af9a-46871c0b8e15#ref=rss)
-* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
-### marla
-
-* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
-### svenja
-
-* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
-### liebich
-
-* [https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert](https://www.spiegel.de/panorama/justiz/neonazi-marla-svenja-liebich-an-deutschland-ausgeliefert-a-43144c49-0d0f-4914-b241-b8a91a1f2d22#ref=rss)
-### san
-
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-### francisco
-
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-### boot
-
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-### alcatraz
-
-* [https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz](https://www.spiegel.de/panorama/san-francisco-ein-toter-und-zwei-vermisste-bei-kentern-von-boot-nahe-alcatraz-a-dcadf415-da9b-43ed-bb8e-56a4e9e0a967#ref=rss)
-### 20000
-
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-### schweine
-
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-### sterben
-
-* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall](https://www.spiegel.de/wirtschaft/sachsen-anhalt-20-000-schweine-sterben-bei-grossbrand-in-schweinestall-a-0793770b-1ee2-4d3b-a28a-9ce169e441ae#ref=rss)
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-### unter
-
-* [https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige](https://www.spiegel.de/netzwelt/grossbritannien-regierung-plant-naechtliche-social-media-sperre-fuer-16-und-17-jaehrige-a-c5560856-55c3-4186-b8a1-2dc276f77905#ref=rss)
-* [https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest](https://www.spiegel.de/ausland/youlin-chen-china-haelt-seit-rund-anderthalb-jahren-us-experten-fuer-unterirdische-nukleartests-fest-a-f335f924-0a80-46b1-a179-f46b1c41948e#ref=rss)
-### florida
-
-* [https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter](https://www.spiegel.de/panorama/usa-florida-vollstreckt-todesstrafe-an-haeftlingen-im-rentenalter-a-980ceef6-630a-4331-aa85-e772fa1cec42#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
-### miete
-
-* [https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus](https://www.spiegel.de/start/wohnkosten-studierende-geben-54-prozent-ihres-einkommens-fuer-miete-aus-a-84c49ad6-efeb-4f9c-ad61-1d42137a3020#ref=rss)
-### tod
-
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein](https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen](https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen-a-75add19c-0010-425e-b203-8698ab603d29#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet](https://www.spiegel.de/ausland/lindsey-graham-ist-tot-was-sein-tod-fuer-europas-zugang-zu-donald-trump-bedeutet-a-2c28ce55-96f4-42b7-aaf4-7c8b99f3f8d9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### hitze
+* [https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen](https://www.spiegel.de/wirtschaft/soziales/usa-verdirbt-die-hohe-inflation-donald-trump-die-zwischenwahlen-a-75add19c-0010-425e-b203-8698ab603d29#ref=rss)
+### jens
 
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit](https://www.spiegel.de/start/hitze-in-deutschland-politik-ignoriert-risiken-fuer-wirtschaft-und-arbeit-a-ac02a851-8f66-4e7b-a27b-cc8431ca8092#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### ehemann
 
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### air
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### force
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### funke
 
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### one
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden](https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### schwächen
+* [https://www.spiegel.de/wissenschaft/mensch/saharastaub-europa-immer-staerker-betroffen](https://www.spiegel.de/wissenschaft/mensch/saharastaub-europa-immer-staerker-betroffen-a-4d854f11-783d-44e1-97b3-6a433a0da27a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lidl-hacker-stehlen-daten-von-kunden-des-onlineshops](https://www.spiegel.de/wirtschaft/service/lidl-hacker-stehlen-daten-von-kunden-des-onlineshops-a-f29a24c0-ac91-4688-817f-36598fbf0ba4#ref=rss)
+### sat2
 
-* [https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit](https://www.spiegel.de/ausland/usa-die-neue-air-force-one-hat-offenbar-schwaechen-bei-der-sicherheit-a-df254934-ce3e-48b8-a6a6-0ae94eeef7c4#ref=rss)
-### uwe
+* [https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen](https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen-a-5aa0e817-e2e1-466d-8f18-56a46c5b7cbc#ref=rss)
+### prosiebensat1
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### steimle
+* [https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen](https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen-a-5aa0e817-e2e1-466d-8f18-56a46c5b7cbc#ref=rss)
+### startet
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### tino
+* [https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen](https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen-a-5aa0e817-e2e1-466d-8f18-56a46c5b7cbc#ref=rss)
+### fernsehen
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### chrupalla
+* [https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen](https://www.spiegel.de/kultur/sat-2-prosiebensat-1-startet-neuen-kanal-im-linearen-fernsehen-a-5aa0e817-e2e1-466d-8f18-56a46c5b7cbc#ref=rss)
+### bord
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### ulrich
+* [https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen](https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen-a-a35219cb-02be-45e9-8cbd-a5d4298f36ae#ref=rss)
+### zugchef
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
-### siegmund
+* [https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen](https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen-a-a35219cb-02be-45e9-8cbd-a5d4298f36ae#ref=rss)
+### ice
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen](https://www.spiegel.de/mobilitaet/hamburg-bergedorf-kein-klopapier-an-bord-zugchef-stoppt-ice-und-geht-einkaufen-a-a35219cb-02be-45e9-8cbd-a5d4298f36ae#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban](https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss)
+### beierle
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### 54
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben](https://www.spiegel.de/sport/fussball/markus-beierle-ist-tot-ex-bundesligastuermer-von-eintracht-frankfurt-mit-54-jahren-gestorben-a-002e5ca5-bf3b-44ea-bb06-26c18625f75b#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch](https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch-a-8be5aaae-5d8a-45bb-84d5-e795179650f1#ref=rss)
+### zielt
+
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch](https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch-a-8be5aaae-5d8a-45bb-84d5-e795179650f1#ref=rss)
+### waffe
+
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch](https://www.spiegel.de/panorama/justiz/dresden-mann-zielt-mit-waffe-auf-supermarktbesucher-und-ruft-islamischen-spruch-a-8be5aaae-5d8a-45bb-84d5-e795179650f1#ref=rss)
 
