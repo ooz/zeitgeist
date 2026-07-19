@@ -4,352 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen](https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen-a-a3513a09-5996-41b4-8e30-55b08077d20f#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung](https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung-a-9624e895-d80c-4f08-adb6-745daaa54ebd#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr](https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr-a-09e96b7f-f64e-4ce1-a167-5a0787d85b44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren](https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren-a-28cc5d69-3a99-4fed-8a06-f5a86dfbf968#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest](https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest-a-23077e1d-7e55-40a8-87bf-6ea41302b6c9#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### ich
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr](https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr-a-09e96b7f-f64e-4ce1-a167-5a0787d85b44#ref=rss)
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein](https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein-a-26b92de3-0b84-43a6-b519-16e94e8861f1#ref=rss)
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
 ### wm
 
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
 * [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-### argentinien
+* [https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen](https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen-a-29baa43e-2f64-43b5-a957-426b1ca8d6b5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind](https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind-a-3b8e1e06-5540-4762-ad8d-c26a0bdd4604#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### 2026
 
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
 * [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-### folge
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee-a-4e80349d-8afa-4e8a-b1c4-9552cf69b459#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen](https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen-a-a3513a09-5996-41b4-8e30-55b08077d20f#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-c97c164e-87e7-43a3-9403-aa207a6fdae4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen](https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen-a-5704d48f-513b-4907-8beb-ed4f9c4ad473#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen](https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen-a-29baa43e-2f64-43b5-a957-426b1ca8d6b5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind](https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind-a-3b8e1e06-5540-4762-ad8d-c26a0bdd4604#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung](https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung-a-9624e895-d80c-4f08-adb6-745daaa54ebd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee-a-4e80349d-8afa-4e8a-b1c4-9552cf69b459#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-### bad
-
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-* [https://www.spiegel.de/kultur/rtl-von-bachelor-bis-bad-boyfriends-warum-behandelt-der-sender-frauen-so-mies](https://www.spiegel.de/kultur/rtl-von-bachelor-bis-bad-boyfriends-warum-behandelt-der-sender-frauen-so-mies-a-3edb0aec-2371-47e8-af72-f0a8c47f116e#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen](https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen-a-29baa43e-2f64-43b5-a957-426b1ca8d6b5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind](https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind-a-3b8e1e06-5540-4762-ad8d-c26a0bdd4604#ref=rss)
 ### spanien
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-### fordert
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen](https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen-a-c4205524-a35b-4d81-b4da-3a383f870319#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### argentinien
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern](https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern-a-8fd4d425-234b-4e37-97b1-d3a3026a91d6#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### ussoldaten
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### tate
-
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### woche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren](https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren-a-28cc5d69-3a99-4fed-8a06-f5a86dfbf968#ref=rss)
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-c97c164e-87e7-43a3-9403-aa207a6fdae4#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte-a-fb73da9b-a157-461e-b032-37eb2e2aaed1#ref=rss)
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss)
-### heiraten
-
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/heiraten-wie-sie-eine-zu-teure-hochzeit-hoeflich-ablehnen](https://www.spiegel.de/partnerschaft/heiraten-wie-sie-eine-zu-teure-hochzeit-hoeflich-ablehnen-a-5292a87f-a24b-42da-afab-8846cbe05ff8#ref=rss)
-### platz
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte-a-fb73da9b-a157-461e-b032-37eb2e2aaed1#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-### mali
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali](https://www.spiegel.de/ausland/dschihadisten-toeten-dutzende-soldaten-bei-angriff-in-mali-a-16d205a2-c9b7-4f9c-a2cd-e585c36f5c4b#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern](https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern-a-8fd4d425-234b-4e37-97b1-d3a3026a91d6#ref=rss)
-### lionel
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### offenbar
 
 * [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-### messi
+* [https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen](https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen-a-7292b656-9bbf-40e4-98e8-ba048e8d5f25#ref=rss)
+* [https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste](https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste-a-dd638c2b-3bde-47b2-8c14-c30f3509209b#ref=rss)
+### tour
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
-### bunny
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### de
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-### schweren
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### france
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-### unwetters
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### jonas
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-### abbrechen
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### vingegaard
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-### mehrere
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### meer
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
-### verletzt
+* [https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer](https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer-a-48c91b0d-a004-4bfe-a8a9-cfbbd15289f1#ref=rss)
+* [https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet](https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet-a-bcb14dfe-1360-49e2-8a20-cee1769edab9#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen](https://www.spiegel.de/kultur/bad-bunny-muss-konzert-wegen-schwerem-unwetter-abbrechen-a-3f57f905-e4f9-43d0-9c22-f8789be65e10#ref=rss)
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-### erdbeben
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
+* [https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen](https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen-a-29baa43e-2f64-43b5-a957-426b1ca8d6b5#ref=rss)
+### jens
 
-* [https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein](https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein-a-26b92de3-0b84-43a6-b519-16e94e8861f1#ref=rss)
-### venezuela
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein](https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein-a-26b92de3-0b84-43a6-b519-16e94e8861f1#ref=rss)
-### haustiere
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### neu
 
-* [https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein](https://www.spiegel.de/ausland/erdbeben-in-venezuela-tierschuetzer-richten-notunterkunft-fuer-gerettete-haustiere-ein-a-26b92de3-0b84-43a6-b519-16e94e8861f1#ref=rss)
-### i̇lkay
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-### gündoğan
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird](https://www.spiegel.de/sport/fussball/wm-2026-ilkay-guendogan-warum-ich-glaube-dass-spanien-weltmeister-wird-a-df28c6e8-d9f0-4f34-93f2-3e2479eae4b1#ref=rss)
-### a45
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-### lebensgefährlich
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte-a-fb73da9b-a157-461e-b032-37eb2e2aaed1#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-### starben
-
-* [https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall](https://www.spiegel.de/panorama/a45-in-hessen-zwei-tote-und-drei-lebensgefaehrlich-verletzte-nach-geisterfahrer-unfall-a-77ca52e2-560f-442f-927b-b7aea9405b88#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern](https://www.spiegel.de/panorama/deutsche-bahn-gdl-chef-fordert-gesetzesaenderungen-zum-schutz-von-bahn-mitarbeitern-a-8fd4d425-234b-4e37-97b1-d3a3026a91d6#ref=rss)
-### grundsteuer
-
-* [https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen](https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen-a-a3513a09-5996-41b4-8e30-55b08077d20f#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen](https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen-a-a3513a09-5996-41b4-8e30-55b08077d20f#ref=rss)
-### eigentümer
-
-* [https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen](https://www.spiegel.de/politik/deutschland/grundsteuer-in-nordrhein-westfalen-wo-eigentuemer-kuenftig-deutlich-mehr-zahlen-a-a3513a09-5996-41b4-8e30-55b08077d20f#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen](https://www.spiegel.de/sport/fussball/wm-2026-was-sie-vor-dem-finale-zwischen-spanien-und-argentinien-wissen-muessen-a-d606f042-a128-4c5a-b121-e2b8bd03b8fc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/kultur/tv/zdf-nach-danger-dan-ausladung-die-anstalt-zerlegt-sich-selbst](https://www.spiegel.de/kultur/tv/zdf-nach-danger-dan-ausladung-die-anstalt-zerlegt-sich-selbst-a-bccc1c75-cbed-4ffd-a29b-3bb8146aa269#ref=rss)
-### anstalt
-
-* [https://www.spiegel.de/kultur/tv/zdf-nach-danger-dan-ausladung-die-anstalt-zerlegt-sich-selbst](https://www.spiegel.de/kultur/tv/zdf-nach-danger-dan-ausladung-die-anstalt-zerlegt-sich-selbst-a-bccc1c75-cbed-4ffd-a29b-3bb8146aa269#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren](https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren-a-28cc5d69-3a99-4fed-8a06-f5a86dfbf968#ref=rss)
-### bombardieren
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### tod
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### zweier
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### ziele
-
-* [https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran](https://www.spiegel.de/politik/deutschland/lage-am-sonntag-spahns-ruecktritt-rechtsungleichheit-und-us-angriffe-auf-iran-a-b63a376e-712d-49ed-90f0-aafe55085702#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung](https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung-a-9624e895-d80c-4f08-adb6-745daaa54ebd#ref=rss)
-### lafer
-
-* [https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr](https://www.spiegel.de/panorama/leute/johann-lafer-ueber-krebstherapie-ich-habe-keinen-geschmack-mehr-a-09e96b7f-f64e-4ce1-a167-5a0787d85b44#ref=rss)
-### ausbildungsverträge
-
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
-### handwerk
-
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
-### nehmen
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+* [https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen](https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen-a-7292b656-9bbf-40e4-98e8-ba048e8d5f25#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+### aufgeben
 
-* [https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge](https://www.spiegel.de/karriere/ausbildung-zahl-der-ausbildungsvertraege-im-handwerk-steigt-viertes-jahr-in-folge-a-0651596e-ccb0-443e-b7a3-60902b047da8#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### andrew
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### tristan
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht](https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### fest
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet](https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet-a-bcb14dfe-1360-49e2-8a20-cee1769edab9#ref=rss)
+### kleidung
 
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest](https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest-a-23077e1d-7e55-40a8-87bf-6ea41302b6c9#ref=rss)
-### auslieferung
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung-a-039cb33d-f0f0-4821-9f5e-25d57e69ae2b#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt](https://www.spiegel.de/ausland/andrew-tate-und-tristan-tate-us-behoerden-nehmen-brueder-fest-auslieferung-beantragt-a-9856c69a-b1b9-4f02-92f1-d668cdc30c89#ref=rss)
-### tesla
+* [https://www.spiegel.de/panorama/waldbraende-feuer-im-mueritz-nationalpark-ausgebremst](https://www.spiegel.de/panorama/waldbraende-feuer-im-mueritz-nationalpark-ausgebremst-a-629a782d-d658-423e-97cd-03fb46e7ed3a#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### nacht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren](https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren-a-28cc5d69-3a99-4fed-8a06-f5a86dfbf968#ref=rss)
-### grünheide
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht](https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen](https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen-a-c4205524-a35b-4d81-b4da-3a383f870319#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren](https://www.spiegel.de/wirtschaft/unternehmen/gruenheide-tesla-will-in-deutschland-expandieren-a-28cc5d69-3a99-4fed-8a06-f5a86dfbf968#ref=rss)
-### christopher
+* [https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet](https://www.spiegel.de/ausland/indonesien-sieben-schiffbruechige-nach-tagen-auf-dem-meer-gerettet-a-bcb14dfe-1360-49e2-8a20-cee1769edab9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste](https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste-a-dd638c2b-3bde-47b2-8c14-c30f3509209b#ref=rss)
+### statt
 
-* [https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem](https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem-a-4dc31618-1978-49f6-9828-53e21ffcca3b#ref=rss)
-### nolan
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### fußball
 
-* [https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem](https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem-a-4dc31618-1978-49f6-9828-53e21ffcca3b#ref=rss)
-### ohne
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-und-politik-in-brasilien-wie-die-brasilianer-ihr-trikot-zurueckeroberten](https://www.spiegel.de/ausland/fussball-und-politik-in-brasilien-wie-die-brasilianer-ihr-trikot-zurueckeroberten-a-95553385-a5b4-4cd7-883c-7d7d60f0a846#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem](https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem-a-4dc31618-1978-49f6-9828-53e21ffcca3b#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-c97c164e-87e7-43a3-9403-aa207a6fdae4#ref=rss)
-### handy
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem](https://www.spiegel.de/panorama/leute/christopher-nolan-lebt-ohne-handy-aber-mit-menschlichem-vorwarnsystem-a-4dc31618-1978-49f6-9828-53e21ffcca3b#ref=rss)
-### ukraine
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-greift-kiew-massiv-an-dutzende-verletzte-a-fb73da9b-a157-461e-b032-37eb2e2aaed1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee-a-4e80349d-8afa-4e8a-b1c4-9552cf69b459#ref=rss)
-### land
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### sommerinterview
 
-* [https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran](https://www.spiegel.de/ausland/usa-bombardieren-nach-tod-zweier-us-soldaten-ziele-in-iran-a-254728c1-b17c-4840-9fa4-cdb3809578ba#ref=rss)
-### athen
+* [https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere](https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss)
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+### lionel
 
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-### macht
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+### messi
 
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-### umgehen
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+### erfand
 
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest](https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest-a-23077e1d-7e55-40a8-87bf-6ea41302b6c9#ref=rss)
-### zurück
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+### zweiten
 
-* [https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen](https://www.spiegel.de/ausland/athen-europas-heisseste-hauptstadt-macht-vor-wie-wir-mit-hitze-umgehen-koennen-a-8d9d743c-5cbc-4db3-b392-60538c7a2e60#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### fotografin
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+* [https://www.spiegel.de/panorama/a45-autobahnbruecken-sprengung-gelingt-erst-im-zweiten-anlauf](https://www.spiegel.de/panorama/a45-autobahnbruecken-sprengung-gelingt-erst-im-zweiten-anlauf-a-4e7d65ea-ea41-406b-94a5-045b89081797#ref=rss)
+### weltmeister
 
-* [https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest](https://www.spiegel.de/ausland/iran-eine-fotografin-haelt-das-leben-im-krieg-fest-a-23077e1d-7e55-40a8-87bf-6ea41302b6c9#ref=rss)
-### ziffer
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind](https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind-a-3b8e1e06-5540-4762-ad8d-c26a0bdd4604#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-c97c164e-87e7-43a3-9403-aa207a6fdae4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand](https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung-a-039cb33d-f0f0-4821-9f5e-25d57e69ae2b#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer](https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer-a-48c91b0d-a004-4bfe-a8a9-cfbbd15289f1#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+### hamilton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+### fährt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+### mechaniker
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an](https://www.spiegel.de/sport/formel1/formel-1-in-spa-kimi-antonelli-sieg-kritik-an-fehlender-power-und-lewis-hamilton-faehrt-mechaniker-an-a-e0acc32d-8d0a-4dcc-91c3-aed30820b5e7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+### warten
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei](https://www.spiegel.de/sport/fussball/wm-2026-news-blog-auf-verteidigen-hat-niemand-bock-die-pressestimmen-zum-zehn-tore-spiel-um-platz-drei-a-041a29fa-8c06-4534-a0f6-21cadd135e6a#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen](https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen-a-7292b656-9bbf-40e4-98e8-ba048e8d5f25#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen](https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen-a-7292b656-9bbf-40e4-98e8-ba048e8d5f25#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen](https://www.spiegel.de/ausland/trump-will-iran-in-russland-sanktionspaket-aufnehmen-lassen-a-7292b656-9bbf-40e4-98e8-ba048e8d5f25#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht](https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen](https://www.spiegel.de/sport/fussball-wm-2026-die-wm-in-bildern-die-eindrucksvollsten-szenen-a-29baa43e-2f64-43b5-a957-426b1ca8d6b5#ref=rss)
+### 15
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### etappe
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### rennen
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-stuerzt-auf-der-15-etappe-und-muss-das-rennen-aufgeben-a-62ba4873-3de1-4311-a208-76c6b60d96d9#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben](https://www.spiegel.de/sport/radsport/tour-de-france-jonas-vingegaard-muss-nach-sturz-aufgeben-a-63a8e663-6722-4f68-ab04-9ecd9db5cc17#ref=rss)
+### interview
+
+* [https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview](https://www.spiegel.de/politik/jens-spahn-friedrich-merz-zentrale-aussagen-aus-dem-sommerinterview-a-00163895-d382-422b-823a-fbaff91d97ca#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### politik
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-und-politik-in-brasilien-wie-die-brasilianer-ihr-trikot-zurueckeroberten](https://www.spiegel.de/ausland/fussball-und-politik-in-brasilien-wie-die-brasilianer-ihr-trikot-zurueckeroberten-a-95553385-a5b4-4cd7-883c-7d7d60f0a846#ref=rss)
+### umstrittenen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik](https://www.spiegel.de/sport/fussball/wm-2026-der-argentinische-fussball-aberglaube-erfasst-selbst-die-politik-a-f8cb25ab-0c91-40f2-b499-7ba597e08953#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral](https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral-a-6c5273d6-0ddb-4b91-ba91-d43ffb0e6c5a#ref=rss)
+### internet
+
+* [https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral](https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral-a-6c5273d6-0ddb-4b91-ba91-d43ffb0e6c5a#ref=rss)
+### viral
+
+* [https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral](https://www.spiegel.de/panorama/jimothy-video-von-waschbaer-mit-buckel-aus-seattle-geht-im-internet-viral-a-6c5273d6-0ddb-4b91-ba91-d43ffb0e6c5a#ref=rss)
+### fifaboss
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+### gianni
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+### infantino
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm](https://www.spiegel.de/sport/fussball/wm-2026-kommentar-zu-fifa-boss-gianni-infantino-die-misstrauensfrage-nach-der-super-wm-a-78c3e119-c526-4e96-977e-0d1dba8526c2#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-prueft-festnahme-benjamin-netanyahus-bei-un-generaldebatte](https://www.spiegel.de/ausland/zohran-mamdani-prueft-festnahme-benjamin-netanyahus-bei-un-generaldebatte-a-b212ff49-1bff-4c42-a39b-167483308188#ref=rss)
+### wo
+
+* [https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind](https://www.spiegel.de/sport/fussball/wm-prognose-2026-wo-wir-bei-unserem-ranking-falsch-lagen-und-worauf-wir-stolz-sind-a-3b8e1e06-5540-4762-ad8d-c26a0bdd4604#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung-a-039cb33d-f0f0-4821-9f5e-25d57e69ae2b#ref=rss)
+### großen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung-a-039cb33d-f0f0-4821-9f5e-25d57e69ae2b#ref=rss)
+### herstellern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/kreislaufwirtschaft-eu-untersagt-grossen-herstellern-entsorgung-unverkaufter-kleidung-a-039cb33d-f0f0-4821-9f5e-25d57e69ae2b#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht](https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht](https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss)
+### erling
+
+* [https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer](https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer-a-48c91b0d-a004-4bfe-a8a9-cfbbd15289f1#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer](https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer-a-48c91b0d-a004-4bfe-a8a9-cfbbd15289f1#ref=rss)
+### golfbälle
+
+* [https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer](https://www.spiegel.de/panorama/leute/erling-haaland-ich-fuettere-die-fische-streit-um-golfbaelle-im-meer-a-48c91b0d-a004-4bfe-a8a9-cfbbd15289f1#ref=rss)
+### waldbrand
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen](https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen-a-c4205524-a35b-4d81-b4da-3a383f870319#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen](https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen-a-c4205524-a35b-4d81-b4da-3a383f870319#ref=rss)
+### hektar
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen](https://www.spiegel.de/panorama/gesellschaft/spanien-grosser-waldbrand-bei-madrid-ausser-kontrolle-bereits-13-000-hektar-betroffen-a-c4205524-a35b-4d81-b4da-3a383f870319#ref=rss)
+### oberbayern
+
+* [https://www.spiegel.de/panorama/egling-in-oberbayern-messerangriff-auf-party-von-burschenverein-taeter-fluechtig](https://www.spiegel.de/panorama/egling-in-oberbayern-messerangriff-auf-party-von-burschenverein-taeter-fluechtig-a-d5d22ed3-7c8c-4a02-aa01-afca0a68e6b1#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### siedler
+
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### moschee
+
+* [https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser](https://www.spiegel.de/ausland/westjordanland-israelische-siedler-legen-feuer-an-moschee-und-wohnhaeuser-a-475fe5ac-3727-42ee-907d-77975f5c5968#ref=rss)
+### mpox
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+### angesichts
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+### impfung
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung](https://www.spiegel.de/wissenschaft/medizin/mpox-amt-raet-angesichts-der-pride-saison-zur-impfung-a-79b68f10-bd31-433f-8987-3ab0066d66a6#ref=rss)
+### schiedsrichter
+
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### slavko
+
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### vinčić
+
+* [https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen](https://www.spiegel.de/sport/fussball/wm-finale-2026-schiedsrichter-slavko-vincic-muss-argentinien-gegen-spanien-baendigen-a-6d8ee926-92c2-4d3d-8f0b-72eb0ae798b5#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-prueft-festnahme-benjamin-netanyahus-bei-un-generaldebatte](https://www.spiegel.de/ausland/zohran-mamdani-prueft-festnahme-benjamin-netanyahus-bei-un-generaldebatte-a-b212ff49-1bff-4c42-a39b-167483308188#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/cdu-und-linke-in-sachsen-anhalt-wie-sven-schulze-mit-dem-unvereinbarkeitsbeschluss-umgeht](https://www.spiegel.de/politik/cdu-und-linke-in-sachsen-anhalt-wie-sven-schulze-mit-dem-unvereinbarkeitsbeschluss-umgeht-a-bd8b3031-1152-47f2-a2f8-6647d0e1ec08#ref=rss)
 ### sachsenanhalt
 
-* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss)
-### bundesland
+* [https://www.spiegel.de/politik/cdu-und-linke-in-sachsen-anhalt-wie-sven-schulze-mit-dem-unvereinbarkeitsbeschluss-umgeht](https://www.spiegel.de/politik/cdu-und-linke-in-sachsen-anhalt-wie-sven-schulze-mit-dem-unvereinbarkeitsbeschluss-umgeht-a-bd8b3031-1152-47f2-a2f8-6647d0e1ec08#ref=rss)
+### ikkimel
 
-* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss)
-### unterhaltsvorschuss
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### kerstin
 
-* [https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen](https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen-a-5704d48f-513b-4907-8beb-ed4f9c4ad473#ref=rss)
-### eltern
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### ott
 
-* [https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen](https://www.spiegel.de/panorama/gesellschaft/unterhaltsvorschuss-familienrechtlerin-eva-becker-erklaert-warum-manche-eltern-nicht-zahlen-a-5704d48f-513b-4907-8beb-ed4f9c4ad473#ref=rss)
-### hochzeit
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### feministin
 
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/heiraten-wie-sie-eine-zu-teure-hochzeit-hoeflich-ablehnen](https://www.spiegel.de/partnerschaft/heiraten-wie-sie-eine-zu-teure-hochzeit-hoeflich-ablehnen-a-5292a87f-a24b-42da-afab-8846cbe05ff8#ref=rss)
-### mich
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### gemeinsamen
 
-* [https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig](https://www.spiegel.de/partnerschaft/hochzeit-und-heiraten-ich-will-den-namen-meines-mannes-annehmen-warum-macht-mich-das-traurig-a-93b80ec1-3824-44c2-9cbe-e44f67bdfb7f#ref=rss)
-### 64
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### song
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz](https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4](https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-schlaegt-frankreich-im-spiel-um-platz-drei-6-4-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song](https://www.spiegel.de/kultur/musik/ikkimel-kerstin-ott-outet-sich-als-feministin-und-wuenscht-sich-gemeinsamen-song-a-887b71d1-bede-44fd-ab77-dd3b2ccbbf46#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-verspricht-demonstrierenden-entscheidungen-bei-der-armee-a-4e80349d-8afa-4e8a-b1c4-9552cf69b459#ref=rss)
+* [https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste](https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste-a-dd638c2b-3bde-47b2-8c14-c30f3509209b#ref=rss)
+### tilman
+
+* [https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste](https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste-a-dd638c2b-3bde-47b2-8c14-c30f3509209b#ref=rss)
+### fertitta
+
+* [https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste](https://www.spiegel.de/panorama/leute/venedig-donald-trump-vertrauter-tilman-fertitta-sorgt-mit-mega-jacht-fuer-proteste-a-dd638c2b-3bde-47b2-8c14-c30f3509209b#ref=rss)
 
