@@ -4,359 +4,261 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### rund
 
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne](https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne-a-c14e1acb-3632-4cb4-a679-60a61172fa08#ref=rss)
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
-### keegan
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-* [https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne](https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne-a-c14e1acb-3632-4cb4-a679-60a61172fa08#ref=rss)
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/gesellschaft/rentnerin-mit-minijob-ich-haette-laengst-aufhoeren-koennen-als-krankenpflegerin-zu-arbeiten](https://www.spiegel.de/panorama/gesellschaft/rentnerin-mit-minijob-ich-haette-laengst-aufhoeren-koennen-als-krankenpflegerin-zu-arbeiten-a-f9eb03bb-b7c6-44e2-8101-090658ebbb19#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt](https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt-a-b959f0d4-3e4e-4351-adff-28cfbefcb70d#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger](https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger](https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
-### alles
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### straße
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-huthis-verkuenden-seeblockade-gegen-saudi-arabien](https://www.spiegel.de/ausland/irankrieg-huthis-verkuenden-seeblockade-gegen-saudi-arabien-a-4fd00530-4228-44b2-9fd1-ed5a58e27d2c#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/ausland/irankrieg-huthis-verkuenden-seeblockade-gegen-saudi-arabien](https://www.spiegel.de/ausland/irankrieg-huthis-verkuenden-seeblockade-gegen-saudi-arabien-a-4fd00530-4228-44b2-9fd1-ed5a58e27d2c#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten](https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten-a-bf888b04-dbf0-4e36-8a41-5ebb5564d489#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-quiz-testen-sie-ihr-wissen-zu-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-quiz-testen-sie-ihr-wissen-zu-kuenstlicher-intelligenz-a-d69b7899-a253-44c4-b3f1-108a481ae4d9#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne](https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne-a-c14e1acb-3632-4cb4-a679-60a61172fa08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt](https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt-a-b959f0d4-3e4e-4351-adff-28cfbefcb70d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa](https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa-a-ea051031-7048-4f4c-b908-96821274367d#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer](https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer-a-09a8eecd-7ae5-4bab-99de-043eb00e14a2#ref=rss)
-### spahnnachfolge
-
-* [https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger](https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger](https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen](https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen-a-512f10a0-0330-4be6-9c0d-153dc1d192f8#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf](https://www.spiegel.de/sport/fussball/kevin-keegan-ist-tot-legende-des-hamburger-sv-und-des-fc-liverpool-nachruf-a-7bb97706-febc-4711-8491-70befd31c359#ref=rss)
-* [https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer](https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer-a-2b061ec1-bd7a-49e7-b9d1-b09711a45773#ref=rss)
-### bahnmitarbeiter
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen](https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen-a-512f10a0-0330-4be6-9c0d-153dc1d192f8#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen](https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen-a-512f10a0-0330-4be6-9c0d-153dc1d192f8#ref=rss)
-### 120
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen](https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen-a-512f10a0-0330-4be6-9c0d-153dc1d192f8#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen](https://www.spiegel.de/panorama/justiz/karlsruhe-wie-konnte-ein-bahn-mitarbeiter-bei-tempo-120-aus-dem-zug-stuerzen-a-512f10a0-0330-4be6-9c0d-153dc1d192f8#ref=rss)
-### ewig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-### fröhliche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-### fans
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-* [https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne](https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne-a-c14e1acb-3632-4cb4-a679-60a61172fa08#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch](https://www.spiegel.de/wirtschaft/unternehmen/diddl-comeback-wer-kauft-die-ewig-froehliche-kult-maus-noch-a-15500b8f-ec44-4587-a1b2-b21ebbd20ba5#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-quiz-testen-sie-ihr-wissen-zu-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-quiz-testen-sie-ihr-wissen-zu-kuenstlicher-intelligenz-a-d69b7899-a253-44c4-b3f1-108a481ae4d9#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-zusammenstoesse-bei-regierungskritischen-protesten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-zusammenstoesse-bei-regierungskritischen-protesten-a-64c63598-ca91-4550-9a4d-2fe26387fccf#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-### tristan
-
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-### tate
-
-* [https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt](https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss)
-### harry
-
-* [https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben](https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben-a-b3d5b0d1-6c23-4c1c-9362-32e280b6405d#ref=rss)
-### schließen
-
-* [https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben](https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben-a-b3d5b0d1-6c23-4c1c-9362-32e280b6405d#ref=rss)
-### wo
-
-* [https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben](https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben-a-b3d5b0d1-6c23-4c1c-9362-32e280b6405d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-### alle
-
-* [https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben](https://www.spiegel.de/kultur/hamburg-st-pauli-kult-friseur-harry-muss-schliessen-wo-die-beatles-ihre-pilzfrisuren-herhaben-a-b3d5b0d1-6c23-4c1c-9362-32e280b6405d#ref=rss)
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer](https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer-a-2b061ec1-bd7a-49e7-b9d1-b09711a45773#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer](https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer-a-2b061ec1-bd7a-49e7-b9d1-b09711a45773#ref=rss)
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### konnten
-
-* [https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer](https://www.spiegel.de/geschichte/dreissigjaehriger-krieg-und-soeldnerkriege-das-unsichtbare-heer-a-2b061ec1-bd7a-49e7-b9d1-b09711a45773#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/phishing-bka-legt-hunderte-server-von-kriminellen-lahm](https://www.spiegel.de/netzwelt/web/phishing-bka-legt-hunderte-server-von-kriminellen-lahm-a-b2222787-9aa2-4316-9a73-43bddc037f75#ref=rss)
-### jd
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-### vance
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-### seines
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus](https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt](https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt-a-7163082d-0b91-4c11-94d5-a175bd5bf68a#ref=rss)
-### judit
-
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-### polgár
-
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-### präsidentin
-
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl](https://www.spiegel.de/sport/schach/judit-polgar-schach-ikone-soll-praesidentin-von-ungarn-werden-eine-gute-wahl-a-ca07e546-d72b-43a7-a8ef-8c281866d26f#ref=rss)
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### andy
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### burnham
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### demenz
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-spricht-ueber-die-demenz-seines-vaters-a-6dab191f-fa3e-4b01-a2a8-5356b7b0a31a#ref=rss)
-* [https://www.spiegel.de/panorama/kempten-15-jaehriger-betrunken-am-steuer-vier-verletzte-nach-unfall](https://www.spiegel.de/panorama/kempten-15-jaehriger-betrunken-am-steuer-vier-verletzte-nach-unfall-a-3b695204-2131-4da0-9f66-6876761b18b9#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
-* [https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten](https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten-a-bf888b04-dbf0-4e36-8a41-5ebb5564d489#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben](https://www.spiegel.de/sport/fussball/kevin-keegan-englische-fussball-ikone-mit-75-jahren-gestorben-a-f0e1b9f1-d239-4e2f-a3de-178034abccbd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken](https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken-a-dc178ee0-31a3-41b2-9a7e-a24d7957f8c6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen](https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen-a-e5c0e8f3-ee2f-46d4-aa81-94aff16ff519#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten](https://www.spiegel.de/mobilitaet/griechenland-will-e-scooter-fuer-kinder-und-jugendliche-unter-17-jahren-verbieten-a-bf888b04-dbf0-4e36-8a41-5ebb5564d489#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-### preise
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion](https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion-a-f28937c1-4112-43d1-af6e-0d29b2c5b8ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schuldenbremse-koalition-scheitert-an-reform-ein-finanzpolitisches-armutszeugnis](https://www.spiegel.de/wirtschaft/schuldenbremse-koalition-scheitert-an-reform-ein-finanzpolitisches-armutszeugnis-a-415f3501-c2ba-4405-a474-8ad7543b99d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich](https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich-a-d772c7d8-ef2d-4773-a8d4-a703a07bf927#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/soziales/benzin-und-diesel-warum-sprit-schon-wieder-so-teuer-ist](https://www.spiegel.de/wirtschaft/soziales/benzin-und-diesel-warum-sprit-schon-wieder-so-teuer-ist-a-65f0fe62-7686-4849-90d0-9a3b5bd3336a#ref=rss)
-### madrid
+* [https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten](https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten-a-e3a9db6b-8bc9-483e-b81f-26f3b264bcfc#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-so-viele-menschen-den-eigenen-armeechef-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-warum-so-viele-menschen-den-eigenen-armeechef-attackieren-a-b332f29f-5f08-4777-8bc2-0a41843e4af8#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt](https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt-a-7163082d-0b91-4c11-94d5-a175bd5bf68a#ref=rss)
-### feuer
+* [https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken](https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken-a-dc178ee0-31a3-41b2-9a7e-a24d7957f8c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt](https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt-a-16cf6135-fdc9-456b-a5bc-b010af63be16#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt](https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt-a-7163082d-0b91-4c11-94d5-a175bd5bf68a#ref=rss)
-### nie
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+* [https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten](https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten-a-46a7e4bb-68fc-4288-87da-899a19d04eb2#ref=rss)
+### regeln
 
-* [https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt](https://www.spiegel.de/panorama/spanien-waldbrand-bei-madrid-ausser-kontrolle-feuer-ueber-nacht-verdoppelt-a-7163082d-0b91-4c11-94d5-a175bd5bf68a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-### siegerehrung
+* [https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann](https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann-a-ebf28675-e92f-412a-9155-bd173057a3d7#ref=rss)
+* [https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld](https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld-a-29b5d376-5cb2-48c5-8511-d171fe9607d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schuldenbremse-koalition-scheitert-an-reform-ein-finanzpolitisches-armutszeugnis](https://www.spiegel.de/wirtschaft/schuldenbremse-koalition-scheitert-an-reform-ein-finanzpolitisches-armutszeugnis-a-415f3501-c2ba-4405-a474-8ad7543b99d3#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne](https://www.spiegel.de/sport/wm-donald-trump-geht-bei-siegerehrung-im-finale-einfach-nicht-von-der-buehne-a-c14e1acb-3632-4cb4-a679-60a61172fa08#ref=rss)
-### british
+* [https://www.spiegel.de/ausland/israel-teilt-gazastreifen-mit-kilometerlanger-erdbarriere](https://www.spiegel.de/ausland/israel-teilt-gazastreifen-mit-kilometerlanger-erdbarriere-a-175e59e1-0d0c-4f01-ba76-0c70bfab1893#ref=rss)
+* [https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld](https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld-a-29b5d376-5cb2-48c5-8511-d171fe9607d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich](https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich-a-d772c7d8-ef2d-4773-a8d4-a703a07bf927#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### open
+* [https://www.spiegel.de/ausland/adolf-hitlers-geburtshaus-ist-nun-eine-polizeistation-der-exorzismus-von-braunau](https://www.spiegel.de/ausland/adolf-hitlers-geburtshaus-ist-nun-eine-polizeistation-der-exorzismus-von-braunau-a-1d170b72-3b38-47e4-b005-c4a5dad9525e#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+* [https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden](https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden-a-dd0a9ca1-887a-4375-9485-52a749331e34#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### bryson
+* [https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion](https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion-a-f28937c1-4112-43d1-af6e-0d29b2c5b8ba#ref=rss)
+### rhein
 
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### dechambeau
+* [https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein](https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein-a-131cb454-d517-43cf-be8e-938a15b4c7fc#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen](https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen-a-39e708f8-d937-4399-ae51-29b0e8803457#ref=rss)
+### müritznationalpark
 
-* [https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal](https://www.spiegel.de/sport/golf/british-open-im-golf-bryson-dechambeau-sorgt-fuer-einen-skandal-a-1b518c79-fc70-4d7d-80a4-5593bdb275c0#ref=rss)
-### zahl
+* [https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken](https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken-a-dc178ee0-31a3-41b2-9a7e-a24d7957f8c6#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa](https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa-a-ea051031-7048-4f4c-b908-96821274367d#ref=rss)
-### viele
+* [https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken](https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken-a-dc178ee0-31a3-41b2-9a7e-a24d7957f8c6#ref=rss)
+* [https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann](https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann-a-ebf28675-e92f-412a-9155-bd173057a3d7#ref=rss)
+### land
 
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-### leben
+* [https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken](https://www.spiegel.de/wissenschaft/mensch/waldbrand-im-mueritz-nationalpark-experte-kritisiert-fachliche-und-operative-luecken-a-dc178ee0-31a3-41b2-9a7e-a24d7957f8c6#ref=rss)
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+### zdf
 
-* [https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht](https://www.spiegel.de/wissenschaft/natur/zahl-der-stoerche-in-deutschland-hat-sich-mehr-als-verfuenffacht-a-cc10271c-1ab1-40bb-b186-8fdccf80d235#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt](https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt-a-b959f0d4-3e4e-4351-adff-28cfbefcb70d#ref=rss)
-### drohnen
+* [https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar](https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar-a-c32a4d90-ee39-4224-9f37-740149ac3577#ref=rss)
+### joyn
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa](https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa-a-ea051031-7048-4f4c-b908-96821274367d#ref=rss)
-### ukraine
+* [https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar](https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar-a-c32a4d90-ee39-4224-9f37-740149ac3577#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa](https://www.spiegel.de/ausland/ukrainekrieg-angriffe-auf-moskau-und-frachter-vor-odessa-a-ea051031-7048-4f4c-b908-96821274367d#ref=rss)
-### vier
+* [https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar](https://www.spiegel.de/kultur/zdf-inhalte-der-mediathek-kuenftig-auch-bei-konkurrent-joyn-von-prosiebensat-zum-streaming-abrufbar-a-c32a4d90-ee39-4224-9f37-740149ac3577#ref=rss)
+* [https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten](https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten-a-46a7e4bb-68fc-4288-87da-899a19d04eb2#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/panorama/kempten-15-jaehriger-betrunken-am-steuer-vier-verletzte-nach-unfall](https://www.spiegel.de/panorama/kempten-15-jaehriger-betrunken-am-steuer-vier-verletzte-nach-unfall-a-3b695204-2131-4da0-9f66-6876761b18b9#ref=rss)
-### frauke
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoreifen-kartellamt-verhaengt-millionenstrafe-gegen-haendler](https://www.spiegel.de/wirtschaft/unternehmen/autoreifen-kartellamt-verhaengt-millionenstrafe-gegen-haendler-a-27b8aa52-10fe-4f8d-bda5-b7f4c272b744#ref=rss)
+* [https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky](https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky-a-96e64c52-11d1-47b5-a92b-ff358ee7a444#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### brosiusgersdorf
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoreifen-kartellamt-verhaengt-millionenstrafe-gegen-haendler](https://www.spiegel.de/wirtschaft/unternehmen/autoreifen-kartellamt-verhaengt-millionenstrafe-gegen-haendler-a-27b8aa52-10fe-4f8d-bda5-b7f4c272b744#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+### paris
 
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### legalisierung
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+### louvre
 
-* [https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft](https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss)
-### 2026
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+### hatten
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt](https://www.spiegel.de/sport/fussball/wm-2026-danke-ihr-helden-aber-was-mache-ich-jetzt-a-b959f0d4-3e4e-4351-adff-28cfbefcb70d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### hamas
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer](https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer-a-09a8eecd-7ae5-4bab-99de-043eb00e14a2#ref=rss)
-### khalil
+* [https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang](https://www.spiegel.de/panorama/justiz/paris-louvre-wagt-den-neuanfang-a-37632753-13ad-4778-a14b-e80d1a43d81c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt](https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt-a-16cf6135-fdc9-456b-a5bc-b010af63be16#ref=rss)
+### schwimmen
 
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer](https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer-a-09a8eecd-7ae5-4bab-99de-043eb00e14a2#ref=rss)
-### alhayya
+* [https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann](https://www.spiegel.de/fitness/badeunfaelle-welche-ausruestung-beim-schwimmen-leben-retten-kann-a-ebf28675-e92f-412a-9155-bd173057a3d7#ref=rss)
+### emanuel
 
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer](https://www.spiegel.de/ausland/gazastreifen-hamas-ernennt-khalil-al-hayya-zum-neuen-anfuehrer-a-09a8eecd-7ae5-4bab-99de-043eb00e14a2#ref=rss)
-### table
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+### lasker
 
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### media
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+### schachweltmeister
 
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### michael
-
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### bröcker
-
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### medienstartup
-
-* [https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up](https://www.spiegel.de/kultur/table-media-chefredakteur-michael-broecker-verlaesst-berliner-medien-start-up-a-b7181ee9-11c3-4cb7-a6b6-3e27fd85863a#ref=rss)
-### italo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### züge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### siemens
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### milliardenhöhe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-### bestellt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens](https://www.spiegel.de/wirtschaft/unternehmen/italo-bestellt-schnellzuege-bei-siemens-a-6e7e054f-5dde-4b75-b56f-3abba6bb6954#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### jürgen
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+* [https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos](https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos-a-584814ec-8b33-4f9f-b77d-1aa6991520e1#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### klopp
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+* [https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein](https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein-a-131cb454-d517-43cf-be8e-938a15b4c7fc#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### lionel
+* [https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck](https://www.spiegel.de/sport/schach/emanuel-lasker-deutscher-schachweltmeister-bekommt-endlich-ein-stueck-seiner-wuerde-zurueck-a-e034d1e0-8300-4cba-a682-c408fb9ffa59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen](https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen-a-e5c0e8f3-ee2f-46d4-aa81-94aff16ff519#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### scaloni
+* [https://www.spiegel.de/ausland/israel-teilt-gazastreifen-mit-kilometerlanger-erdbarriere](https://www.spiegel.de/ausland/israel-teilt-gazastreifen-mit-kilometerlanger-erdbarriere-a-175e59e1-0d0c-4f01-ba76-0c70bfab1893#ref=rss)
+### fsb
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### luis
+* [https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten](https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten-a-e3a9db6b-8bc9-483e-b81f-26f3b264bcfc#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### de
+* [https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten](https://www.spiegel.de/ausland/russland-fsb-meldet-toetung-mutmasslichen-ukrainischen-agenten-a-e3a9db6b-8bc9-483e-b81f-26f3b264bcfc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### la
+* [https://www.spiegel.de/ausland/adolf-hitlers-geburtshaus-ist-nun-eine-polizeistation-der-exorzismus-von-braunau](https://www.spiegel.de/ausland/adolf-hitlers-geburtshaus-ist-nun-eine-polizeistation-der-exorzismus-von-braunau-a-1d170b72-3b38-47e4-b005-c4a5dad9525e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion](https://www.spiegel.de/wirtschaft/service/usa-bieten-aluminiumherstellern-zollsenkung-fuer-hoehere-produktion-a-f28937c1-4112-43d1-af6e-0d29b2c5b8ba#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### fuente
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+### waren
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
-### erfolg
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+### kuchen
 
-* [https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann](https://www.spiegel.de/sport/fussball/wm-2026-was-juergen-klopp-von-lionel-scaloni-und-luis-de-la-fuente-lernen-kann-a-695e6644-98ce-46e0-8c86-5153d0bf4ac0#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+### passanten
+
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+### nachdem
+
+* [https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben](https://www.spiegel.de/panorama/bremen-mann-soll-waren-aus-eiscafe-gestohlen-und-kuchen-an-passanten-verteilt-haben-a-bba218c3-cc0d-4c88-ae63-f3140404a609#ref=rss)
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+### zentralbankchef
+
+* [https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt](https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt-a-16cf6135-fdc9-456b-a5bc-b010af63be16#ref=rss)
+### michl
+
+* [https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt](https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt-a-16cf6135-fdc9-456b-a5bc-b010af63be16#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt](https://www.spiegel.de/wirtschaft/service/tschechiens-zentralbankchef-ales-michl-warnt-vor-schnellem-euro-beitritt-a-16cf6135-fdc9-456b-a5bc-b010af63be16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich](https://www.spiegel.de/wirtschaft/service/inflation-schwimmbad-preise-steigen-deutlich-a-d772c7d8-ef2d-4773-a8d4-a703a07bf927#ref=rss)
+### piloten
+
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+### verkehr
+
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen](https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen-a-39e708f8-d937-4399-ae51-29b0e8803457#ref=rss)
+### gezogen
+
+* [https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug](https://www.spiegel.de/panorama/swiss-stoppt-offenbar-betrunkene-piloten-vor-dem-abflug-a-b69692d2-192d-46f5-b906-159695d9795b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen](https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen-a-39e708f8-d937-4399-ae51-29b0e8803457#ref=rss)
+### esposito
+
+* [https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden](https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden-a-dd0a9ca1-887a-4375-9485-52a749331e34#ref=rss)
+### aufgefunden
+
+* [https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden](https://www.spiegel.de/sport/fussball/italien-sportjournalist-luigi-esposito-erschossen-und-verbrannt-aufgefunden-a-dd0a9ca1-887a-4375-9485-52a749331e34#ref=rss)
+### förderung
+
+* [https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld](https://www.spiegel.de/mobilitaet/e-autos-foerderung-geht-oft-an-haushalte-mit-wenig-geld-a-29b5d376-5cb2-48c5-8511-d171fe9607d3#ref=rss)
+### fälle
+
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+### kindesmissbrauch
+
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland](https://www.spiegel.de/panorama/justiz/17-126-registrierte-delikte-mehr-faelle-von-kindesmissbrauch-in-deutschland-a-22824618-13e5-473a-936f-242db5b3559b#ref=rss)
+* [https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos](https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos-a-584814ec-8b33-4f9f-b77d-1aa6991520e1#ref=rss)
+### robbie
+
+* [https://www.spiegel.de/panorama/leute/robbie-williams-beim-wm-finale-ist-das-koks-oder-kann-das-weg](https://www.spiegel.de/panorama/leute/robbie-williams-beim-wm-finale-ist-das-koks-oder-kann-das-weg-a-790cc6c2-edb6-47a5-ac89-97d1a739846b#ref=rss)
+### williams
+
+* [https://www.spiegel.de/panorama/leute/robbie-williams-beim-wm-finale-ist-das-koks-oder-kann-das-weg](https://www.spiegel.de/panorama/leute/robbie-williams-beim-wm-finale-ist-das-koks-oder-kann-das-weg-a-790cc6c2-edb6-47a5-ac89-97d1a739846b#ref=rss)
+### mahnmal
+
+* [https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos](https://www.spiegel.de/geschichte/raf-opfer-sollen-mahnmal-bekommen-die-deutsche-politik-war-lange-mitleidlos-a-584814ec-8b33-4f9f-b77d-1aa6991520e1#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten](https://www.spiegel.de/panorama/amazonas-gebiet-in-brasilien-waldbraende-sinken-auf-tiefsten-stand-seit-jahrzehnten-a-46a7e4bb-68fc-4288-87da-899a19d04eb2#ref=rss)
+### london
+
+* [https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen](https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen-a-e5c0e8f3-ee2f-46d4-aa81-94aff16ff519#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen](https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen-a-e5c0e8f3-ee2f-46d4-aa81-94aff16ff519#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen](https://www.spiegel.de/wirtschaft/london-boerse-will-handel-fast-rund-um-die-uhr-ermoeglichen-a-e5c0e8f3-ee2f-46d4-aa81-94aff16ff519#ref=rss)
+* [https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein](https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein-a-131cb454-d517-43cf-be8e-938a15b4c7fc#ref=rss)
+### odyssee
+
+* [https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe](https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe-a-3d6a897a-7989-4b16-b12a-75dd72e489d2#ref=rss)
+### matt
+
+* [https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe](https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe-a-3d6a897a-7989-4b16-b12a-75dd72e489d2#ref=rss)
+### damon
+
+* [https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe](https://www.spiegel.de/panorama/leute/die-odyssee-matt-damon-ueber-sein-stunt-double-tollste-arme-die-ich-je-gesehen-habe-a-3d6a897a-7989-4b16-b12a-75dd72e489d2#ref=rss)
+### oberwesel
+
+* [https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein](https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein-a-131cb454-d517-43cf-be8e-938a15b4c7fc#ref=rss)
+### flaschenpost
+
+* [https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein](https://www.spiegel.de/panorama/oberwesel-landschaftsgaertner-findet-fast-70-jahre-alte-flaschenpost-am-rhein-a-131cb454-d517-43cf-be8e-938a15b4c7fc#ref=rss)
+### tennis
+
+* [https://www.spiegel.de/sport/tennis/tennis-neue-regel-verpflichtet-spielerinnen-zu-geschlechtstests](https://www.spiegel.de/sport/tennis/tennis-neue-regel-verpflichtet-spielerinnen-zu-geschlechtstests-a-9d85cab3-a509-470c-82b9-4b0d8a702fe6#ref=rss)
+### bonn
+
+* [https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen](https://www.spiegel.de/mobilitaet/bonn-60-von-75-stadtbahn-fahrzeugen-aus-sicherheitsgruenden-kurzfristig-aus-dem-verkehr-gezogen-a-39e708f8-d937-4399-ae51-29b0e8803457#ref=rss)
+### john
+
+* [https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky](https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky-a-96e64c52-11d1-47b5-a92b-ff358ee7a444#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky](https://www.spiegel.de/kultur/kino/john-carpenter-was-er-ueber-das-boese-weiss-hat-er-aus-bowling-green-kentucky-a-96e64c52-11d1-47b5-a92b-ff358ee7a444#ref=rss)
+### marc
+
+* [https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland](https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland-a-a7651a1f-4c0d-4ae2-a397-fa049874ff31#ref=rss)
+### cucurella
+
+* [https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland](https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland-a-a7651a1f-4c0d-4ae2-a397-fa049874ff31#ref=rss)
+### spanier
+
+* [https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland](https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland-a-a7651a1f-4c0d-4ae2-a397-fa049874ff31#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland](https://www.spiegel.de/sport/fussball/marc-cucurella-spanier-singt-bei-siegesfeier-schon-wieder-ueber-haaland-a-a7651a1f-4c0d-4ae2-a397-fa049874ff31#ref=rss)
+### robin
+
+* [https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde](https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde-a-72f515ad-33c1-4475-bd08-f37333c2bc11#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde](https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde-a-72f515ad-33c1-4475-bd08-f37333c2bc11#ref=rss)
+### journalist
+
+* [https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde](https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde-a-72f515ad-33c1-4475-bd08-f37333c2bc11#ref=rss)
 
