@@ -4,288 +4,397 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-extrem-sind-die-afd-kandidaten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-extrem-sind-die-afd-kandidaten-a-16bb506a-1872-40d2-9fe0-dab33d8e7471#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung](https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung-a-e0a7708f-8d03-4a3e-bb17-bafc8e52ffa9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt](https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt-a-8754d89b-1454-4c20-9c83-a3f64dbb3399#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen](https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen-a-46163251-5d09-413b-a6a1-1b1a0c8e6194#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots](https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots-a-a720f030-f577-4733-800c-6ae2113aecad#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren](https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren-a-2adbf481-5552-47d3-ad9f-2c6e4e743e2d#ref=rss)
-* [https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england](https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england-a-d35cee2d-f489-4db7-a118-35ef7440fa41#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-extrem-sind-die-afd-kandidaten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-extrem-sind-die-afd-kandidaten-a-16bb506a-1872-40d2-9fe0-dab33d8e7471#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt](https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt-a-8754d89b-1454-4c20-9c83-a3f64dbb3399#ref=rss)
-### leihmutterschaft
-
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots](https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots-a-a720f030-f577-4733-800c-6ae2113aecad#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein](https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein-a-337cbbb9-31ff-445f-b811-6d164f80e350#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen](https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen-a-46163251-5d09-413b-a6a1-1b1a0c8e6194#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/video-orcas-rammen-mondfische-damit-sie-zerplatzen](https://www.spiegel.de/wissenschaft/natur/video-orcas-rammen-mondfische-damit-sie-zerplatzen-a-107bc016-d937-4874-a4e4-f77a8f596782#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### ausbildung
-
-* [https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe](https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe-a-6f9ba73c-46a5-420d-b2f5-f39031ed7ba5#ref=rss)
-* [https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen](https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen-a-eddf9c5a-68ea-4945-b5a6-afcbee363f77#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe](https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe-a-6f9ba73c-46a5-420d-b2f5-f39031ed7ba5#ref=rss)
-* [https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt](https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt-a-5be5f158-b792-4650-9b3f-912281bb7576#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt](https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt-a-8754d89b-1454-4c20-9c83-a3f64dbb3399#ref=rss)
-### shatner
-
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden-a-a1fdfe3b-1c59-4d5e-a304-8ffe2589de80#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende](https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende-a-2c422f6f-1d2b-4f5b-bd8b-55a42549047f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost](https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost-a-6acd1626-0c54-434a-9dbb-f271a6bd5568#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden-a-a1fdfe3b-1c59-4d5e-a304-8ffe2589de80#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen](https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen-a-6be24b84-3ee9-4deb-a44a-ecbf7b8e7652#ref=rss)
-### schlägerei
-
-* [https://www.spiegel.de/panorama/justiz/teneriffa-flugzeug-muss-wegen-schlaegerei-an-bord-umdrehen](https://www.spiegel.de/panorama/justiz/teneriffa-flugzeug-muss-wegen-schlaegerei-an-bord-umdrehen-a-ad4e0bac-9360-444d-a1c3-2fbc65c532f1#ref=rss)
-### bord
-
-* [https://www.spiegel.de/panorama/justiz/teneriffa-flugzeug-muss-wegen-schlaegerei-an-bord-umdrehen](https://www.spiegel.de/panorama/justiz/teneriffa-flugzeug-muss-wegen-schlaegerei-an-bord-umdrehen-a-ad4e0bac-9360-444d-a1c3-2fbc65c532f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-### groß
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
+### karlsruhe
 
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-### blickt
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### staatsanwaltschaft
 
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe](https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe-a-6f9ba73c-46a5-420d-b2f5-f39031ed7ba5#ref=rss)
-### jens
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+### indien
 
-* [https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam](https://www.spiegel.de/familie/leihmutterschaft-mit-unserer-tochter-haben-wir-schon-am-wickeltisch-darueber-gesprochen-wie-sie-zur-welt-kam-a-62a1e7c2-98d0-4630-9095-fe1be4f293da#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots](https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots-a-a720f030-f577-4733-800c-6ae2113aecad#ref=rss)
-### airports
+* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen](https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen-a-46163251-5d09-413b-a6a1-1b1a0c8e6194#ref=rss)
-### zunehmend
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen](https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen-a-46163251-5d09-413b-a6a1-1b1a0c8e6194#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen](https://www.spiegel.de/wirtschaft/flugreisen-airports-in-deutschland-geraten-zunehmend-ins-hintertreffen-a-46163251-5d09-413b-a6a1-1b1a0c8e6194#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-### laut
-
-* [https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe](https://www.spiegel.de/start/ausbildung-grossteil-der-jungen-menschen-blickt-positiv-auf-ausbildungsberufe-a-6f9ba73c-46a5-420d-b2f5-f39031ed7ba5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein](https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein-a-337cbbb9-31ff-445f-b811-6d164f80e350#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen](https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen-a-64ef2194-d8b5-4aab-a4a1-d48d480ab754#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen](https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen-a-64ef2194-d8b5-4aab-a4a1-d48d480ab754#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-### euro
-
-* [https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen](https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen-a-64ef2194-d8b5-4aab-a4a1-d48d480ab754#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren](https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren-a-2adbf481-5552-47d3-ad9f-2c6e4e743e2d#ref=rss)
-### eu
-
-* [https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen](https://www.spiegel.de/netzwelt/google-muss-eine-eu-rekordstrafe-von-890-millionen-euro-zahlen-a-64ef2194-d8b5-4aab-a4a1-d48d480ab754#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss)
-### william
-
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### melanie
-
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### gleichzeitig
-
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### krebs
-
-* [https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs](https://www.spiegel.de/kultur/tv/william-shatner-und-tochter-melanie-shatner-gretsch-hatten-gleichzeitig-krebs-a-368e2ea6-8826-46d9-b266-8d4b62d6179e#ref=rss)
-### landgericht
-
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft](https://www.spiegel.de/panorama/justiz/filderstadt-landgericht-stuttgart-verurteilt-mann-nach-fund-von-kofferleiche-zu-zwoelf-jahren-haft-a-ee645c50-b341-4319-bdc7-a0bd6e91b7aa#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss)
-### kassenbon
-
-* [https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren](https://www.spiegel.de/wirtschaft/kassenbon-finanzminister-klingbeil-will-die-bonpflicht-digitalisieren-a-2adbf481-5552-47d3-ad9f-2c6e4e743e2d#ref=rss)
-### jill
-
-* [https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod](https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod-a-6b5be344-8801-4575-b7f0-f61bd6bdac7d#ref=rss)
-### heinerth
-
-* [https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod](https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod-a-6b5be344-8801-4575-b7f0-f61bd6bdac7d#ref=rss)
-### leben
-
-* [https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod](https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod-a-6b5be344-8801-4575-b7f0-f61bd6bdac7d#ref=rss)
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-### tod
-
-* [https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod](https://www.spiegel.de/sport/jill-heinerth-aus-einem-einstuendigen-tauchgang-wurde-ein-dreistuendiger-kampf-um-leben-und-tod-a-6b5be344-8801-4575-b7f0-f61bd6bdac7d#ref=rss)
-### rosalía
-
-* [https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost](https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost-a-6acd1626-0c54-434a-9dbb-f271a6bd5568#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost](https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost-a-6acd1626-0c54-434a-9dbb-f271a6bd5568#ref=rss)
-### tiktokrepost
-
-* [https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost](https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost-a-6acd1626-0c54-434a-9dbb-f271a6bd5568#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost](https://www.spiegel.de/panorama/leute/rosalia-entschuldigt-sich-bei-argentinischen-fans-fuer-tiktok-repost-a-6acd1626-0c54-434a-9dbb-f271a6bd5568#ref=rss)
-* [https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein](https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein-a-337cbbb9-31ff-445f-b811-6d164f80e350#ref=rss)
-### varta
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-soll-zerschlagen-werden-a-a1fdfe3b-1c59-4d5e-a304-8ffe2589de80#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung](https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung-a-e0a7708f-8d03-4a3e-bb17-bafc8e52ffa9#ref=rss)
-### bilger
-
-* [https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung](https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung-a-e0a7708f-8d03-4a3e-bb17-bafc8e52ffa9#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung](https://www.spiegel.de/politik/deutschland/brandmauer-zur-afd-cdu-politiker-steffen-bilger-betont-harte-abgrenzung-a-e0a7708f-8d03-4a3e-bb17-bafc8e52ffa9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert-a-97ce9a99-eb10-4217-a7b5-ef8828ee8352#ref=rss)
-### toy
-
-* [https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt](https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt-a-5be5f158-b792-4650-9b3f-912281bb7576#ref=rss)
-### story
-
-* [https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt](https://www.spiegel.de/kultur/kino/toy-story-5-ist-das-der-letzte-animationsfilm-der-noch-ohne-ki-auskommt-a-5be5f158-b792-4650-9b3f-912281bb7576#ref=rss)
-### cameron
-
-* [https://www.spiegel.de/sport/darts-cameron-menzies-muss-beim-world-matchplay-in-blackpool-im-achtelfinale-aufgeben](https://www.spiegel.de/sport/darts-cameron-menzies-muss-beim-world-matchplay-in-blackpool-im-achtelfinale-aufgeben-a-b816d9f6-8d2e-49d8-b070-4d33809f14c5#ref=rss)
-### menzies
-
-* [https://www.spiegel.de/sport/darts-cameron-menzies-muss-beim-world-matchplay-in-blackpool-im-achtelfinale-aufgeben](https://www.spiegel.de/sport/darts-cameron-menzies-muss-beim-world-matchplay-in-blackpool-im-achtelfinale-aufgeben-a-b816d9f6-8d2e-49d8-b070-4d33809f14c5#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt](https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt-a-8754d89b-1454-4c20-9c83-a3f64dbb3399#ref=rss)
-* [https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england](https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england-a-d35cee2d-f489-4db7-a118-35ef7440fa41#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt](https://www.spiegel.de/wirtschaft/afd-das-koennte-sie-eine-rechtsextreme-bundesregierung-kosten-vor-allem-in-sachsen-anhalt-a-8754d89b-1454-4c20-9c83-a3f64dbb3399#ref=rss)
-### ana
-
-* [https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende](https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende-a-2c422f6f-1d2b-4f5b-bd8b-55a42549047f#ref=rss)
-### ivanović
-
-* [https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende](https://www.spiegel.de/sport/tennis/tennis-ana-ivanovic-spricht-ueber-panikattacken-vor-karriereende-a-2c422f6f-1d2b-4f5b-bd8b-55a42549047f#ref=rss)
-### orcas
-
-* [https://www.spiegel.de/wissenschaft/natur/video-orcas-rammen-mondfische-damit-sie-zerplatzen](https://www.spiegel.de/wissenschaft/natur/video-orcas-rammen-mondfische-damit-sie-zerplatzen-a-107bc016-d937-4874-a4e4-f77a8f596782#ref=rss)
-### alleinerziehende
-
-* [https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet](https://www.spiegel.de/panorama/statistisches-bundesamt-fast-ein-drittel-der-alleinerziehenden-ist-armutsgefaehrdet-a-d43fa543-d19c-4fe1-8480-077f50173562#ref=rss)
-### england
-
-* [https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england](https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england-a-d35cee2d-f489-4db7-a118-35ef7440fa41#ref=rss)
-### katze
-
-* [https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr](https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr-a-1275c021-3f4d-4e0d-87e7-d0d1ffd024c4#ref=rss)
-### hakenkreuz
-
-* [https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr](https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr-a-1275c021-3f4d-4e0d-87e7-d0d1ffd024c4#ref=rss)
-### ohr
-
-* [https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr](https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr-a-1275c021-3f4d-4e0d-87e7-d0d1ffd024c4#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr](https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr-a-1275c021-3f4d-4e0d-87e7-d0d1ffd024c4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein](https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein-a-337cbbb9-31ff-445f-b811-6d164f80e350#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
+### bahnmitarbeiter
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### fahrgast
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr](https://www.spiegel.de/panorama/justiz/bad-mergentheim-unbekannte-kritzeln-katze-hakenkreuz-ins-ohr-a-1275c021-3f4d-4e0d-87e7-d0d1ffd024c4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
+### fisch
 
-* [https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen](https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen-a-6be24b84-3ee9-4deb-a44a-ecbf7b8e7652#ref=rss)
-### polizist
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### frauen
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+### kriegsschiffe
 
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### riefen
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen](https://www.spiegel.de/panorama/justiz/glasgow-in-schottland-polizist-vergewaltigt-frauen-die-ihn-um-hilfe-riefen-a-00ff3f87-67d0-40cc-bd28-6588090f61a6#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
+### holt
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert-a-97ce9a99-eb10-4217-a7b5-ef8828ee8352#ref=rss)
-### heizungsgesetz
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+### beiden
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-verfassungsklage-wegen-beratungszeit-fuer-heizungsgesetz-gescheitert-a-97ce9a99-eb10-4217-a7b5-ef8828ee8352#ref=rss)
-### lawrow
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### notfallsanitäter
 
-* [https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen](https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen-a-6be24b84-3ee9-4deb-a44a-ecbf7b8e7652#ref=rss)
-### rubio
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+### einsatzes
 
-* [https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen](https://www.spiegel.de/ausland/russland-und-usa-sergej-lawrow-und-marco-rubio-haben-ueber-ukrainekrieg-gesprochen-a-6be24b84-3ee9-4deb-a44a-ecbf7b8e7652#ref=rss)
-### sofa
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen](https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen-a-eddf9c5a-68ea-4945-b5a6-afcbee363f77#ref=rss)
-### trägt
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+### haft
 
-* [https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen](https://www.spiegel.de/start/sozialversicherungensfachangestellte-sofa-werden-gehalt-aufgaben-karrierechancen-a-eddf9c5a-68ea-4945-b5a6-afcbee363f77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei](https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei-a-2d01f92c-7c24-492b-9ca5-1e958d5e1cee#ref=rss)
-### argentiniens
+* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
+### stürzt
 
-* [https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein](https://www.spiegel.de/sport/fussball/argentinischer-fussballverband-afa-tapia-soll-nicht-in-den-usa-gestoppt-worden-sein-a-337cbbb9-31ff-445f-b811-6d164f80e350#ref=rss)
-### thorsten
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### fahrenden
 
-* [https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei](https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei-a-2d01f92c-7c24-492b-9ca5-1e958d5e1cee#ref=rss)
-### frei
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### betrunkenen
 
-* [https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei](https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei-a-2d01f92c-7c24-492b-9ca5-1e958d5e1cee#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+### alles
 
-* [https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei](https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei-a-2d01f92c-7c24-492b-9ca5-1e958d5e1cee#ref=rss)
-### merz
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+### anders
 
-* [https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei](https://www.spiegel.de/politik/deutschland/thorsten-frei-wird-jens-spahn-nachfolger-als-cdu-csu-fraktionschef-der-nette-herr-frei-a-2d01f92c-7c24-492b-9ca5-1e958d5e1cee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+### eurobanknoten
+
+* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
+### 21
+
+* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
+### regensburg
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+### geiselnahme
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+### bankfiliale
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
+* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
+### huthimiliz
+
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
+### weltwirtschaft
+
+* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
+### reise
+
+* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### nina
+
+* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
+### warken
+
+* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
+### würde
+
+* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### richard
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+### carapaz
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+### stück
+
+* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
+### lori
+
+* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
+### anousch
+
+* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### geborgen
+
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
+### rettungskräfte
+
+* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+### google
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
+### senkt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
+### pubs
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
+### kassenbon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+### ali
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### g
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### sacha
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### baron
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### cohen
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### wolfsangriff
+
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
+### tschechien
+
+* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+### duisburg
+
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+### fesselung
+
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+### ölpreis
+
+* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
+### fürchten
+
+* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
+### schwarzen
+
+* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
+### 18jährige
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
+### filmfestspiele
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### robert
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### pattinson
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### wim
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### wenders
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### oasis
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### abschiebungen
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
+### lebensmittelvergiftung
+
+* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
+### palma
+
+* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
+### hautkrebs
+
+* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
+### atomdeal
+
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
+### loris
+
+* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
+### karius
+
+* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
 
