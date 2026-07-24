@@ -4,397 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
-### karlsruhe
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker](https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker-a-81427924-2afd-43b4-9331-8d5ff82d5f84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### klopp
 
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-### indien
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker](https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker-a-81427924-2afd-43b4-9331-8d5ff82d5f84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
-### bahnmitarbeiter
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### fahrgast
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
-### fisch
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-### kriegsschiffe
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-### eskaliert
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
-### holt
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss)
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### notfallsanitäter
-
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-### einsatzes
-
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/falscher-notfallsanitaeter-wegen-toedlichen-einsatzes-zu-zehn-jahren-haft-verurteilt-a-22b96d49-4a1c-444f-9277-46cf44722e6a#ref=rss)
-### stürzt
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### fahrenden
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### betrunkenen
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein](https://www.spiegel.de/panorama/karlsruhe-bahnmitarbeiter-stuerzt-aus-zug-staatsanwaltschaft-legt-beschwerde-ein-a-184bfb2a-6d20-441c-a357-f11da7c25d83#ref=rss)
-### alles
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-### anders
-
-* [https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden](https://www.spiegel.de/panorama/justiz/karlsruhe-dem-bahnmitarbeiter-ist-seine-eigene-kraft-zum-verhaengnis-geworden-a-e43d7c50-6645-4700-b27f-77479cbfb4b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-### eurobanknoten
-
-* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
-### 21
-
-* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten](https://www.spiegel.de/wirtschaft/ezb-buergerbeteiligung-beim-design-der-neuen-euro-banknoten-a-6332c75c-8a95-4b11-b72d-e1da542075b4#ref=rss)
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten](https://www.spiegel.de/ausland/kakerlaken-bewegung-in-indien-dieses-mal-werden-wir-uns-nicht-zurueckhalten-a-11067a15-43ce-42ef-9b97-50d63c62e758#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
-### regensburg
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-### geiselnahme
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-### bankfiliale
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss)
-* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
-### huthimiliz
-
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
-### weltwirtschaft
-
-* [https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa](https://www.spiegel.de/ausland/nahost-angriffe-der-jemenitischen-huthi-miliz-zermuerben-israel-und-usa-a-f3823ede-19b8-4a05-ad93-57e1e8a60178#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
-### reise
-
-* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern](https://www.spiegel.de/politik/deutschland/reise-nach-mauretanien-nigeria-suedafrika-und-dann-muss-sich-wadephul-auch-noch-zu-spahn-aeussern-a-b5db581f-1160-4a60-abc3-50657de2744b#ref=rss)
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### nina
-
-* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
-### warken
-
-* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
-### würde
-
-* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium](https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### richard
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-### carapaz
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar](https://www.spiegel.de/sport/radsport/tour-de-france-2026-richard-carapaz-siegt-fragen-um-tadej-pogacar-a-e8e42e56-cb99-4ec3-9c28-4d6f1091832b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-### stück
-
-* [https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule](https://www.spiegel.de/panorama/bildung/karlsruhe-dienstaufsichtsbeschwerde-nach-kothaufen-vorfall-an-grundschule-a-1900bc36-72eb-4360-b920-b7966558e588#ref=rss)
-### lori
-
-* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
-### anousch
-
-* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik](https://www.spiegel.de/kultur/literatur/lori-von-anousch-mueller-ein-atemberaubender-verrat-kritik-a-27e15a07-1933-40a2-b1a5-4e8b1adf6b28#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### geborgen
-
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
-### rettungskräfte
-
-* [https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen](https://www.spiegel.de/ausland/indien-25-leichen-nach-tunnelunglueck-im-bundesstaat-sikkim-geborgen-a-7b615030-39fb-463a-a7aa-7245f1e3b576#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-### google
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
-### senkt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
-### pubs
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
-### kassenbon
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-### ali
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### g
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### sacha
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### baron
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### cohen
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino](https://www.spiegel.de/kultur/kino/ali-g-sacha-baron-cohen-bringt-kultfigur-zurueck-ins-kino-a-48124143-37f0-4ae1-9d35-f5b873d5446c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### wolfsangriff
-
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet](https://www.spiegel.de/wissenschaft/wolfsangriff-in-italien-die-mutter-und-das-kind-haben-alles-durchs-fenster-beobachtet-a-8c6dc964-d1cd-4ce3-845a-d0c0bd8e3a63#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz](https://www.spiegel.de/ausland/bruenn-in-tschechien-soldat-stirbt-bei-helikopterabsturz-a-b0015f73-45e2-419b-a224-876c43475fb6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-### fesselung
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz](https://www.spiegel.de/panorama/justiz/duisburg-mann-stirbt-nach-fesselung-bei-polizeieinsatz-a-6477db18-d76e-4050-b32d-6688057d414c#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-### ölpreis
-
-* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke](https://www.spiegel.de/wirtschaft/oelpreis-steigt-wieder-ueber-100-dollar-marke-a-d7c7fdf8-f006-4c48-8b01-67f5f57c5cf7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss)
-### schwarzen
-
-* [https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe](https://www.spiegel.de/ausland/wisconsin-usa-polizei-erschiesst-schwarzen-aus-naechster-naehe-a-5798ee4a-da65-422b-8242-a5785cbf50dc#ref=rss)
-### 18jährige
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung](https://www.spiegel.de/panorama/justiz/gelsenkirchen-18-jaehrige-tarnt-hilferuf-bei-der-polizei-als-pizzabestellung-a-8092dbc8-c5a1-4c63-a478-bcf1fe679dc5#ref=rss)
-### filmfestspiele
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### robert
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### pattinson
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### wim
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### wenders
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### oasis
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-werner-herzog-robert-pattinson-wim-wenders-und-oasis-praegen-das-programm-2026-a-b86a0109-2f82-4c1e-8208-874ddc0a1686#ref=rss)
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international](https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss)
-### lebensmittelvergiftung
-
-* [https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein](https://www.spiegel.de/panorama/london-drei-piloten-mit-lebensmittelvergiftung-british-airways-leitet-untersuchung-ein-a-5370d047-8cbd-4322-90e0-220b7d9b08a9#ref=rss)
-### palma
-
-* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma](https://www.spiegel.de/wirtschaft/palma-de-mallorca-reisenden-drohen-lange-warteschlangen-am-flughafen-in-palma-a-b1e8e813-63c3-41fb-a5af-89c28476e12a#ref=rss)
-### hautkrebs
-
-* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
-### tiere
-
-* [https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren](https://www.spiegel.de/wissenschaft/natur/hautkrebs-uebertraegt-sich-von-fisch-zu-fisch-kann-derartiges-auch-bei-menschen-passieren-a-6d4f4379-8226-43ad-873e-8cef06b2323c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher](https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher-a-b9a5248f-5fdf-41ca-94f3-572340b5870c#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
-### atomdeal
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf](https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf-a-72e280fb-aa26-42ef-b17a-49c8e92b07a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### bundestrainer
 
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker](https://www.spiegel.de/sport/fussball/juergen-klopp-seine-erste-dfb-pressekonferenz-im-liveticker-a-81427924-2afd-43b4-9331-8d5ff82d5f84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel](https://www.spiegel.de/ausland/donald-trump-knuepft-atomdeal-mit-saudi-arabien-an-annaeherung-mit-israel-a-afc80bd7-c69c-4084-bef6-745c81979b18#ref=rss)
-### loris
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
-### karius
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig](https://www.spiegel.de/sport/fussball/schalke-torhueter-loris-karius-ueber-zeit-bei-besiktas-istanbul-es-ging-mir-dreckig-a-5f7d86d6-5379-4b6d-bc11-4fde8bfd7356#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+* [https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken](https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken-a-929b74d5-c076-4e56-8841-c7c560ea074a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf](https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf-a-72e280fb-aa26-42ef-b17a-49c8e92b07a5#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck](https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck-a-faff8856-5a80-499e-9ffb-b8716e9f7048#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf](https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf-a-72e280fb-aa26-42ef-b17a-49c8e92b07a5#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus-a-43597aaf-a7f1-4c5a-b0a6-196903a29408#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck](https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck-a-3b7d3fef-3b45-4b6d-bd14-190908b4c3f4#ref=rss)
+### neustart
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+### baut
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### patrick
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### schnieder
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-attackierte-philippinische-schiffe-mit-wasserwerfern](https://www.spiegel.de/ausland/suedchinesisches-meer-china-attackierte-philippinische-schiffe-mit-wasserwerfern-a-a1aa2184-0df7-4422-8d66-239f8af20209#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/probleme-in-china-vw-gewinn-bricht-erneut-ein-diesmal-um-ein-drittel](https://www.spiegel.de/wirtschaft/unternehmen/probleme-in-china-vw-gewinn-bricht-erneut-ein-diesmal-um-ein-drittel-a-39a647f8-1492-431a-a1bd-f03a4b23665e#ref=rss)
+### per
+
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+### mertesacker
+
+* [https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp](https://www.spiegel.de/sport/fussball/dfb-per-mertesacker-wird-geschaeftsfuehrer-marc-kosicke-unterstuetzt-juergen-klopp-a-f5c37cd1-36de-4633-839c-1a870afbb713#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/frankreich-wurde-in-annecy-eine-lokalzeitung-leergekauft-um-berichte-ueber-sexualisierte-gewalt-zu-vertuschen](https://www.spiegel.de/ausland/frankreich-wurde-in-annecy-eine-lokalzeitung-leergekauft-um-berichte-ueber-sexualisierte-gewalt-zu-vertuschen-a-b2f27d4e-ef40-4b22-837d-e5199611fce9#ref=rss)
+* [https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge](https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge-a-0528180a-8630-4e01-a7da-c260c8a4a556#ref=rss)
+### rahm
+
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+### emanuel
+
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an](https://www.spiegel.de/ausland/usa-rahm-emanuel-koennte-der-naechste-us-praesident-werden-nun-legt-er-sich-mit-israel-an-a-d965c645-1b48-439a-a003-a133ff06965e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### red
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+### bull
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+### fußballbund
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig](https://www.spiegel.de/sport/fussball/juergen-klopp-und-der-dfb-eine-million-an-red-bull-und-laenderspiele-in-leipzig-a-fec904b3-a597-4c68-936e-c7633b04fba8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge](https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge-a-0528180a-8630-4e01-a7da-c260c8a4a556#ref=rss)
+### kleinbus
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot](https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot-a-873fde77-9521-4cb4-80c6-d96865338dbe#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt](https://www.spiegel.de/panorama/portugal-vergessenes-kind-stirbt-in-kleinbus-polizei-ermittelt-a-b79d403c-72c9-476f-b12a-1ac28a999fff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### team
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-kabinettsumbau-wie-der-kanzler-den-neustart-verstolpert-a-8bb6e9ad-d4aa-4ba3-8429-941d4bc028ec#ref=rss)
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+### cristian
+
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+### volpato
+
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet](https://www.spiegel.de/sport/fussball/fussball-australischer-wm-spieler-cristian-volpato-offenbar-positiv-auf-kokain-getestet-a-5588a3de-6da8-4fae-b2bf-cdcf41e7454d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### sally
+
+* [https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht](https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht-a-e99c33c6-1bfc-4d3a-a0c2-1e16aa9abfa7#ref=rss)
+### özcan
+
+* [https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht](https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht-a-e99c33c6-1bfc-4d3a-a0c2-1e16aa9abfa7#ref=rss)
+### aussieht
+
+* [https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht](https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht-a-e99c33c6-1bfc-4d3a-a0c2-1e16aa9abfa7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### ort
+
+* [https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht](https://www.spiegel.de/effilee/sally-oezcan-schmeckt-ihre-welt-in-realitaet-so-gut-wie-sie-auf-insta-aussieht-a-e99c33c6-1bfc-4d3a-a0c2-1e16aa9abfa7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat](https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat-a-ab99a1b3-bce1-4952-a8b9-378a40a9a9f9#ref=rss)
+### kabinett
+
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### kabinettsumbildung
+
+* [https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar](https://www.spiegel.de/politik/friedrich-merz-baut-sein-kabinett-um-doch-die-personalprobleme-bleiben-kommentar-a-efc54116-9cf4-4138-aeb7-6170f0857f97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### arkadi
+
+* [https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck](https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck-a-faff8856-5a80-499e-9ffb-b8716e9f7048#ref=rss)
+### dworkowitsch
+
+* [https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck](https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck-a-faff8856-5a80-499e-9ffb-b8716e9f7048#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck](https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck-a-faff8856-5a80-499e-9ffb-b8716e9f7048#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck](https://www.spiegel.de/sport/arkadi-dworkowitsch-schach-praesident-zieht-sich-wegen-eu-sanktionen-zurueck-a-faff8856-5a80-499e-9ffb-b8716e9f7048#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+### denken
+
+* [https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken](https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken-a-929b74d5-c076-4e56-8841-c7c560ea074a#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken](https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken-a-929b74d5-c076-4e56-8841-c7c560ea074a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken](https://www.spiegel.de/politik/reproduktionsmedizin-was-spiegel-leser-ueber-leihmutterschaft-denken-a-929b74d5-c076-4e56-8841-c7c560ea074a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### werner
+
+* [https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot](https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot-a-873fde77-9521-4cb4-80c6-d96865338dbe#ref=rss)
+### enke
+
+* [https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot](https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot-a-873fde77-9521-4cb4-80c6-d96865338dbe#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot](https://www.spiegel.de/kultur/tv/werner-enke-schauspieler-ist-tot-a-873fde77-9521-4cb4-80c6-d96865338dbe#ref=rss)
+### drohne
+
+* [https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab](https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab-a-61124e0b-1368-40e6-9f35-567e1a858531#ref=rss)
+### luftraum
+
+* [https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab](https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab-a-61124e0b-1368-40e6-9f35-567e1a858531#ref=rss)
+### diesmal
+
+* [https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab](https://www.spiegel.de/ausland/rumaenien-schiesst-erstmals-drohne-ueber-eigenem-luftraum-ab-a-61124e0b-1368-40e6-9f35-567e1a858531#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/probleme-in-china-vw-gewinn-bricht-erneut-ein-diesmal-um-ein-drittel](https://www.spiegel.de/wirtschaft/unternehmen/probleme-in-china-vw-gewinn-bricht-erneut-ein-diesmal-um-ein-drittel-a-39a647f8-1492-431a-a1bd-f03a4b23665e#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf](https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf-a-72e280fb-aa26-42ef-b17a-49c8e92b07a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### handelspolitik
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf](https://www.spiegel.de/wirtschaft/donald-trump-deutsche-exporteure-kritisieren-zolldschungel-der-usa-scharf-a-72e280fb-aa26-42ef-b17a-49c8e92b07a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### fest
+
+* [https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030](https://www.spiegel.de/sport/fussball/dfb-juergen-klopp-wird-neuer-bundestrainer-bis-2030-a-3521afc3-ebe9-4410-91a0-abdd40a468df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### plant
+
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor](https://www.spiegel.de/politik/regierungsumbau-gruene-werfen-kanzler-friedrich-merz-salamitaktik-vor-a-da0d39ba-d49c-4ae7-9df2-c40f4cfb2c7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### kehl
+
+* [https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher](https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher-a-b9a5248f-5fdf-41ca-94f3-572340b5870c#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher](https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher-a-b9a5248f-5fdf-41ca-94f3-572340b5870c#ref=rss)
+* [https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge](https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge-a-0528180a-8630-4e01-a7da-c260c8a4a556#ref=rss)
+### flüchtet
+
+* [https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher](https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher-a-b9a5248f-5fdf-41ca-94f3-572340b5870c#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher](https://www.spiegel.de/panorama/justiz/kehl-mann-fluechtet-durch-fluss-polizei-schwimmt-hinterher-a-b9a5248f-5fdf-41ca-94f3-572340b5870c#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+### verkehrsminister
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder](https://www.spiegel.de/politik/deutschland/berlin-bundeskanzler-friedrich-merz-entlaesst-offenbar-verkehrsminister-patrick-schnieder-a-7a2a6235-807b-4d9b-b2a0-f238e6ed8a9d#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+### entwicklungen
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+### live
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+### warken
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### linnemann
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### amthor
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-ist-die-neue-mannschaft-des-kanzlers-a-b7c0ed53-9e9d-4490-b6b0-fbceff92d019#ref=rss)
+### präsentiert
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung](https://www.spiegel.de/politik/deutschland/berlin-friedrich-merz-praesentiert-um-9-00-uhr-seine-kabinettsumbildung-a-3661dbad-9c5b-4871-9bef-eca3970019ae#ref=rss)
+### fallen
+
+* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus-a-43597aaf-a7f1-4c5a-b0a6-196903a29408#ref=rss)
+### bonn
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus-a-43597aaf-a7f1-4c5a-b0a6-196903a29408#ref=rss)
+### 60
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus](https://www.spiegel.de/mobilitaet/bus-bahn/bonn-60-stadtbahnen-fallen-noch-wochenlang-aus-a-43597aaf-a7f1-4c5a-b0a6-196903a29408#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-begruendet-neue-zoelle-mit-angeblicher-zwangsarbeit-a-afcccc9d-22bb-4e1f-9a64-aacb48a924d4#ref=rss)
+### 76jähriger
+
+* [https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge](https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge-a-0528180a-8630-4e01-a7da-c260c8a4a556#ref=rss)
+### karwendelgebirge
+
+* [https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge](https://www.spiegel.de/panorama/garmisch-partenkirchen-76-jaehriger-urlauber-stirbt-bei-absturz-im-karwendelgebirge-a-0528180a-8630-4e01-a7da-c260c8a4a556#ref=rss)
+### mitte
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck](https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck-a-3b7d3fef-3b45-4b6d-bd14-190908b4c3f4#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck](https://www.spiegel.de/panorama/wetter-in-deutschland-heiter-und-zunehmend-waermer-sommer-kehrt-zurueck-a-3b7d3fef-3b45-4b6d-bd14-190908b4c3f4#ref=rss)
+### meer
+
+* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-attackierte-philippinische-schiffe-mit-wasserwerfern](https://www.spiegel.de/ausland/suedchinesisches-meer-china-attackierte-philippinische-schiffe-mit-wasserwerfern-a-a1aa2184-0df7-4422-8d66-239f8af20209#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat](https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat-a-ab99a1b3-bce1-4952-a8b9-378a40a9a9f9#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat](https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat-a-ab99a1b3-bce1-4952-a8b9-378a40a9a9f9#ref=rss)
+### armeechef
+
+* [https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat](https://www.spiegel.de/ausland/ukraine-warum-wolodymyr-selenskyj-den-armeechef-ausgetauscht-hat-a-ab99a1b3-bce1-4952-a8b9-378a40a9a9f9#ref=rss)
 
