@@ -4,348 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jürgen
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers](https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers-a-2ccdc645-0b0f-44dd-80c9-83c9d767347e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus](https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss)
-### klopp
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite](https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite-a-bc5c733c-c88b-447c-8ac8-f91b379c01ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken](https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken-a-bed99b6a-036c-4f55-a0b5-17a20481d97e#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers](https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers-a-2ccdc645-0b0f-44dd-80c9-83c9d767347e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus](https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss)
-### frankreich
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite](https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite-a-bc5c733c-c88b-447c-8ac8-f91b379c01ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken](https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken-a-bed99b6a-036c-4f55-a0b5-17a20481d97e#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+* [https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren](https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren-a-cbd195b9-b710-4cca-8d5c-9eb4db78483b#ref=rss)
+* [https://www.spiegel.de/ausland/us-gericht-blockt-massive-gebuehrenerhoehung-fuer-arbeitsvisa-ab](https://www.spiegel.de/ausland/us-gericht-blockt-massive-gebuehrenerhoehung-fuer-arbeitsvisa-ab-a-ae517868-5ad6-4535-925a-6ea6a8336387#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+* [https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus](https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus-a-fe72aeac-2c53-4542-8e4f-b907019419a9#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie](https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie-a-bfab0cfe-25dc-4caa-be9e-e62d9e6744fc#ref=rss)
+* [https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren](https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren-a-cbd195b9-b710-4cca-8d5c-9eb4db78483b#ref=rss)
+* [https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus](https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus-a-fe72aeac-2c53-4542-8e4f-b907019419a9#ref=rss)
+* [https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen](https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen-a-d1d7beef-9f0b-4331-9f9c-0e069859c3f5#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### afdverbotsverfahren
+
+* [https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren-a-85dff94e-dda9-4af0-b86e-c7bdd2ebc92a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie](https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie-a-2d502e7e-60a4-41a1-ba80-801cd78c2259#ref=rss)
+* [https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie](https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie-a-bfab0cfe-25dc-4caa-be9e-e62d9e6744fc#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika](https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika-a-2529c47c-838d-4658-afd0-4cf163dd7515#ref=rss)
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers](https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers-a-2ccdc645-0b0f-44dd-80c9-83c9d767347e#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers](https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers-a-106414bb-97a1-40e3-a420-5d7d3b3d3557#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn](https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn-a-29a78375-bcc3-47b4-90a6-959c4a8cd723#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika](https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika-a-2529c47c-838d-4658-afd0-4cf163dd7515#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-### linnemann
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf](https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf-a-085fbca9-8a51-448a-934d-0001f279f8ad#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-* [https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte](https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte-a-ac98478a-5d26-41bf-9283-5f69cf70ec8f#ref=rss)
-### regensburg
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam](https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam-a-728737bf-31e5-4178-ad92-79549dea8503#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers](https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers-a-2ccdc645-0b0f-44dd-80c9-83c9d767347e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus](https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### südeuropa
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### italien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-* [https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte](https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte-a-ac98478a-5d26-41bf-9283-5f69cf70ec8f#ref=rss)
-### essen
-
-* [https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers](https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers-a-106414bb-97a1-40e3-a420-5d7d3b3d3557#ref=rss)
-### schau
-
-* [https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers](https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers-a-106414bb-97a1-40e3-a420-5d7d3b3d3557#ref=rss)
-### werk
-
-* [https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers](https://www.spiegel.de/kultur/gustave-courbet-retrospektive-in-essen-schau-ueber-werk-und-leben-des-malers-a-106414bb-97a1-40e3-a420-5d7d3b3d3557#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv](https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv-a-17860455-ec9a-4b1f-a178-9ff62d8fca3d#ref=rss)
-### visier
-
-* [https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv](https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv-a-17860455-ec9a-4b1f-a178-9ff62d8fca3d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv](https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv-a-17860455-ec9a-4b1f-a178-9ff62d8fca3d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam](https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam-a-728737bf-31e5-4178-ad92-79549dea8503#ref=rss)
-### afrika
-
-* [https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika](https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika-a-2529c47c-838d-4658-afd0-4cf163dd7515#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika](https://www.spiegel.de/ausland/donald-trump-nominiert-neuen-befehlshaber-fuer-us-heer-in-europa-und-afrika-a-2529c47c-838d-4658-afd0-4cf163dd7515#ref=rss)
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-### eignung
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-### kabinett
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister](https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### bab
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-### almandab
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-### straße
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-### schiffsverkehr
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise](https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-### lebron
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers](https://www.spiegel.de/sport/basketball/lebron-james-nba-basketball-legende-geht-zu-den-philadelphia-76ers-a-d6bd611f-2647-4766-830d-24b3022abc61#ref=rss)
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu](https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu-a-4a35696c-fc12-4bdb-9cd3-ffefc36c6ef6#ref=rss)
-### danger
-
-* [https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein](https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein-a-10c64d4d-8fa2-4e92-ac4e-feee2553c1cc#ref=rss)
-### dan
-
-* [https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein](https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein-a-10c64d4d-8fa2-4e92-ac4e-feee2553c1cc#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein](https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein-a-10c64d4d-8fa2-4e92-ac4e-feee2553c1cc#ref=rss)
-### angst
-
-* [https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein](https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein-a-10c64d4d-8fa2-4e92-ac4e-feee2553c1cc#ref=rss)
-### politische
-
-* [https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein](https://www.spiegel.de/kultur/danger-dan-umstrittener-song-keine-angst-steigt-in-top-ten-der-charts-ein-a-10c64d4d-8fa2-4e92-ac4e-feee2553c1cc#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
-### 19jähriger
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf](https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf-a-085fbca9-8a51-448a-934d-0001f279f8ad#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus](https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/kaiserslautern-19-jaehriger-wegen-toedlichen-messerangriffs-zu-neun-jahren-haft-verurteilt-a-a5beb9dc-08b0-4b64-80e0-68d682d032eb#ref=rss)
-* [https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte](https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte-a-ac98478a-5d26-41bf-9283-5f69cf70ec8f#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-gewinnt-die-kneipenschlaegerei-auf-raedern-a-1cbc3e94-b093-44c8-9280-3f0e5d479af5#ref=rss)
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-### charli
-
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-### xcx
-
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-### brat
-
-* [https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat](https://www.spiegel.de/kultur/charli-xcx-album-music-fashion-film-noch-immer-brat-a-de289489-05d1-40cf-980d-8fa67dad6f79#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu](https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu-a-4a35696c-fc12-4bdb-9cd3-ffefc36c6ef6#ref=rss)
-### durfte
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu](https://www.spiegel.de/panorama/bundesverfassungsgericht-die-menschenwuerde-laesst-keinen-pauschalen-aufnahmestopp-zu-a-4a35696c-fc12-4bdb-9cd3-ffefc36c6ef6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers](https://www.spiegel.de/sport/fussball/juergen-klopp-vorstellung-des-neuen-dfb-bundestrainers-a-2ccdc645-0b0f-44dd-80c9-83c9d767347e#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes-a-2a904588-2a0c-4dde-85d4-ee46583cb7ed#ref=rss)
-### bankfiliale
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam](https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam-a-728737bf-31e5-4178-ad92-79549dea8503#ref=rss)
-### sticht
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes-a-2a904588-2a0c-4dde-85d4-ee46583cb7ed#ref=rss)
-### tatverdächtigen
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer](https://www.spiegel.de/panorama/justiz/toedlicher-ueberfall-in-regensburg-bankmitarbeiter-war-wohl-zufallsopfer-a-ae10eb9e-f5f3-4ca4-8480-a98c6f173ff4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes-a-2a904588-2a0c-4dde-85d4-ee46583cb7ed#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-### übernehmen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-baut-sein-kabinett-um-juergen-klopp-ist-neuer-bundestrainer-waldbraende-in-suedeuropa-a-c79bae10-f5be-43a0-8fd3-d7a7a74c913e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/patrick-schnieder-warum-der-verkehrsminister-gehen-muss](https://www.spiegel.de/wirtschaft/patrick-schnieder-warum-der-verkehrsminister-gehen-muss-a-6d44b20c-5829-4169-a801-4c5494a83a3b#ref=rss)
-### chris
-
-* [https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf](https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf-a-085fbca9-8a51-448a-934d-0001f279f8ad#ref=rss)
-### brown
-
-* [https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf](https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf-a-085fbca9-8a51-448a-934d-0001f279f8ad#ref=rss)
-### vorfall
-
-* [https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf](https://www.spiegel.de/panorama/justiz/chris-brown-r-b-saenger-gesteht-minderschweren-gewaltvorwurf-a-085fbca9-8a51-448a-934d-0001f279f8ad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/stuttgart-haftbefehl-gegen-tatverdaechtigen-ehemann-wegen-versuchten-mordes-a-2a904588-2a0c-4dde-85d4-ee46583cb7ed#ref=rss)
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-### nimmt
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier](https://www.spiegel.de/ausland/iran-nimmt-us-verbuendete-jordanien-und-bahrain-ins-visier-a-06a2d0c0-9e5f-4766-9f35-a514189369b9#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### betrüger
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-mehr-als-110-000-menschen-evakuiert](https://www.spiegel.de/ausland/waldbraende-in-frankreich-mehr-als-110-000-menschen-evakuiert-a-956d6a47-2f36-4b15-a2a1-982c9827b625#ref=rss)
+* [https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren](https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren-a-cbd195b9-b710-4cca-8d5c-9eb4db78483b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/schockanrufe-79-jaehriger-ueberlistet-betrueger-schon-wieder](https://www.spiegel.de/panorama/justiz/schockanrufe-79-jaehriger-ueberlistet-betrueger-schon-wieder-a-e26d1eeb-7d84-41bd-b0a1-d9f8a50d8e50#ref=rss)
-### minister
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie](https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie-a-8699a101-0fca-4e89-9ee0-7036be8c99a8#ref=rss)
-### untersuchung
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+### paramount
 
-* [https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie](https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie-a-8699a101-0fca-4e89-9ee0-7036be8c99a8#ref=rss)
-### zebras
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis](https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis-a-870ecb24-6176-41ba-9eff-cf0a9b9ef5c2#ref=rss)
+### unternehmerfamilie
 
-* [https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie](https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie-a-8699a101-0fca-4e89-9ee0-7036be8c99a8#ref=rss)
-### familie
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie](https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie-a-2d502e7e-60a4-41a1-ba80-801cd78c2259#ref=rss)
+* [https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie](https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie-a-bfab0cfe-25dc-4caa-be9e-e62d9e6744fc#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie](https://www.spiegel.de/ausland/ungarn-minister-will-untersuchung-zu-zebras-auf-grundstueck-von-orbans-familie-a-8699a101-0fca-4e89-9ee0-7036be8c99a8#ref=rss)
-### evakuiert
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie](https://www.spiegel.de/panorama/justiz/prozess-gegen-christina-block-das-drama-um-die-unternehmerfamilie-a-2d502e7e-60a4-41a1-ba80-801cd78c2259#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis](https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis-a-870ecb24-6176-41ba-9eff-cf0a9b9ef5c2#ref=rss)
+### führen
 
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa](https://www.spiegel.de/ausland/waldbraende-in-frankreich-und-spanien-evakuierungen-und-tote-in-suedeuropa-a-a0f297f6-ecba-4906-b3e4-465251a3dfe2#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### flammen
+* [https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie](https://www.spiegel.de/panorama/block-house-machtkaempfe-kontrollwahn-und-sorgerechtsstreit-in-der-unternehmerfamilie-a-bfab0cfe-25dc-4caa-be9e-e62d9e6744fc#ref=rss)
+* [https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren](https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren-a-cbd195b9-b710-4cca-8d5c-9eb4db78483b#ref=rss)
+### linnemann
 
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### wüten
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen](https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### bilder
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite](https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite-a-bc5c733c-c88b-447c-8ac8-f91b379c01ad#ref=rss)
+### einfach
 
-* [https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder](https://www.spiegel.de/ausland/waldbraende-wueten-in-frankreich-flammen-rauch-loescharbeiten-die-bilder-a-be927108-d8b9-4cbf-8d59-dff8735a9729#ref=rss)
-### donau
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte](https://www.spiegel.de/panorama/wien-donau-kreuzfahrtschiff-rammt-kaimauer-mehrere-verletzte-a-ac98478a-5d26-41bf-9283-5f69cf70ec8f#ref=rss)
-### salman
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben](https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben-a-e94a26b3-8824-468a-8eaf-341a1cd83f09#ref=rss)
+### job
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn](https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn-a-29a78375-bcc3-47b4-90a6-959c4a8cd723#ref=rss)
-### rushdie
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens](https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens-a-eec5451c-d365-4ea8-8fea-8c92dbe97887#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn](https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn-a-29a78375-bcc3-47b4-90a6-959c4a8cd723#ref=rss)
-### messerattacke
+* [https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen](https://www.spiegel.de/politik/linnemann-ueber-neuen-ministerjob-hier-und-da-muss-ich-einfach-noch-tiefer-einsteigen-a-3fca882d-bfc6-4281-8179-096b653b816b#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+### jörg
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn](https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn-a-29a78375-bcc3-47b4-90a6-959c4a8cd723#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam](https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam-a-728737bf-31e5-4178-ad92-79549dea8503#ref=rss)
-### täter
+* [https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte](https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte-a-cbc345b4-c0d1-4b74-87b9-7b9d39019b10#ref=rss)
+### haider
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn](https://www.spiegel.de/kultur/literatur/salman-rushdie-schildert-die-momente-des-attentats-auf-ihn-a-29a78375-bcc3-47b4-90a6-959c4a8cd723#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam](https://www.spiegel.de/panorama/justiz/regensburg-bank-mutmasslicher-messerangreifer-war-kurz-vorher-in-polizeigewahrsam-a-728737bf-31e5-4178-ad92-79549dea8503#ref=rss)
-### dfb
+* [https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte](https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte-a-cbc345b4-c0d1-4b74-87b9-7b9d39019b10#ref=rss)
+### fpöchef
 
-* [https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus](https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss)
-### minutenprotokoll
+* [https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte](https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte-a-cbc345b4-c0d1-4b74-87b9-7b9d39019b10#ref=rss)
+### modernen
 
-* [https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live](https://www.spiegel.de/politik/friedrich-merz-versucht-den-neustart-verwirrung-um-verkehrsminister-schnieder-alle-entwicklungen-live-a-a354251f-0eac-4bf4-bfac-dd28963c240c#ref=rss)
+* [https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte](https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte-a-cbc345b4-c0d1-4b74-87b9-7b9d39019b10#ref=rss)
+### rechtspopulismus
+
+* [https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte](https://www.spiegel.de/ausland/joerg-haider-wie-der-fpoe-chef-den-modernen-rechtspopulismus-praegte-a-cbc345b4-c0d1-4b74-87b9-7b9d39019b10#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### air
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+### force
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+### one
+
+* [https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben](https://www.spiegel.de/ausland/donald-trump-in-gefahr-iran-verbuendete-sollen-angriff-auf-neue-air-force-one-geplant-haben-a-4ba04ad3-deb1-4f41-9834-e94e9231c0d8#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### erling
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### hochzeit
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### gianluigi
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### donnarumma
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern](https://www.spiegel.de/sport/fussball/manchester-city-erling-haaland-bringt-gaeste-bei-hochzeit-von-gianluigi-donnarumma-zum-rudern-a-5b074034-5c08-4a08-b082-030974accb02#ref=rss)
+### insiderhandel
+
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+### angeklagt
+
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt](https://www.spiegel.de/netzwelt/vw-ingenieure-in-den-usa-wegen-verdachts-auf-insiderhandel-angeklagt-a-741252f6-0902-4bb7-8870-db96cf64a2b4#ref=rss)
+* [https://www.spiegel.de/ausland/us-gericht-blockt-massive-gebuehrenerhoehung-fuer-arbeitsvisa-ab](https://www.spiegel.de/ausland/us-gericht-blockt-massive-gebuehrenerhoehung-fuer-arbeitsvisa-ab-a-ae517868-5ad6-4535-925a-6ea6a8336387#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren](https://www.spiegel.de/gesundheit/usa-verzeichnen-hoechste-zahl-an-masern-infektionen-seit-35-jahren-a-cbd195b9-b710-4cca-8d5c-9eb4db78483b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken](https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken-a-bed99b6a-036c-4f55-a0b5-17a20481d97e#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben](https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben-a-e94a26b3-8824-468a-8eaf-341a1cd83f09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren-a-85dff94e-dda9-4af0-b86e-c7bdd2ebc92a#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben](https://www.spiegel.de/ausland/schweiz-svp-politiker-patrick-frei-soll-tochter-seiner-partnerin-44-mal-missbraucht-haben-a-e94a26b3-8824-468a-8eaf-341a1cd83f09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umgang-mit-raf-und-linksterrorismus-bundeszentrale-fuer-unbildung-kolumne](https://www.spiegel.de/politik/deutschland/umgang-mit-raf-und-linksterrorismus-bundeszentrale-fuer-unbildung-kolumne-a-b037d49c-f3d4-49ca-bfb6-9f08dfa04d71#ref=rss)
+### usmilitär
+
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+### weg
+
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite](https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite-a-bc5c733c-c88b-447c-8ac8-f91b379c01ad#ref=rss)
+### derweil
+
+* [https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen](https://www.spiegel.de/ausland/irankrieg-us-militaer-stoppt-tanker-auf-dem-weg-nach-iran-offenbar-mit-schuessen-a-49992b05-0e04-441f-a742-d1d3ebb1ce03#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/ausland/nato-praktikantin-wegen-spionageverdachts-festgenommen](https://www.spiegel.de/ausland/nato-praktikantin-wegen-spionageverdachts-festgenommen-a-b3e279ae-d642-4849-8b39-f3bf5d9b0101#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/ausland/nato-praktikantin-wegen-spionageverdachts-festgenommen](https://www.spiegel.de/ausland/nato-praktikantin-wegen-spionageverdachts-festgenommen-a-b3e279ae-d642-4849-8b39-f3bf5d9b0101#ref=rss)
+* [https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus](https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus-a-fe72aeac-2c53-4542-8e4f-b907019419a9#ref=rss)
+### kulturstaatsminister
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+### weimer
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+### europa
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-kulturstaatsminister-wolfram-weimer-will-ein-tiktok-europa-schaffen-a-34fd3a5e-022b-4bde-8c38-03ce1af1cd63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren-a-85dff94e-dda9-4af0-b86e-c7bdd2ebc92a#ref=rss)
+### geben
+
+* [https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren-a-85dff94e-dda9-4af0-b86e-c7bdd2ebc92a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken](https://www.spiegel.de/ausland/donald-trump-will-museum-mit-warnschildern-brandmarken-a-bed99b6a-036c-4f55-a0b5-17a20481d97e#ref=rss)
+### plan
+
+* [https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-so-draengen-prominente-politiker-auf-ein-afd-verbotsverfahren-a-85dff94e-dda9-4af0-b86e-c7bdd2ebc92a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan](https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan-a-049eb31c-fea4-4f1a-aac1-dd0f80d1e30d#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite](https://www.spiegel.de/ausland/donald-trump-bei-us-korrespondentendinner-wenn-ich-weg-bin-seid-ihr-alle-pleite-a-bc5c733c-c88b-447c-8ac8-f91b379c01ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen](https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen-a-a2d3d7dd-60d8-4b26-b472-1cc358179c69#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen](https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen-a-a2d3d7dd-60d8-4b26-b472-1cc358179c69#ref=rss)
+* [https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens](https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens-a-eec5451c-d365-4ea8-8fea-8c92dbe97887#ref=rss)
+### wir
+
+* [https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen](https://www.spiegel.de/mobilitaet/stau-verspaetung-stress-im-urlaub-wie-sie-mit-reisefrust-im-urlaub-umgehen-a-a2d3d7dd-60d8-4b26-b472-1cc358179c69#ref=rss)
+### kipolitik
+
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+### macht
+
+* [https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar](https://www.spiegel.de/netzwelt/donald-trumps-ki-politik-macht-das-netz-fuer-alle-unsicherer-kommentar-a-17a7f892-b30e-4366-92b0-c21201452ae8#ref=rss)
+* [https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle](https://www.spiegel.de/ausland/zwei-us-firmen-klagen-gegen-trumps-neue-zoelle-a-8f4eda06-cc3f-49f7-b19d-2cb80167324f#ref=rss)
+### karim
+
+* [https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens](https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens-a-eec5451c-d365-4ea8-8fea-8c92dbe97887#ref=rss)
+### khan
+
+* [https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens](https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens-a-eec5451c-d365-4ea8-8fea-8c92dbe97887#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/stil/mode-trends-tragen-die-maenner-jetzt-hosen-so-wie-die-frauen](https://www.spiegel.de/stil/mode-trends-tragen-die-maenner-jetzt-hosen-so-wie-die-frauen-a-1ea74a27-b828-4652-9e6d-f0a26bc90779#ref=rss)
+* [https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen](https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen-a-d1d7beef-9f0b-4331-9f9c-0e069859c3f5#ref=rss)
+### droht
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### michigan
+
+* [https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus](https://www.spiegel.de/panorama/feuerwehr-findet-sechs-tote-kinder-in-abgebranntem-haus-a-fe72aeac-2c53-4542-8e4f-b907019419a9#ref=rss)
+### schlafmangel
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen](https://www.spiegel.de/gesundheit/schlafmangel-von-muettern-und-vaetern-frauen-haben-ein-hoeheres-risiko-schlecht-zu-schlafen-a-d1d7beef-9f0b-4331-9f9c-0e069859c3f5#ref=rss)
+### riesenrakete
+
+* [https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan](https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan-a-049eb31c-fea4-4f1a-aac1-dd0f80d1e30d#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan](https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan-a-049eb31c-fea4-4f1a-aac1-dd0f80d1e30d#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan](https://www.spiegel.de/wissenschaft/weltall/starship-riesenrakete-von-elon-musk-besteht-13-testflug-weitgehend-nach-plan-a-049eb31c-fea4-4f1a-aac1-dd0f80d1e30d#ref=rss)
+### huthiziele
+
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff](https://www.spiegel.de/ausland/jemen-saudi-koalition-bombardiert-huthi-ziele-nach-angriff-auf-schiff-a-1359ddd6-2ba2-498a-ba1d-cadf1274f9cd#ref=rss)
+### übernahme
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis](https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis-a-870ecb24-6176-41ba-9eff-cf0a9b9ef5c2#ref=rss)
+### warner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis](https://www.spiegel.de/wirtschaft/unternehmen/paramount-legt-uebernahme-von-warner-bros-voruebergehend-auf-eis-a-870ecb24-6176-41ba-9eff-cf0a9b9ef5c2#ref=rss)
 
