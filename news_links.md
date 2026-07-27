@@ -4,378 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium](https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium-a-77154422-8e19-43f4-8d9d-6837e9bf8173#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg](https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg-a-442bf239-0713-436e-bbe2-f7137aa3dbe5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas](https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas-a-93feed4a-6757-4afa-85a2-1946cb03f3aa#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-* [https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld](https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld-a-fa80db1a-2965-4b73-9534-f7809642228f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework](https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework-a-b830e5c1-0df4-4534-b7f3-b9adcdce1185#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-finanzchef-erhoeht-den-druck-beim-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/audi-finanzchef-erhoeht-den-druck-beim-sparprogramm-a-886ed5ef-f4ad-4435-a116-7bab0fdcbdba#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium](https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium-a-77154422-8e19-43f4-8d9d-6837e9bf8173#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-* [https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen](https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen-a-82147d84-9e5f-4a15-8ee0-391f42b65043#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht](https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht-a-0adb515e-4c0a-4813-aa4a-42b32e2a9a28#ref=rss)
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
 ### csd
 
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
 * [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-* [https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen](https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen-a-82147d84-9e5f-4a15-8ee0-391f42b65043#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen](https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen-a-82147d84-9e5f-4a15-8ee0-391f42b65043#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-### seines
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus](https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus-a-05837dd9-bc5f-40a3-a117-d1f5f456013d#ref=rss)
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht](https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht-a-0adb515e-4c0a-4813-aa4a-42b32e2a9a28#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump](https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump-a-e997ed96-a78a-43b2-a338-d2f10f6a8bcc#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa](https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa-a-7a02b462-66f5-4fce-b8af-6e43dd555f8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld](https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld-a-fa80db1a-2965-4b73-9534-f7809642228f#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa](https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa-a-7a02b462-66f5-4fce-b8af-6e43dd555f8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-finanzchef-erhoeht-den-druck-beim-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/audi-finanzchef-erhoeht-den-druck-beim-sparprogramm-a-886ed5ef-f4ad-4435-a116-7bab0fdcbdba#ref=rss)
-* [https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen](https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen-a-82147d84-9e5f-4a15-8ee0-391f42b65043#ref=rss)
-### irankriegs
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg](https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg-a-442bf239-0713-436e-bbe2-f7137aa3dbe5#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg](https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg-a-442bf239-0713-436e-bbe2-f7137aa3dbe5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump](https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump-a-e997ed96-a78a-43b2-a338-d2f10f6a8bcc#ref=rss)
-### donald
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump](https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump-a-e997ed96-a78a-43b2-a338-d2f10f6a8bcc#ref=rss)
-### rheinlandpfalz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-### verkehrsminister
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht](https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht-a-0adb515e-4c0a-4813-aa4a-42b32e2a9a28#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-politiker-aus-rheinland-pfalz-gehen-auf-konfrontationskurs-zum-kanzler-a-e94ba02e-8867-4169-8f98-25934340017c#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus](https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus-a-05837dd9-bc5f-40a3-a117-d1f5f456013d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-### heiß
-
-* [https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus](https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus-a-05837dd9-bc5f-40a3-a117-d1f5f456013d#ref=rss)
-### grad
-
-* [https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus](https://www.spiegel.de/panorama/wetter-hitze-es-wird-heiss-dwd-sagt-auch-schauer-und-gewitter-voraus-a-05837dd9-bc5f-40a3-a117-d1f5f456013d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa](https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa-a-7a02b462-66f5-4fce-b8af-6e43dd555f8f#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-### solidarität
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-### queere
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-### angst
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-### leben
-
-* [https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen](https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an-a-8553d3c9-5ca4-44e2-b57e-3e01dc510558#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an-a-8553d3c9-5ca4-44e2-b57e-3e01dc510558#ref=rss)
-### stark
-
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an-a-8553d3c9-5ca4-44e2-b57e-3e01dc510558#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-stark-sinkender-oelpeis-kommt-laut-adac-nur-langsam-bei-autofahrern-an-a-8553d3c9-5ca4-44e2-b57e-3e01dc510558#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-### warentransport
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas](https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas-a-93feed4a-6757-4afa-85a2-1946cb03f3aa#ref=rss)
-### händler
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas](https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas-a-93feed4a-6757-4afa-85a2-1946cb03f3aa#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/trockenheit-und-hitze-rhein-niedrigwasser-verteuert-warentransport-deutlich-a-f891e076-2a3c-4d4d-9468-781735b9e5e0#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa](https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa-a-7a02b462-66f5-4fce-b8af-6e43dd555f8f#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa](https://www.spiegel.de/wissenschaft/natur/trias-farne-als-naehrstoff-fuer-feuer-ueber-jahrtausende-in-europa-a-7a02b462-66f5-4fce-b8af-6e43dd555f8f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-### rudi
-
-* [https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus](https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus-a-da99deb2-d20c-4235-9c97-333e9bab0ecb#ref=rss)
-### völler
-
-* [https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus](https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus-a-da99deb2-d20c-4235-9c97-333e9bab0ecb#ref=rss)
-### dfbsportdirektor
-
-* [https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus](https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-erwog-ruecktritt-nach-fruehem-wm-aus-a-da99deb2-d20c-4235-9c97-333e9bab0ecb#ref=rss)
-### gunther
-
-* [https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben](https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben-a-ee679345-5a38-4662-93bd-3d37a078e3ef#ref=rss)
-### hagens
-
-* [https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben](https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben-a-ee679345-5a38-4662-93bd-3d37a078e3ef#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben](https://www.spiegel.de/panorama/leute/umstrittener-leichenpraeparator-gunther-von-hagens-ist-gestorben-a-ee679345-5a38-4662-93bd-3d37a078e3ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin](https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin-a-7581bd69-d0cc-48a7-97cf-020eaca3446c#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream](https://www.spiegel.de/politik/friedrich-merz-der-kanzler-und-seine-umstrittene-kabinettsumbildung-livestream-a-c4ec4fb4-c400-4767-abad-5826ddd81333#ref=rss)
-* [https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework](https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework-a-b830e5c1-0df4-4534-b7f3-b9adcdce1185#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-### obhut
-
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-### genommen
-
-* [https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen](https://www.spiegel.de/panorama/justiz/jugendamt-2025-wurden-deutlich-weniger-minderjaehrige-in-obhut-genommen-a-b7057f75-b858-4f0c-9f79-a44c53a04e0f#ref=rss)
-### franziska
-
-* [https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin](https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin-a-7581bd69-d0cc-48a7-97cf-020eaca3446c#ref=rss)
-### hoppermann
-
-* [https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin](https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin-a-7581bd69-d0cc-48a7-97cf-020eaca3446c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin](https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin-a-7581bd69-d0cc-48a7-97cf-020eaca3446c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht](https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht-a-0adb515e-4c0a-4813-aa4a-42b32e2a9a28#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin](https://www.spiegel.de/politik/deutschland/franziska-hoppermann-wird-neue-cdu-generalsekretaerin-a-7581bd69-d0cc-48a7-97cf-020eaca3446c#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### owen
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-### ansah
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-### dopingermittlungen
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-### malaika
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-### mihambo
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite](https://www.spiegel.de/sport/leichtathletik/leichtathletik-owen-ansah-gewinnt-dm-titel-trotz-laufender-dopingermittlungen-weitspringerin-malaika-mihambo-zweite-a-93562e9f-ffde-40a5-a73c-4e65a8d3c6a7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt](https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt-a-5b20ce61-86b4-4f82-b7c5-93f2c704d9ca#ref=rss)
-### uni
-
-* [https://www.spiegel.de/start/uni-duisburg-essen-exmatrikulation-nach-verbreitung-von-hetzvideo-geprueft](https://www.spiegel.de/start/uni-duisburg-essen-exmatrikulation-nach-verbreitung-von-hetzvideo-geprueft-a-527c0a08-a0df-4329-80f4-7fc8107fe99c#ref=rss)
-### duisburgessen
-
-* [https://www.spiegel.de/start/uni-duisburg-essen-exmatrikulation-nach-verbreitung-von-hetzvideo-geprueft](https://www.spiegel.de/start/uni-duisburg-essen-exmatrikulation-nach-verbreitung-von-hetzvideo-geprueft-a-527c0a08-a0df-4329-80f4-7fc8107fe99c#ref=rss)
-### ifoindex
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-### unternehmenschefs
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-### pessimistisch
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-unternehmenschefs-zeigen-sich-trotz-irankriegs-weniger-pessimistisch-a-753fad54-42cb-489b-b27d-88ce1b006297#ref=rss)
-### pentagon
-
-* [https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg](https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg-a-442bf239-0713-436e-bbe2-f7137aa3dbe5#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg](https://www.spiegel.de/ausland/usa-pentagon-aendert-erfassung-von-opferzahlen-im-irankrieg-a-442bf239-0713-436e-bbe2-f7137aa3dbe5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### gitta
-
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium](https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium-a-77154422-8e19-43f4-8d9d-6837e9bf8173#ref=rss)
-### connemann
-
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium](https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium-a-77154422-8e19-43f4-8d9d-6837e9bf8173#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium](https://www.spiegel.de/politik/deutschland/gitta-connemann-merz-versetzt-staatsekretaerin-ins-digitalministerium-a-77154422-8e19-43f4-8d9d-6837e9bf8173#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### cxmt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas](https://www.spiegel.de/wirtschaft/unternehmen/cxmt-500-prozent-kursplus-chiphersteller-wird-wertvollstes-unternehmen-chinas-a-93feed4a-6757-4afa-85a2-1946cb03f3aa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
 ### abdul
 
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
 * [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
 ### b
 
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
 * [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### mai
+### friedrich
 
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### bild
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### sven
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### schulze
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### drängt
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten](https://www.spiegel.de/politik/deutschland/sven-schulze-sachsen-anhalts-ministerpraesident-dringt-auf-ende-von-union-personaldebatten-a-9fdb2f7e-91d8-459c-a1df-6036439dd107#ref=rss)
-### gianni
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
+* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
+### paris
 
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-### rundumschlag
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-reagiert-mit-rundumschlag-auf-vorwuerfe-a-1045c6d3-4868-4f00-bd83-6082e029495b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump](https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump-a-e997ed96-a78a-43b2-a338-d2f10f6a8bcc#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht](https://www.spiegel.de/politik/deutschland/patrick-schnieder-warum-deutschland-jetzt-einen-starken-verkehrsminister-braucht-a-0adb515e-4c0a-4813-aa4a-42b32e2a9a28#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen](https://www.spiegel.de/panorama/csd-anschlag-in-berlin-tatverdaechtiger-in-spandauer-kleingarten-von-polizei-erschossen-a-82147d84-9e5f-4a15-8ee0-391f42b65043#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### schiedsrichterin
-
-* [https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt](https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt-a-5b20ce61-86b4-4f82-b7c5-93f2c704d9ca#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt](https://www.spiegel.de/sport/fussball/testspiel-in-frankreich-schiedsrichterin-bei-rudelbildung-verletzt-a-5b20ce61-86b4-4f82-b7c5-93f2c704d9ca#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### nachbarland
-
-* [https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump](https://www.spiegel.de/wirtschaft/tourismus-kanadier-meiden-die-usa-unter-donald-trump-a-e997ed96-a78a-43b2-a338-d2f10f6a8bcc#ref=rss)
-### katy
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework](https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework-a-b830e5c1-0df4-4534-b7f3-b9adcdce1185#ref=rss)
-### firework
-
-* [https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework](https://www.spiegel.de/panorama/leute/katy-perry-kritisiert-weisses-haus-fuer-verwendung-ihres-songs-firework-a-b830e5c1-0df4-4534-b7f3-b9adcdce1185#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
 ### waldbrände
 
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### umweltminister
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### schneider
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+### gefährlich
 
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-### deshalb
+* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz](https://www.spiegel.de/ausland/waldbraende-umweltminister-carsten-schneider-verlangt-mehr-tempo-beim-klimaschutz-a-f8c16526-097a-412c-9c4a-7bfd7d29fe71#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung](https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-csd-in-berlin-der-hass-wird-nicht-gewinnen-meinung-a-9e5835d3-b7dd-4f1c-beaa-06f67c64c788#ref=rss)
-### venedig
+* [https://www.spiegel.de/ausland/polen-was-das-zerwuerfnis-in-der-rechtskonservativen-pis-bedeutet](https://www.spiegel.de/ausland/polen-was-das-zerwuerfnis-in-der-rechtskonservativen-pis-bedeutet-a-83059bc9-fdde-4ec3-96cc-558713aba99f#ref=rss)
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
+### filmte
 
-* [https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld](https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld-a-fa80db1a-2965-4b73-9534-f7809642228f#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld](https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld-a-fa80db1a-2965-4b73-9534-f7809642228f#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+### csdattentäter
 
-* [https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld](https://www.spiegel.de/wirtschaft/venedig-tagestouristen-bringen-mehr-als-fuenf-millionen-euro-eintrittsgeld-a-fa80db1a-2965-4b73-9534-f7809642228f#ref=rss)
-### seattle
+* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+### petr
 
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
-### mindestens
+* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
+### pavel
 
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
+* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
+### tschechiens
+
+* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+### staatssekretär
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+### tino
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+### druck
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium](https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium-a-0022a623-cacf-4f0e-8214-3f2854bf14df#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
+### baut
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
+### rollatoren
+
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+### hörgeräte
+
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+### versicherte
+
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+* [https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium](https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium-a-0022a623-cacf-4f0e-8214-3f2854bf14df#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich](https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich-a-409903ef-0560-43bb-abc9-e89a9f044a86#ref=rss)
+### sylt
+
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+### campingplatz
+
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet](https://www.spiegel.de/panorama/justiz/seattle-mindestens-zwei-menschen-waehrend-eines-food-festivals-durch-schuesse-getoetet-a-4738de1c-ce85-4cfc-8859-2b82529d1eec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft-a-a85212d7-1b0c-4cce-99d1-199234359801#ref=rss)
+### openai
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft-a-a85212d7-1b0c-4cce-99d1-199234359801#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+### antibiotika
+
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### fürchten
+
+* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### pogačar
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### fünften
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
+### berlinnikolassee
+
+* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
+* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
+### eu
+
+* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
+### shein
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich](https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich-a-409903ef-0560-43bb-abc9-e89a9f044a86#ref=rss)
+### marc
+
+* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
+### kosicke
+
+* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
+### pi
+
+* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
+### mamdani
+
+* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
+### glückstadt
+
+* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
+### tornado
+
+* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
 
