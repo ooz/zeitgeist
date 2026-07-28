@@ -4,336 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frankreich
+### menschen
 
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
-### csd
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+* [https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar](https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar-a-8c157354-11c9-4412-a2a9-b743589daab2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf](https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf-a-d5504443-c982-42bb-ab02-14ed2dd33138#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### johnson
 
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
+* [https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen](https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen-a-5c6b0a04-5f99-4bf8-adfd-940f43d9e8bd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+* [https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar](https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar-a-8c157354-11c9-4412-a2a9-b743589daab2#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
+* [https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung](https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung-a-54670fa1-de7f-4177-b93e-97a3b3b7c008#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
 ### anschlag
 
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### csd
 
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
-### spanien
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
-### berlin
+* [https://www.spiegel.de/wissenschaft/mentale-gesundheit-warum-so-viele-tieraerzte-suizidgefaehrdet-sind](https://www.spiegel.de/wissenschaft/mentale-gesundheit-warum-so-viele-tieraerzte-suizidgefaehrdet-sind-a-163d8024-16e6-4d18-ba0d-518b48e3d5e6#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf](https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf-a-19672739-6e05-4ed0-b29a-2823e46a76d5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf](https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf-a-d5504443-c982-42bb-ab02-14ed2dd33138#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-### abdul
-
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### b
-
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
+* [https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung](https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung-a-54670fa1-de7f-4177-b93e-97a3b3b7c008#ref=rss)
+* [https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf](https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf-a-19672739-6e05-4ed0-b29a-2823e46a76d5#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern](https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern-a-6f8b73db-aa1d-4ad3-8f1e-b4cf52c54b1b#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
-### paris
+* [https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas](https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas-a-622169d2-05c3-41f5-a378-314d04e669de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets](https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets-a-dc5832a2-287f-45e2-a869-ac059222c076#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus](https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus-a-a18b51c8-f21c-4a5d-9296-031a4f474f18#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-### waldbrände
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt](https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt-a-f02c7d8a-da3c-47e7-b070-218846c1cf8a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
-### feuer
+* [https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn](https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn-a-0694ac38-1c1e-488b-809e-df0dca2ba8fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf](https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf-a-d5504443-c982-42bb-ab02-14ed2dd33138#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-### gefährlich
+* [https://www.spiegel.de/ausland/taobao-warum-ich-zu-altmodisch-bin-fuer-chinas-groesste-shopping-app](https://www.spiegel.de/ausland/taobao-warum-ich-zu-altmodisch-bin-fuer-chinas-groesste-shopping-app-a-98cf9907-8b34-44e1-b2f0-489c0b7d4fb8#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer](https://www.spiegel.de/ausland/brandkatastrophe-in-spanien-und-frankreich-jetzt-entscheidet-sich-der-kampf-gegen-das-feuer-a-2e2d2332-2146-4660-b013-d153dcadd499#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-### verlassen
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/polen-was-das-zerwuerfnis-in-der-rechtskonservativen-pis-bedeutet](https://www.spiegel.de/ausland/polen-was-das-zerwuerfnis-in-der-rechtskonservativen-pis-bedeutet-a-83059bc9-fdde-4ec3-96cc-558713aba99f#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
-### filmte
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### csdattentäter
-
-* [https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b](https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### petr
-
-* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
-### pavel
-
-* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
-### tschechiens
-
-* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen](https://www.spiegel.de/ausland/petr-pavel-tschechiens-praesident-knipst-gern-bei-autorennen-a-ea28260a-2ae2-4cc0-943b-768625abddca#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei](https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag](https://www.spiegel.de/panorama/justiz/csd-in-berlin-christlich-demokratische-scheinheiligkeit-nach-dem-anschlag-a-da0c657c-368b-4483-925b-88755ebb34bb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall](https://www.spiegel.de/panorama/anschlag-auf-csd-in-berlin-haette-man-die-tat-verhindern-koennen-auf-jeden-fall-a-07528bc9-f5ce-4c1e-a177-7dd4da70e9c7#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst](https://www.spiegel.de/panorama/unfall-auf-a7-ersthelfer-von-auto-erfasst-a-9f854639-a9f2-4914-94d6-65593ec4a264#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-### staatssekretär
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
 ### tino
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
 ### sorge
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-### druck
+* [https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck](https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail](https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail-a-3aa6cfab-c31d-49f6-be58-7e8aea9f87a6#ref=rss)
+### abdul
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium](https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium-a-0022a623-cacf-4f0e-8214-3f2854bf14df#ref=rss)
-### meldet
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+### b
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf](https://www.spiegel.de/politik/deutschland/friedrich-merz-geschasster-staatssekretaer-tino-sorge-kritisiert-kanzler-ungewoehnlich-scharf-a-c2a64a84-50a6-4153-b232-47b6699e57d0#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
-### baut
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+### handy
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
-### rollatoren
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+### mutmaßlichen
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-### hörgeräte
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-### versicherte
+* [https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden](https://www.spiegel.de/panorama/justiz/abdul-b-anschlag-auf-csd-bekennervideo-auf-dem-handy-des-mutmasslichen-attentaeters-gefunden-a-3f25fb3d-5fab-47ee-8ed2-3db09141f669#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### gouverneur
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung](https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung-a-54670fa1-de7f-4177-b93e-97a3b3b7c008#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-* [https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium](https://www.spiegel.de/ausland/indien-kakerlaken-bewegung-erzwingt-reformen-nach-zulassungsbetrug-im-medizinstudium-a-0022a623-cacf-4f0e-8214-3f2854bf14df#ref=rss)
-### zahlen
+* [https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung](https://www.spiegel.de/ausland/abschiebeplaene-gegen-haitianer-ohios-gouverneur-kritisiert-trump-regierung-a-54670fa1-de7f-4177-b93e-97a3b3b7c008#ref=rss)
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+### gehören
 
-* [https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen](https://www.spiegel.de/wirtschaft/service/rollatoren-und-hoergeraete-kosten-fuer-versicherte-gestiegen-a-c021b896-a94e-4d1d-900f-6205f39a8be7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich](https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich-a-409903ef-0560-43bb-abc9-e89a9f044a86#ref=rss)
-### sylt
+* [https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf](https://www.spiegel.de/netzwelt/anthropic-claude-private-ki-chats-tauchten-in-google-suchergebnissen-auf-a-19672739-6e05-4ed0-b29a-2823e46a76d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail](https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail-a-3aa6cfab-c31d-49f6-be58-7e8aea9f87a6#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-### campingplatz
+* [https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern](https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern-a-6f8b73db-aa1d-4ad3-8f1e-b4cf52c54b1b#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-### helfen
+* [https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern](https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern-a-6f8b73db-aa1d-4ad3-8f1e-b4cf52c54b1b#ref=rss)
+### besser
 
-* [https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz](https://www.spiegel.de/panorama/tinnum-auf-sylt-wohnmobil-ueberrollt-mann-auf-campingplatz-a-56223d9d-3521-4c10-b4cb-2db7c9894de9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-### drei
+* [https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern](https://www.spiegel.de/mobilitaet/auto/stau-adac-und-ace-erwarten-schlimmstes-wochenende-zu-ferienbeginn-in-baden-wuerttemberg-und-bayern-a-6f8b73db-aa1d-4ad3-8f1e-b4cf52c54b1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
-### frauen
+* [https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas](https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas-a-622169d2-05c3-41f5-a378-314d04e669de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-### mehrere
+* [https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas](https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas-a-622169d2-05c3-41f5-a378-314d04e669de#ref=rss)
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+### europas
 
-* [https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paris-frankreich-mann-soll-in-paris-auf-drei-frauen-eingestochen-haben-a-3c834821-40ff-4ec6-834f-6d2304262f85#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog](https://www.spiegel.de/panorama/anschlag-beim-csd-ju-chef-fordert-erwachsenenstrafrecht-fuer-alle-gefaehrder-liveblog-a-62f316cc-7b71-40a8-b18c-73dc568e2986#ref=rss)
-### nvidia
+* [https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas](https://www.spiegel.de/sport/fussball/transfer-news-borussia-dortmund-offenbar-vor-verpflichtung-von-konstantinos-karetsas-a-622169d2-05c3-41f5-a378-314d04e669de#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### cap
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft-a-a85212d7-1b0c-4cce-99d1-199234359801#ref=rss)
-### openai
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+### ferret
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verhandelt-mit-openai-ueber-250-milliarden-dollar-schwere-buergschaft-a-a85212d7-1b0c-4cce-99d1-199234359801#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+### brände
+
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet](https://www.spiegel.de/ausland/feuersbrunst-in-cap-ferret-bei-bordeaux-so-hat-das-feuer-den-ort-verwuestet-a-1685f14d-1dc9-4d4b-9f2a-bf8e32686c95#ref=rss)
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+### waldbrände
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### häuser
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+### 4000
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### unterkünfte
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen](https://www.spiegel.de/panorama/waldbraende-in-frankreich-15-000-menschen-koennen-in-ihre-haeuser-zurueckkehren-4000-andere-muessen-ihre-unterkuenfte-verlassen-a-91be8374-2b0c-4e01-8e96-1ce2507618fe#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen](https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen-a-5c6b0a04-5f99-4bf8-adfd-940f43d9e8bd#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen](https://www.spiegel.de/wirtschaft/johnson-johnson-konzern-will-5-5-milliarden-vergleich-in-babypuder-prozessen-a-5c6b0a04-5f99-4bf8-adfd-940f43d9e8bd#ref=rss)
+* [https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken](https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken-a-82c043a5-34fc-4f70-8908-f13e3290df33#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets](https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets-a-dc5832a2-287f-45e2-a869-ac059222c076#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets](https://www.spiegel.de/wirtschaft/boeing-faa-warnt-vor-losen-sitzen-in-hunderten-737-max-jets-a-dc5832a2-287f-45e2-a869-ac059222c076#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### hansjürgen
+
+* [https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus](https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus-a-a18b51c8-f21c-4a5d-9296-031a4f474f18#ref=rss)
+### papier
+
+* [https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus](https://www.spiegel.de/politik/deutschland/hans-juergen-papier-ex-verfassungsgerichtspraesident-spricht-sich-fuer-dreiprozenthuerde-bei-bundestagswahlen-aus-a-a18b51c8-f21c-4a5d-9296-031a4f474f18#ref=rss)
+### charli
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-kommt-in-national-portrait-gallery-in-london](https://www.spiegel.de/kultur/musik/charli-xcx-kommt-in-national-portrait-gallery-in-london-a-4259a3f8-f710-483a-9e0e-c30f3e840cd3#ref=rss)
+### xcx
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-kommt-in-national-portrait-gallery-in-london](https://www.spiegel.de/kultur/musik/charli-xcx-kommt-in-national-portrait-gallery-in-london-a-4259a3f8-f710-483a-9e0e-c30f3e840cd3#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn](https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn-a-0694ac38-1c1e-488b-809e-df0dca2ba8fd#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn](https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn-a-0694ac38-1c1e-488b-809e-df0dca2ba8fd#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn](https://www.spiegel.de/wirtschaft/mercedes-macht-mit-autos-26-prozent-weniger-gewinn-a-0694ac38-1c1e-488b-809e-df0dca2ba8fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### zinédine
+
+* [https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt](https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt-a-f02c7d8a-da3c-47e7-b070-218846c1cf8a#ref=rss)
+### zidane
+
+* [https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt](https://www.spiegel.de/sport/fussball/zinedine-zidane-als-nationaltrainer-frankreichs-vorgestellt-a-f02c7d8a-da3c-47e7-b070-218846c1cf8a#ref=rss)
+### savannah
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+### guthrie
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+### entführer
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf](https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf-a-d5504443-c982-42bb-ab02-14ed2dd33138#ref=rss)
+### monaten
+
+* [https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter](https://www.spiegel.de/panorama/savannah-guthrie-moderatorin-wendet-sich-mit-emotionalem-appell-an-entfuehrer-ihrer-mutter-a-a41de778-2ef1-45fb-b484-b75ede559d36#ref=rss)
+* [https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar](https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar-a-8c157354-11c9-4412-a2a9-b743589daab2#ref=rss)
+### gesundheitsreform
+
+* [https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken](https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken-a-82c043a5-34fc-4f70-8908-f13e3290df33#ref=rss)
+### politik
+
+* [https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken](https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken-a-82c043a5-34fc-4f70-8908-f13e3290df33#ref=rss)
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
+### kretschmer
+
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
+### sachsens
+
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
+### überhaupt
+
+* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein](https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail](https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail-a-3aa6cfab-c31d-49f6-be58-7e8aea9f87a6#ref=rss)
+### taobao
+
+* [https://www.spiegel.de/ausland/taobao-warum-ich-zu-altmodisch-bin-fuer-chinas-groesste-shopping-app](https://www.spiegel.de/ausland/taobao-warum-ich-zu-altmodisch-bin-fuer-chinas-groesste-shopping-app-a-98cf9907-8b34-44e1-b2f0-489c0b7d4fb8#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### batteriezellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/tesla-batteriezellen-aus-deutschland-die-naechste-grosse-wette-von-elon-musk-a-e0ae1e12-9062-426c-9429-64bc34afa672#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft](https://www.spiegel.de/backstage/deutschland-spricht-2026-tausende-diskutieren-ueber-politik-und-gesellschaft-a-d52e6703-4c17-4ea4-a60f-d181d53c0338#ref=rss)
+* [https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist](https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken](https://www.spiegel.de/ausland/iran-krieg-saudi-arabien-meldet-drohnenattacken-a-e9047c16-0d1a-40bc-9254-f804d5164dab#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
-### antibiotika
+* [https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar](https://www.spiegel.de/ausland/iran-zwei-weitere-hinrichtungen-nach-massenprotesten-im-januar-a-8c157354-11c9-4412-a2a9-b743589daab2#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte](https://www.spiegel.de/ausland/iran-krieg-was-hinter-der-ploetzlichen-kampfpause-stecken-koennte-a-f48adbe2-cb86-46c6-8901-08bd6750f452#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest](https://www.spiegel.de/wissenschaft/medizin/antibiotika-extreme-resistenz-laut-studie-durch-umweltbakterien-ausgeloest-a-31306ed7-8557-463f-ab03-e5eabd8e82b0#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### fünften
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel](https://www.spiegel.de/sport/radsport/tour-de-france-tadej-pogacar-siegt-zum-fuenften-mal-ueber-ihm-kommt-nur-noch-der-himmel-a-bc5b6563-47e2-41db-b528-83ffdf00edf1#ref=rss)
-### berlinnikolassee
-
-* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander](https://www.spiegel.de/panorama/berlin-nikolassee-sechs-polizeitransporter-krachen-auf-weg-zum-einsatz-ineinander-a-8cae9718-93de-4a96-9ab1-0349d0eb6824#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab](https://www.spiegel.de/wirtschaft/unternehmen/porsche-baut-weitere-5000-stellen-ab-a-c7217215-0e12-4428-996f-cd2731779394#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde](https://www.spiegel.de/panorama/gefaengnis-nach-schwarzfahren-ein-mann-berichtet-wie-er-freigekauft-wurde-a-d485644a-f762-4aa0-8d9b-7cc844647632#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
-### hunderttausende
-
-* [https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen](https://www.spiegel.de/ausland/waldbraende-in-frankreich-hier-landen-die-leute-die-nirgendwo-hinkoennen-a-c8aebd17-dd7b-46f3-8038-29029a147a22#ref=rss)
-* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
-### eu
-
-* [https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte](https://www.spiegel.de/panorama/waldbraende-in-spanien-frankreich-eu-schickt-flugzeuge-hubschrauber-und-einsatzkraefte-a-a9004290-bfeb-4169-8156-c37012f9a30e#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich](https://www.spiegel.de/wirtschaft/unternehmen/shein-macht-schwache-geschaeftszahlen-oeffentlich-a-409903ef-0560-43bb-abc9-e89a9f044a86#ref=rss)
-### marc
-
-* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
-### kosicke
-
-* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
-### dfb
-
-* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen](https://www.spiegel.de/sport/fussball/klopp-vertrauter-marc-kosicke-welche-rolle-wird-er-beim-dfb-kuenftig-spielen-a-9fc6101b-ccba-4628-96e5-48856563a27e#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
-### pi
-
-* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
-### rapper
-
-* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht](https://www.spiegel.de/kultur/rapper-prinz-pi-beendet-seine-karriere-in-den-steaming-kosmos-passt-meine-musik-einfach-nicht-a-f7373c34-dfb8-4701-94b5-f1972bd8121d#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
-### mamdani
-
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus](https://www.spiegel.de/panorama/leute/zohran-mamdani-buergermeister-von-new-york-city-geht-nie-ohne-anzug-raus-a-aecc37c2-52d0-4482-8369-faa7466ff597#ref=rss)
-### glückstadt
-
-* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail](https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail-a-3aa6cfab-c31d-49f6-be58-7e8aea9f87a6#ref=rss)
 ### tornado
 
-* [https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude](https://www.spiegel.de/panorama/glueckstadt-tornado-beschaedigt-dutzende-gebaeude-a-9c090ded-1d0f-4a0a-9b7b-4d3369f04df0#ref=rss)
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+### wisconsin
+
+* [https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden](https://www.spiegel.de/panorama/usa-tornado-zieht-ueber-wisconsin-hinweg-und-verursacht-massive-schaeden-a-7a4c79ef-54f8-41a2-bcc3-5d1b8fc4bf55#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf](https://www.spiegel.de/wissenschaft/mensch/braucht-man-im-sommer-wirklich-weniger-schlaf-a-d5504443-c982-42bb-ab02-14ed2dd33138#ref=rss)
+### altersvorsorge
+
+* [https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail](https://www.spiegel.de/wirtschaft/aktien-abhaengige-altersvorsorge-ist-amerikas-aktienmarkt-too-big-to-fail-a-3aa6cfab-c31d-49f6-be58-7e8aea9f87a6#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern](https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern-a-a37670d0-f314-4920-9abd-dfcb7115095c#ref=rss)
+### bestatter
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern](https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern-a-a37670d0-f314-4920-9abd-dfcb7115095c#ref=rss)
+### droht
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern](https://www.spiegel.de/panorama/justiz/grossbritannien-bestatter-soll-leichen-in-regalen-gelagert-haben-statt-sie-einzuaeschern-a-a37670d0-f314-4920-9abd-dfcb7115095c#ref=rss)
+### ariana
+
+* [https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker](https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker-a-b3365f33-4e28-4026-9084-a56d75b1e51b#ref=rss)
+### grande
+
+* [https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker](https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker-a-b3365f33-4e28-4026-9084-a56d75b1e51b#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker](https://www.spiegel.de/panorama/justiz/ariana-grande-klagt-gegen-unbekannte-hacker-a-b3365f33-4e28-4026-9084-a56d75b1e51b#ref=rss)
+### gianni
+
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump](https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump-a-6ba978ed-6367-452e-9212-fc04725c3778#ref=rss)
+### infantino
+
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump](https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump-a-6ba978ed-6367-452e-9212-fc04725c3778#ref=rss)
+### fifachef
+
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump](https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump-a-6ba978ed-6367-452e-9212-fc04725c3778#ref=rss)
+### donald
+
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump](https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump-a-6ba978ed-6367-452e-9212-fc04725c3778#ref=rss)
+### trump
+
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump](https://www.spiegel.de/sport/fussball/gianni-infantino-us-abgeordneter-jamie-raskin-befragt-fifa-chef-zu-kontakten-mit-donald-trump-a-6ba978ed-6367-452e-9212-fc04725c3778#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
+### grundgesetz
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz](https://www.spiegel.de/politik/deutschland/anschlag-auf-csd-in-berlin-spd-dringt-auf-diskriminierungsverbot-im-grundgesetz-a-994ab24e-c89c-42d1-97dd-9223c9010187#ref=rss)
 
