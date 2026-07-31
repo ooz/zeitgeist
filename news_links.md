@@ -4,388 +4,334 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025](https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen](https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen-a-b10eef2a-5119-4657-8f19-5aecf7ea6214#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025](https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe](https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe-a-35fa5485-390c-4044-8bde-163c97082df6#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer](https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer-a-21c5562f-6890-42f2-bcf7-270ae326b9b7#ref=rss)
 ### ceuta
 
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### zurück
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss](https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss-a-6485ec90-567d-490e-b8ad-d821de96758b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-* [https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus](https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus-a-9b1a19eb-9465-41f8-bed9-7710e3036764#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### 40000
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen](https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen-a-8d72afbb-5ef0-4fc4-a7ed-f322c6185d66#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer](https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer-a-9e56dfd8-095f-449b-a815-5e6b251ccc57#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-### baresi
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### gar
-
-* [https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen](https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen-a-b10eef2a-5119-4657-8f19-5aecf7ea6214#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-zdf-umfrage-bescheinigt-kanzler-wenig-rueckhalt-fuer-personalrochade](https://www.spiegel.de/politik/friedrich-merz-zdf-umfrage-bescheinigt-kanzler-wenig-rueckhalt-fuer-personalrochade-a-fb79bc75-746d-4e17-a0c9-bac4c8686431#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen](https://www.spiegel.de/wissenschaft/duerre-in-deutschland-was-niedrige-pegel-in-fluessen-und-seen-freilegen-a-b10eef2a-5119-4657-8f19-5aecf7ea6214#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kakerlake-in-hotelzimmer-oder-wohnung-was-tun-gegen-schaben](https://www.spiegel.de/wissenschaft/natur/kakerlake-in-hotelzimmer-oder-wohnung-was-tun-gegen-schaben-a-ba28885b-d94e-4d27-a04a-9fb35d1a2175#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert](https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert-a-3408c7a2-8026-4d6e-a448-c5d503e76e46#ref=rss)
-### geschäfte
-
-* [https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert](https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert-a-3408c7a2-8026-4d6e-a448-c5d503e76e46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
-### laufen
-
-* [https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert](https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert-a-3408c7a2-8026-4d6e-a448-c5d503e76e46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
-### glänzend
-
-* [https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert](https://www.spiegel.de/netzwelt/apple-warum-die-aktie-trotz-rekordgewinn-abschmiert-a-3408c7a2-8026-4d6e-a448-c5d503e76e46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
-### carlos
-
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-### cordeiro
-
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-### streit
-
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe](https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe-a-35fa5485-390c-4044-8bde-163c97082df6#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck](https://www.spiegel.de/sport/fussball/carlos-cordeiro-infantino-berater-tritt-im-streit-ueber-fifa-wm-plan-zurueck-a-f8070de9-ff99-4171-9833-cc0fd13c61c4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus](https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus-a-9b1a19eb-9465-41f8-bed9-7710e3036764#ref=rss)
-### red
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### bull
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### roger
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### schmidt
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss)
-### boy
-
-* [https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus](https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus-a-9b1a19eb-9465-41f8-bed9-7710e3036764#ref=rss)
-### george
-
-* [https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus](https://www.spiegel.de/kultur/musik/nach-song-gegen-palaestina-unterstuetzer-boy-george-steigt-aus-jesus-christ-superstar-aus-a-9b1a19eb-9465-41f8-bed9-7710e3036764#ref=rss)
-### 34
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-### bergarbeiter
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-### kohlemine
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-### ums
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### gekommen
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### suche
-
-* [https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine](https://www.spiegel.de/panorama/pakistan-mindestens-34-bergarbeiter-sterben-bei-explosion-in-kohlemine-a-4bdc4264-3a55-4c18-aaf2-3da413b99941#ref=rss)
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer](https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer-a-9e56dfd8-095f-449b-a815-5e6b251ccc57#ref=rss)
-### entsendet
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### militär
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer](https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer-a-9e56dfd8-095f-449b-a815-5e6b251ccc57#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht](https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht-a-88611f0c-597c-4464-8009-e45a7fa5438d#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt](https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt-a-484b17d4-2cc2-454d-b3f4-12d38413c367#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
 ### exklave
 
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### massenhaften
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss](https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss-a-6485ec90-567d-490e-b8ad-d821de96758b#ref=rss)
+### neues
 
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### grenzübertritt
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+* [https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern](https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern-a-b69ee77c-93dc-4ebe-99d0-a26c413186a0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal](https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal-a-355194a5-6077-4bff-82da-dc804be73026#ref=rss)
+### spanischen
 
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten](https://www.spiegel.de/ausland/ceuta-spanien-entsendet-militaer-nach-ankunft-von-40-000-migranten-a-98e288bb-be9c-4696-9a8b-393fb603ad7b#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-### ganztagsbetreuung
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif](https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif-a-e0dcf6f4-00af-44d5-ab06-1a6b00467c5b#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-### westbundesländer
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-### rechtsanspruch
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-### sommerferien
-
-* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-### sieghard
-
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-### knodel
-
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-### exafdmann
-
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-* [https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai](https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai-a-4a4e958e-e29b-4bb4-b59f-05b042e553fa#ref=rss)
-### finden
-
-* [https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann](https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-### suno
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/suno-ki-musikanbieter-darf-urheberrechtlich-geschuetzte-melodien-nicht-nutzen](https://www.spiegel.de/netzwelt/netzpolitik/suno-ki-musikanbieter-darf-urheberrechtlich-geschuetzte-melodien-nicht-nutzen-a-dc24efb4-f906-4939-89fd-583cebace3af#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-### maria
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-### canins
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-maria-canins-ist-das-fliegende-muetterchen-a-a2c85842-a103-4f5a-ba48-ad6fa5fca968#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/panorama/justiz/csd-attentaeter-stand-in-kontakt-mit-salafisten-prediger](https://www.spiegel.de/panorama/justiz/csd-attentaeter-stand-in-kontakt-mit-salafisten-prediger-a-15a39b6d-f1c9-4369-bb73-f04e03e34494#ref=rss)
-### nirmal
-
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### purja
-
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### lawine
-
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst](https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss)
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### investorenpläne
-
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe](https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe-a-35fa5485-390c-4044-8bde-163c97082df6#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-### weltfußball
-
-* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe](https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe-a-35fa5485-390c-4044-8bde-163c97082df6#ref=rss)
-### juli
-
-* [https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos](https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen](https://www.spiegel.de/ausland/ceuta-behoerden-sprechen-von-mehr-als-40-000-menschen-a-9135c4fe-e2ff-4b0b-b457-f75663d05f3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-### elektroschrott
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen](https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen-a-d0ab3d9f-af39-4a49-8482-7c4c19544d53#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025](https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer](https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer-a-21c5562f-6890-42f2-bcf7-270ae326b9b7#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen](https://www.spiegel.de/wirtschaft/donald-trump-will-offenbar-export-von-elektroschrott-stoppen-a-ade02c77-bba0-4ff4-b26e-b2bb6411e036#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen](https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen-a-d0ab3d9f-af39-4a49-8482-7c4c19544d53#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer](https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer-a-9e56dfd8-095f-449b-a815-5e6b251ccc57#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer](https://www.spiegel.de/panorama/waldbraende-in-europa-griechenland-und-tuerkei-kaempfen-weiter-gegen-heftige-feuer-a-9e56dfd8-095f-449b-a815-5e6b251ccc57#ref=rss)
-### franco
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### ac
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### 66
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif](https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif-a-e0dcf6f4-00af-44d5-ab06-1a6b00467c5b#ref=rss)
-### 20
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### titel
-
-* [https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren](https://www.spiegel.de/sport/fussball/franco-baresi-ist-tot-legende-des-ac-mailand-stirbt-mit-66-jahren-a-95ff00e3-a5f8-4858-ad74-75bc008440f8#ref=rss)
-### euro
-
-* [https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif](https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif-a-e0dcf6f4-00af-44d5-ab06-1a6b00467c5b#ref=rss)
-### wo
-
-* [https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif](https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif-a-e0dcf6f4-00af-44d5-ab06-1a6b00467c5b#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif](https://www.spiegel.de/start/ausbildung-in-diesen-branchen-erhalten-azubis-die-hoechste-verguetung-nach-tarif-a-e0dcf6f4-00af-44d5-ab06-1a6b00467c5b#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai](https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai-a-4a4e958e-e29b-4bb4-b59f-05b042e553fa#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer](https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer-a-21c5562f-6890-42f2-bcf7-270ae326b9b7#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai](https://www.spiegel.de/netzwelt/openai-vorfall-mit-hugging-face-it-sicherheitsexperte-sieht-versaeumnisse-bei-openai-a-4a4e958e-e29b-4bb4-b59f-05b042e553fa#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/friedrich-merz-zdf-umfrage-bescheinigt-kanzler-wenig-rueckhalt-fuer-personalrochade](https://www.spiegel.de/politik/friedrich-merz-zdf-umfrage-bescheinigt-kanzler-wenig-rueckhalt-fuer-personalrochade-a-fb79bc75-746d-4e17-a0c9-bac4c8686431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025](https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss)
-### ralph
-
-* [https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen](https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen-a-d0ab3d9f-af39-4a49-8482-7c4c19544d53#ref=rss)
-### siegel
-
-* [https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen](https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen-a-d0ab3d9f-af39-4a49-8482-7c4c19544d53#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen](https://www.spiegel.de/panorama/leute/ralph-siegel-schlager-komponist-konnte-intensivstation-verlassen-a-d0ab3d9f-af39-4a49-8482-7c4c19544d53#ref=rss)
-### drohen
-
-* [https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe](https://www.spiegel.de/sport/fussball/streit-zwischen-fifa-und-uefa-internationale-pressestimmen-es-herrscht-maximale-eskalationsstufe-a-35fa5485-390c-4044-8bde-163c97082df6#ref=rss)
-* [https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen](https://www.spiegel.de/panorama/sommerferien-wo-in-deutschland-am-ferienwochenende-lange-staus-drohen-a-079a4a82-b370-4ad8-bbef-d364d36d5539#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren](https://www.spiegel.de/wirtschaft/unternehmen/amazon-muss-wegen-teurer-speicherchips-20-milliarden-dollar-mehr-in-ki-ausbau-investieren-a-27fd4b3c-7bd1-4322-aac1-878413edaf79#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer](https://www.spiegel.de/ausland/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer-a-21c5562f-6890-42f2-bcf7-270ae326b9b7#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen](https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen-a-8d72afbb-5ef0-4fc4-a7ed-f322c6185d66#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz](https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz-a-b0ca8848-a88d-4599-a28e-e79fab9ad97c#ref=rss)
+### darüber
+
+* [https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht](https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal](https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal-a-355194a5-6077-4bff-82da-dc804be73026#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet](https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet-a-a49806ab-72be-435a-9d89-d604dcda9401#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten](https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten-a-046620d8-fc60-4dae-9c40-f30b07fc540e#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/terror-in-deutschland-der-staat-hat-die-aufgabe-seine-buerger-zu-schuetzen-aber-wie](https://www.spiegel.de/politik/deutschland/terror-in-deutschland-der-staat-hat-die-aufgabe-seine-buerger-zu-schuetzen-aber-wie-a-1b785cfe-a31c-4f98-92df-fcee4e573f39#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss](https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss-a-6485ec90-567d-490e-b8ad-d821de96758b#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### is
+
+* [https://www.spiegel.de/ausland/csd-anschlag-in-berlin-warum-der-attentaeter-den-is-verehrte-und-was-der-is-heute-ist-podcast](https://www.spiegel.de/ausland/csd-anschlag-in-berlin-warum-der-attentaeter-den-is-verehrte-und-was-der-is-heute-ist-podcast-a-9c30d48c-53a6-4a38-97b0-1d376b6e1764#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz](https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz-a-b0ca8848-a88d-4599-a28e-e79fab9ad97c#ref=rss)
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+### grundgesetz
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+### vatikan
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+### staat
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan](https://www.spiegel.de/ausland/papst-leo-xiv-erlaesst-neues-grundgesetz-fuer-den-vatikan-a-57c3b7cd-8b39-41f7-bd83-943eead79569#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/terror-in-deutschland-der-staat-hat-die-aufgabe-seine-buerger-zu-schuetzen-aber-wie](https://www.spiegel.de/politik/deutschland/terror-in-deutschland-der-staat-hat-die-aufgabe-seine-buerger-zu-schuetzen-aber-wie-a-1b785cfe-a31c-4f98-92df-fcee4e573f39#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben](https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben](https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben](https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+### marokko
+
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### spanische
+
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss](https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss-a-6485ec90-567d-490e-b8ad-d821de96758b#ref=rss)
+### junge
+
+* [https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien](https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss)
+* [https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht](https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht-a-88611f0c-597c-4464-8009-e45a7fa5438d#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+### lamour
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+### gianni
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+### infantino
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+### könne
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+### infantinos
+
+* [https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino](https://www.spiegel.de/sport/fussball/fifa-investorenplaene-auch-kevin-lamour-wendet-sich-gegen-gianni-infantino-a-a5864473-cbac-4e8a-95a9-aa1bd5e2d6bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+### dunja
+
+* [https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht](https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss)
+### hayali
+
+* [https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht](https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht](https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss)
+* [https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen](https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen-a-0c319278-8a63-4182-afbd-550ddb8131af#ref=rss)
+### streit
+
+* [https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht](https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bushido-rapper-gewinnt-rechtsstreit-gegen-abou-chaker-bruder](https://www.spiegel.de/panorama/justiz/bushido-rapper-gewinnt-rechtsstreit-gegen-abou-chaker-bruder-a-d195b22e-171d-4316-9fc6-20e0bacd79f7#ref=rss)
+### waldbrand
+
+* [https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet](https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet-a-a49806ab-72be-435a-9d89-d604dcda9401#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet](https://www.spiegel.de/politik/chiemgau-waldbrand-geloescht-katastrophenfall-endet-a-a49806ab-72be-435a-9d89-d604dcda9401#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+### findet
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland](https://www.spiegel.de/politik/ceuta-linke-fordert-aufnahme-von-migranten-in-deutschland-a-34a0fb8a-c78a-48b1-8942-ae9b8abb94a1#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen](https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen-a-0c319278-8a63-4182-afbd-550ddb8131af#ref=rss)
+### robben
+
+* [https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen](https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen-a-0c319278-8a63-4182-afbd-550ddb8131af#ref=rss)
+### untersucht
+
+* [https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen](https://www.spiegel.de/ausland/mecklenburg-vorpommern-tote-robben-untersucht-hinweise-auf-menschliche-einwirkungen-a-0c319278-8a63-4182-afbd-550ddb8131af#ref=rss)
+### china
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+### migrationschaos
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### europas
+
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht](https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht-a-88611f0c-597c-4464-8009-e45a7fa5438d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will](https://www.spiegel.de/ausland/ceuta-wie-pedro-sanchez-das-problem-mit-der-exklave-loesen-will-a-e817ff90-6db8-4e0b-80f3-0183e10f46b9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-bodycam-zeigt-erbitterten-kampf-der-feuerwehr-gegen-waldbraende](https://www.spiegel.de/ausland/tuerkei-bodycam-zeigt-erbitterten-kampf-der-feuerwehr-gegen-waldbraende-a-41f2b6b6-72af-430b-8995-c1089dfd5a62#ref=rss)
+### waldbrände
+
+* [https://www.spiegel.de/ausland/tuerkei-bodycam-zeigt-erbitterten-kampf-der-feuerwehr-gegen-waldbraende](https://www.spiegel.de/ausland/tuerkei-bodycam-zeigt-erbitterten-kampf-der-feuerwehr-gegen-waldbraende-a-41f2b6b6-72af-430b-8995-c1089dfd5a62#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/panorama/bildung/abitur-in-baden-wuerttemberg-software-fehler-sorgt-fuer-zu-gute-zeugnisse](https://www.spiegel.de/panorama/bildung/abitur-in-baden-wuerttemberg-software-fehler-sorgt-fuer-zu-gute-zeugnisse-a-ea689005-233d-4536-8e4a-52bbe7c50166#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht](https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht-a-88611f0c-597c-4464-8009-e45a7fa5438d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt](https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt-a-484b17d4-2cc2-454d-b3f4-12d38413c367#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht](https://www.spiegel.de/kultur/lea-bonasera-die-klimabewegung-ist-ausgebrannt-tot-ist-sie-nicht-a-88611f0c-597c-4464-8009-e45a7fa5438d#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### bareiß
+
+* [https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten](https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten-a-046620d8-fc60-4dae-9c40-f30b07fc540e#ref=rss)
+### cdubundestagsabgeordneten
+
+* [https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten](https://www.spiegel.de/politik/thomas-bareiss-ermittlungen-nach-unfall-gegen-cdu-bundestagsabgeordneten-a-046620d8-fc60-4dae-9c40-f30b07fc540e#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa](https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa-a-a81c7360-aee4-42db-9d71-48a080ee8f79#ref=rss)
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### kontrollen
+
+* [https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa](https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa-a-a81c7360-aee4-42db-9d71-48a080ee8f79#ref=rss)
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### speedweek
+
+* [https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa](https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa-a-a81c7360-aee4-42db-9d71-48a080ee8f79#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa](https://www.spiegel.de/mobilitaet/auto/blitzer-polizei-erhoeht-kontrollen-waehrend-der-speedweek-in-europa-a-a81c7360-aee4-42db-9d71-48a080ee8f79#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss](https://www.spiegel.de/ausland/ceuta-was-man-ueber-lage-und-geschichte-wissen-muss-a-6485ec90-567d-490e-b8ad-d821de96758b#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/kosovo-prozess-gegen-serben-wegen-kriegsverbrechen](https://www.spiegel.de/ausland/kosovo-prozess-gegen-serben-wegen-kriegsverbrechen-a-2ea37369-3e6c-4242-801a-f5749c1f2daf#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/ausland/kosovo-prozess-gegen-serben-wegen-kriegsverbrechen](https://www.spiegel.de/ausland/kosovo-prozess-gegen-serben-wegen-kriegsverbrechen-a-2ea37369-3e6c-4242-801a-f5749c1f2daf#ref=rss)
+### emma
+
+* [https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern](https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern-a-b69ee77c-93dc-4ebe-99d0-a26c413186a0#ref=rss)
+### stone
+
+* [https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern](https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern-a-b69ee77c-93dc-4ebe-99d0-a26c413186a0#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern](https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern-a-b69ee77c-93dc-4ebe-99d0-a26c413186a0#ref=rss)
+### gosling
+
+* [https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern](https://www.spiegel.de/panorama/leute/emma-stone-liess-sich-beim-vorsprechen-fuer-crazy-stupid-love-nicht-von-ryan-gosling-verunsichern-a-b69ee77c-93dc-4ebe-99d0-a26c413186a0#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern](https://www.spiegel.de/politik/dobrindt-will-kontrollen-an-deutschen-aussengrenzen-verlaengern-a-968b70ba-ddef-481b-8a81-d390a9aeed98#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/bushido-rapper-gewinnt-rechtsstreit-gegen-abou-chaker-bruder](https://www.spiegel.de/panorama/justiz/bushido-rapper-gewinnt-rechtsstreit-gegen-abou-chaker-bruder-a-d195b22e-171d-4316-9fc6-20e0bacd79f7#ref=rss)
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### robert
+
+* [https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung](https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung-a-9fd35c78-b383-43e2-b495-b233c5bbc310#ref=rss)
+### f
+
+* [https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung](https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung-a-9fd35c78-b383-43e2-b495-b233c5bbc310#ref=rss)
+### kennedy
+
+* [https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung](https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung-a-9fd35c78-b383-43e2-b495-b233c5bbc310#ref=rss)
+### jr
+
+* [https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung](https://www.spiegel.de/gesundheit/usa-robert-f-kennedy-jr-startet-eigene-kochsendung-a-9fd35c78-b383-43e2-b495-b233c5bbc310#ref=rss)
 ### sternbrücke
 
-* [https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen](https://www.spiegel.de/panorama/hamburg-neue-sternbruecke-am-ziel-angekommen-a-8d72afbb-5ef0-4fc4-a7ed-f322c6185d66#ref=rss)
-### schaben
+* [https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz](https://www.spiegel.de/panorama/hamburg-so-kam-die-neue-sternbruecke-an-ihren-platz-a-b0ca8848-a88d-4599-a28e-e79fab9ad97c#ref=rss)
+### monate
 
-* [https://www.spiegel.de/wissenschaft/natur/kakerlake-in-hotelzimmer-oder-wohnung-was-tun-gegen-schaben](https://www.spiegel.de/wissenschaft/natur/kakerlake-in-hotelzimmer-oder-wohnung-was-tun-gegen-schaben-a-ba28885b-d94e-4d27-a04a-9fb35d1a2175#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### gequält
 
-* [https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025](https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss)
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### vergewaltigt
+
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### angeklagt
+
+* [https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt](https://www.spiegel.de/panorama/soest-frau-ueber-monate-gequaelt-und-vergewaltigt-vier-personen-angeklagt-a-7b03e1c0-df2d-443a-bf1d-bc6b62f3038f#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt](https://www.spiegel.de/panorama/gesellschaft/hitze-wie-ein-pflegeheim-seine-bewohner-vor-der-hitze-schuetzt-a-484b17d4-2cc2-454d-b3f4-12d38413c367#ref=rss)
+### ariana
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal](https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal-a-355194a5-6077-4bff-82da-dc804be73026#ref=rss)
+### grande
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal](https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal-a-355194a5-6077-4bff-82da-dc804be73026#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal](https://www.spiegel.de/kultur/musik/ariana-grande-so-klingt-ihr-neues-album-petal-a-355194a5-6077-4bff-82da-dc804be73026#ref=rss)
+### hartes
+
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### durchgreifen
+
+* [https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen](https://www.spiegel.de/politik/ceuta-friedrich-merz-fordert-von-pedro-sanchez-hartes-durchgreifen-a-96d48058-5448-421e-a14f-1ffa155c9a67#ref=rss)
+### odyssee
+
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### joyce
+
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### carol
+
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
+### oates
+
+* [https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates](https://www.spiegel.de/kultur/kino/die-odyssee-kritik-am-kinohit-voellig-unangemessen-findet-joyce-carol-oates-a-49eb380d-b104-4d76-8bf6-805094d7bccf#ref=rss)
 
