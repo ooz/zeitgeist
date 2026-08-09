@@ -4,49 +4,371 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/politik/luigi-pantisano-besteht-im-zdf-sommerinterview-auf-enteignung-grosser-wohnungskonzerne](https://www.spiegel.de/politik/luigi-pantisano-besteht-im-zdf-sommerinterview-auf-enteignung-grosser-wohnungskonzerne-a-2c0262a7-f71a-4e38-a70d-3be697c54098#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
 ### deutsche
 
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
 * [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
 * [https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen](https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen-a-3a87b694-e82b-4b17-b439-fad4381f6b8e#ref=rss)
-* [https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
 ### menschen
 
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
 * [https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen](https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen-a-0501a893-0b39-4643-ab8c-6907d2ddb1bc#ref=rss)
 * [https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen](https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen-a-3a87b694-e82b-4b17-b439-fad4381f6b8e#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-### fans
+### ukrainekrieg
 
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-### huthis
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### ukrainische
 
-* [https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer](https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer-a-50d0f873-d94a-41fa-baa5-b10e5def3e56#ref=rss)
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-### meer
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+### militär
 
-* [https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer](https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer-a-50d0f873-d94a-41fa-baa5-b10e5def3e56#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer](https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer-a-83b0b0f1-94db-4c26-8746-20dc17ffc177#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+* [https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil](https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil-a-d04ed7d3-e3e5-48b8-a6aa-614967884433#ref=rss)
+### platz
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+* [https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege](https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen](https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen-a-00c0195e-16eb-4100-a47e-3c715eb49f6c#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### enteignung
+
+* [https://www.spiegel.de/politik/luigi-pantisano-besteht-im-zdf-sommerinterview-auf-enteignung-grosser-wohnungskonzerne](https://www.spiegel.de/politik/luigi-pantisano-besteht-im-zdf-sommerinterview-auf-enteignung-grosser-wohnungskonzerne-a-2c0262a7-f71a-4e38-a70d-3be697c54098#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+### flüssen
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser](https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser-a-5916261b-5fc5-43f9-bac6-bb1e10cd0bd9#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### herrscht
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet](https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+### nutzung
+
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+### stützpunkte
+
+* [https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte](https://www.spiegel.de/ausland/syrien-damaskus-und-moskau-einigen-sich-auf-nutzung-russischer-stuetzpunkte-a-20542549-72fa-4dbe-a53d-0f8e70ed6fd9#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### demi
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### vollering
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### niedermaier
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+### eins
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-gewinnt-erneut-niedermaier-bestes-nachwuchstalent-a-2620531b-c1b0-4040-bef3-134c9dc64373#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### absturz
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-pilot-stirbt-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-pilot-stirbt-bei-absturz-von-kleinflugzeug-a-86ec17df-c317-4199-8547-2deb65029f90#ref=rss)
+### experten
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-pilot-stirbt-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-pilot-stirbt-bei-absturz-von-kleinflugzeug-a-86ec17df-c317-4199-8547-2deb65029f90#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser](https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser-a-5916261b-5fc5-43f9-bac6-bb1e10cd0bd9#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+### gut
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
+### luft
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist](https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen](https://www.spiegel.de/panorama/berlin-mehr-als-350-lehrkraefte-dauerhaft-krank-vor-allem-an-grundschulen-a-6b896d50-fce9-414d-986a-1e04242c2f32#ref=rss)
+* [https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte](https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte-a-802bc395-c62a-44c6-98ad-924241d324e8#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger](https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger-a-9230a8a0-98c3-4412-937e-988f2c7eee65#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+### starb
+
+* [https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger](https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger-a-9230a8a0-98c3-4412-937e-988f2c7eee65#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+### zeugen
+
+* [https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger](https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger-a-9230a8a0-98c3-4412-937e-988f2c7eee65#ref=rss)
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### 500
+
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### nackt
+
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### fkkbewegung
+
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### werben
+
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft](https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss)
+* [https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte](https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte-a-802bc395-c62a-44c6-98ad-924241d324e8#ref=rss)
+### charkiw
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw](https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### nordkoreanischen
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+### kämpfern
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erwartet-bis-zu-50-000-nordkoreanische-soldaten-in-russland-a-9b1cf249-bd86-4a2c-a5c0-2bae34e51889#ref=rss)
+### sophie
+
+* [https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege](https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss)
+### cunningham
+
+* [https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege](https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss)
+### gegnerin
+
+* [https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege](https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss)
+### carrington
+
+* [https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege](https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins](https://www.spiegel.de/wirtschaft/china-bleibt-weiterhin-deutschlands-handelspartner-nummer-eins-a-1db49aad-0095-4a1b-b7bf-1ed0dbea059b#ref=rss)
+* [https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil](https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil-a-d04ed7d3-e3e5-48b8-a6aa-614967884433#ref=rss)
+### barack
+
+* [https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte](https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte-a-802bc395-c62a-44c6-98ad-924241d324e8#ref=rss)
+### obama
+
+* [https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte](https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte-a-802bc395-c62a-44c6-98ad-924241d324e8#ref=rss)
+### tan
+
+* [https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte](https://www.spiegel.de/kultur/tv/barack-obama-zeigt-wie-er-ins-schwerste-modischen-debakel-seiner-karriere-stolperte-a-802bc395-c62a-44c6-98ad-924241d324e8#ref=rss)
+### pirna
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### niedrigwasser
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### hungerstein
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### elbe
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### vorschein
+
+* [https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein](https://www.spiegel.de/panorama/pirna-niedrigwasser-bringt-hungerstein-in-der-elbe-zum-vorschein-a-6534d878-d432-41a9-8b71-43bf5a348716#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser](https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser-a-5916261b-5fc5-43f9-bac6-bb1e10cd0bd9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser](https://www.spiegel.de/wissenschaft/natur/rhein-elbe-bodensee-experten-erwarten-noch-weniger-wasser-a-5916261b-5fc5-43f9-bac6-bb1e10cd0bd9#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden](https://www.spiegel.de/panorama/berlin-nacktradel-demo-mit-rund-500-teilnehmenden-a-f3b2538b-d2b2-4719-a5a4-f53c55c45be9#ref=rss)
+### haus
+
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
+### krach
+
+* [https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung](https://www.spiegel.de/politik/deutschland/berlin-russisches-haus-spd-kandidat-steffen-krach-spielt-mit-forderung-nach-enteignung-a-1641ad02-ebff-4685-bd63-adb4a3dee46e#ref=rss)
+### paris
+
+* [https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen](https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen-a-00c0195e-16eb-4100-a47e-3c715eb49f6c#ref=rss)
+### warnwesten
+
+* [https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen](https://www.spiegel.de/mobilitaet/paris-e-scooter-fahrer-muessen-kuenftig-helme-und-warnwesten-tragen-a-00c0195e-16eb-4100-a47e-3c715eb49f6c#ref=rss)
+### frank
+
+* [https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews](https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews-a-6f6ac1e9-ff72-46af-ae36-9ad24be7b98d#ref=rss)
+### kendall
+
+* [https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews](https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews-a-6f6ac1e9-ff72-46af-ae36-9ad24be7b98d#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews](https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews-a-6f6ac1e9-ff72-46af-ae36-9ad24be7b98d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+### usverteidigungsministerium
+
+* [https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews](https://www.spiegel.de/ausland/pentagon-entzieht-frank-kendall-sicherheitsfreigabe-wegen-air-force-one-interviews-a-6f6ac1e9-ff72-46af-ae36-9ad24be7b98d#ref=rss)
+* [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
+### steuerreform
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene](https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene-a-fe71ce6f-6e53-41cc-aaba-81ce4e4d47d7#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene](https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene-a-fe71ce6f-6e53-41cc-aaba-81ce4e4d47d7#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene](https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene-a-fe71ce6f-6e53-41cc-aaba-81ce4e4d47d7#ref=rss)
+### wortbruch
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene](https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene-a-fe71ce6f-6e53-41cc-aaba-81ce4e4d47d7#ref=rss)
+### entlastungen
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene](https://www.spiegel.de/politik/deutschland/lars-klingbeil-union-attackiert-steuerplaene-a-fe71ce6f-6e53-41cc-aaba-81ce4e4d47d7#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an](https://www.spiegel.de/ausland/sudan-dritter-sommer-im-krieg-papst-mahnt-internationale-hilfe-an-a-8f2fa603-7f58-48ca-bdb2-1c84602f05e4#ref=rss)
+* [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
+### oleksij
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### jukow
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### getöteten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato](https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato-a-4aa71814-8560-4a99-ba02-c5069589bccf#ref=rss)
 ### türkei
 
-* [https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer](https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer-a-50d0f873-d94a-41fa-baa5-b10e5def3e56#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer](https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer-a-83b0b0f1-94db-4c26-8746-20dc17ffc177#ref=rss)
-### ersten
+* [https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato](https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato-a-4aa71814-8560-4a99-ba02-c5069589bccf#ref=rss)
+### pakistan
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga](https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga-a-19eea8d5-ae4d-4c96-9dfa-cfef75802eb8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### wochen
+* [https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato](https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato-a-4aa71814-8560-4a99-ba02-c5069589bccf#ref=rss)
+### weiteres
 
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-* [https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen](https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen-a-5340ffff-dd6b-45e7-bf43-63c10b3de0cd#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato](https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato-a-4aa71814-8560-4a99-ba02-c5069589bccf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebesbrief-was-don-yaeger-dazu-bringt-seiner-frau-jede-woche-zu-schreiben](https://www.spiegel.de/partnerschaft/liebesbrief-was-don-yaeger-dazu-bringt-seiner-frau-jede-woche-zu-schreiben-a-e48657cf-0ab5-43b1-b88f-40681ff86838#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-die-dunkle-flaeche](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-die-dunkle-flaeche-a-6fbd670f-c3d7-4a8f-b428-1b24b8d10519#ref=rss)
-### liebesbrief
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen](https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen-a-0501a893-0b39-4643-ab8c-6907d2ddb1bc#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebesbrief-was-don-yaeger-dazu-bringt-seiner-frau-jede-woche-zu-schreiben](https://www.spiegel.de/partnerschaft/liebesbrief-was-don-yaeger-dazu-bringt-seiner-frau-jede-woche-zu-schreiben-a-e48657cf-0ab5-43b1-b88f-40681ff86838#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+* [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert](https://www.spiegel.de/wirtschaft/unternehmen/groenland-us-oelfirma-bringt-ausruestung-an-land-nuuk-protestiert-a-161d8510-43ce-4d5c-a13e-ef4c9380deca#ref=rss)
+* [https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil](https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil-a-d04ed7d3-e3e5-48b8-a6aa-614967884433#ref=rss)
+### sonnenfinsternis
+
+* [https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil](https://www.spiegel.de/ausland/mallorca-macht-wegen-der-sonnenfinsternis-das-militaer-mobil-a-d04ed7d3-e3e5-48b8-a6aa-614967884433#ref=rss)
 ### schreiben
 
 * [https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen](https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen-a-0501a893-0b39-4643-ab8c-6907d2ddb1bc#ref=rss)
@@ -54,248 +376,13 @@ tags: __no_header__
 ### diesen
 
 * [https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen](https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen-a-0501a893-0b39-4643-ab8c-6907d2ddb1bc#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen](https://www.spiegel.de/partnerschaft/liebesbrief-schreiben-forscherin-gibt-tipps-von-diesen-briefen-koennen-sie-lernen-a-0501a893-0b39-4643-ab8c-6907d2ddb1bc#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt](https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt-a-49ea2ff8-9c3d-4a1c-9b21-5a7638cd9a4e#ref=rss)
-### hochschulen
-
-* [https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis](https://www.spiegel.de/start/forschungsfoerderung-aus-den-usa-so-viel-pentagon-geld-fliesst-an-deutsche-unis-a-e0d9ec41-4050-4fc4-812f-6a4ef3c2be2a#ref=rss)
-* [https://www.spiegel.de/start/berlin-es-droht-erstmals-die-schliessung-einer-berliner-exzellenzuniversitaet](https://www.spiegel.de/start/berlin-es-droht-erstmals-die-schliessung-einer-berliner-exzellenzuniversitaet-a-fbd217f5-5657-4fef-9c33-2ce4656a8939#ref=rss)
 ### egon
 
 * [https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen](https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen-a-3a87b694-e82b-4b17-b439-fad4381f6b8e#ref=rss)
 ### friedell
 
 * [https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen](https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen-a-3a87b694-e82b-4b17-b439-fad4381f6b8e#ref=rss)
-### bekämpfen
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen](https://www.spiegel.de/kultur/schoener-schreiben-egon-friedell-und-die-kunst-die-langeweile-zu-bekaempfen-a-3a87b694-e82b-4b17-b439-fad4381f6b8e#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
-### gut
-
-* [https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/kultur/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
-* [https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen](https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen-a-5340ffff-dd6b-45e7-bf43-63c10b3de0cd#ref=rss)
-### aiwanger
-
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer-a-14c83606-8351-4d71-a238-de5a07b3e91d#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer-a-14c83606-8351-4d71-a238-de5a07b3e91d#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-und-die-flugblattaffaere-staatsanwaltschaft-ermittelt-erneut-gegen-ex-lehrer-a-14c83606-8351-4d71-a238-de5a07b3e91d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften](https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften-a-7d7aaea7-7ef2-439f-be96-9a3ca298db0c#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften](https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften-a-7d7aaea7-7ef2-439f-be96-9a3ca298db0c#ref=rss)
-### a8
-
-* [https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften](https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften-a-7d7aaea7-7ef2-439f-be96-9a3ca298db0c#ref=rss)
-### 132
-
-* [https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften](https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften-a-7d7aaea7-7ef2-439f-be96-9a3ca298db0c#ref=rss)
-### ortschaften
-
-* [https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften](https://www.spiegel.de/panorama/bayern-autofahrer-umfahren-stau-auf-der-a8-132-verstoesse-in-ortschaften-a-7d7aaea7-7ef2-439f-be96-9a3ca298db0c#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-### 04
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-### schalketach
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach](https://www.spiegel.de/sport/fussball/fc-schalke-04-feiert-saisoneroeffnung-viele-fans-beim-schalke-tach-a-02fe2257-5b65-4b1b-92dc-c5693db59751#ref=rss)
-### ölraffinerie
-
-* [https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer](https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer-a-50d0f873-d94a-41fa-baa5-b10e5def3e56#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer](https://www.spiegel.de/ausland/huthis-bekennen-sich-zu-angriff-auf-oel-raffinerie-am-roten-meer-a-50d0f873-d94a-41fa-baa5-b10e5def3e56#ref=rss)
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-### mechernich
-
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-bundeswehrstandort-in-nrw-gesichtet](https://www.spiegel.de/politik/deutschland/drohnen-ueber-bundeswehrstandort-in-nrw-gesichtet-a-546020f5-1828-49b9-84f6-ed3e47ee8e98#ref=rss)
-### bundeswehrstandort
-
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-bundeswehrstandort-in-nrw-gesichtet](https://www.spiegel.de/politik/deutschland/drohnen-ueber-bundeswehrstandort-in-nrw-gesichtet-a-546020f5-1828-49b9-84f6-ed3e47ee8e98#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/reise/kanada-flugzeug-kann-nicht-starten-weil-kind-sich-nicht-anschnallen-will](https://www.spiegel.de/reise/kanada-flugzeug-kann-nicht-starten-weil-kind-sich-nicht-anschnallen-will-a-deb7562e-d776-478d-9d4d-2635987e65e5#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga](https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga-a-19eea8d5-ae4d-4c96-9dfa-cfef75802eb8#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga](https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-stolpert-zum-auftakt-in-die-zweite-liga-a-19eea8d5-ae4d-4c96-9dfa-cfef75802eb8#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-* [https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse](https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss)
-### fälle
-
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-### europa
-
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-### registriert
-
-* [https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert](https://www.spiegel.de/gesundheit/diagnose/schon-mehr-als-240-faelle-von-west-nil-fieber-in-europa-registriert-a-11307b8d-1c62-4a97-9339-daaa91a45df7#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter-a-6d4f89ab-c9d9-4fb3-bb18-3ad17c594eb4#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf](https://www.spiegel.de/ausland/israel-stellt-wahllokale-in-syrien-dem-libanon-und-im-gazastreifen-auf-a-91fc8fac-c0bc-44cf-a0af-207c60ce23c4#ref=rss)
-* [https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen](https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen-a-5340ffff-dd6b-45e7-bf43-63c10b3de0cd#ref=rss)
-### tony
-
-* [https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren](https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren-a-3767aa4b-1c31-4884-88aa-31c286caf45f#ref=rss)
-### tulathimutte
-
-* [https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren](https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren-a-3767aa4b-1c31-4884-88aa-31c286caf45f#ref=rss)
-### lesen
-
-* [https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren](https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren-a-3767aa4b-1c31-4884-88aa-31c286caf45f#ref=rss)
-### david
-
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-### barnea
-
-* [https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an](https://www.spiegel.de/ausland/im-juni-hat-er-noch-den-krieg-gegen-iran-mitgesteuert-jetzt-heuert-der-ex-mossad-chef-bei-einem-ruestungskonzern-an-a-dda191e0-93cc-4690-b740-448fb3e13296#ref=rss)
-### bodycams
-
-* [https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt](https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt-a-49ea2ff8-9c3d-4a1c-9b21-5a7638cd9a4e#ref=rss)
-### kontrolle
-
-* [https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt](https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt-a-49ea2ff8-9c3d-4a1c-9b21-5a7638cd9a4e#ref=rss)
-* [https://www.spiegel.de/start/berlin-es-droht-erstmals-die-schliessung-einer-berliner-exzellenzuniversitaet](https://www.spiegel.de/start/berlin-es-droht-erstmals-die-schliessung-einer-berliner-exzellenzuniversitaet-a-fbd217f5-5657-4fef-9c33-2ce4656a8939#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt](https://www.spiegel.de/ausland/usa-ice-will-mitarbeiter-mit-bodycams-ausstatten-und-selbst-entscheiden-was-sie-herausgibt-a-49ea2ff8-9c3d-4a1c-9b21-5a7638cd9a4e#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer](https://www.spiegel.de/ausland/ukrainekrieg-tuerkei-fordert-von-russland-und-der-ukraine-angriffstopp-im-schwarzen-meer-a-83b0b0f1-94db-4c26-8746-20dc17ffc177#ref=rss)
-### niger
-
-* [https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen](https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen-a-5340ffff-dd6b-45e7-bf43-63c10b3de0cd#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen](https://www.spiegel.de/ausland/niger-entfuehrter-deutscher-nach-zwei-wochen-gefangenschaft-freigelassen-a-5340ffff-dd6b-45e7-bf43-63c10b3de0cd#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus](https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus-a-de6451bd-5375-491a-97fc-8561a96b75a6#ref=rss)
-### massentourismus
-
-* [https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus](https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus-a-de6451bd-5375-491a-97fc-8561a96b75a6#ref=rss)
-### urlauber
-
-* [https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus](https://www.spiegel.de/panorama/mallorca-erneuter-protest-gegen-massentourismus-a-de6451bd-5375-491a-97fc-8561a96b75a6#ref=rss)
-### rente
-
-* [https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung](https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung-a-2f52a959-c99b-4c82-9016-79764595701e#ref=rss)
-### 63
-
-* [https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung](https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung-a-2f52a959-c99b-4c82-9016-79764595701e#ref=rss)
-### gewerkschaften
-
-* [https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung](https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung-a-2f52a959-c99b-4c82-9016-79764595701e#ref=rss)
-### abschaffung
-
-* [https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung](https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung-a-2f52a959-c99b-4c82-9016-79764595701e#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung](https://www.spiegel.de/politik/deutschland/rente-mit-63-gewerkschaften-gegen-abschaffung-a-2f52a959-c99b-4c82-9016-79764595701e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne](https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse](https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss)
-### peter
-
-* [https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse](https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss)
-### tschentscher
-
-* [https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse](https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss)
-### farc
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### kolumbien
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### abelardo
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### de
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### la
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### espriella
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella](https://www.spiegel.de/ausland/kolumbien-linke-farc-rebellen-verueben-bombenanschlag-am-ersten-amtstag-von-abelardo-de-la-espriella-a-64d4cdac-103b-455b-a20b-93cdc9f67d39#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne](https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss)
-### kapitalismus
-
-* [https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne](https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss)
-### techkonzerne
-
-* [https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne](https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne](https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter-a-6d4f89ab-c9d9-4fb3-bb18-3ad17c594eb4#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### jugendlichen
-
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### noten
-
-* [https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten](https://www.spiegel.de/ausland/daenemark-diese-jugendlichen-gehen-freiwillig-laenger-in-die-schule-nur-gute-nachrichten-a-82bf89ca-6749-4164-80c1-e0411259fd3f#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/wissenschaft/grosspoerthen-in-sachsen-anhalt-diente-eine-winterlinde-hier-einst-als-folterplatz](https://www.spiegel.de/wissenschaft/grosspoerthen-in-sachsen-anhalt-diente-eine-winterlinde-hier-einst-als-folterplatz-a-aadc7421-f038-461d-a2ad-04f8dd90b80e#ref=rss)
-### winterlinde
-
-* [https://www.spiegel.de/wissenschaft/grosspoerthen-in-sachsen-anhalt-diente-eine-winterlinde-hier-einst-als-folterplatz](https://www.spiegel.de/wissenschaft/grosspoerthen-in-sachsen-anhalt-diente-eine-winterlinde-hier-einst-als-folterplatz-a-aadc7421-f038-461d-a2ad-04f8dd90b80e#ref=rss)
-### solche
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter-a-6d4f89ab-c9d9-4fb3-bb18-3ad17c594eb4#ref=rss)
-### ausnahme
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-mit-eiern-beworfen-von-wuetender-abgeordneter-a-6d4f89ab-c9d9-4fb3-bb18-3ad17c594eb4#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wie-gut-kennen-sie-die-gruende-fuer-bahnverspaetungen-quiz-a-cd7d4be5-52ea-4991-b23c-74a0fde2cb86#ref=rss)
 
