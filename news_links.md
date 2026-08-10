@@ -4,285 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahr
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-* [https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr](https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr-a-934aa150-b711-446e-8dbe-d8a1825c6d27#ref=rss)
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle](https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle-a-b6abffb5-c5c5-4a32-a82c-e74cefff1998#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wuerselen-mehr-als-120-weitere-verdachtsfaelle-gegen-todespfleger](https://www.spiegel.de/panorama/justiz/wuerselen-mehr-als-120-weitere-verdachtsfaelle-gegen-todespfleger-a-e92f8582-361a-46ad-8276-035fbf114764#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess](https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess-a-a69431e3-905a-4c8a-ba45-abdaa6dfceff#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle](https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle-a-b6abffb5-c5c5-4a32-a82c-e74cefff1998#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden](https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss)
+* [https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor](https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor-a-b372052b-2465-4e32-93ff-a60545c1db75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dgb-beklagt-milliardenschaeden-durch-mindestlohn-betrug](https://www.spiegel.de/wirtschaft/dgb-beklagt-milliardenschaeden-durch-mindestlohn-betrug-a-c483b63d-da99-4ba0-afa2-3aeae1133257#ref=rss)
-* [https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt](https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt-a-aef94b6d-8011-4b9b-9c61-db2620770d77#ref=rss)
-### führung
+* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt](https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss)
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle](https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle-a-aa42b17a-2b35-464a-b236-04eb1d41e97e#ref=rss)
+* [https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten](https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten-a-4ec15242-5371-40ff-ba07-62b98cb59a5b#ref=rss)
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung](https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor-a-0df6f4bb-515c-41fa-ac42-fa5d9af1972f#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben](https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben-a-4ac88bba-7e14-4ba5-a56a-3566321ae8d1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+* [https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander](https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben](https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben-a-758b5800-8442-4f05-9fd2-3a668fcca08b#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### generation
 
-* [https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr](https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr-a-934aa150-b711-446e-8dbe-d8a1825c6d27#ref=rss)
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### deutschland
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### niedrigwasser
 
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-* [https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen](https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen-a-cc190e93-edbc-403a-885b-62c1ed6a594b#ref=rss)
-### leben
+* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt](https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss)
+* [https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot](https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot-a-630706db-ba5a-40b1-9d6a-7ac9cb493ad3#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### prozent
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### russland
+* [https://www.spiegel.de/panorama/justiz/afd-mitgliedern-darf-waffenerlaubnis-entzogen-werden](https://www.spiegel.de/panorama/justiz/afd-mitgliedern-darf-waffenerlaubnis-entzogen-werden-a-e8c15abb-824a-404b-838f-9ab90b96a64a#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff-a-afb23f6b-2878-4009-b901-90b3f54cdcb1#ref=rss)
-* [https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen](https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen-a-cc190e93-edbc-403a-885b-62c1ed6a594b#ref=rss)
-### sonnenfinsternis
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/weltall/sonnenfinsternis-so-wollen-forscher-am-mittwoch-die-raetsel-der-sonne-ergruenden](https://www.spiegel.de/wissenschaft/weltall/sonnenfinsternis-so-wollen-forscher-am-mittwoch-die-raetsel-der-sonne-ergruenden-a-6e19c57b-e915-4133-a3a8-c4d6ac4729b7#ref=rss)
-### mittwoch
+* [https://www.spiegel.de/panorama/waldbrand-feuer-in-andalusien-ausserhalb-der-loeschkapazitaet](https://www.spiegel.de/panorama/waldbrand-feuer-in-andalusien-ausserhalb-der-loeschkapazitaet-a-df20bed3-c947-4b02-b499-59d62a3c96cc#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen](https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen-a-813428f6-0ff6-4420-ad6b-e6c7cbf3aedd#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/wissenschaft/weltall/sonnenfinsternis-so-wollen-forscher-am-mittwoch-die-raetsel-der-sonne-ergruenden](https://www.spiegel.de/wissenschaft/weltall/sonnenfinsternis-so-wollen-forscher-am-mittwoch-die-raetsel-der-sonne-ergruenden-a-6e19c57b-e915-4133-a3a8-c4d6ac4729b7#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/gesellschaft/harry-potter-fans-verzoegerten-wegen-dobbys-fiktiver-grabstaette-ein-energieprojekt](https://www.spiegel.de/panorama/gesellschaft/harry-potter-fans-verzoegerten-wegen-dobbys-fiktiver-grabstaette-ein-energieprojekt-a-2de15619-0419-4d79-bf27-e7bb136f1db4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizei-stoppt-fahrer-ohne-versicherung-in-seltenem-ferrari](https://www.spiegel.de/panorama/justiz/london-polizei-stoppt-fahrer-ohne-versicherung-in-seltenem-ferrari-a-215e4e5a-255b-401e-91b6-c8565c9a06dc#ref=rss)
-### discgolf
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte](https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte-a-bd43913b-2a96-4366-944e-7c07afd44725#ref=rss)
-### europa
+* [https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten](https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten-a-4ec15242-5371-40ff-ba07-62b98cb59a5b#ref=rss)
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte](https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte-a-bd43913b-2a96-4366-944e-7c07afd44725#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu](https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu-a-35e6a271-a0ab-4caf-b9d2-d4aa2d1bdc7a#ref=rss)
-### darum
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-warum-es-heute-so-viel-weniger-protest-gibt-als-frueher](https://www.spiegel.de/wirtschaft/soziales/reformen-warum-es-heute-so-viel-weniger-protest-gibt-als-frueher-a-9a126a3e-6e88-422e-8259-81a8ef9a24f5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+### mann
 
-* [https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte](https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte-a-bd43913b-2a96-4366-944e-7c07afd44725#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte](https://www.spiegel.de/deinspiegel/trendsport-discgolf-neonfarbene-flugobjekte-a-bd43913b-2a96-4366-944e-7c07afd44725#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor-a-0df6f4bb-515c-41fa-ac42-fa5d9af1972f#ref=rss)
-### swiss
-
-* [https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin](https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin-a-7d8411eb-e83c-49a9-b1b3-fd695fe11097#ref=rss)
-### fliegern
-
-* [https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin](https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin-a-7d8411eb-e83c-49a9-b1b3-fd695fe11097#ref=rss)
-### daher
-
-* [https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin](https://www.spiegel.de/panorama/swiss-powerbank-zwingt-swiss-maschine-zu-zwischenlandung-in-dublin-a-7d8411eb-e83c-49a9-b1b3-fd695fe11097#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/justiz/goeppingen-mann-soll-mord-an-doener-imbiss-betreiber-geplant-haben-anklage](https://www.spiegel.de/panorama/justiz/goeppingen-mann-soll-mord-an-doener-imbiss-betreiber-geplant-haben-anklage-a-29133d3d-4cc5-46ba-a99f-2a8ac44d440d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu](https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu-a-35e6a271-a0ab-4caf-b9d2-d4aa2d1bdc7a#ref=rss)
-### sonderparteitag
-
-* [https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung](https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung](https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung](https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor-a-0df6f4bb-515c-41fa-ac42-fa5d9af1972f#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss)
-### niedrig
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss)
-* [https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt](https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt-a-aef94b6d-8011-4b9b-9c61-db2620770d77#ref=rss)
-### straßenverkehr
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss)
-* [https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr](https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr-a-934aa150-b711-446e-8dbe-d8a1825c6d27#ref=rss)
-### einige
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-afc-und-concacaf-werfen-fifa-boss-taeuschung-vor-a-0df6f4bb-515c-41fa-ac42-fa5d9af1972f#ref=rss)
-### texas
-
-* [https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben](https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben-a-4ac88bba-7e14-4ba5-a56a-3566321ae8d1#ref=rss)
-### kraftwerk
-
-* [https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben](https://www.spiegel.de/netzwelt/texas-groesstes-kraftwerk-der-usa-soll-amazons-ki-rechenzentren-antreiben-a-4ac88bba-7e14-4ba5-a56a-3566321ae8d1#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/kultur/hamburg-fuenf-euro-eintritt-hamburg-erwartet-besucherrueckgang-fuer-elphi-plaza](https://www.spiegel.de/kultur/hamburg-fuenf-euro-eintritt-hamburg-erwartet-besucherrueckgang-fuer-elphi-plaza-a-2be84909-9fcb-4e06-b561-20302a0982f5#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/kultur/hamburg-fuenf-euro-eintritt-hamburg-erwartet-besucherrueckgang-fuer-elphi-plaza](https://www.spiegel.de/kultur/hamburg-fuenf-euro-eintritt-hamburg-erwartet-besucherrueckgang-fuer-elphi-plaza-a-2be84909-9fcb-4e06-b561-20302a0982f5#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/london-polizei-stoppt-fahrer-ohne-versicherung-in-seltenem-ferrari](https://www.spiegel.de/panorama/justiz/london-polizei-stoppt-fahrer-ohne-versicherung-in-seltenem-ferrari-a-215e4e5a-255b-401e-91b6-c8565c9a06dc#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### femmes
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### demi
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### vollering
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### holt
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister](https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister-a-983449cb-41ff-415e-9f34-ee05c31728eb#ref=rss)
-### taktischer
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler](https://www.spiegel.de/sport/radsport/tour-de-france-femmes-demi-vollering-holt-gesamtsieg-trotz-taktischer-fehler-a-16d82348-f170-4fb7-94b9-0efb03cf65c2#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr](https://www.spiegel.de/mobilitaet/unfallstatistik-alle-18-minuten-verunglueckte-ein-kind-im-strassenverkehr-a-934aa150-b711-446e-8dbe-d8a1825c6d27#ref=rss)
-### taifun
-
-* [https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle](https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle-a-b6abffb5-c5c5-4a32-a82c-e74cefff1998#ref=rss)
-### osten
-
-* [https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle](https://www.spiegel.de/panorama/china-taifun-dolphin-ueber-ostchina-evakuierungen-und-flugausfaelle-a-b6abffb5-c5c5-4a32-a82c-e74cefff1998#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand](https://www.spiegel.de/panorama/deutschland-anteil-junger-menschen-erreicht-historischen-tiefstand-a-3f6c93f4-65ec-4848-bd13-1383d9939ab6#ref=rss)
-### exoskelett
-
-* [https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test](https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test-a-91317851-eb92-4787-a850-e595960fab22#ref=rss)
-### hypershell
-
-* [https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test](https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test-a-91317851-eb92-4787-a850-e595960fab22#ref=rss)
-### liefern
-
-* [https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test](https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test-a-91317851-eb92-4787-a850-e595960fab22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess](https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess-a-a69431e3-905a-4c8a-ba45-abdaa6dfceff#ref=rss)
-### wir
-
-* [https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test](https://www.spiegel.de/tests/elektronik/exoskelett-hypershell-x-ultra-elektronische-gehhilfe-im-test-a-91317851-eb92-4787-a850-e595960fab22#ref=rss)
-* [https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen](https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen-a-cc190e93-edbc-403a-885b-62c1ed6a594b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander](https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss)
 ### rhein
 
-* [https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser](https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser-a-4502077c-e626-4dd5-801b-13939d66e33a#ref=rss)
-### donau
+* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt](https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss)
+### treibt
 
-* [https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser](https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser-a-4502077c-e626-4dd5-801b-13939d66e33a#ref=rss)
-### hitze
+* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt](https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss)
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu](https://www.spiegel.de/wirtschaft/hitze-bremst-wirtschaftswachstum-in-der-eu-a-35e6a271-a0ab-4caf-b9d2-d4aa2d1bdc7a#ref=rss)
-### tote
+* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt](https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss)
+* [https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot](https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot-a-630706db-ba5a-40b1-9d6a-7ac9cb493ad3#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff-a-afb23f6b-2878-4009-b901-90b3f54cdcb1#ref=rss)
-### zwölf
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten](https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten-a-4ec15242-5371-40ff-ba07-62b98cb59a5b#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff-a-afb23f6b-2878-4009-b901-90b3f54cdcb1#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### angriffe
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen](https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen-a-cc190e93-edbc-403a-885b-62c1ed6a594b#ref=rss)
-### leichtathletikem
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### abzug
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten](https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten-a-c0edbac8-2018-4d5e-b302-b7ef67ae9dd0#ref=rss)
-### birmingham
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### truppen
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten](https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten-a-c0edbac8-2018-4d5e-b302-b7ef67ae9dd0#ref=rss)
-### zeitplan
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt](https://www.spiegel.de/ausland/afghanistan-wie-die-hungerkrise-den-alltag-der-menschen-praegt-a-9f8e9fc2-b19a-4140-8470-36de77a873ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### kolumbien
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten](https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten-a-c0edbac8-2018-4d5e-b302-b7ef67ae9dd0#ref=rss)
-### entscheidungen
+* [https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden](https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten](https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-in-birmingham-zeitplan-entscheidungen-favoriten-a-c0edbac8-2018-4d5e-b302-b7ef67ae9dd0#ref=rss)
-### alexandria
+* [https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden](https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss)
+### schäden
 
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### ocasiocortez
+* [https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden](https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss)
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+### lage
 
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### eizellen
+* [https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden](https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### kollapscamp
 
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### einfrieren
+* [https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor](https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor-a-b372052b-2465-4e32-93ff-a60545c1db75#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen](https://www.spiegel.de/ausland/usa-alexandria-ocasio-cortez-will-ihre-eizellen-einfrieren-lassen-a-1f7cd41a-2589-4cc4-a3fc-b3a5ddf30e4a#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor](https://www.spiegel.de/panorama/linke-prepper-im-kollapscamp-in-brandenburg-im-workshop-bleeding-control-bereiten-sie-sich-auf-den-ernstfall-vor-a-b372052b-2465-4e32-93ff-a60545c1db75#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-### andere
+* [https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot](https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot-a-630706db-ba5a-40b1-9d6a-7ac9cb493ad3#ref=rss)
+### mecklenburgvorpommern
 
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-### planen
+* [https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot](https://www.spiegel.de/panorama/wegen-niedrigwasser-auch-bayern-und-mecklenburg-vorpommern-lockern-lkw-sonntagsfahrverbot-a-630706db-ba5a-40b1-9d6a-7ac9cb493ad3#ref=rss)
+### preißler
 
-* [https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben](https://www.spiegel.de/mobilitaet/auto/elektro-mobilitaet-grossbritannien-schweiz-und-andere-planen-neue-abgaben-a-6759cc92-4ede-490f-b927-4683c66118e4#ref=rss)
-### elvis
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+### freiberg
 
-* [https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister](https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister-a-983449cb-41ff-415e-9f34-ee05c31728eb#ref=rss)
-### kretzschmar
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+### amt
 
-* [https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister](https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister-a-983449cb-41ff-415e-9f34-ee05c31728eb#ref=rss)
-### new
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+### lang
 
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### york
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### bootsführer
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### gleich
 
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### nahe
+* [https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben](https://www.spiegel.de/panorama/phillipp-preissler-randalierender-buergermeister-von-freiberg-darf-amt-vorerst-nicht-ausueben-a-38de33ee-cf7f-4f88-8b82-7544c547c03f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### luxusmodelle
 
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### angeklagt
+* [https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle](https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle-a-aa42b17a-2b35-464a-b236-04eb1d41e97e#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben](https://www.spiegel.de/panorama/new-york-boot-kentert-nahe-freiheitsstatue-frau-und-baby-sterben-a-b47447ac-8043-4693-83cf-00e062240538#ref=rss)
-### nikolas
+* [https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle](https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle-a-aa42b17a-2b35-464a-b236-04eb1d41e97e#ref=rss)
+* [https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten](https://www.spiegel.de/kultur/ns-und-sed-gedenkstaetten-sollen-zehn-millionen-euro-mehr-erhalten-a-4ec15242-5371-40ff-ba07-62b98cb59a5b#ref=rss)
+### einsatzkräfte
 
-* [https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess](https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess-a-a69431e3-905a-4c8a-ba45-abdaa6dfceff#ref=rss)
-### stihl
+* [https://www.spiegel.de/panorama/waldbrand-feuer-in-andalusien-ausserhalb-der-loeschkapazitaet](https://www.spiegel.de/panorama/waldbrand-feuer-in-andalusien-ausserhalb-der-loeschkapazitaet-a-df20bed3-c947-4b02-b499-59d62a3c96cc#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### pitt
 
-* [https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess](https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess-a-a69431e3-905a-4c8a-ba45-abdaa6dfceff#ref=rss)
-### 35stundenwoche
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+### alkohol
 
-* [https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess](https://www.spiegel.de/wirtschaft/unternehmer-nicolas-stihl-35-stunden-woche-nicht-mehr-zeitgemaess-a-a69431e3-905a-4c8a-ba45-abdaa6dfceff#ref=rss)
-### humanitäre
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### helfer
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+### geworden
 
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### einsatz
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz](https://www.spiegel.de/ausland/humanitaere-hilfe-hunderte-helfer-starben-im-vergangenen-jahr-im-einsatz-a-57cdf11b-bd3f-4dfb-ac96-f081b9edebc6#ref=rss)
-### skandale
+* [https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden](https://www.spiegel.de/panorama/leute/bratt-pitt-ueber-alkohol-ich-war-sieben-jahre-lang-trocken-und-dann-bin-ich-wieder-rueckfaellig-geworden-a-101c7c0c-fd1e-4f7a-b5eb-552f611bfbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt](https://www.spiegel.de/geschichte/skandale-der-ruestungsindustrie-deutsche-waffen-fuer-die-welt-a-aef94b6d-8011-4b9b-9c61-db2620770d77#ref=rss)
+* [https://www.spiegel.de/ausland/moldau-ruft-nach-drohnenvorfall-botschafter-aus-russland-zurueck](https://www.spiegel.de/ausland/moldau-ruft-nach-drohnenvorfall-botschafter-aus-russland-zurueck-a-bfc11b6c-ed61-4aed-91db-d728d60c8fb5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/moldau-ruft-nach-drohnenvorfall-botschafter-aus-russland-zurueck](https://www.spiegel.de/ausland/moldau-ruft-nach-drohnenvorfall-botschafter-aus-russland-zurueck-a-bfc11b6c-ed61-4aed-91db-d728d60c8fb5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### alois
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### rainer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax](https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax-a-c978f98c-2545-4809-80d6-997cf8440f4a#ref=rss)
+### ice
+
+* [https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax](https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax-a-c978f98c-2545-4809-80d6-997cf8440f4a#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+### video
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/openclaw-ki-assistent-hackt-fitnessstudio](https://www.spiegel.de/netzwelt/web/openclaw-ki-assistent-hackt-fitnessstudio-a-d9c9d3ee-cadf-4cc6-84c7-2e6da1d08449#ref=rss)
+### dolphin
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+### mussten
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### philippinen
+
+* [https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin](https://www.spiegel.de/ausland/china-video-zeigt-wucht-des-taifuns-dolphin-a-b191fb3d-4587-4e06-bc74-db4b9add8944#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss)
+### vereine
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss)
+### herr
+
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+### 25
+
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+### hobbits
+
+* [https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten](https://www.spiegel.de/kultur/kino/herr-der-ringe-auch-nach-25-jahren-sind-die-hobbits-noch-gefaehrten-a-fa03da21-f384-49d2-9ba8-c3ce80b90d06#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben](https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben-a-758b5800-8442-4f05-9fd2-3a668fcca08b#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/nuernberg-kindesmissbrauch-uebers-internet-mann-zu-sieben-jahren-haft-verurteilt-a-dbc89a9a-27c4-4694-9d2b-678becd330e2#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### z
+
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+### allem
+
+* [https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand](https://www.spiegel.de/start/generation-z-analyse-widerlegt-das-vorurteil-der-faulen-generation-erwerbsbeteiligung-auf-hoechststand-a-140509c4-6369-42a3-8dbd-dc7aa1745dc6#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### guinnessbuch
+
+* [https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander](https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### europapark
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### michael
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### mack
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### technikfan
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert](https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### adhs
+
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report](https://www.spiegel.de/gesundheit/adhs-zahl-der-diagnosen-bei-kindern-und-jugendlichen-steigt-laut-dak-report-a-da40bfed-3db4-49f0-b892-0c265dc67428#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen](https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen-a-813428f6-0ff6-4420-ad6b-e6c7cbf3aedd#ref=rss)
+### kasernen
+
+* [https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen](https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-ehemalige-kasernen-sollen-bald-wieder-militaerischen-zwecken-dienen-a-813428f6-0ff6-4420-ad6b-e6c7cbf3aedd#ref=rss)
+### whitney
+
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### houston
+
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### popikone
+
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### barbie
+
+* [https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look](https://www.spiegel.de/kultur/musik/whitney-houston-bekommt-eine-eigene-barbie-im-i-wanna-dance-with-somebody-look-a-6cf120e1-2c77-4b38-9f00-a58952f8b703#ref=rss)
+### wmboykott
+
+* [https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben](https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben-a-758b5800-8442-4f05-9fd2-3a668fcca08b#ref=rss)
+### uefa
+
+* [https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben](https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben-a-758b5800-8442-4f05-9fd2-3a668fcca08b#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
+### familien
+
+* [https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot](https://www.spiegel.de/panorama/oesterreich-familien-mit-kinderwagen-geraten-im-hochgebirge-in-bergnot-a-55956319-2099-4e3f-bb92-ad9f591667a0#ref=rss)
 
