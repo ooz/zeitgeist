@@ -4,359 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten](https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf](https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor](https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss)
-* [https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann](https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor](https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf](https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### hayden
-
-* [https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf](https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### panettiere
-
-* [https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf](https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor](https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie](https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann](https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert](https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss)
-* [https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr](https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-* [https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr](https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss)
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-gera-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-gera-campus-wohnviertel-wg-zimmer-preise-kneipen-a-a3f832dd-80b3-44bf-b919-578a919a1e38#ref=rss)
-* [https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin](https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf](https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss)
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### shakur
-
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### tod
-
-* [https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod](https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### straße
-
-* [https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird](https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird](https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss)
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### versicherer
-
-* [https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird](https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss)
-* [https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann](https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird](https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten](https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss)
-* [https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod](https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten](https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten](https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten](https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor](https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor](https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### marina
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-### di
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-### chieuti
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-### urne
-
-* [https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden](https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann](https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-### einzelne
-
-* [https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann](https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss)
-### spyra
-
-* [https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will](https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will-a-7d10aa9a-4fc5-4963-bdda-9528035c020d#ref=rss)
-### münchner
-
-* [https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will](https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will-a-7d10aa9a-4fc5-4963-bdda-9528035c020d#ref=rss)
-### firma
-
-* [https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will](https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will-a-7d10aa9a-4fc5-4963-bdda-9528035c020d#ref=rss)
-### mont
-
-* [https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert](https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss)
-### blanc
-
-* [https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert](https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss)
-### bergsteiger
-
-* [https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert](https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss)
-### steinschlag
-
-* [https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert](https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss)
-### oman
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman](https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie](https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss)
-### ikkimel
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### miss
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### universe
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### moma
-
-* [https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma](https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-* [https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt](https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-### spende
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-* [https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt](https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen](https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### unionspolitiker
-
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-### lehnen
-
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-### hitzeschutz
-
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-### grundgesetz
-
-* [https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab](https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/wissenschaft/technik/flughafen-muenchen-vorfall-mit-vietnam-airlines-flug-haarscharf-an-katastrophe-vorbei](https://www.spiegel.de/wissenschaft/technik/flughafen-muenchen-vorfall-mit-vietnam-airlines-flug-haarscharf-an-katastrophe-vorbei-a-734ac9d8-3b68-4853-9192-85f8e8e9d408#ref=rss)
-### gabriel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-### junge
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie](https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss)
-### erwachsene
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit](https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss)
-* [https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf](https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss)
-### elf
-
-* [https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt](https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten](https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle](https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots](https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt](https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss)
-* [https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf](https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht](https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht-a-688b4185-d0b1-435a-b9bd-d69d162cf4ba#ref=rss)
+* [https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad](https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt](https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss)
-* [https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod](https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss)
-### basf
+* [https://www.spiegel.de/panorama/justiz/sifnos-brautpaar-stirbt-nach-hubschrauberabsturz-auf-griechischer-insel](https://www.spiegel.de/panorama/justiz/sifnos-brautpaar-stirbt-nach-hubschrauberabsturz-auf-griechischer-insel-a-9d08192c-5cdb-4c58-9b2c-32fdd1fefbbf#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands](https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands-a-0bde92a2-a99a-4ddd-a5b5-0f7e676a3669#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss)
-### eigenen
+* [https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf](https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatsverschuldung-droht-deutschland-der-verlust-seiner-top-kreditwuerdigkeit](https://www.spiegel.de/wirtschaft/staatsverschuldung-droht-deutschland-der-verlust-seiner-top-kreditwuerdigkeit-a-7aeaaf6e-5fa6-4a96-81d2-6a4ea1b17a9b#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie](https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss)
+* [https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf](https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss)
+* [https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken](https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss)
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+### erinnert
+
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van](https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### schließen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht](https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht-a-688b4185-d0b1-435a-b9bd-d69d162cf4ba#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands](https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands-a-0bde92a2-a99a-4ddd-a5b5-0f7e676a3669#ref=rss)
 ### zufolge
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss)
-* [https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin](https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss)
-### spiderman
+* [https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle](https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss)
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### dürre
 
-* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+### niedrigwasser
 
-* [https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke](https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### rhein
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots](https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss)
+### gianni
 
-* [https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr](https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss)
-### passanten
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### infantino
 
-* [https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr](https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss)
-### regime
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### niersbach
 
-* [https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie](https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### concacafchef
 
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf](https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss)
-### verdi
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### victor
 
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf](https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss)
-### elfriede
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### montagliani
 
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### tieren
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative](https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss)
+### drohnenabwehr
 
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### kifake
+* [https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf](https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss)
+### forschungszentrum
 
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### peter
+* [https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf](https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### thiel
+* [https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf](https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### lena
 
-* [https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel](https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss)
-### tupac
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
+### headey
 
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### mopreme
-
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### gerechtigkeit
-
-* [https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit](https://www.spiegel.de/panorama/justiz/tupac-shakur-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss)
-### zoo
-
-* [https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten](https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss)
-### mccords
-
-* [https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten](https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss)
-### schlangenhalsschildkröten
-
-* [https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten](https://www.spiegel.de/wissenschaft/natur/zoo-gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss)
-### fest
-
-* [https://www.spiegel.de/politik/thueringen-bsw-haelt-an-brombeerkoalition-fest](https://www.spiegel.de/politik/thueringen-bsw-haelt-an-brombeerkoalition-fest-a-1abb5df5-0901-46b2-b13b-e45600768aea#ref=rss)
-### rodri
-
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### wechsel
-
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen](https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss)
-### jason
-
-* [https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod](https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss)
-### arday
-
-* [https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod](https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
 ### schauspielerin
 
-* [https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf](https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### sizilien
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### ätna
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+### druck
 
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### blitz
+* [https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend](https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+### alexandra
 
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-### getroffen
+* [https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga](https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga-a-f2aba919-0ac3-4f6b-949c-5236589a58e7#ref=rss)
+### popp
 
-* [https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet](https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin](https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-ploetzlichen-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss)
-### andy
+* [https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga](https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga-a-f2aba919-0ac3-4f6b-949c-5236589a58e7#ref=rss)
+### spirit
 
-* [https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin](https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss)
-### burnham
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+### airlines
 
-* [https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin](https://www.spiegel.de/ausland/andy-burnham-britischer-premier-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss)
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+### daten
+
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+### ki
+
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren](https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+### zufluchtsorte
+
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck](https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht](https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht-a-688b4185-d0b1-435a-b9bd-d69d162cf4ba#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss)
+### expartner
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss)
+### lebens
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner](https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss)
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+### video
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad](https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino](https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino-a-3e208df5-9a62-4524-87c8-e3e2690cdabd#ref=rss)
+### neue
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle](https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken](https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss)
+### sophie
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken](https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss)
+### cunningham
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken](https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken](https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss)
+* [https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino](https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino-a-3e208df5-9a62-4524-87c8-e3e2690cdabd#ref=rss)
+### experte
+
+* [https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino](https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino-a-3e208df5-9a62-4524-87c8-e3e2690cdabd#ref=rss)
+### alben
+
+* [https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle](https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss)
+### auto
+
+* [https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle](https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van](https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+### landesnetz
+
+* [https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt](https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands](https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands-a-0bde92a2-a99a-4ddd-a5b5-0f7e676a3669#ref=rss)
+### bauern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+### betroffenen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte](https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots](https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss)
+### hayden
+
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+### panettiere
+
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+### klitschko
+
+* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss)
+### tiefer
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss)
+### sinken
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss)
+### social
+
+* [https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb](https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss)
+### design
+
+* [https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb](https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss)
+### award
+
+* [https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb](https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb](https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss)
+### projekte
+
+* [https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb](https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss)
+### innenministerium
+
+* [https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v](https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss)
+### verein
+
+* [https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v](https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss)
+### palästina
+
+* [https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v](https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss)
+### ev
+
+* [https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v](https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss)
+### beide
+
+* [https://www.spiegel.de/panorama/a2-bei-kamen-schwertransporter-umgekippt-autobahn-in-beide-richtungen-gesperrt](https://www.spiegel.de/panorama/a2-bei-kamen-schwertransporter-umgekippt-autobahn-in-beide-richtungen-gesperrt-a-17c58c55-d3c4-4559-a6e4-37af6a619b56#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati](https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad](https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss)
+### nonnen
+
+* [https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad](https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss)
+### xpeng
+
+* [https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van](https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss)
+### x9
+
+* [https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van](https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots](https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/staatsverschuldung-droht-deutschland-der-verlust-seiner-top-kreditwuerdigkeit](https://www.spiegel.de/wirtschaft/staatsverschuldung-droht-deutschland-der-verlust-seiner-top-kreditwuerdigkeit-a-7aeaaf6e-5fa6-4a96-81d2-6a4ea1b17a9b#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots](https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss)
+* [https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen](https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss)
+### serena
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati](https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss)
+### venus
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati](https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss)
+### williams
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati](https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati](https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss)
+* [https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen](https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen](https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss)
+### kolumbien
+
+* [https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen](https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss)
+### shakira
+
+* [https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen](https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine](https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss)
 
