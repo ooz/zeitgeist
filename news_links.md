@@ -4,333 +4,334 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### musiala
+### euro
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck](https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt](https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg](https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg-a-38d9be71-6e88-4e6e-be48-5ca0a31357a9#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot](https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt](https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch](https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss)
-### russland
-
-* [https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch](https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss)
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt](https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen](https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen-a-25d4e19d-c97d-48b6-b270-72f8a5e2de2d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck](https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf](https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### dan
-
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-### prüfen
-
-* [https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus](https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss)
-* [https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch](https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte](https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte-a-a67a814b-cbef-4b4d-8ca3-561ba1d4f563#ref=rss)
-* [https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch](https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss)
-### einst
-
-* [https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte](https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte-a-a67a814b-cbef-4b4d-8ca3-561ba1d4f563#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus](https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus-a-8dda1400-766f-4901-8c27-77e887ede6a6#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus](https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus-a-8dda1400-766f-4901-8c27-77e887ede6a6#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus](https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus-a-8dda1400-766f-4901-8c27-77e887ede6a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-### karltheodor
-
-* [https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv](https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss)
-### guttenberg
-
-* [https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv](https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss)
-### correctiv
-
-* [https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv](https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss)
-### mittlerweile
-
-* [https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv](https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947](https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss)
-### generalbundesanwalt
-
-* [https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch](https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss)
-### zensierte
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf](https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss)
-### wollten
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt](https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss)
-### lange
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos](https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-### behandlung
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung](https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss)
-* [https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an](https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss)
-### ridley
-
-* [https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947](https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss)
-### scott
-
-* [https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947](https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947](https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947](https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss)
-### angaben
+* [https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda](https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda-a-ffcd7720-2b79-48bd-8c51-971e2f572832#ref=rss)
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-### kamen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa](https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-### ums
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa](https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/frankreich-loechrig-oder-platzen-leicht-behoerden-warnen-vor-schadhaften-kondomen](https://www.spiegel.de/panorama/frankreich-loechrig-oder-platzen-leicht-behoerden-warnen-vor-schadhaften-kondomen-a-27b0a537-79c8-41af-b5cb-36d432ea05b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+### serie
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss)
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-### fragen
+* [https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise](https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss)
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### frau
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+* [https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt](https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck](https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck](https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident-a-a1ef92e7-1d87-474f-ace0-22d4ba81c0c1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten](https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten-a-cf2b1d62-1c02-460d-9e73-2739b39aa635#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident-a-a1ef92e7-1d87-474f-ace0-22d4ba81c0c1#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken-a-f71ad687-d11b-49fd-bb51-403d8e302e37#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken-a-f71ad687-d11b-49fd-bb51-403d8e302e37#ref=rss)
-### feiertag
-
-* [https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt-a-c6efeba7-fc89-4660-b680-6d07ceb6e675#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt-a-c6efeba7-fc89-4660-b680-6d07ceb6e675#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### gracie
-
-* [https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen](https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen-a-25d4e19d-c97d-48b6-b270-72f8a5e2de2d#ref=rss)
-### bau
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-### befindlichen
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-### flugzeugträger
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
-### benennen
-
-* [https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen](https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss)
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule](https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot](https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### acht
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa](https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska](https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa](https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss)
+### rostock
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf](https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht](https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht-a-8cfaecaf-da66-4c41-9ac4-d15a455467c6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen](https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss)
+### bengvir
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf](https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss)
-### rechnungshof
+* [https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes](https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-loechrig-oder-platzen-leicht-behoerden-warnen-vor-schadhaften-kondomen](https://www.spiegel.de/panorama/frankreich-loechrig-oder-platzen-leicht-behoerden-warnen-vor-schadhaften-kondomen-a-27b0a537-79c8-41af-b5cb-36d432ea05b8#ref=rss)
+### constantin
+
+* [https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise](https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise](https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss)
+### päpstin
+
+* [https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise](https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig](https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig-a-ff0c335b-7cf0-458f-aab2-01b9104c75f1#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig](https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig-a-ff0c335b-7cf0-458f-aab2-01b9104c75f1#ref=rss)
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+* [https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht](https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht-a-8cfaecaf-da66-4c41-9ac4-d15a455467c6#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro](https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss)
+* [https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend](https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend](https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend](https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss)
+### tornados
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend](https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss)
+### mittwochabend
+
+* [https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend](https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss)
+### eustaaten
+
+* [https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda](https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda-a-ffcd7720-2b79-48bd-8c51-971e2f572832#ref=rss)
 ### fünf
 
-* [https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes](https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss)
-### sieht
+* [https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda](https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda-a-ffcd7720-2b79-48bd-8c51-971e2f572832#ref=rss)
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+### tatjana
 
-* [https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes](https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-### ausgaben
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+### kim
 
-* [https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent](https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss)
-### sozialhilfe
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent](https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss)
-### kommunen
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### erfolg
 
-* [https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent](https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung](https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung-a-c744a500-0edf-4579-891a-a3d7adf20bc1#ref=rss)
-### pflege
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen](https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen-a-3c533d19-fbb3-41db-bd65-be197c9656bb#ref=rss)
+### exmann
 
-* [https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent](https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung](https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung-a-c744a500-0edf-4579-891a-a3d7adf20bc1#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin](https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss)
+* [https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln](https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss)
+### nathan
 
-* [https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss)
-### tödliche
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+### cofnas
 
-* [https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss)
-### exanwalt
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+### jason
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### michael
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+### arday
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### cohen
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+### brachte
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-### galt
+* [https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte](https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss)
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+### uber
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt](https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### dallas
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft](https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft-a-53e11ec5-774d-48d6-aa6a-0c2043d4bae7#ref=rss)
-### new
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### gesperrt
 
-* [https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft](https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft-a-53e11ec5-774d-48d6-aa6a-0c2043d4bae7#ref=rss)
-### orleans
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft](https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft-a-53e11ec5-774d-48d6-aa6a-0c2043d4bae7#ref=rss)
-### autoindustrie
+* [https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen](https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen-a-3c533d19-fbb3-41db-bd65-be197c9656bb#ref=rss)
+### swift
 
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen](https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen-a-3c533d19-fbb3-41db-bd65-be197c9656bb#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### sagt
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+### argentiniens
 
-* [https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei](https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung](https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung-a-c744a500-0edf-4579-891a-a3d7adf20bc1#ref=rss)
-### umfrage
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+### leandro
 
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### faszinierende
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+### paredes
 
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### metropole
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+### sanktioniert
 
-* [https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole](https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss)
-### pflegeversicherung
+* [https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt](https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss)
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung](https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung-a-c744a500-0edf-4579-891a-a3d7adf20bc1#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule](https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
+* [https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers](https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule](https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule](https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen](https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule](https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
+* [https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert](https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert-a-803812ab-0346-437c-8935-30d80c172ea7#ref=rss)
+### fpö
+
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+### mögliche
+
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+* [https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers](https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln](https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln](https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss)
+### umgangsrecht
+
+* [https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln](https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss)
+### enkeln
+
+* [https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln](https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss)
+### us
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+### jannik
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+* [https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt](https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab](https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
+### lyon
+
+* [https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette](https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss)
+### katze
+
+* [https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette](https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette](https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette](https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
+### verlust
+
+* [https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss)
+### daily
+
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### mail
+
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### elton
+
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### john
+
+* [https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen](https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss)
+### führerschein
+
+* [https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg](https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg-a-38d9be71-6e88-4e6e-be48-5ca0a31357a9#ref=rss)
+### uno
+
+* [https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa](https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss)
+* [https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers](https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss)
+### mascha
+
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### bär
+
+* [https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda](https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers](https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss)
+* [https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht](https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht-a-8cfaecaf-da66-4c41-9ac4-d15a455467c6#ref=rss)
+### gräfenhainichen
+
+* [https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt](https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss)
+### ice
+
+* [https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt](https://www.spiegel.de/panorama/graefenhainichen-in-sachsen-anhalt-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss)
+### waffendepots
+
+* [https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot](https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss)
+### minister
+
+* [https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss)
+### itamar
+
+* [https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss)
+### sade
+
+* [https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss)
+### farbe
+
+* [https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert](https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert-a-803812ab-0346-437c-8935-30d80c172ea7#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert](https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert-a-803812ab-0346-437c-8935-30d80c172ea7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen](https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss)
+### actionfilm
+
+* [https://www.spiegel.de/panorama/nord-stream-goes-hollywood](https://www.spiegel.de/panorama/nord-stream-goes-hollywood-a-75197033-08c7-4720-8329-601783649830#ref=rss)
+### dreharbeiten
+
+* [https://www.spiegel.de/panorama/nord-stream-goes-hollywood](https://www.spiegel.de/panorama/nord-stream-goes-hollywood-a-75197033-08c7-4720-8329-601783649830#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/nord-stream-goes-hollywood](https://www.spiegel.de/panorama/nord-stream-goes-hollywood-a-75197033-08c7-4720-8329-601783649830#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen](https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss)
+### koppel
+
+* [https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen](https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss)
 
