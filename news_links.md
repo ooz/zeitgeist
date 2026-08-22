@@ -4,143 +4,271 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie](https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein](https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-* [https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik](https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes](https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma](https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-* [https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern](https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern-a-5ab116b0-2538-4d4c-94c6-8d14332a6f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spritpreise-klingbeil-wirbt-mit-eu-partnern-fuer-neue-uebergewinnsteuer](https://www.spiegel.de/politik/deutschland/spritpreise-klingbeil-wirbt-mit-eu-partnern-fuer-neue-uebergewinnsteuer-a-3dc198ea-af13-4b6b-b088-1f914a494c7a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-* [https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik](https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### einkaufszentrum
-
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon](https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### rih
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn](https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten](https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen](https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein](https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen](https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spritpreise-klingbeil-wirbt-mit-eu-partnern-fuer-neue-uebergewinnsteuer](https://www.spiegel.de/politik/deutschland/spritpreise-klingbeil-wirbt-mit-eu-partnern-fuer-neue-uebergewinnsteuer-a-3dc198ea-af13-4b6b-b088-1f914a494c7a#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen](https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen-a-1fcd953c-351a-4536-8ccd-182858a23144#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-* [https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten](https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-* [https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod](https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss)
-* [https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik](https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-* [https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik](https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss)
-### pokalderby
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### eskaliert
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### mannheim
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### kaiserslautern
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
 ### spiegel
 
+* [https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte](https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte-a-67b6280f-89b2-4a88-a53c-b061cd3565ae#ref=rss)
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 * [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst](https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst-a-b5073ec9-e574-4ed7-a422-1be111a46203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss)
+### merz
+
+* [https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst](https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst-a-b5073ec9-e574-4ed7-a422-1be111a46203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss)
+### donald
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+### trump
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos](https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon](https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon](https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten](https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
+### stars
+
+* [https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft](https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes](https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei](https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss)
+* [https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos](https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
+### fuji
+
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea](https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea](https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss)
+### haut
+
+* [https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea](https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+### nick
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+### wilder
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen](https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+### wenigen
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft](https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss)
+### konnten
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde](https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen](https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen-a-a07b9613-0ef2-4713-a461-a548818eaa4f#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+### mark
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+### carney
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea](https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+### verhandlungen
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land](https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss)
+### jugendforensik
+
+* [https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten](https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten](https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei](https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss)
+### tv
+
+* [https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte](https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte-a-67b6280f-89b2-4a88-a53c-b061cd3565ae#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte](https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte-a-67b6280f-89b2-4a88-a53c-b061cd3565ae#ref=rss)
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss)
+### pinocchio
+
+* [https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst](https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst-a-b5073ec9-e574-4ed7-a422-1be111a46203#ref=rss)
+### kinderklinik
+
+* [https://www.spiegel.de/panorama/paderborn-fruehchen-stirbt-nach-darmkeim-infektion-in-kinderklinik](https://www.spiegel.de/panorama/paderborn-fruehchen-stirbt-nach-darmkeim-infektion-in-kinderklinik-a-14cabc23-1312-4598-8987-48d4c0f64039#ref=rss)
+### rosemondy
+
+* [https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft](https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss)
+### pfiffen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss)
+### empfangen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss)
+### rüstungsstaatssekretär
+
+* [https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea](https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss)
+### plötner
+
+* [https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea](https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea](https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+### fpö
+
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast](https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss)
+* [https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma](https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss)
+### england
+
+* [https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei](https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei](https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei](https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss)
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+### französische
+
+* [https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie](https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie-a-bcbf44b6-2ae3-4803-a81a-d6e40181527a#ref=rss)
+### britische
+
+* [https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie](https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie-a-bcbf44b6-2ae3-4803-a81a-d6e40181527a#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest](https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss)
+* [https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma](https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss)
+### voigt
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-in-thueringen-als-landesparteivorsitzender-wiedergewaehlt](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-in-thueringen-als-landesparteivorsitzender-wiedergewaehlt-a-2e01f698-fd86-4187-b5f7-b02539ce68db#ref=rss)
+### japan
+
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+### siebenjährigen
+
+* [https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein](https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode](https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode-a-35a92950-b29c-48b5-9966-cb4b7c727989#ref=rss)
+### niederschläge
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode](https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode-a-35a92950-b29c-48b5-9966-cb4b7c727989#ref=rss)
+### einschränkungen
+
+* [https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen](https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen-a-a07b9613-0ef2-4713-a461-a548818eaa4f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen](https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen-a-a07b9613-0ef2-4713-a461-a548818eaa4f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
+### and
+
+* [https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes](https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss)
+### stripes
+
+* [https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes](https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes](https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
+### einkaufszentrum
+
+* [https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon](https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih](https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus](https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss)
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss)
+### potsdam
+
+* [https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos](https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos](https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss)
+* [https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen](https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen-a-9e531f57-c016-4914-9f3b-b0a3db8177a7#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein](https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss)
 ### wichtigsten
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
@@ -157,216 +285,13 @@ tags: __no_header__
 ### blume
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
-### situation
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
 ### vw
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss)
 ### messer
 
 * [https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma](https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss)
-### wir
-
-* [https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma](https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss)
 ### ohren
 
 * [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie](https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie](https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie](https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss)
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie](https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss)
-### wo
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen](https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein](https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss)
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### elversberg
-
-* [https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen](https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen-a-1fcd953c-351a-4536-8ccd-182858a23144#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen](https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss)
-### legt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen](https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-### rechtsaußenpartei
-
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-### fpö
-
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist](https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern](https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern-a-5ab116b0-2538-4d4c-94c6-8d14332a6f04#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn](https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss)
-### verändern
-
-* [https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern](https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern-a-5ab116b0-2538-4d4c-94c6-8d14332a6f04#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern](https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern-a-5ab116b0-2538-4d4c-94c6-8d14332a6f04#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-### zivilisten
-
-* [https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten](https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss)
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### bundesrichterin
-
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-### 75
-
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-### darunter
-
-* [https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern](https://www.spiegel.de/ausland/usa-bundesrichterin-kippt-donald-trumps-visastopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### ausschreitungen
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen](https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss)
-* [https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an](https://www.spiegel.de/sport/mannheim-pokal-derby-gegen-kaiserslautern-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss)
-### karoline
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-### leavitt
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-### kehrt
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-### maga
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-### inc
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck](https://www.spiegel.de/ausland/karoline-leavitt-donald-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss)
-* [https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik](https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### bischof
-
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf](https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-magdeburger-bischof-ruft-christen-zu-kritischer-wahlentscheidung-auf-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### großglockner
-
-* [https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod](https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss)
-### 19jähriger
-
-* [https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod](https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss)
-### klettergarten
-
-* [https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod](https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten](https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss)
-### vergleich
-
-* [https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten](https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn](https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### 32000
-
-* [https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn](https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn](https://www.spiegel.de/wissenschaft/hitze-mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### krywyj
-
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-### 16
-
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-* [https://www.spiegel.de/sport/aachen-deutsche-springreiter-wieder-weltmeister-nach-16-jahren](https://www.spiegel.de/sport/aachen-deutsche-springreiter-wieder-weltmeister-nach-16-jahren-a-55a74be7-e088-4ab4-a31d-a0b5dfdb710b#ref=rss)
-### teils
-
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih](https://www.spiegel.de/ausland/ukraine-viele-tote-nach-angriff-russlands-auf-einkaufszentrum-in-krywyj-rih-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss)
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### schwertangriff
-
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
-### fagersta
-
-* [https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta](https://www.spiegel.de/panorama/schweden-ein-toter-und-mehrere-verletzte-nach-schwertangriff-an-schule-in-fagersta-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss)
 
