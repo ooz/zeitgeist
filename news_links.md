@@ -4,289 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 1
+### usa
 
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii](https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss)
-### menschen
+* [https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe](https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe-a-eddf4a43-8e87-46a0-b8f1-bdb5ffc18ea9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen](https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab](https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### kühne
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske](https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen](https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss)
-### besuch
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss)
+### klausmichael
 
-* [https://www.spiegel.de/wirtschaft/erotikshop-warum-vielen-der-besuch-im-sexladen-noch-peinlich-ist](https://www.spiegel.de/wirtschaft/erotikshop-warum-vielen-der-besuch-im-sexladen-noch-peinlich-ist-a-81ae18e8-a29a-476a-980d-c47b66e2c105#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht](https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss)
-### mann
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt](https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt-a-1ee132e9-16f2-4a00-9d65-7f3a88fa66f1#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske](https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos](https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt](https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt-a-1ee132e9-16f2-4a00-9d65-7f3a88fa66f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-* [https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki](https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine](https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine-a-a9063feb-ef4e-4eb9-8a46-5fe016f78873#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird](https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena](https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki](https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend](https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos](https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss)
-### karten
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen](https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen-a-695b63b9-c9db-407b-beb8-bad3808f69d9#ref=rss)
-### helge
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-### konzert
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-### ellwangen
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-### genervt
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen](https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss)
-### ende
-
-* [https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck](https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis](https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss)
-### zandvoort
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-### kontrolle
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss)
-### kam
-
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss)
-* [https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen](https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen-a-06a3d201-e409-4ffb-9b7f-4de1a5b01469#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen](https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss)
-### 15jähriger
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss)
-### haftbefehl
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske](https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine](https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine-a-a9063feb-ef4e-4eb9-8a46-5fe016f78873#ref=rss)
-### deepfakes
-
-* [https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine](https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine-a-a9063feb-ef4e-4eb9-8a46-5fe016f78873#ref=rss)
-### studie
-
-* [https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine](https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine-a-a9063feb-ef4e-4eb9-8a46-5fe016f78873#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird](https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss)
-### skorpion
-
-* [https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen](https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen-a-06a3d201-e409-4ffb-9b7f-4de1a5b01469#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen](https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen-a-06a3d201-e409-4ffb-9b7f-4de1a5b01469#ref=rss)
-### throm
-
-* [https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen](https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss)
-### italien
-
-* [https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen](https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss)
-### neues
-
-* [https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen](https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht](https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen](https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss)
-* [https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki](https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen](https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss)
-### sonnenfinsternis
-
-* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis](https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss)
-### verpasst
-
-* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis](https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
 ### woche
 
-* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis](https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen](https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen-a-695b63b9-c9db-407b-beb8-bad3808f69d9#ref=rss)
-### august
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission](https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission-a-785c7019-9a64-4084-a914-2a8c1a4ff643#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements](https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements-a-f07e13b7-1a82-4f5b-aa69-cd40a425b024#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis](https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht](https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss)
-### berlin
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens](https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss)
+* [https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern](https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss)
+### niederlanden
 
-* [https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens](https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss)
-### nie
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen-a-d14d7c5b-d3bf-4a76-9c9a-210feff51900#ref=rss)
+* [https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern](https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens](https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss)
-* [https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht](https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss)
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
+### čeferin
+
+* [https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus](https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus-a-560e4dbe-fcab-4e4e-9f57-4d64dd7171e8#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss)
+* [https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet](https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss)
+### sport
+
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+### parkinson
+
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+### boxen
+
+* [https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen](https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+### angeklagte
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+### gina
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+### h
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler](https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus](https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler](https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss)
+### amöbe
+
+* [https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe](https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe-a-eddf4a43-8e87-46a0-b8f1-bdb5ffc18ea9#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe](https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe-a-eddf4a43-8e87-46a0-b8f1-bdb5ffc18ea9#ref=rss)
+* [https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern](https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss)
+### flitzer
+
+* [https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen](https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss)
+### kleinkind
+
+* [https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen](https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen](https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss)
+### rasen
+
+* [https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen](https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab](https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss)
+### militärübung
+
+* [https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab](https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss)
+### grund
+
+* [https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab](https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen-a-d14d7c5b-d3bf-4a76-9c9a-210feff51900#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab](https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss)
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+### tot
+
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss)
+* [https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet](https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss)
+### avrotros
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+### contest
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+### niederlande
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+* [https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern](https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen-a-5ceeeb11-1e70-46ab-b66d-5530e18d6e39#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird](https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss)
-### sintiki
+* [https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck](https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### indonesien
 
-* [https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki](https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft](https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft-a-f7777cb6-18cc-419d-bfd6-71fe376be783#ref=rss)
+### superman
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft](https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft-a-f7777cb6-18cc-419d-bfd6-71fe376be783#ref=rss)
+### flammen
+
+* [https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft](https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft-a-f7777cb6-18cc-419d-bfd6-71fe376be783#ref=rss)
+* [https://www.spiegel.de/panorama/nevada-zehntausende-fliehen-vor-braenden-nahe-reno](https://www.spiegel.de/panorama/nevada-zehntausende-fliehen-vor-braenden-nahe-reno-a-81a2c6e4-ff5c-49a5-a1c6-422b50b8d739#ref=rss)
+### enes
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen](https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen-a-f6778586-0a3d-49f0-82c6-50b09ebd6d40#ref=rss)
+### kanter
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen](https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen-a-f6778586-0a3d-49f0-82c6-50b09ebd6d40#ref=rss)
+### freedom
+
+* [https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen](https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen-a-f6778586-0a3d-49f0-82c6-50b09ebd6d40#ref=rss)
+### wahlomat
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen-a-5ceeeb11-1e70-46ab-b66d-5530e18d6e39#ref=rss)
+### dr
+
+* [https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet](https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss)
+### dre
+
+* [https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet](https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss)
+### viele
+
+* [https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet](https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte](https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte-a-33e4a31c-4a82-4e80-89d6-da25c7faaf40#ref=rss)
+### burnham
+
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine](https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### start
+
+* [https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission](https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission-a-785c7019-9a64-4084-a914-2a8c1a4ff643#ref=rss)
+### mondmission
+
+* [https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission](https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission-a-785c7019-9a64-4084-a914-2a8c1a4ff643#ref=rss)
+### jacob
+
+* [https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler](https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss)
+### elordi
+
+* [https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler](https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler](https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen-a-d14d7c5b-d3bf-4a76-9c9a-210feff51900#ref=rss)
+### christine
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-fuer-die-leitung-des-weltwirtschaftsforums-im-gespraech](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-fuer-die-leitung-des-weltwirtschaftsforums-im-gespraech-a-d2ba0b26-c90b-41b8-b2dd-ef0a075734a0#ref=rss)
+### lagarde
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-fuer-die-leitung-des-weltwirtschaftsforums-im-gespraech](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-fuer-die-leitung-des-weltwirtschaftsforums-im-gespraech-a-d2ba0b26-c90b-41b8-b2dd-ef0a075734a0#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern](https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/soziales/gas-die-gas-strategie-der-bundesregierung-ein-milder-winter-meinung](https://www.spiegel.de/wirtschaft/soziales/gas-die-gas-strategie-der-bundesregierung-ein-milder-winter-meinung-a-2f551546-e4f1-46d5-936b-925cb1ab3edb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus](https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus-a-560e4dbe-fcab-4e4e-9f57-4d64dd7171e8#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn](https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss)
+### aleksander
+
+* [https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus](https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus-a-560e4dbe-fcab-4e4e-9f57-4d64dd7171e8#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements](https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements-a-f07e13b7-1a82-4f5b-aa69-cd40a425b024#ref=rss)
+* [https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss)
+### karim
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg](https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg-a-33e72bbf-3788-4902-a562-d69d6cc84147#ref=rss)
+### adeyemi
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg](https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg-a-33e72bbf-3788-4902-a562-d69d6cc84147#ref=rss)
+### gut
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg](https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg-a-33e72bbf-3788-4902-a562-d69d6cc84147#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### shein
+
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### milliardenerlös
+
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### börsengang
+
+* [https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an](https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss)
+### nevada
+
+* [https://www.spiegel.de/panorama/nevada-zehntausende-fliehen-vor-braenden-nahe-reno](https://www.spiegel.de/panorama/nevada-zehntausende-fliehen-vor-braenden-nahe-reno-a-81a2c6e4-ff5c-49a5-a1c6-422b50b8d739#ref=rss)
+### verbraucherschützer
+
+* [https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte](https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte-a-33e4a31c-4a82-4e80-89d6-da25c7faaf40#ref=rss)
+### trinkgeld
+
+* [https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte](https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte-a-33e4a31c-4a82-4e80-89d6-da25c7faaf40#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss)
-### alibaba
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### mittelstandsverband
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki-a-08b69070-c71d-415e-838d-9c7730bcb609#ref=rss)
-### onlineriese
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki-a-08b69070-c71d-415e-838d-9c7730bcb609#ref=rss)
-### plant
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki-a-08b69070-c71d-415e-838d-9c7730bcb609#ref=rss)
-### kapitalerhöhung
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki-a-08b69070-c71d-415e-838d-9c7730bcb609#ref=rss)
-### rückseite
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung](https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss)
+### mark
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen](https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen-a-695b63b9-c9db-407b-beb8-bad3808f69d9#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena](https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss)
-### ort
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### carney
 
-* [https://www.spiegel.de/ausland/weltroboterspiele-in-peking-schnell-wie-usain-bolt-dann-schneiden-sie-gurken](https://www.spiegel.de/ausland/weltroboterspiele-in-peking-schnell-wie-usain-bolt-dann-schneiden-sie-gurken-a-abb08882-f34c-4a9a-8ded-b046de88ff7d#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos](https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss)
-### dfbpokal
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### zollstreit
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii](https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii](https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss)
-### heidenheim
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii](https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss)
-### vorsaison
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii](https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballerin-und-fussballer-des-jahres-giulia-gwinn-und-harry-kane-ausgezeichnet](https://www.spiegel.de/sport/fussball/fussballerin-und-fussballer-des-jahres-giulia-gwinn-und-harry-kane-ausgezeichnet-a-f8e15f8e-0bae-4f30-85a9-c2ac81ac5ea4#ref=rss)
-### bodensee
-
-* [https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht](https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss)
-### philadelphia
-
-* [https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske](https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske](https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen](https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss)
-### falschfahrten
-
-* [https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend](https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss)
-### irland
-
-* [https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend](https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss)
-### autos
-
-* [https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend](https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos](https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss)
-### katholischer
-
-* [https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab](https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab-a-b182a1d2-c66b-49a1-b77a-4ec0ed5718df#ref=rss)
-### pfarrer
-
-* [https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab](https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab-a-b182a1d2-c66b-49a1-b77a-4ec0ed5718df#ref=rss)
-### amt
-
-* [https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab](https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab-a-b182a1d2-c66b-49a1-b77a-4ec0ed5718df#ref=rss)
-### sydneymarathon
-
-* [https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena](https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss)
-### vertan
-
-* [https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena](https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern](https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern-a-f9739510-d762-43ab-ad44-3c7c1038224b#ref=rss)
-### linnemann
-
-* [https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern](https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern-a-f9739510-d762-43ab-ad44-3c7c1038224b#ref=rss)
-### erling
-
-* [https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren](https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren](https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss)
-### überrascht
-
-* [https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren](https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss)
-### bergunfälle
-
-* [https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe](https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss)
-### 19jähriger
-
-* [https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe](https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss)
-### großglockner
-
-* [https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe](https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss)
-### 64jähriger
-
-* [https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe](https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss)
-### alpen
-
-* [https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe](https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen](https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar](https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss)
 
