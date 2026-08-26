@@ -4,309 +4,318 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
-
-* [https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg](https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen-a-e9e70dfc-34cb-489e-a8b3-41916d806e3e#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will](https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal](https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-abgeordneter-erhebt-in-internem-brief-an-weidel-schwere-vorwuerfe](https://www.spiegel.de/politik/deutschland/afd-abgeordneter-erhebt-in-internem-brief-an-weidel-schwere-vorwuerfe-a-281c9169-1862-4e42-821e-1659516f0642#ref=rss)
+### sturzflut
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen](https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-bundespolizei-schiebt-23-ausreisepflichtigen-afghanen](https://www.spiegel.de/politik/deutschland/afghanistan-bundespolizei-schiebt-23-ausreisepflichtigen-afghanen-a-a90b507f-694c-4cad-91d1-924de25ee07a#ref=rss)
-### parton
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-### jahren
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation](https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss)
+### opfer
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez](https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez-a-35e18669-73ca-45cf-9c18-ab84e6bdd805#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger](https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger-a-9f096fed-88a9-401a-a47d-c4dbbd8bdbea#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent](https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent-a-c10a04d1-6db8-49e2-a584-8b3c59d01fb1#ref=rss)
-### stellt
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise](https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/belgien-fuehrt-die-spur-des-waldbrands-naturschutzgebiet-hohes-venn-in-die-landwirtschaft](https://www.spiegel.de/panorama/justiz/belgien-fuehrt-die-spur-des-waldbrands-naturschutzgebiet-hohes-venn-in-die-landwirtschaft-a-54760195-78ca-4848-8965-29a59f823b7f#ref=rss)
+* [https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll](https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll-a-5885abf9-7134-4ff8-bde0-c5a1c0d70512#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### lars
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/waffendepot-bei-berlin-mutmasslicher-kurier-soll-zu-sabotage-kommando-gehoert-haben](https://www.spiegel.de/panorama/justiz/waffendepot-bei-berlin-mutmasslicher-kurier-soll-zu-sabotage-kommando-gehoert-haben-a-bdc87696-f462-4d72-87df-487162c1bdf9#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream](https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent](https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent-a-c10a04d1-6db8-49e2-a584-8b3c59d01fb1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen](https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream](https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise](https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss)
-### blume
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+* [https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen](https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen-a-865b8d5f-499f-4b4e-9939-e91657486c5e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise](https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss)
-### mutter
+* [https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz](https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz-a-ef97d2b3-c6a4-47d2-9ac8-a8b3e9c8e72e#ref=rss)
+* [https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro](https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro-a-953d1b5e-90e1-4d2c-9ddf-fa48efc251ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss)
+### vermisst
 
-* [https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen](https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### west
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+### himalaja
 
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### dolly
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### dörfer
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-### alter
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-### 80
+* [https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst](https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss)
+* [https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022](https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss)
+### stellnetz
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cornwall-forschende-zeichnen-todeskampf-eines-wals-im-stellnetz-auf](https://www.spiegel.de/wissenschaft/cornwall-forschende-zeichnen-todeskampf-eines-wals-im-stellnetz-auf-a-2b941f6f-8cb2-4253-9283-6503987bda76#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden](https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden](https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden](https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss)
+### orden
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden](https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden](https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### koblenz
+
+* [https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez](https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez-a-35e18669-73ca-45cf-9c18-ab84e6bdd805#ref=rss)
+### papst
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+### leo
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+### vanity
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+### fair
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste](https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
+### main
+
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
+### malaria
+
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
 ### gestorben
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+### mücken
 
-* [https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben](https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### veronica
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### ferres
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### maschmeyer
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren](https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen](https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-### ziele
-
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift](https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg](https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen-a-e9e70dfc-34cb-489e-a8b3-41916d806e3e#ref=rss)
-### teamspirit
-
-* [https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg](https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert](https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss)
 ### neuhardenberg
 
-* [https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg](https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream](https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss)
+### kabinettsklausur
+
+* [https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream](https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz](https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz-a-b0c29497-7d41-4bb1-aaaa-826e5a7efffa#ref=rss)
+### interpol
+
+* [https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger](https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger-a-9f096fed-88a9-401a-a47d-c4dbbd8bdbea#ref=rss)
+### gelingt
+
+* [https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger](https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger-a-9f096fed-88a9-401a-a47d-c4dbbd8bdbea#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### kigefahren
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### bill
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### gates
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### xi
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+* [https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes](https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren](https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will](https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss)
 ### sachsenanhalt
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-### ulrich
+* [https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will](https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss)
+### september
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-### siegmund
+* [https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will](https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### verfassungsfeinde
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss)
-### kanada
+* [https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll](https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll-a-5885abf9-7134-4ff8-bde0-c5a1c0d70512#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent](https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent-a-c10a04d1-6db8-49e2-a584-8b3c59d01fb1#ref=rss)
-### kündigt
+* [https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll](https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll-a-5885abf9-7134-4ff8-bde0-c5a1c0d70512#ref=rss)
+* [https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022](https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss)
+### betreiber
 
-* [https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent](https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent-a-c10a04d1-6db8-49e2-a584-8b3c59d01fb1#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
-### waymo
+* [https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz](https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz-a-ef97d2b3-c6a4-47d2-9ac8-a8b3e9c8e72e#ref=rss)
+### gao
 
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-### plant
+* [https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen](https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen-a-865b8d5f-499f-4b4e-9939-e91657486c5e#ref=rss)
+### zhen
 
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-### autonome
-
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-* [https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter](https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter-a-81d310cb-c438-445a-bf49-2d21d9facefe#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee](https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee-a-645cdd64-8e85-4007-840f-24b35b6a184e#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen](https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss)
-### unterwegs
-
-* [https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027](https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### radprofis
-
-* [https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service](https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service-a-d49a80fc-be00-4421-9c74-3c27a5e42b04#ref=rss)
-### hagelsturm
-
-* [https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service](https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service-a-d49a80fc-be00-4421-9c74-3c27a5e42b04#ref=rss)
-### hotel
-
-* [https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service](https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service-a-d49a80fc-be00-4421-9c74-3c27a5e42b04#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise](https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss)
+* [https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen](https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen-a-865b8d5f-499f-4b4e-9939-e91657486c5e#ref=rss)
 ### zuckersteuer
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss)
-### belegschaft
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss)
+### steuer
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise](https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss)
-### flughafen
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss)
+### zerogetränke
 
-* [https://www.spiegel.de/ausland/russland-cia-direktor-john-ratcliffe-zu-gespraechen-in-moskau-gelandet](https://www.spiegel.de/ausland/russland-cia-direktor-john-ratcliffe-zu-gespraechen-in-moskau-gelandet-a-40eeb0df-79b3-444d-abbc-b7f408afcd15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen-a-e9e70dfc-34cb-489e-a8b3-41916d806e3e#ref=rss)
-### 2026
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee](https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee-a-645cdd64-8e85-4007-840f-24b35b6a184e#ref=rss)
-### mac
+* [https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro](https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro-a-953d1b5e-90e1-4d2c-9ddf-fa48efc251ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+### einsamkeit
 
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
-### apple
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+### männliche
 
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+### eher
+
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol](https://www.spiegel.de/wissenschaft/einsamkeit-bei-maeusen-wenn-maennliche-tiere-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss)
+* [https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022](https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet](https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss)
+* [https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes](https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss)
+### thorsten
+
+* [https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz](https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz-a-b0c29497-7d41-4bb1-aaaa-826e5a7efffa#ref=rss)
+### frei
+
+* [https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz](https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz-a-b0c29497-7d41-4bb1-aaaa-826e5a7efffa#ref=rss)
+### manuela
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+### schwesig
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen](https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss)
+* [https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet](https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-stuft-russland-als-bedrohung-ein](https://www.spiegel.de/ausland/ungarn-stuft-russland-als-bedrohung-ein-a-13b1b66d-1eb7-4b77-955f-75aa4bf34644#ref=rss)
+### erbschaftsteuer
+
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet](https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
-### preise
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss)
+* [https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes](https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss)
+### trinkwasser
 
-* [https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an](https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss)
-### hannover
+* [https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet](https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss)
+### hauptstadt
 
-* [https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen](https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss)
-### offenbar
+* [https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet](https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation](https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss)
+### champions
 
-* [https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen](https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss)
-### cte
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### league
 
-* [https://www.spiegel.de/wissenschaft/mensch/cte-im-football-untersuchung-zeigt-gehirnschaeden-bei-vielen-verstorbenen-nfl-spielern](https://www.spiegel.de/wissenschaft/mensch/cte-im-football-untersuchung-zeigt-gehirnschaeden-bei-vielen-verstorbenen-nfl-spielern-a-fd626972-d07a-4313-9193-8a92d69d6590#ref=rss)
-### taylor
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### linzer
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-### swift
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### ask
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-### druck
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### wunder
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-### hohe
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### celtic
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen](https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss)
-### verrät
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### glasgow
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht](https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss)
-### dennis
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen](https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss)
-### radtke
+* [https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow](https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022](https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss)
+### studie
 
-* [https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen](https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss)
-### aussagen
+* [https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes](https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss)
+### vapes
 
-* [https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen](https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss)
-* [https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter](https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter-a-81d310cb-c438-445a-bf49-2d21d9facefe#ref=rss)
-### robert
+* [https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes](https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen](https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss)
-### kotscharjan
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### klopp
 
-* [https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen](https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss)
-### betrunkener
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### hansjoachim
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### schnarchen
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### watzke
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss)
-### florida
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### uli
 
-* [https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen](https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss)
-### blitz
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### hoeneß
 
-* [https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen](https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck](https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss)
+### ingo
 
-* [https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen](https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### mdr
+* [https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal](https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss)
+### schulze
 
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-### warnt
+* [https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal](https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss)
+### leben
 
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-### sehen
+* [https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal](https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation](https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss)
+### 14
 
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-### einige
-
-* [https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts](https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss)
-* [https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet](https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss)
-### north
-
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### kim
-
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### kardashian
-
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### piercings
-
-* [https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu](https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss)
-### swiss
-
-* [https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet](https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss)
-### boeing
-
-* [https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet](https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss)
-### 777
-
-* [https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet](https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss)
-### azoren
-
-* [https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet](https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### achtjährige
-
-* [https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter](https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen](https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen](https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen](https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation](https://www.spiegel.de/panorama/pakistan-mindestens-14-babys-sterben-bei-brand-in-saeuglingsstation-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss)
 
