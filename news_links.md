@@ -4,354 +4,329 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tot
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-* [https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin](https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss)
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-* [https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya](https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-* [https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya](https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss)
-* [https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung](https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
+* [https://www.spiegel.de/politik/heidi-reichinnek-stellt-cdu-bedingungen-fuer-zusammenarbeit-mit-linke-in-sachsen-anhalt](https://www.spiegel.de/politik/heidi-reichinnek-stellt-cdu-bedingungen-fuer-zusammenarbeit-mit-linke-in-sachsen-anhalt-a-3c0d76a7-78eb-41c4-9c5b-891ab1443f19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+* [https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik](https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik-a-974150d3-e6f1-40bb-84b0-09e20263e97d#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen](https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen-a-c9eb69bd-213c-47ba-adf3-44694208804f#ref=rss)
-* [https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya](https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss)
-* [https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung](https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss)
-### kabinettsklausur
+* [https://www.spiegel.de/sport/weltrekord-fuer-deutsche-volleyballer-der-89-minuten-satz-von-reggio-calabria](https://www.spiegel.de/sport/weltrekord-fuer-deutsche-volleyballer-der-89-minuten-satz-von-reggio-calabria-a-a621131d-df11-4f89-9888-c1e93b142b94#ref=rss)
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270](https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270-a-9d263ef8-41f2-413f-a8f1-67d445ab05de#ref=rss)
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### harry
+* [https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert](https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert-a-6f733cba-dabd-4be5-b457-9febe78bec9a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### urteil
+* [https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt](https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt-a-80e53845-85c0-49a0-9306-51a437a586d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick](https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick-a-4674ad3f-c7f5-4f65-926e-b2fc01a20289#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf-a-70ddf1a4-c3db-441c-b609-0399190e9807#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren](https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren-a-3840fffe-f181-4cbe-9567-cca76c27b9a1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen](https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen-a-c9eb69bd-213c-47ba-adf3-44694208804f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt](https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt-a-55f50548-ae5a-41db-8761-d11347866167#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck](https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-* [https://www.spiegel.de/wissenschaft/groenland-narwale-tauchen-mit-messgeraeten-im-eismeer-was-sie-mitbringen-ist-dramatisch](https://www.spiegel.de/wissenschaft/groenland-narwale-tauchen-mit-messgeraeten-im-eismeer-was-sie-mitbringen-ist-dramatisch-a-0b774bb6-2386-4421-8f85-d4250e4c2895#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt](https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt-a-55f50548-ae5a-41db-8761-d11347866167#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann](https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann-a-ef7c0d0f-5f57-4998-aa86-0cd93c16f2ad#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### arbeitgeber
-
-* [https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei](https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei-a-93378cf7-8bbf-44a7-9a4b-ef95d70dab3b#ref=rss)
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-arbeitgeber-duerfen-gekuendigte-nicht-zu-bewerbungen-ausfragen](https://www.spiegel.de/karriere/bundesarbeitsgericht-arbeitgeber-duerfen-gekuendigte-nicht-zu-bewerbungen-ausfragen-a-e3e48610-72ff-48fe-9825-510d04dddc34#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck](https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss)
-### meta
-
-* [https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren](https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren-a-3840fffe-f181-4cbe-9567-cca76c27b9a1#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus](https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus](https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus](https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### zwickau
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss)
-### angst
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-### hoppe
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot](https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss)
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### ende
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf-a-70ddf1a4-c3db-441c-b609-0399190e9807#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-### dolly
-
-* [https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin](https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss)
-### parton
-
-* [https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin](https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin](https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann](https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann-a-ef7c0d0f-5f57-4998-aa86-0cd93c16f2ad#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin](https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann](https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann-a-ef7c0d0f-5f57-4998-aa86-0cd93c16f2ad#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft-a-36aedc8f-3cab-418b-a4c3-08b43d431d79#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-### malaria
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+* [https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen](https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen-a-a3ade2d8-84f9-48d4-bdb8-51b52f7537a8#ref=rss)
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-### frankfurter
+* [https://www.spiegel.de/politik/heidi-reichinnek-stellt-cdu-bedingungen-fuer-zusammenarbeit-mit-linke-in-sachsen-anhalt](https://www.spiegel.de/politik/heidi-reichinnek-stellt-cdu-bedingungen-fuer-zusammenarbeit-mit-linke-in-sachsen-anhalt-a-3c0d76a7-78eb-41c4-9c5b-891ab1443f19#ref=rss)
+### alle
 
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### sechs
+* [https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand](https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand-a-da6f76a5-863b-4f63-87cf-4db16421ce59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben-a-8cf8a37c-d417-4e3d-8109-78480ec2832c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick](https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick-a-4674ad3f-c7f5-4f65-926e-b2fc01a20289#ref=rss)
+### mad
 
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### mücken
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### kings
 
-* [https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen](https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-### stuft
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### ratcliffe
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss)
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-### brustkrebs
+* [https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist](https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss)
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### putin
 
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-### flugbegleiterin
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### himalaja
 
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-### rund
+* [https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270](https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270-a-9d263ef8-41f2-413f-a8f1-67d445ab05de#ref=rss)
+### toten
 
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen](https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen-a-c9eb69bd-213c-47ba-adf3-44694208804f#ref=rss)
-### zeit
+* [https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270](https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270-a-9d263ef8-41f2-413f-a8f1-67d445ab05de#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein](https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### tim
+* [https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270](https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270-a-9d263ef8-41f2-413f-a8f1-67d445ab05de#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### curry
+* [https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270](https://www.spiegel.de/panorama/sturzflut-im-himalaja-zahl-der-toten-in-nepal-steigt-auf-mindestens-270-a-9d263ef8-41f2-413f-a8f1-67d445ab05de#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick](https://www.spiegel.de/sport/fussball/champions-league-saison-2026-2027-das-sind-die-36-teilnehmer-im-ueberblick-a-4674ad3f-c7f5-4f65-926e-b2fc01a20289#ref=rss)
+### meta
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### the
+* [https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus](https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus-a-6ab0a2e7-1ce1-4f57-967e-c871f9170f26#ref=rss)
+### medien
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### rocky
+* [https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus](https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus-a-6ab0a2e7-1ce1-4f57-967e-c871f9170f26#ref=rss)
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### horror
+* [https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus](https://www.spiegel.de/netzwelt/apps/meta-18-milliarden-vergleich-in-den-usa-faellt-fuer-konzern-glimpflich-aus-a-6ab0a2e7-1ce1-4f57-967e-c871f9170f26#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock](https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock-a-2ebdb5bb-33e6-4f2a-ab51-acffad5cb5c9#ref=rss)
+### alles
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### picture
+* [https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert](https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert-a-6f733cba-dabd-4be5-b457-9febe78bec9a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback](https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback-a-5f250525-f94c-43dd-a575-84f2f5b955a8#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### show
+* [https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert](https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert-a-6f733cba-dabd-4be5-b457-9febe78bec9a#ref=rss)
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### 80
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+### hafen
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-### alter
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+### tonnen
 
-* [https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben](https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### uskäufer
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+### crystal
 
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-### steigen
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+### meth
 
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-* [https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya](https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt](https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt-a-55f50548-ae5a-41db-8761-d11347866167#ref=rss)
-### drohnenfabrik
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest](https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest-a-f6c5f388-f954-45cf-952c-1cb8f594b5cb#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt](https://www.spiegel.de/panorama/hamburger-hafen-anderthalb-tonnen-crystal-meth-entdeckt-a-16d16966-259f-424f-8f26-21b34f6bab82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock](https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock-a-2ebdb5bb-33e6-4f2a-ab51-acffad5cb5c9#ref=rss)
+### dolly
 
-* [https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest](https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest-a-f6c5f388-f954-45cf-952c-1cb8f594b5cb#ref=rss)
-### hamburg
+* [https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt](https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt-a-80e53845-85c0-49a0-9306-51a437a586d0#ref=rss)
+### parton
 
-* [https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest](https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest-a-f6c5f388-f954-45cf-952c-1cb8f594b5cb#ref=rss)
-### weckt
+* [https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt](https://www.spiegel.de/panorama/leute/dolly-parton-hat-noch-einen-geheimen-song-fuer-die-nachwelt-a-80e53845-85c0-49a0-9306-51a437a586d0#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss)
-* [https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung](https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss)
-### messgeräten
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+### kleinflugzeug
 
-* [https://www.spiegel.de/wissenschaft/groenland-narwale-tauchen-mit-messgeraeten-im-eismeer-was-sie-mitbringen-ist-dramatisch](https://www.spiegel.de/wissenschaft/groenland-narwale-tauchen-mit-messgeraeten-im-eismeer-was-sie-mitbringen-ist-dramatisch-a-0b774bb6-2386-4421-8f85-d4250e4c2895#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+### meter
+
+* [https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot](https://www.spiegel.de/panorama/oesterreich-kleinflugzeug-stuerzt-in-attersee-wohl-zwei-deutsche-tot-a-6def84f8-c281-4225-8069-5d3fdfdcdca8#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse](https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss)
+### byd
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+* [https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist](https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss)
+### eautos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+### hersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment](https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### vinícius
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback](https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback-a-5f250525-f94c-43dd-a575-84f2f5b955a8#ref=rss)
+### júnior
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback](https://www.spiegel.de/sport/fussball/real-madrid-mbappe-und-vinicius-junior-glaenzen-bei-mourinhos-heim-comeback-a-5f250525-f94c-43dd-a575-84f2f5b955a8#ref=rss)
+### schwarzgruppe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock](https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock-a-2ebdb5bb-33e6-4f2a-ab51-acffad5cb5c9#ref=rss)
 ### rostock
 
-* [https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei](https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei-a-93378cf7-8bbf-44a7-9a4b-ef95d70dab3b#ref=rss)
-### oberarzt
+* [https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock](https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock-a-2ebdb5bb-33e6-4f2a-ab51-acffad5cb5c9#ref=rss)
+### könig
 
-* [https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei](https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei-a-93378cf7-8bbf-44a7-9a4b-ef95d70dab3b#ref=rss)
-### zahl
+* [https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand](https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand-a-da6f76a5-863b-4f63-87cf-4db16421ce59#ref=rss)
+### gesundheitszustand
 
-* [https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya](https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss)
-* [https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung](https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss)
-### streit
+* [https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand](https://www.spiegel.de/panorama/leute/norwegen-koenig-harald-v-in-sehr-ernstem-gesundheitszustand-a-da6f76a5-863b-4f63-87cf-4db16421ce59#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck](https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss)
-### uefa
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### kammerspiele
 
-* [https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck](https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss)
-### zurück
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### barbara
 
-* [https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck](https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### bundesarbeitsgericht
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### theater
 
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-arbeitgeber-duerfen-gekuendigte-nicht-zu-bewerbungen-ausfragen](https://www.spiegel.de/karriere/bundesarbeitsgericht-arbeitgeber-duerfen-gekuendigte-nicht-zu-bewerbungen-ausfragen-a-e3e48610-72ff-48fe-9825-510d04dddc34#ref=rss)
-### styles
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### lange
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss)
-### bin
+* [https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres](https://www.spiegel.de/kultur/muenchner-kammerspiele-barbara-mundels-haus-wird-theater-des-jahres-a-b577e8e3-889f-4cb4-a736-7c3f00e568a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### tim
 
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen](https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen-a-a3ade2d8-84f9-48d4-bdb8-51b52f7537a8#ref=rss)
+### curry
 
-* [https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen](https://www.spiegel.de/panorama/leute/harry-styles-wusste-ohne-tour-lange-nichts-mit-sich-anzufangen-a-1474e557-a045-43e3-b90f-6f09b9b5db1f#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen](https://www.spiegel.de/kultur/tim-curry-was-fuer-zaehne-was-fuer-ein-grinsen-a-a3ade2d8-84f9-48d4-bdb8-51b52f7537a8#ref=rss)
+### italien
 
-* [https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt](https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt-a-55f50548-ae5a-41db-8761-d11347866167#ref=rss)
-### péter
+* [https://www.spiegel.de/sport/weltrekord-fuer-deutsche-volleyballer-der-89-minuten-satz-von-reggio-calabria](https://www.spiegel.de/sport/weltrekord-fuer-deutsche-volleyballer-der-89-minuten-satz-von-reggio-calabria-a-a621131d-df11-4f89-9888-c1e93b142b94#ref=rss)
+### artgemeinschaft
 
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-### nádas
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft-a-36aedc8f-3cab-418b-a4c3-08b43d431d79#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-### 83
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-durchsuchungen-bei-mutmasslichen-anhaengern-der-neonazi-sekte-artgemeinschaft-a-36aedc8f-3cab-418b-a4c3-08b43d431d79#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/caen-mann-in-frankreich-faehrt-mit-auto-in-menschenmenge-ein-toter-zehn-verletzte](https://www.spiegel.de/panorama/justiz/caen-mann-in-frankreich-faehrt-mit-auto-in-menschenmenge-ein-toter-zehn-verletzte-a-bc2f2827-02a7-41b3-9d42-99f868429787#ref=rss)
+### politikpodcast
 
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-### alt
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+### britta
 
-* [https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt](https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss)
-### mecklenburgvorpommern
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### sandberg
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss)
-### meghan
+* [https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften](https://www.spiegel.de/politik/podcast-mad-kings-wie-begegnet-deutschland-den-neuen-politischen-kraeften-a-ba6e132e-b76a-4fc3-b1fe-668d7f4e68e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+### john
 
-* [https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet](https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss)
-### konflikt
+* [https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist](https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss)
+### ciadirektor
 
-* [https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann](https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann-a-ef7c0d0f-5f57-4998-aa86-0cd93c16f2ad#ref=rss)
-### usbundesstaaten
+* [https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist](https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss)
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren](https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren-a-3840fffe-f181-4cbe-9567-cca76c27b9a1#ref=rss)
-### gefahren
+* [https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist](https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss)
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### diskus
 
-* [https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren](https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren-a-3840fffe-f181-4cbe-9567-cca76c27b9a1#ref=rss)
-### hans
+* [https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse](https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss)
+### sawang
 
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### traxler
+* [https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse](https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss)
+### janpram
 
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### karikaturist
+* [https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse](https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss)
+### altersklasse
 
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse](https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird](https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird](https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss)
+### chef
+
+* [https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird](https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss)
+* [https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung](https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung-a-66645178-93b6-42b3-bf0d-b64bde40e3d5#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+### heftige
+
+* [https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau](https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss)
+* [https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung](https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung-a-66645178-93b6-42b3-bf0d-b64bde40e3d5#ref=rss)
+### depot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben-a-8cf8a37c-d417-4e3d-8109-78480ec2832c#ref=rss)
+### marke
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben-a-8cf8a37c-d417-4e3d-8109-78480ec2832c#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/depot-betreiber-der-insolventen-deko-kette-kuendigt-alle-vertraege-marke-soll-bleiben-a-8cf8a37c-d417-4e3d-8109-78480ec2832c#ref=rss)
+* [https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik](https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik-a-974150d3-e6f1-40bb-84b0-09e20263e97d#ref=rss)
+### yayoi
+
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### kusama
+
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### polka
+
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
 ### 97
 
-* [https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss)
-### max
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss)
-### eberl
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss)
-### vertrag
+* [https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben](https://www.spiegel.de/kultur/yayoi-kusama-ist-tot-weltberuehmte-polka-dots-kuenstlerin-mit-97-jahren-gestorben-a-5aad1358-9643-4601-a882-0eb7bcc0760d#ref=rss)
+### vwaufsichtsrat
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein](https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein-a-899ae761-3f2e-49db-829c-1eee982c74a8#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein](https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein-a-899ae761-3f2e-49db-829c-1eee982c74a8#ref=rss)
+### lies
+
+* [https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein](https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein-a-899ae761-3f2e-49db-829c-1eee982c74a8#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein](https://www.spiegel.de/wirtschaft/vw-aufsichtsrat-olaf-lies-massenhafte-entlassungen-koennen-nicht-die-loesung-sein-a-899ae761-3f2e-49db-829c-1eee982c74a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### ddropfer
+
+* [https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung](https://www.spiegel.de/politik/berlin-wahl-chef-des-dachverbands-der-ddr-opfer-kritisiert-linken-forderung-nach-enteignung-a-66645178-93b6-42b3-bf0d-b64bde40e3d5#ref=rss)
+### torsten
+
+* [https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen](https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen-a-071bd5de-ec5b-458b-9c1b-7824cd37462c#ref=rss)
+### sträter
+
+* [https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen](https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen-a-071bd5de-ec5b-458b-9c1b-7824cd37462c#ref=rss)
+### krebserkrankung
+
+* [https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen](https://www.spiegel.de/panorama/leute/torsten-straeter-will-seine-krebserkrankung-nicht-zum-comedy-stoff-machen-a-071bd5de-ec5b-458b-9c1b-7824cd37462c#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland](https://www.spiegel.de/politik/deutschland/spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-a-91f6300b-cde1-494f-ac81-9a5782bd00f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast](https://www.spiegel.de/politik/deutschland/afd-und-wladimir-putin-ploetzlich-haette-er-zugriff-auf-die-deutsche-innenpolitik-podcast-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/caen-mann-in-frankreich-faehrt-mit-auto-in-menschenmenge-ein-toter-zehn-verletzte](https://www.spiegel.de/panorama/justiz/caen-mann-in-frankreich-faehrt-mit-auto-in-menschenmenge-ein-toter-zehn-verletzte-a-bc2f2827-02a7-41b3-9d42-99f868429787#ref=rss)
+### landeswahlleiter
+
+* [https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik](https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik-a-974150d3-e6f1-40bb-84b0-09e20263e97d#ref=rss)
+### briefwahl
+
+* [https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik](https://www.spiegel.de/politik/briefwahl-landeswahlleiter-in-mecklenburg-vorpommern-verteidigt-briefwahl-gegen-afd-kritik-a-974150d3-e6f1-40bb-84b0-09e20263e97d#ref=rss)
 
