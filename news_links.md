@@ -4,337 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-* [https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung](https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung-a-b76d85a8-2d7f-4682-9b76-89c612850ef2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik](https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik-a-9a56306b-388b-4a47-9f93-ec8c20d05b59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen](https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen-a-02d1b1b4-8d83-46bb-a801-73cb3cf13926#ref=rss)
-### nepal
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-* [https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung](https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung-a-197182e2-e1b9-4c53-9df9-067cacfbf3e9#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen](https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-* [https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung](https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung-a-b76d85a8-2d7f-4682-9b76-89c612850ef2#ref=rss)
-### sturzflut
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-* [https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung](https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung-a-197182e2-e1b9-4c53-9df9-067cacfbf3e9#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-* [https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs](https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs-a-9615ae2a-2714-4ef5-9f2f-4147187770cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied](https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied-a-53a242b8-ef5c-4494-a91b-3c41319c6673#ref=rss)
-### groß
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert](https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert-a-6c1238b5-98c2-4a91-9880-0ba6297498da#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden](https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto](https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto-a-02e49910-d000-41cf-bee3-1b2853d03751#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden](https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto](https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto-a-02e49910-d000-41cf-bee3-1b2853d03751#ref=rss)
-### holt
-
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
-### legen
-
-* [https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung](https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen](https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen-a-bdea6bb3-6474-4fc0-82d2-a89641ffd04e#ref=rss)
-### merz
-
-* [https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung](https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung-a-b76d85a8-2d7f-4682-9b76-89c612850ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen](https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen-a-02d1b1b4-8d83-46bb-a801-73cb3cf13926#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-### risiko
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-### ausbreitung
-
-* [https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland](https://www.spiegel.de/wissenschaft/malaria-am-flughafen-frankfurt-wie-gross-ist-das-risiko-einer-ausbreitung-in-deutschland-a-d0dfda1b-6be6-4dde-995b-8bf137b0b95a#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden](https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-der-kurswechsel-des-kurdenfuehrers-mazloum-abdi](https://www.spiegel.de/ausland/syrien-der-kurswechsel-des-kurdenfuehrers-mazloum-abdi-a-c14a2e19-84eb-42df-ba1b-1661e45f3dea#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden](https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss)
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
-### katastrophengebiet
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg](https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg-a-3e4d2c7a-44da-49d2-94d4-32b471dc09c8#ref=rss)
-### verheerenden
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-### himalaja
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-### überlebenden
-
-* [https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet](https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert](https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert-a-6c1238b5-98c2-4a91-9880-0ba6297498da#ref=rss)
-### springe
-
-* [https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert](https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert-a-6c1238b5-98c2-4a91-9880-0ba6297498da#ref=rss)
-### olivia
-
-* [https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert](https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert-a-6c1238b5-98c2-4a91-9880-0ba6297498da#ref=rss)
-### jones
-
-* [https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert](https://www.spiegel.de/panorama/gesellschaft/der-buergermeister-von-springe-will-den-rathausplatz-nach-olivia-jones-benennen-und-scheitert-a-6c1238b5-98c2-4a91-9880-0ba6297498da#ref=rss)
-### bedeutet
-
-* [https://www.spiegel.de/ausland/syrien-der-kurswechsel-des-kurdenfuehrers-mazloum-abdi](https://www.spiegel.de/ausland/syrien-der-kurswechsel-des-kurdenfuehrers-mazloum-abdi-a-c14a2e19-84eb-42df-ba1b-1661e45f3dea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet](https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet-a-2ea82c66-139a-4694-9c75-35dd2467bddd#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-### sean
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-### penn
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### ausgezeichnet
-
-* [https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt](https://www.spiegel.de/panorama/leute/ukraine-sean-penn-wird-von-praesident-wolodymyr-selenskyj-als-nationale-legende-geehrt-a-37808f48-1585-4d3d-8e6e-a0e190e0b256#ref=rss)
-* [https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs](https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs-a-9615ae2a-2714-4ef5-9f2f-4147187770cb#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen](https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss)
-### gehen
+* [https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug](https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug-a-2ec7431e-fcec-4c58-b672-c3689f8d830b#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet](https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet-a-881c7785-6242-4d28-98a0-fbd740cd76bf#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen](https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto](https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto-a-02e49910-d000-41cf-bee3-1b2853d03751#ref=rss)
-### leon
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-warnt-vor-schweren-gewittern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-warnt-vor-schweren-gewittern-a-949942c7-b01e-46af-8e05-06c81f281016#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland](https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland-a-ced4d844-d3fa-499d-a33f-c1f858d128ee#ref=rss)
+### china
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-### goretzka
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### himalaja
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-### aston
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-### villa
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-### vertrag
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner-a-d03d16f6-5b4a-4cc0-89ee-a1ba03968e61#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### hatten
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-### vergleich
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland](https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland-a-ced4d844-d3fa-499d-a33f-c1f858d128ee#ref=rss)
+### norwegen
 
-* [https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-leon-goretzka-spielt-jetzt-fuer-aston-villa-a-3c1b606c-b7cd-4784-af3a-c1f22d10d74d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied](https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied-a-53a242b8-ef5c-4494-a91b-3c41319c6673#ref=rss)
-### größte
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+* [https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf](https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf-a-3a04d640-7aa7-4aa8-9728-9e01301782ec#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung](https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-### druck
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner-a-d03d16f6-5b4a-4cc0-89ee-a1ba03968e61#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-oder-linke-die-christdemokraten-suchen-nach-dem-kleineren-uebel](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-oder-linke-die-christdemokraten-suchen-nach-dem-kleineren-uebel-a-112fb589-9435-4721-a6a8-f231faa0076b#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung](https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident-a-bd701fb3-d581-48a0-b838-a5411734692e#ref=rss)
-### sankt
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### bundesliga
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto](https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto-a-37223c13-b47e-4612-acf4-934f85c72b4c#ref=rss)
-### offizier
+* [https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt](https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt-a-04c0fc8b-306d-4006-adbc-55f7520112fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto](https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto-a-37223c13-b47e-4612-acf4-934f85c72b4c#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-polizei-darf-bewerber-wegen-tattoo-mit-patronen-ablehnen](https://www.spiegel.de/panorama/justiz/polizei-polizei-darf-bewerber-wegen-tattoo-mit-patronen-ablehnen-a-7b515e92-7cfd-4023-a129-08bd52ca6742#ref=rss)
+### mord
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto](https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto-a-37223c13-b47e-4612-acf4-934f85c72b4c#ref=rss)
-### frau
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### droht
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto](https://www.spiegel.de/ausland/sankt-petersburg-russischer-offizier-stirbt-bei-sprengstoffexplosion-in-seinem-auto-a-37223c13-b47e-4612-acf4-934f85c72b4c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5](https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5-a-f7085151-a70e-4db9-9d27-bed2c2985981#ref=rss)
-### tages
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### harald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### flutkatastrophe
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+* [https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf](https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf-a-3a04d640-7aa7-4aa8-9728-9e01301782ec#ref=rss)
+### v
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+* [https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf](https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf-a-3a04d640-7aa7-4aa8-9728-9e01301782ec#ref=rss)
+### afd
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet](https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet-a-2ea82c66-139a-4694-9c75-35dd2467bddd#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner-a-d03d16f6-5b4a-4cc0-89ee-a1ba03968e61#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-oder-linke-die-christdemokraten-suchen-nach-dem-kleineren-uebel](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-oder-linke-die-christdemokraten-suchen-nach-dem-kleineren-uebel-a-112fb589-9435-4721-a6a8-f231faa0076b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt-a-b4153ebd-07c6-4ced-b86f-8464177eb8d8#ref=rss)
+### sturzflut
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet](https://www.spiegel.de/wirtschaft/donald-trump-was-der-schuldenrausch-des-us-praesidenten-fuer-ihre-geldanlage-bedeutet-a-2ea82c66-139a-4694-9c75-35dd2467bddd#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds](https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen](https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen-a-bdea6bb3-6474-4fc0-82d2-a89641ffd04e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung](https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung-a-b76d85a8-2d7f-4682-9b76-89c612850ef2#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung](https://www.spiegel.de/sport/friedrich-merz-laesst-die-athletinnen-und-athleten-im-spitzensport-haengen-meinung-a-b76d85a8-2d7f-4682-9b76-89c612850ef2#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-### quallen
-
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-### atomkraftwerk
-
-* [https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm](https://www.spiegel.de/panorama/frankreich-200-tonnen-quallen-legen-atomkraftwerk-lahm-a-b50739cf-c317-4a24-9048-f91817a588f8#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident-a-bd701fb3-d581-48a0-b838-a5411734692e#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident-a-bd701fb3-d581-48a0-b838-a5411734692e#ref=rss)
-### uefa
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident-a-bd701fb3-d581-48a0-b838-a5411734692e#ref=rss)
-### strafverfahren
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident](https://www.spiegel.de/sport/fussball/gianni-infantino-uefa-plant-strafverfahren-gegen-fifa-praesident-a-bd701fb3-d581-48a0-b838-a5411734692e#ref=rss)
-### deniz
-
-* [https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik](https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik-a-9a56306b-388b-4a47-9f93-ec8c20d05b59#ref=rss)
-### undav
-
-* [https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik](https://www.spiegel.de/sport/fussball/dfb-deniz-undav-ringt-nach-wm-aus-mit-nagelsmann-kritik-a-9a56306b-388b-4a47-9f93-ec8c20d05b59#ref=rss)
-### flutwelle
-
-* [https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte](https://www.spiegel.de/wissenschaft/nepal-wie-es-zur-verheerenden-sturzflut-im-himalaja-kommen-konnte-a-dc7833b0-8cff-4098-ae78-af3de5fe5e7c#ref=rss)
-### hendrik
-
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
-### freigang
-
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5](https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5-a-f7085151-a70e-4db9-9d27-bed2c2985981#ref=rss)
-### euro
+* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-steigt-auf-3-061-millionen](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-steigt-auf-3-061-millionen-a-03702718-6350-4e2d-b030-80743bbee80b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage](https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage-a-58cb06d5-74be-4ff7-af0a-302728a01be0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht](https://www.spiegel.de/wirtschaft/berlin-windkraft-betrueger-hendrik-holt-nach-freigang-auf-der-flucht-a-931715d6-b03c-4206-82fc-1cb534f5d4b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen](https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen-a-02d1b1b4-8d83-46bb-a801-73cb3cf13926#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland](https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland-a-ced4d844-d3fa-499d-a33f-c1f858d128ee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss)
+### usamerikanerin
+
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+### lebenslang
+
+* [https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft](https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss)
+### klimaziel
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+### verfehlen
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen](https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner-a-d03d16f6-5b4a-4cc0-89ee-a1ba03968e61#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug](https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug-a-2ec7431e-fcec-4c58-b672-c3689f8d830b#ref=rss)
+### waren
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug](https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug-a-2ec7431e-fcec-4c58-b672-c3689f8d830b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland](https://www.spiegel.de/wissenschaft/mondfinsternis-wolken-verdecken-die-sicht-in-deutschland-a-ced4d844-d3fa-499d-a33f-c1f858d128ee#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wildlife
+### testen
 
-* [https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs](https://www.spiegel.de/panorama/wildlife-photography-of-the-year-2026-ausgewaehlte-bilder-des-fotowettbewerbs-a-9615ae2a-2714-4ef5-9f2f-4147187770cb#ref=rss)
-### euländer
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-koalitionen-minderheitsregierung-rechner-a-d03d16f6-5b4a-4cc0-89ee-a1ba03968e61#ref=rss)
+### haakon
 
-* [https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen](https://www.spiegel.de/politik/deutschland-und-fuenf-weitere-eu-laender-widersprechen-entwurf-fuer-eu-finanzrahmen-a-02d1b1b4-8d83-46bb-a801-73cb3cf13926#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+### viii
 
-* [https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg](https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg-a-3e4d2c7a-44da-49d2-94d4-32b471dc09c8#ref=rss)
-### gewalttat
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+### sondersitzung
 
-* [https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg](https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg-a-3e4d2c7a-44da-49d2-94d4-32b471dc09c8#ref=rss)
-### schule
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+### regierungskabinett
 
-* [https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg](https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg-a-3e4d2c7a-44da-49d2-94d4-32b471dc09c8#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett](https://www.spiegel.de/ausland/norwegen-thronfolger-haakon-viii-haelt-sondersitzung-mit-regierungskabinett-a-9ab4fcd8-83a2-4a7c-85bb-067f8ee3937d#ref=rss)
+### bergungsarbeiten
 
-* [https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg](https://www.spiegel.de/panorama/gosen-neu-zittau-zwei-tote-bei-gewalttat-an-schule-in-brandenburg-a-3e4d2c7a-44da-49d2-94d4-32b471dc09c8#ref=rss)
-* [https://www.spiegel.de/panorama/prinz-harry-doppelgaenger-harry-hat-etwas-zu-reparieren-es-bleibt-ihm-nicht-viel-zeit](https://www.spiegel.de/panorama/prinz-harry-doppelgaenger-harry-hat-etwas-zu-reparieren-es-bleibt-ihm-nicht-viel-zeit-a-237125d5-24a7-4c47-a4e0-6414688f0600#ref=rss)
-### dolly
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### gefahr
 
-* [https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5](https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5-a-f7085151-a70e-4db9-9d27-bed2c2985981#ref=rss)
-### parton
+* [https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf](https://www.spiegel.de/ausland/nepal-und-china-nehmen-bergungsarbeiten-im-flutgebiet-wieder-auf-a-538f60d1-2c01-47ff-a39b-d9526e902ba4#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten](https://www.spiegel.de/ausland/sturzflut-in-nepal-dammbruch-befuerchtet-china-unterbricht-bergungsarbeiten-a-ba1a7ad1-c485-4ad7-b985-c7be91841111#ref=rss)
+### meeresschildkröten
 
-* [https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5](https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5-a-f7085151-a70e-4db9-9d27-bed2c2985981#ref=rss)
-### obwohl
+* [https://www.spiegel.de/wissenschaft/natur/galapagosinseln-meeresschildkroeten-ueberraschen-forschende-mit-ungewoehnlicher-sesshaftigkeit](https://www.spiegel.de/wissenschaft/natur/galapagosinseln-meeresschildkroeten-ueberraschen-forschende-mit-ungewoehnlicher-sesshaftigkeit-a-52916e59-af26-4e23-9975-f9f5ac6882c1#ref=rss)
+### forschende
 
-* [https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5](https://www.spiegel.de/kultur/musik/dolly-parton-sie-haette-das-kommunistische-manifest-schreiben-koennen-aber-karl-marx-nicht-9-to-5-a-f7085151-a70e-4db9-9d27-bed2c2985981#ref=rss)
-### arktis
+* [https://www.spiegel.de/wissenschaft/natur/galapagosinseln-meeresschildkroeten-ueberraschen-forschende-mit-ungewoehnlicher-sesshaftigkeit](https://www.spiegel.de/wissenschaft/natur/galapagosinseln-meeresschildkroeten-ueberraschen-forschende-mit-ungewoehnlicher-sesshaftigkeit-a-52916e59-af26-4e23-9975-f9f5ac6882c1#ref=rss)
+### wechseljahre
 
-* [https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied](https://www.spiegel.de/wissenschaft/arktis-ein-foto-der-arktis-von-1895-und-eins-von-heute-was-ein-unterschied-a-53a242b8-ef5c-4494-a91b-3c41319c6673#ref=rss)
-### harry
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/prinz-harry-doppelgaenger-harry-hat-etwas-zu-reparieren-es-bleibt-ihm-nicht-viel-zeit](https://www.spiegel.de/panorama/prinz-harry-doppelgaenger-harry-hat-etwas-zu-reparieren-es-bleibt-ihm-nicht-viel-zeit-a-237125d5-24a7-4c47-a4e0-6414688f0600#ref=rss)
-### katastrophenbehörde
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+### genuss
 
-* [https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung](https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung-a-197182e2-e1b9-4c53-9df9-067cacfbf3e9#ref=rss)
-### warnt
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+### körper
 
-* [https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung](https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung-a-197182e2-e1b9-4c53-9df9-067cacfbf3e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht-a-be6513b2-f1f0-4850-a349-b372f5d9dc35#ref=rss)
-### laut
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+### neu
 
-* [https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung](https://www.spiegel.de/ausland/sturzflut-in-nepal-katastrophenbehoerde-warnt-vor-weiterer-ueberschwemmung-a-197182e2-e1b9-4c53-9df9-067cacfbf3e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen](https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen-a-bdea6bb3-6474-4fc0-82d2-a89641ffd04e#ref=rss)
-### sicherheitsrisiko
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+### viele
 
-* [https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen](https://www.spiegel.de/netzwelt/gadgets/sicherheitsluecke-handytelefonate-legen-smartphone-daten-offen-a-bdea6bb3-6474-4fc0-82d2-a89641ffd04e#ref=rss)
-### kanadagans
+* [https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken](https://www.spiegel.de/effilee/essen/wechseljahre-und-ernaehrung-wie-frauen-genuss-und-koerper-neu-entdecken-a-4fd7f0ec-4718-42e1-9a49-dd1372bb0293#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+### alles
 
-* [https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto](https://www.spiegel.de/ausland/usa-und-kanada-weisskopfseeadler-attackiert-kanadagans-weisses-haus-erntet-spott-fuer-tierfoto-a-02e49910-d000-41cf-bee3-1b2853d03751#ref=rss)
-### warken
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+### vermisst
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht-a-be6513b2-f1f0-4850-a349-b372f5d9dc35#ref=rss)
-### rente
+* [https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist](https://www.spiegel.de/reise/fernweh/flutwelle-im-himalaja-die-menschen-hatten-wenige-minuten-zeit-bevor-alles-explodiert-ist-a-f466f961-6352-474d-b57d-411d21d9ce98#ref=rss)
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+### trockenheit
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht-a-be6513b2-f1f0-4850-a349-b372f5d9dc35#ref=rss)
-### 63
+* [https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage](https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage-a-58cb06d5-74be-4ff7-af0a-302728a01be0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+### führt
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/rentenalter-nina-warken-stellt-haertefallregeln-fuer-das-aus-der-rente-mit-63-in-aussicht-a-be6513b2-f1f0-4850-a349-b372f5d9dc35#ref=rss)
-### ratko
+* [https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage](https://www.spiegel.de/wirtschaft/tanker-zahlt-5-3-millionen-dollar-fuer-panamakanal-passage-a-58cb06d5-74be-4ff7-af0a-302728a01be0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben](https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss)
-### mladić
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt-a-b4153ebd-07c6-4ced-b86f-8464177eb8d8#ref=rss)
+### mario
 
-* [https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben](https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss)
-### exgeneral
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt-a-b4153ebd-07c6-4ced-b86f-8464177eb8d8#ref=rss)
+### voigt
 
-* [https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben](https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoecke-scheitert-mit-misstrauensvotum-gegen-ministerpraesident-mario-voigt-a-b4153ebd-07c6-4ced-b86f-8464177eb8d8#ref=rss)
+### leichtathletik
 
-* [https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben](https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss)
-### gestorben
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### alison
 
-* [https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben](https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### dos
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### santos
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### masai
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### russell
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### zürich
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich](https://www.spiegel.de/sport/leichtathletik/leichtathletik-alison-dos-santos-und-masai-russell-mit-weltrekorden-in-zuerich-a-e8523eda-d1e0-4459-ab70-5a649ca0ab04#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt](https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt-a-04c0fc8b-306d-4006-adbc-55f7520112fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt](https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt-a-04c0fc8b-306d-4006-adbc-55f7520112fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss)
+### boomt
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt](https://www.spiegel.de/sport/fussball/bundesliga-vergesst-den-fc-bayern-muenchen-warum-die-liga-trotzdem-boomt-a-04c0fc8b-306d-4006-adbc-55f7520112fe#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### anklage
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### k
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### erhoben
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben](https://www.spiegel.de/panorama/justiz/leipzig-anklage-gegen-amokfahrer-jeffrey-k-erhoben-a-2f1fd729-6942-4165-b60a-b4be465df12e#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+### speiseplan
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden](https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### ich
+
+* [https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden](https://www.spiegel.de/ausland/sturzflut-im-himalaja-als-die-warnung-kam-sah-ich-nur-noch-wie-die-haeuser-und-doerfer-weggeschwemmt-wurden-a-78025562-db95-4fd3-bc4c-1d31a615dbab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv](https://www.spiegel.de/sport/fussball/dazn-sky-sat1-sportschau-hier-sehen-sie-die-bundesliga-live-im-tv-a-27180c34-e094-4efc-8015-12fcaccafb70#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-warnt-vor-schweren-gewittern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-warnt-vor-schweren-gewittern-a-949942c7-b01e-46af-8e05-06c81f281016#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit](https://www.spiegel.de/wirtschaft/hohe-spritpreise-finanzminister-lars-klingbeil-will-oelkonzerne-zur-kasse-bitten-doch-die-eu-zieht-bisher-nicht-mit-a-ea593195-05a5-4269-ba3e-8555330d4e9c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+### temu
+
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+### shein
+
+* [https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein](https://www.spiegel.de/wirtschaft/service/temu-shein-aliexpress-billigpaketimport-aus-china-in-die-eu-bricht-um-bis-zu-40-prozent-ein-a-af3e1115-0244-4b14-934c-dd1e95367275#ref=rss)
+### könig
+
+* [https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf](https://www.spiegel.de/ausland/harald-v-von-norwegen-ist-tot-dieser-koenig-war-ein-land-nachruf-a-3a04d640-7aa7-4aa8-9728-9e01301782ec#ref=rss)
+### europameister
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### owen
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### ansah
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### sportschiedsgericht
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht](https://www.spiegel.de/sport/leichtathletik/leichtathletik-europameister-owen-ansah-beantragt-verfahren-vor-sportschiedsgericht-a-d55a4d40-28aa-47c6-b022-d2dca48f0701#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet](https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet-a-881c7785-6242-4d28-98a0-fbd740cd76bf#ref=rss)
+### leipzig/halle
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet](https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-flugzeuge-nach-drohnensichtung-umgeleitet-a-881c7785-6242-4d28-98a0-fbd740cd76bf#ref=rss)
 
