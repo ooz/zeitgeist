@@ -4,351 +4,375 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt-a-667e8761-d48e-4116-af97-f36ae6676530#ref=rss)
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen](https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen-a-bfe6ea39-c213-4a90-b3b4-07ec0012a1e9#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel](https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel-a-05f85934-cd1f-4897-a9f9-a001e3019873#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten-a-ac02d703-dc48-4f13-965a-6a298cca8a9b#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck](https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware](https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware-a-d83d957f-8126-471b-9570-c9dc0231afbe#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf](https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum](https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum-a-e32f7d5e-5fc4-4613-b951-a820aeb3d16f#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck](https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung](https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung-a-db76e808-6df0-4da1-9b32-32ad4cb37024#ref=rss)
-* [https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe](https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe-a-f6843b17-a6b9-48e5-8c70-6481fc8808f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt-a-667e8761-d48e-4116-af97-f36ae6676530#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-* [https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt](https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt-a-1345303b-20db-42ab-b71e-6e46c1262bd3#ref=rss)
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### jahren
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt-a-2a372a43-b23f-47d3-88c8-6607c9136e88#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an-a-afec8309-5c5c-4b92-9901-f64aab32ec45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-* [https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr](https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr-a-1e17451b-5782-4e54-91f7-e1f836355f87#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor](https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor-a-8f87bba4-e187-466c-a86e-b0d75de183c5#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten-a-ac02d703-dc48-4f13-965a-6a298cca8a9b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte](https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte-a-87ae0bac-9e99-43af-899d-86bf722928b4#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel](https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel-a-05f85934-cd1f-4897-a9f9-a001e3019873#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss)
-* [https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe](https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe-a-f6843b17-a6b9-48e5-8c70-6481fc8808f7#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen-a-06ef4a56-361b-4cf2-b033-8690a2291822#ref=rss)
-### landtagswahl
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss)
-### dylan
-
-* [https://www.spiegel.de/panorama/leute/dylan-sprouse-nennt-start-seiner-tv-karriere-kinderarbeit](https://www.spiegel.de/panorama/leute/dylan-sprouse-nennt-start-seiner-tv-karriere-kinderarbeit-a-0451c319-9cf1-43bf-85cd-89f242061179#ref=rss)
-### sprouse
-
-* [https://www.spiegel.de/panorama/leute/dylan-sprouse-nennt-start-seiner-tv-karriere-kinderarbeit](https://www.spiegel.de/panorama/leute/dylan-sprouse-nennt-start-seiner-tv-karriere-kinderarbeit-a-0451c319-9cf1-43bf-85cd-89f242061179#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### fall
-
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen-a-06ef4a56-361b-4cf2-b033-8690a2291822#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/anschlagsversuch-in-leipzig-kaja-kallas-bestellt-russischen-eu-gesandten-ein](https://www.spiegel.de/ausland/anschlagsversuch-in-leipzig-kaja-kallas-bestellt-russischen-eu-gesandten-ein-a-f7d5775c-b685-4f66-8b9f-3e9cd9075806#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware](https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware-a-d83d957f-8126-471b-9570-c9dc0231afbe#ref=rss)
-### umspannwerk
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-### kohlekraftwerk
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-### jänschwalde
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-### süden
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck](https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde](https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss)
-* [https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt](https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt-a-1345303b-20db-42ab-b71e-6e46c1262bd3#ref=rss)
-### trauma
-
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-### half
-
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen-a-06ef4a56-361b-4cf2-b033-8690a2291822#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe](https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss)
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss)
-### löcher
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley](https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley-a-f3e59629-19a2-4f5a-b3c1-52fa37937016#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt-a-667e8761-d48e-4116-af97-f36ae6676530#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kabinettsbeschluss-zur-einkommensteuer-so-berechnen-sie-die-entlastung-fuer-ihr-gehalt](https://www.spiegel.de/wirtschaft/soziales/kabinettsbeschluss-zur-einkommensteuer-so-berechnen-sie-die-entlastung-fuer-ihr-gehalt-a-d402d122-94fa-4ff6-8d9d-ab6d4bee9eab#ref=rss)
-### fahrt
-
-* [https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt](https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt-a-1345303b-20db-42ab-b71e-6e46c1262bd3#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/soziales/kabinettsbeschluss-zur-einkommensteuer-so-berechnen-sie-die-entlastung-fuer-ihr-gehalt](https://www.spiegel.de/wirtschaft/soziales/kabinettsbeschluss-zur-einkommensteuer-so-berechnen-sie-die-entlastung-fuer-ihr-gehalt-a-d402d122-94fa-4ff6-8d9d-ab6d4bee9eab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-### gaskraftwerke
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss)
-### frage
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke](https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss)
-* [https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr](https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr-a-1e17451b-5782-4e54-91f7-e1f836355f87#ref=rss)
-### grad
-
-* [https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck](https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor](https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor-a-8f87bba4-e187-466c-a86e-b0d75de183c5#ref=rss)
-### tage
-
-* [https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck](https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss)
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-### kaiser
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-### otto
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl](https://www.spiegel.de/geschichte/magdeburg-zweite-beisetzung-von-kaiser-otto-dem-grossen-kurz-vor-landtagswahl-a-677423c9-2234-4244-ac06-d16362a6820b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-### nasa
-
-* [https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung](https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung-a-db76e808-6df0-4da1-9b32-32ad4cb37024#ref=rss)
-### astronautinnen
-
-* [https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung](https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung-a-db76e808-6df0-4da1-9b32-32ad4cb37024#ref=rss)
-### iss
-
-* [https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung](https://www.spiegel.de/wissenschaft/nasa-astronautinnen-arbeiten-aussen-an-der-iss-probleme-mit-handschuhheizung-a-db76e808-6df0-4da1-9b32-32ad4cb37024#ref=rss)
+* [https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse](https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse-a-28a44ed1-e7b8-4e98-8531-1001d4b5d531#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an-a-afec8309-5c5c-4b92-9901-f64aab32ec45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag](https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag-a-e3d0c57a-0a04-4e42-b0f7-992de5e5c49e#ref=rss)
-### abgeordnete
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena](https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten](https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten-a-99abce11-761f-4e84-b489-73485ec018c7#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag](https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag-a-e3d0c57a-0a04-4e42-b0f7-992de5e5c49e#ref=rss)
-### verlassen
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag](https://www.spiegel.de/politik/deutschland/thueringen-drei-abgeordnete-verlassen-bsw-fraktion-im-landtag-a-e3d0c57a-0a04-4e42-b0f7-992de5e5c49e#ref=rss)
-### summe
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs](https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### google
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-### israel
+* [https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts](https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-### 2025
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete](https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum](https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum-a-e32f7d5e-5fc4-4613-b951-a820aeb3d16f#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen](https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen-a-bfe6ea39-c213-4a90-b3b4-07ec0012a1e9#ref=rss)
-### fast
+* [https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer](https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer-a-c55411b0-e98d-4816-a5d4-ae65fe05a025#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs](https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss)
+### jan
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+* [https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse](https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse-a-28a44ed1-e7b8-4e98-8531-1001d4b5d531#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025](https://www.spiegel.de/politik/deutschland/deutschland-steigert-waffenexporte-nach-israel-schon-jetzt-um-das-vierfache-im-vergleich-zu-2025-a-68af1788-5351-43a4-9469-819a7af0089d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### tote
 
-* [https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe](https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe-a-f6843b17-a6b9-48e5-8c70-6481fc8808f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor](https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor-a-8f87bba4-e187-466c-a86e-b0d75de183c5#ref=rss)
-### erde
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe](https://www.spiegel.de/politik/klimakrise-wer-die-erde-retten-will-muss-mehr-anbieten-als-daueralarm-und-vorwuerfe-a-f6843b17-a6b9-48e5-8c70-6481fc8808f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor](https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor-a-8f87bba4-e187-466c-a86e-b0d75de183c5#ref=rss)
-### jeanette
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr](https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr-a-1e17451b-5782-4e54-91f7-e1f836355f87#ref=rss)
-### biedermann
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr](https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr-a-1e17451b-5782-4e54-91f7-e1f836355f87#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr](https://www.spiegel.de/kultur/jeanette-biedermann-warum-faszinieren-uns-spaete-promi-schwangerschaften-so-sehr-a-1e17451b-5782-4e54-91f7-e1f836355f87#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa](https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa-a-779cdcae-fae5-476a-b23f-88db4b6d7169#ref=rss)
-### pete
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### eberhard
 
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-### dan
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena](https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss)
+### vogel
 
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-### driscoll
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena](https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss)
+### jena
 
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-### offenbart
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena](https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss)
+### boris
 
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-### versagen
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### herrmann
 
-* [https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers](https://www.spiegel.de/ausland/pete-hegseth-der-fall-dan-driscoll-offenbart-das-versagen-des-us-kriegsministers-a-b4927c7f-73a1-42b6-a9d0-5fd325ff8b1d#ref=rss)
-### wachstumsprognose
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### ocean
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/konjunktur-wachstumsprognose-von-diw-mehr-als-verdoppelt-a-667e8761-d48e-4116-af97-f36ae6676530#ref=rss)
-### konstantin
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### race
 
-* [https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne](https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne-a-c915151f-e943-4801-a0e6-3d77cc38941c#ref=rss)
-### kuhle
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### atlantic
 
-* [https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne](https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne-a-c915151f-e943-4801-a0e6-3d77cc38941c#ref=rss)
-### gesellschafter
-
-* [https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne](https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne-a-c915151f-e943-4801-a0e6-3d77cc38941c#ref=rss)
-### liberale
-
-* [https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne](https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne-a-c915151f-e943-4801-a0e6-3d77cc38941c#ref=rss)
-### moderne
-
-* [https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne](https://www.spiegel.de/politik/deutschland/kubicki-kritiker-kuhle-fdp-mann-wird-gesellschafter-beim-zentrum-liberale-moderne-a-c915151f-e943-4801-a0e6-3d77cc38941c#ref=rss)
-### eugesandten
-
-* [https://www.spiegel.de/ausland/anschlagsversuch-in-leipzig-kaja-kallas-bestellt-russischen-eu-gesandten-ein](https://www.spiegel.de/ausland/anschlagsversuch-in-leipzig-kaja-kallas-bestellt-russischen-eu-gesandten-ein-a-f7d5775c-b685-4f66-8b9f-3e9cd9075806#ref=rss)
-### us
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus](https://www.spiegel.de/sport/fussball/us-open-alexander-zverev-entgeht-nur-knapp-dem-erstrunden-aus-a-ee1d78ca-b5f5-4265-975f-6c0a2c39664b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen](https://www.spiegel.de/wirtschaft/unternehmen/fahrradbranche-verliert-2025-umsatz-und-stellen-a-bfe6ea39-c213-4a90-b3b4-07ec0012a1e9#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor](https://www.spiegel.de/wissenschaft/uno-sieht-1-5-grad-marke-bald-gerissen-und-gibt-neues-ziel-vor-a-8f87bba4-e187-466c-a86e-b0d75de183c5#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel](https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel-a-05f85934-cd1f-4897-a9f9-a001e3019873#ref=rss)
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel](https://www.spiegel.de/panorama/aegypten-16-tote-und-viele-verletzte-bei-busunfall-auf-sinaihalbinsel-a-05f85934-cd1f-4897-a9f9-a001e3019873#ref=rss)
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### deutschebankchef
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss)
-### hongkong
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### demokratieaktivist
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### wong
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### verfahren
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### schuldig
-
-* [https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig](https://www.spiegel.de/ausland/hongkong-demokratieaktivist-joshua-wong-bekennt-sich-in-weiterem-verfahren-schuldig-a-46288497-4e28-4664-a380-d98918328731#ref=rss)
-### miley
-
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley](https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley-a-f3e59629-19a2-4f5a-b3c1-52fa37937016#ref=rss)
-### uspopstar
-
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley](https://www.spiegel.de/panorama/leute/miley-cyrus-heisst-jetzt-nur-noch-miley-a-f3e59629-19a2-4f5a-b3c1-52fa37937016#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### enzo
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### fernández
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
 ### 145
 
-* [https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer](https://www.spiegel.de/sport/fussball/manchester-city-enzo-fernandez-wird-fuer-145-millionen-englands-rekordtransfer-a-dc09834d-a93f-4b40-9fb1-392d710986bc#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### seemeilen
 
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen-a-06ef4a56-361b-4cf2-b033-8690a2291822#ref=rss)
-### assistentin
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### new
 
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen](https://www.spiegel.de/ausland/fall-jeffrey-epstein-interview-mit-seiner-ehemaligen-assistentin-ich-war-es-gewohnt-zu-gehorchen-a-06ef4a56-361b-4cf2-b033-8690a2291822#ref=rss)
-### venezuela
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+### küste
 
-* [https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa](https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa-a-779cdcae-fae5-476a-b23f-88db4b6d7169#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+### passieren
 
-* [https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa](https://www.spiegel.de/ausland/venezuela-parlament-und-armee-billigen-milliardenschweres-oel-abkommen-mit-den-usa-a-779cdcae-fae5-476a-b23f-88db4b6d7169#ref=rss)
-### augsburg
+* [https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york](https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss)
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### hauptbahnhof
+* [https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts](https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c#ref=rss)
+* [https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse](https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse-a-28a44ed1-e7b8-4e98-8531-1001d4b5d531#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen](https://www.spiegel.de/panorama/augsburg-explosion-am-hauptbahnhof-verletzt-mehrere-menschen-a-4e484588-cc54-4acf-af30-86cfcd54be30#ref=rss)
-### sardinen
+* [https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts](https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c#ref=rss)
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+### september
 
-* [https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware](https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware-a-d83d957f-8126-471b-9570-c9dc0231afbe#ref=rss)
-### klimawandel
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt-a-2a372a43-b23f-47d3-88c8-6607c9136e88#ref=rss)
+### glücksgefühlefestival
 
-* [https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware](https://www.spiegel.de/wirtschaft/service/sardinen-werden-durch-klimawandel-zur-mangelware-a-d83d957f-8126-471b-9570-c9dc0231afbe#ref=rss)
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+### alphaville
+
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+### ausgeladen
+
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete](https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss)
+### band
+
+* [https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen](https://www.spiegel.de/kultur/gluecksgefuehle-festival-alphaville-wegen-sorge-vor-politischer-aeusserung-ausgeladen-a-df336a3c-a2cd-4181-8fb9-175474da6837#ref=rss)
+### jean
+
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+### pierre
+
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+### kraemer
+
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers](https://www.spiegel.de/panorama/jean-pierre-jp-kraemer-der-tiefe-fall-eines-auto-und-tuning-influencers-a-4835fb03-0b3a-4585-8253-62e7ada6cb92#ref=rss)
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### ismael
+
+* [https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer](https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer-a-c55411b0-e98d-4816-a5d4-ae65fe05a025#ref=rss)
+### saibari
+
+* [https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer](https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer-a-c55411b0-e98d-4816-a5d4-ae65fe05a025#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer](https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer-a-c55411b0-e98d-4816-a5d4-ae65fe05a025#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs](https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer](https://www.spiegel.de/sport/ismael-saibari-bayern-muenchen-die-beruehrende-geschichte-hinter-seiner-rueckennummer-a-c55411b0-e98d-4816-a5d4-ae65fe05a025#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe](https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss)
+### dosbchef
+
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### fricke
+
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### nachfolge
+
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### schenderlein
+
+* [https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein](https://www.spiegel.de/politik/deutschland/kanzleramt-dosb-chef-fricke-draengt-merz-bei-nachfolge-von-schenderlein-a-53da4d75-9a8e-4181-b275-e5ed3bc7566f#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-muenze-mit-konterfei-des-us-praesidenten-kommt-in-umlauf](https://www.spiegel.de/ausland/donald-trump-muenze-mit-konterfei-des-us-praesidenten-kommt-in-umlauf-a-498832fa-82fb-4bec-b28a-b5f77c00d8f7#ref=rss)
+### münze
+
+* [https://www.spiegel.de/ausland/donald-trump-muenze-mit-konterfei-des-us-praesidenten-kommt-in-umlauf](https://www.spiegel.de/ausland/donald-trump-muenze-mit-konterfei-des-us-praesidenten-kommt-in-umlauf-a-498832fa-82fb-4bec-b28a-b5f77c00d8f7#ref=rss)
+### befürchten
+
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten-a-ac02d703-dc48-4f13-965a-6a298cca8a9b#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten-a-ac02d703-dc48-4f13-965a-6a298cca8a9b#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-menschen-bei-einem-afd-sieg-befuerchten-a-ac02d703-dc48-4f13-965a-6a298cca8a9b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte](https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte-a-87ae0bac-9e99-43af-899d-86bf722928b4#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte](https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte-a-87ae0bac-9e99-43af-899d-86bf722928b4#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+### redmann
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+### wahrscheinlich
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten](https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten-a-99abce11-761f-4e84-b489-73485ec018c7#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung](https://www.spiegel.de/panorama/justiz/brandenburg-innenminister-jan-redmann-vermutet-koordinierten-angriff-auf-stromversorgung-a-2382ff3e-13c8-4371-8f76-e3afa385d342#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### 1100
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+### 5000
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+### vermisste
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+### sturzflut
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### himalaja
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-krise-wackelt-die-landesregierung-in-thueringen](https://www.spiegel.de/politik/deutschland/bsw-krise-wackelt-die-landesregierung-in-thueringen-a-abeb0172-d665-4000-a43b-bbc61bb88ae8#ref=rss)
+### traf
+
+* [https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja](https://www.spiegel.de/ausland/nepal-mehr-als-1100-tote-und-5000-vermisste-nach-sturzflut-im-himalaja-a-aa6df3e7-c21c-4272-8ddf-72935f5b27ec#ref=rss)
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### spiegelkorrespondent
+
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+### per
+
+* [https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja](https://www.spiegel.de/ausland/nepal-spiegel-korrespondent-berichtet-ueber-schleppende-hilfe-im-himalaja-a-f3147f0a-6b01-4fff-83db-940fb90b8264#ref=rss)
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+### böhmermann
+
+* [https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse](https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse-a-28a44ed1-e7b8-4e98-8531-1001d4b5d531#ref=rss)
+### zeitung
+
+* [https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse](https://www.spiegel.de/kultur/rechtsstreit-zwischen-jan-boehmermann-und-berliner-zeitung-die-causa-saure-froschfresse-a-28a44ed1-e7b8-4e98-8531-1001d4b5d531#ref=rss)
+### könig
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/berlin-autohaus-koenig-meldet-insolvenz-an-a-afec8309-5c5c-4b92-9901-f64aab32ec45#ref=rss)
+### sabotageakte
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte](https://www.spiegel.de/politik/deutschland/news-des-tages-sabotageakte-wahl-in-sachsen-anhalt-russische-schattenflotte-a-87ae0bac-9e99-43af-899d-86bf722928b4#ref=rss)
+### senat
+
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
+### cyberangriff
+
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
+### direkt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen](https://www.spiegel.de/panorama/justiz/berlin-senat-warnt-beschaeftigte-nach-cyberangriff-vor-hackeranrufen-a-8f5f9793-dacf-4bfe-800c-c60663210345#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs](https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss)
+### rave
+
+* [https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf](https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss)
+### amoklauf
+
+* [https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf](https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf](https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe](https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+### katz
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas](https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete](https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss)
+### premier
+
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### clubs
+
+* [https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben](https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss)
+### autounfall
+
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### tiger
+
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### woods
+
+* [https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren](https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss)
+### kind
+
+* [https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete](https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck](https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss)
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe](https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe](https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss)
+### jugendstrafe
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe](https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss)
+### 150000
+
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### kilometern
+
+* [https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern](https://www.spiegel.de/mobilitaet/elektroautos-studie-zeigt-hohe-batterieleistung-auch-nach-150-000-kilometern-a-b2c2422c-1bca-4f01-af6b-08827b1816c8#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum](https://www.spiegel.de/panorama/justiz/stuttgart-frau-stirbt-wochen-nach-angriff-ihres-ehemanns-in-einkaufszentrum-a-e32f7d5e-5fc4-4613-b951-a820aeb3d16f#ref=rss)
 
