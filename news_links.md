@@ -6,411 +6,251 @@ tags: __no_header__
 
 ### sachsenanhalt
 
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie-a-abd8bdcf-7de6-43d2-a146-0fa66441d22c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau-a-c59f87a7-7c0f-4318-83c0-e00464e424f7#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen-a-6ce5d07e-c16c-4ebe-bc20-0219643efca6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis-a-751c8dde-32d0-45e7-8a8c-3ce8655d4cc0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-jetzt-stellt-die-spd-die-reformpolitik-infrage](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-jetzt-stellt-die-spd-die-reformpolitik-infrage-a-53cb7f00-7363-4ea8-8f16-370ba4ef8e22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung](https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung-a-50ac8f06-5885-4413-a0e1-9e660e84e9ce#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
-### landtagswahl
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung](https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung-a-50ac8f06-5885-4413-a0e1-9e660e84e9ce#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie-a-abd8bdcf-7de6-43d2-a146-0fa66441d22c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen-a-6ce5d07e-c16c-4ebe-bc20-0219643efca6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-jetzt-stellt-die-spd-die-reformpolitik-infrage](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-jetzt-stellt-die-spd-die-reformpolitik-infrage-a-53cb7f00-7363-4ea8-8f16-370ba4ef8e22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung](https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung-a-50ac8f06-5885-4413-a0e1-9e660e84e9ce#ref=rss)
+### nacht
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-* [https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif](https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif-a-712663d9-cfb6-4889-b8ba-f21739f77781#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen](https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen-a-db846be2-3e45-4aed-92ee-751ffbfb7e79#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen-a-c491a5b7-a14b-4712-a9be-5c4b0b384e47#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-umspannwerk-durch-feuer-beschaedigt-explosion-in-der-nacht](https://www.spiegel.de/panorama/justiz/berlin-umspannwerk-durch-feuer-beschaedigt-explosion-in-der-nacht-a-12027d4d-7702-4f3a-957d-1c9afc5877e1#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump-a-3e1eecd0-afee-4e91-8487-152bf1fd096a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an-a-15df989c-cd7b-4d6d-ae4f-38e10d786c45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+* [https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen](https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen-a-6f4440a8-c805-4ab1-b35d-aa0d6d012df8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+### nordsee
+
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+* [https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist](https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist-a-e5543fad-05bc-46fa-9e31-252129a9087e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump-a-3e1eecd0-afee-4e91-8487-152bf1fd096a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an-a-15df989c-cd7b-4d6d-ae4f-38e10d786c45#ref=rss)
-### cdu
+* [https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss](https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss-a-52eb537e-be6a-4ff1-b1d3-6918935d85c8#ref=rss)
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### gießen
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-### witkoff
+* [https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen](https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen-a-db846be2-3e45-4aed-92ee-751ffbfb7e79#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### kushner
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### 1
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+* [https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an](https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-### oasis
+* [https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss](https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss-a-52eb537e-be6a-4ff1-b1d3-6918935d85c8#ref=rss)
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### gefängnisse
 
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### sv
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge](https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge-a-303efbb0-30a4-4c86-95f2-36cb7cac636e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge](https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge-a-303efbb0-30a4-4c86-95f2-36cb7cac636e#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### attacken
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+* [https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an](https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe](https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe-a-f49e54e2-5de2-452d-b6d5-f6635384d3fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-in-deutschland-iw-prognostiziert-deutliche-verschaerfung-bis-2029](https://www.spiegel.de/wirtschaft/fachkraeftemangel-in-deutschland-iw-prognostiziert-deutliche-verschaerfung-bis-2029-a-9696fb4f-3d16-4e83-8fdb-9a3783b91268#ref=rss)
+### mann
 
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-* [https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute](https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute-a-315fe696-247f-420f-842a-ebe183cbf602#ref=rss)
-* [https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif](https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif-a-712663d9-cfb6-4889-b8ba-f21739f77781#ref=rss)
-### treffen
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-angehoerige-finden-jaeger-leblos-auf-hochsitz](https://www.spiegel.de/panorama/justiz/niedersachsen-angehoerige-finden-jaeger-leblos-auf-hochsitz-a-49452d34-7d78-4b28-b88b-bf5045390cb3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen-a-c491a5b7-a14b-4712-a9be-5c4b0b384e47#ref=rss)
+### kam
 
-* [https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren](https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren-a-aa0e99b1-226b-4ed7-a48b-ab36d82fcada#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### partei
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-angehoerige-finden-jaeger-leblos-auf-hochsitz](https://www.spiegel.de/panorama/justiz/niedersachsen-angehoerige-finden-jaeger-leblos-auf-hochsitz-a-49452d34-7d78-4b28-b88b-bf5045390cb3#ref=rss)
+* [https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist](https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist-a-e5543fad-05bc-46fa-9e31-252129a9087e#ref=rss)
+### findet
 
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### grönland
+* [https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen](https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen-a-db846be2-3e45-4aed-92ee-751ffbfb7e79#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-neun-weitere-selbst-gebaute-sprengvorrichtungen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-neun-weitere-selbst-gebaute-sprengvorrichtungen-a-d97bb062-8b85-4291-92b8-8b7e02b6a7b4#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump-a-3e1eecd0-afee-4e91-8487-152bf1fd096a#ref=rss)
-### besuch
+* [https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen](https://www.spiegel.de/panorama/justiz/giessen-19-jaehriger-stellt-sich-blutverschmiert-nach-toedlicher-messerattacke-in-giessen-a-db846be2-3e45-4aed-92ee-751ffbfb7e79#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen-a-c491a5b7-a14b-4712-a9be-5c4b0b384e47#ref=rss)
+### helgoland
 
-* [https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump-a-3e1eecd0-afee-4e91-8487-152bf1fd096a#ref=rss)
-### zeichen
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-ursula-von-der-leyen-zu-zweitaegigem-besuch-eingetroffen-zeichen-gegen-donald-trump-a-3e1eecd0-afee-4e91-8487-152bf1fd096a#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer](https://www.spiegel.de/sport/fussball/bundesliga-sieg-gegen-frankfurt-macht-den-fc-augsburg-zum-tabellenfuehrer-a-3ef9700f-6fae-45b0-bac7-0973786f4b52#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-### tag
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie-a-abd8bdcf-7de6-43d2-a146-0fa66441d22c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-### erklären
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-sven-schulze-sieht-in-afd-sieg-zeichen-fuer-demokratie-a-abd8bdcf-7de6-43d2-a146-0fa66441d22c#ref=rss)
-* [https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges](https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss)
-### stürzt
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote](https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote-a-67aa57cb-4bd3-43e4-8574-e95205ae83d4#ref=rss)
-### absoluter
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-### klar
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-cdu-stuerzt-ab-afd-kratzt-an-absoluter-mehrheit-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
-### briefwahl
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau-a-c59f87a7-7c0f-4318-83c0-e00464e424f7#ref=rss)
-### wahlbeobachter
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau-a-c59f87a7-7c0f-4318-83c0-e00464e424f7#ref=rss)
-### dessau
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-vorwuerfen-bei-briefwahl-wahlbeobachter-begleiten-auszaehlung-in-dessau-a-c59f87a7-7c0f-4318-83c0-e00464e424f7#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges](https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf](https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### hochrechnungen
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an-a-15df989c-cd7b-4d6d-ae4f-38e10d786c45#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim](https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim-a-4757864e-c11e-4c12-9a2c-9b35000316c3#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit](https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-erste-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen](https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-gemeinden-und-wahlkreisen-a-6ce5d07e-c16c-4ebe-bc20-0219643efca6#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### kimi
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-### antonelli
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-### aufholjagd
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-### monza
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza](https://www.spiegel.de/sport/formel1/formel-1-in-italien-kimi-antonelli-gelingt-aufholjagd-von-19-auf-1-in-monza-a-668c0287-e47b-4c33-aa2f-7ed8202b2368#ref=rss)
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat-a-26337459-bf1e-435a-b1e5-f6bc94c4bb38#ref=rss)
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### wim
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat-a-26337459-bf1e-435a-b1e5-f6bc94c4bb38#ref=rss)
-### wenders
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat-a-26337459-bf1e-435a-b1e5-f6bc94c4bb38#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat-a-26337459-bf1e-435a-b1e5-f6bc94c4bb38#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat](https://www.spiegel.de/kultur/kino/filmfestspiele-in-venedig-wim-wenders-wehrt-sich-nach-berlinale-eklat-a-26337459-bf1e-435a-b1e5-f6bc94c4bb38#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### don’t
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### look
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### back
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### anger
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### doku
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### taugt
-
-* [https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei](https://www.spiegel.de/kultur/rockstargefuehle-es-sind-ungefaehr-drei-aber-hass-und-wut-sind-dabei-a-4151d34a-facd-43b0-b3d0-3e630a6c7828#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-### 05
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05](https://www.spiegel.de/sport/fussball/bundesliga-hsv-erlebt-heim-debakel-gegen-mainz-05-a-779fdc7b-08a8-4b6a-91e1-84fb52acf15b#ref=rss)
-### hambacher
-
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-### forst
-
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-### großaufgebot
-
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-### bundesländern
-
-* [https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur](https://www.spiegel.de/panorama/justiz/hambacher-forst-polizei-sucht-mit-grossaufgebot-nach-strom-saboteur-a-a8ea4fba-ad6e-4bd8-bb42-a26bcf9ded4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### lolly
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### streek
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### bereist
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### oldtimerwohnwagen
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### musikfestivals
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### leben
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs](https://www.spiegel.de/reise/camping-lolly-streek-bereist-im-oldtimer-wohnwagen-musikfestivals-ein-leben-unterwegs-a-83fa7789-5c96-4062-9932-c195989fbbc4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-### ägyptische
-
-* [https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt](https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt-a-a2d2ab0a-4c0c-4fd3-985f-a3417c86828e#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt](https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt-a-a2d2ab0a-4c0c-4fd3-985f-a3417c86828e#ref=rss)
-### khalifa
-
-* [https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt](https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt-a-a2d2ab0a-4c0c-4fd3-985f-a3417c86828e#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt](https://www.spiegel.de/ausland/aegyptische-tv-moderatorin-sarah-khalifa-zum-tode-verurteilt-a-a2d2ab0a-4c0c-4fd3-985f-a3417c86828e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### jp
-
-* [https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren](https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren-a-aa0e99b1-226b-4ed7-a48b-ab36d82fcada#ref=rss)
-### fans
-
-* [https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren](https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren-a-aa0e99b1-226b-4ed7-a48b-ab36d82fcada#ref=rss)
-### weit
-
-* [https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren](https://www.spiegel.de/netzwelt/web/jp-kraemer-warum-fans-zu-ihm-halten-und-sogar-zu-einer-demo-fuer-ihn-fahren-a-aa0e99b1-226b-4ed7-a48b-ab36d82fcada#ref=rss)
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-### mau
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-### wendezeit
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-### osten
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-### stärkt
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt](https://www.spiegel.de/geschichte/afd-steffen-mau-erklaert-warum-die-wendezeit-die-partei-im-osten-bis-heute-staerkt-a-52d993f7-b482-4544-941f-d0836a5e4966#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm](https://www.spiegel.de/wissenschaft/helgoland-besonders-betroffen-nordsee-und-ostsee-viel-zu-warm-a-68934559-0af7-4497-8614-d2b5ecdcde6a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen](https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen-a-f5153207-4846-4308-941e-d2a1e9cdbaac#ref=rss)
 ### thüringen
 
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### katja
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen](https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen-a-f5153207-4846-4308-941e-d2a1e9cdbaac#ref=rss)
+### partei
 
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### wolf
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen](https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen-a-f5153207-4846-4308-941e-d2a1e9cdbaac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis-a-751c8dde-32d0-45e7-8a8c-3ce8655d4cc0#ref=rss)
+### landtag
 
-* [https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei](https://www.spiegel.de/politik/thueringen-ex-bsw-landeschefin-katja-wolf-will-schnelle-gruendung-einer-neuen-partei-a-13c57ba2-84f9-4b04-acd4-a63b1a6884c2#ref=rss)
-### prinz
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen](https://www.spiegel.de/politik/deutschland/thueringen-bsw-landtagsfraktion-will-sich-aufloesen-a-f5153207-4846-4308-941e-d2a1e9cdbaac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+### erste
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### william
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-eroeffnen-erste-gemeinsame-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-eroeffnen-erste-gemeinsame-strassenbruecke-a-6aec712e-f6e8-4638-ad37-b1dd49c12429#ref=rss)
+### straßenbrücke
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### könig
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-eroeffnen-erste-gemeinsame-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-eroeffnen-erste-gemeinsame-strassenbruecke-a-6aec712e-f6e8-4638-ad37-b1dd49c12429#ref=rss)
+### berlinneukölln
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### charles
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen-a-c491a5b7-a14b-4712-a9be-5c4b0b384e47#ref=rss)
+### sonnenallee
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### iii
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo](https://www.spiegel.de/panorama/leute/prinz-william-vertritt-koenig-charles-iii-bei-beerdigung-von-harald-v-in-oslo-a-c53dc32c-6789-454a-8f5b-22bfa6061474#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges](https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss)
-### lawrow
-
-* [https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges](https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges](https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss)
-* [https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif](https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif-a-712663d9-cfb6-4889-b8ba-f21739f77781#ref=rss)
-### anak
-
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### krakatau
-
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### flugverkehr
-
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### flughäfen
-
-* [https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm](https://www.spiegel.de/reise/indonesien-vulkanausbruch-legt-flugverkehr-an-sechs-flughaefen-lahm-a-e10bd847-b099-4629-b999-1f7dc8c53c60#ref=rss)
-### steve
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### jared
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an-a-15df989c-cd7b-4d6d-ae4f-38e10d786c45#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an](https://www.spiegel.de/sport/fussball/gianni-infantino-fifa-praesident-kuendigt-kandidatur-fuer-wiederwahl-2027-an-a-15df989c-cd7b-4d6d-ae4f-38e10d786c45#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute](https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute-a-315fe696-247f-420f-842a-ebe183cbf602#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute](https://www.spiegel.de/familie/leihmutterschaft-die-eine-trug-die-kinder-der-anderen-aus-wie-geht-es-den-zwei-frauen-heute-a-315fe696-247f-420f-842a-ebe183cbf602#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### elversberg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht](https://www.spiegel.de/sport/fussball/bundesliga-wie-der-aufsteiger-sv-elversberg-die-liga-ueberrascht-a-da089a43-c333-412e-bf51-3a8ab547ae2f#ref=rss)
-### insel
-
-* [https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote](https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote-a-67aa57cb-4bd3-43e4-8574-e95205ae83d4#ref=rss)
-### fogo
-
-* [https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote](https://www.spiegel.de/panorama/kap-verde-ausflugsbus-mit-schuelern-stuerzt-von-klippe-auf-insel-fogo-25-tote-a-67aa57cb-4bd3-43e4-8574-e95205ae83d4#ref=rss)
-### glücksgefühlefestival
-
-* [https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim](https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim-a-4757864e-c11e-4c12-9a2c-9b35000316c3#ref=rss)
-### nationalhymne
-
-* [https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim](https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-alphaville-song-wird-zur-nationalhymne-in-hockenheim-a-4757864e-c11e-4c12-9a2c-9b35000316c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-27-jaehriger-auf-sonnenallee-erschossen-a-c491a5b7-a14b-4712-a9be-5c4b0b384e47#ref=rss)
 ### sachsen
 
-* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss)
-### gastkämpfer
+* [https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-neun-weitere-selbst-gebaute-sprengvorrichtungen](https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-neun-weitere-selbst-gebaute-sprengvorrichtungen-a-d97bb062-8b85-4291-92b8-8b7e02b6a7b4#ref=rss)
+### osnabrück
 
-* [https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif](https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif-a-712663d9-cfb6-4889-b8ba-f21739f77781#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck](https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck-a-06787c69-d433-4f20-96b6-f47dd6438511#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck](https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck-a-06787c69-d433-4f20-96b6-f47dd6438511#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-zukuenftig-schon-freitags-in-der-ard-mediathek-fuer-registrierte-nutzer](https://www.spiegel.de/kultur/tv/tatort-zukuenftig-schon-freitags-in-der-ard-mediathek-fuer-registrierte-nutzer-a-dde615b8-cf48-45f1-8293-5f7568648fe1#ref=rss)
+### israel
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck](https://www.spiegel.de/wirtschaft/volkswagen-verkauft-werk-in-osnabrueck-a-06787c69-d433-4f20-96b6-f47dd6438511#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen](https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen-a-6f4440a8-c805-4ab1-b35d-aa0d6d012df8#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen](https://www.spiegel.de/panorama/vulkanausbruch-in-indonesien-wichtige-flughaefen-bleiben-geschlossen-a-6f4440a8-c805-4ab1-b35d-aa0d6d012df8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss)
+### umspannwerk
+
+* [https://www.spiegel.de/panorama/justiz/berlin-umspannwerk-durch-feuer-beschaedigt-explosion-in-der-nacht](https://www.spiegel.de/panorama/justiz/berlin-umspannwerk-durch-feuer-beschaedigt-explosion-in-der-nacht-a-12027d4d-7702-4f3a-957d-1c9afc5877e1#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### reform
+
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+### uk
+
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-reform-uk-grenzt-sich-von-der-afd-ab-was-plant-nigel-farage-a-ec3ae6f2-cb51-448e-91aa-0beef82acc17#ref=rss)
+* [https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist](https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist-a-e5543fad-05bc-46fa-9e31-252129a9087e#ref=rss)
+### ulrich
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+### siegmund
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ulrich-siegmund-nennt-stabile-mehrheit-fuer-ministerpraesidentenwahl-heute-ueberhaupt-nicht-absehbar-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss](https://www.spiegel.de/ausland/usa-donald-trump-provoziert-mit-new-america-vorstoss-a-52eb537e-be6a-4ff1-b1d3-6918935d85c8#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+### handys
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-tausende-handys-in-gefaengnisse-geschmuggelt-a-25488505-1896-4ef7-a8ac-a67c6d6500e5#ref=rss)
+### miami
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### ums
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote](https://www.spiegel.de/ausland/miami-amazon-frachtflugzeug-schiesst-ueber-landebahn-hinaus-fuenf-tote-a-8b189210-70d6-427f-b082-fafd60836827#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### registrierte
+
+* [https://www.spiegel.de/kultur/tv/tatort-zukuenftig-schon-freitags-in-der-ard-mediathek-fuer-registrierte-nutzer](https://www.spiegel.de/kultur/tv/tatort-zukuenftig-schon-freitags-in-der-ard-mediathek-fuer-registrierte-nutzer-a-dde615b8-cf48-45f1-8293-5f7568648fe1#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden](https://www.spiegel.de/ausland/libanon-mindestens-elf-tote-bei-israelischen-luftangriffen-im-sueden-a-ed4a7092-3624-4254-b4fd-08b085c8e3e7#ref=rss)
+### fußballerinnen
+
+* [https://www.spiegel.de/sport/fussball/iran-fussballerinnen-erklaeren-schweigen-bei-hymne-als-protest](https://www.spiegel.de/sport/fussball/iran-fussballerinnen-erklaeren-schweigen-bei-hymne-als-protest-a-aab994b0-3182-4e9d-80ca-2f66ecb06ba2#ref=rss)
+### protest
+
+* [https://www.spiegel.de/sport/fussball/iran-fussballerinnen-erklaeren-schweigen-bei-hymne-als-protest](https://www.spiegel.de/sport/fussball/iran-fussballerinnen-erklaeren-schweigen-bei-hymne-als-protest-a-aab994b0-3182-4e9d-80ca-2f66ecb06ba2#ref=rss)
+### falklandinseln
+
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### springt
+
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### javier
+
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei](https://www.spiegel.de/ausland/falkland-inseln-donald-trump-springt-javier-milei-bei-a-d754a5cd-ab9c-4f21-a78c-818d6286e18b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge](https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge-a-303efbb0-30a4-4c86-95f2-36cb7cac636e#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis-a-751c8dde-32d0-45e7-8a8c-3ce8655d4cc0#ref=rss)
+### starkes
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-die-gruenen-holen-im-osten-ein-rekordergebnis-a-751c8dde-32d0-45e7-8a8c-3ce8655d4cc0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sofie-royer-schon-wieder-ein-starkes-popalbum-warum-bleibt-der-durchbruch-aus](https://www.spiegel.de/kultur/musik/sofie-royer-schon-wieder-ein-starkes-popalbum-warum-bleibt-der-durchbruch-aus-a-c3cdb328-b0c2-4a96-bd2f-35dca67a5dbe#ref=rss)
+### kajakfahrer
+
+* [https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist](https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist-a-e5543fad-05bc-46fa-9e31-252129a9087e#ref=rss)
+### juist
+
+* [https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist](https://www.spiegel.de/panorama/nordsee-hubschrauberbesatzung-rettet-kajakfahrer-vor-juist-a-e5543fad-05bc-46fa-9e31-252129a9087e#ref=rss)
+### kallas
+
+* [https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe](https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe-a-f49e54e2-5de2-452d-b6d5-f6635384d3fa#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an](https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss)
+### siedleraußenposten
+
+* [https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an](https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss)
+### beleidigungen
+
+* [https://www.spiegel.de/karriere/karriere-coaching-wie-kann-man-am-besten-mit-beleidigungen-umgehen](https://www.spiegel.de/karriere/karriere-coaching-wie-kann-man-am-besten-mit-beleidigungen-umgehen-a-e56b2aac-af7e-412a-8c05-be49f641f5dc#ref=rss)
 
