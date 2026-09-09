@@ -4,356 +4,356 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sachsenanhalt
-
-* [https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit](https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit-a-3dd78495-e71d-45c3-b489-aebd4049605b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss)
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden](https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus-a-4a15659a-f011-4763-a448-1882ac6b995f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm](https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm-a-456c5c5f-5666-4d95-8974-de24dfb52b32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet](https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet-a-d06272e2-ac8f-4b8b-a117-314285ed39ba#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft](https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft-a-7c592b73-e492-4a5b-8106-551b87f0fb95#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt](https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt-a-9480eff5-05a0-4522-9dc1-b31456606c5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration](https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration-a-6d5ae63a-6886-4619-b7f7-3be7d2431851#ref=rss)
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spaete-vaterschaft-was-ueber-risiken-fuer-schwangerschaft-und-kind-bekannt-ist](https://www.spiegel.de/wissenschaft/spaete-vaterschaft-was-ueber-risiken-fuer-schwangerschaft-und-kind-bekannt-ist-a-18d3f433-d08d-462a-b54c-67db43ae11a0#ref=rss)
-### niederlanden
-
-* [https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum](https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum-a-ad6e9d49-b78a-493b-a86a-a9ccb3b432ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm](https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm-a-456c5c5f-5666-4d95-8974-de24dfb52b32#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe](https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe-a-49b64bca-b650-41eb-839d-06a426da8c21#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden](https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe](https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe-a-49b64bca-b650-41eb-839d-06a426da8c21#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum](https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum-a-ad6e9d49-b78a-493b-a86a-a9ccb3b432ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt](https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt-a-9480eff5-05a0-4522-9dc1-b31456606c5d#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft](https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft-a-7c592b73-e492-4a5b-8106-551b87f0fb95#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl](https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl-a-e3dacdad-5f1d-429d-adc0-0088638bdc0b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus-a-4a15659a-f011-4763-a448-1882ac6b995f#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/afd-in-sachsen-anhalt-wie-unternehmer-auf-den-wahlsieg-reagieren](https://www.spiegel.de/wirtschaft/unternehmen/afd-in-sachsen-anhalt-wie-unternehmer-auf-den-wahlsieg-reagieren-a-be877aa5-e713-49b4-894b-64f757329bf8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet-a-7382619e-5900-4a3e-9f30-5f6ffff15e27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage-a-ea2f768e-5a04-4dad-9a36-62b2a9a60070#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden](https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm](https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm-a-456c5c5f-5666-4d95-8974-de24dfb52b32#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/afd-in-sachsen-anhalt-wie-unternehmer-auf-den-wahlsieg-reagieren](https://www.spiegel.de/wirtschaft/unternehmen/afd-in-sachsen-anhalt-wie-unternehmer-auf-den-wahlsieg-reagieren-a-be877aa5-e713-49b4-894b-64f757329bf8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet-a-7382619e-5900-4a3e-9f30-5f6ffff15e27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage-a-ea2f768e-5a04-4dad-9a36-62b2a9a60070#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### zahl
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden](https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden-a-bbcebb2b-aa79-46bf-ac31-64b031f1fab4#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### opfer
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft](https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft-a-7c592b73-e492-4a5b-8106-551b87f0fb95#ref=rss)
-### ich
-
-* [https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe](https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe-a-49b64bca-b650-41eb-839d-06a426da8c21#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden](https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss)
-### maurizio
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-### cattelan
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss)
-### fegefeuer
-
-* [https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben](https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss)
-### groß
-
-* [https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit](https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit-a-3dd78495-e71d-45c3-b489-aebd4049605b#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### ort
-
-* [https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit](https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit-a-3dd78495-e71d-45c3-b489-aebd4049605b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen](https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen-a-031b4713-763b-4c5a-9b9f-fd8f221d6f0f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-* [https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren](https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren-a-c05c0cbf-229d-47ab-95fe-beffa587c946#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet](https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet-a-d06272e2-ac8f-4b8b-a117-314285ed39ba#ref=rss)
-### seite
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-### sex
-
-* [https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum](https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum-a-ad6e9d49-b78a-493b-a86a-a9ccb3b432ee#ref=rss)
-### pisaschock
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft](https://www.spiegel.de/panorama/bildung/pisa-ergebnisse-studienleiter-erklaert-was-in-den-schulen-in-deutschland-falsch-laeuft-a-7c592b73-e492-4a5b-8106-551b87f0fb95#ref=rss)
-### fehlverhalten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss)
-* [https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration](https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration-a-6d5ae63a-6886-4619-b7f7-3be7d2431851#ref=rss)
-### professor
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### moltschanow
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### passagiere
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### schiff
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland](https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden](https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss)
-### kandidaten
-
-* [https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl](https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl-a-e3dacdad-5f1d-429d-adc0-0088638bdc0b#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl](https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl-a-e3dacdad-5f1d-429d-adc0-0088638bdc0b#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### nepal
-
-* [https://www.spiegel.de/wissenschaft/nepal-gletscher-war-vor-bergsturz-aussergewoehnlich-warm](https://www.spiegel.de/wissenschaft/nepal-gletscher-war-vor-bergsturz-aussergewoehnlich-warm-a-227add56-ae2d-4cc0-8b23-2c15bc67f169#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen](https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen-a-031b4713-763b-4c5a-9b9f-fd8f221d6f0f#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden](https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen](https://www.spiegel.de/ausland/israel-will-britisches-konsulat-in-ostjerusalem-schliessen-reaktion-auf-wirtschaftssanktionen-a-031b4713-763b-4c5a-9b9f-fd8f221d6f0f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt](https://www.spiegel.de/wirtschaft/schweiz-ehemaliger-spitzenbankier-pierre-mirabaud-wegen-bestechung-und-geldwaesche-verurteilt-a-9480eff5-05a0-4522-9dc1-b31456606c5d#ref=rss)
-### sven
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss)
-### schulze
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
+* [https://www.spiegel.de/panorama/friedrichshafen-vierjaehrige-auf-gleise-gefuehrt-mutter-vor-gericht](https://www.spiegel.de/panorama/friedrichshafen-vierjaehrige-auf-gleise-gefuehrt-mutter-vor-gericht-a-06370b7f-9ab4-4f0a-b5ac-bce4fa273056#ref=rss)
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
 ### kinder
 
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### sorgen
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen](https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### sagt
+* [https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden](https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden-a-bbcebb2b-aa79-46bf-ac31-64b031f1fab4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### ich
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-### endlich
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden](https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration](https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration-a-6d5ae63a-6886-4619-b7f7-3be7d2431851#ref=rss)
-### grenze
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+### 7
 
-* [https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration](https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration-a-6d5ae63a-6886-4619-b7f7-3be7d2431851#ref=rss)
-* [https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren](https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren-a-c05c0cbf-229d-47ab-95fe-beffa587c946#ref=rss)
-### streubomben
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### oktober
 
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### christian
 
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up](https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up-a-223249a4-e0dd-4024-b107-648e0e70f41d#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up](https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up-a-223249a4-e0dd-4024-b107-648e0e70f41d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet-a-7382619e-5900-4a3e-9f30-5f6ffff15e27#ref=rss)
+### generaldebatte
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche](https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+### haustiere
+
+* [https://www.spiegel.de/wissenschaft/trauer-um-haustiere-wie-wird-man-mit-dem-tod-von-hund-katze-oder-kaninchen-fertig](https://www.spiegel.de/wissenschaft/trauer-um-haustiere-wie-wird-man-mit-dem-tod-von-hund-katze-oder-kaninchen-fertig-a-348221bb-80fb-4f97-b719-398f606e11ad#ref=rss)
+### reißt
+
+* [https://www.spiegel.de/wissenschaft/trauer-um-haustiere-wie-wird-man-mit-dem-tod-von-hund-katze-oder-kaninchen-fertig](https://www.spiegel.de/wissenschaft/trauer-um-haustiere-wie-wird-man-mit-dem-tod-von-hund-katze-oder-kaninchen-fertig-a-348221bb-80fb-4f97-b719-398f606e11ad#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage-a-ea2f768e-5a04-4dad-9a36-62b2a9a60070#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis](https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern](https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern](https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss)
+### handelskrieg
+
+* [https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern](https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern](https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss)
+* [https://www.spiegel.de/kultur/smithsonian-chef-lonnie-bunch-kuendigt-ruecktritt-an](https://www.spiegel.de/kultur/smithsonian-chef-lonnie-bunch-kuendigt-ruecktritt-an-a-b46c82ca-b5cb-4547-856f-65e490932c42#ref=rss)
+### premier
+
+* [https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern](https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+### gwyneth
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+### paltrow
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+### brad
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+### pitt
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick](https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss)
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+### haaretz
+
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
 ### bericht
 
-* [https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen](https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss)
-### katze
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-haaretz-wegen-bericht-ueber-hamas-attacke-am-7-oktober-verklagen-a-d40fd96f-99a2-4607-988b-6158ff599a14#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden](https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss)
-### raststätte
-
-* [https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden](https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-raststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-forscher-wirft-wegen-sicherheitsbedenken-hin](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-forscher-wirft-wegen-sicherheitsbedenken-hin-a-0b838fbc-53de-4607-82ca-9dbd9169f260#ref=rss)
 ### folgen
 
-* [https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden](https://www.spiegel.de/netzwelt/web/hackerangriff-in-berlin-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss)
-* [https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren](https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren-a-c05c0cbf-229d-47ab-95fe-beffa587c946#ref=rss)
-### ebola
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-forscher-wirft-wegen-sicherheitsbedenken-hin](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-forscher-wirft-wegen-sicherheitsbedenken-hin-a-0b838fbc-53de-4607-82ca-9dbd9169f260#ref=rss)
+* [https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist-a-2ebdf33c-00a9-42f2-800d-3dc86e483441#ref=rss)
+### smithsonian
 
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### demokratischen
+* [https://www.spiegel.de/kultur/smithsonian-chef-lonnie-bunch-kuendigt-ruecktritt-an](https://www.spiegel.de/kultur/smithsonian-chef-lonnie-bunch-kuendigt-ruecktritt-an-a-b46c82ca-b5cb-4547-856f-65e490932c42#ref=rss)
+### grund
 
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### republik
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-eine-schulklasse-ueber-den-afd-wahlsieg-streitet-a-7382619e-5900-4a3e-9f30-5f6ffff15e27#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### kongo
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
 
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-### warnt
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten](https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet](https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet-a-d06272e2-ac8f-4b8b-a117-314285ed39ba#ref=rss)
-### prinz
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### frank
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### george
+* [https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen](https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen-a-23fa02ed-a021-47f8-a1af-b5b4e43d16c7#ref=rss)
+### henning
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### eton
+* [https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen](https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen-a-23fa02ed-a021-47f8-a1af-b5b4e43d16c7#ref=rss)
+### unklar
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### college
+* [https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen](https://www.spiegel.de/politik/deutschland/frank-henning-spd-landtagsabgeordneter-beleidigte-journalistin-nun-zieht-er-konsequenzen-a-23fa02ed-a021-47f8-a1af-b5b4e43d16c7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist-a-2ebdf33c-00a9-42f2-800d-3dc86e483441#ref=rss)
+### lindsay
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### william
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+### clancy
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### kate
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+### jurymitglieder
 
-* [https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat](https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss)
-### mittwoch
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+### geben
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm](https://www.spiegel.de/wirtschaft/unternehmen/niederlanden-streik-legt-bahnverkehr-am-mittwoch-lahm-a-456c5c5f-5666-4d95-8974-de24dfb52b32#ref=rss)
-### liam
+* [https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess](https://www.spiegel.de/ausland/lindsay-clancy-jurymitglieder-geben-einblicke-in-gescheiterten-prozess-a-0664d7ec-3f52-4db5-b744-9a507ff7c2db#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### känguru
 
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### noel
+* [https://www.spiegel.de/panorama/kirchheim-am-ries-kaenguru-entkommt-aus-privatgehege-und-huepft-durch-schwaebische-alb](https://www.spiegel.de/panorama/kirchheim-am-ries-kaenguru-entkommt-aus-privatgehege-und-huepft-durch-schwaebische-alb-a-22e45cf5-d143-4fb9-b2eb-234979965b1a#ref=rss)
+### alb
 
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### gallagher
+* [https://www.spiegel.de/panorama/kirchheim-am-ries-kaenguru-entkommt-aus-privatgehege-und-huepft-durch-schwaebische-alb](https://www.spiegel.de/panorama/kirchheim-am-ries-kaenguru-entkommt-aus-privatgehege-und-huepft-durch-schwaebische-alb-a-22e45cf5-d143-4fb9-b2eb-234979965b1a#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### london
+* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-erst-die-niederlage-dann-die-selbstdemontage-a-ea2f768e-5a04-4dad-9a36-62b2a9a60070#ref=rss)
+### attackiert
 
-* [https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf](https://www.spiegel.de/panorama/leute/oasis-kinder-von-liam-und-noel-gallagher-treten-gemeinsam-bei-filmpremiere-in-london-auf-a-2f2f8483-da03-4ea6-8b93-dadc304c994a#ref=rss)
-### angela
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-### ki
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-### ehemaligen
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### defensiv
 
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-* [https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren](https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren-a-c05c0cbf-229d-47ab-95fe-beffa587c946#ref=rss)
-### eigene
+* [https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv](https://www.spiegel.de/politik/deutschland/bundestag-afd-attackiert-regierung-kanzler-friedrich-merz-reagiert-defensiv-a-62e901c6-8df2-40c1-aed7-d229329e55d3#ref=rss)
+### offenbach
 
-* [https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen](https://www.spiegel.de/netzwelt/web/angela-merkel-ueber-ki-das-leben-mit-chatbot-besprechen-um-gottes-willen-a-7a07af3d-b139-4d27-a1aa-355696672c8a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus-a-4a15659a-f011-4763-a448-1882ac6b995f#ref=rss)
-### steffen
+* [https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden](https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden-a-bbcebb2b-aa79-46bf-ac31-64b031f1fab4#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus-a-4a15659a-f011-4763-a448-1882ac6b995f#ref=rss)
-### krach
+* [https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden](https://www.spiegel.de/mobilitaet/kfz-schadenbilanz-offenbach-gelsenkirchen-und-berlin-sind-spitzenreiter-bei-autoschaeden-a-bbcebb2b-aa79-46bf-ac31-64b031f1fab4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up](https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up-a-223249a4-e0dd-4024-b107-648e0e70f41d#ref=rss)
+### maria
 
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-spd-kandidat-steffen-krach-hat-kaum-eine-chance-und-teilt-gegen-die-eigenen-genossen-aus-a-4a15659a-f011-4763-a448-1882ac6b995f#ref=rss)
-### regierung
+* [https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar](https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar-a-4006b0b9-326a-4628-a24b-165513b443f0#ref=rss)
+### furtwängler
 
-* [https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren](https://www.spiegel.de/ausland/tschechien-marode-giftfaesser-entdeckt-regierung-will-ehemaligen-truppenuebungsplatz-dekontaminieren-a-c05c0cbf-229d-47ab-95fe-beffa587c946#ref=rss)
-### basketballwm
+* [https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar](https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar-a-4006b0b9-326a-4628-a24b-165513b443f0#ref=rss)
+### tatortkommissarin
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### zhang
+* [https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar](https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar-a-4006b0b9-326a-4628-a24b-165513b443f0#ref=rss)
+### 60
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### ziyu
+* [https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar](https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar-a-4006b0b9-326a-4628-a24b-165513b443f0#ref=rss)
+### frühere
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### sehr
+* [https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar](https://www.spiegel.de/panorama/leute/maria-furtwaengler-tatort-kommissarin-wird-60-und-ist-ihrem-koerper-dankbar-a-4006b0b9-326a-4628-a24b-165513b443f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up](https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up-a-223249a4-e0dd-4024-b107-648e0e70f41d#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-### weit
+* [https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up](https://www.spiegel.de/wirtschaft/christian-lindner-frueherer-finanzminister-investiert-in-steuer-start-up-a-223249a4-e0dd-4024-b107-648e0e70f41d#ref=rss)
+### lucia
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-zhang-ziyu-wird-die-groesste-auch-die-beste-a-a74434e5-2dc6-4ec3-9101-f190f5ac9934#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### šišić
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### gewinnerin
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### miss
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### austria
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### 22
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben](https://www.spiegel.de/panorama/lucia-sisic-gewinnerin-von-miss-austria-mit-22-jahren-gestorben-a-3ae95c97-422e-48d3-bf49-32e005773f79#ref=rss)
+### lars
+
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+* [https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung](https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung-a-10816634-f1f9-493c-a1e9-81163df23bb8#ref=rss)
+### spdchef
+
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband](https://www.spiegel.de/panorama/leute/lars-klingbeil-das-mit-meiner-fussballer-karriere-wird-nichts-mehr-spd-chef-reisst-sich-kreuzband-a-f4a00366-b19c-46d6-b58c-70197690eaee#ref=rss)
+### paracetamol
+
+* [https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist-a-2ebdf33c-00a9-42f2-800d-3dc86e483441#ref=rss)
 ### schwangerschaft
 
-* [https://www.spiegel.de/wissenschaft/spaete-vaterschaft-was-ueber-risiken-fuer-schwangerschaft-und-kind-bekannt-ist](https://www.spiegel.de/wissenschaft/spaete-vaterschaft-was-ueber-risiken-fuer-schwangerschaft-und-kind-bekannt-ist-a-18d3f433-d08d-462a-b54c-67db43ae11a0#ref=rss)
-### parteien
+* [https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist-a-2ebdf33c-00a9-42f2-800d-3dc86e483441#ref=rss)
+### verbindung
 
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel](https://www.spiegel.de/politik/deutschland/afd-erfolg-in-sachsen-anhalt-die-waehler-rechtspopulistischer-parteien-verzeihen-relativ-viel-a-db027058-873e-4ed9-8276-28a44d971b50#ref=rss)
-### chinaschock
+* [https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/paracetamol-in-der-schwangerschaft-was-ueber-moegliche-folgen-bekannt-ist-a-2ebdf33c-00a9-42f2-800d-3dc86e483441#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet](https://www.spiegel.de/wirtschaft/deutschland-was-der-china-schock-fuer-den-industriellen-kern-bedeutet-a-d06272e2-ac8f-4b8b-a117-314285ed39ba#ref=rss)
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### 15
+
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne](https://www.spiegel.de/familie/mutter-ich-liebe-meine-kinder-aber-jetzt-denke-ich-an-mich-elternkolumne-a-87b3bb5c-a562-483c-855b-a461d5445a48#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### olga
+
+* [https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen](https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen-a-e55d22f6-dd0a-47b3-8da3-b7867281bc69#ref=rss)
+### großfürstin
+
+* [https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen](https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen-a-e55d22f6-dd0a-47b3-8da3-b7867281bc69#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen](https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen-a-e55d22f6-dd0a-47b3-8da3-b7867281bc69#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen](https://www.spiegel.de/geschichte/mittelalterliche-herrscherin-olga-von-kyjiw-sie-strahlte-wie-eine-perle-im-schlamm-unter-den-unglaeubigen-a-e55d22f6-dd0a-47b3-8da3-b7867281bc69#ref=rss)
+### us
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### ben
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### shelton
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus](https://www.spiegel.de/sport/tennis/us-open-ben-shelton-wirft-titelverteidiger-carlos-alcaraz-raus-a-8a8ce7e4-1114-40a2-9fb4-c384f7b4743f#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### lehrte
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+### rund
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-fahrt-zwischen-berlin-und-hannover-dauert-bis-ende-2027-80-minuten-laenger-a-4865a197-c608-4fb4-896f-4f3a85c9dbcb#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### chris
+
+* [https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung](https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung-a-10816634-f1f9-493c-a1e9-81163df23bb8#ref=rss)
+### rock
+
+* [https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung](https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung-a-10816634-f1f9-493c-a1e9-81163df23bb8#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung](https://www.spiegel.de/kultur/kino/chris-rock-rueckkehr-zu-den-oscars-nur-unter-einer-bedingung-a-10816634-f1f9-493c-a1e9-81163df23bb8#ref=rss)
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
+### wong
+
+* [https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld](https://www.spiegel.de/ausland/singapur-der-bestbezahlte-regierungschef-der-welt-bekommt-noch-mehr-geld-a-bb4509b7-3355-40f4-bf0c-64b03cc38a04#ref=rss)
 
