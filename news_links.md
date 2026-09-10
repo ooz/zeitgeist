@@ -4,357 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens](https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens-a-04d7898a-d500-4c8f-ba2f-64b7a1fbd804#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens](https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens-a-04d7898a-d500-4c8f-ba2f-64b7a1fbd804#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen-a-d4f9e581-32d0-4d1c-9f67-56563e347e5b#ref=rss)
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### krach
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-* [https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen](https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen-a-443cff43-70fe-42e8-80c3-29d739a6b3b5#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie](https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie-a-f7410290-c481-4e7a-a93b-0b41687f2183#ref=rss)
-### spdspitzenkandidat
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-### mr
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern](https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern-a-ec0ee266-d769-40d7-8e58-36aab1d71153#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-### t
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-### laut
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+### steffen
 
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### staat
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### krach
 
-* [https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe](https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe-a-559ff957-e3d4-469a-a062-23b84cf46d00#ref=rss)
-* [https://www.spiegel.de/panorama/bundesweiter-warntag-2026-warum-am-donnerstag-um-11-uhr-die-sirenen-schrillen](https://www.spiegel.de/panorama/bundesweiter-warntag-2026-warum-am-donnerstag-um-11-uhr-die-sirenen-schrillen-a-5229c654-37c2-4f4f-bfb3-5a42638eaea2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepreise-treiben-inflation-an-die-drei-prozent-marke](https://www.spiegel.de/wirtschaft/energiepreise-treiben-inflation-an-die-drei-prozent-marke-a-c2ba33d5-84ac-46d4-8e0b-92598277c5df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
 ### cdu
 
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-### zurück
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
 ### staatsanwaltschaft
 
-* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-entschieden-zurueck-a-88ddb904-1adf-43a2-9b7d-eb6149196234#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### kim
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### jong
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### un
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### geheimdienst
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### nordkoreas
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### diktator
-
-* [https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat](https://www.spiegel.de/ausland/kim-jong-un-suedkoreanischer-geheimdienst-prueft-ob-nordkoreas-diktator-ein-weiteres-kind-hat-a-c92cbf13-b5c1-4ede-af6c-e0a77815389a#ref=rss)
-### schwäche
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-### kanzlers
-
-* [https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers](https://www.spiegel.de/politik/deutschland/politik-podcast-mad-kings-trumps-und-putins-spiel-mit-der-schwaeche-des-kanzlers-a-1a3a3e11-c7b1-43a2-9891-a836eff9b470#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-### garfield
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen](https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen-a-443cff43-70fe-42e8-80c3-29d739a6b3b5#ref=rss)
-### angst
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-### sam
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr](https://www.spiegel.de/kultur/kino/chatgpt-andrew-garfield-nutzt-anwendung-nach-sam-altman-rolle-im-film-artificial-nicht-mehr-a-29fcc854-412f-495e-b211-754732c24987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021](https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021-a-c53815e3-79f0-4ffd-9873-396f061304ac#ref=rss)
-### afdsieg
-
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens](https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens-a-04d7898a-d500-4c8f-ba2f-64b7a1fbd804#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland](https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss)
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-### babylon
-
-* [https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie](https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie-a-f7410290-c481-4e7a-a93b-0b41687f2183#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie](https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie-a-f7410290-c481-4e7a-a93b-0b41687f2183#ref=rss)
-### hitlers
-
-* [https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie](https://www.spiegel.de/geschichte/babylon-berlin-wie-viel-wahrheit-steckt-in-der-neuen-staffel-der-serie-a-f7410290-c481-4e7a-a93b-0b41687f2183#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/judo-pruegelattacke-georgischer-judoka-rechtfertigt-angriff-nach-kampfende](https://www.spiegel.de/sport/judo-pruegelattacke-georgischer-judoka-rechtfertigt-angriff-nach-kampfende-a-6a61294a-e502-41f2-94c5-7b5c7d28da58#ref=rss)
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen-a-d4f9e581-32d0-4d1c-9f67-56563e347e5b#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen-a-d4f9e581-32d0-4d1c-9f67-56563e347e5b#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-brief-an-seinen-wahlkreis-ich-war-zu-feige-bei-diesem-sensiblen-thema-offen-farbe-zu-bekennen-a-d4f9e581-32d0-4d1c-9f67-56563e347e5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens](https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens-a-04d7898a-d500-4c8f-ba2f-64b7a1fbd804#ref=rss)
-### marius
-
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-### borg
-
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-### høiby
-
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-### neu
-
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei](https://www.spiegel.de/panorama/marius-borg-hoiby-gericht-macht-weg-fuer-berufungsverhandlung-frei-a-2694401b-f882-4008-abc6-1bac47bc5041#ref=rss)
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-### länger
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-laesst-sich-der-stress-nach-dem-urlaub-vermeiden](https://www.spiegel.de/start/startklar-newsletter-wie-laesst-sich-der-stress-nach-dem-urlaub-vermeiden-a-402aa7e8-2874-4ff4-8383-2fe18c286803#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021](https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021-a-c53815e3-79f0-4ffd-9873-396f061304ac#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021](https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021-a-c53815e3-79f0-4ffd-9873-396f061304ac#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021](https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021-a-c53815e3-79f0-4ffd-9873-396f061304ac#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021](https://www.spiegel.de/politik/deutschland/armin-laschet-studie-sieht-keinen-einfluss-von-lacher-des-cdu-kanzlerkandidaten-auf-bundestagswahl-2021-a-c53815e3-79f0-4ffd-9873-396f061304ac#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich](https://www.spiegel.de/ausland/europa-und-die-afd-die-angst-der-deutschen-vor-sich-selbst-uebertraegt-sich-nach-frankreich-a-65f92a8d-93db-44dc-a25e-7f4e154843d7#ref=rss)
-* [https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe](https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe-a-559ff957-e3d4-469a-a062-23b84cf46d00#ref=rss)
-### ateam
-
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-### doku
-
-* [https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell](https://www.spiegel.de/kultur/tv/netflix-doku-ueber-mr-t-ist-laut-mr-t-muell-a-eac1a7ad-155b-4db6-9e7d-bb41b959cbae#ref=rss)
-* [https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben](https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben-a-165ba7bf-9cdd-41c8-a288-2fb4faded1b0#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-### swift
-
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt](https://www.spiegel.de/wissenschaft/taylor-swift-neue-insektengattung-nach-popstar-und-alben-benannt-a-f441ad20-b87b-49b5-a113-75c46fee044a#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-### sanierung
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau-a-3d165db7-aae2-4a51-b666-44cfa9319b3f#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-* [https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe](https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe-a-559ff957-e3d4-469a-a062-23b84cf46d00#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-sanierung-des-schienennetzes-wird-laut-bahnchefin-evelyn-palla-laenger-dauern-a-cd51885f-e1d1-4d70-b5e9-8a4711abdeb1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/justiz/sulzbach-an-der-murr-68-jaehriger-faehrt-ehefrau-beim-einparken-in-garage-tot](https://www.spiegel.de/panorama/justiz/sulzbach-an-der-murr-68-jaehriger-faehrt-ehefrau-beim-einparken-in-garage-tot-a-8845c3d5-b682-43cf-925f-4f2fda61a9a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/justiz/sulzbach-an-der-murr-68-jaehriger-faehrt-ehefrau-beim-einparken-in-garage-tot](https://www.spiegel.de/panorama/justiz/sulzbach-an-der-murr-68-jaehriger-faehrt-ehefrau-beim-einparken-in-garage-tot-a-8845c3d5-b682-43cf-925f-4f2fda61a9a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau-a-3d165db7-aae2-4a51-b666-44cfa9319b3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### allein
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-radikalkur-kostet-wohl-zehn-milliarden-euro-fuer-jobabbau-a-3d165db7-aae2-4a51-b666-44cfa9319b3f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers](https://www.spiegel.de/politik/friedrich-merz-nach-der-wahl-in-sachsen-anhalt-die-letzte-chance-des-kanzlers-a-57afcd47-d1cb-4176-bd80-fc9a9e089cc7#ref=rss)
-### 9/11
-
-* [https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben](https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben-a-165ba7bf-9cdd-41c8-a288-2fb4faded1b0#ref=rss)
-* [https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe](https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe-a-559ff957-e3d4-469a-a062-23b84cf46d00#ref=rss)
-### september
-
-* [https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben](https://www.spiegel.de/ausland/9-11-in-new-york-city-ein-stueck-von-mir-ist-auf-dem-broadway-liegen-geblieben-a-165ba7bf-9cdd-41c8-a288-2fb4faded1b0#ref=rss)
-* [https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe](https://www.spiegel.de/geschichte/9-11-der-krieg-gegen-den-terror-war-militaerisch-und-politisch-eine-katastrophe-a-559ff957-e3d4-469a-a062-23b84cf46d00#ref=rss)
-### suki
-
-* [https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen](https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen-a-443cff43-70fe-42e8-80c3-29d739a6b3b5#ref=rss)
-### waterhouse
-
-* [https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen](https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen-a-443cff43-70fe-42e8-80c3-29d739a6b3b5#ref=rss)
-### würde
-
-* [https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen](https://www.spiegel.de/kultur/suki-waterhouse-wuerde-aus-ihrer-tochter-ohne-zu-zoegern-ein-nepo-baby-machen-a-443cff43-70fe-42e8-80c3-29d739a6b3b5#ref=rss)
-### volker
-
-* [https://www.spiegel.de/politik/deutschland/volker-beck-legt-verfassungsbeschwerde-ein](https://www.spiegel.de/politik/deutschland/volker-beck-legt-verfassungsbeschwerde-ein-a-247780ef-ac2d-4cf7-9514-5a60989b6c9f#ref=rss)
-### beck
-
-* [https://www.spiegel.de/politik/deutschland/volker-beck-legt-verfassungsbeschwerde-ein](https://www.spiegel.de/politik/deutschland/volker-beck-legt-verfassungsbeschwerde-ein-a-247780ef-ac2d-4cf7-9514-5a60989b6c9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
 ### ermittlungen
 
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-### spd
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+### spdspitzenkandidat
 
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens](https://www.spiegel.de/politik/deutschland/friedrich-merz-koenig-des-scherbenhaufens-a-04d7898a-d500-4c8f-ba2f-64b7a1fbd804#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-### druck
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben](https://www.spiegel.de/politik/deutschland/ermittlungen-gegen-steffen-krach-berliner-spd-spricht-von-versuch-einer-spende-und-will-9900-euro-zurueckueberwiesen-haben-a-6af3c669-d75f-406d-9f95-20344f66ed65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
-### donnerstag
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
+### auto
 
-* [https://www.spiegel.de/panorama/bundesweiter-warntag-2026-warum-am-donnerstag-um-11-uhr-die-sirenen-schrillen](https://www.spiegel.de/panorama/bundesweiter-warntag-2026-warum-am-donnerstag-um-11-uhr-die-sirenen-schrillen-a-5229c654-37c2-4f4f-bfb3-5a42638eaea2#ref=rss)
-### sommer
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
+### belgien
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
-### 2003
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+### halbfinale
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/klimakrise-westeuropa-erlebt-heissesten-sommer-seit-beginn-der-aufzeichnungen-a-ad5872f7-ea56-4376-8f82-166f810b94c4#ref=rss)
-### worms
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+### gar
 
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### motorradfahrer
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation](https://www.spiegel.de/panorama/justiz/worms-motorradfahrer-stirbt-nach-unfall-gaffer-fotografiert-reanimation-a-47561fbe-14dd-45e4-98d2-602055b792cd#ref=rss)
-### seattle
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
-### neuauflage
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
+* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
-### super
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### ostbeauftragte
 
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
-### bowls
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+### elisabeth
 
-* [https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold](https://www.spiegel.de/sport/american-football/nfl-start-seattle-seahawks-drehen-neuauflage-des-super-bowls-verlieren-aber-sam-darnold-a-42572e8d-c159-446b-9e49-b90796e14aaf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+### kaiser
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
+* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
+### karim
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
+### adeyemi
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
+### tipps
+
+* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
+### checker
+
+* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
+### tobi
+
+* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+### gewinnen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+### immobilienfonds
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
+### christine
+
+* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
+### lagarde
+
+* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
+### emirate
+
+* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
+### v
+
+* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
+### verursachen
+
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+### rechnung
+
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
+### gesellschaft
+
+* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar](https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar-a-d9bf438e-ecd6-463d-b35b-4615956d9499#ref=rss)
+### shida
+
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+### bazyar
+
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+### roman
+
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+### nie
+
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
+* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
+### gao
+
+* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
+### zhen
+
+* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
+### lange
+
+* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
+* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
+### bundesarbeitsgericht
+
+* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
+### entschied
+
+* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
+### pisastudie
+
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+### lesekrise
+
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### bezirk
+
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
+### untersagen
+
+* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
 ### steuerreform
 
-* [https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform](https://www.spiegel.de/wirtschaft/gegenwind-fuer-friedrich-merz-in-der-cdu-formiert-sich-offener-widerstand-gegen-die-steuerreform-a-9b96678d-623c-4119-ad78-8b5ed5a13a0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### bittet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### geldgeschenke
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
+### islandpferde
+
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
+### viktoría
+
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
+### huld
+
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
+### valdas
+
+* [https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas](https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas-a-99521dc2-7228-4b82-8152-5d7dde921280#ref=rss)
+### dambrauskas
+
+* [https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas](https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas-a-99521dc2-7228-4b82-8152-5d7dde921280#ref=rss)
+### knds
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar](https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar-a-d9bf438e-ecd6-463d-b35b-4615956d9499#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### dorchester
+
+* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
+### london
+
+* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
+### wehrt
+
+* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
+### streamer
+
+* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+### londoner
+
+* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
+### könig
+
+* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
+### uwe
+
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+### steimle
+
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+### kabarettist
+
+* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
 
