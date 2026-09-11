@@ -4,357 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern](https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern-a-ec0ee266-d769-40d7-8e58-36aab1d71153#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### krach
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### spdspitzenkandidat
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-### auto
-
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
-### belgien
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-### gar
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-besiegt-belgien-und-steht-im-halbfinale-a-7fbf843d-aef2-4a0e-a5a4-8271ff721deb#ref=rss)
-* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen](https://www.spiegel.de/politik/deutschland/steffen-krach-staatsanwaltschaft-nennt-erste-details-zu-ermittlungen-a-8e60dca9-b02a-4be7-abb0-ff3135ad9c0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### ostbeauftragte
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-### elisabeth
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-### kaiser
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
-### karim
-
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
-### adeyemi
-
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht](https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
-### checker
-
-* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
-### tobi
-
-* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder](https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-### gewinnen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten](https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
-### krankenkassen
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-### immobilienfonds
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage](https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
-### inflation
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin-a-a1f1bd1a-ebc5-46af-b99a-61c7cf0d7d02#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall](https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall-a-dc2b1f3e-3422-4782-8456-dcf62760b529#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
-### christine
+* [https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa](https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall](https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall-a-dc2b1f3e-3422-4782-8456-dcf62760b529#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+### musk
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
-### lagarde
+* [https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk](https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss)
+### the
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa](https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss)
-### emirate
+* [https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln](https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln-a-dc158af2-f8dc-4e82-97ea-f7a63b3f48d2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren](https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss)
-### daniel
+* [https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte](https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte-a-9783ef9f-4fe2-466b-a383-fe29ff43c198#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist-a-23c731f1-2900-4c3e-b819-ed15603939d2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
-### v
+* [https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk](https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen](https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen-a-be6039d2-8092-4e04-9dc9-247b09a901eb#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist-a-23c731f1-2900-4c3e-b819-ed15603939d2#ref=rss)
+### greg
 
-* [https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v](https://www.spiegel.de/panorama/anschlaege-auf-umspannwerke-bodycam-video-zeigt-festnahme-von-daniel-v-a-e6c44e3a-0f0e-451c-bc79-39af3f7277d5#ref=rss)
-### verursachen
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-### rechnung
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### rente
 
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
-### gesellschaft
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### viele
 
-* [https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe](https://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d-ba17-7c2820efc525#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar](https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar-a-d9bf438e-ecd6-463d-b35b-4615956d9499#ref=rss)
-### shida
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013](https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013-a-85a53dce-4f31-49a6-a9ef-b3f8ca4fc187#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-### bazyar
-
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-### roman
-
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-### nie
-
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen](https://www.spiegel.de/kultur/literatur/shida-bazyar-und-ihr-roman-die-luecken-kleines-fenster-zum-grauen-a-009a0700-f1bf-4bba-9b4e-13494c848a1b#ref=rss)
-* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
-### gao
-
-* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
-### zhen
-
-* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast](https://www.spiegel.de/ausland/gao-zhen-aus-china-er-kratzte-an-maos-heldenstatus-nun-sitzt-er-im-knast-a-aeca42b1-c535-4e8d-b7b9-f44e283c5b2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-### jamie
-
-* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin-a-a1f1bd1a-ebc5-46af-b99a-61c7cf0d7d02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
 ### lange
 
-* [https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung](https://www.spiegel.de/panorama/leute/jamie-oliver-starkoch-erzaehlt-stolz-von-bestandener-pilotenpruefung-a-e2ab37b2-3ee0-43f3-8a5a-0b190be67c7d#ref=rss)
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
-### bundesarbeitsgericht
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+* [https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013](https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013-a-85a53dce-4f31-49a6-a9ef-b3f8ca4fc187#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr](https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr-a-07fdd39b-8fec-4cc8-9a3a-c6104a86c11e#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
-### entschied
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung](https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung-a-54732abc-daf4-4f51-9a51-8d8b74fb12db#ref=rss)
+* [https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt](https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt-a-8eafffbb-8d48-4c56-9feb-9a5101819e51#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage](https://www.spiegel.de/karriere/bundesarbeitsgericht-kein-schadensersatz-bis-zur-rente-nach-bewerbungsabsage-a-1efb15bc-0257-414f-b8f1-950443723892#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-### pisastudie
+* [https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro](https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen](https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen-a-be6039d2-8092-4e04-9dc9-247b09a901eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung](https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung-a-54732abc-daf4-4f51-9a51-8d8b74fb12db#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-### lesekrise
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht-a-3833e839-6ef4-41a3-aee1-cdd66192db0b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr](https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr-a-07fdd39b-8fec-4cc8-9a3a-c6104a86c11e#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-### helfen
+* [https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk](https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss)
+### regisseur
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-### neue
+* [https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk](https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte](https://www.spiegel.de/panorama/bildung/pisa-studie-was-gegen-die-anhaltende-lesekrise-in-deutschland-helfen-koennte-a-bb2bf782-d1f7-48be-bb59-b0f2a50535a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### bezirk
+* [https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk](https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt](https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt-a-1967c0af-2b67-4250-8421-212550649a6c#ref=rss)
+### mafia
 
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-### untersagen
+* [https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss)
+### falschgeld
 
-* [https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen](https://www.spiegel.de/wirtschaft/soziales/wohnung-in-berlin-neukoelln-bezirk-darf-befristete-vermietung-untersagen-a-59b982d8-0c20-446c-9953-2c093f5ae36d#ref=rss)
-### steuerreform
+* [https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss)
+### team
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### jens
+* [https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist-a-23c731f1-2900-4c3e-b819-ed15603939d2#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### spahn
+* [https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013](https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013-a-85a53dce-4f31-49a6-a9ef-b3f8ca4fc187#ref=rss)
+### beatles
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### bittet
+* [https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln](https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln-a-dc158af2-f8dc-4e82-97ea-f7a63b3f48d2#ref=rss)
+### daniels
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### verspricht
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+### straße
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### geldgeschenke
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss)
-### islandpferde
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht-a-3833e839-6ef4-41a3-aee1-cdd66192db0b#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### viktoría
+* [https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus](https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht-a-3833e839-6ef4-41a3-aee1-cdd66192db0b#ref=rss)
+### eukommissarin
 
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### huld
+* [https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot](https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot-a-90ef3301-c6e2-424b-ae62-cdfa41752451#ref=rss)
+### emma
 
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot](https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot-a-90ef3301-c6e2-424b-ae62-cdfa41752451#ref=rss)
+### bonino
 
-* [https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht](https://www.spiegel.de/deinspiegel/islandpferde-13-jaehrige-viktoria-huld-erzaehlt-was-die-tiere-so-besonders-macht-a-ea7426a7-686b-46c5-bca3-c591d6008892#ref=rss)
-### valdas
+* [https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot](https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot-a-90ef3301-c6e2-424b-ae62-cdfa41752451#ref=rss)
+### emirates
 
-* [https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas](https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas-a-99521dc2-7228-4b82-8152-5d7dde921280#ref=rss)
-### dambrauskas
+* [https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte](https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte-a-9783ef9f-4fe2-466b-a383-fe29ff43c198#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas](https://www.spiegel.de/sport/fussball/champions-league-die-verrueckte-karriere-von-sabah-fk-coach-valdas-dambrauskas-a-99521dc2-7228-4b82-8152-5d7dde921280#ref=rss)
-### knds
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+* [https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa](https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar](https://www.spiegel.de/wirtschaft/unternehmen/knds-der-panzerbauer-und-das-ominoese-joint-venture-in-katar-a-d9bf438e-ecd6-463d-b35b-4615956d9499#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+### investoren
 
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-ist-tatsaechlich-der-bruch-eines-wahlversprechens-a-7c1065ef-a7aa-4e1d-a25f-ba8fbfc5ed2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### dorchester
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+### schuldenkurs
 
-* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
-### london
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+### usstaatsanleihen
 
-* [https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen](https://www.spiegel.de/wirtschaft/the-dorchester-in-london-luxushotel-darf-offenbar-wegen-unbezahlter-rechnung-auto-von-scheich-verkaufen-a-dccc17ea-2293-4cd0-8d42-a112600fa271#ref=rss)
-### wehrt
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+### oben
 
-* [https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe](https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss)
-### streamer
+* [https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss)
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen](https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen-a-be6039d2-8092-4e04-9dc9-247b09a901eb#ref=rss)
+### witwenrente
 
-* [https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet](https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+### ehepaare
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### merz
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+### 63
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### londoner
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
-### könig
+* [https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen](https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### zdfpolitbarometer
 
-* [https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden](https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss)
-### uwe
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin-a-a1f1bd1a-ebc5-46af-b99a-61c7cf0d7d02#ref=rss)
+### mecklenburgvorpommern
 
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### steimle
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin-a-a1f1bd1a-ebc5-46af-b99a-61c7cf0d7d02#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
-### kabarettist
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-afd-und-spd-laut-umfrage-in-mecklenburg-vorpommern-vorn-linke-und-cdu-in-berlin-a-a1f1bd1a-ebc5-46af-b99a-61c7cf0d7d02#ref=rss)
+* [https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa](https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss)
+### 25
 
-* [https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein](https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss)
+* [https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa](https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab](https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab-a-4554863e-591c-479f-9f07-a9565cc39103#ref=rss)
+### insel
+
+* [https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab](https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab-a-4554863e-591c-479f-9f07-a9565cc39103#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab](https://www.spiegel.de/ausland/jemen-huthis-erobern-strategische-insel-in-meerenge-bab-al-mandab-a-4554863e-591c-479f-9f07-a9565cc39103#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen](https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen-a-28a9954e-71df-4070-bd64-fcbd09dc51f7#ref=rss)
+### fürstin
+
+* [https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid](https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid-a-4d20feb8-4822-4289-b341-edb6a8fac43a#ref=rss)
+### diana
+
+* [https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid](https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid-a-4d20feb8-4822-4289-b341-edb6a8fac43a#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid](https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid-a-4d20feb8-4822-4289-b341-edb6a8fac43a#ref=rss)
+### rachekleid
+
+* [https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid](https://www.spiegel.de/panorama/fuerstin-diana-new-yorker-auktionshaus-versteigert-rachekleid-a-4d20feb8-4822-4289-b341-edb6a8fac43a#ref=rss)
+### ökonom
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### peter
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### bofinger
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### abschaffung
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-oekonom-peter-bofinger-plaediert-fuer-abschaffung-der-regelung-a-ff87728a-dee7-4e95-b1fc-5425805b1223#ref=rss)
+### ukraineinvasion
+
+* [https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro](https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss)
+### kostete
+
+* [https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro](https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro](https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro](https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen](https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen-a-28a9954e-71df-4070-bd64-fcbd09dc51f7#ref=rss)
+### nachfrage
+
+* [https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen](https://www.spiegel.de/wirtschaft/katherina-reiche-foerderstopp-sorgt-fuer-hohe-nachfrage-nach-solaranlagen-a-be6039d2-8092-4e04-9dc9-247b09a901eb#ref=rss)
+### leonie
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist-a-23c731f1-2900-4c3e-b819-ed15603939d2#ref=rss)
+### fiebich
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-wieso-leonie-fiebich-die-schluesselfigur-im-deutschen-team-ist-a-23c731f1-2900-4c3e-b819-ed15603939d2#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+### lawrence
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+### hollywoodstar
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug](https://www.spiegel.de/kultur/kino/jennifer-lawrence-hollywoodstar-tritt-instagram-bei-und-droht-gleich-mit-rueckzug-a-327d89a4-21b6-432f-9037-85b3d29041f7#ref=rss)
+* [https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt](https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt-a-8eafffbb-8d48-4c56-9feb-9a5101819e51#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung](https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung-a-54732abc-daf4-4f51-9a51-8d8b74fb12db#ref=rss)
+### oppositionspolitiker
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung](https://www.spiegel.de/wirtschaft/krankenkassen-beitragserhoehung-ohne-vorwarnung-verbraucherschuetzer-kritisieren-regierung-a-54732abc-daf4-4f51-9a51-8d8b74fb12db#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### orthodoxe
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen](https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen-a-28a9954e-71df-4070-bd64-fcbd09dc51f7#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen](https://www.spiegel.de/ausland/ukrainekrieg-orthodoxe-kirche-sendet-reliquie-aus-dem-mittelalter-an-russische-truppen-a-28a9954e-71df-4070-bd64-fcbd09dc51f7#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall](https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall-a-dc2b1f3e-3422-4782-8456-dcf62760b529#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall](https://www.spiegel.de/panorama/schweiz-fuenf-menschen-sterben-bei-busunfall-a-dc2b1f3e-3422-4782-8456-dcf62760b529#ref=rss)
+### steffen
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
+### krach
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
+### weist
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck](https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-weist-vorwuerfe-als-unbegruendet-zurueck-a-476d7537-e906-44a9-b7f0-876030fe9467#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013](https://www.spiegel.de/wirtschaft/firmenpleiten-in-deutschland-auf-hoechstem-stand-seit-2013-a-85a53dce-4f31-49a6-a9ef-b3f8ca4fc187#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-duo-wie-apple-das-faltbare-handy-noch-mal-erfand](https://www.spiegel.de/netzwelt/gadgets/iphone-duo-wie-apple-das-faltbare-handy-noch-mal-erfand-a-7da98659-7bb4-41bd-ac58-e23c02270f8b#ref=rss)
+### regeln
+
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-warum-das-ki-wettrennen-strengere-regeln-braucht-a-3833e839-6ef4-41a3-aee1-cdd66192db0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt](https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt-a-1967c0af-2b67-4250-8421-212550649a6c#ref=rss)
+### 110
+
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar](https://www.spiegel.de/wirtschaft/service/oelpreis-steigt-zeitweise-auf-knapp-110-dollar-a-addc099d-8cd4-4c02-8771-f0ba6608625d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt](https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt-a-1967c0af-2b67-4250-8421-212550649a6c#ref=rss)
+### einbürgerung
+
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+### westsahara
+
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+### ermöglichen
+
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+### stößt
+
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt](https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt-a-1967c0af-2b67-4250-8421-212550649a6c#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen](https://www.spiegel.de/ausland/spanien-will-einbuergerung-zehntausender-menschen-aus-westsahara-ermoeglichen-a-c8722df4-7264-4df7-8867-c23c5ed9f2a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt](https://www.spiegel.de/wirtschaft/oktoberfest-in-muenchen-wie-ein-wirt-das-wiesn-kartell-aufmischt-a-1967c0af-2b67-4250-8421-212550649a6c#ref=rss)
+### yair
+
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### golan
+
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### sara
+
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage](https://www.spiegel.de/ausland/israel-gaza-yair-golan-verlangt-von-sara-netanyahu-verleumdungsklage-a-f4462ee4-0341-4544-8e56-8d31f021cfde#ref=rss)
+### jamal
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr](https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr-a-07fdd39b-8fec-4cc8-9a3a-c6104a86c11e#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr](https://www.spiegel.de/sport/fussball/jamal-musiala-nach-seinem-tor-das-gefuehl-hatte-ich-schon-lange-nicht-mehr-a-07fdd39b-8fec-4cc8-9a3a-c6104a86c11e#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt](https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt-a-8eafffbb-8d48-4c56-9feb-9a5101819e51#ref=rss)
+### reifen
+
+* [https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt](https://www.spiegel.de/panorama/mainz-betrunkener-autofahrer-faehrt-mit-nur-drei-reifen-durch-die-stadt-a-8eafffbb-8d48-4c56-9feb-9a5101819e51#ref=rss)
 
