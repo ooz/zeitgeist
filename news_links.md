@@ -4,378 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sv
+### verletzt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
+* [https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus](https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus-a-d1be8ca8-c1f9-4916-a404-cbf26706f194#ref=rss)
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt-a-8ec2063f-e206-4ced-a846-f5be22d468aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an](https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an-a-9ceb66e7-a16d-4617-ae43-acba52419bfd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm](https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm-a-a69a5558-a974-467d-98f6-ed23b7e49f4e#ref=rss)
+* [https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet](https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet-a-39a34cd4-e3e7-4e6a-a7b1-2e17fc80fdfe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/irankrieg-abgeschossener-soldat-spricht-ueber-das-schrecklichste-was-ich-je-gesehen-habe](https://www.spiegel.de/ausland/irankrieg-abgeschossener-soldat-spricht-ueber-das-schrecklichste-was-ich-je-gesehen-habe-a-766939c0-780e-4a94-9e7f-240d6906f362#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg-a-6d609779-2d47-42dc-aa34-81c8ed53b522#ref=rss)
+* [https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet](https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet-a-39a34cd4-e3e7-4e6a-a7b1-2e17fc80fdfe#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um](https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/irankrieg-abgeschossener-soldat-spricht-ueber-das-schrecklichste-was-ich-je-gesehen-habe](https://www.spiegel.de/ausland/irankrieg-abgeschossener-soldat-spricht-ueber-das-schrecklichste-was-ich-je-gesehen-habe-a-766939c0-780e-4a94-9e7f-240d6906f362#ref=rss)
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+* [https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden](https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden-a-9ea307ad-8510-4c17-a337-ea5d4e081987#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-### cdu
+* [https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin](https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin-a-66768284-fb5c-4cf2-9ec4-0d95330361d4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter](https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter-a-8b95a40e-259a-4eb1-a963-8c086e949fad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um](https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss)
-### open
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt-a-8ec2063f-e206-4ced-a846-f5be22d468aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+### fans
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-* [https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren](https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost](https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost-a-f7fd4c6f-a587-4978-ab6d-7a39610b06da#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost](https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost-a-f7fd4c6f-a587-4978-ab6d-7a39610b06da#ref=rss)
-* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an-a-dc98b833-da3c-4cb3-9781-f31beaeaba72#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### ki
-
-* [https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich](https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich-a-35972c33-f286-4f13-9430-bc6315d07ac2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz](https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss)
-### machte
-
-* [https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich](https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich-a-35972c33-f286-4f13-9430-bc6315d07ac2#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an-a-dc98b833-da3c-4cb3-9781-f31beaeaba72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz](https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt-a-8ec2063f-e206-4ced-a846-f5be22d468aa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an-a-dc98b833-da3c-4cb3-9781-f31beaeaba72#ref=rss)
-* [https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu](https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu-a-d6aa97b9-d0f7-4314-9ca3-adc5a8c23e1d#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm](https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm-a-a69a5558-a974-467d-98f6-ed23b7e49f4e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### zug
 
-* [https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche](https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche-a-681ceb3a-c656-42a3-988a-022c72cc6b94#ref=rss)
-* [https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche](https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche-a-73960333-8b06-4b49-a22e-8bbd98d64470#ref=rss)
-### konnte
+* [https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug](https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug-a-dde690b3-cb33-40f5-b337-f5812b26b99c#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren](https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an](https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an-a-9ceb66e7-a16d-4617-ae43-acba52419bfd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen](https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen-a-10ab1785-ea78-489a-9692-277c57235060#ref=rss)
+### jota
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz](https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig](https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss)
-### macht
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
+### papst
 
-* [https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche](https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche-a-73960333-8b06-4b49-a22e-8bbd98d64470#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig](https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss)
-### eu
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu](https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu-a-d6aa97b9-d0f7-4314-9ca3-adc5a8c23e1d#ref=rss)
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### alpen
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-rekordhitze-sorgt-fuer-staerkeren-champagner](https://www.spiegel.de/wissenschaft/natur/frankreich-rekordhitze-sorgt-fuer-staerkeren-champagner-a-9f814e40-f75c-40f2-8d63-aa42dfb0acca#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
+### experten
 
-* [https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren](https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss)
-* [https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand](https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand-a-77e1227d-6907-414c-a32a-60d901a27874#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-* [https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari](https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss)
-### fünften
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### us
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+### ubahn
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### alexander
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+### erfasst
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### zverev
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### ben
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+### gleise
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### shelton
+* [https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben](https://www.spiegel.de/panorama/hamburg-26-jaehriger-bei-rettungsversuch-von-u-bahn-erfasst-und-gestorben-a-19a44993-21d0-49c4-9fb3-24f3e0f181bd#ref=rss)
+* [https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm](https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm-a-a69a5558-a974-467d-98f6-ed23b7e49f4e#ref=rss)
+### sydney
 
-* [https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton](https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-gegen-ben-shelton-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss)
-### fußballbundesliga
+* [https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin](https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin-a-66768284-fb5c-4cf2-9ec4-0d95330361d4#ref=rss)
+### sweeney
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### fc
+* [https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin](https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin-a-66768284-fb5c-4cf2-9ec4-0d95330361d4#ref=rss)
+### wirbt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-### elversberg
+* [https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin](https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin-a-66768284-fb5c-4cf2-9ec4-0d95330361d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+### nackt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-### geschlagen
+* [https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin](https://www.spiegel.de/sport/sydney-sweeney-erneut-heftige-kritik-an-werbekampagne-der-schauspielerin-a-66768284-fb5c-4cf2-9ec4-0d95330361d4#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-### belit
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-was-vom-deutschen-wm-erfolg-in-berlin-bleibt-a-8ec2063f-e206-4ced-a846-f5be22d468aa#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### polen
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn](https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn-a-b5ef75b8-6ad1-4ba8-b9e2-e7257924a0e8#ref=rss)
-### onay
+* [https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm](https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm-a-a69a5558-a974-467d-98f6-ed23b7e49f4e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug](https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug-a-dde690b3-cb33-40f5-b337-f5812b26b99c#ref=rss)
+### elch
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn](https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn-a-b5ef75b8-6ad1-4ba8-b9e2-e7257924a0e8#ref=rss)
-### hannover
+* [https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm](https://www.spiegel.de/ausland/polen-elch-verirrt-sich-auf-gleise-und-legt-warschauer-hauptbahnhof-lahm-a-a69a5558-a974-467d-98f6-ed23b7e49f4e#ref=rss)
+### z
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn](https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn-a-b5ef75b8-6ad1-4ba8-b9e2-e7257924a0e8#ref=rss)
-### vorn
+* [https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend](https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend-a-3947d738-5eaa-40bd-bb61-eaa070a09ef1#ref=rss)
+### alte
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn](https://www.spiegel.de/politik/deutschland/niedersachsen-kommunalwahl-gruener-ob-belit-onay-in-hannover-liegt-vorn-a-b5ef75b8-6ad1-4ba8-b9e2-e7257924a0e8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### donald
+* [https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend](https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend-a-3947d738-5eaa-40bd-bb61-eaa070a09ef1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### jungen
 
-* [https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost](https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost-a-f7fd4c6f-a587-4978-ab6d-7a39610b06da#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### trump
+* [https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend](https://www.spiegel.de/start/generation-z-das-maerchen-von-der-faulen-jugend-a-3947d738-5eaa-40bd-bb61-eaa070a09ef1#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
+### olha
 
-* [https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost](https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost-a-f7fd4c6f-a587-4978-ab6d-7a39610b06da#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug](https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug-a-dde690b3-cb33-40f5-b337-f5812b26b99c#ref=rss)
+### poljakowa
 
-* [https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost](https://www.spiegel.de/ausland/donald-trump-gibt-ukraine-schuld-an-steigenden-spritpreisen-trotz-lage-in-nahost-a-f7fd4c6f-a587-4978-ab6d-7a39610b06da#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich-a-f6cb4952-fb24-4c63-87e3-d1a127524bc7#ref=rss)
-### meredith
+* [https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug](https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug-a-dde690b3-cb33-40f5-b337-f5812b26b99c#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich](https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich-a-35972c33-f286-4f13-9430-bc6315d07ac2#ref=rss)
-### whittaker
+* [https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug](https://www.spiegel.de/ausland/ukraine-popstar-olha-poljakowa-berichtet-von-drohnenangriff-auf-zug-a-dde690b3-cb33-40f5-b337-f5812b26b99c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+### pro
 
-* [https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich](https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich-a-35972c33-f286-4f13-9430-bc6315d07ac2#ref=rss)
-### wir
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter](https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter-a-8b95a40e-259a-4eb1-a963-8c086e949fad#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
+### halten
 
-* [https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich](https://www.spiegel.de/deinspiegel/signal-chefin-meredith-whittaker-im-kinder-interview-ki-ist-nicht-menschlich-a-35972c33-f286-4f13-9430-bc6315d07ac2#ref=rss)
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### kiagenten
-
-* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an-a-dc98b833-da3c-4cb3-9781-f31beaeaba72#ref=rss)
-### andere
-
-* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-offenbar-plattform-rubygems-an-a-dc98b833-da3c-4cb3-9781-f31beaeaba72#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig](https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss)
-### summe
-
-* [https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche](https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche-a-681ceb3a-c656-42a3-988a-022c72cc6b94#ref=rss)
-### winkel
-
-* [https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche](https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche-a-681ceb3a-c656-42a3-988a-022c72cc6b94#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche](https://www.spiegel.de/games/wie-gross-ist-die-summe-der-winkel-raetsel-der-woche-a-681ceb3a-c656-42a3-988a-022c72cc6b94#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-### kontakt
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-### afd
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter](https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter-a-8b95a40e-259a-4eb1-a963-8c086e949fad#ref=rss)
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter](https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter-a-8b95a40e-259a-4eb1-a963-8c086e949fad#ref=rss)
+* [https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet](https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet-a-39a34cd4-e3e7-4e6a-a7b1-2e17fc80fdfe#ref=rss)
+### elversberg
 
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-den-kontakt-zur-afd-sucht-a-96560efa-ad3e-4e92-be61-a8f25df80a59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss)
-### deutschland
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg-a-6d609779-2d47-42dc-aa34-81c8ed53b522#ref=rss)
+### stark
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-### spanien
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-245-millionen-quartett-rettet-mueden-auftritt-in-elversberg-a-6d609779-2d47-42dc-aa34-81c8ed53b522#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen](https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen-a-499603d6-0edc-41af-b20c-23ebbf20ca7b#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-### spiel
+* [https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen](https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen-a-499603d6-0edc-41af-b20c-23ebbf20ca7b#ref=rss)
+### genug
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen](https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen-a-499603d6-0edc-41af-b20c-23ebbf20ca7b#ref=rss)
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
+### europa
 
-* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-verpasst-bronze-gegen-spanien-a-4cecf38f-5c8b-4304-9a37-0d83578da06b#ref=rss)
-* [https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand](https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand-a-77e1227d-6907-414c-a32a-60d901a27874#ref=rss)
-### guten
+* [https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen](https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen-a-499603d6-0edc-41af-b20c-23ebbf20ca7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche](https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche-a-73960333-8b06-4b49-a22e-8bbd98d64470#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen](https://www.spiegel.de/ausland/schweden-wahl-die-schweden-haetten-die-brandmauer-nie-aufgeben-duerfen-a-499603d6-0edc-41af-b20c-23ebbf20ca7b#ref=rss)
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
+### neves
 
-* [https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche](https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche-a-73960333-8b06-4b49-a22e-8bbd98d64470#ref=rss)
-* [https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand](https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand-a-77e1227d-6907-414c-a32a-60d901a27874#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot](https://www.spiegel.de/sport/fussball/fussball-in-saudi-arabien-fans-provozieren-ruben-neves-mit-jota-rufen-ronaldo-fordert-stadionverbot-a-4c4c227d-ef67-4e75-aada-0f93ce7273c8#ref=rss)
+* [https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet](https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet-a-39a34cd4-e3e7-4e6a-a7b1-2e17fc80fdfe#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### freiwillige
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch](https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss)
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+### bundesvorstand
+
+* [https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man](https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man-a-7716a33f-da6c-443d-abe9-858d32d9d6e9#ref=rss)
+### beschließt
+
+* [https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man](https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man-a-7716a33f-da6c-443d-abe9-858d32d9d6e9#ref=rss)
+### auflagen
+
+* [https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man](https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man-a-7716a33f-da6c-443d-abe9-858d32d9d6e9#ref=rss)
+### streamer
+
+* [https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man](https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man-a-7716a33f-da6c-443d-abe9-858d32d9d6e9#ref=rss)
+### völklingen
+
+* [https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus](https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus-a-d1be8ca8-c1f9-4916-a404-cbf26706f194#ref=rss)
+### schulbus
+
+* [https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus](https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus-a-d1be8ca8-c1f9-4916-a404-cbf26706f194#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus](https://www.spiegel.de/panorama/voelklingen-schulbus-rollt-bergab-und-prallt-gegen-haus-a-d1be8ca8-c1f9-4916-a404-cbf26706f194#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### leo
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+### bruder
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung](https://www.spiegel.de/panorama/leute/papst-leo-xiv-hilft-seinem-bruder-bei-computerproblemen-und-der-steuererklaerung-a-ced1945d-6bca-4532-9d25-04ae80a8c58b#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+### 83jährige
+
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+### auto
+
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+### partner
+
+* [https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt](https://www.spiegel.de/ausland/italien-83-jaehrige-deutsche-von-auto-ueberfahren-partner-schwer-verletzt-a-85d0fa09-61cf-48fc-abda-84cba0653193#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet](https://www.spiegel.de/ausland/china-peking-verbietet-drohnen-im-stadtgebiet-a-39a34cd4-e3e7-4e6a-a7b1-2e17fc80fdfe#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### westen
+
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### bein
+
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt](https://www.spiegel.de/panorama/australien-haiangriff-im-westen-mann-schwer-am-bein-verletzt-a-7dbeb419-6472-4984-9b9e-e09506d746fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-rekordhitze-sorgt-fuer-staerkeren-champagner](https://www.spiegel.de/wissenschaft/natur/frankreich-rekordhitze-sorgt-fuer-staerkeren-champagner-a-9f814e40-f75c-40f2-8d63-aa42dfb0acca#ref=rss)
+### gelingt
+
+* [https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an](https://www.spiegel.de/wirtschaft/legt-deutschland-das-geld-fuer-die-kuenftige-kapitalrente-richtig-an-a-db43bb32-a698-4e4b-861a-51a587ef6687#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
+### huthis
+
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### inseln
+
+* [https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht](https://www.spiegel.de/ausland/jemen-huthis-besetzen-weitere-wichtige-inseln-zehntausende-auf-der-flucht-a-b8a5c43d-75d1-4200-a0b8-4c4bd09d2523#ref=rss)
+### putzfirma
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### glanz
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte](https://www.spiegel.de/politik/deutschland/berlin-wie-die-putzfirma-hauptstadt-glanz-am-bundestag-scheiterte-a-95819c45-3a01-4b2b-8efe-c42d003d95a0#ref=rss)
+* [https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden](https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden-a-9ea307ad-8510-4c17-a337-ea5d4e081987#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
 ### kimi
 
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
 ### antonelli
 
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
-### pech
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
+### internationale
 
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
-### fehler
+* [https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-madrid-kimi-antonelli-siegt-diesem-jungen-gelingt-einfach-alles-pressestimmen-a-20f8d0b7-5ac8-4a69-95ca-bfe94d7f4ba4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### vier
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-### merz
+* [https://www.spiegel.de/wirtschaft/amazon-setzt-zusammenarbeit-mit-frachtfluglinie-aus](https://www.spiegel.de/wirtschaft/amazon-setzt-zusammenarbeit-mit-frachtfluglinie-aus-a-03b0b715-9cbf-44b7-b9a6-23ffac1c39e5#ref=rss)
+### kühlschrank
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um](https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss)
-### passiert
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
+### putzen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um](https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss)
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### sieben
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
+### richtig
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um](https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss)
-* [https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari](https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss)
-### hamburger
+* [https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig](https://www.spiegel.de/effilee/kuehlschrank-putzen-wie-oft-sollte-man-das-machen-und-wie-geht-es-richtig-a-90366cf5-7566-47e7-99f7-a2b6947463d9#ref=rss)
+### rundfunk
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-### leipzig
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### entschädigung
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-### herbe
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### geraubte
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-### bleibt
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### jüdische
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie](https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### intelligenz
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### grundstücke
 
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz](https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss)
-### lehnt
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+### sender
 
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-### zufolge
+* [https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit](https://www.spiegel.de/panorama/hessischer-rundfunk-streit-um-entschaedigung-fuer-geraubte-juedische-grundstuecke-aus-der-nazi-zeit-a-4374a79c-3b0c-4856-b721-7dde1d796d5b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen](https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen-a-10ab1785-ea78-489a-9692-277c57235060#ref=rss)
+### terror
 
-* [https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab](https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss)
-* [https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu](https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu-a-d6aa97b9-d0f7-4314-9ca3-adc5a8c23e1d#ref=rss)
-### kanada
+* [https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden](https://www.spiegel.de/ausland/25-jahre-nach-9-11-wer-hat-den-krieg-gegen-den-terror-gewonnen-podcast-acht-milliarden-a-9ea307ad-8510-4c17-a337-ea5d4e081987#ref=rss)
+### rtl
 
-* [https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu](https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu-a-d6aa97b9-d0f7-4314-9ca3-adc5a8c23e1d#ref=rss)
-### wanderer
+* [https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen](https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen-a-10ab1785-ea78-489a-9692-277c57235060#ref=rss)
+### neonazis
 
-* [https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren](https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss)
-### bären
+* [https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen](https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen-a-10ab1785-ea78-489a-9692-277c57235060#ref=rss)
+### cyberkriminellen
 
-* [https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren](https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss)
-### gianluigi
-
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-### donnarumma
-
-* [https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis](https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss)
-### ceuta
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### arancha
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### gonzález
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### laya
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-### interview
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-* [https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht](https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht-a-9928828e-e20f-400a-9e24-6d751019ea3f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview](https://www.spiegel.de/ausland/grenzsturm-von-ceuta-wir-sind-in-die-falle-getappt-spaniens-ex-aussenministerin-arancha-gonzalez-laya-im-interview-a-03435f58-2dfd-469f-bd9c-81e3f0d65c46#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig](https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss)
-### schauspielerin
-
-* [https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht](https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht-a-9928828e-e20f-400a-9e24-6d751019ea3f#ref=rss)
-### beziehungen
-
-* [https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht](https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht-a-9928828e-e20f-400a-9e24-6d751019ea3f#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht](https://www.spiegel.de/panorama/leute/catherine-deneuve-wie-die-schauspielerin-ueber-beziehungen-in-ihrer-familie-spricht-a-9928828e-e20f-400a-9e24-6d751019ea3f#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-feiert-fuenften-sieg-im-fuenften-spiel-a-97d092ac-c9d9-4073-9254-3f1f2a82c4b8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit](https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit-a-8bd374d1-fb69-409e-b13f-a7afd3cbdec3#ref=rss)
-### céline
-
-* [https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit](https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit-a-8bd374d1-fb69-409e-b13f-a7afd3cbdec3#ref=rss)
-### dion
-
-* [https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit](https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit-a-8bd374d1-fb69-409e-b13f-a7afd3cbdec3#ref=rss)
-### paris
-
-* [https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit](https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit-a-8bd374d1-fb69-409e-b13f-a7afd3cbdec3#ref=rss)
-### comeback
-
-* [https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit](https://www.spiegel.de/kultur/musik/celine-dion-in-paris-saengerin-feiert-comeback-nach-krankheit-a-8bd374d1-fb69-409e-b13f-a7afd3cbdec3#ref=rss)
-### spuren
-
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-### north
-
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-### dakota
-
-* [https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren](https://www.spiegel.de/wissenschaft/spuren-in-north-dakota-der-tyrannosaurus-rex-war-hier-vor-ueber-60-millionen-jahren-a-5a5c8f9d-9695-422a-a29c-a720323a1cdf#ref=rss)
-### rechtspopulisten
-
-* [https://www.spiegel.de/ausland/grossbritannien-millionenspende-an-rechtspopulisten-entfacht-streit-ueber-parteienfinanzierung](https://www.spiegel.de/ausland/grossbritannien-millionenspende-an-rechtspopulisten-entfacht-streit-ueber-parteienfinanzierung-a-5a694c1e-6e7d-4b1b-b315-8969972cb630#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss)
-### chat
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich-a-f6cb4952-fb24-4c63-87e3-d1a127524bc7#ref=rss)
-### kreml
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich-a-f6cb4952-fb24-4c63-87e3-d1a127524bc7#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich-a-f6cb4952-fb24-4c63-87e3-d1a127524bc7#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari](https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss)
-### tom
-
-* [https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari](https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss)
-### kaulitz
-
-* [https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari](https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss)
-### eigernordwand
-
-* [https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand](https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand-a-77e1227d-6907-414c-a32a-60d901a27874#ref=rss)
-### beziehungsunfähig
-
-* [https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig](https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen](https://www.spiegel.de/wirtschaft/rtl-fragwuerdige-undercover-recherchen-bei-neonazis-und-russischen-cyberkriminellen-a-10ab1785-ea78-489a-9692-277c57235060#ref=rss)
 
