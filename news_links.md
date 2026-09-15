@@ -4,349 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### mehr
 
-* [https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an](https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt](https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz](https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv](https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv-a-c5b0e22b-285a-410e-bcad-ad2bdaefb042#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar-a-ffd49718-3951-4bab-b309-14c3e80fa0ce#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache-a-dc10bea0-87a4-470e-8fa5-420fcbe957c1#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-### junge
-
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne](https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne-a-a38cd7f1-5084-44f4-bddb-71876c8fb7e6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen](https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen-a-6bfd4617-6220-4360-9b5e-1973e8c93ac9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht](https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht-a-46df0852-3233-4b64-b29c-7f09c789e57b#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar-a-ffd49718-3951-4bab-b309-14c3e80fa0ce#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache-a-dc10bea0-87a4-470e-8fa5-420fcbe957c1#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar-a-ffd49718-3951-4bab-b309-14c3e80fa0ce#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache-a-dc10bea0-87a4-470e-8fa5-420fcbe957c1#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache-a-dc10bea0-87a4-470e-8fa5-420fcbe957c1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll](https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr](https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm](https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm-a-d64a8610-39e1-45a5-8bf6-d28819e4b064#ref=rss)
-* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam-a-f906d7d7-ff8a-4ca3-8e3a-d0eb31f8921a#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm](https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm-a-d64a8610-39e1-45a5-8bf6-d28819e4b064#ref=rss)
-* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam-a-f906d7d7-ff8a-4ca3-8e3a-d0eb31f8921a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-warnungen-der-techbosse-donald-trump-spricht-von-einer-verschwoerung-gegen-ki-china-von-panikmache-a-dc10bea0-87a4-470e-8fa5-420fcbe957c1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll](https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt](https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt-a-64acd468-ad37-4afe-b889-9a26288290aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt-a-95c6c868-4c09-4e45-b7fa-e76a730f37f9#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt-a-95c6c868-4c09-4e45-b7fa-e76a730f37f9#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll](https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061#ref=rss)
-### center
-
-* [https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll](https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061#ref=rss)
-### park
-
-* [https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht](https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht-a-46df0852-3233-4b64-b29c-7f09c789e57b#ref=rss)
-### nationalsport
-
-* [https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier](https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier-a-795c4b83-4b62-4374-921e-1a97a9c85981#ref=rss)
-### schwingen
-
-* [https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier](https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier-a-795c4b83-4b62-4374-921e-1a97a9c85981#ref=rss)
-### stier
-
-* [https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier](https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier-a-795c4b83-4b62-4374-921e-1a97a9c85981#ref=rss)
-### preis
-
-* [https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier](https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier-a-795c4b83-4b62-4374-921e-1a97a9c85981#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt](https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss)
-### fahrdienstleiter
-
-* [https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr](https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss)
-### zustand
-
-* [https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr](https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-forscherin-findet-10-000-jahre-alten-mastodon-zahn-in-makellosem-zustand](https://www.spiegel.de/wissenschaft/natur/kalifornien-forscherin-findet-10-000-jahre-alten-mastodon-zahn-in-makellosem-zustand-a-ac4117fb-e110-4b5c-9530-18207bcf6fd9#ref=rss)
-### zuvor
-
-* [https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr](https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht](https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht-a-46df0852-3233-4b64-b29c-7f09c789e57b#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr](https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss)
-* [https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an](https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss)
-### oasis
-
-* [https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an](https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss)
-### konzerte
-
-* [https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an](https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an](https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-### germanische
-
-* [https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft](https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft-a-70d1da5c-0b70-4959-95c5-f6ed8340e8ac#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft](https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft-a-70d1da5c-0b70-4959-95c5-f6ed8340e8ac#ref=rss)
-### medizin
-
-* [https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft](https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft-a-70d1da5c-0b70-4959-95c5-f6ed8340e8ac#ref=rss)
-### fall
-
-* [https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft](https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft-a-70d1da5c-0b70-4959-95c5-f6ed8340e8ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen](https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen-a-6bfd4617-6220-4360-9b5e-1973e8c93ac9#ref=rss)
-### reform
-
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-### uk
-
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-### regeln
-
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut-a-9d1f0df0-48f4-428e-adaf-caf78df0524a#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss](https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt](https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz](https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt](https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss)
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### neues
-
-* [https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt](https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm](https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm-a-d64a8610-39e1-45a5-8bf6-d28819e4b064#ref=rss)
-### kerner
-
-* [https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm](https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm-a-d64a8610-39e1-45a5-8bf6-d28819e4b064#ref=rss)
-### kiewel
-
-* [https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm](https://www.spiegel.de/kultur/tv/zdf-streicht-silvesterparty-mit-kerner-und-kiewel-aus-dem-programm-a-d64a8610-39e1-45a5-8bf6-d28819e4b064#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-### bann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-### afdnahen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-### leute
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll](https://www.spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen](https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen-a-20ede941-0fac-4699-bc92-a164b7df353b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+* [https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland](https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips-a-a135dde6-51d5-43ae-9bf8-f3d0d4b736b3#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-### lage
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-will-oligarch-von-eu-sanktionsliste-streichen](https://www.spiegel.de/ausland/frankreich-will-oligarch-von-eu-sanktionsliste-streichen-a-7f895b07-01bc-44b1-a752-bccb05646424#ref=rss)
+* [https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland](https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### weltuntergang
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### merz
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-### wahrscheinlichkeit
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen](https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen-a-c6c30d20-a956-4758-b24b-6d82f936d991#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031](https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031-a-f2324a13-a740-49d2-9a6c-e66f80f0ee30#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen](https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen-a-c6c30d20-a956-4758-b24b-6d82f936d991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031](https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031-a-f2324a13-a740-49d2-9a6c-e66f80f0ee30#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt](https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt-a-64acd468-ad37-4afe-b889-9a26288290aa#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen](https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut-a-9d1f0df0-48f4-428e-adaf-caf78df0524a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### auslösen
+
+* [https://www.spiegel.de/kultur/deutsche-erinnerungskultur-was-die-militaerbilder-der-ddr-heute-ausloesen](https://www.spiegel.de/kultur/deutsche-erinnerungskultur-was-die-militaerbilder-der-ddr-heute-ausloesen-a-7d045e31-c762-49fb-975a-20107a315448#ref=rss)
+### solche
+
+* [https://www.spiegel.de/kultur/deutsche-erinnerungskultur-was-die-militaerbilder-der-ddr-heute-ausloesen](https://www.spiegel.de/kultur/deutsche-erinnerungskultur-was-die-militaerbilder-der-ddr-heute-ausloesen-a-7d045e31-c762-49fb-975a-20107a315448#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt](https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt-a-44104827-c81f-4d7a-aafd-17bd0cf4ce4b#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen](https://www.spiegel.de/panorama/justiz/saarbruecken-und-stuttgart-terrorverdacht-gegen-eritreische-regierungsgegner-zwei-festnahmen-a-c6c30d20-a956-4758-b24b-6d82f936d991#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn-a-bc26b318-fa78-437f-9f8f-995c7358a691#ref=rss)
+### japan
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+### 100000
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+### alten
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen](https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen-a-1d6fdfc2-6582-45d3-a61c-420148fd0e80#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100](https://www.spiegel.de/wissenschaft/mensch/japan-erstmals-sind-mehr-als-100-000-menschen-aelter-als-100-a-2cb9bb27-0121-43bc-99e2-18b76758ddee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an](https://www.spiegel.de/ausland/russland-krieg-ukraine-greift-oelraffinerie-in-russischer-region-samara-an-a-75148e17-df7f-4670-be9b-74257f99e4ba#ref=rss)
+* [https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland](https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss)
+### panamakanal
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+### el
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+### niño
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+### panama
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all](https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all-a-3f2b1ca5-814b-4f7a-a627-9c44ef1ea562#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein](https://www.spiegel.de/wirtschaft/unternehmen/panamakanal-el-nino-sorgt-fuer-duerre-panama-schraenkt-schiffsverkehr-ein-a-50416bdb-cc54-4cfc-a800-31d1f08e2925#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips-a-a135dde6-51d5-43ae-9bf8-f3d0d4b736b3#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+### ix3
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+### bestellt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa](https://www.spiegel.de/wirtschaft/unternehmen/bmw-ix3-erreicht-100-000-bestellungen-allein-in-europa-a-5262613a-6a62-4dab-9ac2-00e582d45868#ref=rss)
+* [https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber](https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut-a-9d1f0df0-48f4-428e-adaf-caf78df0524a#ref=rss)
-### sorgen
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn-a-bc26b318-fa78-437f-9f8f-995c7358a691#ref=rss)
+### distanziert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-strengere-regeln-fuers-homeoffice-sorgen-fuer-unmut-a-9d1f0df0-48f4-428e-adaf-caf78df0524a#ref=rss)
-### soldaten
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn-a-bc26b318-fa78-437f-9f8f-995c7358a691#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt](https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt-a-64acd468-ad37-4afe-b889-9a26288290aa#ref=rss)
-### söder
+* [https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn](https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-gutachter-zweifelt-an-eigener-studie-zu-grossprojekt-der-deutschen-bahn-a-bc26b318-fa78-437f-9f8f-995c7358a691#ref=rss)
+* [https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt](https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken](https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken-a-7599486d-e3ec-4455-89f4-49d70a42ef75#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt](https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt-a-44104827-c81f-4d7a-aafd-17bd0cf4ce4b#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen](https://www.spiegel.de/sport/fussball/juergen-klopp-beim-dfb-diese-sechs-neuen-spieler-koennten-klopps-probleme-loesen-a-a666cfdf-62ff-456e-a75a-6e1eea4bcd69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031](https://www.spiegel.de/sport/leichtathletik/leichtathletik-muenchen-wird-gastgeber-der-wm-2031-a-f2324a13-a740-49d2-9a6c-e66f80f0ee30#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen](https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen-a-1d6fdfc2-6582-45d3-a61c-420148fd0e80#ref=rss)
+### registriert
+
+* [https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen](https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen-a-20ede941-0fac-4699-bc92-a164b7df353b#ref=rss)
+* [https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland](https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss)
+### regel
+
+* [https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen](https://www.spiegel.de/panorama/justiz/bundeslagebild-2025-gewalt-als-dienstleistung-ausgefuehrt-von-minderjaehrigen-a-20ede941-0fac-4699-bc92-a164b7df353b#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+### zeitbombe
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+### harald
+
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten](https://www.spiegel.de/kultur/tv/harald-schmidt-raet-friedrich-merz-zu-offensiverem-auftreten-a-a8219496-46a5-4c29-98f0-7ab232c7fb4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss)
+### bank
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+### interne
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+### dokumente
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+### icbc
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### fall
+
+* [https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london](https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen](https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen-a-1d6fdfc2-6582-45d3-a61c-420148fd0e80#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen](https://www.spiegel.de/panorama/justiz/fall-fabian-richter-konfrontiert-angeklagte-mit-widerspruechlichen-aussagen-a-1d6fdfc2-6582-45d3-a61c-420148fd0e80#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber](https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812#ref=rss)
+### dänischen
+
+* [https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber](https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812#ref=rss)
+### hubschrauber
+
+* [https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber](https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen](https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber](https://www.spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812#ref=rss)
+### alles
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-das-ist-alles-ein-hoax-sagt-trump-ueber-den-handylautsprecher-a-3803b1f8-41e0-42f4-9bbc-0001ab7cd952#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt](https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt-a-44104827-c81f-4d7a-aafd-17bd0cf4ce4b#ref=rss)
+### brad
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+### pitt
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab](https://www.spiegel.de/panorama/leute/brad-pitt-aeltester-sohn-legt-namen-des-vaters-ab-a-aa59ee2c-171b-4bc5-8caa-e788657768ae#ref=rss)
+### rufe
+
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### regulierung
+
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### haltung
+
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung](https://www.spiegel.de/ausland/openai-anthropic-und-spacexai-rufe-nach-regulierung-und-donald-trumps-unklare-haltung-a-e0dc1655-f5e8-4113-8921-127c017fd140#ref=rss)
+* [https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt](https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-will-oligarch-von-eu-sanktionsliste-streichen](https://www.spiegel.de/ausland/frankreich-will-oligarch-von-eu-sanktionsliste-streichen-a-7f895b07-01bc-44b1-a752-bccb05646424#ref=rss)
 ### spritpreise
 
-* [https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken](https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken-a-7599486d-e3ec-4455-89f4-49d70a42ef75#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt](https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt-a-44104827-c81f-4d7a-aafd-17bd0cf4ce4b#ref=rss)
+### tankrabatt
 
-* [https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken](https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken-a-7599486d-e3ec-4455-89f4-49d70a42ef75#ref=rss)
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### neunjähriger
+* [https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt](https://www.spiegel.de/wirtschaft/soziales/spritpreise-ifw-oekonomen-warnen-vor-neuem-tankrabatt-a-44104827-c81f-4d7a-aafd-17bd0cf4ce4b#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-### vater
+* [https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all](https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all-a-3f2b1ca5-814b-4f7a-a627-9c44ef1ea562#ref=rss)
+### kunden
 
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht](https://www.spiegel.de/panorama/justiz/luebeck-kleinkind-veraetzt-sich-beim-spielen-in-park-haende-und-gesicht-a-46df0852-3233-4b64-b29c-7f09c789e57b#ref=rss)
-### höchsten
+* [https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all](https://www.spiegel.de/wirtschaft/spacex-gewinnt-ersten-kunden-fuer-ruecktransport-aus-dem-all-a-3f2b1ca5-814b-4f7a-a627-9c44ef1ea562#ref=rss)
+### dietzenbach
 
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-### gipfel
+* [https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen](https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss)
+### 60jähriger
 
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-### alpen
+* [https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen](https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss)
+### schussverletzung
 
-* [https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen](https://www.spiegel.de/sport/mont-blanc-neunjaehriger-besteigt-mit-seinem-vater-den-hoechsten-gipfel-der-alpen-a-0a40e831-0c50-442d-96f4-426683e5f2a0#ref=rss)
-### prinzessin
+* [https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen](https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss)
+### gavin
 
-* [https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne](https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne-a-a38cd7f1-5084-44f4-bddb-71876c8fb7e6#ref=rss)
-### isabella
+* [https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt](https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss)
+### newsom
 
-* [https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne](https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne-a-a38cd7f1-5084-44f4-bddb-71876c8fb7e6#ref=rss)
-### kaserne
+* [https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt](https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss)
+### boris
 
-* [https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne](https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne-a-a38cd7f1-5084-44f4-bddb-71876c8fb7e6#ref=rss)
-### besucht
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### becker
 
-* [https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne](https://www.spiegel.de/panorama/leute/daenemark-prinzessin-isabella-bekommt-erstmals-besuch-in-der-kaserne-a-a38cd7f1-5084-44f4-bddb-71876c8fb7e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### neubrandenburg
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### zverevs
 
-* [https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen](https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen-a-6bfd4617-6220-4360-9b5e-1973e8c93ac9#ref=rss)
-### videos
+* [https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen](https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss)
+### new
 
-* [https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen](https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen-a-6bfd4617-6220-4360-9b5e-1973e8c93ac9#ref=rss)
-### 14jährigen
+* [https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen](https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss)
+### soho
 
-* [https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen](https://www.spiegel.de/panorama/justiz/neubrandenburg-videos-zeigen-stundenlange-misshandlung-eines-14-jaehrigen-a-6bfd4617-6220-4360-9b5e-1973e8c93ac9#ref=rss)
-### johann
+* [https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen](https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss)
+### besser
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### wadephul
+* [https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen](https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips-a-a135dde6-51d5-43ae-9bf8-f3d0d4b736b3#ref=rss)
+### andere
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen](https://www.spiegel.de/politik/deutschland/johann-wadephul-in-ungarn-und-dann-wird-der-aussenminister-in-budapest-auf-die-afd-und-friedrich-merz-angesprochen-a-0e7e3680-8d73-412f-85fc-97d86d460449#ref=rss)
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-selbst-am-polarkreis-kaempft-der-kanzler-um-sein-amt-a-95c6c868-4c09-4e45-b7fa-e76a730f37f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz](https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss)
-### vuelta
-
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### enric
-
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### mas
-
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit](https://www.spiegel.de/sport/radsport/vuelta-a-espana-enric-mas-gewinnt-nach-drei-zweiten-plaetzen-in-der-vergangenheit-a-8227effc-97b0-4a00-ac38-84bfaf5f87f8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren](https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren-a-90b9e054-8ac7-48ab-a542-2ee7f682c885#ref=rss)
-### pfaschemikalien
-
-* [https://www.spiegel.de/wissenschaft/pfas-chemikalien-umweltorganisation-warnt-vor-pfas-flut-durch-ki-boom](https://www.spiegel.de/wissenschaft/pfas-chemikalien-umweltorganisation-warnt-vor-pfas-flut-durch-ki-boom-a-a165dc07-43bf-471c-96cf-e3b09ee79c1d#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wissenschaft/pfas-chemikalien-umweltorganisation-warnt-vor-pfas-flut-durch-ki-boom](https://www.spiegel.de/wissenschaft/pfas-chemikalien-umweltorganisation-warnt-vor-pfas-flut-durch-ki-boom-a-a165dc07-43bf-471c-96cf-e3b09ee79c1d#ref=rss)
-### air
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz](https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss)
-### baltic
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz](https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss)
-### spdfrauen
-
-* [https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren](https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren-a-90b9e054-8ac7-48ab-a542-2ee7f682c885#ref=rss)
-### familienstartzeit
-
-* [https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren](https://www.spiegel.de/politik/deutschland/elterngeld-kuerzungen-naechster-reformzoff-spd-frauen-wollen-familienstartzeit-einfuehren-a-90b9e054-8ac7-48ab-a542-2ee7f682c885#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv](https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv-a-c5b0e22b-285a-410e-bcad-ad2bdaefb042#ref=rss)
-### mad
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-### zugenommen
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen](https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss)
-* [https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus](https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus-a-ca731b10-6340-4f90-a4a6-a5e28486dfcf#ref=rss)
-### ätna
-
-* [https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus](https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus-a-ca731b10-6340-4f90-a4a6-a5e28486dfcf#ref=rss)
-### sizilien
-
-* [https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus](https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus-a-ca731b10-6340-4f90-a4a6-a5e28486dfcf#ref=rss)
-### warnstufe
-
-* [https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus](https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus-a-ca731b10-6340-4f90-a4a6-a5e28486dfcf#ref=rss)
-### flugverkehr
-
-* [https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus](https://www.spiegel.de/panorama/vulkan-aetna-auf-sizilien-warnstufe-rot-fuer-flugverkehr-viele-fluege-fallen-aus-a-ca731b10-6340-4f90-a4a6-a5e28486dfcf#ref=rss)
-### jens
-
-* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam-a-f906d7d7-ff8a-4ca3-8e3a-d0eb31f8921a#ref=rss)
-### stoltenberg
-
-* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam-a-f906d7d7-ff8a-4ca3-8e3a-d0eb31f8921a#ref=rss)
-### gemeinsam
-
-* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-helga-maria-schmid-und-jens-stoltenberg-leiten-kuenftig-gemeinsam-a-f906d7d7-ff8a-4ca3-8e3a-d0eb31f8921a#ref=rss)
-### mercedesbenz
-
-* [https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv](https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv-a-c5b0e22b-285a-410e-bcad-ad2bdaefb042#ref=rss)
-### gle
-
-* [https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv](https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv-a-c5b0e22b-285a-410e-bcad-ad2bdaefb042#ref=rss)
-### suv
-
-* [https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv](https://www.spiegel.de/wirtschaft/mercedes-benz-gle-weltweiter-rueckruf-von-mehr-als-23-000-suv-a-c5b0e22b-285a-410e-bcad-ad2bdaefb042#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss)
 
