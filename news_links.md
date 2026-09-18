@@ -4,359 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung-a-486fba3e-4448-4e67-b69f-3641943f7abf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung](https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung-a-191a2070-62d5-4b93-b3f2-ed7ae03e186f#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule](https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung-a-486fba3e-4448-4e67-b69f-3641943f7abf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule](https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks](https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks-a-1cfca274-c409-41a2-9e58-90ba4986ad3d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck-a-1d9e13be-bcfe-4914-a961-63442ba8d0f7#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule](https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise](https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss)
-### ums
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-* [https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste](https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste-a-17856128-4223-4707-a477-d3978a8f3b35#ref=rss)
-* [https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg](https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg-a-0565190c-fb92-4d34-b9a0-d57290833527#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste](https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste-a-17856128-4223-4707-a477-d3978a8f3b35#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht-a-9c6f2a0b-8595-4587-a56c-631f1e876d56#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule](https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz-a-422aaeec-df88-4403-b1af-e9720f69bb53#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung](https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung-a-191a2070-62d5-4b93-b3f2-ed7ae03e186f#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum-a-a43191e3-d9f4-4341-b733-7b7d94703336#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit-a-cddc459e-5d1a-4b0e-bb30-053c9a16c74e#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz-a-422aaeec-df88-4403-b1af-e9720f69bb53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten](https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg](https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg-a-0565190c-fb92-4d34-b9a0-d57290833527#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/urbach-in-thueringen-streifenwagen-faehrt-radfahrer-um](https://www.spiegel.de/panorama/justiz/urbach-in-thueringen-streifenwagen-faehrt-radfahrer-um-a-d040d03b-e2cc-451d-b9f6-4295abeffc14#ref=rss)
-### köln
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck-a-1d9e13be-bcfe-4914-a961-63442ba8d0f7#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
-### explosion
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht-a-9c6f2a0b-8595-4587-a56c-631f1e876d56#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht-a-9c6f2a0b-8595-4587-a56c-631f1e876d56#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-explosion-taliban-im-verdacht-a-9c6f2a0b-8595-4587-a56c-631f1e876d56#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-### salzburger
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-### festspiele
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-### de
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-### caluwe
-
-* [https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant](https://www.spiegel.de/kultur/musik/salzburger-festspiele-peter-de-caluwe-wird-neuer-intendant-a-fa963098-635c-4289-840b-f38e692ace1a#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-### reint
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-### gropp
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten](https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden](https://www.spiegel.de/wirtschaft/soziales/oekonom-reint-gropp-ich-befuerchte-dass-wir-noch-einige-wahlsiege-der-afd-erleben-werden-a-0d82e43e-ef26-418e-9c8c-f5f50a25a7c7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten](https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss](https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss-a-1b3a06cb-091c-4856-b6f3-81ebb2e22eff#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss](https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss-a-1b3a06cb-091c-4856-b6f3-81ebb2e22eff#ref=rss)
-### medien
-
-* [https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss](https://www.spiegel.de/ausland/eu-und-kanada-so-kommentieren-europaeische-medien-den-schulterschluss-a-1b3a06cb-091c-4856-b6f3-81ebb2e22eff#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule](https://www.spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-### rote
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-### rathaus
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen](https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel](https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden](https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden-a-9792cde1-888e-4e43-b4aa-258480ec4185#ref=rss)
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+* [https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern](https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern-a-223708cf-7872-4dd2-a799-b66967aea6c5#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten](https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss)
-### indigene
+* [https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke](https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke-a-66026553-1c6f-48e0-94fe-8918e33c60fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar-a-8da02b3a-efb2-423e-93ae-18ffbd79d6f7#ref=rss)
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-### gedacht
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier](https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier-a-5ca1c979-70be-48d3-91ce-2937e95d9bbb#ref=rss)
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel](https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise](https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss)
-### prozent
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier](https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier-a-5ca1c979-70be-48d3-91ce-2937e95d9bbb#ref=rss)
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### ende
 
-* [https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht](https://www.spiegel.de/wissenschaft/mensch/in-australien-lebten-offenbar-viel-mehr-indigene-als-bisher-gedacht-a-d5478b78-b469-49df-8308-5949683a82b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum-a-a43191e3-d9f4-4341-b733-7b7d94703336#ref=rss)
-### weg
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet](https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen](https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen-a-50a45fd8-e39b-48ca-b855-c70b927477ea#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung-a-486fba3e-4448-4e67-b69f-3641943f7abf#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+* [https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern](https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern-a-223708cf-7872-4dd2-a799-b66967aea6c5#ref=rss)
+### geld
 
-* [https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung-a-486fba3e-4448-4e67-b69f-3641943f7abf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste](https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste-a-17856128-4223-4707-a477-d3978a8f3b35#ref=rss)
-* [https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg](https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg-a-0565190c-fb92-4d34-b9a0-d57290833527#ref=rss)
-### landes
-
-* [https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste](https://www.spiegel.de/panorama/perth-in-australien-hai-toetet-schwimmer-vor-westaustralischer-kueste-a-17856128-4223-4707-a477-d3978a8f3b35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-### menschheit
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-real-ist-die-gefahr-durch-boesartige-superintelligenz-a-422aaeec-df88-4403-b1af-e9720f69bb53#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit-a-cddc459e-5d1a-4b0e-bb30-053c9a16c74e#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks](https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks-a-1cfca274-c409-41a2-9e58-90ba4986ad3d#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks](https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks-a-1cfca274-c409-41a2-9e58-90ba4986ad3d#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks](https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks-a-1cfca274-c409-41a2-9e58-90ba4986ad3d#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks](https://www.spiegel.de/sport/fussball/bundestrainer-juergen-klopp-grenzen-setzen-menschen-ueberzeugen-so-funktionieren-klopps-kommunikationstricks-a-1cfca274-c409-41a2-9e58-90ba4986ad3d#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-manager-brent-hecht-ki-womoeglich-groesster-diebstahl-in-der-geschichte-der-menschheit-a-cddc459e-5d1a-4b0e-bb30-053c9a16c74e#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft](https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft-a-23213add-ea82-4fb0-af58-17581f9cf952#ref=rss)
-### ferdi
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft](https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft-a-23213add-ea82-4fb0-af58-17581f9cf952#ref=rss)
-### soylu
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft](https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft-a-23213add-ea82-4fb0-af58-17581f9cf952#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft](https://www.spiegel.de/panorama/justiz/tuerkei-warum-sitzt-ferdi-soylu-aus-ulm-seit-einem-monat-in-ankara-in-haft-a-23213add-ea82-4fb0-af58-17581f9cf952#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum-a-a43191e3-d9f4-4341-b733-7b7d94703336#ref=rss)
-### wachstum
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum-a-a43191e3-d9f4-4341-b733-7b7d94703336#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-industrie-rechnet-mit-staerkerem-wachstum-a-a43191e3-d9f4-4341-b733-7b7d94703336#ref=rss)
-### lars
-
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-### eidinger
-
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-### hollywood
-
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt](https://www.spiegel.de/kultur/kino/dreh-als-comic-boesewicht-lars-eidinger-hat-sich-in-hollywood-verliebt-a-c9d309b7-1775-4bc2-b210-46fa173d6ba4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-### f35
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-### texas
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### flieger
-
-* [https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann](https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg](https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg-a-0565190c-fb92-4d34-b9a0-d57290833527#ref=rss)
-### riese
-
-* [https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg](https://www.spiegel.de/sport/radsport/max-riese-ultra-radsportler-stirbt-bei-unfall-in-salzburg-a-0565190c-fb92-4d34-b9a0-d57290833527#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-die-letzten-menschen-von-koeln-im-schnellcheck-a-1d9e13be-bcfe-4914-a961-63442ba8d0f7#ref=rss)
-### benzin
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise](https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-### konzerne
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen](https://www.spiegel.de/wirtschaft/service/spritpreis-drei-euro-fuer-benzin-lasst-endlich-die-konzerne-zahlen-a-8da7240c-29d0-41e9-9954-90477ea71538#ref=rss)
-### fährt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/urbach-in-thueringen-streifenwagen-faehrt-radfahrer-um](https://www.spiegel.de/panorama/justiz/urbach-in-thueringen-streifenwagen-faehrt-radfahrer-um-a-d040d03b-e2cc-451d-b9f6-4295abeffc14#ref=rss)
-### sbahn
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet](https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
 ### nimmt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn](https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### erzeugerpreise
+* [https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf](https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf-a-dbd8ac2a-d7d2-44d5-99f9-130d06f5dc63#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### spritpreise
 
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-### geben
+* [https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel](https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/spritpreise-elektro-lkw-auf-der-iaa-transportation-als-diesel-preisbrecher](https://www.spiegel.de/mobilitaet/spritpreise-elektro-lkw-auf-der-iaa-transportation-als-diesel-preisbrecher-a-ca0ec0ce-bd57-474d-9c4b-16df76e00f62#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber](https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung](https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung-a-191a2070-62d5-4b93-b3f2-ed7ae03e186f#ref=rss)
-### schweiz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+* [https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern](https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern-a-223708cf-7872-4dd2-a799-b66967aea6c5#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz](https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz-a-ef405f83-120b-4955-b3ed-f08e0d73be41#ref=rss)
-### ubs
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern](https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern-a-223708cf-7872-4dd2-a799-b66967aea6c5#ref=rss)
+### oktoberfest
 
-* [https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz](https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz-a-ef405f83-120b-4955-b3ed-f08e0d73be41#ref=rss)
-### droht
+* [https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist](https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz](https://www.spiegel.de/wirtschaft/grossbank-ubs-droht-mit-wegzug-aus-der-schweiz-a-ef405f83-120b-4955-b3ed-f08e0d73be41#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-### sharon
+* [https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke](https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke-a-66026553-1c6f-48e0-94fe-8918e33c60fc#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### stone
+* [https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab](https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### basic
+* [https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab](https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### instinct
+* [https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab](https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss)
+### daraufhin
 
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-### angst
+* [https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab](https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+### andrej
 
-* [https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst](https://www.spiegel.de/panorama/leute/sharon-stone-menschen-haben-wegen-basic-instinct-angst-vor-ihr-sagt-sie-selbst-a-3220853d-d6cd-47c1-a0d2-0d01a916acdd#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump](https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump-a-0a319587-45c4-4a71-844e-a765bba63264#ref=rss)
-### wählen
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+### swjaginzew
 
-* [https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung](https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung-a-191a2070-62d5-4b93-b3f2-ed7ae03e186f#ref=rss)
-### fordert
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+### kreml
 
-* [https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten](https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss)
-### los
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen](https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen-a-50a45fd8-e39b-48ca-b855-c70b927477ea#ref=rss)
+### ausländischen
 
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-### angeles
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+### agenten
 
-* [https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt](https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss)
-### adac
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise](https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss)
-### niedrigere
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier](https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier-a-5ca1c979-70be-48d3-91ce-2937e95d9bbb#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise](https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss)
-### maría
+* [https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein](https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet](https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump](https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump-a-0a319587-45c4-4a71-844e-a765bba63264#ref=rss)
-### elvira
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+### recht
 
-* [https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump](https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump-a-0a319587-45c4-4a71-844e-a765bba63264#ref=rss)
-### salazar
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden](https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden-a-9792cde1-888e-4e43-b4aa-258480ec4185#ref=rss)
+### schwesig
 
-* [https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump](https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump-a-0a319587-45c4-4a71-844e-a765bba63264#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen](https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+### bergleute
+
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+### gewahrsam
+
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+### paramilitärs
+
+* [https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers](https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss)
+### giz
+
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+### verlor
+
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor](https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss)
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### wanja
+
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+### oberhof
+
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+### fest
+
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest](https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar-a-8da02b3a-efb2-423e-93ae-18ffbd79d6f7#ref=rss)
+### könig
+
+* [https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf](https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf-a-dbd8ac2a-d7d2-44d5-99f9-130d06f5dc63#ref=rss)
+### harald
+
+* [https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf](https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf-a-dbd8ac2a-d7d2-44d5-99f9-130d06f5dc63#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf](https://www.spiegel.de/panorama/norwegen-sarg-von-koenig-harald-v-ist-gruen-und-nimmt-auch-co-auf-a-dbd8ac2a-d7d2-44d5-99f9-130d06f5dc63#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast](https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast-a-98b42004-571a-4628-91f4-d95554f0f8f8#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel](https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+### tankpreisdeckel
+
+* [https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel](https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### böhmermann
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### magazin
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### royale
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf](https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss)
+### tagebuch
+
+* [https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast](https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast-a-98b42004-571a-4628-91f4-d95554f0f8f8#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast](https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast-a-98b42004-571a-4628-91f4-d95554f0f8f8#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast](https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast-a-98b42004-571a-4628-91f4-d95554f0f8f8#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### f35tarnkappenjet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen](https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### odyssee
+
+* [https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden](https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden-a-9792cde1-888e-4e43-b4aa-258480ec4185#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist](https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss)
+### wiesn
+
+* [https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist](https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist](https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen](https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen-a-50a45fd8-e39b-48ca-b855-c70b927477ea#ref=rss)
+### groß
+
+* [https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist](https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar-a-8da02b3a-efb2-423e-93ae-18ffbd79d6f7#ref=rss)
+### nino
+
+* [https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet](https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss)
+### goldbeck
+
+* [https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet](https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen](https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen-a-50a45fd8-e39b-48ca-b855-c70b927477ea#ref=rss)
+### a1
+
+* [https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt](https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt-a-bec123df-79ad-4cd0-84f9-c8b35d98e7c7#ref=rss)
+### gesperrt
+
+* [https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt](https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt-a-bec123df-79ad-4cd0-84f9-c8b35d98e7c7#ref=rss)
+### maroden
+
+* [https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt](https://www.spiegel.de/mobilitaet/auto/hamburg-suederelbbruecke-der-autobahn-a1-und-koehlbrandbruecke-gesperrt-a-bec123df-79ad-4cd0-84f9-c8b35d98e7c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder](https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder-a-6705a9fb-b3be-4633-b11e-a3721248ea7e#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
 ### ersten
 
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
-### super
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### entgegen
 
-* [https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger](https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen](https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss)
+### fälle
+
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt](https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/ausland/frankreich-rechtsextremer-polizist-wegen-terrorverdachts-in-untersuchungshaft](https://www.spiegel.de/ausland/frankreich-rechtsextremer-polizist-wegen-terrorverdachts-in-untersuchungshaft-a-54ace122-ec94-4d3e-ad23-2fbbc1060f3e#ref=rss)
+### untersuchungshaft
+
+* [https://www.spiegel.de/ausland/frankreich-rechtsextremer-polizist-wegen-terrorverdachts-in-untersuchungshaft](https://www.spiegel.de/ausland/frankreich-rechtsextremer-polizist-wegen-terrorverdachts-in-untersuchungshaft-a-54ace122-ec94-4d3e-ad23-2fbbc1060f3e#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+### swift
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+### popstar
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+### tom
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+### cruise
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+### einiges
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion](https://www.spiegel.de/panorama/leute/taylor-swift-erteilt-tom-cruise-eine-football-lektion-a-fda79009-4450-40ac-b63a-e4130478acb4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn](https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss)
+### iaa
+
+* [https://www.spiegel.de/mobilitaet/spritpreise-elektro-lkw-auf-der-iaa-transportation-als-diesel-preisbrecher](https://www.spiegel.de/mobilitaet/spritpreise-elektro-lkw-auf-der-iaa-transportation-als-diesel-preisbrecher-a-ca0ec0ce-bd57-474d-9c4b-16df76e00f62#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen](https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss)
+### evers
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen](https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen](https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss)
+### berkshire
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder](https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder-a-6705a9fb-b3be-4633-b11e-a3721248ea7e#ref=rss)
+### hathaway
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder](https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder-a-6705a9fb-b3be-4633-b11e-a3721248ea7e#ref=rss)
+### warren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder](https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder-a-6705a9fb-b3be-4633-b11e-a3721248ea7e#ref=rss)
+### buffett
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder](https://www.spiegel.de/wirtschaft/unternehmen/berkshire-hathaway-warren-buffett-legt-nun-auch-verwaltungsratsvorsitz-nieder-a-6705a9fb-b3be-4633-b11e-a3721248ea7e#ref=rss)
 
