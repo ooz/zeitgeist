@@ -4,336 +4,285 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### frankreich
 
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu](https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu](https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### jinping
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat](https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat-a-7b59baef-2772-4cf1-9f61-55e676dec882#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden](https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden-a-6cd46609-4fb0-4cca-9fd6-5f26aeb0376d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe](https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe-a-c1019fd0-5f27-4f97-a3dd-349824a71927#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat](https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat-a-7b59baef-2772-4cf1-9f61-55e676dec882#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-### bernhard
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen](https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-* [https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen](https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen-a-11059cf6-5f04-4fd1-a2be-1bd3c3b55b54#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben-a-a3a490fc-3b49-4faa-8f90-58cfa1def8c6#ref=rss)
-### eingeladen
-
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/olympia/olympia-in-rhein-ruhr-oder-muenchen-die-fakten-zur-wahl-des-deutschen-kandidaten](https://www.spiegel.de/sport/olympia/olympia-in-rhein-ruhr-oder-muenchen-die-fakten-zur-wahl-des-deutschen-kandidaten-a-5666086d-5f68-4838-afdb-b6cb60dada81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### götz
-
-* [https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat](https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat-a-7b59baef-2772-4cf1-9f61-55e676dec882#ref=rss)
-### kubitschek
-
-* [https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat](https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat-a-7b59baef-2772-4cf1-9f61-55e676dec882#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht](https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-a-4d51f7cc-9752-4bce-99f8-a55edaf7a2f6#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-### hawaii
-
-* [https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht](https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-a-4d51f7cc-9752-4bce-99f8-a55edaf7a2f6#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht](https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-a-4d51f7cc-9752-4bce-99f8-a55edaf7a2f6#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht](https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-a-4d51f7cc-9752-4bce-99f8-a55edaf7a2f6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken](https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken-a-c7e4ebd1-9f94-4331-b0b3-75f2cb4fd38a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu](https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft](https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-### bill
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-### gates
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-### maricarmen
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-### abascal
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-### wohnung
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-### jahrzehnte
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen](https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### lädt
-
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein](https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben](https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben-a-5b637aa1-27e7-4f6f-96bb-b90baf9aaeb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben](https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben-a-5b637aa1-27e7-4f6f-96bb-b90baf9aaeb7#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda](https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda-a-b0d8ade1-005e-4482-9426-f73ababfcaa9#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben](https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben-a-5b637aa1-27e7-4f6f-96bb-b90baf9aaeb7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-### berlusconi
-
-* [https://www.spiegel.de/ausland/mailand-flughafen-milano-malpensa-nach-silvio-berlusconi-benannt](https://www.spiegel.de/ausland/mailand-flughafen-milano-malpensa-nach-silvio-berlusconi-benannt-a-ec9f663f-694c-4de4-80e5-83d637c8fd84#ref=rss)
-### namen
-
-* [https://www.spiegel.de/ausland/mailand-flughafen-milano-malpensa-nach-silvio-berlusconi-benannt](https://www.spiegel.de/ausland/mailand-flughafen-milano-malpensa-nach-silvio-berlusconi-benannt-a-ec9f663f-694c-4de4-80e5-83d637c8fd84#ref=rss)
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter](https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/olympia-in-rhein-ruhr-oder-muenchen-die-fakten-zur-wahl-des-deutschen-kandidaten](https://www.spiegel.de/sport/olympia/olympia-in-rhein-ruhr-oder-muenchen-die-fakten-zur-wahl-des-deutschen-kandidaten-a-5666086d-5f68-4838-afdb-b6cb60dada81#ref=rss)
-### töpper
-
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-### teil
-
-* [https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben](https://www.spiegel.de/panorama/bernhard-toepper-ist-tot-zdf-experte-aus-wie-wuerden-sie-entscheiden-gestorben-a-8ae9efcd-7cd8-49df-a8fb-3a224048bbe0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken](https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken-a-c7e4ebd1-9f94-4331-b0b3-75f2cb4fd38a#ref=rss)
-### gunter
-
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-### demnig
-
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-### heidenau
-
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter](https://www.spiegel.de/panorama/gesellschaft/gunter-demnig-zum-stolperstein-verbot-in-heidenau-dass-die-cdu-da-mitmacht-ist-bitter-a-55e379dd-1392-4980-b646-481e30446e3f#ref=rss)
-### jayz
-
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein](https://www.spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/evonik-uebernahmespekulationen-durch-basf-treiben-aktie-deutlich-an](https://www.spiegel.de/wirtschaft/unternehmen/evonik-uebernahmespekulationen-durch-basf-treiben-aktie-deutlich-an-a-00a771f7-8b2c-4db3-87f3-1ba76eca84fe#ref=rss)
-### leitungswasser
-
-* [https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen](https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen-a-11059cf6-5f04-4fd1-a2be-1bd3c3b55b54#ref=rss)
-### abkochen
-
-* [https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen](https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen-a-11059cf6-5f04-4fd1-a2be-1bd3c3b55b54#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen](https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen-a-11059cf6-5f04-4fd1-a2be-1bd3c3b55b54#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen](https://www.spiegel.de/panorama/wiesbaden-bakterium-entdeckt-menschen-sollen-leitungswasser-abkochen-a-11059cf6-5f04-4fd1-a2be-1bd3c3b55b54#ref=rss)
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter](https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss)
-### supreme
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu](https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss)
-### court
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu](https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-### g20gipfel
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben-a-a3a490fc-3b49-4faa-8f90-58cfa1def8c6#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben-a-a3a490fc-3b49-4faa-8f90-58cfa1def8c6#ref=rss)
-### gremlins
-
-* [https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken](https://www.spiegel.de/kultur/kino/gremlins-3-kein-sonnenlicht-kein-wasser-niemals-nach-mitternacht-fuettern-nicht-vor-2028-im-kino-gucken-a-c7e4ebd1-9f94-4331-b0b3-75f2cb4fd38a#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona](https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss)
-### sandra
-
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter](https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss)
-### hüller
-
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter](https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss)
-### wdr
-
-* [https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote](https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote-a-3b3a71a2-cd62-4f14-bfad-10af9c1978af#ref=rss)
-### angebote
-
-* [https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote](https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote-a-3b3a71a2-cd62-4f14-bfad-10af9c1978af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen](https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen-a-196e01cc-5d65-4a17-bff1-0404c2bb7af0#ref=rss)
+* [https://www.spiegel.de/panorama/kabeldiebstahl-legt-bahnverkehr-um-gelsenkirchen-herum-still](https://www.spiegel.de/panorama/kabeldiebstahl-legt-bahnverkehr-um-gelsenkirchen-herum-still-a-13dc25b4-3869-4631-9356-ed4a847bc0f4#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote](https://www.spiegel.de/wirtschaft/koeln-wdr-baut-stellen-ab-und-streicht-76-angebote-a-3b3a71a2-cd62-4f14-bfad-10af9c1978af#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### vw
+* [https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen](https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen-a-196e01cc-5d65-4a17-bff1-0404c2bb7af0#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda](https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda-a-b0d8ade1-005e-4482-9426-f73ababfcaa9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus](https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus-a-79d9a254-8ad4-42c4-9eb6-219d57bc377a#ref=rss)
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+* [https://www.spiegel.de/reise/sprachreisen-warum-menschen-ueber-50-auf-sprachreise-gehen-und-wie-sie-aus-dem-ausland-zurueckkehren](https://www.spiegel.de/reise/sprachreisen-warum-menschen-ueber-50-auf-sprachreise-gehen-und-wie-sie-aus-dem-ausland-zurueckkehren-a-e73dff55-1e26-4787-9400-01ea258bd0be#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast](https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast-a-15704d41-da52-4534-b7fe-c986afa4a179#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### entdecken
+
+* [https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe](https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe-a-c1019fd0-5f27-4f97-a3dd-349824a71927#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warnung-vor-hamas-angriff-bericht-erhoeht-druck-auf-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-warnung-vor-hamas-angriff-bericht-erhoeht-druck-auf-netanyahu-a-4db1ad99-f104-4ee3-97d6-350180e77017#ref=rss)
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/soziales/deutsche-krankenhausgesellschaft-forderung-nach-schnellerer-anerkennung-auslaendischer-abschluesse](https://www.spiegel.de/wirtschaft/soziales/deutsche-krankenhausgesellschaft-forderung-nach-schnellerer-anerkennung-auslaendischer-abschluesse-a-9ca4ab2f-efd9-481c-a171-196eb619fabe#ref=rss)
+* [https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet](https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/reinhard-mey-hat-eine-neues-album-veroeffentlicht-was-kann-uns-der-83-jaehrige-liedermacher-noch-ueber-deutschland-erzaehlen](https://www.spiegel.de/kultur/musik/reinhard-mey-hat-eine-neues-album-veroeffentlicht-was-kann-uns-der-83-jaehrige-liedermacher-noch-ueber-deutschland-erzaehlen-a-88102117-a1c1-43eb-9f6d-0185ec1e3127#ref=rss)
+### handeln
+
+* [https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast](https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast-a-15704d41-da52-4534-b7fe-c986afa4a179#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### autobahn
+
+* [https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt](https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt-a-9ee38459-8ec8-47d3-aa05-d0821ebb8db3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### linken
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+* [https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet](https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+* [https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet](https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test](https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test-a-3177e38b-dcf9-49d1-967c-e9c0e31f9b49#ref=rss)
+### plant
+
+* [https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen](https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen-a-196e01cc-5d65-4a17-bff1-0404c2bb7af0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### fachleute
+
+* [https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen](https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen-a-196e01cc-5d65-4a17-bff1-0404c2bb7af0#ref=rss)
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen](https://www.spiegel.de/politik/deutschland/kindschaftsrecht-wie-sollen-gerichte-kuenftig-mit-gewalttaetigen-vaetern-umgehen-a-196e01cc-5d65-4a17-bff1-0404c2bb7af0#ref=rss)
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
+### zinédine
+
+* [https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden](https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden-a-6cd46609-4fb0-4cca-9fd6-5f26aeb0376d#ref=rss)
+### zidane
+
+* [https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden](https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden-a-6cd46609-4fb0-4cca-9fd6-5f26aeb0376d#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden](https://www.spiegel.de/sport/fussball/nations-league-zinedine-zidane-feiert-gelungenen-einstand-als-frankreich-trainer-italien-fans-leiden-a-6cd46609-4fb0-4cca-9fd6-5f26aeb0376d#ref=rss)
+### mikroben
+
+* [https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-mikroben-koennten-unter-enceladus-eis-ueberleben](https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-mikroben-koennten-unter-enceladus-eis-ueberleben-a-22a6db7d-6947-482c-94c5-7a3aa54fa134#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe](https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe-a-c1019fd0-5f27-4f97-a3dd-349824a71927#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### katholizismus
+
+* [https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe](https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe-a-c1019fd0-5f27-4f97-a3dd-349824a71927#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warnung-vor-hamas-angriff-bericht-erhoeht-druck-auf-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-warnung-vor-hamas-angriff-bericht-erhoeht-druck-auf-netanyahu-a-4db1ad99-f104-4ee3-97d6-350180e77017#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/kabeldiebstahl-legt-bahnverkehr-um-gelsenkirchen-herum-still](https://www.spiegel.de/panorama/kabeldiebstahl-legt-bahnverkehr-um-gelsenkirchen-herum-still-a-13dc25b4-3869-4631-9356-ed4a847bc0f4#ref=rss)
+### peter
+
+* [https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen](https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen-a-78fa1c48-e635-4a22-993b-01a2f217db9f#ref=rss)
+### nogly
+
+* [https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen](https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen-a-78fa1c48-e635-4a22-993b-01a2f217db9f#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen](https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen-a-78fa1c48-e635-4a22-993b-01a2f217db9f#ref=rss)
 ### volkswagen
 
-* [https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping](https://www.spiegel.de/politik/deutschland/rueckruf-bei-vw-verkehrsminister-bilger-ueber-die-deutsche-bahn-treffen-trump-und-xi-jinping-a-d9f5d5ca-4470-4347-a7a6-1b04bf79ed7a#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda](https://www.spiegel.de/mobilitaet/auto/vw-rueckruf-von-golf-tiguan-touran-audi-q3-und-skoda-a-b0d8ade1-005e-4482-9426-f73ababfcaa9#ref=rss)
-### präsidenten
+* [https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus](https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus-a-79d9a254-8ad4-42c4-9eb6-219d57bc377a#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus](https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus-a-79d9a254-8ad4-42c4-9eb6-219d57bc377a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen](https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen-a-9584afe4-a111-4bff-82af-d13ff0b2e67d#ref=rss)
+### halloween
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### besonders
+* [https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend](https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend-a-434d95db-7dfb-454c-b47c-9a8130976961#ref=rss)
+### bekommt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### atomuhr
+* [https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend](https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend-a-434d95db-7dfb-454c-b47c-9a8130976961#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+### mobbing
 
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### uhr
+* [https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast](https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast-a-15704d41-da52-4534-b7fe-c986afa4a179#ref=rss)
+### erkennen
 
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-### funktioniert
+* [https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast](https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast-a-15704d41-da52-4534-b7fe-c986afa4a179#ref=rss)
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
+### françois
 
-* [https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt](https://www.spiegel.de/wissenschaft/technik/atomuhr-auf-lutetium-basis-neuer-rekord-das-ist-die-genaueste-uhr-der-welt-a-dc83519f-3535-462d-bd59-d77c2ff35f75#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kriminelle-kapern-konten-ueber-fingierte-abstimmungsanfragen](https://www.spiegel.de/netzwelt/apps/whatsapp-kriminelle-kapern-konten-ueber-fingierte-abstimmungsanfragen-a-3440aa8d-a545-4315-94c4-360b1090ad41#ref=rss)
-### roman
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### hollande
 
-* [https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen](https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss)
-### liste
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### amt
 
-* [https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen](https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss)
-### französischen
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### marine
 
-* [https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen](https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien](https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien-a-89139373-6b1b-46e4-859d-88968b668dec#ref=rss)
-### basf
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### le
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/evonik-uebernahmespekulationen-durch-basf-treiben-aktie-deutlich-an](https://www.spiegel.de/wirtschaft/unternehmen/evonik-uebernahmespekulationen-durch-basf-treiben-aktie-deutlich-an-a-00a771f7-8b2c-4db3-87f3-1ba76eca84fe#ref=rss)
-### kimi
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### pen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16](https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16-a-3624d4a3-f9e3-4eb5-bf2b-87f434452e78#ref=rss)
-### antonelli
+* [https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern](https://www.spiegel.de/ausland/frankreich-wie-francois-hollande-zurueck-ins-amt-will-um-marine-le-pen-zu-verhindern-a-f5d40ba1-1fee-4607-9e9a-1bdec4a1c009#ref=rss)
+### gefühle
 
-* [https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16](https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16-a-3624d4a3-f9e3-4eb5-bf2b-87f434452e78#ref=rss)
-### preis
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### steuern
 
-* [https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16](https://www.spiegel.de/sport/formel1/formel-1-qualifying-in-baku-wm-spitzenreiter-kimi-antonelli-nach-crash-nur-16-a-3624d4a3-f9e3-4eb5-bf2b-87f434452e78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### soldaten
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### unser
 
-* [https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien](https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien-a-89139373-6b1b-46e4-859d-88968b668dec#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### harvardpsychologin
 
-* [https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien](https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien-a-89139373-6b1b-46e4-859d-88968b668dec#ref=rss)
-### schützen
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### nutzt
 
-* [https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien](https://www.spiegel.de/ausland/frankreich-was-will-emmanuel-macron-mit-soldaten-in-saudi-arabien-a-89139373-6b1b-46e4-859d-88968b668dec#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kriminelle-kapern-konten-ueber-fingierte-abstimmungsanfragen](https://www.spiegel.de/netzwelt/apps/whatsapp-kriminelle-kapern-konten-ueber-fingierte-abstimmungsanfragen-a-3440aa8d-a545-4315-94c4-360b1090ad41#ref=rss)
-### flexible
+* [https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt](https://www.spiegel.de/wirtschaft/gefuehle-steuern-unser-handeln-harvard-psychologin-erklaert-wie-man-sie-nutzt-a-c7008cd6-773e-49df-9017-c77b7264e700#ref=rss)
+### a1
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### personalplanung
+* [https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt](https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt-a-9ee38459-8ec8-47d3-aa05-d0821ebb8db3#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
-### beschäftigte
+* [https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt](https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt-a-9ee38459-8ec8-47d3-aa05-d0821ebb8db3#ref=rss)
+### voll
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last](https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss)
+* [https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt](https://www.spiegel.de/panorama/a1-bei-bremen-gefahrgut-transporter-explodiert-autobahn-war-voll-gesperrt-a-9ee38459-8ec8-47d3-aa05-d0821ebb8db3#ref=rss)
+### mark
+
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+### zuckerberg
+
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+### poloshirts
+
+* [https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen](https://www.spiegel.de/netzwelt/apps/mark-zuckerberg-helfen-ihm-neue-polohirts-seinen-eigenen-algorithmus-zu-verstehen-a-9a25db7e-0152-40a2-998c-f0b22822c106#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+### brantner
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+### bündnis
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken](https://www.spiegel.de/politik/deutschland/gruene-co-chefin-franziska-brantner-stellt-bedingungen-fuer-buendnis-mit-der-linken-a-05c96eb5-fe06-4eb0-a40c-c7799d5dc23e#ref=rss)
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab](https://www.spiegel.de/politik/sachsen-anhalt-bsw-lehnt-koalition-mit-afd-trotz-corona-sondierungen-ab-a-ef9c581a-4625-4f49-9d46-d42b4b421847#ref=rss)
+### missouri
+
+* [https://www.spiegel.de/ausland/usa-supreme-court-verhindert-neuen-wahlkreiszuschnitt-in-missouri](https://www.spiegel.de/ausland/usa-supreme-court-verhindert-neuen-wahlkreiszuschnitt-in-missouri-a-17abdf34-9c55-41f3-b90a-2cc03c3d7aeb#ref=rss)
+### fpö
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-fpoe-den-vorwurf-des-antisemitismus-loswerden-will](https://www.spiegel.de/ausland/oesterreich-wie-die-fpoe-den-vorwurf-des-antisemitismus-loswerden-will-a-a8211483-94dc-4a23-8196-9f503212e74b#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen](https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen-a-9584afe4-a111-4bff-82af-d13ff0b2e67d#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen](https://www.spiegel.de/politik/deutschland/jens-spahn-sardinien-trip-sorgt-fuer-maechtig-aerger-bei-seinen-cdu-kollegen-a-9584afe4-a111-4bff-82af-d13ff0b2e67d#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss)
+### pflanzliche
+
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
+### kontrollen
+
+* [https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen](https://www.spiegel.de/panorama/supplements-pflanzliche-praeparate-boomen-fachleute-warnen-vor-fehlenden-kontrollen-a-50ef89c8-15d4-47d5-a942-c8cbdcef2e16#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss)
+### kiagenten
+
+* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss)
+### webseiten
+
+* [https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu](https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss)
+### kompakte
+
+* [https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test](https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test-a-3177e38b-dcf9-49d1-967c-e9c0e31f9b49#ref=rss)
+### modelle
+
+* [https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test](https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test-a-3177e38b-dcf9-49d1-967c-e9c0e31f9b49#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet](https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### gewissheiten
+
+* [https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet](https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss)
+### steffen
+
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### bilger
+
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser](https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### wohnungskrise
+
+* [https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich](https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss)
+### cnn
+
+* [https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen](https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen](https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss)
+### reise
+
+* [https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen](https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss)
+### tennessee
+
+* [https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen](https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss)
+### ausgeschlossen
+
+* [https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen](https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss)
 
