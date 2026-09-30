@@ -4,339 +4,371 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sachsenanhalt
+### sieht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen-a-7223e27a-f977-4254-a784-331856d3fa41#ref=rss)
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### ulrich
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene-a-8f4b4c45-74f3-48b4-ab28-30c0afdae6e9#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt](https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt-a-5644cfba-7846-4b68-a95d-cbf8fa33e313#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen-a-7223e27a-f977-4254-a784-331856d3fa41#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### siegmund
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt](https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt-a-72d29146-6e52-4cfa-8cef-9897e330470f#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-liesse-sich-eine-afd-landesregierung-wirklich-ueber-den-bundeszwang-einhegen-a-7223e27a-f977-4254-a784-331856d3fa41#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sprach-von-gerechtigkeit-da-sah-die-spd-ihre-chance-gekommen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sprach-von-gerechtigkeit-da-sah-die-spd-ihre-chance-gekommen-a-55195cae-5553-4395-b73b-ef943e8e8665#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss)
-* [https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen](https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen-a-3e0a828f-66bf-43c2-87a6-246f91e6045d#ref=rss)
-* [https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum](https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum-a-9e376ec0-7c66-4bcb-b128-07c350529180#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### rente
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk](https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk-a-f20be1fb-6195-4e81-a597-62a51ee1cb5a#ref=rss)
-### verein
-
-* [https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig](https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig-a-a27ad732-a12d-4c28-beaf-dd9550aff415#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind](https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind-a-6c91dd63-c117-4fd2-bbb9-eb0438d7b9f7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### wahlparty
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind](https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind-a-6c91dd63-c117-4fd2-bbb9-eb0438d7b9f7#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen](https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen-a-8a028b31-6856-47bd-9d0f-0314955b4c2c#ref=rss)
-* [https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen](https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen-a-3e0a828f-66bf-43c2-87a6-246f91e6045d#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen](https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen-a-8a028b31-6856-47bd-9d0f-0314955b4c2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber](https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad#ref=rss)
-* [https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste](https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss)
-### 63
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk](https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk-a-f20be1fb-6195-4e81-a597-62a51ee1cb5a#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sprach-von-gerechtigkeit-da-sah-die-spd-ihre-chance-gekommen](https://www.spiegel.de/politik/deutschland/friedrich-merz-sprach-von-gerechtigkeit-da-sah-die-spd-ihre-chance-gekommen-a-55195cae-5553-4395-b73b-ef943e8e8665#ref=rss)
-### andy
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss)
-### burnham
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss)
-### abschaffen
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### schritte
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/eiffelturm-chef-tritt-nach-ausschluss-von-frauen-zurueck](https://www.spiegel.de/ausland/eiffelturm-chef-tritt-nach-ausschluss-von-frauen-zurueck-a-6b849ebb-003e-43ba-a148-923dacf4b582#ref=rss)
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig](https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig-a-a27ad732-a12d-4c28-beaf-dd9550aff415#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig](https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig-a-a27ad732-a12d-4c28-beaf-dd9550aff415#ref=rss)
-### schuldig
-
-* [https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig](https://www.spiegel.de/sport/fussball/premier-league-befindet-manchester-city-in-allen-anklagepunkten-fuer-schuldig-a-a27ad732-a12d-4c28-beaf-dd9550aff415#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-krebsarzt-zu-mehrjaehriger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-krebsarzt-zu-mehrjaehriger-haftstrafe-verurteilt-a-edfd9f24-2303-49c3-9b9e-5bf339c6efea#ref=rss)
-### neuköllner
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind](https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind-a-6c91dd63-c117-4fd2-bbb9-eb0438d7b9f7#ref=rss)
-### linken
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind](https://www.spiegel.de/politik/deutschland/die-linke-auch-barbakh-clan-besuchte-die-neukoellner-wahlparty-wer-sie-sind-a-6c91dd63-c117-4fd2-bbb9-eb0438d7b9f7#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen](https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen-a-8a028b31-6856-47bd-9d0f-0314955b4c2c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen](https://www.spiegel.de/politik/bundeswehr-neuer-marinehafen-soll-offenbar-in-emden-entstehen-a-8a028b31-6856-47bd-9d0f-0314955b4c2c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad](https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad-a-84e130db-2825-445b-b391-6b8a11d56db2#ref=rss)
-### usbotschafterin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-### mercedes
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-### homeoffice
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-### angeblichen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende](https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende-a-671da169-de9d-43f2-aaa9-a777756094f9#ref=rss)
-### dezember
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice](https://www.spiegel.de/politik/deutschland/news-des-tages-us-botschafterin-in-griechenland-ulrich-siegmund-stellt-sich-zur-wahl-und-mercedes-reduziert-das-homeoffice-a-92e2116f-ffef-4922-9b7c-482cff0a1f54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### elif
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-### eralp
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-### mitglied
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-### früher
-
-* [https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v](https://www.spiegel.de/politik/deutschland/linke-berlin-elif-eralp-war-mitglied-im-linksextremen-verein-rote-hilfe-e-v-a-1bbf54cb-c225-4624-b43b-2124c818cf83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-### tobias
-
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-### rausch
-
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-* [https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum](https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum-a-9e376ec0-7c66-4bcb-b128-07c350529180#ref=rss)
-### unbekannt
-
-* [https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden](https://www.spiegel.de/politik/tobias-rausch-in-sachsen-anhalt-dieser-35-jaehrige-will-der-erste-afd-landtagspraesident-werden-a-8737f67d-545f-4678-8dc1-65ec30793a8f#ref=rss)
-* [https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende](https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende-a-671da169-de9d-43f2-aaa9-a777756094f9#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber](https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber](https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber](https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber](https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad#ref=rss)
-* [https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende](https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende-a-671da169-de9d-43f2-aaa9-a777756094f9#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten](https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten-a-771e2577-a0ca-4b1f-9eb9-68ef7770778f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben](https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben-a-55d4d8b0-0404-4796-b828-07f96edc6685#ref=rss)
-### geladene
-
-* [https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten](https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten-a-771e2577-a0ca-4b1f-9eb9-68ef7770778f#ref=rss)
-### waffe
-
-* [https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten](https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten-a-771e2577-a0ca-4b1f-9eb9-68ef7770778f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel](https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel-a-f4e99f91-4964-49c8-901e-7433c06ebbb3#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+* [https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn](https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn-a-6f6f5981-8ba4-49a9-8585-ba354412133e#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten](https://www.spiegel.de/panorama/usa-kleinkind-bringt-geladene-waffe-mit-in-den-kindergarten-a-771e2577-a0ca-4b1f-9eb9-68ef7770778f#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### eckhard
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-geht-gegen-hersteller-von-nazi-musik-vor](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-geht-gegen-hersteller-von-nazi-musik-vor-a-6e7f3b3c-a96f-4c4d-aa8c-15c6676e2f6f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot](https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss)
-### seeber
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt](https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt-a-72d29146-6e52-4cfa-8cef-9897e330470f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### problem
 
-* [https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot](https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss)
-### helmut
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### premier
 
-* [https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot](https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss)
-### kohl
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### verein
 
-* [https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot](https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot](https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/internes-papier-cdu-und-csu-wollen-erneuerbaren-foerderung-2045-beenden](https://www.spiegel.de/wirtschaft/soziales/internes-papier-cdu-und-csu-wollen-erneuerbaren-foerderung-2045-beenden-a-254a847c-894d-4839-8938-56a0c6524c52#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks](https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks-a-00e08d5c-6211-410a-8e55-e1116773e0ea#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-krebsarzt-zu-mehrjaehriger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-krebsarzt-zu-mehrjaehriger-haftstrafe-verurteilt-a-edfd9f24-2303-49c3-9b9e-5bf339c6efea#ref=rss)
-* [https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste](https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks](https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks-a-00e08d5c-6211-410a-8e55-e1116773e0ea#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/wirtschaft/hohe-preise-tankstellen-klagen-ueber-betrug-an-zapfsaeulen](https://www.spiegel.de/wirtschaft/hohe-preise-tankstellen-klagen-ueber-betrug-an-zapfsaeulen-a-057356a9-c890-429d-84ae-777ff35a9061#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform](https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform-a-e17f7594-d4ac-4789-8ac5-cfb0aaffa7a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### t
+
+* [https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre](https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre-a-3a9d064e-b06c-418f-9bf8-f206e0f4f0aa#ref=rss)
+### achterbahn
+
+* [https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn](https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn-a-6f6f5981-8ba4-49a9-8585-ba354412133e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
+### backpack
+
+* [https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark](https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark-a-99b6882b-5799-4ca5-9083-3091ca9a8b6f#ref=rss)
+### los
+
+* [https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark](https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark-a-99b6882b-5799-4ca5-9083-3091ca9a8b6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark](https://www.spiegel.de/panorama/fat-bear-week-in-alaska-braunbaer-backpack-gewinnt-wettbewerb-im-katmai-nationalpark-a-99b6882b-5799-4ca5-9083-3091ca9a8b6f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### lars
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene-a-8f4b4c45-74f3-48b4-ab28-30c0afdae6e9#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene-a-8f4b4c45-74f3-48b4-ab28-30c0afdae6e9#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene](https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-entschaerft-seine-plaene-a-8f4b4c45-74f3-48b4-ab28-30c0afdae6e9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-geht-gegen-hersteller-von-nazi-musik-vor](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-geht-gegen-hersteller-von-nazi-musik-vor-a-6e7f3b3c-a96f-4c4d-aa8c-15c6676e2f6f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau-a-159f8c8c-49bf-4e2e-837e-23260d413bdf#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-senator-wiegelt-sorge-vor-mercedes-handelsverbot-in-den-usa-ab-a-a98802ab-21dd-433c-bfa2-31cf4c4cd7c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### jahrelang
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### liga
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### belogen
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau-a-159f8c8c-49bf-4e2e-837e-23260d413bdf#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen](https://www.spiegel.de/sport/fussball/premier-league-so-hat-manchester-city-jahrelang-die-englische-liga-betrogen-und-belogen-a-92dbe952-4298-4ba4-8e06-d01a11c6b722#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+### elif
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### eralp
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### mitglied
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre](https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre-a-3a9d064e-b06c-418f-9bf8-f206e0f4f0aa#ref=rss)
+### rote
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe](https://www.spiegel.de/politik/deutschland/elif-eralp-war-mitglied-im-verein-was-ist-die-rote-hilfe-a-172dfa0f-b96c-453c-ab7c-d1aa9f97467b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+### obdachlose
+
+* [https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern](https://www.spiegel.de/panorama/justiz/bremen-kinder-und-jugendliche-attackieren-obdachlose-mit-feuerwerkskoerpern-a-29bfa24e-e5b9-4100-a8a0-dd9951d9f34e#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt](https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt-a-72d29146-6e52-4cfa-8cef-9897e330470f#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt](https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt-a-72d29146-6e52-4cfa-8cef-9897e330470f#ref=rss)
+* [https://www.spiegel.de/panorama/suedkorea-verirrter-bullenhai-wird-zum-star](https://www.spiegel.de/panorama/suedkorea-verirrter-bullenhai-wird-zum-star-a-5af26a47-9d73-4843-9df3-175d6e1cbe0a#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt](https://www.spiegel.de/wissenschaft/natur/brasilien-so-schreien-die-lautesten-voegel-der-welt-a-72d29146-6e52-4cfa-8cef-9897e330470f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-armee-setzt-kopfgeld-auf-getoetete-us-soldaten-aus](https://www.spiegel.de/ausland/iran-armee-setzt-kopfgeld-auf-getoetete-us-soldaten-aus-a-241c6672-7ef0-4126-8bd7-0dd9d952d54f#ref=rss)
+### ussoldaten
+
+* [https://www.spiegel.de/ausland/iran-armee-setzt-kopfgeld-auf-getoetete-us-soldaten-aus](https://www.spiegel.de/ausland/iran-armee-setzt-kopfgeld-auf-getoetete-us-soldaten-aus-a-241c6672-7ef0-4126-8bd7-0dd9d952d54f#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/hohe-preise-tankstellen-klagen-ueber-betrug-an-zapfsaeulen](https://www.spiegel.de/wirtschaft/hohe-preise-tankstellen-klagen-ueber-betrug-an-zapfsaeulen-a-057356a9-c890-429d-84ae-777ff35a9061#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten](https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten-a-6ab33e7d-1478-43e8-bc8d-d33e8db93b0c#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
+### seniorin
+
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+### betrüger
+
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre](https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre-a-3a9d064e-b06c-418f-9bf8-f206e0f4f0aa#ref=rss)
+### verlangt
+
+* [https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger](https://www.spiegel.de/panorama/justiz/bayern-seniorin-uebergibt-nach-schockanruf-fast-halbe-million-euro-an-betrueger-a-93322f2e-da4f-4add-b553-a088ee6c619d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss)
+### beschließt
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform](https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform-a-e17f7594-d4ac-4789-8ac5-cfb0aaffa7a3#ref=rss)
+### pflegereform
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform](https://www.spiegel.de/politik/deutschland/bundesregierung-kabinett-beschliesst-pflegereform-a-e17f7594-d4ac-4789-8ac5-cfb0aaffa7a3#ref=rss)
+### kim
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+### geheimdienst
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ist-laut-suedkoreas-geheimdienst-extrem-fettleibig-a-60e0b47f-9a5b-4513-905b-f2c7c9139f67#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### i̇lkay
+
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten](https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten-a-6ab33e7d-1478-43e8-bc8d-d33e8db93b0c#ref=rss)
+### gündoğan
+
+* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten](https://www.spiegel.de/sport/fussball/ilkay-guendogan-musste-ueber-ein-jahr-auf-diese-medaille-warten-a-6ab33e7d-1478-43e8-bc8d-d33e8db93b0c#ref=rss)
+### ea
+
+* [https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen](https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen-a-5a7bcb0f-442f-4a53-a9a2-ce79df42b95b#ref=rss)
+### sports
+
+* [https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen](https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen-a-5a7bcb0f-442f-4a53-a9a2-ce79df42b95b#ref=rss)
+### fc
+
+* [https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen](https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen-a-5a7bcb0f-442f-4a53-a9a2-ce79df42b95b#ref=rss)
+### früher
+
+* [https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen](https://www.spiegel.de/netzwelt/games/ea-sports-fc-27-trainerinnen-in-unterwaesche-update-soll-fehler-beseitigen-a-5a7bcb0f-442f-4a53-a9a2-ce79df42b95b#ref=rss)
+### berufungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre](https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre-a-3a9d064e-b06c-418f-9bf8-f206e0f4f0aa#ref=rss)
+### maja
+
+* [https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre](https://www.spiegel.de/panorama/justiz/budapest-berufungsgericht-reduziert-haftstrafe-fuer-maja-t-auf-sieben-jahre-a-3a9d064e-b06c-418f-9bf8-f206e0f4f0aa#ref=rss)
+### energydrinks
+
+* [https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks](https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks-a-00e08d5c-6211-410a-8e55-e1116773e0ea#ref=rss)
+### junge
+
+* [https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks](https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks-a-00e08d5c-6211-410a-8e55-e1116773e0ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks](https://www.spiegel.de/wirtschaft/soziales/aerzteblatt-umfrage-kinder-und-jugendliche-greifen-vermehrt-zu-energydrinks-a-00e08d5c-6211-410a-8e55-e1116773e0ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten](https://www.spiegel.de/wirtschaft/soziales/wohnen-welche-massnahmen-gegen-hohe-mieten-wirklich-helfen-koennten-a-d30da832-9537-47af-a585-3b476af4e31c#ref=rss)
+### reformpolitik
+
+* [https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt](https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt-a-5644cfba-7846-4b68-a95d-cbf8fa33e313#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt](https://www.spiegel.de/wirtschaft/reformpolitik-warum-die-regierung-vor-der-mitte-einknickt-a-5644cfba-7846-4b68-a95d-cbf8fa33e313#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### piloten
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### dubai
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### tel
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv](https://www.spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### herz
+
+* [https://www.spiegel.de/panorama/suedkorea-verirrter-bullenhai-wird-zum-star](https://www.spiegel.de/panorama/suedkorea-verirrter-bullenhai-wird-zum-star-a-5af26a47-9d73-4843-9df3-175d6e1cbe0a#ref=rss)
+* [https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit](https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau-a-159f8c8c-49bf-4e2e-837e-23260d413bdf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
 ### september
 
-* [https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad](https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad-a-84e130db-2825-445b-b391-6b8a11d56db2#ref=rss)
-### trocken
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-bleibt-im-september-auf-hohem-niveau-a-159f8c8c-49bf-4e2e-837e-23260d413bdf#ref=rss)
+### bmw
 
-* [https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad](https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad-a-84e130db-2825-445b-b391-6b8a11d56db2#ref=rss)
-### zieht
+* [https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel](https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel-a-f4e99f91-4964-49c8-901e-7433c06ebbb3#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad](https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad-a-84e130db-2825-445b-b391-6b8a11d56db2#ref=rss)
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
-### folgen
+* [https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel](https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel-a-f4e99f91-4964-49c8-901e-7433c06ebbb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit](https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609#ref=rss)
+### diesel
 
-* [https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad](https://www.spiegel.de/wissenschaft/dwd-september-besonders-sonnig-und-trocken-zum-monatsende-bis-zu-30-grad-a-84e130db-2825-445b-b391-6b8a11d56db2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### feuerwehr
+* [https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel](https://www.spiegel.de/mobilitaet/auto/bmw-den-neuen-3er-gibt-es-nicht-mehr-als-diesel-a-f4e99f91-4964-49c8-901e-7433c06ebbb3#ref=rss)
+### corinna
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss)
-### drohnenangriff
+* [https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit](https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609#ref=rss)
+### schumacher
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss)
-### russischen
+* [https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit](https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609#ref=rss)
+### michael
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss)
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-### zarentochter
+* [https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit](https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609#ref=rss)
+### andy
 
-* [https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende](https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende-a-671da169-de9d-43f2-aaa9-a777756094f9#ref=rss)
-### anastasia
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### burnham
 
-* [https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende](https://www.spiegel.de/geschichte/das-ende-der-romanows-ein-leben-als-legende-a-671da169-de9d-43f2-aaa9-a777756094f9#ref=rss)
-### allen
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### schließt
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste](https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss)
-### beliebt
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+* [https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn](https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn-a-6f6f5981-8ba4-49a9-8585-ba354412133e#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-### zwar
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f#ref=rss)
+### karin
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum](https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum-a-9e376ec0-7c66-4bcb-b128-07c350529180#ref=rss)
-### ohne
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### prien
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk](https://www.spiegel.de/wirtschaft/rentenreform-oekonomen-allianz-draengt-auf-vollstaendige-umsetzung-und-warnt-vor-flickwerk-a-f20be1fb-6195-4e81-a597-62a51ee1cb5a#ref=rss)
-### halten
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### familienministerin
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst](https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss)
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### elterngeld
 
-* [https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben](https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben-a-55d4d8b0-0404-4796-b828-07f96edc6685#ref=rss)
-### alle
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+### viele
 
-* [https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben](https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben-a-55d4d8b0-0404-4796-b828-07f96edc6685#ref=rss)
-* [https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen](https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen-a-3e0a828f-66bf-43c2-87a6-246f91e6045d#ref=rss)
-### pistorius
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### hirnverletzungen
 
-* [https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen](https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen-a-3e0a828f-66bf-43c2-87a6-246f91e6045d#ref=rss)
-### möchte
+* [https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn](https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn-a-6f6f5981-8ba4-49a9-8585-ba354412133e#ref=rss)
+### pete
 
-* [https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen](https://www.spiegel.de/ausland/bundeswehr-pistorius-will-16-neue-a400m-transporter-von-airbus-kaufen-a-3e0a828f-66bf-43c2-87a6-246f91e6045d#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### mali
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-### wirft
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### generäle
 
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-* [https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste](https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss)
-### wagnergruppe
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### admiräle
 
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-### kriegsverbrechen
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-### gemeinsamen
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren](https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss)
+### erbschaftsteuer
 
-* [https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor](https://www.spiegel.de/ausland/mali-amnesty-international-wirft-armee-und-wagner-gruppe-kriegsverbrechen-vor-a-03acf946-bfa3-4a17-ab19-0c5a7721a7e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### bildung
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss)
+### ostbeauftragte
 
-* [https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum](https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum-a-9e376ec0-7c66-4bcb-b128-07c350529180#ref=rss)
-### soziale
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss)
+### elisabeth
 
-* [https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum](https://www.spiegel.de/start/bildung-zusaetzliche-abschluesse-verringern-soziale-ungleichheiten-kaum-a-9e376ec0-7c66-4bcb-b128-07c350529180#ref=rss)
-### hayden
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss)
+### kaiser
 
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### wladimir
+* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss)
+### söder
 
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### klitschko
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
+### krause
 
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten](https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-will-vermoegen-von-gemeinsamer-tochter-verwalten-a-bcc0a74e-47c4-408a-b0ec-141e210c94cc#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste](https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv](https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss)
-### virginie
-
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
-### despentes
-
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
-### französische
-
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
-### schriftstellerin
-
-* [https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand](https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance](https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss)
 
