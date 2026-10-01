@@ -4,368 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tel
+### deutschland
 
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### aviv
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller](https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller-a-55137b95-0e80-47d5-b41a-ff3cb47d57d2#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte](https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte-a-06784462-b064-42f1-88ca-8b900a75dbb4#ref=rss)
+### manchester
 
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### flug
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht](https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht-a-d08c1ccd-7ba2-4222-a5f4-af69ef6456dc#ref=rss)
+### city
 
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht](https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht-a-d08c1ccd-7ba2-4222-a5f4-af69ef6456dc#ref=rss)
+### schritte
 
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe](https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe-a-af2415d2-3cf9-497d-bf87-8916df1d7b68#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert](https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert-a-cd7042b8-86a8-4dfd-bb17-1af9d7781807#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen](https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen-a-56772830-7702-4ecd-b4a3-68afd51bcfa7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nasa-entfernte-sr-71-befeuert-spekulationen-ueber-comeback-des-legendaeren-jets](https://www.spiegel.de/wissenschaft/technik/nasa-entfernte-sr-71-befeuert-spekulationen-ueber-comeback-des-legendaeren-jets-a-7a1395b6-5c5f-4396-aa3b-ba592cc64bca#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe-a-44532732-93f3-4627-b8eb-27f2bfc4bba5#ref=rss)
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe](https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe-a-af2415d2-3cf9-497d-bf87-8916df1d7b68#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool](https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool-a-e32b2b0e-8122-407e-8a60-425cc8c78368#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss)
-### mord
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### andy
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe-a-44532732-93f3-4627-b8eb-27f2bfc4bba5#ref=rss)
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### burnham
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe-a-44532732-93f3-4627-b8eb-27f2bfc4bba5#ref=rss)
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe-a-44532732-93f3-4627-b8eb-27f2bfc4bba5#ref=rss)
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### münster
-
-* [https://www.spiegel.de/politik/deutschland/nato-militaerbuendnis-erhaelt-westfaelischen-friedenspreis-in-muenster](https://www.spiegel.de/politik/deutschland/nato-militaerbuendnis-erhaelt-westfaelischen-friedenspreis-in-muenster-a-78128f0f-d32b-40b3-bdd6-8cf35f4750b9#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/politik/deutschland/nato-militaerbuendnis-erhaelt-westfaelischen-friedenspreis-in-muenster](https://www.spiegel.de/politik/deutschland/nato-militaerbuendnis-erhaelt-westfaelischen-friedenspreis-in-muenster-a-78128f0f-d32b-40b3-bdd6-8cf35f4750b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung-a-bd67edd8-dbe8-48bd-8f86-c1975bf802bd#ref=rss)
-### naza
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-kino-start-der-umstrittenen-gaza-doku-naza](https://www.spiegel.de/ausland/israel-gaza-krieg-kino-start-der-umstrittenen-gaza-doku-naza-a-fa1e76e4-c7d0-4104-bfdc-a760ac11ac46#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-kino-start-der-umstrittenen-gaza-doku-naza](https://www.spiegel.de/ausland/israel-gaza-krieg-kino-start-der-umstrittenen-gaza-doku-naza-a-fa1e76e4-c7d0-4104-bfdc-a760ac11ac46#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-kompromiss-vertagt-streit-um-gerechtigkeit-der-systeme](https://www.spiegel.de/politik/deutschland/pflege-reform-kompromiss-vertagt-streit-um-gerechtigkeit-der-systeme-a-5e4a7b29-904f-42d8-a863-0b0950be13d3#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### streicht
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### namen
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### gründerin
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-partei-streicht-namen-der-gruenderin-a-22d8b0c3-f9e1-4532-befc-1607c3cf25d5#ref=rss)
-### passagiere
-
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### bord
-
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### fz1073
-
-* [https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet](https://www.spiegel.de/ausland/israel-passagiere-aus-flydubai-maschine-in-tel-aviv-gelandet-a-365799cc-3ea2-4a2d-9470-a1f4a837620d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-### ferat
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-### koçak
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-### sitz
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-### innenausschuss
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-* [https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott](https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott-a-8a7321a8-a17d-485d-896d-8d44662a1cf4#ref=rss)
-### nähe
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-kritisiert-brexit-und-weint-beinahe-a-44532732-93f3-4627-b8eb-27f2bfc4bba5#ref=rss)
-### donald
-
-* [https://www.spiegel.de/netzwelt/donald-trump-diese-ki-bosse-waren-ihm-beim-super-intelligence-luncheon-besonders-nah](https://www.spiegel.de/netzwelt/donald-trump-diese-ki-bosse-waren-ihm-beim-super-intelligence-luncheon-besonders-nah-a-fa02b2df-eb03-4fb6-b0b0-779f746fc7f9#ref=rss)
-* [https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott](https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott-a-8a7321a8-a17d-485d-896d-8d44662a1cf4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/netzwelt/donald-trump-diese-ki-bosse-waren-ihm-beim-super-intelligence-luncheon-besonders-nah](https://www.spiegel.de/netzwelt/donald-trump-diese-ki-bosse-waren-ihm-beim-super-intelligence-luncheon-besonders-nah-a-fa02b2df-eb03-4fb6-b0b0-779f746fc7f9#ref=rss)
-### ki
-
-* [https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott](https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott-a-8a7321a8-a17d-485d-896d-8d44662a1cf4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-### liz
-
-* [https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch](https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch-a-4633d280-14f4-44a4-82cf-e5989d923b92#ref=rss)
-### baffoe
-
-* [https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch](https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch-a-4633d280-14f4-44a4-82cf-e5989d923b92#ref=rss)
-### lindenstraßeschauspielerin
-
-* [https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch](https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch-a-4633d280-14f4-44a4-82cf-e5989d923b92#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch](https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch-a-4633d280-14f4-44a4-82cf-e5989d923b92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch](https://www.spiegel.de/kultur/tv/liz-baffoe-lindenstrasse-schauspielerin-startet-im-neuen-job-durch-a-4633d280-14f4-44a4-82cf-e5989d923b92#ref=rss)
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### jäger
-
-* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool](https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool-a-e32b2b0e-8122-407e-8a60-425cc8c78368#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool](https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool-a-e32b2b0e-8122-407e-8a60-425cc8c78368#ref=rss)
-### wildschweine
-
-* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool](https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool-a-e32b2b0e-8122-407e-8a60-425cc8c78368#ref=rss)
-### swimmingpool
-
-* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool](https://www.spiegel.de/panorama/mecklenburg-vorpommern-jaeger-erschiessen-drei-wildschweine-in-swimmingpool-a-e32b2b0e-8122-407e-8a60-425cc8c78368#ref=rss)
-### mercedesbenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung-a-bd67edd8-dbe8-48bd-8f86-c1975bf802bd#ref=rss)
-### führungskräfte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung-a-bd67edd8-dbe8-48bd-8f86-c1975bf802bd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller](https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller-a-55137b95-0e80-47d5-b41a-ff3cb47d57d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-fuehrungskraefte-erhalten-abfindungsangebot-zur-kostensenkung-a-bd67edd8-dbe8-48bd-8f86-c1975bf802bd#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss)
-### bmw
+* [https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt-a-b1b66227-8733-4935-83cf-bf8f477b8df4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz](https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz-a-136bfbbb-0424-483c-8925-530b2dae0e51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen-a-d81f8c6c-3160-4ebc-ad7c-6575fc31d846#ref=rss)
+### premier
 
-* [https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen](https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen-a-970e8afe-ac82-455f-89d8-fd0d68371795#ref=rss)
-### plant
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen](https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen-a-970e8afe-ac82-455f-89d8-fd0d68371795#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-### zunächst
+* [https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus](https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus-a-2a3042e0-6559-4a8d-8edb-50f63017cc20#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee](https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee-a-d2ab3d70-4495-40ed-81b8-63f6369ea614#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen](https://www.spiegel.de/wirtschaft/bmw-topmanagement-soll-um-20-prozent-schrumpfen-a-970e8afe-ac82-455f-89d8-fd0d68371795#ref=rss)
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-### prozess
+* [https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus](https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus-a-2a3042e0-6559-4a8d-8edb-50f63017cc20#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee](https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee-a-d2ab3d70-4495-40ed-81b8-63f6369ea614#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### emilia
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-war-der-tod-der-kleinen-emilia-beim-zahnarzt-doch-mord-a-f88166cc-e51d-47ff-b7a9-ceed4dc3fc28#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
-### derya
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### çaglar
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### krach
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### vorsitzenden
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### spdfraktion
-
-* [https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion](https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-### strafen
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe](https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe-a-af2415d2-3cf9-497d-bf87-8916df1d7b68#ref=rss)
-### besser
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-zugbegleiter-bundesregierung-plant-haertere-strafen-a-e2dc0bd5-a8dc-4f39-8c6a-1a4868933bfb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-### böhmermann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-### dubai
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen](https://www.spiegel.de/politik/deutschland/news-des-tages-notlandung-von-flug-fz1073-das-ende-von-zdf-magazin-royale-mit-jan-boehmermann-die-500-reichsten-deutschen-a-5e62f76d-c193-49b0-9cb7-d8140aaec5b9#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### delling
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### sportmoderator
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### beschreibt
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern](https://www.spiegel.de/panorama/gerhard-delling-frueherer-sportmoderator-beschreibt-vor-gericht-das-leben-mit-christina-blocks-kindern-a-22d47053-c2e9-48db-9cef-ef6d74bd751e#ref=rss)
-### nacktbilder
-
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-### 147
-
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-### euabgeordneten
-
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-### netz
-
-* [https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht](https://www.spiegel.de/netzwelt/web/deepfakes-ki-generierte-nacktbilder-von-147-eu-abgeordneten-im-netz-aufgetaucht-a-28c0d0d7-14b4-4b89-8736-c12c8d9c6f5b#ref=rss)
-### messer
-
-* [https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt](https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss)
-### zugspitze
-
-* [https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen](https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen-a-56772830-7702-4ecd-b4a3-68afd51bcfa7#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen](https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen-a-56772830-7702-4ecd-b4a3-68afd51bcfa7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit](https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit-a-7e5b8c5e-ed3f-4e4b-ad9b-f40f19aa8eb2#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen](https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen-a-56772830-7702-4ecd-b4a3-68afd51bcfa7#ref=rss)
-### wissenschaftler
-
-* [https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen](https://www.spiegel.de/wissenschaft/zugspitze-forscher-rechnen-mit-weiteren-felsstuerzen-a-56772830-7702-4ecd-b4a3-68afd51bcfa7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit](https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit-a-7e5b8c5e-ed3f-4e4b-ad9b-f40f19aa8eb2#ref=rss)
-### pflegereform
-
-* [https://www.spiegel.de/politik/deutschland/pflege-reform-kompromiss-vertagt-streit-um-gerechtigkeit-der-systeme](https://www.spiegel.de/politik/deutschland/pflege-reform-kompromiss-vertagt-streit-um-gerechtigkeit-der-systeme-a-5e4a7b29-904f-42d8-a863-0b0950be13d3#ref=rss)
-### schlotterbeck
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-verteidiger-schlotterbeck-verpasst-laenderspiele-wegen-knoechelverletzung](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-verteidiger-schlotterbeck-verpasst-laenderspiele-wegen-knoechelverletzung-a-11d625d0-49a1-454e-aea7-5fb3e600bc98#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wissenschaft/technik/nasa-entfernte-sr-71-befeuert-spekulationen-ueber-comeback-des-legendaeren-jets](https://www.spiegel.de/wissenschaft/technik/nasa-entfernte-sr-71-befeuert-spekulationen-ueber-comeback-des-legendaeren-jets-a-7a1395b6-5c5f-4396-aa3b-ba592cc64bca#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss)
-### art
-
-* [https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit](https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit-a-7e5b8c5e-ed3f-4e4b-ad9b-f40f19aa8eb2#ref=rss)
-### abgeordneten
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe](https://www.spiegel.de/politik/deutschland/bundestag-diese-abgeordneten-kassieren-unter-julia-kloeckner-die-meisten-ordnungsrufe-a-af2415d2-3cf9-497d-bf87-8916df1d7b68#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### pedro
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu](https://www.spiegel.de/ausland/emmanuel-macron-und-pedro-sanchez-offen-fuer-rueckkehr-grossbritanniens-in-die-eu-a-b2adcbf4-caf0-4736-9740-9dbf6d928218#ref=rss)
-### deutschlandticket
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss)
-### trink
-
-* [https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert](https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert-a-cd7042b8-86a8-4dfd-bb17-1af9d7781807#ref=rss)
-### abwasserversorgung
-
-* [https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert](https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert-a-cd7042b8-86a8-4dfd-bb17-1af9d7781807#ref=rss)
-### mehreren
-
-* [https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert](https://www.spiegel.de/panorama/hamburg-trink-und-abwasserversorgung-in-mehreren-stadtteilen-gestoert-a-cd7042b8-86a8-4dfd-bb17-1af9d7781807#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus](https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus-a-2a3042e0-6559-4a8d-8edb-50f63017cc20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte](https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte-a-06784462-b064-42f1-88ca-8b900a75dbb4#ref=rss)
 ### tennessee
 
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
+* [https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee](https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee-a-6803d8e0-b5c3-4c88-85f5-7b798bd843d3#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee](https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee-a-d2ab3d70-4495-40ed-81b8-63f6369ea614#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-verlaesst-portugals-nationalelf-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-verlaesst-portugals-nationalelf-pressestimmen-a-e3e450c6-5075-4f89-ad02-37fa9895f5e6#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin](https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin-a-dc8c11c3-31a1-4429-8cfa-24dde5a6a3bb#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag](https://www.spiegel.de/wissenschaft/mensch/kleine-kinder-laufen-18-000-schritte-am-tag-a-fb35d0f8-f165-4b3b-9a34-a5933012946c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt-a-b1b66227-8733-4935-83cf-bf8f477b8df4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte](https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte-a-06784462-b064-42f1-88ca-8b900a75dbb4#ref=rss)
+### jimi
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt-a-b1b66227-8733-4935-83cf-bf8f477b8df4#ref=rss)
+### blue
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt-a-b1b66227-8733-4935-83cf-bf8f477b8df4#ref=rss)
+### ochsenknecht
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-jimi-blue-ochsenknecht-zu-34-500-euro-strafe-verurteilt-a-b1b66227-8733-4935-83cf-bf8f477b8df4#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen-a-d81f8c6c-3160-4ebc-ad7c-6575fc31d846#ref=rss)
+### nähe
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league](https://www.spiegel.de/sport/fussball/manchester-city-sponsor-etihad-airways-erwaegt-rechtliche-schritte-gegen-die-premier-league-a-14b9c90c-a963-46f3-8ebf-5c979b306b0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis](https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis-a-ffd7d31f-1277-4ec0-bf54-40200d030082#ref=rss)
+### konzerte
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+### halbjahr
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+### statt
+
+* [https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026](https://www.spiegel.de/kultur/musik/thueringen-behoerden-zaehlen-die-meisten-rechtsextremen-konzerte-im-ersten-halbjahr-2026-a-18e1657f-2e7d-44c3-ab00-14e6ecc40ef0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### usbehörde
+
+* [https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus](https://www.spiegel.de/netzwelt/apps/kuenstliche-intelligenz-us-behoerde-nimmt-ki-firmen-staerker-in-den-fokus-a-2a3042e0-6559-4a8d-8edb-50f63017cc20#ref=rss)
+### kanzleramt
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil](https://www.spiegel.de/wirtschaft/service/zuckersteuer-kanzleramt-stoppt-umstrittene-reform-von-lars-klingbeil-a-472cafb2-cd18-471a-b43a-d933f28202b1#ref=rss)
+* [https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten](https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten-a-36a5831b-0da4-4720-8930-676480e7ad62#ref=rss)
 ### christa
 
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
+* [https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee](https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee-a-6803d8e0-b5c3-4c88-85f5-7b798bd843d3#ref=rss)
 ### pike
 
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-### jahren
+* [https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee](https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee-a-6803d8e0-b5c3-4c88-85f5-7b798bd843d3#ref=rss)
+### hinrichtung
 
-* [https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt](https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
-### bünde
+* [https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee](https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee-a-6803d8e0-b5c3-4c88-85f5-7b798bd843d3#ref=rss)
+### botschaft
 
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
-### fünf
+* [https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee](https://www.spiegel.de/ausland/christa-pike-zeugen-schildern-verstoerende-szenen-bei-hinrichtung-in-tennessee-a-6803d8e0-b5c3-4c88-85f5-7b798bd843d3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte](https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte-a-06784462-b064-42f1-88ca-8b900a75dbb4#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/buende-mann-wegen-sexueller-handlungen-an-leichen-im-krankenhaus-zu-fuenf-jahren-haft-verurteilt-a-431809af-be9c-476f-a3d4-0d8916b0647a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz](https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz-a-136bfbbb-0424-483c-8925-530b2dae0e51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz](https://www.spiegel.de/politik/deutschland/bundeswehr-gescheitertes-fregatten-projekt-damen-werft-fordert-4-7-milliarden-euro-schadensersatz-a-136bfbbb-0424-483c-8925-530b2dae0e51#ref=rss)
+* [https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen](https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen-a-db9d23f4-3d4d-446f-b617-45247d24390d#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen](https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen-a-db9d23f4-3d4d-446f-b617-45247d24390d#ref=rss)
+### vahap
+
+* [https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen](https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen-a-db9d23f4-3d4d-446f-b617-45247d24390d#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen](https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen-a-db9d23f4-3d4d-446f-b617-45247d24390d#ref=rss)
+### mersin
+
+* [https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen](https://www.spiegel.de/politik/tuerkei-vahap-secer-buergermeister-von-mersin-festgenommen-a-db9d23f4-3d4d-446f-b617-45247d24390d#ref=rss)
+### macht
+
+* [https://www.spiegel.de/start/startklar-newsletter-was-macht-eine-endometriose-nurse](https://www.spiegel.de/start/startklar-newsletter-was-macht-eine-endometriose-nurse-a-851820ca-dccc-497c-8e77-2875224f88e6#ref=rss)
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten](https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten-a-36a5831b-0da4-4720-8930-676480e7ad62#ref=rss)
+### sabotagekampagne
+
+* [https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten](https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten-a-36a5831b-0da4-4720-8930-676480e7ad62#ref=rss)
+### ausweiten
+
+* [https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten](https://www.spiegel.de/ausland/hybrider-krieg-russland-koennte-seine-sabotagekampagne-noch-ausweiten-a-36a5831b-0da4-4720-8930-676480e7ad62#ref=rss)
+### tokio
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+### folge
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### japans
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege](https://www.spiegel.de/panorama/tokio-35-tage-regen-in-folge-rekord-niederschlaege-a-ce2912ca-afca-44c5-88c6-70b82bb2a76e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis](https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis-a-ffd7d31f-1277-4ec0-bf54-40200d030082#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller](https://www.spiegel.de/wirtschaft/bundeshaushalt-staatsausgaben-steigen-immer-schneller-a-55137b95-0e80-47d5-b41a-ff3cb47d57d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
+### juventus
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht](https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht-a-d08c1ccd-7ba2-4222-a5f4-af69ef6456dc#ref=rss)
+### turin
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht](https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht-a-d08c1ccd-7ba2-4222-a5f4-af69ef6456dc#ref=rss)
+### amelia
+
+* [https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin](https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin-a-dc8c11c3-31a1-4429-8cfa-24dde5a6a3bb#ref=rss)
+### earhart
+
+* [https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin](https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin-a-dc8c11c3-31a1-4429-8cfa-24dde5a6a3bb#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin](https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin-a-dc8c11c3-31a1-4429-8cfa-24dde5a6a3bb#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck](https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck-a-382cb765-8d77-4685-bacc-74067e7ba40e#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck](https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck-a-382cb765-8d77-4685-bacc-74067e7ba40e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck](https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck-a-382cb765-8d77-4685-bacc-74067e7ba40e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf](https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf-a-61e2c380-9b03-49e4-93de-cba03c100164#ref=rss)
+### bedeuten
+
+* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+### britische
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### andy
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### burnham
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss)
+### politik
+
+* [https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten](https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf](https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf-a-61e2c380-9b03-49e4-93de-cba03c100164#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen-a-d81f8c6c-3160-4ebc-ad7c-6575fc31d846#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf](https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf-a-61e2c380-9b03-49e4-93de-cba03c100164#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-verlaesst-portugals-nationalelf-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-verlaesst-portugals-nationalelf-pressestimmen-a-e3e450c6-5075-4f89-ad02-37fa9895f5e6#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### wayve
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### partner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt](https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt-a-0108641f-8724-4dca-a667-f1826a968c01#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis](https://www.spiegel.de/panorama/justiz/indonesien-behoerden-zerstoeren-villen-mit-luxusausstattung-in-gefaengnis-a-ffd7d31f-1277-4ec0-bf54-40200d030082#ref=rss)
+### tankrabatt
+
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen-a-d81f8c6c-3160-4ebc-ad7c-6575fc31d846#ref=rss)
+### kam
+
+* [https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen](https://www.spiegel.de/wirtschaft/soziales/tankrabatt-die-mineraloelindustrie-darf-sich-schon-freuen-a-d81f8c6c-3160-4ebc-ad7c-6575fc31d846#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte](https://www.spiegel.de/panorama/justiz/anti-israel-terror-in-deutschland-wie-ein-mutmasslicher-hamas-anschlagsplan-scheiterte-a-06784462-b064-42f1-88ca-8b900a75dbb4#ref=rss)
+### unterstützt
+
+* [https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee](https://www.spiegel.de/politik/donald-trump-republikanische-senatorin-blockiert-richterkandidat-aus-tennessee-a-d2ab3d70-4495-40ed-81b8-63f6369ea614#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast](https://www.spiegel.de/politik/ukraine-profitiert-putin-vom-streit-um-die-hilfen-aus-deutschland-podcast-a-d478fd4d-1e8e-40c2-abcd-8e64a2c40c25#ref=rss)
+### vorfall
+
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+### bestätigt
+
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis](https://www.spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
+### rihanna
+
+* [https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt](https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt-a-0108641f-8724-4dca-a667-f1826a968c01#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt](https://www.spiegel.de/panorama/justiz/rihanna-schuesse-auf-haus-von-popstar-frau-wegen-mordversuchs-angeklagt-a-0108641f-8724-4dca-a667-f1826a968c01#ref=rss)
+### powell
+
+* [https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung](https://www.spiegel.de/wirtschaft/jerome-powell-pruefbericht-entlastet-fed-chef-bei-teurer-renovierung-a-fbc67aa6-793e-47b6-b08f-41b2f775ac65#ref=rss)
 
