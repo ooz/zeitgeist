@@ -4,282 +4,379 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### laut
+
+* [https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben](https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben-a-e6b48cd9-bc96-4b6c-a9f9-67a6cc7b2549#ref=rss)
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen](https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen-a-b563b6b3-66a7-4870-bc40-a25c31a61253#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+### joachim
+
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### gauck
+
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung](https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung-a-b098b4d3-15b2-4248-a2a0-2499675659d7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime](https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt](https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt-a-cdd17372-61a2-423e-8ce9-eba8c072fbc1#ref=rss)
-* [https://www.spiegel.de/sport/himalaja-lawine-trifft-basislager-mindestens-15-tote](https://www.spiegel.de/sport/himalaja-lawine-trifft-basislager-mindestens-15-tote-a-205b9c6e-d8e3-4749-8a56-c808a1c070d3#ref=rss)
-* [https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten](https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten-a-2637aab8-8905-4431-99d0-a35135486b58#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet](https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet-a-e29f6ec8-e8e7-43e9-acaf-6274e904b4fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag-a-a2e72dff-78c8-461a-8bc2-4a2294a69c60#ref=rss)
+* [https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben](https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben-a-52ff4584-cebc-43a4-ac84-a0e8af70b0f6#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime](https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro](https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro-a-50cf92fd-4e01-45ec-bb84-dd99f5740a80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro](https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro-a-1d6bc43d-5d70-4561-9b51-d4ad727bce76#ref=rss)
-### flydubaimaschine
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf](https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf-a-085fa4da-ee94-4be1-a953-f6df112c903e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte](https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte-a-03c8f8f8-0568-41c6-8d19-e615313ebac2#ref=rss)
-### christa
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-### pike
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+* [https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen](https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an](https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an-a-18e86bae-4d18-4ac0-8281-7abe7ab6b7e3#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-### london
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden](https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden-a-967bb46f-25b7-4469-8400-6ed370cb0ee6#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### nations
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen](https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen-a-83fe8b22-0de7-4a84-ae35-f57ca9a6365a#ref=rss)
-### linke
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### league
 
-* [https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander](https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander-a-5386398e-1516-45c6-bfaf-63fe661ec38f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten](https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten-a-116fbcb9-85d5-4f83-b82e-b44d313b340f#ref=rss)
-### ohne
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander](https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander-a-5386398e-1516-45c6-bfaf-63fe661ec38f#ref=rss)
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung](https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung-a-04c89b44-3214-4886-9126-a76d1ddf6f5e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf](https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf-a-085fa4da-ee94-4be1-a953-f6df112c903e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-### frankreich
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### opposition
 
-* [https://www.spiegel.de/ausland/frankreich-warum-die-schueler-sich-strassenschlachten-mit-der-polizei-liefern](https://www.spiegel.de/ausland/frankreich-warum-die-schueler-sich-strassenschlachten-mit-der-polizei-liefern-a-860a3db3-b458-42f1-bd1e-ef3725452e13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro](https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro-a-50cf92fd-4e01-45ec-bb84-dd99f5740a80#ref=rss)
-### amazon
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+### leben
 
-* [https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime](https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn](https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn-a-900699ac-7523-4231-9fb7-0ddcbc5dd2f6#ref=rss)
+* [https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben](https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben-a-52ff4584-cebc-43a4-ac84-a0e8af70b0f6#ref=rss)
+### bischöfin
 
-* [https://www.spiegel.de/wirtschaft/heizkosten-so-teuer-ist-heizen-in-ihrer-region-im-vergleich](https://www.spiegel.de/wirtschaft/heizkosten-so-teuer-ist-heizen-in-ihrer-region-im-vergleich-a-d0ad078b-6e24-4c5e-a8de-25d52dbad709#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt](https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt-a-cdd17372-61a2-423e-8ce9-eba8c072fbc1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-serbien-das-ist-juergen-klopps-zentrales-problem-und-die-loesung-wird-wehtun](https://www.spiegel.de/sport/fussball/deutschland-vs-serbien-das-ist-juergen-klopps-zentrales-problem-und-die-loesung-wird-wehtun-a-99d1b7fb-5732-4901-9f07-6a2e1142c74b#ref=rss)
-### person
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+### mariann
 
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### raf
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+### budde
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-### fairford
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+### rückzug
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-* [https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main](https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main-a-9ada787e-86a1-4eba-bb9c-e6a384493177#ref=rss)
-### mehrere
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-### geplant
+* [https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an](https://www.spiegel.de/ausland/donald-trump-bischoefin-mariann-budde-kuendigt-rueckzug-an-a-a93b34a6-9302-46e9-bdeb-a8c43152ff6b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### cronos
 
-* [https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest](https://www.spiegel.de/ausland/raf-fairford-antiterrorpolizei-nimmt-mann-in-london-fest-a-0b035c24-4ece-4a1e-8639-87a370bc5ce7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung](https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung-a-b098b4d3-15b2-4248-a2a0-2499675659d7#ref=rss)
-### jimi
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+### conrad
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-### blue
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+### lant
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-### ochsenknecht
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+### sänger
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-### fall
+* [https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot](https://www.spiegel.de/kultur/musik/cronos-venom-saenger-conrad-lant-ist-tot-a-130101c1-8a25-47e0-9efc-9e3471f2776a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager](https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager-a-e10e43c7-3894-4570-884f-6ad54847d43f#ref=rss)
+### rücktritt
 
-* [https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt](https://www.spiegel.de/panorama/betrugsprozess-jimi-blue-ochsenknecht-verurteilt-a-8cb336bb-02ba-487f-b96d-e20975774f6a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander](https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander-a-5386398e-1516-45c6-bfaf-63fe661ec38f#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander](https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander-a-5386398e-1516-45c6-bfaf-63fe661ec38f#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander](https://www.spiegel.de/politik/deutschland/vorsondierung-in-berlin-linke-gruene-und-spd-gehen-ohne-ergebnis-auseinander-a-5386398e-1516-45c6-bfaf-63fe661ec38f#ref=rss)
-### verbrenneraus
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung](https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung-a-b098b4d3-15b2-4248-a2a0-2499675659d7#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung](https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung-a-b098b4d3-15b2-4248-a2a0-2499675659d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-### demokratischen
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung](https://www.spiegel.de/wirtschaft/verbrenner-aus-europaparlament-vertagt-entscheidung-ueber-moegliche-aufweichung-a-b098b4d3-15b2-4248-a2a0-2499675659d7#ref=rss)
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### absturz
-
-* [https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf](https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf-a-085fa4da-ee94-4be1-a953-f6df112c903e#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte](https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte-a-03c8f8f8-0568-41c6-8d19-e615313ebac2#ref=rss)
-### vorfall
-
-* [https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf](https://www.spiegel.de/ausland/flydubai-drama-das-politische-kapital-einer-beinahe-katastrophe-in-israels-wahlkampf-a-085fa4da-ee94-4be1-a953-f6df112c903e#ref=rss)
-* [https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main](https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main-a-9ada787e-86a1-4eba-bb9c-e6a384493177#ref=rss)
-### zerwürfnis
-
-* [https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls](https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls-a-f8f03eb2-5258-4cc2-9208-882fad61d7a9#ref=rss)
-### portugal
-
-* [https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls](https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls-a-f8f03eb2-5258-4cc2-9208-882fad61d7a9#ref=rss)
-### sportlichen
-
-* [https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls](https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls-a-f8f03eb2-5258-4cc2-9208-882fad61d7a9#ref=rss)
-### verfalls
-
-* [https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls](https://www.spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls-a-f8f03eb2-5258-4cc2-9208-882fad61d7a9#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern](https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern-a-cb80eeb4-dd95-4385-ba20-6326e813e3f4#ref=rss)
-### sammer
-
-* [https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern](https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern-a-cb80eeb4-dd95-4385-ba20-6326e813e3f4#ref=rss)
-### dfb
-
-* [https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern](https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern-a-cb80eeb4-dd95-4385-ba20-6326e813e3f4#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern](https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern-a-cb80eeb4-dd95-4385-ba20-6326e813e3f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
 ### sollte
 
-* [https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern](https://www.spiegel.de/sport/matthias-sammer-kritisiert-nachwuchsarbeit-das-muss-sich-beim-dfb-aendern-a-cb80eeb4-dd95-4385-ba20-6326e813e3f4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-### ferat
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen](https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten](https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten-a-116fbcb9-85d5-4f83-b82e-b44d313b340f#ref=rss)
-### koçak
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### angeschlagene
 
-* [https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten](https://www.spiegel.de/politik/deutschland/linke-umstrittener-abgeordneter-ferat-kocak-behaelt-sprecherposten-a-116fbcb9-85d5-4f83-b82e-b44d313b340f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/joachim-gauck-warnt-vor-ruecktritt-von-friedrich-merz-a-e3465fd1-cc6b-4a40-bc42-3a70d3592cec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag-a-a2e72dff-78c8-461a-8bc2-4a2294a69c60#ref=rss)
+### christa
+
+* [https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben](https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben-a-e6b48cd9-bc96-4b6c-a9f9-67a6cc7b2549#ref=rss)
+### pike
+
+* [https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben](https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben-a-e6b48cd9-bc96-4b6c-a9f9-67a6cc7b2549#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben](https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben-a-e6b48cd9-bc96-4b6c-a9f9-67a6cc7b2549#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben](https://www.spiegel.de/ausland/christa-pike-papst-leo-xiv-soll-um-aussetzung-der-todesstrafe-gebeten-haben-a-e6b48cd9-bc96-4b6c-a9f9-67a6cc7b2549#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
+### spandau
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu](https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu-a-90180b60-01c0-4120-81e9-e295efadc13b#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu](https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu-a-90180b60-01c0-4120-81e9-e295efadc13b#ref=rss)
+### direktmandat
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-### konsequenzen
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu](https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu-a-90180b60-01c0-4120-81e9-e295efadc13b#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen](https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-oberbuergermeister-entzieht-linkenfraktion-wiesn-tisch-nach-eklat](https://www.spiegel.de/panorama/muenchen-oberbuergermeister-entzieht-linkenfraktion-wiesn-tisch-nach-eklat-a-2a6a9d24-6251-4fde-a138-d20a800df906#ref=rss)
-### renée
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu](https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu-a-90180b60-01c0-4120-81e9-e295efadc13b#ref=rss)
+### nhl
 
-* [https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung](https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung-a-05c09361-b9fb-4690-ae07-ea63357bedad#ref=rss)
-### good
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+### igor
 
-* [https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung](https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung-a-05c09361-b9fb-4690-ae07-ea63357bedad#ref=rss)
-### einsatz
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+### shesterkin
 
-* [https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung](https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung-a-05c09361-b9fb-4690-ae07-ea63357bedad#ref=rss)
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### leipzig
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+### moment
 
-* [https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen](https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen-a-e594e06e-ab3c-40ea-b0e3-e8e9d4c80fba#ref=rss)
-### arzt
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+### lang
 
-* [https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen](https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen-a-e594e06e-ab3c-40ea-b0e3-e8e9d4c80fba#ref=rss)
-### selbst
+* [https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor](https://www.spiegel.de/sport/nhl-eishockey-torhueter-igor-shesterkin-erzielt-goalie-tor-a-e41e490d-b3af-4ad7-be77-a0e65714c344#ref=rss)
+* [https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen](https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss)
+### florian
 
-* [https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen](https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen-a-e594e06e-ab3c-40ea-b0e3-e8e9d4c80fba#ref=rss)
-* [https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten](https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten-a-2637aab8-8905-4431-99d0-a35135486b58#ref=rss)
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+### wirtz
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushaltsdefizit-von-bund-laendern-und-kommunen-fast-doppelt-so-hoch-wie-2025](https://www.spiegel.de/wirtschaft/haushaltsdefizit-von-bund-laendern-und-kommunen-fast-doppelt-so-hoch-wie-2025-a-ed5afb9f-973b-43fb-86f3-e1c13683fb33#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird](https://www.spiegel.de/sport/fussball/florian-wirtz-in-der-nations-league-warum-die-gabe-sichtbar-wird-a-e69ce15d-63ec-42ed-9068-bff42adc6386#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+### cornell
+
+* [https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung](https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung-a-04c89b44-3214-4886-9126-a76d1ddf6f5e#ref=rss)
+### wut
+
+* [https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung](https://www.spiegel.de/ausland/cornell-university-studierende-reagieren-mit-wut-auf-mutmassliche-gruppenvergewaltigung-a-04c89b44-3214-4886-9126-a76d1ddf6f5e#ref=rss)
+### pete
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### davidson
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### tattoos
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### entfernen
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### hillary
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### clinton
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+### škoda
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet](https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet-a-e29f6ec8-e8e7-43e9-acaf-6274e904b4fd#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet](https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet-a-e29f6ec8-e8e7-43e9-acaf-6274e904b4fd#ref=rss)
+### autos
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet](https://www.spiegel.de/mobilitaet/auto/vw-lenkungsprobleme-skoda-ruft-weltweit-noch-mehr-autos-zurueck-als-erwartet-a-e29f6ec8-e8e7-43e9-acaf-6274e904b4fd#ref=rss)
+* [https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn](https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn-a-900699ac-7523-4231-9fb7-0ddcbc5dd2f6#ref=rss)
+### sting
+
+* [https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager](https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager-a-e10e43c7-3894-4570-884f-6ad54847d43f#ref=rss)
+### 75
+
+* [https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager](https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager-a-e10e43c7-3894-4570-884f-6ad54847d43f#ref=rss)
+### geburtstag
+
+* [https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager](https://www.spiegel.de/panorama/leute/sting-zum-75-geburtstag-fuehlt-sich-der-saenger-wie-ein-teenager-a-e10e43c7-3894-4570-884f-6ad54847d43f#ref=rss)
+### rita
+
+* [https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen](https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss)
+### flores
+
+* [https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen](https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+### supermarktkette
+
+* [https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette](https://www.spiegel.de/politik/russland-gerhard-schroeder-wird-offenbar-aufsichtsrat-bei-supermarktkette-a-9df955df-9bb1-4577-b8b9-324d01c1e066#ref=rss)
+### aaron
+
+* [https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an](https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an-a-18e86bae-4d18-4ac0-8281-7abe7ab6b7e3#ref=rss)
+### rodgers
+
+* [https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an](https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-und-trainer-mike-mccarty-schreien-sich-auf-dem-spielfeld-an-a-18e86bae-4d18-4ac0-8281-7abe7ab6b7e3#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+### andy
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+### burnham
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik](https://www.spiegel.de/sport/fussball/manchester-city-finanzskandal-andy-burnham-geraet-in-die-kritik-a-0fb59083-dc71-42ec-a8c5-fac091e00ee8#ref=rss)
+### chpbezirksbürgermeister
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+### weiterer
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen](https://www.spiegel.de/ausland/tuerkei-oppositioneller-chp-bezirksbuergermeister-in-istanbul-festgenommen-a-367e6f3b-610f-49bc-887a-132a277034e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+* [https://www.spiegel.de/panorama/leute/north-carolina-polizei-droht-festgenommenen-mit-taylor-swift-songs-in-dauerschleife](https://www.spiegel.de/panorama/leute/north-carolina-polizei-droht-festgenommenen-mit-taylor-swift-songs-in-dauerschleife-a-ebec642a-b3e9-49cd-9149-68fca74b3dba#ref=rss)
+### vorfall
+
+* [https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen](https://www.spiegel.de/ausland/flydubai-vorfall-donald-trump-vermutet-beteiligung-von-iran-und-droht-mit-harten-konsequenzen-a-878086c5-66e9-4c73-826f-071adf170013#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### dag
+
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
+### baehr
+
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
+### netz
+
+* [https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer](https://www.spiegel.de/panorama/justiz/dag-baehr-bnd-vizepraesident-nutzte-offenbar-im-netz-veroeffentlichte-handynummer-a-87552c1d-d865-4fd7-8b6d-4b735e98cac8#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/haushaltsdefizit-von-bund-laendern-und-kommunen-fast-doppelt-so-hoch-wie-2025](https://www.spiegel.de/wirtschaft/haushaltsdefizit-von-bund-laendern-und-kommunen-fast-doppelt-so-hoch-wie-2025-a-ed5afb9f-973b-43fb-86f3-e1c13683fb33#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen](https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen-a-b563b6b3-66a7-4870-bc40-a25c31a61253#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen](https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen-a-b563b6b3-66a7-4870-bc40-a25c31a61253#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen](https://www.spiegel.de/wissenschaft/natur/duerre-in-europa-eu-daten-zeigen-rekord-niedrigwasser-in-fluessen-a-b563b6b3-66a7-4870-bc40-a25c31a61253#ref=rss)
+### spiegeltalk
+
+* [https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel](https://www.spiegel.de/politik/joachim-gauck-im-spiegel-talk-dann-waere-merz-ein-politischer-volltrottel-a-903ea53a-0fbb-45aa-8f51-a1910d4417e7#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag-a-a2e72dff-78c8-461a-8bc2-4a2294a69c60#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### klopps
+
+* [https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen](https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-klopp-atmet-auf-die-pressestimmen-a-3f393131-8b42-490c-96ea-e286078e7cdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt](https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss)
+### straße
+
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss](https://www.spiegel.de/wirtschaft/strasse-von-hormus-erneut-tanker-laut-behoerdenbericht-unter-beschuss-a-f198f9d2-bfe8-43e4-97ae-00251bb1a4a0#ref=rss)
+### a66
+
+* [https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn](https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn-a-900699ac-7523-4231-9fb7-0ddcbc5dd2f6#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn](https://www.spiegel.de/panorama/a66-in-hessen-fahrradfahrerin-stirbt-bei-unfall-auf-der-autobahn-a-900699ac-7523-4231-9fb7-0ddcbc5dd2f6#ref=rss)
+### robert
+
+* [https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben](https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben-a-52ff4584-cebc-43a4-ac84-a0e8af70b0f6#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben](https://www.spiegel.de/kultur/robert-habeck-und-sein-neues-leben-man-kann-nicht-nach-vorne-gehen-und-nach-hinten-leben-a-52ff4584-cebc-43a4-ac84-a0e8af70b0f6#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/zuckersteuer-lars-klingbeil-haelt-nach-vorlaeufigem-stopp-vom-kanzleramt-an-umstrittener-reform-fest](https://www.spiegel.de/politik/deutschland/zuckersteuer-lars-klingbeil-haelt-nach-vorlaeufigem-stopp-vom-kanzleramt-an-umstrittener-reform-fest-a-d7b71c75-60cc-4589-a1dd-5c93b175e877#ref=rss)
 ### zuckersteuer
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss)
-### hinrichtung
+* [https://www.spiegel.de/politik/deutschland/zuckersteuer-lars-klingbeil-haelt-nach-vorlaeufigem-stopp-vom-kanzleramt-an-umstrittener-reform-fest](https://www.spiegel.de/politik/deutschland/zuckersteuer-lars-klingbeil-haelt-nach-vorlaeufigem-stopp-vom-kanzleramt-an-umstrittener-reform-fest-a-d7b71c75-60cc-4589-a1dd-5c93b175e877#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss)
-### naomi
-
-* [https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden](https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden-a-967bb46f-25b7-4469-8400-6ed370cb0ee6#ref=rss)
-### campbell
-
-* [https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden](https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden-a-967bb46f-25b7-4469-8400-6ed370cb0ee6#ref=rss)
-### veruntreuung
-
-* [https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden](https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden-a-967bb46f-25b7-4469-8400-6ed370cb0ee6#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben](https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime](https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime](https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss)
-### heizkosten
-
-* [https://www.spiegel.de/wirtschaft/heizkosten-so-teuer-ist-heizen-in-ihrer-region-im-vergleich](https://www.spiegel.de/wirtschaft/heizkosten-so-teuer-ist-heizen-in-ihrer-region-im-vergleich-a-d0ad078b-6e24-4c5e-a8de-25d52dbad709#ref=rss)
-### lebt
-
-* [https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt](https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt-a-cdd17372-61a2-423e-8ce9-eba8c072fbc1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben-a-8a2227ca-661f-4b98-9fd6-299d37679cdf#ref=rss)
-### dank
-
-* [https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt](https://www.spiegel.de/wissenschaft/medizin/berliner-charite-erstmals-patient-in-deutschland-mit-genschere-behandelt-a-cdd17372-61a2-423e-8ce9-eba8c072fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte](https://www.spiegel.de/ausland/flydubai-wie-ein-klempner-dank-mayday-alarm-im-cockpit-moeglicherweise-einen-absturz-verhinderte-a-03c8f8f8-0568-41c6-8d19-e615313ebac2#ref=rss)
-### ben
-
-* [https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen](https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen-a-83fe8b22-0de7-4a84-ae35-f57ca9a6365a#ref=rss)
-### affleck
-
-* [https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen](https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen-a-83fe8b22-0de7-4a84-ae35-f57ca9a6365a#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen](https://www.spiegel.de/panorama/leute/ben-affleck-schauspieler-lernte-seine-mutter-nach-ihrem-tod-neu-kennen-a-83fe8b22-0de7-4a84-ae35-f57ca9a6365a#ref=rss)
-### würzburg
-
-* [https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main](https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main-a-9ada787e-86a1-4eba-bb9c-e6a384493177#ref=rss)
-### main
-
-* [https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main](https://www.spiegel.de/panorama/wuerzburg-mann-rettet-dreijaehriges-maedchen-aus-dem-main-a-9ada787e-86a1-4eba-bb9c-e6a384493177#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro](https://www.spiegel.de/wirtschaft/frankreich-regierung-plant-sparpaket-von-43-milliarden-euro-a-50cf92fd-4e01-45ec-bb84-dd99f5740a80#ref=rss)
-### evelyn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut-a-7ecca238-fc80-46a9-b0b7-ada26f7b7e17#ref=rss)
-### palla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut-a-7ecca238-fc80-46a9-b0b7-ada26f7b7e17#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-evelyn-palla-sich-nach-einem-jahr-an-der-spitze-mit-dem-neustart-schwertut-a-7ecca238-fc80-46a9-b0b7-ada26f7b7e17#ref=rss)
-### löhne
-
-* [https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro](https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro-a-1d6bc43d-5d70-4561-9b51-d4ad727bce76#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro](https://www.spiegel.de/wirtschaft/pflege-loehne-fuer-pflegekraefte-steigen-im-schnitt-auf-24-50-euro-a-1d6bc43d-5d70-4561-9b51-d4ad727bce76#ref=rss)
-### anne
-
-* [https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten](https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten-a-2637aab8-8905-4431-99d0-a35135486b58#ref=rss)
-### hathaway
-
-* [https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten](https://www.spiegel.de/kultur/kino/anne-hathaway-wuerde-fuer-weitere-knicks-meisterschaft-auf-einen-oscar-verzichten-a-2637aab8-8905-4431-99d0-a35135486b58#ref=rss)
-### republik
-
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### ärzte
-
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### grenzen
-
-* [https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus](https://www.spiegel.de/panorama/demokratische-republik-kongo-aerzte-ohne-grenzen-fliegt-ebola-infizierte-person-aus-a-305510e7-a10f-406b-b347-4609c9c1132f#ref=rss)
-### rafael
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben-a-8a2227ca-661f-4b98-9fd6-299d37679cdf#ref=rss)
-### nadal
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisprofi-fuehrt-nach-karriereende-ein-schmerzfreies-leben-a-8a2227ca-661f-4b98-9fd6-299d37679cdf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/north-carolina-polizei-droht-festgenommenen-mit-taylor-swift-songs-in-dauerschleife](https://www.spiegel.de/panorama/leute/north-carolina-polizei-droht-festgenommenen-mit-taylor-swift-songs-in-dauerschleife-a-ebec642a-b3e9-49cd-9149-68fca74b3dba#ref=rss)
 
