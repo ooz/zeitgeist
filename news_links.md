@@ -4,335 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### zara
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### drei
+* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben](https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben-a-afaeb423-5e6b-403c-ad9c-d512b13fd85d#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+* [https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie](https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss)
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### michael
 
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen](https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen-a-109c4b99-d81d-4132-979d-05679ee51dc5#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben](https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben-a-afaeb423-5e6b-403c-ad9c-d512b13fd85d#ref=rss)
-### deutsche
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache](https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache-a-a6298c65-264c-4309-a2be-5cadd82ac76e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### männer
+* [https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin](https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin-a-08aba710-34b2-476a-a0fb-54499b850de8#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko](https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss)
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen](https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen-a-ffe9b524-a7f6-4241-a459-b382fb51e7ff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-### ich
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/elif-eralp-wieso-ich-keine-angst-vor-der-berliner-buergermeisterkandidatin-habe-kolumne](https://www.spiegel.de/panorama/elif-eralp-wieso-ich-keine-angst-vor-der-berliner-buergermeisterkandidatin-habe-kolumne-a-a5d50f98-379c-477e-b66c-e066d6bceb9a#ref=rss)
-### sechs
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-### bald
+* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
+* [https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie](https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss)
+### justiz
 
-* [https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten](https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten-a-8a37a537-e98f-4070-b9e6-2c1036aa5e06#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-### cornell
+* [https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin](https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin-a-08aba710-34b2-476a-a0fb-54499b850de8#ref=rss)
+* [https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz](https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz-a-32ad625b-f824-4cd1-846d-6b9f28f2812a#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-streit-ueber-justizeingriff-in-tv-debatte-vor-lula-bolsonaro-wahl](https://www.spiegel.de/ausland/brasilien-streit-ueber-justizeingriff-in-tv-debatte-vor-lula-bolsonaro-wahl-a-d80b4aff-00a0-44b2-90b3-9b872ad5d869#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen](https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen-a-ffe9b524-a7f6-4241-a459-b382fb51e7ff#ref=rss)
-### hagen
+* [https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin](https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin-a-08aba710-34b2-476a-a0fb-54499b850de8#ref=rss)
+* [https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz](https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz-a-32ad625b-f824-4cd1-846d-6b9f28f2812a#ref=rss)
+* [https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee](https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee-a-251133ff-6ee0-4020-b39b-4fbee8771fe4#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-### unna
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+* [https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus](https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus-a-14155995-91ad-42ee-ab64-ef1aad015821#ref=rss)
+### musk
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### filialen
+
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen](https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen-a-c57255b6-b986-4f58-aa4a-52e0071293c5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt-a-e98212fe-4638-4d86-b5b4-38d0377a2fd9#ref=rss)
-### eminem
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los](https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los-a-56a73077-1e6a-40d1-a3bc-8c16082c9530#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt](https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt-a-482a6e46-6b1b-4279-bb98-321aa6c104ea#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
+* [https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen](https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen-a-dcfc5b0c-30e8-4162-aa03-6745ac48fcf8#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern](https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-### bka
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### nico
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-### junge
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+### rosberg
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-### violence
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+### schumacher
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-### as
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-### service
+* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
+* [https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee](https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee-a-251133ff-6ee0-4020-b39b-4fbee8771fe4#ref=rss)
+### malaysia
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-### setzt
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+### max
 
-* [https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv](https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-### euparlament
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+### verstappen
 
-* [https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten](https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten-a-8a37a537-e98f-4070-b9e6-2c1036aa5e06#ref=rss)
-### rechten
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten](https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten-a-8a37a537-e98f-4070-b9e6-2c1036aa5e06#ref=rss)
-### alkohol
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+* [https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman](https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman-a-8549728a-929e-42bf-a20c-6b0d7e7c19a1#ref=rss)
+### preis
 
-* [https://www.spiegel.de/wissenschaft/medizin/fasd-alkohol-in-der-schwangerschaft-erzeugt-kosten-in-milliardenhoehe](https://www.spiegel.de/wissenschaft/medizin/fasd-alkohol-in-der-schwangerschaft-erzeugt-kosten-in-milliardenhoehe-a-a500f487-2d26-48df-9a36-0b15181bdd15#ref=rss)
-### kosten
+* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken](https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken-a-710cb6db-ccf9-4443-b22c-03298999bab0#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/wissenschaft/medizin/fasd-alkohol-in-der-schwangerschaft-erzeugt-kosten-in-milliardenhoehe](https://www.spiegel.de/wissenschaft/medizin/fasd-alkohol-in-der-schwangerschaft-erzeugt-kosten-in-milliardenhoehe-a-a500f487-2d26-48df-9a36-0b15181bdd15#ref=rss)
-### sarah
+* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
+* [https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie](https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss)
+### lösungen
 
-* [https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab](https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab-a-52de8dd8-00e9-4586-953a-b1649c23a2b1#ref=rss)
-### kuttner
+* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+### vorgeworfen
 
-* [https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab](https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab-a-52de8dd8-00e9-4586-953a-b1649c23a2b1#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin](https://www.spiegel.de/ausland/iran-richtet-mann-wegen-teilnahme-an-protesten-hin-a-08aba710-34b2-476a-a0fb-54499b850de8#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+### mind
 
-* [https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab](https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab-a-52de8dd8-00e9-4586-953a-b1649c23a2b1#ref=rss)
-### tatsächlich
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+### hacks
 
-* [https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab](https://www.spiegel.de/panorama/leute/sarah-kuttner-sagt-nach-krebsvorsorgetermin-lesung-ab-a-52de8dd8-00e9-4586-953a-b1649c23a2b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### doro
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+### timon
 
-* [https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen](https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen-a-bf15c31e-dd2d-40a7-bcf8-c5607c8ed10d#ref=rss)
-### pesch
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+### krause
 
-* [https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen](https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen-a-bf15c31e-dd2d-40a7-bcf8-c5607c8ed10d#ref=rss)
-### new
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen](https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen-a-bf15c31e-dd2d-40a7-bcf8-c5607c8ed10d#ref=rss)
-### york
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+* [https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet](https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen](https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen-a-bf15c31e-dd2d-40a7-bcf8-c5607c8ed10d#ref=rss)
-### stand
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken](https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken-a-6a172141-f50f-402b-8a98-9db4933e6653#ref=rss)
+### grenzen
 
-* [https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen](https://www.spiegel.de/panorama/leute/doro-pesch-queen-of-metal-verbrachte-in-new-york-die-naechte-mit-obdachlosen-a-bf15c31e-dd2d-40a7-bcf8-c5607c8ed10d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein](https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein-a-d6ab9724-53f1-4814-bef1-6977ca7e7a3a#ref=rss)
-### missbrauchsskandal
+* [https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast](https://www.spiegel.de/psychologie/mind-hacks-mit-timon-krause-so-machen-sie-das-leben-leichter-podcast-a-ffe7601e-8c4d-4c60-80fa-aafc42b829df#ref=rss)
+* [https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee](https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee-a-251133ff-6ee0-4020-b39b-4fbee8771fe4#ref=rss)
+### reserven
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss)
-### woody
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken](https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken-a-710cb6db-ccf9-4443-b22c-03298999bab0#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/leute/woody-allen-will-mit-politik-nichts-zu-tun-haben](https://www.spiegel.de/panorama/leute/woody-allen-will-mit-politik-nichts-zu-tun-haben-a-4129a90f-1ac7-4225-b709-b79e0ff94224#ref=rss)
-### allen
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken](https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken-a-710cb6db-ccf9-4443-b22c-03298999bab0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/leute/woody-allen-will-mit-politik-nichts-zu-tun-haben](https://www.spiegel.de/panorama/leute/woody-allen-will-mit-politik-nichts-zu-tun-haben-a-4129a90f-1ac7-4225-b709-b79e0ff94224#ref=rss)
-### türkei
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+### shivon
 
-* [https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache](https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache-a-a6298c65-264c-4309-a2be-5cadd82ac76e#ref=rss)
-### fall
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+### zilis
 
-* [https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache](https://www.spiegel.de/panorama/tote-deutsche-sibel-t-in-der-tuerkei-war-es-doch-eine-natuerliche-todesursache-a-a6298c65-264c-4309-a2be-5cadd82ac76e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen](https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen-a-ffe9b524-a7f6-4241-a459-b382fb51e7ff#ref=rss)
-### paramount
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+### trennung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen](https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen-a-c57255b6-b986-4f58-aa4a-52e0071293c5#ref=rss)
-### warner
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen](https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen-a-c57255b6-b986-4f58-aa4a-52e0071293c5#ref=rss)
-### woche
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko](https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen](https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen-a-c57255b6-b986-4f58-aa4a-52e0071293c5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-### nennen
+* [https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer](https://www.spiegel.de/panorama/leute/elon-musk-shivon-zilis-verkuendet-auf-x-trennung-von-tech-milliardaer-a-4c8acf01-f653-4be2-98fa-0f0d6138a5ce#ref=rss)
+* [https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen](https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen-a-dcfc5b0c-30e8-4162-aa03-6745ac48fcf8#ref=rss)
+### starbucks
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen](https://www.spiegel.de/wirtschaft/unternehmen/paramount-und-warner-entstehender-dachkonzern-hat-schon-einen-namen-a-c57255b6-b986-4f58-aa4a-52e0071293c5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-### uss
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+### eröffnet
 
-* [https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde](https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss)
-### san
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+### xinjiang
 
-* [https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde](https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss)
-### francisco
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde](https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+### schließt
+
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde](https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-### einst
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+* [https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet](https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde](https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein](https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein-a-d6ab9724-53f1-4814-bef1-6977ca7e7a3a#ref=rss)
-### dürfen
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+### schließen
 
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-### künftig
+* [https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa](https://www.spiegel.de/wirtschaft/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
+### straße
 
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten](https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss)
-### überblick
+* [https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman](https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman-a-8549728a-929e-42bf-a20c-6b0d7e7c19a1#ref=rss)
+### hormus
 
-* [https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten](https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/platzt-jetzt-die-koalition-was-sie-ueber-die-regierungskrise-wissen-muessen](https://www.spiegel.de/politik/deutschland/platzt-jetzt-die-koalition-was-sie-ueber-die-regierungskrise-wissen-muessen-a-914f55ef-7620-4779-8a22-26f00990c126#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman](https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman-a-8549728a-929e-42bf-a20c-6b0d7e7c19a1#ref=rss)
+### oman
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-### unterricht
+* [https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman](https://www.spiegel.de/ausland/strasse-von-hormus-unbekannte-beschiessen-tanker-vor-oman-a-8549728a-929e-42bf-a20c-6b0d7e7c19a1#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko](https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-### geben
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht](https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### kid
-
-* [https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt](https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt-a-482a6e46-6b1b-4279-bb98-321aa6c104ea#ref=rss)
-### rock
-
-* [https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt](https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt-a-482a6e46-6b1b-4279-bb98-321aa6c104ea#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt](https://www.spiegel.de/kultur/musik/kid-rock-kuendigt-song-mit-eminem-an-dessen-fans-zeigen-sich-entsetzt-a-482a6e46-6b1b-4279-bb98-321aa6c104ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/politik/deutschland/platzt-jetzt-die-koalition-was-sie-ueber-die-regierungskrise-wissen-muessen](https://www.spiegel.de/politik/deutschland/platzt-jetzt-die-koalition-was-sie-ueber-die-regierungskrise-wissen-muessen-a-914f55ef-7620-4779-8a22-26f00990c126#ref=rss)
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### sefe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein](https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein-a-d6ab9724-53f1-4814-bef1-6977ca7e7a3a#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### rohöl
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### g7
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### 100
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### barrel
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei](https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen-a-5ff615eb-4b56-4600-978a-764547ee2c08#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2#ref=rss)
-### wohnungsnot
-
-* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt-a-e98212fe-4638-4d86-b5b4-38d0377a2fd9#ref=rss)
-### blick
-
-* [https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt-a-e98212fe-4638-4d86-b5b4-38d0377a2fd9#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen](https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen-a-ffe9b524-a7f6-4241-a459-b382fb51e7ff#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen](https://www.spiegel.de/panorama/gesellschaft/fall-cornell-co-maenner-trainiert-eure-algorithmen-a-ffe9b524-a7f6-4241-a459-b382fb51e7ff#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben](https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben-a-afaeb423-5e6b-403c-ad9c-d512b13fd85d#ref=rss)
-### isabella
-
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### weber
-
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### staat
-
-* [https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger](https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss)
-### genommen
-
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-### durchsuchungen
-
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben](https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben-a-afaeb423-5e6b-403c-ad9c-d512b13fd85d#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben](https://www.spiegel.de/panorama/justiz/hagen-und-unna-drei-maenner-sollen-anschlag-geplant-haben-a-0f268f78-57f2-4b86-8809-b70f82b5c68b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben](https://www.spiegel.de/netzwelt/netzpolitik/internetkriminalitaet-16-jaehriger-soll-zentrale-rolle-in-ransomware-gruppe-haben-a-afaeb423-5e6b-403c-ad9c-d512b13fd85d#ref=rss)
-### per
-
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-### mertesacker
-
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen](https://www.spiegel.de/sport/fussball/dfb-der-nette-per-mertesacker-und-die-riesengrossen-erwartungen-a-cdf996f2-4255-4dd6-811d-261b0a87ebdd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen-a-5ff615eb-4b56-4600-978a-764547ee2c08#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen](https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen-a-109c4b99-d81d-4132-979d-05679ee51dc5#ref=rss)
-### nachgewiesen
-
-* [https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen](https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen-a-109c4b99-d81d-4132-979d-05679ee51dc5#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme](https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme-a-09c74d27-bf5b-4fe1-8502-88c660703755#ref=rss)
-### arabischen
-
-* [https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme](https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme-a-09c74d27-bf5b-4fe1-8502-88c660703755#ref=rss)
+* [https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie](https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss)
+* [https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee](https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee-a-251133ff-6ee0-4020-b39b-4fbee8771fe4#ref=rss)
 ### parteien
 
-* [https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme](https://www.spiegel.de/ausland/israel-oberstes-gericht-erlaubt-arabischen-parteien-wahlteilnahme-a-09c74d27-bf5b-4fe1-8502-88c660703755#ref=rss)
-### pete
+* [https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie](https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss)
+### ostdeutschland
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### davidson
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### tattoos
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss)
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### stray
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### entfernen
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
+### kids
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### hillary
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
+### bts
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### clinton
+* [https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an](https://www.spiegel.de/kultur/musik/stray-kids-schliessen-sich-grammy-boykott-von-bts-an-a-11a59855-ead7-41b1-87de-725df6e7697b#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-### gute
+* [https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz](https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz-a-32ad625b-f824-4cd1-846d-6b9f28f2812a#ref=rss)
+### unruhe
 
-* [https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton](https://www.spiegel.de/panorama/leute/pete-davidson-laesst-tattoos-entfernen-aber-nicht-das-von-hillary-clinton-a-e8de6443-de0c-4c86-8874-fc4c137db884#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen-a-5ff615eb-4b56-4600-978a-764547ee2c08#ref=rss)
-### schloss
+* [https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz](https://www.spiegel.de/panorama/afd-verbotsverfahren-hessischer-pruef-erlass-nach-aufruf-sorgt-fuer-unruhe-in-der-justiz-a-32ad625b-f824-4cd1-846d-6b9f28f2812a#ref=rss)
+### galeria
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen-a-5ff615eb-4b56-4600-978a-764547ee2c08#ref=rss)
-### gondelsheim
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+### handelsexperte
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schloss-gondelsheim-muss-ein-fenster-fuer-fledermaeuse-offenlassen-a-5ff615eb-4b56-4600-978a-764547ee2c08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+### pleite
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+### kaufhaus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+### glaubt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt](https://www.spiegel.de/wirtschaft/unternehmen/galeria-warum-ein-handelsexperte-trotz-pleite-noch-ans-kaufhaus-glaubt-a-4bf4876c-6a0d-4977-a8f1-0e2a6625c9d4#ref=rss)
+### cornell
+
+* [https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus](https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus-a-14155995-91ad-42ee-ab64-ef1aad015821#ref=rss)
+### university
+
+* [https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus](https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus-a-14155995-91ad-42ee-ab64-ef1aad015821#ref=rss)
+### übergriffe
+
+* [https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus](https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus-a-14155995-91ad-42ee-ab64-ef1aad015821#ref=rss)
+### zudem
+
+* [https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus](https://www.spiegel.de/ausland/cornell-university-fall-jane-doe-rueckt-serien-sexueller-uebergriffe-in-den-fokus-a-14155995-91ad-42ee-ab64-ef1aad015821#ref=rss)
+* [https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko](https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss)
+### oktoberfest
+
+* [https://www.spiegel.de/netzwelt/oktoberfest-macht-ki-slop-die-wiesn-kaputt](https://www.spiegel.de/netzwelt/oktoberfest-macht-ki-slop-die-wiesn-kaputt-a-909ae246-8e5c-47b0-bae1-d6cc565a4860#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko](https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss)
+### john
+
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+### galliano
+
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+### skandal
+
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-streit-ueber-justizeingriff-in-tv-debatte-vor-lula-bolsonaro-wahl](https://www.spiegel.de/ausland/brasilien-streit-ueber-justizeingriff-in-tv-debatte-vor-lula-bolsonaro-wahl-a-d80b4aff-00a0-44b2-90b3-9b872ad5d869#ref=rss)
+### alten
+
+* [https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen](https://www.spiegel.de/stil/john-galliano-fuer-zara-darf-ein-mann-der-hitler-liebte-jetzt-fuer-zara-mode-machen-a-c194ea41-4ee5-4383-833b-b0c796e0cfef#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+### j
+
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### fox
+
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada](https://www.spiegel.de/kultur/michael-j-fox-schauspieler-erhaelt-hohe-auszeichnung-in-kanada-a-7071380b-66c5-444e-b8ee-121970c88d04#ref=rss)
+### pornografie
+
+* [https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen](https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen-a-dcfc5b0c-30e8-4162-aa03-6745ac48fcf8#ref=rss)
+### sexualität
+
+* [https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen](https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen-a-dcfc5b0c-30e8-4162-aa03-6745ac48fcf8#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen](https://www.spiegel.de/psychologie/pornografie-wie-pornos-die-sexualitaet-von-teenagern-beeinflussen-a-dcfc5b0c-30e8-4162-aa03-6745ac48fcf8#ref=rss)
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee](https://www.spiegel.de/familie/alloparenting-unerfuellter-kinderwunsch-ich-habe-eine-verrueckte-idee-a-251133ff-6ee0-4020-b39b-4fbee8771fe4#ref=rss)
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### grok
+
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### xai
+
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft](https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss)
+### innenministerium
+
+* [https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken](https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken-a-6a172141-f50f-402b-8a98-9db4933e6653#ref=rss)
+### löscht
+
+* [https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken](https://www.spiegel.de/politik/deutschland/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken-a-6a172141-f50f-402b-8a98-9db4933e6653#ref=rss)
+### ann
+
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+### widdecombe
+
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben](https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss)
+* [https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet](https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss)
+### christa
+
+* [https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet](https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss)
+### hinrichtung
+
+* [https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet](https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss)
 
