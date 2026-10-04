@@ -4,320 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tag
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests](https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-* [https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten](https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten-a-4164b989-1a06-4cf9-89bb-73a90292c0ed#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus](https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus-a-b935bf4f-1699-4d5b-b652-6e1a1dae8f06#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage](https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss)
-### michael
-
-* [https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner](https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss)
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests](https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-### einheit
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft-a-03ff9cf3-7b9b-41e6-8bb6-a41789e25fed#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests](https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss)
-* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen](https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft-a-03ff9cf3-7b9b-41e6-8bb6-a41789e25fed#ref=rss)
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck](https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss)
-* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten](https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten-a-4164b989-1a06-4cf9-89bb-73a90292c0ed#ref=rss)
-### amerika
+* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+* [https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug](https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug-a-803a79c2-6106-4f0b-b235-347f534bda1f#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage](https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+* [https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug](https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug-a-803a79c2-6106-4f0b-b235-347f534bda1f#ref=rss)
+### amt
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je](https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je-a-a0c97034-1b7c-4f41-b366-5c422598666a#ref=rss)
+### ki
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### jahrzehnten
+* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert](https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten](https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten-a-4164b989-1a06-4cf9-89bb-73a90292c0ed#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedrigwasser-in-deutschland-umweltminister-schneider-fordert-anderen-umgang-mit-wasser](https://www.spiegel.de/politik/deutschland/niedrigwasser-in-deutschland-umweltminister-schneider-fordert-anderen-umgang-mit-wasser-a-4f544f3a-a2ae-4ee1-b643-9b9923de6e9b#ref=rss)
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft-a-03ff9cf3-7b9b-41e6-8bb6-a41789e25fed#ref=rss)
-### warnt
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+* [https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche](https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche-a-751f300b-657b-411f-86e4-e00d73d75316#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests](https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss)
-### ausländer
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd](https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd-a-091f5ea6-dbee-4ca8-a856-294a3d71cbcf#ref=rss)
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-### andere
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar](https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss)
+### hinrichtung
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus](https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus-a-b935bf4f-1699-4d5b-b652-6e1a1dae8f06#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic](https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss)
-* [https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage](https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/bayern-dachzelt-diebe-scheitern-an-tiefgaragendecke](https://www.spiegel.de/panorama/justiz/bayern-dachzelt-diebe-scheitern-an-tiefgaragendecke-a-6214fcab-d4bf-4cba-8f00-8ffb5f3ffbcd#ref=rss)
-* [https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar](https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss)
-### irak
-
-* [https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage](https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss)
-### ustruppen
-
-* [https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage](https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss)
-### hotelbar
-
-* [https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar](https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar](https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss)
-* [https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes](https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss)
-### douglas
-
-* [https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner](https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss)
-### kathleen
-
-* [https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner](https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss)
-### turner
-
-* [https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner](https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss)
-### hawaii
-
-* [https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen](https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss)
-### warnung
-
-* [https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen](https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen](https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen](https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
+* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
 ### christa
 
-* [https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck](https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss)
+* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
 ### pike
 
-* [https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck](https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
+### überlebte
 
-* [https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck](https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### münchen
+* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
+### flávio
 
-* [https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests](https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss)
-### pressekonferenz
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+### bolsonaro
 
-* [https://www.spiegel.de/sport/fussball/nationas-league-eklat-vor-israel-spiel-irlands-pressekonferenz-abgebrochen](https://www.spiegel.de/sport/fussball/nationas-league-eklat-vor-israel-spiel-irlands-pressekonferenz-abgebrochen-a-6a47a53b-42e8-498d-92a9-8e0b4e30474c#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/gesundheit/diagnose/eine-raetselhafte-patientin-warum-baut-die-frau-so-schnell-ab](https://www.spiegel.de/gesundheit/diagnose/eine-raetselhafte-patientin-warum-baut-die-frau-so-schnell-ab-a-46a0530d-81cd-4fc7-b419-b2098bb1d00c#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### ärzte
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+### lula
 
-* [https://www.spiegel.de/gesundheit/diagnose/eine-raetselhafte-patientin-warum-baut-die-frau-so-schnell-ab](https://www.spiegel.de/gesundheit/diagnose/eine-raetselhafte-patientin-warum-baut-die-frau-so-schnell-ab-a-46a0530d-81cd-4fc7-b419-b2098bb1d00c#ref=rss)
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-### versteigert
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+### gute
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-justiz-versteigert-lamborghini-bei-rekordauktion](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-justiz-versteigert-lamborghini-bei-rekordauktion-a-2a3ab7fe-f8b4-45e8-ac4d-f90dfed29992#ref=rss)
-### autos
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+### chancen
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-justiz-versteigert-lamborghini-bei-rekordauktion](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-justiz-versteigert-lamborghini-bei-rekordauktion-a-2a3ab7fe-f8b4-45e8-ac4d-f90dfed29992#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-### gegangen
-
-* [https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz](https://www.spiegel.de/panorama/deutschland-tausende-bilden-menschenketten-fuer-gerechtigkeit-und-klimaschutz-a-6711f912-67e3-40b2-b04d-377c4d83c703#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-### gescheitert
-
-* [https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot](https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
-### medizinische
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-### versorgung
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv](https://www.spiegel.de/panorama/medizinische-versorgung-zwei-kinderarztpraxen-fuer-8000-kinder-in-bremen-groepelingen-spiegel-tv-a-1680ee57-68cd-4813-a961-65571fe70c28#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-jetzt-beginnen-die-gefaehrlichsten-jahre-seiner-praesidentschaft-a-03ff9cf3-7b9b-41e6-8bb6-a41789e25fed#ref=rss)
-### volksbühne
-
-* [https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes](https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss)
-### intendanz
-
-* [https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes](https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss)
-### house
-
-* [https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes](https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss)
-### statt
-
-* [https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes](https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic](https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic](https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss)
-### djokovic
-
-* [https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic](https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic](https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### unwetter
-
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### rhodos
-
-* [https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos](https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
-### berthavonsuttnerschule
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen](https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen](https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen](https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus](https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus-a-b935bf4f-1699-4d5b-b652-6e1a1dae8f06#ref=rss)
-### florida
-
-* [https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten](https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten-a-4164b989-1a06-4cf9-89bb-73a90292c0ed#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus](https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus-a-b935bf4f-1699-4d5b-b652-6e1a1dae8f06#ref=rss)
-### zara
-
-* [https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck](https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### nico
+### tag
 
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### rosberg
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### besser
 
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### schumacher
+* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-east-of-eden-ist-die-neuverfilmung-besser-als-der-james-dean-klassiker](https://www.spiegel.de/kultur/tv/netflix-serie-east-of-eden-ist-die-neuverfilmung-besser-als-der-james-dean-klassiker-a-87575ec7-db60-48f1-aaba-f194c4f06ca4#ref=rss)
+### robert
 
-* [https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott](https://www.spiegel.de/sport/formel1/nico-rosberg-ueber-michael-schumacher-ich-war-ein-nobody-und-er-der-liebe-gott-a-2df77f9c-2364-41bd-aca2-553c24c708db#ref=rss)
-### malaysia
+* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
+### musil
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### max
+* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### verstappen
+* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten-a-8529fb73-9d0c-49b6-ab5e-b8a8c7fe89d3#ref=rss)
+### tipps
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-max-verstappen-auf-der-pole-saisonfinale-in-abu-dhabi-soll-stattfinden-a-7e851c72-f9c5-491c-b552-91683b8323df#ref=rss)
-### afd
+* [https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden](https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden-a-83d621f3-e406-4c13-a5e5-391dcd8ef4a7#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich](https://www.spiegel.de/politik/deutschland/gruene-suchen-gruende-fuer-den-erfolg-der-afd-auch-bei-sich-a-5ecc597d-76e2-48c4-a6c7-76125cd71ed3#ref=rss)
+* [https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden](https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden-a-83d621f3-e406-4c13-a5e5-391dcd8ef4a7#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+### vieles
+
+* [https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden](https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden-a-83d621f3-e406-4c13-a5e5-391dcd8ef4a7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet](https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet-a-78539158-792b-49ae-973e-d5efdca7dda0#ref=rss)
+### irene
+
+* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
+### butter
+
+* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
+### campingplatz
+
+* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
+### gardasee
+
+* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
+### großen
+
+* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
+* [https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche](https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche-a-751f300b-657b-411f-86e4-e00d73d75316#ref=rss)
+### kontrolle
+
+* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
+* [https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr](https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr-a-531684b6-610e-4dca-b348-8f767a44a212#ref=rss)
+### öffnung
+
+* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
+### bedingungen
+
+* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
+### derry
+
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+### scherhant
+
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+### findet
+
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+* [https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug](https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug-a-803a79c2-6106-4f0b-b235-347f534bda1f#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### miriam
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### wurster
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+### blicken
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+### muse
+
+* [https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet](https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet-a-78539158-792b-49ae-973e-d5efdca7dda0#ref=rss)
+### wir
+
+* [https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet](https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet-a-78539158-792b-49ae-973e-d5efdca7dda0#ref=rss)
+### getestet
+
+* [https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet](https://www.spiegel.de/netzwelt/apps/muse-von-meta-wir-haben-mark-zuckerbergs-persoenlichen-ki-agenten-getestet-a-78539158-792b-49ae-973e-d5efdca7dda0#ref=rss)
+### angelina
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+### jolie
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+* [https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd](https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd-a-091f5ea6-dbee-4ca8-a856-294a3d71cbcf#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza](https://www.spiegel.de/panorama/leute/angelina-jolie-bittet-um-unterstuetzung-fuer-gaza-a-0ddc9f68-3c92-499e-8d19-dacf746b0338#ref=rss)
+### midtermwahlen
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+### ohio
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### tage
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### republikaner
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd](https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd-a-091f5ea6-dbee-4ca8-a856-294a3d71cbcf#ref=rss)
+### scharf
+
+* [https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd](https://www.spiegel.de/politik/katja-wolf-ex-bsw-politikerin-warnt-ihre-ehemalige-partei-vor-unterstuetzung-der-afd-a-091f5ea6-dbee-4ca8-a856-294a3d71cbcf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen](https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen-a-e9f2bce3-be00-4cf9-92df-1c863dbe82ae#ref=rss)
+### rücken
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen](https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen-a-e9f2bce3-be00-4cf9-92df-1c863dbe82ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken](https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken-a-8e112114-7499-4786-a444-9925630ac047#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen](https://www.spiegel.de/ausland/ukraine-russland-krieg-us-thinktank-vergleicht-putins-berichte-ueber-gelaendegewinne-mit-halluzinationen-a-e9f2bce3-be00-4cf9-92df-1c863dbe82ae#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten-a-8529fb73-9d0c-49b6-ab5e-b8a8c7fe89d3#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/politik/deutschland/niedrigwasser-in-deutschland-umweltminister-schneider-fordert-anderen-umgang-mit-wasser](https://www.spiegel.de/politik/deutschland/niedrigwasser-in-deutschland-umweltminister-schneider-fordert-anderen-umgang-mit-wasser-a-4f544f3a-a2ae-4ee1-b643-9b9923de6e9b#ref=rss)
+### wichtiger
+
+* [https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je](https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je-a-a0c97034-1b7c-4f41-b366-5c422598666a#ref=rss)
+### denn
+
+* [https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je](https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je-a-a0c97034-1b7c-4f41-b366-5c422598666a#ref=rss)
+### je
+
+* [https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je](https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je-a-a0c97034-1b7c-4f41-b366-5c422598666a#ref=rss)
+### stromkasten
+
+* [https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr](https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr-a-531684b6-610e-4dca-b348-8f767a44a212#ref=rss)
+### gingen
+
+* [https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr](https://www.spiegel.de/panorama/stapelfeld-in-schleswig-holstein-raser-faehrt-stromkasten-um-stromausfall-bei-feuerwehr-a-531684b6-610e-4dca-b348-8f767a44a212#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken](https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken-a-8e112114-7499-4786-a444-9925630ac047#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten-a-8529fb73-9d0c-49b6-ab5e-b8a8c7fe89d3#ref=rss)
+### familienticket
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten-a-8529fb73-9d0c-49b6-ab5e-b8a8c7fe89d3#ref=rss)
+### dauerhaft
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-familienticket-bleibt-nach-sommeraktion-dauerhaft-erhalten-a-8529fb73-9d0c-49b6-ab5e-b8a8c7fe89d3#ref=rss)
+### geheimdienstdirektor
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### clayton
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### super
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### intelligence
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### force
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+### laut
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-ernennt-geheimdienstdirektor-jay-clayton-zum-ki-beauftragten-a-f7c18c22-94f7-4b5e-860f-3ba2bc9244ed#ref=rss)
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche](https://www.spiegel.de/karriere/gerecht-geteilt-raetsel-der-woche-a-751f300b-657b-411f-86e4-e00d73d75316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken](https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken-a-8e112114-7499-4786-a444-9925630ac047#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten](https://www.spiegel.de/ausland/spanien-wie-ein-massenprotest-die-miethaie-zum-einlenken-zwang-nur-gute-nachrichten-a-aaa89f5e-449e-4174-aa38-882f509265e2#ref=rss)
+### timothy
+
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+### garton
+
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+### ash
+
+* [https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz](https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck](https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss)
+### lettland
+
+* [https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss)
+### klar
+
+* [https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss)
+### parlamentswahl
+
+* [https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss)
+### überraschend
+
+* [https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl](https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss)
+### kleinflugzeug
+
+* [https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug](https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug-a-803a79c2-6106-4f0b-b235-347f534bda1f#ref=rss)
+### lippstadt
+
+* [https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken](https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken-a-8e112114-7499-4786-a444-9925630ac047#ref=rss)
+### essen
+
+* [https://www.spiegel.de/partnerschaft/ernaehrung-in-der-partnerschaft-wenn-das-essen-zu-konflikten-fuehrt-und-was-helfen-kann](https://www.spiegel.de/partnerschaft/ernaehrung-in-der-partnerschaft-wenn-das-essen-zu-konflikten-fuehrt-und-was-helfen-kann-a-c2129f2a-bcf5-432a-9f8f-7c927d87b61b#ref=rss)
 
