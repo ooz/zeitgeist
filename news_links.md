@@ -4,354 +4,316 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### autos
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus](https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus-a-f8c57d91-7275-4d99-b13b-26c1d07ddcb0#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef](https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef-a-c762a865-a6eb-4ee4-8029-ef33d13c559e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-### jinping
-
-* [https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef](https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef-a-c762a865-a6eb-4ee4-8029-ef33d13c559e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef](https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef-a-c762a865-a6eb-4ee4-8029-ef33d13c559e#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### kamen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-* [https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug-a-b95cdc83-d20e-4501-b174-9e0be8a4380c#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet-a-f03b1866-13ad-4fd0-96be-888b9d9f382f#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
-### oktoberfest
-
-* [https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern](https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert](https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert-a-ce0ca8ea-7e7f-432f-ab66-07f24a358f75#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### 7
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### uhr
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm](https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss)
-### bad
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-### neuenahrahrweiler
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-### unbekannter
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-### nummer
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau](https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss)
-### hessens
-
-* [https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd](https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd](https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss)
-### rhein
-
-* [https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd](https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss)
-### plädiert
-
-* [https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd](https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd](https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss)
-### league
-
-* [https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist](https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist-a-a76c7fea-f24c-4933-bd68-68f422fccc8f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland](https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland-a-5e0809f0-ca47-4433-91cb-7165dfab855d#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist](https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist-a-a76c7fea-f24c-4933-bd68-68f422fccc8f#ref=rss)
-### teppich
-
-* [https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen](https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen-a-5c06cff2-87cd-4807-a7c8-72b583100959#ref=rss)
-### bayeux
-
-* [https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen](https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen-a-5c06cff2-87cd-4807-a7c8-72b583100959#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen](https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen-a-5c06cff2-87cd-4807-a7c8-72b583100959#ref=rss)
-* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
-### groß
-
-* [https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen](https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen-a-5c06cff2-87cd-4807-a7c8-72b583100959#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an](https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an-a-ab8c8d68-ae38-426e-8cdd-db696817fd59#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an](https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an-a-ab8c8d68-ae38-426e-8cdd-db696817fd59#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-### huthis
-
-* [https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an](https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an-a-ab8c8d68-ae38-426e-8cdd-db696817fd59#ref=rss)
-### ziel
-
-* [https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an](https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an-a-ab8c8d68-ae38-426e-8cdd-db696817fd59#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-### djokovic
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-### bremst
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus](https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus-a-f8c57d91-7275-4d99-b13b-26c1d07ddcb0#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-ludwigshafen-explosive-mischung-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-ludwigshafen-explosive-mischung-im-schnellcheck-a-f8f94eac-8646-472b-8b6e-dd1316376956#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-ludwigshafen-explosive-mischung-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-ludwigshafen-explosive-mischung-im-schnellcheck-a-f8f94eac-8646-472b-8b6e-dd1316376956#ref=rss)
-* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
-### a2
-
-* [https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus](https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus-a-f8c57d91-7275-4d99-b13b-26c1d07ddcb0#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus](https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus-a-f8c57d91-7275-4d99-b13b-26c1d07ddcb0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-### malaysia
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-### kritisieren
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern](https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern](https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss)
-### regen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### chaos
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme](https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet-a-f03b1866-13ad-4fd0-96be-888b9d9f382f#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet-a-f03b1866-13ad-4fd0-96be-888b9d9f382f#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet-a-f03b1866-13ad-4fd0-96be-888b9d9f382f#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert](https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert-a-ce0ca8ea-7e7f-432f-ab66-07f24a358f75#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-auf-jagdgesellschaft-vater-und-sohn-getoetet-a-f03b1866-13ad-4fd0-96be-888b9d9f382f#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert](https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert-a-ce0ca8ea-7e7f-432f-ab66-07f24a358f75#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-### restaurant
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping](https://www.spiegel.de/panorama/justiz/suedkorea-gruppe-von-chinesen-verwuestet-restaurant-namens-xi-jinping-a-f64b72f8-f620-4f65-8b80-2a7612309c72#ref=rss)
-### psychische
-
-* [https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose](https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose-a-92a86cd7-8c07-44c6-872a-871749dd9ed6#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose](https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose-a-92a86cd7-8c07-44c6-872a-871749dd9ed6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose](https://www.spiegel.de/geschichte/psychische-stoerungen-das-unbehagen-an-der-diagnose-a-92a86cd7-8c07-44c6-872a-871749dd9ed6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### heilbronn
-
-* [https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug-a-b95cdc83-d20e-4501-b174-9e0be8a4380c#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug-a-b95cdc83-d20e-4501-b174-9e0be8a4380c#ref=rss)
-### brand
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste](https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste-a-55db7fb1-9539-459a-ac2b-161b05fb9d86#ref=rss)
+* [https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen](https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen-a-323ae660-eff5-4da6-a6ba-5659b80266c4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht](https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht-a-f933db7c-0bff-48d0-8c28-bef15638303e#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug-a-b95cdc83-d20e-4501-b174-9e0be8a4380c#ref=rss)
-* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft](https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft-a-addddc27-a012-4fd2-8a7b-a883b9178538#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+* [https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen](https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen-a-323ae660-eff5-4da6-a6ba-5659b80266c4#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/bei-heilbronn-in-baden-wuerttemberg-zwei-tote-bei-absturz-von-kleinflugzeug-a-b95cdc83-d20e-4501-b174-9e0be8a4380c#ref=rss)
-* [https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern](https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss)
-### nordmazedonien
+* [https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen](https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen-a-323ae660-eff5-4da6-a6ba-5659b80266c4#ref=rss)
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### karl
 
-* [https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland](https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland-a-5e0809f0-ca47-4433-91cb-7165dfab855d#ref=rss)
-### schottland
+* [https://www.spiegel.de/wissenschaft/mensch/medizin-nobelpreistraeger-karl-deisseroth-koennen-zellforscher-bald-unsere-gefuehle-steuern](https://www.spiegel.de/wissenschaft/mensch/medizin-nobelpreistraeger-karl-deisseroth-koennen-zellforscher-bald-unsere-gefuehle-steuern-a-36d283c0-6666-4a73-a6d3-81baa48b3427#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### deisseroth
 
-* [https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland](https://www.spiegel.de/sport/fussball/nations-league-hund-sorgt-fuer-unterbrechung-beim-spiel-nordmazedonien-gegen-schottland-a-5e0809f0-ca47-4433-91cb-7165dfab855d#ref=rss)
-### vorwahlen
+* [https://www.spiegel.de/wissenschaft/mensch/medizin-nobelpreistraeger-karl-deisseroth-koennen-zellforscher-bald-unsere-gefuehle-steuern](https://www.spiegel.de/wissenschaft/mensch/medizin-nobelpreistraeger-karl-deisseroth-koennen-zellforscher-bald-unsere-gefuehle-steuern-a-36d283c0-6666-4a73-a6d3-81baa48b3427#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### china
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-### georgia
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste](https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste-a-55db7fb1-9539-459a-ac2b-161b05fb9d86#ref=rss)
+### hersteller
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-### abgestimmt
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-batterie-pkw-erreichen-rekordstand-bei-neuzulassungen-verbrenner-brechen-ein](https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-batterie-pkw-erreichen-rekordstand-bei-neuzulassungen-verbrenner-brechen-ein-a-1c6b1dfe-3a11-49f2-a4d9-0a9673e383ab#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben](https://www.spiegel.de/netzwelt/netzpolitik/vorwahlen-usa-in-georgia-ki-legt-offenbar-offen-wie-buerger-bei-vorwahlen-abgestimmt-haben-a-88fa202f-2c19-426e-a3f0-d42c1df8a759#ref=rss)
-### max
+* [https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft](https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft-a-addddc27-a012-4fd2-8a7b-a883b9178538#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen-a-a87bbb29-1d6e-4253-9d94-beb2b45fa238#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird](https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss)
+### frau
 
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-### erlebt
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### wollten
 
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-erloesung-im-chaos-von-malaysia-a-e503e79a-4242-478c-a5da-0dfa3c92b03d#ref=rss)
-* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen](https://www.spiegel.de/panorama/migration-zwei-maenner-sterben-bei-versuchter-ueberquerung-des-aermelkanals-zwei-frauen-erleiden-verbrennungen-a-323ae660-eff5-4da6-a6ba-5659b80266c4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht](https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht-a-f933db7c-0bff-48d0-8c28-bef15638303e#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+### streit
 
-* [https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert](https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-an-fahrgeschaeft-schwer-verletzt-und-reanimiert-a-ce0ca8ea-7e7f-432f-ab66-07f24a358f75#ref=rss)
-### christa
+* [https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht](https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht-a-f933db7c-0bff-48d0-8c28-bef15638303e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
-### pike
+* [https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland](https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland-a-ca3f214f-1453-4839-8f14-f9c63e368ae7#ref=rss)
+### linke
 
-* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
-### überlebte
+* [https://www.spiegel.de/politik/deutschland/linke-zieht-nun-gegen-katherina-reiche-vors-verfassungsgericht](https://www.spiegel.de/politik/deutschland/linke-zieht-nun-gegen-katherina-reiche-vors-verfassungsgericht-a-46e8d59b-33e1-4fa2-bd9f-c0dbff123f85#ref=rss)
+### formel
 
-* [https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit](https://www.spiegel.de/ausland/gescheiterte-hinrichtung-in-den-usa-christa-pike-spendete-letzte-mahlzeit-a-f1ba3fca-065a-4ca0-a50a-aece7d7e28f6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
-### flávio
+* [https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen-a-1b635604-a364-4889-b679-653ca1f3f8e2#ref=rss)
+### samoa
 
-* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss](https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss-a-a73f0beb-e9c4-4662-a6d3-538e05ede37f#ref=rss)
+### hitlergruß
 
-* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
-### lula
+* [https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss](https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss-a-a73f0beb-e9c4-4662-a6d3-538e05ede37f#ref=rss)
+### hipp
 
-* [https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-warum-flavio-bolsonaro-praesident-lula-besiegen-koennte-a-a3164ecf-1a29-49f9-9396-eff8b4380ecb#ref=rss)
-### robert
+* [https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss](https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss-a-a73f0beb-e9c4-4662-a6d3-538e05ede37f#ref=rss)
+### äußert
 
-* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
-### musil
+* [https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss](https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss-a-a73f0beb-e9c4-4662-a6d3-538e05ede37f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda](https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda-a-a69d6003-4c0a-440b-a531-b58fed45217a#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil](https://www.spiegel.de/kultur/ist-die-ki-inzwischen-wirklich-besser-als-zum-beispiel-robert-musil-a-caac8149-9ca9-4a6e-a7dc-4d9825524a04#ref=rss)
-### tipps
+* [https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss](https://www.spiegel.de/ausland/samoa-regierungschef-entschuldigt-sich-fuer-hitlergruss-a-a73f0beb-e9c4-4662-a6d3-538e05ede37f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/wolf-biermannn-wirft-benjamin-netanyahu-antisemitismus-vor](https://www.spiegel.de/kultur/literatur/wolf-biermannn-wirft-benjamin-netanyahu-antisemitismus-vor-a-f64d3272-353e-42fe-b99d-40a567b5833a#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden](https://www.spiegel.de/start/studium-5-praktische-tipps-um-ersti-fehler-zu-vermeiden-a-83d621f3-e406-4c13-a5e5-391dcd8ef4a7#ref=rss)
-### irene
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
-### butter
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben](https://www.spiegel.de/panorama/leute/in-den-usa-holocaustueberlebende-irene-butter-mit-95-jahren-gestorben-a-9008d6a0-c717-4f91-b275-1dcf348436d5#ref=rss)
-### campingplatz
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende](https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende-a-311e9bd5-cba2-451a-91ef-649fc8615e7b#ref=rss)
+### chinesische
 
-* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
-### gardasee
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste](https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste-a-55db7fb1-9539-459a-ac2b-161b05fb9d86#ref=rss)
+### teuer
 
-* [https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee](https://www.spiegel.de/panorama/italien-mehr-als-20-verletzte-bei-brand-auf-campingplatz-am-gardasee-a-12f883f8-85ce-42e7-8d05-af223e6e5232#ref=rss)
-### iran
+* [https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck](https://www.spiegel.de/wirtschaft/service/china-aufholjagd-bei-auto-reparaturkosten-setzt-europaeische-hersteller-unter-druck-a-922de8d2-fd41-4a48-b3ac-06bb2408c628#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird](https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
-### straße
+* [https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft](https://www.spiegel.de/psychologie/einsamkeit-wie-der-verzicht-auf-pornos-mir-hilft-a-addddc27-a012-4fd2-8a7b-a883b9178538#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird](https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
-### hormus
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+### stirbt
 
-* [https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen](https://www.spiegel.de/ausland/iran-krieg-teheran-knuepft-oeffnung-der-strasse-von-hormus-an-bedingungen-a-830ffb3b-cbef-4546-b82a-cb8a2fc36fc5#ref=rss)
-### jürgen
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+### baltimore
 
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
-### klopp
+* [https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit](https://www.spiegel.de/panorama/justiz/usa-12-jaehrige-stirbt-in-baltimore-nach-schusswechsel-wegen-parkplatzstreit-a-1f36ed85-1c2a-4fa7-9d48-422c40556402#ref=rss)
+### tischtennis
 
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
-### bundestrainer
+* [https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste](https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste-a-55db7fb1-9539-459a-ac2b-161b05fb9d86#ref=rss)
+### vier
 
-* [https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler](https://www.spiegel.de/sport/fussball/deutschland-vs-griechenland-derry-scherhant-und-die-macht-der-fluegelspieler-a-5ad57c60-a434-42b4-b7b8-4127be7323bf#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### thomas
+* [https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste](https://www.spiegel.de/sport/tischtennis-erstmals-seit-2018-kein-chinese-an-der-spitze-der-weltrangliste-a-55db7fb1-9539-459a-ac2b-161b05fb9d86#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### folarin
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda](https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda-a-a69d6003-4c0a-440b-a531-b58fed45217a#ref=rss)
+### balogun
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### klaus
+* [https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda](https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda-a-a69d6003-4c0a-440b-a531-b58fed45217a#ref=rss)
+### coach
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda](https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda-a-a69d6003-4c0a-440b-a531-b58fed45217a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+### marsch
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### miriam
+* [https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda](https://www.spiegel.de/sport/fussball/wm-skandal-um-folarin-balogun-kanadas-coach-marsch-kritisiert-us-propaganda-a-a69d6003-4c0a-440b-a531-b58fed45217a#ref=rss)
+### konsumstimmung
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
-### wurster
+* [https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende](https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende-a-311e9bd5-cba2-451a-91ef-649fc8615e7b#ref=rss)
+### jahresende
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-6e63acf3-acc5-4641-98d2-1a30f01ce321#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende](https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende-a-311e9bd5-cba2-451a-91ef-649fc8615e7b#ref=rss)
+### rechnen
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende](https://www.spiegel.de/wirtschaft/service/weihnachten-haendler-sehen-kaum-konsumstimmung-zum-jahresende-a-311e9bd5-cba2-451a-91ef-649fc8615e7b#ref=rss)
+* [https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland](https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland-a-ca3f214f-1453-4839-8f14-f9c63e368ae7#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht](https://www.spiegel.de/panorama/bildung/fachkraeftemangel-streit-ueber-landarztquote-medizinstudierende-ziehen-vor-gericht-a-f933db7c-0bff-48d0-8c28-bef15638303e#ref=rss)
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen-a-a87bbb29-1d6e-4253-9d94-beb2b45fa238#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen-a-a87bbb29-1d6e-4253-9d94-beb2b45fa238#ref=rss)
+### betreiber
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen-a-a87bbb29-1d6e-4253-9d94-beb2b45fa238#ref=rss)
+### dürften
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/casten-schneider-betreiber-von-ki-rechenzentren-sollen-mehr-fuer-wasser-zahlen-a-a87bbb29-1d6e-4253-9d94-beb2b45fa238#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird](https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/jemen-regierung-meldet-erfolge-gegen-huthis](https://www.spiegel.de/ausland/jemen-regierung-meldet-erfolge-gegen-huthis-a-bf16a034-00a5-4544-90c2-3fd889c08635#ref=rss)
+### huthis
+
+* [https://www.spiegel.de/ausland/jemen-regierung-meldet-erfolge-gegen-huthis](https://www.spiegel.de/ausland/jemen-regierung-meldet-erfolge-gegen-huthis-a-bf16a034-00a5-4544-90c2-3fd889c08635#ref=rss)
+### bndchef
+
+* [https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland](https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland-a-ca3f214f-1453-4839-8f14-f9c63e368ae7#ref=rss)
+### gewaltsamen
+
+* [https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland](https://www.spiegel.de/politik/russland-bnd-chef-warnt-vor-gefahr-eines-gewaltsamen-konflikts-mit-russland-a-ca3f214f-1453-4839-8f14-f9c63e368ae7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/altes-aegypten-gebrochene-schaedel-liefern-hinweise-auf-menschenopfer](https://www.spiegel.de/wissenschaft/altes-aegypten-gebrochene-schaedel-liefern-hinweise-auf-menschenopfer-a-12a224a0-daed-43f0-93d0-82d908a06335#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/kultur/literatur/wolf-biermannn-wirft-benjamin-netanyahu-antisemitismus-vor](https://www.spiegel.de/kultur/literatur/wolf-biermannn-wirft-benjamin-netanyahu-antisemitismus-vor-a-f64d3272-353e-42fe-b99d-40a567b5833a#ref=rss)
+### peter
+
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### hegemann
+
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### georg
+
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### nagel
+
+* [https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel](https://www.spiegel.de/wissenschaft/medizin/nobelpreis-fuer-medizin-geht-an-karl-deisseroth-peter-hegemann-und-georg-nagel-a-702975fd-56ef-4da2-bf7f-151c54d5b3ff#ref=rss)
+### epsteinskandal
+
+* [https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor](https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor](https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss)
+### festnahme
+
+* [https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor](https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor](https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+### enger
+
+* [https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor](https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss)
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+### kash
+
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+### patel
+
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+### durfte
+
+* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet](https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+### digger
+
+* [https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen](https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen-a-a5917fd0-e1f6-4373-bf35-034f21196857#ref=rss)
+### tom
+
+* [https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen](https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen-a-a5917fd0-e1f6-4373-bf35-034f21196857#ref=rss)
+### cruise
+
+* [https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen](https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen-a-a5917fd0-e1f6-4373-bf35-034f21196857#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### melderegister
+
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### daten
+
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen](https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen-a-1b635604-a364-4889-b679-653ca1f3f8e2#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/linke-zieht-nun-gegen-katherina-reiche-vors-verfassungsgericht](https://www.spiegel.de/politik/deutschland/linke-zieht-nun-gegen-katherina-reiche-vors-verfassungsgericht-a-46e8d59b-33e1-4fa2-bd9f-c0dbff123f85#ref=rss)
+### vietnam
+
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+### katzen
+
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+### geld
+
+* [https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben](https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltspolitik-mit-vollgas-in-den-finanzcrash-meinung](https://www.spiegel.de/politik/deutschland/haushaltspolitik-mit-vollgas-in-den-finanzcrash-meinung-a-82826d9e-12a5-412b-9e3c-d9dcf4c282ad#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss)
+### abstimmungsniederlage
+
+* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an](https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird](https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss)
+### roten
+
+* [https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte](https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte-a-c99358a7-715e-4d32-a923-35f10c947899#ref=rss)
+### armee
+
+* [https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte](https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte-a-c99358a7-715e-4d32-a923-35f10c947899#ref=rss)
+### nazis
+
+* [https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte](https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte-a-c99358a7-715e-4d32-a923-35f10c947899#ref=rss)
+### kollaborierte
+
+* [https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte](https://www.spiegel.de/geschichte/zweiten-weltkrieg-ein-general-der-roten-armee-der-mit-den-nazis-kollaborierte-a-c99358a7-715e-4d32-a923-35f10c947899#ref=rss)
+### wuppertal
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### hupen
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### schwangere
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### hundert
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen](https://www.spiegel.de/panorama/justiz/wuppertal-maenner-hupen-schwangere-frau-an-danach-streiten-sich-rund-menschen-a-4328e785-8635-4040-9437-ef86bf1504c6#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen-a-1b635604-a364-4889-b679-653ca1f3f8e2#ref=rss)
+### malaysia
+
+* [https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-ein-verrueckter-unerwarteter-und-kaum-zu-uebertreffender-grand-prix-pressestimmen-a-1b635604-a364-4889-b679-653ca1f3f8e2#ref=rss)
 
