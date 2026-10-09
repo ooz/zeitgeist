@@ -4,294 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### usa
 
-* [https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen](https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen-a-46118b53-4255-4fa2-a478-6a7805bf1fdf#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt-a-6f477f77-51b6-442b-b511-3eb54c218d5a#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger-a-7164b89f-76fc-4fc4-b495-76dbc789b419#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat](https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat-a-9bdccc7e-0a1c-4670-930c-50feee197797#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen-a-08a69555-40c9-41f4-a609-56946513271d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-schuss-bei-gsg-9-uebung-staatsanwaltschaft-beantragt-strafbefehl](https://www.spiegel.de/panorama/justiz/toedlicher-schuss-bei-gsg-9-uebung-staatsanwaltschaft-beantragt-strafbefehl-a-8e4984eb-35ff-4df4-8572-e5886a90d96c#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht](https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht-a-ac2c3a30-3c89-4f82-8d5f-b08f791e995e#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa](https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa-a-f3b9550b-1b71-4833-a38f-330679b0add9#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen](https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen-a-e0649aed-4777-4acc-b728-6ee454e7ada0#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat](https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat-a-9bdccc7e-0a1c-4670-930c-50feee197797#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht](https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht-a-ac2c3a30-3c89-4f82-8d5f-b08f791e995e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### führerschein
-
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger-a-7164b89f-76fc-4fc4-b495-76dbc789b419#ref=rss)
-### billiger
-
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger-a-7164b89f-76fc-4fc4-b495-76dbc789b419#ref=rss)
-### bilger
-
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger-a-7164b89f-76fc-4fc4-b495-76dbc789b419#ref=rss)
-### geplante
-
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-durch-reform-maximal-1000-euro-billiger-schaetzt-verkehrsminister-steffen-bilger-a-7164b89f-76fc-4fc4-b495-76dbc789b419#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### hegseth
-
-* [https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen](https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen-a-46118b53-4255-4fa2-a478-6a7805bf1fdf#ref=rss)
-### hinrichtung
-
-* [https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen](https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen-a-46118b53-4255-4fa2-a478-6a7805bf1fdf#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen](https://www.spiegel.de/ausland/pete-hegseth-plant-oeffentliche-hinrichtung-werden-sicherstellen-dass-menschen-zusehen-koennen-a-46118b53-4255-4fa2-a478-6a7805bf1fdf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen](https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen-a-e0649aed-4777-4acc-b728-6ee454e7ada0#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft](https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft-a-b24115a6-87a0-4fbf-b2bd-dea2206489b0#ref=rss)
-### prüft
-
-* [https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft](https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft-a-b24115a6-87a0-4fbf-b2bd-dea2206489b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum](https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum-a-3b47cd97-bbf5-42a9-9443-cbc959b00ad6#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft](https://www.spiegel.de/kultur/wolfgang-beltracchi-will-bild-zurueck-bgh-prueft-a-b24115a6-87a0-4fbf-b2bd-dea2206489b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg](https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg-a-468affb2-d139-4844-8d60-9435d7fa6835#ref=rss)
-### senat
-
-* [https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum](https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum-a-3b47cd97-bbf5-42a9-9443-cbc959b00ad6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum](https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum-a-3b47cd97-bbf5-42a9-9443-cbc959b00ad6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll](https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll-a-daadc002-4e08-48ad-ad4a-0c6ff591872b#ref=rss)
-### naturkundemuseum
-
-* [https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum](https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum-a-3b47cd97-bbf5-42a9-9443-cbc959b00ad6#ref=rss)
-### hingegen
-
-* [https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum](https://www.spiegel.de/wirtschaft/hamburg-senat-prueft-neuen-standort-fuer-naturkundemuseum-a-3b47cd97-bbf5-42a9-9443-cbc959b00ad6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-### wetter
-
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-tief-gabriela-bringt-wind-regen-und-sonne](https://www.spiegel.de/panorama/wetter-am-wochenende-tief-gabriela-bringt-wind-regen-und-sonne-a-75d21989-e98a-40bd-b3bf-6658738da871#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-tief-gabriela-bringt-wind-regen-und-sonne](https://www.spiegel.de/panorama/wetter-am-wochenende-tief-gabriela-bringt-wind-regen-und-sonne-a-75d21989-e98a-40bd-b3bf-6658738da871#ref=rss)
-### rausch
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen-a-08a69555-40c9-41f4-a609-56946513271d#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen-a-08a69555-40c9-41f4-a609-56946513271d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### prominente
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen-a-08a69555-40c9-41f4-a609-56946513271d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ed-sheeran-neues-vorprogramm-fuer-stadiontour-aber-nicht-sehr-prominente-acts](https://www.spiegel.de/kultur/musik/ed-sheeran-neues-vorprogramm-fuer-stadiontour-aber-nicht-sehr-prominente-acts-a-0395bb27-018d-456c-ad6c-2a97e9709da0#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-### temu
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-### einführung
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-### importzöllen
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-* [https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen](https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen-a-bcf78ad3-2366-41de-b494-9f580977a8f3#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen](https://www.spiegel.de/wirtschaft/shein-und-temu-umsaetze-asiatischer-shoppingplattformen-brechen-ein-wegen-einfuehrung-von-importzoellen-a-2aad8415-e5cc-475b-96a7-177cd905c280#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll](https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll-a-daadc002-4e08-48ad-ad4a-0c6ff591872b#ref=rss)
-### ed
-
-* [https://www.spiegel.de/kultur/musik/ed-sheeran-neues-vorprogramm-fuer-stadiontour-aber-nicht-sehr-prominente-acts](https://www.spiegel.de/kultur/musik/ed-sheeran-neues-vorprogramm-fuer-stadiontour-aber-nicht-sehr-prominente-acts-a-0395bb27-018d-456c-ad6c-2a97e9709da0#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll](https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll-a-daadc002-4e08-48ad-ad4a-0c6ff591872b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen](https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen-a-bcf78ad3-2366-41de-b494-9f580977a8f3#ref=rss)
-### riesenschildkröten
-
-* [https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll](https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll-a-daadc002-4e08-48ad-ad4a-0c6ff591872b#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll](https://www.spiegel.de/wissenschaft/natur/seychellen-forscher-finden-mehr-als-180-000-riesenschildkroeten-auf-aldabra-atoll-a-daadc002-4e08-48ad-ad4a-0c6ff591872b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### mittenwald
-
-* [https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung](https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung-a-53c5fb19-1226-4e58-92e3-01e74f81de22#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung](https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung-a-53c5fb19-1226-4e58-92e3-01e74f81de22#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung](https://www.spiegel.de/panorama/mittenwald-gebirgsjaeger-rekrut-stirbt-bei-sportausbildung-a-53c5fb19-1226-4e58-92e3-01e74f81de22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht](https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht-a-ac2c3a30-3c89-4f82-8d5f-b08f791e995e#ref=rss)
-### mathias
-
-* [https://www.spiegel.de/sport/handball/handball-champions-league-mathias-gidsel-stellt-torrekord-ein](https://www.spiegel.de/sport/handball/handball-champions-league-mathias-gidsel-stellt-torrekord-ein-a-733ccb9d-0df5-440e-b8c7-f1611a5ef374#ref=rss)
-### gidsel
-
-* [https://www.spiegel.de/sport/handball/handball-champions-league-mathias-gidsel-stellt-torrekord-ein](https://www.spiegel.de/sport/handball/handball-champions-league-mathias-gidsel-stellt-torrekord-ein-a-733ccb9d-0df5-440e-b8c7-f1611a5ef374#ref=rss)
-### scharfe
-
-* [https://www.spiegel.de/panorama/justiz/toedlicher-schuss-bei-gsg-9-uebung-staatsanwaltschaft-beantragt-strafbefehl](https://www.spiegel.de/panorama/justiz/toedlicher-schuss-bei-gsg-9-uebung-staatsanwaltschaft-beantragt-strafbefehl-a-8e4984eb-35ff-4df4-8572-e5886a90d96c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht](https://www.spiegel.de/politik/deutschland/die-linke-was-die-partei-ueber-antisemitismus-und-israelfeindlichkeit-sagt-und-was-nicht-a-ac2c3a30-3c89-4f82-8d5f-b08f791e995e#ref=rss)
-### namen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hunde-in-deutschland-das-sind-die-beliebtesten-namen](https://www.spiegel.de/panorama/gesellschaft/hunde-in-deutschland-das-sind-die-beliebtesten-namen-a-28aa45f1-d3b8-45d4-b60d-7a5c63d31a2e#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-wird-fuer-geburtstagsfeier-bei-wladimir-putin-massiv-kritisitiert-a-a67723aa-ed29-4be4-b9dd-b1a9672f63d1#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-hannover-deutsche-bahn-plant-neubaustrecke-bundestag-beschliesst-auftrag](https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-hannover-deutsche-bahn-plant-neubaustrecke-bundestag-beschliesst-auftrag-a-07c7f87b-074d-4a81-b506-57deafeb8395#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-### riad
-
-* [https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet](https://www.spiegel.de/ausland/saudi-arabien-drei-menschen-bei-raketenangriffen-auf-flughafen-in-riad-getoetet-a-3b75c77f-8334-4b97-9f17-a9934d408004#ref=rss)
-### friedensnobelpreis
-
-* [https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet](https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet-a-dc9b7b39-2edc-4ba3-9796-3f9adad4d34d#ref=rss)
-### navanethem
-
-* [https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet](https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet-a-dc9b7b39-2edc-4ba3-9796-3f9adad4d34d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer](https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer-a-20ea3c0a-851c-4d75-b233-6cfe2178cedb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
 ### pillay
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet](https://www.spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet-a-dc9b7b39-2edc-4ba3-9796-3f9adad4d34d#ref=rss)
-### berngau
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+* [https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle](https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle-a-c6f209d9-a2aa-4e05-b994-033a6127a392#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt-a-6f477f77-51b6-442b-b511-3eb54c218d5a#ref=rss)
-### zehn
+* [https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind](https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind-a-747dd877-1823-42a7-98f1-b606818924ce#ref=rss)
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt-a-6f477f77-51b6-442b-b511-3eb54c218d5a#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa](https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa-a-f3b9550b-1b71-4833-a38f-330679b0add9#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert](https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt-a-6f477f77-51b6-442b-b511-3eb54c218d5a#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers-a-96524ae6-3e11-4404-a7cf-348883b0d204#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### uno
 
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-besass-zehn-schusswaffen-und-wurde-bei-festnahme-schwer-verletzt-a-6f477f77-51b6-442b-b511-3eb54c218d5a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht-a-08807f9a-2733-4c6f-a80b-6beccc325d9d#ref=rss)
-### baseball
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+* [https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle](https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle-a-c6f209d9-a2aa-4e05-b994-033a6127a392#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs](https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs-a-8b48db24-bf8b-4af9-bc85-5c82166a2876#ref=rss)
-### fan
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben-a-db5171bc-f0e0-418e-9768-5fccef1bb327#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-stoppt-afd-politiker-tillschneider-bei-halle-gedenken](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-stoppt-afd-politiker-tillschneider-bei-halle-gedenken-a-779eedff-e45e-40b9-910c-915d3558da09#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs](https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs-a-8b48db24-bf8b-4af9-bc85-5c82166a2876#ref=rss)
-### ausgleich
+* [https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben](https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben-a-94cb79b6-da44-45a8-80bf-41268c26b6f6#ref=rss)
+* [https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind](https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind-a-747dd877-1823-42a7-98f1-b606818924ce#ref=rss)
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### navi
 
-* [https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs](https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs-a-8b48db24-bf8b-4af9-bc85-5c82166a2876#ref=rss)
-### yankees
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+* [https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle](https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle-a-c6f209d9-a2aa-4e05-b994-033a6127a392#ref=rss)
+### industrie
 
-* [https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs](https://www.spiegel.de/sport/baseball-fan-verhindert-ausgleich-yankees-scheitern-in-mlb-playoffs-a-8b48db24-bf8b-4af9-bc85-5c82166a2876#ref=rss)
-### schönheitschirurg
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+### reicher
 
-* [https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen](https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen-a-e0649aed-4777-4acc-b728-6ee454e7ada0#ref=rss)
-### marbella
+* [https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer](https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer-a-20ea3c0a-851c-4d75-b233-6cfe2178cedb#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen](https://www.spiegel.de/panorama/justiz/marbella-deutscher-schoenheitschirurg-erschossen-18-jaehriger-schwede-festgenommen-a-e0649aed-4777-4acc-b728-6ee454e7ada0#ref=rss)
-### usbundesstaaten
+* [https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer](https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer-a-20ea3c0a-851c-4d75-b233-6cfe2178cedb#ref=rss)
+* [https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode](https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss)
+### kater
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht-a-08807f9a-2733-4c6f-a80b-6beccc325d9d#ref=rss)
-### ziehen
+* [https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op](https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op-a-20035b99-8070-4853-bd3a-a0735240df25#ref=rss)
+### larry
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht-a-08807f9a-2733-4c6f-a80b-6beccc325d9d#ref=rss)
-### ölkonzerne
+* [https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op](https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op-a-20035b99-8070-4853-bd3a-a0735240df25#ref=rss)
+### op
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht-a-08807f9a-2733-4c6f-a80b-6beccc325d9d#ref=rss)
+* [https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op](https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op-a-20035b99-8070-4853-bd3a-a0735240df25#ref=rss)
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert](https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### hanna
+
+* [https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert](https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss)
+### notte
+
+* [https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert](https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss)
+### eskaliert
+
+* [https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert](https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-us-bundesstaaten-ziehen-gegen-oelkonzerne-vor-gericht-a-08807f9a-2733-4c6f-a80b-6beccc325d9d#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zeitenwende-rede-kanzleramt-muss-entwurf-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/olaf-scholz-zeitenwende-rede-kanzleramt-muss-entwurf-nicht-veroeffentlichen-a-b868bc1d-5c43-43a3-9c68-ccf85524e9c2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode](https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg](https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg-a-468affb2-d139-4844-8d60-9435d7fa6835#ref=rss)
-### zahlen
+* [https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein](https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein-a-b12e38ae-eea7-4ae0-bc7f-597a3edfb321#ref=rss)
+### craig
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg](https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg-a-468affb2-d139-4844-8d60-9435d7fa6835#ref=rss)
-### erwartet
+* [https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein](https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein-a-b12e38ae-eea7-4ae0-bc7f-597a3edfb321#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg](https://www.spiegel.de/wirtschaft/volkswagen-konzern-muss-strafe-zahlen-wegen-zu-grossem-erfolg-a-468affb2-d139-4844-8d60-9435d7fa6835#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat](https://www.spiegel.de/ausland/spanien-vor-neuwahlen-das-wird-eine-kampagne-die-spanien-so-noch-nicht-gesehen-hat-a-9bdccc7e-0a1c-4670-930c-50feee197797#ref=rss)
-### wirklich
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers-a-96524ae6-3e11-4404-a7cf-348883b0d204#ref=rss)
+### drei
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-hannover-deutsche-bahn-plant-neubaustrecke-bundestag-beschliesst-auftrag](https://www.spiegel.de/mobilitaet/bus-bahn/hamburg-hannover-deutsche-bahn-plant-neubaustrecke-bundestag-beschliesst-auftrag-a-07c7f87b-074d-4a81-b506-57deafeb8395#ref=rss)
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### experte
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers-a-96524ae6-3e11-4404-a7cf-348883b0d204#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall](https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall-a-1339f6b3-48cd-45c9-bdfc-fffb510c415d#ref=rss)
+### offen
 
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### henning
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers-a-96524ae6-3e11-4404-a7cf-348883b0d204#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+### bischöfe
 
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### wilts
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+### kritisieren
 
-* [https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen](https://www.spiegel.de/wirtschaft/plastiksteuer-experte-henning-wilts-kritisiert-geplante-abgabe-auf-kunststoffverpackungen-a-49f7a80c-9625-486f-914a-41bc51f4c8a4#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+### tode
 
-* [https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa](https://www.spiegel.de/panorama/mexiko-zehn-tote-bei-gewaltausbruch-in-gefaengnis-in-sinaloa-a-f3b9550b-1b71-4833-a38f-330679b0add9#ref=rss)
-### fran
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode](https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss)
+### öffentlich
 
-* [https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard](https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard-a-ba5750af-4f05-4303-8cc5-eb01443e4c55#ref=rss)
-### drescher
+* [https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung](https://www.spiegel.de/ausland/usa-bischoefe-und-uno-kritisieren-liveuebertragung-von-hinrichtung-a-17245e48-093c-4ad5-9e13-15955f2504d8#ref=rss)
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### istgh
 
-* [https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard](https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard-a-ba5750af-4f05-4303-8cc5-eb01443e4c55#ref=rss)
-### rolle
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+### staaten
 
-* [https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard](https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard-a-ba5750af-4f05-4303-8cc5-eb01443e4c55#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### zweiflers
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+### strafgerichtshof
 
-* [https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard](https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard-a-ba5750af-4f05-4303-8cc5-eb01443e4c55#ref=rss)
-### spielt
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard](https://www.spiegel.de/kultur/tv/die-nanny-fran-drescher-bekommt-rolle-bei-die-zweiflers-in-der-ard-a-ba5750af-4f05-4303-8cc5-eb01443e4c55#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist](https://www.spiegel.de/politik/deutschland/cdu-und-linkspartei-warum-der-vergleich-mit-der-afd-eine-fatale-ausrede-ist-a-16029459-74d1-4d2a-9178-0233ffeaf72f#ref=rss)
-### uefa
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+* [https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett](https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett-a-6b8b077d-e760-4524-97dd-0cc845c1c7f1#ref=rss)
+### washington
 
-* [https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen](https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen-a-bcf78ad3-2366-41de-b494-9f580977a8f3#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### handlungsfähigkeit
+
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### beschränken
+
+* [https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof](https://www.spiegel.de/ausland/istgh-deutschland-und-weitere-staaten-kritisieren-us-sanktionen-gegen-strafgerichtshof-a-ad94f1e9-5716-4d9f-bd7b-85353706810f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben-a-db5171bc-f0e0-418e-9768-5fccef1bb327#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben-a-db5171bc-f0e0-418e-9768-5fccef1bb327#ref=rss)
+### ausschussvorsitz
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-dem-bsw-einen-ausschussvorsitz-abgeben-a-db5171bc-f0e0-418e-9768-5fccef1bb327#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall](https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall-a-3a84c447-4b5d-4d44-bed6-aca2ba856bd3#ref=rss)
+### rader
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall](https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall-a-3a84c447-4b5d-4d44-bed6-aca2ba856bd3#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall](https://www.spiegel.de/wirtschaft/unternehmen/klaus-rader-losteria-gruender-stirbt-bei-rallye-unfall-a-3a84c447-4b5d-4d44-bed6-aca2ba856bd3#ref=rss)
+* [https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben](https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben-a-94cb79b6-da44-45a8-80bf-41268c26b6f6#ref=rss)
+### tel
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+### copilot
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv](https://www.spiegel.de/ausland/tel-aviv-dubai-co-pilot-der-flydubai-maschine-plante-laut-ermittlern-selbstmordanschlag-auf-flughafen-tel-aviv-a-2c850334-88e3-45c0-b2a5-c3661fe6ea04#ref=rss)
+* [https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte](https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte-a-b7cf7da5-808e-42d9-be28-84e1943e9f6d#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen](https://www.spiegel.de/sport/fussball/treffen-der-uefa-in-berlin-wie-der-europaeische-verband-den-weltfussball-revolutionieren-wollen-a-bcf78ad3-2366-41de-b494-9f580977a8f3#ref=rss)
-### cem
+* [https://www.spiegel.de/politik/deutschland/berlin-rot-rot-gruen-sondiert-eine-koalition-mit-inhaltlichen-huerden](https://www.spiegel.de/politik/deutschland/berlin-rot-rot-gruen-sondiert-eine-koalition-mit-inhaltlichen-huerden-a-9010b990-3822-438c-838e-e409089ae4cf#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch](https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch-a-30b1e13b-4720-4199-811b-b64db7c83df7#ref=rss)
-### frau
+* [https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album](https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album-a-37d3289b-505d-42a6-8fd6-87041399ce96#ref=rss)
+### maffay
 
-* [https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch](https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch-a-30b1e13b-4720-4199-811b-b64db7c83df7#ref=rss)
-### englisch
+* [https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album](https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album-a-37d3289b-505d-42a6-8fd6-87041399ce96#ref=rss)
+### nashville
 
-* [https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch](https://www.spiegel.de/panorama/leute/flavia-zaka-cem-oezdemirs-frau-wehrt-sich-gegen-kritik-an-interview-auf-englisch-a-30b1e13b-4720-4199-811b-b64db7c83df7#ref=rss)
+* [https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album](https://www.spiegel.de/kultur/peter-maffay-nashville-ist-sein-22-nummer-eins-album-a-37d3289b-505d-42a6-8fd6-87041399ce96#ref=rss)
+### studium
+
+* [https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben](https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben-a-94cb79b6-da44-45a8-80bf-41268c26b6f6#ref=rss)
+### viele
+
+* [https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben](https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben-a-94cb79b6-da44-45a8-80bf-41268c26b6f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+### borkum
+
+* [https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett](https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett-a-6b8b077d-e760-4524-97dd-0cc845c1c7f1#ref=rss)
+### surfer
+
+* [https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett](https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett-a-6b8b077d-e760-4524-97dd-0cc845c1c7f1#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett](https://www.spiegel.de/panorama/borkum-surfer-ueberlebt-nacht-auf-stuermischer-nordsee-mit-seinem-surfbrett-a-6b8b077d-e760-4524-97dd-0cc845c1c7f1#ref=rss)
+* [https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen](https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen-a-27d847f4-4bd3-4832-95bb-d602434a4d65#ref=rss)
+### navanethem
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### friedensnobelpreis
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### umsätze
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### brechen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben](https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben-a-780c7097-ee49-4d61-84ed-7bb5e4274fef#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+### 35stundenwoche
+
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+### gesamte
+
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+* [https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen](https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen-a-27d847f4-4bd3-4832-95bb-d602434a4d65#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft](https://www.spiegel.de/wirtschaft/mercedes-warum-der-streit-um-die-35-stunden-woche-die-gesamte-industrie-betrifft-a-ba4a34da-fa94-41d2-b03e-3834d5579e70#ref=rss)
+* [https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen](https://www.spiegel.de/karriere/krise-der-autobranche-es-gibt-kluegere-wege-personal-abzubauen-als-den-leuten-ihre-benefits-wegzunehmen-a-27d847f4-4bd3-4832-95bb-d602434a4d65#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+### hybridautos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle](https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle-a-c6f209d9-a2aa-4e05-b994-033a6127a392#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle](https://www.spiegel.de/ausland/navi-pillay-israel-aussenministerium-verurteilt-friedensnobelpreisvergabe-goebbels-applaudiert-bestimmt-aus-der-hoelle-a-c6f209d9-a2aa-4e05-b994-033a6127a392#ref=rss)
+* [https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode](https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss)
+### marsala
+
+* [https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte](https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte-a-b7cf7da5-808e-42d9-be28-84e1943e9f6d#ref=rss)
+### wirbelstürme
+
+* [https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte](https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte-a-b7cf7da5-808e-42d9-be28-84e1943e9f6d#ref=rss)
+### hafenstadt
+
+* [https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte](https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte-a-b7cf7da5-808e-42d9-be28-84e1943e9f6d#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte](https://www.spiegel.de/panorama/marsala-auf-sizilien-wirbelstuerme-ziehen-durch-hafenstadt-mehrere-verletzte-a-b7cf7da5-808e-42d9-be28-84e1943e9f6d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben](https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben-a-780c7097-ee49-4d61-84ed-7bb5e4274fef#ref=rss)
+### tillschneider
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-stoppt-afd-politiker-tillschneider-bei-halle-gedenken](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-stoppt-afd-politiker-tillschneider-bei-halle-gedenken-a-779eedff-e45e-40b9-910c-915d3558da09#ref=rss)
+### donald
+
+* [https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind](https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind-a-747dd877-1823-42a7-98f1-b606818924ce#ref=rss)
+### ki
+
+* [https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind](https://www.spiegel.de/netzwelt/donald-trump-wer-ki-sagt-ist-fuer-den-us-praesidenten-jetzt-ein-feind-a-747dd877-1823-42a7-98f1-b606818924ce#ref=rss)
+### harald
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-vertrauter-harald-christ-ist-ein-einflussreicher-strippenzieher](https://www.spiegel.de/wirtschaft/lars-klingbeil-vertrauter-harald-christ-ist-ein-einflussreicher-strippenzieher-a-9555c154-f85d-46f4-85a3-4a849b3afe95#ref=rss)
+### christ
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-vertrauter-harald-christ-ist-ein-einflussreicher-strippenzieher](https://www.spiegel.de/wirtschaft/lars-klingbeil-vertrauter-harald-christ-ist-ein-einflussreicher-strippenzieher-a-9555c154-f85d-46f4-85a3-4a849b3afe95#ref=rss)
+### internationalen
+
+* [https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof](https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### cook
+
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### feddirektorin
+
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### untersuchungsausschuss
+
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+### posten
+
+* [https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden](https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben](https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben-a-780c7097-ee49-4d61-84ed-7bb5e4274fef#ref=rss)
+### adis
+
+* [https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall](https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall-a-1339f6b3-48cd-45c9-bdfc-fffb510c415d#ref=rss)
+### ahmetović
+
+* [https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall](https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall-a-1339f6b3-48cd-45c9-bdfc-fffb510c415d#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall](https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall-a-1339f6b3-48cd-45c9-bdfc-fffb510c415d#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben](https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben-a-780c7097-ee49-4d61-84ed-7bb5e4274fef#ref=rss)
+### herbert
+
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### reul
+
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### nordrheinwestfalens
+
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### hüfte
+
+* [https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte](https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss)
+### socialmediaposts
+
+* [https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode](https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss)
 
