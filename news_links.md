@@ -4,229 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
-
-* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### lange
-
-* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
-* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
-* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### hawaii
-
-* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-### mädchen
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+### peck
 
-* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
-### leben
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### liebe
+* [https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik](https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik-a-30dc6da9-bee4-4078-b6d0-650cbaf80fce#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste](https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste-a-77f84ef5-23fa-4046-ba74-11018674509e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
-### ich
-
-* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
-### dienste
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-### russen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts](https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts-a-adaa2515-7fcb-4c9b-a42c-38ce3407e613#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
 ### angriff
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
-### essen
+* [https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise](https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise-a-22f7da37-38e6-42f1-b15c-82c7407c3e50#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-### taxi
+* [https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise](https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise-a-22f7da37-38e6-42f1-b15c-82c7407c3e50#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### riad
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
-* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
-### polen
+* [https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise](https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise-a-22f7da37-38e6-42f1-b15c-82c7407c3e50#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise](https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise-a-22f7da37-38e6-42f1-b15c-82c7407c3e50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung](https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung-a-9b34ef77-cd77-4ab8-b8c4-322a50014de3#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### lunge
+* [https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen-a-ce287b90-af91-4976-ae9f-29c2bff91623#ref=rss)
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+### harry
 
-* [https://www.spiegel.de/panorama/papst-leo-xiv-muss-an-der-lunge-operiert-werden](https://www.spiegel.de/panorama/papst-leo-xiv-muss-an-der-lunge-operiert-werden-a-29b3110a-f2e0-4294-94ea-db9ceec02cea#ref=rss)
-### fragen
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### mütter
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jeden
+* [https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner](https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss)
+### männer
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### ironmanwm
+* [https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner](https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss)
+* [https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen-a-ce287b90-af91-4976-ae9f-29c2bff91623#ref=rss)
+### anders
 
-* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
-### frauenrennen
+* [https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner](https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss)
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### aufgabe
 
-* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
+* [https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner](https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### katharina
+
+* [https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung](https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss)
+### moritz
+
+* [https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung](https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss)
+### gründen
+
+* [https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung](https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck](https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck-a-0a1c8163-8500-4fa3-961d-b0b9b3920961#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung](https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung](https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss)
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+### finanzskandal
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+### ausgebuht
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet](https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+### siegt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+### starken
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+### guy
+
+* [https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt](https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss)
+### parmelin
+
+* [https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt](https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt](https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss)
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt](https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### pentagon
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### korrigiert
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### ussoldaten
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts](https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts-a-adaa2515-7fcb-4c9b-a42c-38ce3407e613#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21](https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck](https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck-a-0a1c8163-8500-4fa3-961d-b0b9b3920961#ref=rss)
+### bonnie
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### garmus
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### 64
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### weltbestseller
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### buch
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch](https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste](https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste-a-77f84ef5-23fa-4046-ba74-11018674509e#ref=rss)
+### riemannvermutung
+
+* [https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik](https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik-a-30dc6da9-bee4-4078-b6d0-650cbaf80fce#ref=rss)
+### ki
+
+* [https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik](https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik-a-30dc6da9-bee4-4078-b6d0-650cbaf80fce#ref=rss)
+### tag
+
+* [https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck](https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck-a-0a1c8163-8500-4fa3-961d-b0b9b3920961#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet](https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck](https://www.spiegel.de/politik/deutschland/helmut-strauf-tritt-als-afd-jugend-vorstand-nach-post-ueber-grossdeutschland-zurueck-a-0a1c8163-8500-4fa3-961d-b0b9b3920961#ref=rss)
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise](https://www.spiegel.de/politik/deutschland/angriff-auf-flughafen-in-riad-verhindert-katherina-reiches-rueckreise-a-22f7da37-38e6-42f1-b15c-82c7407c3e50#ref=rss)
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### putin
+* [https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk](https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk-a-790b46ad-997c-41fe-8004-15c882ece983#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### tusk
 
-* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk](https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk-a-790b46ad-997c-41fe-8004-15c882ece983#ref=rss)
+### regierungschef
 
-* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
-### zusammen
+* [https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk](https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk-a-790b46ad-997c-41fe-8004-15c882ece983#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum-a-d76e541e-338e-4b56-bfda-0045ea8d12c6#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-### iran
+* [https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk](https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk-a-790b46ad-997c-41fe-8004-15c882ece983#ref=rss)
+* [https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen-a-ce287b90-af91-4976-ae9f-29c2bff91623#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
-* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
-### besser
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-### alle
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten](https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten-a-b27e8238-8b75-4c07-a689-00776a6ccfba#ref=rss)
-### rechnung
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
-### thomas
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### völlig
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### daneben
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-### klaus
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-gemeinsames-dinner-von-afd-und-bsw-in-sachsen-anhalt-voellig-daneben-a-0245d5f0-8bac-4b20-a799-1c414cddda2c#ref=rss)
+### 1
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+### borussia
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
-### augsburg
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-siegt-im-rheinderby-fans-von-borussia-moenchengladbach-randalieren-a-69041301-1123-4eaa-a513-c375a40efbe5#ref=rss)
+### aachen
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-### vs
+* [https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen-a-ce287b90-af91-4976-ae9f-29c2bff91623#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### längst
+* [https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen](https://www.spiegel.de/panorama/aachen-wertvolle-pokemonkarte-gestohlen-verdaechtige-festgenommen-a-ce287b90-af91-4976-ae9f-29c2bff91623#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-### wirft
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### junge
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
-* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
-### passiert
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### rachegefühle
 
-* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
-### sonntag
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### schießbefehle
 
-* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### anführer
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### kollateralschäden
 
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-### frei
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+### tote
 
-* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### gemacht
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### berichten
 
-* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden](https://www.spiegel.de/ausland/gazakrieg-zehn-israelische-soldaten-ueber-rachegefuehle-schiessbefehle-und-kollateralschaeden-a-f7e5277e-6f36-4432-9459-23bf7800b233#ref=rss)
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts](https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts-a-adaa2515-7fcb-4c9b-a42c-38ce3407e613#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts](https://www.spiegel.de/ausland/ukraine-krieg-trump-kuendigt-energie-waffenruhe-an-selenskyj-weiss-von-nichts-a-adaa2515-7fcb-4c9b-a42c-38ce3407e613#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+### kimi
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+### antonelli
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-max-verstappen-gewinnt-strategiepatzer-bei-ferrari-kimi-antonelli-mit-matchball-a-db6058c1-30e2-4843-8d3e-6617e20e6bfd#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste](https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste-a-77f84ef5-23fa-4046-ba74-11018674509e#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell](https://www.spiegel.de/ausland/saudi-arabien-trump-reagiert-auf-angriff-in-riad-wir-handeln-schnell-a-944f0bfc-bc83-45fe-ae8a-21861a35f065#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+### freunden
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-freunden-im-schnellcheck-a-619344a8-fee9-4104-8963-206b8d934a18#ref=rss)
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### bingebrowse
+
+* [https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste](https://www.spiegel.de/netzwelt/apps/bingebrowse-so-wandeln-sie-durch-den-katalog-ihrer-streamingdienste-a-77f84ef5-23fa-4046-ba74-11018674509e#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant](https://www.spiegel.de/panorama/harry-und-meghan-erster-gemeinsamer-auftritt-seit-rueckkehr-nach-grossbritannien-geplant-a-6f4f4afc-ab78-4842-943e-bc62d2c8d34a#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum-a-d76e541e-338e-4b56-bfda-0045ea8d12c6#ref=rss)
+### judi
+
+* [https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente](https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente-a-77cc595e-b561-4ead-ab62-18273c39be4e#ref=rss)
+### dench
+
+* [https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente](https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente-a-77cc595e-b561-4ead-ab62-18273c39be4e#ref=rss)
+### james
+
+* [https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente](https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente-a-77cc595e-b561-4ead-ab62-18273c39be4e#ref=rss)
 ### reinhold
 
 * [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
@@ -236,103 +349,44 @@ tags: __no_header__
 ### diane
 
 * [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
-### beziehung
+### ramelow
 
-* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
-### sicherheit
+* [https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung](https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung-a-9b34ef77-cd77-4ab8-b8c4-322a50014de3#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
-* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
-### 25
+* [https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung](https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung-a-9b34ef77-cd77-4ab8-b8c4-322a50014de3#ref=rss)
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+### *nsync
 
-* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum](https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet](https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss)
+### lance
 
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### merz
+* [https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet](https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss)
+### bass
 
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### horst
+* [https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet](https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss)
+### philippe
 
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### seehofer
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+### sands
 
-* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
-### bank
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
-### wasserstand
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### debatte
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
-### holz
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### müsse
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel](https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### microsoftchef
 
-* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
-### cnn
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
+### nadella
 
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
-### hormus
-
-* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
-### florida
-
-* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
-### alabama
-
-* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
-### isaias
-
-* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
-### schäden
-
-* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
-### lichtschwert
-
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-### darth
-
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-### vier
-
-* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### britney
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum](https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
-### verschiebt
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### idee
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### lebenswert
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
-### empfinden
-
-* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse](https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss)
 
