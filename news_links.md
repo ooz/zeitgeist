@@ -4,373 +4,335 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### berlin
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert](https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert](https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert-a-178cb9dc-beb4-47c1-9bfa-3d9ef5ef554f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen](https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen-a-60698280-ce05-4184-941c-a511b5bb4f6c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei](https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck](https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck-a-2230aaf2-acd9-4645-b1de-43afa36c6aab#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-* [https://www.spiegel.de/geschichte/katharina-die-grosse-auf-der-krim-kreuzfahrt-ins-ungewisse](https://www.spiegel.de/geschichte/katharina-die-grosse-auf-der-krim-kreuzfahrt-ins-ungewisse-a-67a69501-910a-4738-98cd-673b7ab916c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert](https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert-a-178cb9dc-beb4-47c1-9bfa-3d9ef5ef554f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027](https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### of
-
-* [https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes](https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes-a-cd87b767-e092-4aa5-a120-606e9ce50c46#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab](https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus](https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert](https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt-a-af721271-d062-40bf-86fa-3a1bbe1e35d6#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### allen
-
-* [https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen](https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen-a-60698280-ce05-4184-941c-a511b5bb4f6c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert](https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert-a-178cb9dc-beb4-47c1-9bfa-3d9ef5ef554f#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus](https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss)
-### father
-
-* [https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes](https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes-a-cd87b767-e092-4aa5-a120-606e9ce50c46#ref=rss)
-### peace
-
-* [https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes](https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes-a-cd87b767-e092-4aa5-a120-606e9ce50c46#ref=rss)
-### system
-
-* [https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes](https://www.spiegel.de/kultur/father-of-peace-als-spielten-system-of-a-down-die-groessten-hits-der-white-stripes-a-cd87b767-e092-4aa5-a120-606e9ce50c46#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen](https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen-a-60698280-ce05-4184-941c-a511b5bb4f6c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-### dieseldeal
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit](https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck](https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck-a-2230aaf2-acd9-4645-b1de-43afa36c6aab#ref=rss)
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-### erst
-
-* [https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck](https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck-a-2230aaf2-acd9-4645-b1de-43afa36c6aab#ref=rss)
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab](https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab](https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert](https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### christa
+* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-### pike
-
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-### verlässt
-
-* [https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus](https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss)
-### expertin
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal](https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss)
-### paul
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-### seixas
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-### lombardeirundfahrt
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
-### eintagesklassiker
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
+* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
 ### lange
 
-* [https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt](https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### mahmoud
+* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
+* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027](https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6#ref=rss)
-### abbas
-
-* [https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027](https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027](https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### mehrfach
-
-* [https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert](https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss)
-### jugendlichen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert](https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### katharina
-
-* [https://www.spiegel.de/geschichte/katharina-die-grosse-auf-der-krim-kreuzfahrt-ins-ungewisse](https://www.spiegel.de/geschichte/katharina-die-grosse-auf-der-krim-kreuzfahrt-ins-ungewisse-a-67a69501-910a-4738-98cd-673b7ab916c9#ref=rss)
-### cristiano
-
-* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt-a-af721271-d062-40bf-86fa-3a1bbe1e35d6#ref=rss)
-### ronaldo
-
-* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt-a-af721271-d062-40bf-86fa-3a1bbe1e35d6#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt](https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-offenbar-vorlaeufig-von-portugals-verband-gesperrt-a-af721271-d062-40bf-86fa-3a1bbe1e35d6#ref=rss)
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### künstlerin
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### gabriele
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### stötzer
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### staatsfeindin
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### ddr
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### blieb
-
-* [https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb](https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss)
-### streit
-
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### clans
-
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-### armut
-
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-### linken
-
-* [https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut](https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### keegan
-
-* [https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen](https://www.spiegel.de/panorama/justiz/keegan-allen-beim-einkaufen-ueberfallen-und-geschlagen-a-60698280-ce05-4184-941c-a511b5bb4f6c#ref=rss)
-### kapitalismus
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert](https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert-a-178cb9dc-beb4-47c1-9bfa-3d9ef5ef554f#ref=rss)
-### 1
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-intercity-1-mit-sternfahrt-nach-wiesbaden-verabschiedet](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-intercity-1-mit-sternfahrt-nach-wiesbaden-verabschiedet-a-efd44253-1906-43b0-a560-e5d96fce9da8#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### verhandeln
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss)
-### uli
-
-* [https://www.spiegel.de/panorama/uli-hoeness-in-den-siebzigern-gemeinsam-ueber-die-rote-ampel](https://www.spiegel.de/panorama/uli-hoeness-in-den-siebzigern-gemeinsam-ueber-die-rote-ampel-a-6fae9b8b-0b4b-4f23-a922-8babb7acb211#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/panorama/uli-hoeness-in-den-siebzigern-gemeinsam-ueber-die-rote-ampel](https://www.spiegel.de/panorama/uli-hoeness-in-den-siebzigern-gemeinsam-ueber-die-rote-ampel-a-6fae9b8b-0b4b-4f23-a922-8babb7acb211#ref=rss)
-### radprofis
-
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
-### start
-
-* [https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit](https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss)
-### paula
-
-* [https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde](https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde-a-5ef0b2a7-e47c-4eba-9fad-70f476f66d93#ref=rss)
-### schwarz
-
-* [https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde](https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde-a-5ef0b2a7-e47c-4eba-9fad-70f476f66d93#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde](https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde-a-5ef0b2a7-e47c-4eba-9fad-70f476f66d93#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### jugendwort
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-### 2026
+* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
+* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-### ragebait
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch](https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss)
-### erschoss
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### hawaii
 
-* [https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei](https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei](https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss)
-### landratsamts
+* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei](https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss)
-### ende
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei](https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### cem
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### özdemir
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-### wirft
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
-### kanzler
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### merz
+* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit](https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### singapur
+* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### liebe
 
-* [https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus](https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss)
-### max
+* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus](https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss)
-### verstappen
+* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+### straße
 
-* [https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus](https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor](https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
+### dienste
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+### russen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
+### essen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+### taxi
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-yandex-rechenzentrum-dienste-fuer-millionen-russen-gestoert-a-44219ba1-38ce-4240-bea4-535fbe57f0f8#ref=rss)
+* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
 ### polen
 
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### schulen
+* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen](https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss)
-### erbschaftsteuer
+* [https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein](https://www.spiegel.de/ausland/polen-polnische-sicherheitsbehoerden-berufen-treffen-wegen-moeglichen-anschlagsplaenen-gegen-tusk-ein-a-d6953696-fd7f-4acb-b561-2c78c9e9faad#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### lunge
 
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-verfassungsrichter-pruefen-privilegien-fuer-firmenerben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-verfassungsrichter-pruefen-privilegien-fuer-firmenerben-a-4511290b-d1c6-4691-bb46-8bab8f3d3682#ref=rss)
-### mario
+* [https://www.spiegel.de/panorama/papst-leo-xiv-muss-an-der-lunge-operiert-werden](https://www.spiegel.de/panorama/papst-leo-xiv-muss-an-der-lunge-operiert-werden-a-29b3110a-f2e0-4294-94ea-db9ceec02cea#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### voigt
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jeden
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### dennis
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### ironmanwm
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### radtke
+* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
+### frauenrennen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### stefan
+* [https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie](https://www.spiegel.de/sport/ironman-wm-auf-hawaii-frauenrennen-wird-zum-kampf-bis-zur-ziellinie-a-4c98005d-5b1c-40e7-8b02-e24d5a25cb6c#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### evers
+* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### profil
+* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
-### partei
+* [https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen](https://www.spiegel.de/ausland/einigung-von-donald-trump-und-wladimir-putin-bundesregierung-betont-festhalten-an-russlandsanktionen-a-cdef1ad1-e3d2-4554-b377-e631cfae3095#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
+### zusammen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei](https://www.spiegel.de/politik/deutschland/cdu-mario-voigt-dennis-radtke-und-stefan-evers-dringen-auf-klareres-profil-der-partei-a-82944159-d1c9-49e8-8092-87565d1ad5ad#ref=rss)
+* [https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften](https://www.spiegel.de/start/einsamkeit-bei-jungen-menschen-bastelabende-als-chance-fuer-neue-freundschaften-a-7e68ded8-6926-4e0d-913b-a496d6a766c5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman](https://www.spiegel.de/ausland/us-kampfflugzeug-feuert-auf-frachtschiff-im-golf-von-oman-a-2f23475e-51ea-438f-a78f-2b8b97fd9192#ref=rss)
+* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
+### besser
+
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten](https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten-a-b27e8238-8b75-4c07-a689-00776a6ccfba#ref=rss)
+### rechnung
+
+* [https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln](https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-65721ae0-0a03-4042-9ece-00aaf50c228c#ref=rss)
+### augsburg
+
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+### vs
+
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### längst
+
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### junge
+
+* [https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen](https://www.spiegel.de/sport/fussball/fc-augsburg-vs-fc-bayern-hat-die-manuel-neuer-daemmerung-laengst-begonnen-a-3725ce1f-2211-493b-8938-642048953a77#ref=rss)
+* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
+### passiert
+
+* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster](https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-der-ordnungsgemaesse-weg-ins-desaster-a-e8ca8715-0ff6-4ac0-bf97-e33eda61c438#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### anführer
+
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+### frei
+
+* [https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei](https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos](https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### reinhold
+
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+### messner
+
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+### diane
+
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter](https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft](https://www.spiegel.de/partnerschaft/beziehung-fuenf-einfache-tipps-fuer-eine-lange-liebe-und-eine-stabile-partnerschaft-a-d148bc09-8ed0-48b1-88ef-50ce9a886ed2#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
+* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
+### 25
+
+* [https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute](https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum](https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### horst
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### seehofer
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor](https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss)
+### bank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage](https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss)
+### wasserstand
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
+### holz
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt](https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss)
+### cnn
+
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor](https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania](https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand](https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
+### alabama
+
+* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
+### isaias
+
+* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
+### schäden
+
+* [https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden](https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss)
+### lichtschwert
+
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+### darth
+
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+### vier
+
+* [https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer](https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### britney
+
+* [https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum](https://www.spiegel.de/panorama/leute/britney-spears-unveroeffentlichter-song-shell-never-be-me-erscheint-zum-jubilaeum-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss)
+### patrick
+
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben](https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss)
+### verschiebt
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### idee
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### lebenswert
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
+### empfinden
+
+* [https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss)
 
