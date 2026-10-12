@@ -4,347 +4,381 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
 ### bärbel
 
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### frauen
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### bas
 
-* [https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer](https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer-a-652e1761-892c-4cd8-97a3-e85081a7c99f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-### deutlich
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### brand
 
-* [https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer](https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer-a-652e1761-892c-4cd8-97a3-e85081a7c99f#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen](https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen-a-67a37482-c48f-4c23-b857-d9213f2ed9c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden](https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden-a-5f2cddd7-6cb6-4e9a-a204-55ddf857a25a#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
+* [https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland](https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
+* [https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland](https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt-a-7142282e-42d4-42ea-89e7-87676e3b2533#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert-a-9b32972a-ee9f-478d-9384-007ffdf5f12e#ref=rss)
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### politik
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+### lars
 
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden-a-d6c2475d-2a50-4cb6-bc4e-dafacde45330#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans](https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans-a-5b94d033-1744-466a-a62c-e3d46b59aa22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern](https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern-a-22861f0b-1d1b-4018-a5d1-9f529ca2aa85#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### frage
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+### viele
 
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden-a-d6c2475d-2a50-4cb6-bc4e-dafacde45330#ref=rss)
-### zeit
+* [https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende](https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende-a-a70471ce-4c87-4a8a-9116-f1658b784d0d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt](https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt-a-1d516726-f4fa-4eff-a2cc-d92939d2360a#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen-a-143bfaaa-798a-4849-83d4-e8c5a7400c33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-### erbschaftsteuer
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schottland-fussballfans-duerfen-erstmals-seit-45-jahren-wieder-alkohol-im-stadion-trinken](https://www.spiegel.de/sport/fussball/schottland-fussballfans-duerfen-erstmals-seit-45-jahren-wieder-alkohol-im-stadion-trinken-a-150ae776-d056-4b77-97b4-5fd7996f1ffe#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden-a-d6c2475d-2a50-4cb6-bc4e-dafacde45330#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-### eu
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000](https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland](https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland-a-406b7845-4852-4e5f-ab1c-494e95f3a95b#ref=rss)
-### manchester
+* [https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen](https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen-a-443f60ba-71ac-436b-916e-c05d26a8aadd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty](https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty-a-1897ffa7-0a91-4ae1-8db4-0c8371932c72#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty](https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty-a-1897ffa7-0a91-4ae1-8db4-0c8371932c72#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt-a-7142282e-42d4-42ea-89e7-87676e3b2533#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden](https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden-a-5f2cddd7-6cb6-4e9a-a204-55ddf857a25a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen-a-143bfaaa-798a-4849-83d4-e8c5a7400c33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland](https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland-a-406b7845-4852-4e5f-ab1c-494e95f3a95b#ref=rss)
-### heino
-
-* [https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett](https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett-a-6e59f9cf-8c6c-43c1-9463-07915998a80c#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett](https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett-a-6e59f9cf-8c6c-43c1-9463-07915998a80c#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett](https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett-a-6e59f9cf-8c6c-43c1-9463-07915998a80c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen-a-143bfaaa-798a-4849-83d4-e8c5a7400c33#ref=rss)
-### lebens
-
-* [https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett](https://www.spiegel.de/panorama/leute/heino-versteigert-sein-ehebett-a-6e59f9cf-8c6c-43c1-9463-07915998a80c#ref=rss)
-* [https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty](https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty-a-1897ffa7-0a91-4ae1-8db4-0c8371932c72#ref=rss)
-### fühlen
-
-* [https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer](https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer-a-652e1761-892c-4cd8-97a3-e85081a7c99f#ref=rss)
-### fehlern
-
-* [https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer](https://www.spiegel.de/karriere/frauen-fuehlen-sich-in-maennerteams-bei-fehlern-unsicherer-a-652e1761-892c-4cd8-97a3-e85081a7c99f#ref=rss)
-### spitze
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-### arbeitsministeriums
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-### schweitzer
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums](https://www.spiegel.de/politik/deutschland/spd-frauen-draengen-auf-frau-an-der-spitze-des-arbeitsministeriums-a-354fa392-77b5-4001-be79-5c363143e671#ref=rss)
-* [https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet](https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet-a-dea02328-83aa-4329-953c-33c04f0970ec#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt](https://www.spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt-a-d7e436f3-a579-4add-9c74-843758beb19f#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt](https://www.spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt-a-d7e436f3-a579-4add-9c74-843758beb19f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein](https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein-a-dd366b0f-9e02-41d5-bec4-9530796afb9c#ref=rss)
-### aubagne
-
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
-### schüler
-
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
+* [https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland](https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein](https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein-a-dd366b0f-9e02-41d5-bec4-9530796afb9c#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
-### schulleiter
-
-* [https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### rückzug
-
-* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-kuendigt-neuwahl-der-parteispitze-zum-jahreswechsel-an-a-0679b58e-772e-4eb1-b760-42ea16c0e428#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-### spdchefin
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-### familie
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern](https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern-a-fbc429c5-c03e-4f9d-a4d1-bde8d5e1e09f#ref=rss)
-### längst
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt](https://www.spiegel.de/politik/deutschland/baerbel-bas-was-der-rueckzug-der-spd-chefin-ueber-politik-und-union-aussagt-a-84311599-a5cc-4049-a2ba-8a4dc7e4aa3b#ref=rss)
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford](https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss)
-### e
-
-* [https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford](https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss)
-### hall
-
-* [https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford](https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss)
-### michael
-
-* [https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford](https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss)
-### woodford
-
-* [https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford](https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss)
-### toten
-
-* [https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans](https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans-a-5b94d033-1744-466a-a62c-e3d46b59aa22#ref=rss)
-### hosen
-
-* [https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans](https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans-a-5b94d033-1744-466a-a62c-e3d46b59aa22#ref=rss)
-### fans
-
-* [https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans](https://www.spiegel.de/kultur/musik/die-toten-hosen-sagen-auch-in-buenos-aires-adios-vor-15-000-fans-a-5b94d033-1744-466a-a62c-e3d46b59aa22#ref=rss)
-* [https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty](https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty-a-1897ffa7-0a91-4ae1-8db4-0c8371932c72#ref=rss)
-### ahnin
-
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-### hexe
-
-* [https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt](https://www.spiegel.de/kultur/literatur/meine-ahnin-die-hexe-und-ich-noch-immer-werden-frauen-verbrannt-a-aec76793-d55b-4d8d-9415-c16e33fd8fe8#ref=rss)
-### sardinien
-
-* [https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet](https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet-a-dea02328-83aa-4329-953c-33c04f0970ec#ref=rss)
-### wanderer
-
-* [https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet](https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet-a-dea02328-83aa-4329-953c-33c04f0970ec#ref=rss)
-### höhle
-
-* [https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet](https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet-a-dea02328-83aa-4329-953c-33c04f0970ec#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet](https://www.spiegel.de/panorama/sardinien-wanderer-in-hoehle-verschuettet-a-dea02328-83aa-4329-953c-33c04f0970ec#ref=rss)
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-### brüssel
-
-* [https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen](https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen-a-67a37482-c48f-4c23-b857-d9213f2ed9c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000](https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen](https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen-a-67a37482-c48f-4c23-b857-d9213f2ed9c3#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### airbus
-
-* [https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern](https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern-a-22861f0b-1d1b-4018-a5d1-9f529ca2aa85#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern](https://www.spiegel.de/wirtschaft/testflug-der-valkyrie-airbus-will-erste-kampfbomberdrohne-fuer-die-bundeswehr-liefern-a-22861f0b-1d1b-4018-a5d1-9f529ca2aa85#ref=rss)
-### sacha
-
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-### baron
-
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-### cohen
-
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-### übernimmt
-
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### quentin
-
-* [https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino](https://www.spiegel.de/kultur/sacha-baron-cohen-uebernimmt-hauptrolle-in-theaterstueck-von-quentin-tarantino-a-3e587e27-86a6-4979-8c70-cbe8d3f9077a#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden-a-d6c2475d-2a50-4cb6-bc4e-dafacde45330#ref=rss)
-### entscheiden
-
-* [https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden](https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-bundesverfassungsgericht-soll-ueber-gerechtigkeit-bei-firmenerben-entscheiden-a-d6c2475d-2a50-4cb6-bc4e-dafacde45330#ref=rss)
-### importe
-
-* [https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000](https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss)
-### hybridautos
-
-* [https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000](https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000](https://www.spiegel.de/wirtschaft/eu-begrenzt-importe-fuer-elektro-und-hybridautos-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty](https://www.spiegel.de/sport/manchester-city-vs-fc-liverpool-zorn-und-spott-fuer-manchester-cheaty-a-1897ffa7-0a91-4ae1-8db4-0c8371932c72#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern](https://www.spiegel.de/politik/baerbel-bas-die-karriere-der-spd-politikerin-in-bildern-a-f94b505e-b742-4398-b393-c878c6630d18#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden](https://www.spiegel.de/wirtschaft/post-porto-fuer-briefe-und-pakete-koennte-deutlich-teurer-werden-a-5f2cddd7-6cb6-4e9a-a204-55ddf857a25a#ref=rss)
-### reaktionen
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern](https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern-a-c9a67239-bd08-4d85-8606-a80f3792f079#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt](https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt-a-1d516726-f4fa-4eff-a2cc-d92939d2360a#ref=rss)
 ### rücktritt
 
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### aufgrund
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+### rückzug
 
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### trauerfalls
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+### ki
 
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
-### covorsitzende
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki-a-36fef26d-1413-430a-b7a0-7eb1f4e9c3bd#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich](https://www.spiegel.de/politik/deutschland/baerbel-bas-reaktionen-auf-ihren-ruecktritt-die-kraft-ist-endlich-a-e8663075-0ed3-4f91-99b6-348a1193be32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium](https://www.spiegel.de/politik/deutschland/baerbel-bas-kuendigt-ruecktritt-von-ihren-aemtern-an-schweitzer-uebernimmt-ministerium-a-dd4c2409-4359-4dfe-af90-a557d1ab8907#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen](https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen-a-443f60ba-71ac-436b-916e-c05d26a8aadd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin](https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin-a-0674ed0d-544d-402b-a97b-264fc982f07f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt-a-7142282e-42d4-42ea-89e7-87676e3b2533#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### führt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-robin-fellhauers-8-sekunden-tor-fuehrt-rangliste-der-zehn-schnellsten-treffer-an](https://www.spiegel.de/sport/fussball/bundesliga-robin-fellhauers-8-sekunden-tor-fuehrt-rangliste-der-zehn-schnellsten-treffer-an-a-d3e38244-e034-4207-a0ff-490435354186#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland](https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss)
+### starlinkstation
+
+* [https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland](https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-block-ermittler-beschlagnahmen-podcast-aufnahmen-bei-zeit-autorin](https://www.spiegel.de/panorama/justiz/fall-block-ermittler-beschlagnahmen-podcast-aufnahmen-bei-zeit-autorin-a-80e45084-2586-47d9-9165-d06c55436f2e#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+### hormus
+
+* [https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus](https://www.spiegel.de/ausland/iran-reklamiert-angriff-auf-supertanker-in-strasse-von-hormus-a-62b40ff1-a3ed-4c9f-b867-2cd01342139b#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-empfehlen-fraktion-bei-ministerpraesidentenwahl-geschlossen-den-saal-zu-verlassen](https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-empfehlen-fraktion-bei-ministerpraesidentenwahl-geschlossen-den-saal-zu-verlassen-a-67c19d5b-92f8-46ee-bee5-df43df9a3784#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar](https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-union-und-spd-sollten-sich-endlich-zusammenreissen-kommentar-a-a76285fa-ef7f-41f6-8e15-a40fd16ffbcf#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+### neu
+
+* [https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze](https://www.spiegel.de/politik/deutschland/spd-nach-dem-ruecktritt-von-baerbel-bas-geht-lars-klingbeil-aufs-ganze-a-add02a46-be90-4ed7-a414-c618d4a6e79d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
+### parteispitze
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+### ämter
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-unklare-zukunft-an-parteispitze-aemter-im-kabinett-fix-a-c0dc0f07-5be2-49c8-8b6c-069ea7997896#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen](https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen-a-d3fb69ac-47da-4ef5-9bc7-8fc67bdd601c#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert-a-9b32972a-ee9f-478d-9384-007ffdf5f12e#ref=rss)
+### burnham
+
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert-a-9b32972a-ee9f-478d-9384-007ffdf5f12e#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert-a-9b32972a-ee9f-478d-9384-007ffdf5f12e#ref=rss)
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+### wahrscheinlich
+
+* [https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert](https://www.spiegel.de/ausland/grossbritannien-andy-burnham-haelt-vorfall-an-militaerbasis-fuer-fast-sicher-von-teheran-gesteuert-a-9b32972a-ee9f-478d-9384-007ffdf5f12e#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern](https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern-a-c9a67239-bd08-4d85-8606-a80f3792f079#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern](https://www.spiegel.de/ausland/huthi-im-jemen-saudi-arabien-mohammed-bin-salman-pendelt-wegen-attacken-offenbar-zwischen-schwer-befestigten-palaesten-mit-bunkern-a-c9a67239-bd08-4d85-8606-a80f3792f079#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab](https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab-a-d764fe9d-9ed0-45cf-9f26-8c3dea2c5218#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### risikoforscher
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### besondere
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### furcht
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-risikoforscher-erklaert-unsere-besondere-furcht-vor-ki-a-b20e8bc3-6949-462f-93cd-01118f42b60d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende](https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende-a-a70471ce-4c87-4a8a-9116-f1658b784d0d#ref=rss)
+### herbstferien
+
+* [https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende](https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende-a-a70471ce-4c87-4a8a-9116-f1658b784d0d#ref=rss)
+### staus
+
+* [https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende](https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende-a-a70471ce-4c87-4a8a-9116-f1658b784d0d#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende](https://www.spiegel.de/mobilitaet/auto/herbstferien-adac-warnt-vor-vielen-staus-am-wochenende-a-a70471ce-4c87-4a8a-9116-f1658b784d0d#ref=rss)
+### microsoftpräsident
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki-a-36fef26d-1413-430a-b7a0-7eb1f4e9c3bd#ref=rss)
+### brad
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki-a-36fef26d-1413-430a-b7a0-7eb1f4e9c3bd#ref=rss)
+### smith
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki-a-36fef26d-1413-430a-b7a0-7eb1f4e9c3bd#ref=rss)
+### besser
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki](https://www.spiegel.de/netzwelt/netzpolitik/microsoft-praesident-brad-smith-haelt-waschmaschinen-fuer-besser-reguliert-als-ki-a-36fef26d-1413-430a-b7a0-7eb1f4e9c3bd#ref=rss)
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
+### atomwaffen
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### 40
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### sowjetunion
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### beinahe
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### abgeschafft
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+### kam
+
+* [https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft](https://www.spiegel.de/wissenschaft/atomwaffen-vor-40-jahren-haetten-die-usa-und-die-sowjetunion-sie-beinahe-gemeinsam-abgeschafft-a-39af2d12-4758-46f3-8931-477054272ccc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen](https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen-a-d3fb69ac-47da-4ef5-9bc7-8fc67bdd601c#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen](https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen-a-d3fb69ac-47da-4ef5-9bc7-8fc67bdd601c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen](https://www.spiegel.de/ausland/elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen-a-d3fb69ac-47da-4ef5-9bc7-8fc67bdd601c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab](https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab-a-d764fe9d-9ed0-45cf-9f26-8c3dea2c5218#ref=rss)
+### stromsteuer
+
+* [https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen](https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen-a-443f60ba-71ac-436b-916e-c05d26a8aadd#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen](https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen-a-443f60ba-71ac-436b-916e-c05d26a8aadd#ref=rss)
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### milizen
+
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+### einst
+
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+* [https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin](https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin-a-0674ed0d-544d-402b-a97b-264fc982f07f#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden](https://www.spiegel.de/ausland/irak-nach-abzug-der-usa-wie-schiitische-milizen-zur-entscheidenden-macht-wurden-a-fe9c51e2-1c12-4e15-9a56-b75df0401d96#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt](https://www.spiegel.de/wissenschaft/mensch/menopause-veraendert-viele-koerperliche-prozesse-offenbar-ueberraschend-abrupt-a-1d516726-f4fa-4eff-a2cc-d92939d2360a#ref=rss)
+### prinzessin
+
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+### kate
+
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+### charlotte
+
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs](https://www.spiegel.de/panorama/leute/prinzessin-kate-und-tochter-charlotte-in-londoner-tube-unterwegs-a-9919df30-5904-435a-8b67-2f1fcdac52cf#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/sport/fussball/schottland-fussballfans-duerfen-erstmals-seit-45-jahren-wieder-alkohol-im-stadion-trinken](https://www.spiegel.de/sport/fussball/schottland-fussballfans-duerfen-erstmals-seit-45-jahren-wieder-alkohol-im-stadion-trinken-a-150ae776-d056-4b77-97b4-5fd7996f1ffe#ref=rss)
+### ilhan
+
+* [https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin](https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin-a-0674ed0d-544d-402b-a97b-264fc982f07f#ref=rss)
+### omar
+
+* [https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin](https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin-a-0674ed0d-544d-402b-a97b-264fc982f07f#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin](https://www.spiegel.de/ausland/ilhan-omar-us-ermittler-durchsuchen-haus-von-donald-trump-kritikerin-a-0674ed0d-544d-402b-a97b-264fc982f07f#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab](https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab-a-85d38776-2c8c-4e9a-9f53-711c6e3948cb#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet](https://www.spiegel.de/politik/deutschland/cdu-in-der-krise-was-der-rueckzug-von-baerbel-bas-fuer-friedrich-merz-bedeutet-a-cbabda3b-2ab2-44f1-a09f-523b15d48258#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/fall-block-ermittler-beschlagnahmen-podcast-aufnahmen-bei-zeit-autorin](https://www.spiegel.de/panorama/justiz/fall-block-ermittler-beschlagnahmen-podcast-aufnahmen-bei-zeit-autorin-a-80e45084-2586-47d9-9165-d06c55436f2e#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab](https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab-a-85d38776-2c8c-4e9a-9f53-711c6e3948cb#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-empfehlen-fraktion-bei-ministerpraesidentenwahl-geschlossen-den-saal-zu-verlassen](https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-empfehlen-fraktion-bei-ministerpraesidentenwahl-geschlossen-den-saal-zu-verlassen-a-67c19d5b-92f8-46ee-bee5-df43df9a3784#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab](https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab-a-85d38776-2c8c-4e9a-9f53-711c6e3948cb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab](https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab-a-d764fe9d-9ed0-45cf-9f26-8c3dea2c5218#ref=rss)
+### hand
+
+* [https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab](https://www.spiegel.de/ausland/proteste-in-frankreich-granate-reisst-schueler-die-hand-ab-a-85d38776-2c8c-4e9a-9f53-711c6e3948cb#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland](https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland-a-406b7845-4852-4e5f-ab1c-494e95f3a95b#ref=rss)
-* [https://www.spiegel.de/ausland/kaja-kallas-warnt-vor-oelkatastrophe-durch-russische-schattenflotte](https://www.spiegel.de/ausland/kaja-kallas-warnt-vor-oelkatastrophe-durch-russische-schattenflotte-a-2d9bf90c-ecab-4ac8-958f-1b53290f0fdc#ref=rss)
-### audi
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein](https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein-a-dd366b0f-9e02-41d5-bec4-9530796afb9c#ref=rss)
-### nimmt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein](https://www.spiegel.de/wirtschaft/audi-verkaeufe-brechen-um-fast-ein-fuenftel-ein-a-dd366b0f-9e02-41d5-bec4-9530796afb9c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-### rader
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an](https://www.spiegel.de/politik/deutschland/news-des-tages-baerbel-bas-tritt-zurueck-eu-sanktionen-gegen-russland-alexander-zverev-fuehrt-bald-weltrangliste-an-a-a2a49ad7-dd90-4359-a0b2-af96840fce2b#ref=rss)
+### citroën
 
-* [https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern](https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern-a-fbc429c5-c03e-4f9d-a4d1-bde8d5e1e09f#ref=rss)
-### bittet
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### ente
 
-* [https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern](https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern-a-fbc429c5-c03e-4f9d-a4d1-bde8d5e1e09f#ref=rss)
-### tod
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### erfolg
 
-* [https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern](https://www.spiegel.de/panorama/leute/viktoria-rader-bittet-nach-tod-von-ehemann-um-raum-zum-trauern-a-fbc429c5-c03e-4f9d-a4d1-bde8d5e1e09f#ref=rss)
-### familienunternehmer
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### wiederholen
 
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-### 1
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-familienunternehmer-und-dihk-gegen-hoehere-abgaben-a-8cd7fe7f-2931-424d-b2ca-b71cfc41e874#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### bastelt
+* [https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen](https://www.spiegel.de/mobilitaet/citroen-2cv-neuauflage-der-legendaeren-ente-als-e-auto-soll-erfolg-wiederholen-a-08d3cdd0-48ef-4e5d-b5e1-4399a428892a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### russell
 
-* [https://www.spiegel.de/ausland/kaja-kallas-warnt-vor-oelkatastrophe-durch-russische-schattenflotte](https://www.spiegel.de/ausland/kaja-kallas-warnt-vor-oelkatastrophe-durch-russische-schattenflotte-a-2d9bf90c-ecab-4ac8-958f-1b53290f0fdc#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab](https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab-a-30dccbf1-fd26-4a41-833c-17c9952ab854#ref=rss)
-### jnimon
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
+### vergewaltigungsprozess
 
-* [https://www.spiegel.de/panorama/versteigerung-ein-fohlen-namens-j-nimon-k-raeumt-ab](https://www.spiegel.de/panorama/versteigerung-ein-fohlen-namens-j-nimon-k-raeumt-ab-a-a9f40897-a8fc-4baa-83ae-270677a15da5#ref=rss)
-### k
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
+### comedian
 
-* [https://www.spiegel.de/panorama/versteigerung-ein-fohlen-namens-j-nimon-k-raeumt-ab](https://www.spiegel.de/panorama/versteigerung-ein-fohlen-namens-j-nimon-k-raeumt-ab-a-a9f40897-a8fc-4baa-83ae-270677a15da5#ref=rss)
-### singapur
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
+### london
 
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### max
+* [https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet](https://www.spiegel.de/panorama/justiz/russell-brand-vergewaltigungsprozess-gegen-comedian-in-london-gestartet-a-0fce364c-af9c-4405-bde9-1778475384af#ref=rss)
+### warstein
 
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### verstappen
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### 21jährige
 
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-zum-rennen-in-singapur-mit-sieger-max-verstappen-a-78d4d9f3-c014-4f9f-956d-b4e870557c5f#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### bungeejumping
 
-* [https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab](https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab-a-30dccbf1-fd26-4a41-833c-17c9952ab854#ref=rss)
-### raketen
+* [https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall](https://www.spiegel.de/panorama/justiz/warstein-21-jaehrige-stirbt-beim-bungee-jumping-polizei-spricht-von-tragischem-unfall-a-fb03504e-e2a3-4e0e-bdaf-33c6ed41ac88#ref=rss)
+### robin
 
-* [https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab](https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab-a-30dccbf1-fd26-4a41-833c-17c9952ab854#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-robin-fellhauers-8-sekunden-tor-fuehrt-rangliste-der-zehn-schnellsten-treffer-an](https://www.spiegel.de/sport/fussball/bundesliga-robin-fellhauers-8-sekunden-tor-fuehrt-rangliste-der-zehn-schnellsten-treffer-an-a-d3e38244-e034-4207-a0ff-490435354186#ref=rss)
+### ware
+
+* [https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab](https://www.spiegel.de/netzwelt/web/hacker-tauen-ware-in-hunderten-franzoesischen-supermaerkten-ab-a-d764fe9d-9ed0-45cf-9f26-8c3dea2c5218#ref=rss)
+### roboter
+
+* [https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/koeln-roboter-fasst-16-jaehriger-ans-gesaess-polizei-ermittelt-a-7142282e-42d4-42ea-89e7-87676e3b2533#ref=rss)
+### vorbereitet
+
+* [https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser](https://www.spiegel.de/panorama/ostdeutsche-haushalte-sind-besser-auf-notfaelle-vorbereitet-powerbank-bargeld-trinkwasser-a-f9b1f966-86ca-49fc-9c7f-3c254eb21f4a#ref=rss)
 
