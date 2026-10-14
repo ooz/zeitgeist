@@ -4,308 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-* [https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte](https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte-a-d7158694-296b-4f21-b373-423a16402a83#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt-a-eb2bdcb5-fd5c-4c63-85f0-eb10eacf2503#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld](https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld-a-1e9037de-c0a6-4957-9116-482187ca3e72#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an](https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern](https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern-a-bdc7801c-1954-4003-951e-1cec8a8721e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm](https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm-a-6be666d5-a11d-4bd1-abf8-a0171f684e02#ref=rss)
-* [https://www.spiegel.de/politik/klimakrise-warum-die-erde-mehr-poesie-braucht-als-oekonomische-kennzahlen-meinung](https://www.spiegel.de/politik/klimakrise-warum-die-erde-mehr-poesie-braucht-als-oekonomische-kennzahlen-meinung-a-7a46c0fd-1449-4cd4-9ee1-ad6e862fd165#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld](https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld-a-1e9037de-c0a6-4957-9116-482187ca3e72#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an](https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### weist
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen](https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen-a-b9b5c180-ab98-4a36-9d95-7339b3a6cdee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben-a-b94502b9-729f-4058-a884-c67ddeb2fecd#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### eurojackpot
-
-* [https://www.spiegel.de/panorama/gesellschaft/eurojackpot-120-millionen-euro-gewinn-soll-aufs-girokonto-ueberwiesen-werden](https://www.spiegel.de/panorama/gesellschaft/eurojackpot-120-millionen-euro-gewinn-soll-aufs-girokonto-ueberwiesen-werden-a-b8c72c0d-0b07-4507-81e3-671c232bbd75#ref=rss)
-### bald
-
-* [https://www.spiegel.de/panorama/gesellschaft/eurojackpot-120-millionen-euro-gewinn-soll-aufs-girokonto-ueberwiesen-werden](https://www.spiegel.de/panorama/gesellschaft/eurojackpot-120-millionen-euro-gewinn-soll-aufs-girokonto-ueberwiesen-werden-a-b8c72c0d-0b07-4507-81e3-671c232bbd75#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an](https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-### potsdam
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-### prüft
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben-a-b94502b9-729f-4058-a884-c67ddeb2fecd#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### collien
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-### fernandes
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-### warf
-
-* [https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes](https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt](https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt-a-0419190a-58d1-489f-a57c-e32ddeda77db#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-polens-aussenminister-attackiert-musk-wegen-moeglicher-starlink-drosselung](https://www.spiegel.de/ausland/russland-ukraine-krieg-polens-aussenminister-attackiert-musk-wegen-moeglicher-starlink-drosselung-a-d72a65dd-1378-4a8a-b564-84a8ac11309e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-polens-aussenminister-attackiert-musk-wegen-moeglicher-starlink-drosselung](https://www.spiegel.de/ausland/russland-ukraine-krieg-polens-aussenminister-attackiert-musk-wegen-moeglicher-starlink-drosselung-a-d72a65dd-1378-4a8a-b564-84a8ac11309e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### linken
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### bürgermeisterin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### elif
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### eralp
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-### sondierungen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp](https://www.spiegel.de/politik/deutschland/berlin-war-es-das-spd-gruenen-linken-und-einer-buergermeisterin-elif-eralp-a-70f6c5ee-8b63-4797-a9df-75fb9c92f994#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt-a-eb2bdcb5-fd5c-4c63-85f0-eb10eacf2503#ref=rss)
-### snapchat
-
-* [https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln](https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln-a-f7b7c152-b0b8-4ed5-8b74-3767856bcee1#ref=rss)
-### kichatbot
-
-* [https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln](https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln-a-f7b7c152-b0b8-4ed5-8b74-3767856bcee1#ref=rss)
-### bedeutet
-
-* [https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln](https://www.spiegel.de/netzwelt/apps/snapchat-ki-chatbot-darf-keine-werbedaten-sammeln-a-f7b7c152-b0b8-4ed5-8b74-3767856bcee1#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom](https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom-a-5e3eb8b4-c644-4a48-be12-15fa3b5b7e97#ref=rss)
-### punkte
-
-* [https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen](https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen-a-b9b5c180-ab98-4a36-9d95-7339b3a6cdee#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen](https://www.spiegel.de/mobilitaet/auto/punkte-in-flensburg-verfassungsbeschwerde-gegen-verbot-des-punktehandels-abgewiesen-a-b9b5c180-ab98-4a36-9d95-7339b3a6cdee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss)
-### bumble
-
-* [https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft](https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft-a-556f50e9-c1f9-4830-b5b4-36800a61a2e5#ref=rss)
-### einst
-
-* [https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft](https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft-a-556f50e9-c1f9-4830-b5b4-36800a61a2e5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft](https://www.spiegel.de/wirtschaft/dating-app-bumble-fuer-1-3-milliarden-dollar-verkauft-a-556f50e9-c1f9-4830-b5b4-36800a61a2e5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm](https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm-a-6be666d5-a11d-4bd1-abf8-a0171f684e02#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte](https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte-a-d7158694-296b-4f21-b373-423a16402a83#ref=rss)
-* [https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld](https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld-a-1e9037de-c0a6-4957-9116-482187ca3e72#ref=rss)
-### problem
-
-* [https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte](https://www.spiegel.de/kultur/berliner-sondierungsgespraeche-wie-berlin-doch-noch-regierungsfaehig-werden-koennte-a-d7158694-296b-4f21-b373-423a16402a83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege](https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege-a-ead29a48-c042-4254-abae-0cceeb009788#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-### wiederwahl
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### geld
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld](https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld-a-1e9037de-c0a6-4957-9116-482187ca3e72#ref=rss)
-### aussicht
-
-* [https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-lockt-verbaende-vor-wiederwahl-mit-milliardenausschuettung-a-72860876-ae0b-4cb6-ab11-722e0bfbfefd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### vanessa
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt-a-eb2bdcb5-fd5c-4c63-85f0-eb10eacf2503#ref=rss)
-### emde
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt-a-eb2bdcb5-fd5c-4c63-85f0-eb10eacf2503#ref=rss)
-### radikale
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-linke-die-rot-gruen-rot-in-berlin-in-gefahr-bringt-a-eb2bdcb5-fd5c-4c63-85f0-eb10eacf2503#ref=rss)
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld](https://www.spiegel.de/ausland/usa-vor-den-midterms-die-republikaner-muessen-donald-trump-lieben-er-hat-das-geld-a-1e9037de-c0a6-4957-9116-482187ca3e72#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### joni
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### mitchell
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### staatsbürgerschaft
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### bin
-
-* [https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen](https://www.spiegel.de/panorama/leute/joni-mitchell-hat-us-amerikanische-staatsbuergerschaft-bekommen-a-489d9e4d-06db-4dcd-b2e6-972fffa905af#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/jetzero-ist-dieser-rochen-die-zukunft-des-fliegens](https://www.spiegel.de/wirtschaft/unternehmen/jetzero-ist-dieser-rochen-die-zukunft-des-fliegens-a-976c1c56-9242-4823-aafb-0e7a755db035#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt](https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt-a-0419190a-58d1-489f-a57c-e32ddeda77db#ref=rss)
-### paul
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern](https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern-a-bdc7801c-1954-4003-951e-1cec8a8721e0#ref=rss)
-### mccartney
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern](https://www.spiegel.de/kultur/musik/paul-mccartney-glaubt-sich-an-seine-geburt-zu-erinnern-a-bdc7801c-1954-4003-951e-1cec8a8721e0#ref=rss)
-### siedler
-
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### moschee
-
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### brand
-
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand](https://www.spiegel.de/ausland/israel-siedler-setzen-offenbar-moschee-im-westjordanland-in-brand-a-4579ef81-393b-4270-9bcb-d6adb6de25b5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm](https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm-a-6be666d5-a11d-4bd1-abf8-a0171f684e02#ref=rss)
-### rentenpunkte
-
-* [https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege](https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege-a-ead29a48-c042-4254-abae-0cceeb009788#ref=rss)
-### kaufen
-
-* [https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege](https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege-a-ead29a48-c042-4254-abae-0cceeb009788#ref=rss)
-### früher
-
-* [https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege](https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege-a-ead29a48-c042-4254-abae-0cceeb009788#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten](https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten-a-9b6a34fc-8669-4b6b-bc48-796cfed7ad42#ref=rss)
-### central
-
-* [https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten](https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten-a-9b6a34fc-8669-4b6b-bc48-796cfed7ad42#ref=rss)
-### park
-
-* [https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten](https://www.spiegel.de/panorama/new-york-will-pferdekutschen-im-central-park-verbieten-a-9b6a34fc-8669-4b6b-bc48-796cfed7ad42#ref=rss)
-### kühltruhen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken-a-884cf33c-9c41-4f4a-b5d0-decd6d4fa22c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken-a-884cf33c-9c41-4f4a-b5d0-decd6d4fa22c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm](https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm-a-6be666d5-a11d-4bd1-abf8-a0171f684e02#ref=rss)
-### 50
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-bsi-warnt-nach-abtau-attacke-auf-kuehltruhen-vor-sicherheitsluecken-a-884cf33c-9c41-4f4a-b5d0-decd6d4fa22c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben](https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben-a-b94502b9-729f-4058-a884-c67ddeb2fecd#ref=rss)
-### behörde
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm](https://www.spiegel.de/sport/fussball/fussball-in-england-am-rande-des-finanziellen-desasters-behoerde-schlaegt-alarm-a-6be666d5-a11d-4bd1-abf8-a0171f684e02#ref=rss)
-### poesie
-
-* [https://www.spiegel.de/politik/klimakrise-warum-die-erde-mehr-poesie-braucht-als-oekonomische-kennzahlen-meinung](https://www.spiegel.de/politik/klimakrise-warum-die-erde-mehr-poesie-braucht-als-oekonomische-kennzahlen-meinung-a-7a46c0fd-1449-4cd4-9ee1-ad6e862fd165#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-### amtsgericht
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein](https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein-a-4eb38da9-1d71-47fc-99e1-f52c5300d707#ref=rss)
+* [https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein](https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein-a-af31d068-4703-4599-8c04-008b271b82cd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung](https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss)
 ### hamburg
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten](https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren](https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab](https://www.spiegel.de/panorama/justiz/christina-block-amtsgericht-hamburg-weist-unterhaltsklage-ihrer-kinder-ab-a-5059661a-8cf0-454b-8eda-0b0f4a140ac2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss)
-### fußfessel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an](https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an](https://www.spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-aussenhandel-waechst-kraeftig](https://www.spiegel.de/wirtschaft/unternehmen/chinas-aussenhandel-waechst-kraeftig-a-cb0f9fca-f890-421d-954d-8b91e774123e#ref=rss)
-### außenhandel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-aussenhandel-waechst-kraeftig](https://www.spiegel.de/wirtschaft/unternehmen/chinas-aussenhandel-waechst-kraeftig-a-cb0f9fca-f890-421d-954d-8b91e774123e#ref=rss)
+* [https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten](https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das-a-3eedcfa8-0f86-4879-b714-4bf97f685fe6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023](https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023-a-0b297cf4-ad60-461b-9fe2-eabf3d1f0723#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
 ### papst
 
-* [https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom](https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom-a-5e3eb8b4-c644-4a48-be12-15fa3b5b7e97#ref=rss)
+* [https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen](https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen-a-fbd5ea97-e2d2-421d-bad1-6591da04534d#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig](https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig-a-d5ceec28-b966-47ac-bf1f-9fb7d33dda6d#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy](https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy](https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### zuckersteuer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+* [https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen](https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen-a-fbd5ea97-e2d2-421d-bad1-6591da04534d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023](https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023-a-0b297cf4-ad60-461b-9fe2-eabf3d1f0723#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig](https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig-a-d5ceec28-b966-47ac-bf1f-9fb7d33dda6d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy](https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+* [https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google](https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google-a-1ff90c40-1d5e-4ff2-982b-2746f68ec430#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien](https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien-a-f34e07d0-1f44-4b2c-9960-369654ce5c96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober](https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023](https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023-a-0b297cf4-ad60-461b-9fe2-eabf3d1f0723#ref=rss)
+### mcrib
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+* [https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers](https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers-a-10c05a7f-2ed0-4c93-ae4d-d7f10d8b08c2#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das-a-3eedcfa8-0f86-4879-b714-4bf97f685fe6#ref=rss)
 ### leo
 
-* [https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom](https://www.spiegel.de/gesundheit/diagnose/papst-leo-xiv-was-bedeutet-die-diagnose-adenokarzinom-a-5e3eb8b4-c644-4a48-be12-15fa3b5b7e97#ref=rss)
-### katie
+* [https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen](https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen-a-fbd5ea97-e2d2-421d-bad1-6591da04534d#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig](https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig-a-d5ceec28-b966-47ac-bf1f-9fb7d33dda6d#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia](https://www.spiegel.de/ausland/donald-trump-wer-ist-seine-neue-pressesprecherin-katie-zacharia-a-dcb9f010-eea2-4d04-88ce-f755ed6514c2#ref=rss)
-### kompany
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte](https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte-a-e0311f8e-b04f-4b6f-88ed-c2e3a6df9f5c#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt](https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt-a-0419190a-58d1-489f-a57c-e32ddeda77db#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien](https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien-a-d88a6f8d-7587-48dd-9d81-c828a256e76a#ref=rss)
+### valentina
+
+* [https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter](https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss)
+### cavallar
+
+* [https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter](https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter](https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss)
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-preise-steigen-im-september-um-3-7-prozent](https://www.spiegel.de/ausland/inflation-in-den-usa-preise-steigen-im-september-um-3-7-prozent-a-c35996d7-2cf5-4426-90de-177a5d164580#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter](https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter](https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss)
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten](https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss)
+### bald
+
+* [https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten](https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### dagi
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+### bee
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+### influencerin
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+### aktionen
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+* [https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google](https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google-a-1ff90c40-1d5e-4ff2-982b-2746f68ec430#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen](https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung](https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss)
+### sondierungen
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren](https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene](https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein](https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein-a-4eb38da9-1d71-47fc-99e1-f52c5300d707#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober](https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### sache
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### partei
+
+* [https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren](https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren](https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein](https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein-a-af31d068-4703-4599-8c04-008b271b82cd#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren](https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das-a-3eedcfa8-0f86-4879-b714-4bf97f685fe6#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy](https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### sitzung
+
+* [https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy](https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+### drei
+
+* [https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben](https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben-a-e86cc468-b0ca-46ce-a2fe-1cb82713ae2f#ref=rss)
+### teenager
+
+* [https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben](https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben-a-e86cc468-b0ca-46ce-a2fe-1cb82713ae2f#ref=rss)
+### wir
+
+* [https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben](https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben-a-e86cc468-b0ca-46ce-a2fe-1cb82713ae2f#ref=rss)
+### sally
+
+* [https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien](https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien-a-f34e07d0-1f44-4b2c-9960-369654ce5c96#ref=rss)
+### rooney
+
+* [https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien](https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien-a-f34e07d0-1f44-4b2c-9960-369654ce5c96#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober](https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss)
+### warnungen
+
+* [https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober](https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober](https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss)
 ### olise
 
-* [https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt](https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt-a-0419190a-58d1-489f-a57c-e32ddeda77db#ref=rss)
-### kramer
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+### cola
 
-* [https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt](https://www.spiegel.de/sport/fussball/champions-league-kompany-nennt-platzverweis-fuer-olise-ueberbloed-kramer-hat-die-aktion-gefuehlt-a-0419190a-58d1-489f-a57c-e32ddeda77db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise](https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+### erste
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-lief-die-erste-sitzung-im-afd-gefuehrten-landtag-in-magdeburg-a-84b072bd-b5b3-4589-be88-2e56347ce03b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein](https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein-a-af31d068-4703-4599-8c04-008b271b82cd#ref=rss)
+### bahnhöfen
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das-a-3eedcfa8-0f86-4879-b714-4bf97f685fe6#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-an-bahnhoefen-gilt-jetzt-bundesweit-ein-alkoholverbot-was-bedeutet-das-a-3eedcfa8-0f86-4879-b714-4bf97f685fe6#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen](https://www.spiegel.de/gesundheit/papst-leo-xiv-hat-krebs-dass-der-papst-operiert-worden-ist-ist-ein-gutes-zeichen-a-fbd5ea97-e2d2-421d-bad1-6591da04534d#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google](https://www.spiegel.de/panorama/bielefeld-apothekerin-laedt-afd-waehler-aus-und-kassiert-negative-bewertungen-auf-google-a-1ff90c40-1d5e-4ff2-982b-2746f68ec430#ref=rss)
+### grabstein
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein](https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein-a-4eb38da9-1d71-47fc-99e1-f52c5300d707#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein](https://www.spiegel.de/panorama/justiz/dortmund-verbindungen-zur-nazizeit-polizei-untersagt-runen-auf-grabstein-a-4eb38da9-1d71-47fc-99e1-f52c5300d707#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026](https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026-a-0814748d-9def-4e0c-a28e-59fca5656791#ref=rss)
+### anne
+
+* [https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein](https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein-a-af31d068-4703-4599-8c04-008b271b82cd#ref=rss)
+### kunze
+
+* [https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein](https://www.spiegel.de/wirtschaft/block-prozess-zeit-autorin-anne-kunze-klara-hat-gesagt-sie-wolle-teil-des-podcasts-sein-a-af31d068-4703-4599-8c04-008b271b82cd#ref=rss)
+### preise
+
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-preise-steigen-im-september-um-3-7-prozent](https://www.spiegel.de/ausland/inflation-in-den-usa-preise-steigen-im-september-um-3-7-prozent-a-c35996d7-2cf5-4426-90de-177a5d164580#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+### wildlife
+
+* [https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026](https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026-a-0814748d-9def-4e0c-a28e-59fca5656791#ref=rss)
+### photographer
+
+* [https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026](https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026-a-0814748d-9def-4e0c-a28e-59fca5656791#ref=rss)
+### tierfotos
+
+* [https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026](https://www.spiegel.de/wissenschaft/natur/wildlife-photographer-of-the-year-die-besten-tierfotos-des-jahres-2026-a-0814748d-9def-4e0c-a28e-59fca5656791#ref=rss)
+### meter
+
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023](https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023-a-0b297cf4-ad60-461b-9fe2-eabf3d1f0723#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023](https://www.spiegel.de/wissenschaft/natur/frankreich-mont-blanc-ist-1-88-meter-hoeher-als-2023-a-0b297cf4-ad60-461b-9fe2-eabf3d1f0723#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### getränke
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten](https://www.spiegel.de/wirtschaft/service/zuckersteuer-so-viel-mehr-koennten-getraenke-kuenftig-kosten-a-5933868e-cee3-4962-b875-2b63af2a97cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne](https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne-a-a9312649-3074-4187-9ff4-d0707e25697c#ref=rss)
+### sexueller
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne](https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne-a-a9312649-3074-4187-9ff4-d0707e25697c#ref=rss)
+### übergriffe
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne](https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne-a-a9312649-3074-4187-9ff4-d0707e25697c#ref=rss)
+### sachsenanhaltkaserne
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne](https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne-a-a9312649-3074-4187-9ff4-d0707e25697c#ref=rss)
+### prozessauftakt
+
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+### koordiniert
+
+* [https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben](https://www.spiegel.de/panorama/nord-stream-prozessauftakt-in-hamburg-ex-offizier-soll-anschlag-koordiniert-haben-a-b36f76a5-e09f-4eb2-b486-1b73049f1284#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte](https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte-a-e0311f8e-b04f-4b6f-88ed-c2e3a6df9f5c#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte](https://www.spiegel.de/wirtschaft/service/katherina-reiche-plant-gruengasquote-nur-fuer-private-haushalte-a-e0311f8e-b04f-4b6f-88ed-c2e3a6df9f5c#ref=rss)
+### kryptogewinne
+
+* [https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden](https://www.spiegel.de/wirtschaft/kryptogewinne-steuerfreiheit-soll-laut-gesetzentwurf-2027-enden-a-9739a6a6-8134-4639-9370-78a373894a9f#ref=rss)
+### katie
+
+* [https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin](https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin-a-00fac33f-345b-4f7d-b0d3-fce5fcc38d28#ref=rss)
+### zacharia
+
+* [https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin](https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin-a-00fac33f-345b-4f7d-b0d3-fce5fcc38d28#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin](https://www.spiegel.de/ausland/katie-zacharia-holpriger-auftritt-von-trumps-neuer-pressesprecherin-a-00fac33f-345b-4f7d-b0d3-fce5fcc38d28#ref=rss)
+* [https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers](https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers-a-10c05a7f-2ed0-4c93-ae4d-d7f10d8b08c2#ref=rss)
+### verteidigung
+
+* [https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers](https://www.spiegel.de/kultur/mcrib-von-mcdonalds-verteidigung-eines-verpoenten-fast-food-klassikers-a-10c05a7f-2ed0-4c93-ae4d-d7f10d8b08c2#ref=rss)
+### arztbesuch
+
+* [https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung](https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung](https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung](https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien](https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien-a-d88a6f8d-7587-48dd-9d81-c828a256e76a#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien](https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien-a-d88a6f8d-7587-48dd-9d81-c828a256e76a#ref=rss)
 
