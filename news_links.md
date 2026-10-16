@@ -4,302 +4,382 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### plant
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste](https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste-a-e14dc76a-5ccc-41dd-8eba-1b059d34f82a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation-a-67700d8c-516b-4772-954d-6b5d950398e0#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9](https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9-a-c0d32d1b-372a-43b3-8494-ca305b6914a0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei](https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei-a-b002c291-5be3-4921-abc0-c3c6ea34c180#ref=rss)
-* [https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger](https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption](https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption-a-c90a090f-2f91-49ba-8f3c-80866999205a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation-a-67700d8c-516b-4772-954d-6b5d950398e0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu](https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu-a-68051341-acf9-4cf3-953d-00582620e9a1#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden](https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden-a-4bf67846-d9d8-41d4-a469-799845f4dae2#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro](https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen](https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen-a-f58b5a59-5787-4f14-a6dc-d71b00262abe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei](https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei-a-b002c291-5be3-4921-abc0-c3c6ea34c180#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut-a-c57fda03-e2d0-4d35-9d13-9f03de80e3b9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste](https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste-a-e14dc76a-5ccc-41dd-8eba-1b059d34f82a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden](https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden-a-4bf67846-d9d8-41d4-a469-799845f4dae2#ref=rss)
-* [https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen](https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss)
-### harald
-
-* [https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ](https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu](https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu-a-68051341-acf9-4cf3-953d-00582620e9a1#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
-### roadster
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
-### video
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
-### sportwagen
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-### warten
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption](https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption-a-c90a090f-2f91-49ba-8f3c-80866999205a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder](https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder-a-b1cece4c-8ea9-4619-8bda-12293d64578e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut-a-c57fda03-e2d0-4d35-9d13-9f03de80e3b9#ref=rss)
-* [https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger](https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder](https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder-a-b1cece4c-8ea9-4619-8bda-12293d64578e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden](https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden-a-0e9f4822-c79e-45ba-bc75-7fcbe8623361#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut-a-c57fda03-e2d0-4d35-9d13-9f03de80e3b9#ref=rss)
-### laut
-
-* [https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption](https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption-a-c90a090f-2f91-49ba-8f3c-80866999205a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation-a-67700d8c-516b-4772-954d-6b5d950398e0#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls](https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls-a-2ff2fc92-27bf-4add-82b7-f1eb5370cae6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kanaren-warum-auf-la-palma-nun-diese-vier-riesenspiegel-stehen](https://www.spiegel.de/wissenschaft/technik/kanaren-warum-auf-la-palma-nun-diese-vier-riesenspiegel-stehen-a-4a5a4e07-3552-40f5-a042-1753eebb348f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert-a-776839bc-7a91-4c87-820d-b08d2f93ee4f#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63](https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
-* [https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger](https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden](https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden-a-4bf67846-d9d8-41d4-a469-799845f4dae2#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb](https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen](https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss)
-### angelika
-
-* [https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder](https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder-a-b1cece4c-8ea9-4619-8bda-12293d64578e#ref=rss)
-### niebler
-
-* [https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder](https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder-a-b1cece4c-8ea9-4619-8bda-12293d64578e#ref=rss)
-### führungsposten
-
-* [https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder](https://www.spiegel.de/politik/deutschland/angelika-niebler-csu-vize-legt-fuehrungsposten-im-eu-parlament-nieder-a-b1cece4c-8ea9-4619-8bda-12293d64578e#ref=rss)
-### japan
-
-* [https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9](https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9-a-c0d32d1b-372a-43b3-8494-ca305b6914a0#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9](https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9-a-c0d32d1b-372a-43b3-8494-ca305b6914a0#ref=rss)
-### stärke
-
-* [https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9](https://www.spiegel.de/panorama/japan-behoerde-warnt-irrtuemlich-vor-erdbeben-der-staerke-9-9-a-c0d32d1b-372a-43b3-8494-ca305b6914a0#ref=rss)
-### flammengeküsst
-
-* [https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption](https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption-a-c90a090f-2f91-49ba-8f3c-80866999205a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption](https://www.spiegel.de/kultur/tv/flammengekuesst-emilio-sakraya-bekommt-offenbar-hauptrolle-in-romantasy-adaption-a-c90a090f-2f91-49ba-8f3c-80866999205a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl](https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl-a-489797ef-f247-4b1d-bc47-063fa33bd3aa#ref=rss)
-### rosenheimcops
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-### duda
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-### gert
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-### achtziger
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-### rente
-
-* [https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente](https://www.spiegel.de/kultur/tv/rosenheim-cops-alexander-duda-hoert-auf-gert-achtziger-geht-in-rente-a-7ca3db90-d3d3-4640-8fd5-631b7330f0c9#ref=rss)
-* [https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63](https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls](https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls-a-2ff2fc92-27bf-4add-82b7-f1eb5370cae6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls](https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls-a-2ff2fc92-27bf-4add-82b7-f1eb5370cae6#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls](https://www.spiegel.de/ausland/usa-us-senatsausschuss-draengt-parteiuebergreifend-auf-untersuchung-des-starshield-vorfalls-a-2ff2fc92-27bf-4add-82b7-f1eb5370cae6#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-### mission
-
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-### s
-
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro](https://www.spiegel.de/mobilitaet/auto/mission-s-porsche-plant-neuen-sportwagen-fuer-500-000-euro-a-79e03694-8c74-49db-a85a-bfe85e483d4a#ref=rss)
-### prüfer
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-laesst-erste-pruefer-ins-unternehmen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-anthropic-laesst-erste-pruefer-ins-unternehmen-a-808a96ee-958b-44b6-bee1-7f99ac5ec0c7#ref=rss)
-### ben
-
-* [https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei](https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei-a-b002c291-5be3-4921-abc0-c3c6ea34c180#ref=rss)
-### affleck
-
-* [https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei](https://www.spiegel.de/kultur/kino/ben-affleck-warnt-nach-digger-misserfolg-vor-noch-mehr-hollywoodeinheitsbrei-a-b002c291-5be3-4921-abc0-c3c6ea34c180#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-### später
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-### bangkok
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-spaeter-iwf-start-in-bangkok-und-neue-konflikte-mit-den-usa-a-cb4f3a1d-f3da-4348-8e64-80d20e3b45fc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert-a-776839bc-7a91-4c87-820d-b08d2f93ee4f#ref=rss)
-### frühstartrente
-
-* [https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden](https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden-a-4bf67846-d9d8-41d4-a469-799845f4dae2#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden](https://www.spiegel.de/wirtschaft/soziales/fruehstartrente-so-soll-aus-10-euro-im-monat-eine-rente-von-50-000-euro-werden-a-4bf67846-d9d8-41d4-a469-799845f4dae2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste](https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste-a-e14dc76a-5ccc-41dd-8eba-1b059d34f82a#ref=rss)
-### unobiodiversitätskonferenz
-
-* [https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden](https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden-a-0e9f4822-c79e-45ba-bc75-7fcbe8623361#ref=rss)
-### cop17
-
-* [https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden](https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-cop17-was-dem-klima-hilft-darf-der-natur-nicht-schaden-a-0e9f4822-c79e-45ba-bc75-7fcbe8623361#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63](https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-### abschaffung
-
-* [https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63](https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63](https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss)
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
-### mannheim
-
-* [https://www.spiegel.de/sport/fussball/waldhof-mannheim-gegen-kaiserslautern-dfb-gericht-verhaengt-strafe-nach-pokal-randale](https://www.spiegel.de/sport/fussball/waldhof-mannheim-gegen-kaiserslautern-dfb-gericht-verhaengt-strafe-nach-pokal-randale-a-0f937967-9ac6-45da-962a-1eacb71896f8#ref=rss)
-### kaiserslautern
-
-* [https://www.spiegel.de/sport/fussball/waldhof-mannheim-gegen-kaiserslautern-dfb-gericht-verhaengt-strafe-nach-pokal-randale](https://www.spiegel.de/sport/fussball/waldhof-mannheim-gegen-kaiserslautern-dfb-gericht-verhaengt-strafe-nach-pokal-randale-a-0f937967-9ac6-45da-962a-1eacb71896f8#ref=rss)
+* [https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger](https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+* [https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord](https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord-a-347b8b5e-7bcf-47c6-9aba-cad5220d6cf6#ref=rss)
 ### vanessa
 
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
 ### emde
 
-* [https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson](https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-ukraine-im-zangengriff-russland-profitiert-a-776839bc-7a91-4c87-820d-b08d2f93ee4f#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-### einpunktgraseulen
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen](https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss)
+### afdpolitiker
 
-* [https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl](https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl-a-489797ef-f247-4b1d-bc47-063fa33bd3aa#ref=rss)
-### raupen
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### papst
 
-* [https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl](https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl-a-489797ef-f247-4b1d-bc47-063fa33bd3aa#ref=rss)
-### betroffene
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt](https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### leo
 
-* [https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl](https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl-a-489797ef-f247-4b1d-bc47-063fa33bd3aa#ref=rss)
-* [https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger](https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt](https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl](https://www.spiegel.de/wissenschaft/natur/einpunkt-graseulen-in-der-schweiz-raupen-fressen-50-hektar-kahl-a-489797ef-f247-4b1d-bc47-063fa33bd3aa#ref=rss)
-* [https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen](https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss)
-### wohnungen
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt](https://www.spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-wladimir-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut-a-c57fda03-e2d0-4d35-9d13-9f03de80e3b9#ref=rss)
-### steigen
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus](https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus-a-76fdfbac-c484-4c2d-9640-6011f631e590#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-erneut-a-c57fda03-e2d0-4d35-9d13-9f03de80e3b9#ref=rss)
-### haus
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-### kam
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze](https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-* [https://www.spiegel.de/panorama/friesoythe-230-schweine-sterben-bei-stallbrand-in-niedersachsen](https://www.spiegel.de/panorama/friesoythe-230-schweine-sterben-bei-stallbrand-in-niedersachsen-a-ae9da867-ab0a-4064-8352-d50a922a93d8#ref=rss)
-### weißen
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben](https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss)
-* [https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen](https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss)
-### weltrangliste
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall](https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall-a-5c2d49d8-8ff3-4098-9e67-2cbc21be5ed8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste](https://www.spiegel.de/sport/tennis/tennis-topstars-klagen-ueber-belastung-atp-plant-reform-von-weltrangliste-a-e14dc76a-5ccc-41dd-8eba-1b059d34f82a#ref=rss)
-### cloppenburg
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+* [https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen](https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen-a-d2c45335-e976-4f1a-82dd-62033d0ae6eb#ref=rss)
+### eurowings
 
-* [https://www.spiegel.de/panorama/friesoythe-230-schweine-sterben-bei-stallbrand-in-niedersachsen](https://www.spiegel.de/panorama/friesoythe-230-schweine-sterben-bei-stallbrand-in-niedersachsen-a-ae9da867-ab0a-4064-8352-d50a922a93d8#ref=rss)
-### einschnitten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### flüge
 
-* [https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger](https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss)
-### commerzbank
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden](https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### prüft
 
-* [https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ](https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss)
-### aufsichtsrat
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### kurzarbeit
 
-* [https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ](https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss)
-### christ
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### sido
 
-* [https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ](https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss)
-### bekannt
+* [https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro](https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss)
+### harald
 
-* [https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ](https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu](https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu-a-68051341-acf9-4cf3-953d-00582620e9a1#ref=rss)
-### nvidia
+* [https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro](https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss)
+### juhnke
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation-a-67700d8c-516b-4772-954d-6b5d950398e0#ref=rss)
-### glööckler
+* [https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro](https://www.spiegel.de/panorama/leute/sido-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu](https://www.spiegel.de/panorama/leute/harald-gloeoeckler-modeschoepfer-haelt-sich-fuer-eigentlich-sehr-scheu-a-68051341-acf9-4cf3-953d-00582620e9a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen](https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen-a-f58b5a59-5787-4f14-a6dc-d71b00262abe#ref=rss)
+* [https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben](https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben-a-61e1b233-f644-40b8-8cb3-3feb6fcd7a17#ref=rss)
+### sprecherin
+
+* [https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken](https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss)
 ### katie
 
-* [https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen](https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken](https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss)
 ### zacharia
 
-* [https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen](https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken](https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss)
+### bald
+
+* [https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken](https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+### antreten
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet](https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet](https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger](https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss)
+### jefferson
+
+* [https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger](https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss)
+### 30
+
+* [https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger](https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss)
+* [https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus](https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus-a-76fdfbac-c484-4c2d-9640-6011f631e590#ref=rss)
+### irmgard
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### keun
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### tobias
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### lehmkuhl
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### rekonstruiert
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben](https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet](https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet](https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### zypern
+
+* [https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt](https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss)
+### stürzt
+
+* [https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt](https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss)
+### fenster
+
+* [https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt](https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt](https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt](https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+### eugipfel
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia](https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia-a-ca704779-96da-49eb-a1a0-f60522299b2f#ref=rss)
+### europäer
+
+* [https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### martin
+
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### reichardt
+
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### ordnungsgeld
+
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen](https://www.spiegel.de/politik/deutschland/martin-reichardt-ruege-wegen-klitoris-aeusserung-afd-politiker-muss-ordnungsgeld-zahlen-a-e9f1059b-a706-4a51-b8c1-5505990aff85#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+### video
+
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei](https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss)
+* [https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden](https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss)
+### wd
+
+* [https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall](https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall-a-5c2d49d8-8ff3-4098-9e67-2cbc21be5ed8#ref=rss)
+### j1330+6435
+
+* [https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall](https://www.spiegel.de/wissenschaft/weltall/wd-j1330-6435-forscher-finden-gruenen-zwerg-im-weltall-a-5c2d49d8-8ff3-4098-9e67-2cbc21be5ed8#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde](https://www.spiegel.de/politik/deutschland/berlin-linke-geht-auf-distanz-zu-vanessa-emde-a-14146958-ccdf-4654-bfa0-676f4c582840#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze](https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss)
+### polen
+
+* [https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia](https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia-a-ca704779-96da-49eb-a1a0-f60522299b2f#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia](https://www.spiegel.de/panorama/polen-anschlag-auf-starlink-terminal-behoerden-pruefen-spur-zur-tuerkischen-mafia-a-ca704779-96da-49eb-a1a0-f60522299b2f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden](https://www.spiegel.de/ausland/europaeische-union-wolodymyr-selenskyj-wirbt-bei-gipfeltreffen-um-weitere-eu-milliarden-a-2eea626e-1513-4508-a675-afd119d3e5d4#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wartezeiten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden](https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
+### streicht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz](https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+### roadster
+
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+### elon
+
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+### 20
+
+* [https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich](https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss)
+### erfolgreichen
+
+* [https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen](https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss)
+* [https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen](https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen-a-d2c45335-e976-4f1a-82dd-62033d0ae6eb#ref=rss)
+### serien
+
+* [https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen](https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen](https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze](https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss)
+### lars
+
+* [https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze](https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss)
+### boettger
+
+* [https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze](https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### vatikan
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### fotos
+
+* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation](https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss)
+### daphne
+
+* [https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord](https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord-a-347b8b5e-7bcf-47c6-9aba-cad5220d6cf6#ref=rss)
+### caruana
+
+* [https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord](https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord-a-347b8b5e-7bcf-47c6-9aba-cad5220d6cf6#ref=rss)
+### galizia
+
+* [https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord](https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord-a-347b8b5e-7bcf-47c6-9aba-cad5220d6cf6#ref=rss)
+### fontaines
+
+* [https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen](https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen-a-d2c45335-e976-4f1a-82dd-62033d0ae6eb#ref=rss)
+### dc
+
+* [https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen](https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen-a-d2c45335-e976-4f1a-82dd-62033d0ae6eb#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden](https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss)
+### flugverkehr
+
+* [https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden](https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss)
+### ferat
+
+* [https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben](https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben-a-61e1b233-f644-40b8-8cb3-3feb6fcd7a17#ref=rss)
+### koçak
+
+* [https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben](https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben-a-61e1b233-f644-40b8-8cb3-3feb6fcd7a17#ref=rss)
+### rammo
+
+* [https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben](https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben-a-61e1b233-f644-40b8-8cb3-3feb6fcd7a17#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus](https://www.spiegel.de/panorama/hirschaid-bei-bamberg-mehr-als-30-schueler-retten-sich-aus-brennendem-bus-a-76fdfbac-c484-4c2d-9640-6011f631e590#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### lufthansatochter
+
+* [https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter](https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
+### bernd
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
+### reichart
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
+### manager
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien](https://www.spiegel.de/sport/fussball/real-madrid-super-league-lobbyist-bernd-reichart-wird-manager-beim-club-in-spanien-a-ef7c661d-23cd-4849-bd40-77378a944e3f#ref=rss)
 
