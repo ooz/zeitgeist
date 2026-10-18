@@ -4,361 +4,343 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### land
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen](https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss)
-### woche
-
-* [https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche-a-daf272f6-290c-445f-b73c-41983ea6f3fd#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche](https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten](https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten-a-50b92679-8c95-4f04-aa8c-c9750e141c89#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lungenkrebs-operation-papst-leo-xiv-soll-nach-rueckkehr-in-den-vatikan-nach-suedamerika-reisen](https://www.spiegel.de/panorama/leute/lungenkrebs-operation-papst-leo-xiv-soll-nach-rueckkehr-in-den-vatikan-nach-suedamerika-reisen-a-6c52e604-d93f-4820-837c-97cdb546e215#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten](https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten-a-50b92679-8c95-4f04-aa8c-c9750e141c89#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-### ganzen
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen](https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff](https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff-a-59308fec-9a9a-4209-bcb0-1edaff28eeb1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### leipzig/halle
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen](https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen-a-8ecb2b7f-5f4a-4611-9499-a93408aef2ba#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-* [https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin](https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin-a-a8e25c3c-8918-4f06-985e-45da1eb72cfc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche](https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-* [https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin](https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin-a-a8e25c3c-8918-4f06-985e-45da1eb72cfc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss)
-* [https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen](https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss)
-### ich
-
-* [https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab](https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab-a-33599902-61b4-4a7d-aee8-d2c4eb8662e5#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden](https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche](https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss)
-### städten
-
-* [https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten](https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten-a-50b92679-8c95-4f04-aa8c-c9750e141c89#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten](https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten-a-50b92679-8c95-4f04-aa8c-c9750e141c89#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-### marine
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-### le
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-### pen
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-### profitieren
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-### wenige
-
-* [https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren](https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung-a-55ff5e32-d3f5-489b-b251-a2e925840bce#ref=rss)
-### flunkerei
-
-* [https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen](https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss)
-### früh
-
-* [https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen](https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss)
-### erkennen
-
-* [https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen](https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen](https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss)
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen](https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss)
-* [https://www.spiegel.de/ausland/kindergarten-in-china-lebenslange-haft-nach-bleivergiftungen](https://www.spiegel.de/ausland/kindergarten-in-china-lebenslange-haft-nach-bleivergiftungen-a-f8feb0ba-f69d-4737-b056-4cf3b8698292#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben](https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss)
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen](https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff](https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff-a-59308fec-9a9a-4209-bcb0-1edaff28eeb1#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff](https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff-a-59308fec-9a9a-4209-bcb0-1edaff28eeb1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche-a-daf272f6-290c-445f-b73c-41983ea6f3fd#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche-a-daf272f6-290c-445f-b73c-41983ea6f3fd#ref=rss)
-### helene
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### fischer
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ](https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss)
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung-a-55ff5e32-d3f5-489b-b251-a2e925840bce#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### zaun
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen](https://www.spiegel.de/panorama/justiz/leipzig-flughafen-aeussert-sich-zu-sicherheitsvorgaben-polizei-ermittelt-in-alle-richtungen-a-fff247f6-b935-41ce-82f7-b349f1c4d1a8#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss)
-### limoges
-
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-### einstürzt
-
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland](https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss)
 ### gewalt
 
-* [https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt](https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-### emiliano
+* [https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar](https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-feinden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-feinden-im-schnellcheck-a-b5992628-ca6b-4994-9cad-44db1f1f9b89#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert](https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert-a-cf9797d7-1e58-4234-9be5-6f37b74f527b#ref=rss)
-### martínez
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### eu
 
-* [https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert](https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert-a-cf9797d7-1e58-4234-9be5-6f37b74f527b#ref=rss)
-### zusammenprall
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### markus
 
-* [https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert](https://www.spiegel.de/sport/fussball/emiliano-martinez-chelsea-torwart-nach-zusammenprall-erfolgreich-operiert-a-cf9797d7-1e58-4234-9be5-6f37b74f527b#ref=rss)
-### jill
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### league
 
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### lepore
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### bund
 
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### künstliche
+* [https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv-a-55096f92-1edf-4a6a-b68b-eb57e6d01f63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### intelligenz
+* [https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen](https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss)
-### openai
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### andere
 
-* [https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen](https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen-a-8ecb2b7f-5f4a-4611-9499-a93408aef2ba#ref=rss)
-### anthropic
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse](https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse-a-4388bda5-9247-4114-a45f-3724da80aeb9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### gut
 
-* [https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen](https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen-a-8ecb2b7f-5f4a-4611-9499-a93408aef2ba#ref=rss)
-### offensive
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse](https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse-a-4388bda5-9247-4114-a45f-3724da80aeb9#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen](https://www.spiegel.de/netzwelt/openai-und-anthropic-ki-anbieter-verstaerken-offensive-bei-deutschen-firmen-a-8ecb2b7f-5f4a-4611-9499-a93408aef2ba#ref=rss)
-### sankt
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+### ukrainische
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-### petersburg
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+* [https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen](https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss)
+* [https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur](https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+* [https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen](https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### personen
+* [https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen](https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland](https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter](https://www.spiegel.de/ausland/sankt-petersburg-russland-meldet-massiven-drohnenangriff-offenbar-ein-toter-a-9a5f0174-e099-4f1f-93f7-3739050c0d61#ref=rss)
-* [https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt](https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss)
-### thomas
+* [https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar](https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+### militärbasis
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben](https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss)
+### leben
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### klaus
+* [https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben](https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+### mönchengladbach
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss)
+### hoffenheim
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### julian
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### fiebach
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-### trump
+* [https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung](https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-feinden-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-feinden-im-schnellcheck-a-b5992628-ca6b-4994-9cad-44db1f1f9b89#ref=rss)
+### ecuador
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-1e2abae2-32dd-45c5-90b3-5a067e42c777#ref=rss)
-* [https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen](https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen](https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss)
+### priester
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung-a-55ff5e32-d3f5-489b-b251-a2e925840bce#ref=rss)
-### harry
+* [https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen](https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss)
+### messe
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung-a-55ff5e32-d3f5-489b-b251-a2e925840bce#ref=rss)
-### kane
+* [https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen](https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss)
+### europa
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-ploetzlich-spielen-harry-kane-und-joshua-kimmich-in-der-innenverteidigung-a-55ff5e32-d3f5-489b-b251-a2e925840bce#ref=rss)
-### lilli
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht](https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht-a-f19d5e46-18f9-425f-8b3c-cfe6186c9792#ref=rss)
-### hollunder
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+### sportchef
 
-* [https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht](https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht-a-f19d5e46-18f9-425f-8b3c-cfe6186c9792#ref=rss)
-### ganz
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+### krösche
 
-* [https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht](https://www.spiegel.de/panorama/leute/lilli-hollunder-erfuellt-sich-kindheitstraum-und-nimmt-schwimmunterricht-a-f19d5e46-18f9-425f-8b3c-cfe6186c9792#ref=rss)
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-### cornell
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-### university
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-### männer
-
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen](https://www.spiegel.de/wissenschaft/cornell-university-warum-sich-die-frauen-mit-jane-doe-solidarisieren-und-die-maenner-schweigen-a-f26fab23-4814-4f8f-b255-2e3217f3a3cd#ref=rss)
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche](https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss)
-* [https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen](https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss)
-### mich
-
-* [https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab](https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab-a-33599902-61b4-4a7d-aee8-d2c4eb8662e5#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-### falschen
-
-* [https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab](https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab-a-33599902-61b4-4a7d-aee8-d2c4eb8662e5#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-### phobos
-
-* [https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond](https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss)
-### europäischjapanische
-
-* [https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond](https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss)
-### mission
-
-* [https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond](https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss)
-### marsmond
-
-* [https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond](https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond](https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss)
-* [https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen](https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss)
-### kostenlose
-
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-### schwimmen
-
-* [https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element](https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss)
-### bevölkerung
-
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-### ort
-
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim](https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim-a-c645b944-3b07-4b9d-9870-211b80c65761#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert](https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss)
-* [https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin](https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin-a-a8e25c3c-8918-4f06-985e-45da1eb72cfc#ref=rss)
-### armutsbekämpfung
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen](https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss)
+### paris
 
-* [https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden](https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss)
-### gute
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden](https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss)
-### globalen
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana](https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana-a-4bcdd33f-9c4e-434a-b9e1-e5e2f34c8680#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden](https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss)
-### guten
+* [https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+### unterwegs
 
-* [https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche](https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss)
+* [https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv](https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv-a-55096f92-1edf-4a6a-b68b-eb57e6d01f63#ref=rss)
+* [https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur](https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b#ref=rss)
+### annett
+
+* [https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana](https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana-a-4bcdd33f-9c4e-434a-b9e1-e5e2f34c8680#ref=rss)
+### kaufmann
+
+* [https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana](https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana-a-4bcdd33f-9c4e-434a-b9e1-e5e2f34c8680#ref=rss)
+### ljubljana
+
+* [https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana](https://www.spiegel.de/sport/tischtennis-annett-kaufmann-wird-vize-europameisterin-in-ljubljana-a-4bcdd33f-9c4e-434a-b9e1-e5e2f34c8680#ref=rss)
+### mahnmal
+
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+### gleis
+
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+### 17
+
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+### wegner
+
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus](https://www.spiegel.de/politik/deutschland/mahnmal-gleis-17-kai-wegner-und-ron-prosor-gedenken-juedischen-opfern-im-nationalsozialismus-a-19a5ebbc-921d-4c0f-a892-895d4403deef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim](https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim-a-c645b944-3b07-4b9d-9870-211b80c65761#ref=rss)
+### kzgedenkstätten
+
+* [https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck](https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss)
+### rechtsextreme
+
+* [https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck](https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss)
+### vorfälle
+
+* [https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck](https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss)
+### häufen
+
+* [https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck](https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss)
+### ravensbrück
+
+* [https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck](https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-verliert-in-leverkusen-fc-bayern-neuer-spitzenreiter-a-32d9220e-e927-4cc5-8fe4-fd5fa2360f9a#ref=rss)
+### premier
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### brighton
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### hove
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### albion
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### zweiter
+
+* [https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter](https://www.spiegel.de/sport/fussball/premier-league-brighton-hove-albion-trifft-von-der-mittellinie-fabian-huerzelers-team-nun-zweiter-a-ff24028a-7d4c-4aab-8efc-b312b75c2950#ref=rss)
+### keltengrab
+
+* [https://www.spiegel.de/wissenschaft/keltengrab-in-baden-wuerttemberg-illegale-schatzsucher-in-der-riedlinger-totenkammer](https://www.spiegel.de/wissenschaft/keltengrab-in-baden-wuerttemberg-illegale-schatzsucher-in-der-riedlinger-totenkammer-a-711ff2a1-cd51-4bd3-b323-714da1248bfe#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/wissenschaft/keltengrab-in-baden-wuerttemberg-illegale-schatzsucher-in-der-riedlinger-totenkammer](https://www.spiegel.de/wissenschaft/keltengrab-in-baden-wuerttemberg-illegale-schatzsucher-in-der-riedlinger-totenkammer-a-711ff2a1-cd51-4bd3-b323-714da1248bfe#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+* [https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse](https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse-a-4388bda5-9247-4114-a45f-3724da80aeb9#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird](https://www.spiegel.de/ausland/suedkorea-hilfe-fuer-kinder-aus-nordkorea-warum-eine-schule-fuer-gefluechtete-angefeindet-wird-a-ba1c25d0-2b75-4a20-97b1-d77ea8a79002#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+### angaben
+
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+### zugleich
+
+* [https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen](https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland](https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### konsequenzen
+
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### siedler
+
+* [https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi](https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss)
+### repaircafé
+
+* [https://www.spiegel.de/panorama/gesellschaft/repaircafe-eberswalde-reparatur-als-gluecksmoment-wie-wenn-ein-dicker-fisch-anbeisst](https://www.spiegel.de/panorama/gesellschaft/repaircafe-eberswalde-reparatur-als-gluecksmoment-wie-wenn-ein-dicker-fisch-anbeisst-a-e8157a75-f8df-475c-b635-a42c9e9ede4a#ref=rss)
+### eberswalde
+
+* [https://www.spiegel.de/panorama/gesellschaft/repaircafe-eberswalde-reparatur-als-gluecksmoment-wie-wenn-ein-dicker-fisch-anbeisst](https://www.spiegel.de/panorama/gesellschaft/repaircafe-eberswalde-reparatur-als-gluecksmoment-wie-wenn-ein-dicker-fisch-anbeisst-a-e8157a75-f8df-475c-b635-a42c9e9ede4a#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund](https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### finnland
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### vergewaltigung
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### bezirksliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga](https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss)
+### brände
+
+* [https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen](https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland](https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss)
+### energieminister
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland](https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+### chinesische
+
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen](https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss)
+### schiffe
+
+* [https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck](https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss)
+### seniorenheim
+
+* [https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim](https://www.spiegel.de/panorama/justiz/olfen-im-muensterland-haftbefehl-nach-messerattacke-in-seniorenheim-a-c645b944-3b07-4b9d-9870-211b80c65761#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur](https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss)
+### sammeln
+
+* [https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur](https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss)
+### beweise
+
+* [https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur](https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen](https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen](https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss)
+### junge
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen](https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss)
+### ki
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen](https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen](https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss)
+### solarzellen
+
+* [https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen](https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss)
 
