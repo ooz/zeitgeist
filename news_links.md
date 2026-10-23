@@ -4,295 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht](https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht-a-f2a77bbb-a0e1-464e-8afb-24a850403476#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung](https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/assistierter-suizid-leitlinie-zum-umgang-mit-sterbewuenschen-vorgestellt](https://www.spiegel.de/wissenschaft/medizin/assistierter-suizid-leitlinie-zum-umgang-mit-sterbewuenschen-vorgestellt-a-9ab7c570-805e-45a3-b68e-b968cdb17379#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-* [https://www.spiegel.de/ausland/wie-china-offenbar-mit-russlands-hilfe-drohnen-entwickelte-die-aus-raketenwerfern-starten](https://www.spiegel.de/ausland/wie-china-offenbar-mit-russlands-hilfe-drohnen-entwickelte-die-aus-raketenwerfern-starten-a-8e3cb7b5-9091-40d5-8488-28aa37ae5108#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-### spiegelreporter
-
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis](https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-### wann
-
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-### chef
-
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### afdparteitag
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-erfurt-rueckzug-von-widersetzen-sprecher-nach-angriffen-auf-reporter](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-erfurt-rueckzug-von-widersetzen-sprecher-nach-angriffen-auf-reporter-a-a510f8b8-8e5c-4432-91bb-dee4e684e986#ref=rss)
-### erfurt
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-erfurt-rueckzug-von-widersetzen-sprecher-nach-angriffen-auf-reporter](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-erfurt-rueckzug-von-widersetzen-sprecher-nach-angriffen-auf-reporter-a-a510f8b8-8e5c-4432-91bb-dee4e684e986#ref=rss)
-### guido
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss)
-### heuer
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-### fraktion
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss)
-* [https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden](https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden-a-134d6a0f-dadd-4f4e-a000-76a272cf191b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb](https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb-a-7fad10b8-b6fb-4d07-87b9-57e27711ae35#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben](https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben-a-87cf1092-4143-42fe-b4db-4fdefd55d6c0#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang](https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-a-562c8caa-3675-4e63-8672-30e2f108d1b5#ref=rss)
-### steuerschätzung
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel](https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss)
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen](https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen](https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss)
-### steuersenkungen
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen](https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss)
-### finanzminister
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen](https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen](https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-### verein
-
-* [https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht](https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht-a-f2a77bbb-a0e1-464e-8afb-24a850403476#ref=rss)
-### handyverzicht
-
-* [https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht](https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht-a-f2a77bbb-a0e1-464e-8afb-24a850403476#ref=rss)
-### angaben
-
-* [https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht](https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht-a-f2a77bbb-a0e1-464e-8afb-24a850403476#ref=rss)
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### sinzheim
-
-* [https://www.spiegel.de/panorama/a5-bei-sinzheim-gesperrt-weltkriegsbombe-wird-entschaerft](https://www.spiegel.de/panorama/a5-bei-sinzheim-gesperrt-weltkriegsbombe-wird-entschaerft-a-6c78b147-464d-4848-ad1b-8587af4e6795#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy](https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss)
-### vivek
-
-* [https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy](https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss)
-### ramaswamy
-
-* [https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy](https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss)
-### demokratische
-
-* [https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy](https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss)
-* [https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt](https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt-a-7db2d0d6-c7fe-454f-a999-7407a65c3745#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung](https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss)
-### justizbeamte
-
-* [https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung](https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss)
-### rassistischen
-
-* [https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung](https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung](https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss)
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/sport/formel1/being-sebastian-vettel-vom-formel-1-weltmeister-zum-umweltaktivisten-ard-doku](https://www.spiegel.de/sport/formel1/being-sebastian-vettel-vom-formel-1-weltmeister-zum-umweltaktivisten-ard-doku-a-a4b7e97b-c0db-4315-9a43-1fd5ea9944f8#ref=rss)
-### vettel
-
-* [https://www.spiegel.de/sport/formel1/being-sebastian-vettel-vom-formel-1-weltmeister-zum-umweltaktivisten-ard-doku](https://www.spiegel.de/sport/formel1/being-sebastian-vettel-vom-formel-1-weltmeister-zum-umweltaktivisten-ard-doku-a-a4b7e97b-c0db-4315-9a43-1fd5ea9944f8#ref=rss)
-### besucht
-
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis](https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf](https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf-a-9063a2bf-0705-46b9-b3d8-7e74f0820b81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis](https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang](https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-a-562c8caa-3675-4e63-8672-30e2f108d1b5#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb](https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb-a-7fad10b8-b6fb-4d07-87b9-57e27711ae35#ref=rss)
+### wahlen
 
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis](https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss)
-### kurz
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### waren
 
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis](https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf](https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf-a-9063a2bf-0705-46b9-b3d8-7e74f0820b81#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen](https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen-a-572a7a35-f5e2-45b5-8be8-a2fba9963ec8#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden](https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden-a-134d6a0f-dadd-4f4e-a000-76a272cf191b#ref=rss)
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-### vanessa
+* [https://www.spiegel.de/kultur/musik/french-pop-saengerin-angele-hymnen-fuer-den-aktuellen-aufstand](https://www.spiegel.de/kultur/musik/french-pop-saengerin-angele-hymnen-fuer-den-aktuellen-aufstand-a-ea9e690c-5d02-4857-ad69-f832651c03b5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen](https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen-a-572a7a35-f5e2-45b5-8be8-a2fba9963ec8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden](https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden-a-134d6a0f-dadd-4f4e-a000-76a272cf191b#ref=rss)
-### emde
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### weg
 
-* [https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden](https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden-a-134d6a0f-dadd-4f4e-a000-76a272cf191b#ref=rss)
-### deutschlandticket
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein-a-eec1d53e-849d-478c-83e5-a6a07effd754#ref=rss)
-### wenige
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein-a-eec1d53e-849d-478c-83e5-a6a07effd754#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### andere
+* [https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen](https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen-a-572a7a35-f5e2-45b5-8be8-a2fba9963ec8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-der-krise-bei-vw-beginnt-die-naechste-runde-der-sondierungen](https://www.spiegel.de/wirtschaft/volkswagen-in-der-krise-bei-vw-beginnt-die-naechste-runde-der-sondierungen-a-a2c5ac86-cf22-4e60-b756-2ea6eac8ac4c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein](https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-light-ein-ticket-fuer-gelegenheitsnutzer-sollte-nur-der-anfang-sein-a-eec1d53e-849d-478c-83e5-a6a07effd754#ref=rss)
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### suizid
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff](https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### weidel
 
-* [https://www.spiegel.de/wissenschaft/medizin/assistierter-suizid-leitlinie-zum-umgang-mit-sterbewuenschen-vorgestellt](https://www.spiegel.de/wissenschaft/medizin/assistierter-suizid-leitlinie-zum-umgang-mit-sterbewuenschen-vorgestellt-a-9ab7c570-805e-45a3-b68e-b968cdb17379#ref=rss)
-### länderfinanzausgleich
+* [https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel](https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss)
+### partei
 
-* [https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang](https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-a-562c8caa-3675-4e63-8672-30e2f108d1b5#ref=rss)
-### vorschlag
+* [https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel](https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang](https://www.spiegel.de/politik/deutschland/laenderfinanzausgleich-markus-soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-a-562c8caa-3675-4e63-8672-30e2f108d1b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung](https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff](https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben](https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben-a-87cf1092-4143-42fe-b4db-4fdefd55d6c0#ref=rss)
+### männern
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss)
-* [https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft](https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft-a-958b5c65-9917-46c6-99dc-d29aae9a2a5d#ref=rss)
-### usverteidigungsminister
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-### hegseth
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben](https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben-a-87cf1092-4143-42fe-b4db-4fdefd55d6c0#ref=rss)
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### spotify
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-### historischen
+* [https://www.spiegel.de/netzwelt/apps/spotify-so-will-der-streamingdienst-sicherstellen-dass-nur-familien-die-billigen-familienaccounts-nutzen](https://www.spiegel.de/netzwelt/apps/spotify-so-will-der-streamingdienst-sicherstellen-dass-nur-familien-die-billigen-familienaccounts-nutzen-a-57aede76-feab-42c3-9770-6cf5ad29b5da#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-### globus
+* [https://www.spiegel.de/netzwelt/apps/spotify-so-will-der-streamingdienst-sicherstellen-dass-nur-familien-die-billigen-familienaccounts-nutzen](https://www.spiegel.de/netzwelt/apps/spotify-so-will-der-streamingdienst-sicherstellen-dass-nur-familien-die-billigen-familienaccounts-nutzen-a-57aede76-feab-42c3-9770-6cf5ad29b5da#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+### zdfpolitbarometer
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-### deshalb
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten](https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten-a-1e7aa698-7b4f-4b6f-a59d-c7ae60c7a168#ref=rss)
+### umfrage
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-### gut
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten](https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten-a-1e7aa698-7b4f-4b6f-a59d-c7ae60c7a168#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-beschaedigt-historischen-globus-a-56c359eb-d9b7-4069-8fe7-1238f4b97f44#ref=rss)
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### vincent
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### van
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### gogh
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### forschende
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten](https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten-a-1e7aa698-7b4f-4b6f-a59d-c7ae60c7a168#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### himmel
-
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-### winter
-
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde](https://www.spiegel.de/wissenschaft/die-sternennacht-von-vincent-van-gogh-forschende-rekonstruieren-wann-der-himmel-aussah-wie-auf-dem-gemaelde-a-c909971f-11b1-493b-bde4-7d8e4aaa70ed#ref=rss)
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-### delfine
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-### wälder
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges](https://www.spiegel.de/ausland/russland-ukraine-krieg-tote-delfine-tote-waelder-natur-als-opfer-des-krieges-a-9cdb6e66-8391-4ec2-a5c2-d67b9e47ed2c#ref=rss)
-* [https://www.spiegel.de/netzwelt/onlinescam-industrie-auf-der-jagd-nach-millionen-betruegern-podcast-firewall](https://www.spiegel.de/netzwelt/onlinescam-industrie-auf-der-jagd-nach-millionen-betruegern-podcast-firewall-a-dd04339d-e7d3-4f2c-abfd-9f0ea27734dd#ref=rss)
-### sprengstoff
-
-* [https://www.spiegel.de/panorama/justiz/regensburg-polizisten-fanden-sprengstoff-bei-verkehrskontrolle-frau-und-mann-verurteilt](https://www.spiegel.de/panorama/justiz/regensburg-polizisten-fanden-sprengstoff-bei-verkehrskontrolle-frau-und-mann-verurteilt-a-0744b622-b684-4482-9479-ed5cbbf766e9#ref=rss)
-### virginia
-
-* [https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt](https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt-a-7db2d0d6-c7fe-454f-a999-7407a65c3745#ref=rss)
-### niger
-
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung](https://www.spiegel.de/ausland/niger-schweizerin-und-oesterreicherin-freigelassen-eineinhalb-jahre-nach-entfuehrung-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen](https://www.spiegel.de/mobilitaet/deutsche-bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner](https://www.spiegel.de/politik/deutschland/zdf-politbarometer-abstand-zwischen-afd-und-union-wird-in-umfrage-kleiner-a-4a0f54ec-baf9-4e56-9d74-f919e9e8ec3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
 ### jemen
 
-* [https://www.spiegel.de/ausland/jemen-so-leicht-koennen-die-huthis-ihr-gebiet-verteidigen](https://www.spiegel.de/ausland/jemen-so-leicht-koennen-die-huthis-ihr-gebiet-verteidigen-a-0b06ce68-e385-4ec8-b740-fc8a603fb598#ref=rss)
-### huthis
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+### hans
 
-* [https://www.spiegel.de/ausland/jemen-so-leicht-koennen-die-huthis-ihr-gebiet-verteidigen](https://www.spiegel.de/ausland/jemen-so-leicht-koennen-die-huthis-ihr-gebiet-verteidigen-a-0b06ce68-e385-4ec8-b740-fc8a603fb598#ref=rss)
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+### grundberg
+
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+### eskalation
+
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner](https://www.spiegel.de/ausland/krise-im-jemen-hans-grundberg-ueber-eskalation-friedenschancen-und-gespraechspartner-a-fc0bccab-c28c-4102-be09-983d9f44f1de#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+### leo
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+### reise
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-sagt-reise-nach-aissisi-ab-a-35196742-17ba-4b50-bf7c-50b010846c23#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten](https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten-a-1e7aa698-7b4f-4b6f-a59d-c7ae60c7a168#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten](https://www.spiegel.de/wirtschaft/zdf-politbarometer-ueberwaeltigende-mehrheit-moechte-an-rente-mit-63-festhalten-a-1e7aa698-7b4f-4b6f-a59d-c7ae60c7a168#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### angèle
+
+* [https://www.spiegel.de/kultur/musik/french-pop-saengerin-angele-hymnen-fuer-den-aktuellen-aufstand](https://www.spiegel.de/kultur/musik/french-pop-saengerin-angele-hymnen-fuer-den-aktuellen-aufstand-a-ea9e690c-5d02-4857-ad69-f832651c03b5#ref=rss)
+### midterms
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf](https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf-a-9063a2bf-0705-46b9-b3d8-7e74f0820b81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa](https://www.spiegel.de/wirtschaft/donald-trump-erster-tanker-mit-russischem-diesel-offenbar-auf-dem-weg-in-die-usa-a-78f87406-615b-4951-9a13-c55710f503df#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### drittstaaten
+
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen](https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+### volvo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
+### autobauer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
+### 2500
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen](https://www.spiegel.de/wirtschaft/unternehmen/volvo-umsatzeinbruch-in-china-zwingt-autobauer-zum-abbau-von-2500-stellen-a-08653ee2-a0dd-48db-ae16-17064defbd6d#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen](https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen-a-572a7a35-f5e2-45b5-8be8-a2fba9963ec8#ref=rss)
+### gosling
+
+* [https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen](https://www.spiegel.de/kultur/kino/ryan-gosling-schauspieler-laesst-band-dead-mans-bones-wieder-auferstehen-a-572a7a35-f5e2-45b5-8be8-a2fba9963ec8#ref=rss)
+### charli
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+### xcx
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film](https://www.spiegel.de/kultur/musik/charli-xcx-neben-jennifer-lawrence-und-leonardo-dicaprio-im-neuen-scorsese-film-a-0e1633c6-0c37-424e-9ef2-9b3b14c3da6e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+### weltklimarat
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-streit-im-weltklimarat-blockiert-ipcc-zeitplan](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-streit-im-weltklimarat-blockiert-ipcc-zeitplan-a-04719473-641e-4302-9888-c1f0aa53e2e9#ref=rss)
+### mails
+
+* [https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel](https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss)
+### alice
+
+* [https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel](https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss)
+### bereitet
+
+* [https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff](https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss)
+### mutmaßliche
+
+* [https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff](https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus](https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus-a-0011721c-7b2c-401d-a7be-83905387a418#ref=rss)
+### großer
+
+* [https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff](https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss)
+* [https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb](https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb-a-7fad10b8-b6fb-4d07-87b9-57e27711ae35#ref=rss)
+### lilly
+
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+### becker
+
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+### sprach
+
+* [https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen](https://www.spiegel.de/panorama/leute/lilly-becker-gibt-trennung-bekannt-und-hat-maennern-abgeschworen-a-675de1db-05d1-4012-b326-75ebe5b00a62#ref=rss)
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus](https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus-a-0011721c-7b2c-401d-a7be-83905387a418#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus](https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus-a-0011721c-7b2c-401d-a7be-83905387a418#ref=rss)
+### diplomaten
+
+* [https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus](https://www.spiegel.de/ausland/oesterreich-weist-vier-russische-diplomaten-aus-a-0011721c-7b2c-401d-a7be-83905387a418#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+### buhmann
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+### schattenkanzler
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-vom-buhmann-zum-schattenkanzler-a-8d8a88ab-cf7d-465e-8529-8e780b1cfba5#ref=rss)
+### babbel
+
+* [https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb](https://www.spiegel.de/sport/fussball/markus-babbel-haelt-ballon-dor-fuer-groessten-clownswettbewerb-a-7fad10b8-b6fb-4d07-87b9-57e27711ae35#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### kommentar
+
+* [https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar](https://www.spiegel.de/politik/deutschland/rot-gruen-rot-in-berlin-mit-diesen-linken-duerfen-gruene-und-spd-nicht-zusammengehen-kommentar-a-e21ed837-dc79-46ae-87b3-7bb3e72101bf#ref=rss)
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar](https://www.spiegel.de/politik/berlin-es-gibt-eine-linke-mehrheit-die-sollte-dann-auch-regieren-kommentar-a-7ef1e0f2-a41c-4cc9-ae49-9ac0f0df3ce9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen](https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen-a-12973001-9354-41b6-a917-035f65022a8f#ref=rss)
+### pfeilschusswaffe
+
+* [https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben](https://www.spiegel.de/panorama/justiz/bayerischer-wald-46-jaehriger-soll-ehefrau-mit-pfeilschusswaffe-getoetet-haben-a-87cf1092-4143-42fe-b4db-4fdefd55d6c0#ref=rss)
 ### paris
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
-### dezember
+* [https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg](https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg-a-702ac5cd-9d4d-466b-a5e0-b3314f676a99#ref=rss)
+### brunner
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-### fahren
+* [https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg](https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg-a-702ac5cd-9d4d-466b-a5e0-b3314f676a99#ref=rss)
+### sc
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck](https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-### agrarsubventionen
+* [https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg](https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg-a-702ac5cd-9d4d-466b-a5e0-b3314f676a99#ref=rss)
+### freiburg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung](https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss)
-### alle
+* [https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg](https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg-a-702ac5cd-9d4d-466b-a5e0-b3314f676a99#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft](https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft-a-958b5c65-9917-46c6-99dc-d29aae9a2a5d#ref=rss)
-### eingeladen
+* [https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg](https://www.spiegel.de/sport/fussball/conference-league-paris-brunner-glaenzt-per-traumtor-gegen-freiburg-a-702ac5cd-9d4d-466b-a5e0-b3314f676a99#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### elisabeth
 
-* [https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft](https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft-a-958b5c65-9917-46c6-99dc-d29aae9a2a5d#ref=rss)
-### claudia
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### kutter
 
-* [https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen](https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen-a-25d55386-c271-4a12-9523-a5ca7ba73135#ref=rss)
-### plattner
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### bielefeld
 
-* [https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen](https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen-a-25d55386-c271-4a12-9523-a5ca7ba73135#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau](https://www.spiegel.de/panorama/anti-afd-protest-von-apothekerin-elisabeth-kutter-bielefeld-und-seine-frau-gegen-blau-a-20b995b6-1689-4899-b846-34d7b6a49bae#ref=rss)
+### sondierungen
 
-* [https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen](https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen-a-25d55386-c271-4a12-9523-a5ca7ba73135#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### bleibt
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-der-krise-bei-vw-beginnt-die-naechste-runde-der-sondierungen](https://www.spiegel.de/wirtschaft/volkswagen-in-der-krise-bei-vw-beginnt-die-naechste-runde-der-sondierungen-a-a2c5ac86-cf22-4e60-b756-2ea6eac8ac4c#ref=rss)
+### immobilien
 
-* [https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt](https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### erwin
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### eigene
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### müller
+* [https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen](https://www.spiegel.de/wirtschaft/immobilien-hoehere-zinsen-lassen-preise-nahezu-stagnieren-mieten-steigen-a-b86c057e-33b4-4bbd-82b8-1c3934efd434#ref=rss)
+### verlegt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### drogeriemarktkette
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
-### 94
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### minen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-chef-der-drogeriemarktkette-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea](https://www.spiegel.de/ausland/nordkorea-verlegt-offenbar-fast-eine-million-minen-an-grenze-zu-suedkorea-a-34fa9aed-0324-4c9f-9d44-14b6e9d1f459#ref=rss)
+### ski
+
+* [https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen](https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen-a-12973001-9354-41b6-a917-035f65022a8f#ref=rss)
+### aggu
+
+* [https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen](https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen-a-12973001-9354-41b6-a917-035f65022a8f#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen](https://www.spiegel.de/panorama/leute/ski-aggu-rapper-will-handys-von-seinen-konzerten-verbannen-a-12973001-9354-41b6-a917-035f65022a8f#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
+### freie
+
+* [https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen](https://www.spiegel.de/ausland/venezuela-tausende-fordern-bei-ersten-protesten-seit-zwei-jahren-freie-wahlen-a-b3a894f4-7ace-4654-932e-a9bb5c33fa0b#ref=rss)
 
