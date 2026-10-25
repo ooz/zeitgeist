@@ -4,304 +4,374 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israel
+### usa
 
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-palaestinenser-fordern-internationalen-druck-nach-israelischem-armeeeinsatz](https://www.spiegel.de/ausland/westjordanland-palaestinenser-fordern-internationalen-druck-nach-israelischem-armeeeinsatz-a-2175eeed-6dcf-4de8-94b7-47e8756539bc#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken](https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken-a-ac83287a-8c87-4cd8-a23e-e903ad531ae1#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt](https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt-a-9d4296c0-2b1b-4cc9-acab-a638eb1d4910#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mietmarkt-warum-wohnungstausch-die-wohnungsnot-nicht-lindert](https://www.spiegel.de/wirtschaft/mietmarkt-warum-wohnungstausch-die-wohnungsnot-nicht-lindert-a-ad8e2a86-01a6-4453-8ade-1076fae7f246#ref=rss)
-* [https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum](https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum-a-571c10fe-c74a-4d72-bd8e-6b8044960fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form](https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form-a-79040706-9481-4f39-9ca3-bb07b37184e8#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken](https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken-a-ac83287a-8c87-4cd8-a23e-e903ad531ae1#ref=rss)
-### csuparteitag
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-* [https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien](https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus](https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt](https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt-a-c43632d8-8f43-48f2-b32b-3afc842a6bd4#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-### peter
-
-* [https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl](https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl-a-fc7374d0-793a-4524-b3ad-ddf77a748bdf#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres](https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres-a-0d2c24c4-13d0-4553-889f-2cc9c1b28b0a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres](https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres-a-0d2c24c4-13d0-4553-889f-2cc9c1b28b0a#ref=rss)
-* [https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland](https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland-a-6cce2064-e091-4ec8-b72a-26832e1e815a#ref=rss)
-* [https://www.spiegel.de/panorama/islamistischer-terror-21-jaehriger-deutscher-soll-is-ausbildung-geplant-haben](https://www.spiegel.de/panorama/islamistischer-terror-21-jaehriger-deutscher-soll-is-ausbildung-geplant-haben-a-ac07e4b3-45db-426e-8a7a-8c84681e8716#ref=rss)
-### wahlen
-
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-* [https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland](https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland-a-6cce2064-e091-4ec8-b72a-26832e1e815a#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken](https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken-a-ac83287a-8c87-4cd8-a23e-e903ad531ae1#ref=rss)
-### friedrich
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss)
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### zeitumstellung
 
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### benjamin
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss)
+* [https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt](https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt-a-e1cb87c1-f9f0-4141-9631-13ad3f8fc310#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken](https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken-a-ac83287a-8c87-4cd8-a23e-e903ad531ae1#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken](https://www.spiegel.de/ausland/wahl-in-israel-was-die-menschen-ueber-benjamin-netanyahu-denken-a-ac83287a-8c87-4cd8-a23e-e903ad531ae1#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
-### demonstrieren
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland](https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland-a-6cce2064-e091-4ec8-b72a-26832e1e815a#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-### tränengas
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus](https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss)
-* [https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren](https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren-a-075d642d-204a-4b00-8b20-3bdc7adc06d0#ref=rss)
-### rollstuhl
-
-* [https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl](https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl-a-fc7374d0-793a-4524-b3ad-ddf77a748bdf#ref=rss)
-### hiedl
-
-* [https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl](https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl-a-fc7374d0-793a-4524-b3ad-ddf77a748bdf#ref=rss)
-### jordan
-
-* [https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt](https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt-a-c43632d8-8f43-48f2-b32b-3afc842a6bd4#ref=rss)
-### bardella
-
-* [https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt](https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt-a-c43632d8-8f43-48f2-b32b-3afc842a6bd4#ref=rss)
-### grainger
-
-* [https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres](https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres-a-0d2c24c4-13d0-4553-889f-2cc9c1b28b0a#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres](https://www.spiegel.de/kultur/literatur/gnade-vor-recht-von-peter-grainger-die-unwahrscheinlichste-krimi-sensation-des-jahres-a-0d2c24c4-13d0-4553-889f-2cc9c1b28b0a#ref=rss)
-* [https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne](https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne-a-2553b4a2-2bdd-470d-901a-a90ee5e683ed#ref=rss)
-### winterzeit
-
-* [https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt](https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt-a-9d4296c0-2b1b-4cc9-acab-a638eb1d4910#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt](https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt-a-9d4296c0-2b1b-4cc9-acab-a638eb1d4910#ref=rss)
-### uhren
-
-* [https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt](https://www.spiegel.de/panorama/winterzeit-in-der-kommenden-nacht-werden-die-uhren-umgestellt-a-9d4296c0-2b1b-4cc9-acab-a638eb1d4910#ref=rss)
-### sderot
-
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-### thema
-
-* [https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt](https://www.spiegel.de/ausland/israel-sonst-geht-es-bei-wahlen-um-zukunft-in-sderot-wird-sie-von-der-vergangenheit-verdraengt-a-357cbe2c-3304-476d-a79e-5b42219f2118#ref=rss)
-* [https://www.spiegel.de/ausland/trotz-us-vermittlungsbemuehungen-ukraine-und-russland-fuehren-gegenseitige-angriffe-fort](https://www.spiegel.de/ausland/trotz-us-vermittlungsbemuehungen-ukraine-und-russland-fuehren-gegenseitige-angriffe-fort-a-50595754-bdfb-459c-84bb-1cd3d533b8bf#ref=rss)
-### helen
-
-* [https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren](https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren-a-075d642d-204a-4b00-8b20-3bdc7adc06d0#ref=rss)
-### kevric
-
-* [https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren](https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren-a-075d642d-204a-4b00-8b20-3bdc7adc06d0#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren](https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren-a-075d642d-204a-4b00-8b20-3bdc7adc06d0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz-a-8cdaaf38-13d7-455d-9460-7fe0e170ce27#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren](https://www.spiegel.de/sport/turn-wm-in-rotterdam-helen-kevric-gewinnt-silber-am-stufenbarren-a-075d642d-204a-4b00-8b20-3bdc7adc06d0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum](https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum-a-571c10fe-c74a-4d72-bd8e-6b8044960fbc#ref=rss)
-### werder
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz-a-8cdaaf38-13d7-455d-9460-7fe0e170ce27#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz-a-8cdaaf38-13d7-455d-9460-7fe0e170ce27#ref=rss)
-### eher
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-viele-verletzte-wenige-tore-aber-werder-bremen-gewinnt-in-mainz-a-8cdaaf38-13d7-455d-9460-7fe0e170ce27#ref=rss)
-* [https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern](https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern-a-ed64d14b-182b-45d5-955d-25c630ee1b20#ref=rss)
-### mietmarkt
-
-* [https://www.spiegel.de/wirtschaft/mietmarkt-warum-wohnungstausch-die-wohnungsnot-nicht-lindert](https://www.spiegel.de/wirtschaft/mietmarkt-warum-wohnungstausch-die-wohnungsnot-nicht-lindert-a-ad8e2a86-01a6-4453-8ade-1076fae7f246#ref=rss)
-### volker
-
-* [https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum](https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum-a-571c10fe-c74a-4d72-bd8e-6b8044960fbc#ref=rss)
-### schlöndorff
-
-* [https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum](https://www.spiegel.de/kultur/kino/volker-schloendorff-hoert-auch-mit-87-nicht-mit-dem-filmemachen-auf-warum-a-571c10fe-c74a-4d72-bd8e-6b8044960fbc#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-palaestinenser-fordern-internationalen-druck-nach-israelischem-armeeeinsatz](https://www.spiegel.de/ausland/westjordanland-palaestinenser-fordern-internationalen-druck-nach-israelischem-armeeeinsatz-a-2175eeed-6dcf-4de8-94b7-47e8756539bc#ref=rss)
-### ilse
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### aigner
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### schweigt
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### bundespräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo](https://www.spiegel.de/politik/deutschland/csu-parteitag-merz-beschwoert-zusammenhalt-und-draengt-auf-reformtempo-a-38b2ba6b-f3ef-4946-b612-49cb67b84f93#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht](https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### johann
-
-* [https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne](https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne-a-2553b4a2-2bdd-470d-901a-a90ee5e683ed#ref=rss)
-### lafer
-
-* [https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne](https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne-a-2553b4a2-2bdd-470d-901a-a90ee5e683ed#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne](https://www.spiegel.de/effilee/essen/johann-lafer-beantwortet-ihre-fragen-zum-kochen-neue-spiegel-kolumne-a-2553b4a2-2bdd-470d-901a-a90ee5e683ed#ref=rss)
-### kehlsteinhaus
-
-* [https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus](https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus](https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form](https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form-a-79040706-9481-4f39-9ca3-bb07b37184e8#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus](https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss)
-* [https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien](https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu](https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen](https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen-a-3f7d3c75-529a-44e8-a07f-1c8d9253ae34#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/panorama/islamistischer-terror-21-jaehriger-deutscher-soll-is-ausbildung-geplant-haben](https://www.spiegel.de/panorama/islamistischer-terror-21-jaehriger-deutscher-soll-is-ausbildung-geplant-haben-a-ac07e4b3-45db-426e-8a7a-8c84681e8716#ref=rss)
-### emma
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form](https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form-a-79040706-9481-4f39-9ca3-bb07b37184e8#ref=rss)
-### aicher
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form](https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form-a-79040706-9481-4f39-9ca3-bb07b37184e8#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien](https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss)
-### kigeneriertes
-
-* [https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien](https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien](https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss)
-### rettig
-
-* [https://www.spiegel.de/sport/fussball/betrugsskandal-um-man-city-rettig-fordert-lizenzentzug-und-aberkennung-aller-titel](https://www.spiegel.de/sport/fussball/betrugsskandal-um-man-city-rettig-fordert-lizenzentzug-und-aberkennung-aller-titel-a-bf5e87cf-f4d6-4f9e-9c92-f3b1beae91b5#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/ausland/trotz-us-vermittlungsbemuehungen-ukraine-und-russland-fuehren-gegenseitige-angriffe-fort](https://www.spiegel.de/ausland/trotz-us-vermittlungsbemuehungen-ukraine-und-russland-fuehren-gegenseitige-angriffe-fort-a-50595754-bdfb-459c-84bb-1cd3d533b8bf#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen](https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen-a-eb7571d8-9413-414c-a9f1-6874fbb9347f#ref=rss)
-### wnuk
-
-* [https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen](https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen-a-eb7571d8-9413-414c-a9f1-6874fbb9347f#ref=rss)
-### nord
-
-* [https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen](https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen-a-eb7571d8-9413-414c-a9f1-6874fbb9347f#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab](https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern](https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern-a-ed64d14b-182b-45d5-955d-25c630ee1b20#ref=rss)
-### vincent
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab](https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen](https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen-a-3f7d3c75-529a-44e8-a07f-1c8d9253ae34#ref=rss)
-### kompany
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### hohe
 
-* [https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen](https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen-a-3f7d3c75-529a-44e8-a07f-1c8d9253ae34#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter](https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit](https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss)
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+### midterms
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin](https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin-a-fc05eb83-4450-4020-8f1d-506749d52032#ref=rss)
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+### mourinho
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### druck
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits](https://www.spiegel.de/sport/fussball/fc-barcelona-gegen-real-madrid-jose-mourinho-spielt-seine-bekannten-hits-a-cad31d91-b8e5-4bbe-8bc2-507cb18574b4#ref=rss)
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt](https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt-a-e1cb87c1-f9f0-4141-9631-13ad3f8fc310#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen](https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen-a-3f7d3c75-529a-44e8-a07f-1c8d9253ae34#ref=rss)
-### hätte
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen](https://www.spiegel.de/sport/fussball/vincent-kompany-vom-fc-bayern-muenchen-haette-man-ihn-bremsen-koennen-a-3f7d3c75-529a-44e8-a07f-1c8d9253ae34#ref=rss)
-### lars
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### ginter
 
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### badische
 
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### jusochef
+* [https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept](https://www.spiegel.de/sport/sc-freiburg-gegen-fc-bayern-muenchen-matthias-ginter-ueber-das-badische-erfolgsrezept-a-50f5b33f-034a-49ad-938e-ca26b418d1b3#ref=rss)
+### kimi
 
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### philipp
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+### antonelli
 
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### türmer
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+### großen
 
-* [https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus](https://www.spiegel.de/politik/deutschland/philipp-tuermer-juso-chef-spricht-sich-gegen-erneute-kandidatur-von-lars-klingbeil-als-spd-chef-aus-a-2a87e21d-902d-4a68-a122-d08ddeef4448#ref=rss)
-### ron
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+### preis
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
-### lauder
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+### austin
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl](https://www.spiegel.de/ausland/benjamin-netanyahu-langjaehriger-vertrauter-ron-lauder-warnt-vor-seiner-wiederwahl-a-214a00ad-e2e2-4667-9547-4127f48b548e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin](https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend](https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend](https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend](https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab](https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss)
+### begann
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend](https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend](https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### nordseeküste
+
+* [https://www.spiegel.de/panorama/sturm-warnung-fuer-teile-deutschlands-sturmflut-gefahr-an-der-nordseekueste](https://www.spiegel.de/panorama/sturm-warnung-fuer-teile-deutschlands-sturmflut-gefahr-an-der-nordseekueste-a-9d36e688-5a7a-44de-a52e-f343ff3b5383#ref=rss)
+### teils
+
+* [https://www.spiegel.de/panorama/sturm-warnung-fuer-teile-deutschlands-sturmflut-gefahr-an-der-nordseekueste](https://www.spiegel.de/panorama/sturm-warnung-fuer-teile-deutschlands-sturmflut-gefahr-an-der-nordseekueste-a-9d36e688-5a7a-44de-a52e-f343ff3b5383#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone](https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone-a-0842b8de-2f68-48af-b0ae-751dfc87d387#ref=rss)
+* [https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt](https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt-a-e1cb87c1-f9f0-4141-9631-13ad3f8fc310#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone](https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone-a-0842b8de-2f68-48af-b0ae-751dfc87d387#ref=rss)
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+### blick
+
+* [https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone](https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone-a-0842b8de-2f68-48af-b0ae-751dfc87d387#ref=rss)
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+### schlaf
+
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+### besser
+
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute](https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme](https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme-a-43c9847b-6120-4e16-8ec5-8b9fae44a49f#ref=rss)
+### spritpreise
+
+* [https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter](https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9#ref=rss)
+### nachfrage
+
+* [https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter](https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9#ref=rss)
+### vier
+
+* [https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme](https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme-a-43c9847b-6120-4e16-8ec5-8b9fae44a49f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit](https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
+### festnahmen
+
+* [https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit](https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss)
+### protesten
+
+* [https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit](https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss)
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit](https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss)
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+### markle
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+### herzogin
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+### vorwürfen
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+### per
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab](https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab](https://www.spiegel.de/panorama/justiz/thomas-markle-herzogin-meghan-brach-wegen-vorwuerfen-kontakt-per-brief-ab-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss)
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+### andy
+
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+### burnham
+
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin](https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin-a-fc05eb83-4450-4020-8f1d-506749d52032#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit](https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211#ref=rss)
+* [https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt](https://www.spiegel.de/panorama/zeitumstellung-winterzeit-hat-begonnen-uhren-wurden-umgestellt-a-e1cb87c1-f9f0-4141-9631-13ad3f8fc310#ref=rss)
+### barack
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+### obama
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+### grausamkeit
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+### korruption
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption](https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss)
+### halloween
+
+* [https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend](https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend-a-434d95db-7dfb-454c-b47c-9a8130976961#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/victorias-secret-ist-zurueck-warum-ist-das-dessous-unternehmen-unkapputbar](https://www.spiegel.de/kultur/victorias-secret-ist-zurueck-warum-ist-das-dessous-unternehmen-unkapputbar-a-7641526e-714c-42f5-8cd5-3e60da47fa35#ref=rss)
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### winterdepressionen
+
+* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss)
+### tage
+
+* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss)
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### ich
+
+* [https://www.spiegel.de/partnerschaft/nach-der-trennung-wenn-das-beziehungsende-sich-als-gluecksfall-erweist](https://www.spiegel.de/partnerschaft/nach-der-trennung-wenn-das-beziehungsende-sich-als-gluecksfall-erweist-a-d3363240-9b98-46aa-bb43-02b4d9bb9989#ref=rss)
+### audi
+
+* [https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa](https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln](https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln-a-982c5392-a3dc-4deb-8adc-fa34ef23da5f#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln](https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln-a-982c5392-a3dc-4deb-8adc-fa34ef23da5f#ref=rss)
+### besetzten
+
+* [https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln](https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln-a-982c5392-a3dc-4deb-8adc-fa34ef23da5f#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin](https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin-a-fc05eb83-4450-4020-8f1d-506749d52032#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin](https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin-a-fc05eb83-4450-4020-8f1d-506749d52032#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### nichtusbürger
+
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### usjustizministerium
+
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab](https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck](https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor](https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor](https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor](https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor](https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss)
+### militär
+
+* [https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor](https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
+### bewegung
+
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### jair
+
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht](https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss)
+### stevie
+
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### wonder
+
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### 40
+
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
+### mietfrei
+
+* [https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei](https://www.spiegel.de/panorama/leute/stevie-wonder-musiker-verklagt-angebliche-ex-verlobte-nach-40-jahren-mietfrei-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss)
 ### borussia
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin](https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin-a-a7709eaa-6e88-4060-ba85-08615ed733c2#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin](https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin-a-a7709eaa-6e88-4060-ba85-08615ed733c2#ref=rss)
-### vfb
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin](https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin-a-a7709eaa-6e88-4060-ba85-08615ed733c2#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin](https://www.spiegel.de/sport/fussball/bundesliga-gladbach-gewinnt-beim-vfb-stuttgart-erster-sieg-fuer-blessin-a-a7709eaa-6e88-4060-ba85-08615ed733c2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### spätes
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### tor
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand](https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
+### sanaa
+
+* [https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff](https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss)
 
