@@ -4,353 +4,284 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahren
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer](https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer-a-7ef0d306-8dcb-44e1-bcd6-bebc98c8c50b#ref=rss)
-* [https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut](https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut-a-9ca6cedf-d5df-4f39-a299-1ce72a329d8a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin](https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin-a-dcbcecc6-c2fd-4513-9ea2-9d7eb84f8b15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer](https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer-a-7ef0d306-8dcb-44e1-bcd6-bebc98c8c50b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt](https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt-a-9098fbf7-d43f-405b-9dce-51e000be5fe7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor](https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor-a-8a7fa81c-7110-4456-ba5a-dcefe6b75bc8#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen](https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen-a-832a42a6-1924-4d74-a718-248de2606d2c#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor](https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor-a-8a7fa81c-7110-4456-ba5a-dcefe6b75bc8#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen](https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen-a-832a42a6-1924-4d74-a718-248de2606d2c#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik](https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik-a-688253ef-a290-415f-b0a9-a8de5c7179c3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik](https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik-a-688253ef-a290-415f-b0a9-a8de5c7179c3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei](https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump](https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump-a-461e13c1-685b-46cf-be4f-1e830a34e017#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien](https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien-a-a42b8457-a038-4190-a965-df75c77db265#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump](https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump-a-461e13c1-685b-46cf-be4f-1e830a34e017#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien](https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien-a-a42b8457-a038-4190-a965-df75c77db265#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei](https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### dr
-
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### ballon
-
-* [https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck](https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht](https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht-a-6fa25a8a-f0e2-4895-8044-9445b99f4d33#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-* [https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt](https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt-a-9098fbf7-d43f-405b-9dce-51e000be5fe7#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht](https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht-a-6fa25a8a-f0e2-4895-8044-9445b99f4d33#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic](https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-a-74c6a60c-6598-43af-9686-5e6c7adc4682#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### verantworten
-
-* [https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic](https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-a-74c6a60c-6598-43af-9686-5e6c7adc4682#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor](https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor-a-72373b69-4579-4876-b049-a773fefc484d#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei](https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen](https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen-a-832a42a6-1924-4d74-a718-248de2606d2c#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-### bremerhaven
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### mein
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### schiff
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### 3
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu](https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu-a-67208d48-fd15-411c-a469-62a003a6e8f4#ref=rss)
-### lange
-
-* [https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu](https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu-a-67208d48-fd15-411c-a469-62a003a6e8f4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin](https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin-a-dcbcecc6-c2fd-4513-9ea2-9d7eb84f8b15#ref=rss)
-### bundespräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu](https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu-a-67208d48-fd15-411c-a469-62a003a6e8f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu](https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu-a-67208d48-fd15-411c-a469-62a003a6e8f4#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor](https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor-a-8a7fa81c-7110-4456-ba5a-dcefe6b75bc8#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen](https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen-a-832a42a6-1924-4d74-a718-248de2606d2c#ref=rss)
-### walter
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-### koenig
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-### 90
-
-* [https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss)
-### wahlen
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden](https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347#ref=rss)
-* [https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut](https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut-a-9ca6cedf-d5df-4f39-a299-1ce72a329d8a#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-### spohr
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-### schleichenden
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland](https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-verteidigt-schleichenden-rueckzug-aus-deutschland-a-e5554c4a-181b-4611-96c3-4befbf4500e4#ref=rss)
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik](https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik-a-688253ef-a290-415f-b0a9-a8de5c7179c3#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik](https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik-a-688253ef-a290-415f-b0a9-a8de5c7179c3#ref=rss)
-### jördis
-
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-### triebel
-
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen](https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben](https://www.spiegel.de/panorama/leute/schauspielerin-joerdis-triebel-ist-froh-berliner-schnauze-an-ihre-kinder-weitergegeben-zu-haben-a-12b918ea-ac32-4f3c-bf17-be5d614fe82b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen](https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss)
-### audichef
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump](https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump-a-461e13c1-685b-46cf-be4f-1e830a34e017#ref=rss)
-### serbien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-am-audi-chef-wahl-in-serbien-suche-nach-einer-bundespraesidentin-a-df3f0aae-60ec-44c4-80ab-4f4448d2197d#ref=rss)
-### gebracht
-
-* [https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt](https://www.spiegel.de/panorama/himalaja-deutscher-bergsteiger-stuerzt-1500-meter-tief-und-stirbt-a-9098fbf7-d43f-405b-9dce-51e000be5fe7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### claude
-
-* [https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic](https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-a-74c6a60c-6598-43af-9686-5e6c7adc4682#ref=rss)
-### anthropic
-
-* [https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic](https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-a-74c6a60c-6598-43af-9686-5e6c7adc4682#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic](https://www.spiegel.de/kultur/musik/claude-ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-a-74c6a60c-6598-43af-9686-5e6c7adc4682#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen](https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen](https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen](https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei](https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss)
-### lieferando
-
-* [https://www.spiegel.de/netzwelt/web/lieferando-was-hat-es-mit-diesen-merkwuerdigen-ki-bildern-beim-lieferdienst-auf-sich](https://www.spiegel.de/netzwelt/web/lieferando-was-hat-es-mit-diesen-merkwuerdigen-ki-bildern-beim-lieferdienst-auf-sich-a-ab881b6f-f808-4b9a-b8a2-bc2288c660a1#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor](https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor-a-72373b69-4579-4876-b049-a773fefc484d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck](https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss)
-### perfekte
-
-* [https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin](https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin-a-dcbcecc6-c2fd-4513-9ea2-9d7eb84f8b15#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin](https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin-a-dcbcecc6-c2fd-4513-9ea2-9d7eb84f8b15#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin](https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-rekord-start-fuer-neue-komoedie-von-bora-dagtekin-a-dcbcecc6-c2fd-4513-9ea2-9d7eb84f8b15#ref=rss)
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei](https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-### öffnen
-
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-### haustür
-
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-### erschossen
-
-* [https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/dingolfing-in-bayern-mann-beim-oeffnen-der-haustuer-erschossen-taeter-fluechtig-a-fdbb50fd-18d2-43f0-aa9b-df6f5e3771a5#ref=rss)
-### frachtern
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-### kollidiert
-
-* [https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam](https://www.spiegel.de/panorama/bremerhaven-wie-es-zum-crash-der-mein-schiff-3-mit-zwei-frachtern-kam-a-ef96c00e-bc3c-4bf0-bcb0-31841188f457#ref=rss)
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-### audis
-
-* [https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump](https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump-a-461e13c1-685b-46cf-be4f-1e830a34e017#ref=rss)
-### hintern
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien](https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien-a-a42b8457-a038-4190-a965-df75c77db265#ref=rss)
-### homoerotische
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien](https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien-a-a42b8457-a038-4190-a965-df75c77db265#ref=rss)
-### ussoldat
-
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-### japanerin
-
-* [https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt](https://www.spiegel.de/panorama/justiz/japan-us-soldat-auf-okinawa-wegen-mordes-an-japanerin-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss)
-### maria
-
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-### montserrat
-
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-### alvarado
-
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-### vatikan
-
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
 ### erste
 
-* [https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam](https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck](https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss)
-### kosten
+* [https://www.spiegel.de/wirtschaft/wein-us-winzer-kooperieren-mit-airlines-und-supermaerkten-gegen-absatzflaute](https://www.spiegel.de/wirtschaft/wein-us-winzer-kooperieren-mit-airlines-und-supermaerkten-gegen-absatzflaute-a-d0584828-99c7-4784-8f9d-1fc1c317b0c7#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer](https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer-a-2b46ffdf-8222-4e2a-bf1a-5aa62a6ba8e0#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer](https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer-a-7ef0d306-8dcb-44e1-bcd6-bebc98c8c50b#ref=rss)
-### alle
+* [https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert](https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert](https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert-a-80cf7f10-fd07-4cb3-a645-b29d38ff9734#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-* [https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut](https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut-a-9ca6cedf-d5df-4f39-a299-1ce72a329d8a#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose](https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss)
+* [https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region](https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe](https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe-a-25dbd06e-36e7-4d7c-afa8-728b119fe130#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen](https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### sachsen
+* [https://www.spiegel.de/ausland/spannungen-zwischen-iran-und-usa-die-zeichen-stehen-auf-krieg](https://www.spiegel.de/ausland/spannungen-zwischen-iran-und-usa-die-zeichen-stehen-auf-krieg-a-763fb589-ecc1-4c11-b9d6-b64daa6d1958#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus](https://www.spiegel.de/wirtschaft/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus-a-75a8cfc3-e8c1-4d76-941c-3d03e027f14f#ref=rss)
+### merz
 
-* [https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut](https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut-a-9ca6cedf-d5df-4f39-a299-1ce72a329d8a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region](https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss)
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn](https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/wein-us-winzer-kooperieren-mit-airlines-und-supermaerkten-gegen-absatzflaute](https://www.spiegel.de/wirtschaft/wein-us-winzer-kooperieren-mit-airlines-und-supermaerkten-gegen-absatzflaute-a-d0584828-99c7-4784-8f9d-1fc1c317b0c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reiche-kuendigt-neue-regeln-fuer-die-vergabe-von-offshore-windkraftlizenzen-an](https://www.spiegel.de/wirtschaft/reiche-kuendigt-neue-regeln-fuer-die-vergabe-von-offshore-windkraftlizenzen-an-a-34056dbd-5155-49a1-8efd-a0b614bd636a#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert](https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946#ref=rss)
+* [https://www.spiegel.de/ausland/spannungen-zwischen-iran-und-usa-die-zeichen-stehen-auf-krieg](https://www.spiegel.de/ausland/spannungen-zwischen-iran-und-usa-die-zeichen-stehen-auf-krieg-a-763fb589-ecc1-4c11-b9d6-b64daa6d1958#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### markt
+
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer](https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer-a-2b46ffdf-8222-4e2a-bf1a-5aa62a6ba8e0#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn](https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+### neil
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+### young
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+### donald
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+### free
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung](https://www.spiegel.de/kultur/musik/neil-young-verklagt-trump-erneut-wegen-songnutzung-a-818baf00-9704-415f-a92a-7cc914695ba5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf](https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf-a-b4a7b853-d621-4135-994f-957e2569be3d#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an](https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an-a-fa5ee2d9-9795-4b87-a7bf-f26736f8e1d1#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an](https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an-a-fa5ee2d9-9795-4b87-a7bf-f26736f8e1d1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft](https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss)
+### gehalt
+
+* [https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an](https://www.spiegel.de/panorama/duisburg-justiz-klagt-dauerkranke-lehrerin-an-a-fa5ee2d9-9795-4b87-a7bf-f26736f8e1d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+### sparen
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn](https://www.spiegel.de/wirtschaft/service/sparen-deutsche-liegen-bei-der-sparquote-in-europa-weit-vorn-a-ee68f4f2-a713-4576-b20b-f6b4833ba8fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### justizministerin
+
+* [https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf](https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf-a-b4a7b853-d621-4135-994f-957e2569be3d#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf](https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf-a-b4a7b853-d621-4135-994f-957e2569be3d#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf](https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf-a-b4a7b853-d621-4135-994f-957e2569be3d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt](https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt-a-f39202a3-9327-4090-a013-677ddbd8d738#ref=rss)
+### großer
+
+* [https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf](https://www.spiegel.de/politik/deutschland/investitionsschutzgesetz-justizministerin-hubig-sieht-erheblichen-klaerungsbedarf-a-b4a7b853-d621-4135-994f-957e2569be3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/galatasaray-gegen-fenerbahce-istanbul-derby-muendet-nach-abpfiff-in-schlaegerei](https://www.spiegel.de/sport/fussball/galatasaray-gegen-fenerbahce-istanbul-derby-muendet-nach-abpfiff-in-schlaegerei-a-79c8ee63-65d4-4dc0-9923-c88aa19be2b8#ref=rss)
+### irland
+
+* [https://www.spiegel.de/sport/fussball/u15-fussball-wm-in-aserbaidschan-spiel-zwischen-england-und-irland-abgebrochen](https://www.spiegel.de/sport/fussball/u15-fussball-wm-in-aserbaidschan-spiel-zwischen-england-und-irland-abgebrochen-a-0d1f6b21-ff28-4cee-94b4-586a1fc40059#ref=rss)
+### beenden
+
+* [https://www.spiegel.de/sport/fussball/u15-fussball-wm-in-aserbaidschan-spiel-zwischen-england-und-irland-abgebrochen](https://www.spiegel.de/sport/fussball/u15-fussball-wm-in-aserbaidschan-spiel-zwischen-england-und-irland-abgebrochen-a-0d1f6b21-ff28-4cee-94b4-586a1fc40059#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe](https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe-a-25dbd06e-36e7-4d7c-afa8-728b119fe130#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/weltall/lumina-computersimulation-zeigt-die-entstehung-des-universums-so-detailreich-wie-nie](https://www.spiegel.de/wissenschaft/weltall/lumina-computersimulation-zeigt-die-entstehung-des-universums-so-detailreich-wie-nie-a-aa6e96c7-3f54-4869-9268-2d9767f4d7d7#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+### stubb
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert](https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946#ref=rss)
+### støre
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert](https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert](https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946#ref=rss)
+### fenerbahçe
+
+* [https://www.spiegel.de/sport/fussball/galatasaray-gegen-fenerbahce-istanbul-derby-muendet-nach-abpfiff-in-schlaegerei](https://www.spiegel.de/sport/fussball/galatasaray-gegen-fenerbahce-istanbul-derby-muendet-nach-abpfiff-in-schlaegerei-a-79c8ee63-65d4-4dc0-9923-c88aa19be2b8#ref=rss)
+### bahnstrecke
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt](https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt-a-f39202a3-9327-4090-a013-677ddbd8d738#ref=rss)
+### weltkriegsbombe
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt](https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt-a-f39202a3-9327-4090-a013-677ddbd8d738#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt](https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt-a-f39202a3-9327-4090-a013-677ddbd8d738#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### gegenwind
+
+* [https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose](https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss)
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### grundsicherung
+
+* [https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung](https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer](https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer-a-2b46ffdf-8222-4e2a-bf1a-5aa62a6ba8e0#ref=rss)
+### nutzer
+
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer](https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer-a-2b46ffdf-8222-4e2a-bf1a-5aa62a6ba8e0#ref=rss)
+### nobody
+
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### wants
+
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### this
+
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### adam
+
+* [https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage](https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss)
+### beate
+
+* [https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft](https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss)
+### zschäpe
+
+* [https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft](https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft](https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss)
 ### haft
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### praxis
+* [https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft](https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### rick
+* [https://www.spiegel.de/wirtschaft/reiche-kuendigt-neue-regeln-fuer-die-vergabe-von-offshore-windkraftlizenzen-an](https://www.spiegel.de/wirtschaft/reiche-kuendigt-neue-regeln-fuer-die-vergabe-von-offshore-windkraftlizenzen-an-a-34056dbd-5155-49a1-8efd-a0b614bd636a#ref=rss)
+### sumatra
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### nick
+* [https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht](https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht-a-3e0dc014-0920-4899-91f9-dec101cde25e#ref=rss)
+### borneo
 
-* [https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick](https://www.spiegel.de/panorama/justiz/konstanz-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss)
-### rottweil
+* [https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht](https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht-a-3e0dc014-0920-4899-91f9-dec101cde25e#ref=rss)
+### große
 
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### promille
+* [https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht](https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht-a-3e0dc014-0920-4899-91f9-dec101cde25e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region](https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss)
+### dresden
 
-* [https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille](https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss)
-### ebola
+* [https://www.spiegel.de/panorama/justiz/dresden-angeklagter-im-antifa-ost-prozess-ist-tot](https://www.spiegel.de/panorama/justiz/dresden-angeklagter-im-antifa-ost-prozess-ist-tot-a-2de1bd2f-982b-4cc6-80ab-dfc199effd8a#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### patientin
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+### augsburg
 
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### nigeria
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+### juma
 
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### schweiz
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+### bah
 
-* [https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht](https://www.spiegel.de/wissenschaft/medizin/ebola-patientin-aus-nigeria-in-die-schweiz-gebracht-a-391f978f-7aab-42b5-a334-976f4fbbbb92#ref=rss)
-### féminin
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+### art
 
-* [https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck](https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss)
-### d’or
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-macht-rassistische-beleidigungen-gegen-juma-bah-oeffentlich-a-c35e8edf-fa6e-4942-8ceb-4e2d6b7d4c7c#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### freihandelsabkommen
 
-* [https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck](https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht](https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht-a-6fa25a8a-f0e2-4895-8044-9445b99f4d33#ref=rss)
-### messi
+* [https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region](https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht](https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht-a-6fa25a8a-f0e2-4895-8044-9445b99f4d33#ref=rss)
+* [https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region](https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### drohnenangriff
+
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### darfur
+
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur](https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde#ref=rss)
+* [https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn](https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn](https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss)
+### umsatz
+
+* [https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn](https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe](https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe-a-25dbd06e-36e7-4d7c-afa8-728b119fe130#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe](https://www.spiegel.de/sport/fussball/fussball-getraenkehersteller-in-china-beenden-kooperation-mit-kylian-mbappe-a-25dbd06e-36e7-4d7c-afa8-728b119fe130#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer](https://www.spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer-a-a634b1dc-e6cd-4a4c-810c-5fb495d2ad90#ref=rss)
+### singapur
+
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### orchidee
+
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz](https://www.spiegel.de/panorama/leute/singapur-benennt-orchidee-nach-friedrich-merz-a-a6758213-dcc4-4f16-834c-5769ae0b8a90#ref=rss)
+### daran
+
+* [https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa](https://www.spiegel.de/ausland/us-midterms-umfrage-was-deutschland-eint-die-abneigung-gegen-die-usa-a-dd04220b-0818-4e37-9710-ac6e43283635#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert](https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert-a-80cf7f10-fd07-4cb3-a645-b29d38ff9734#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus](https://www.spiegel.de/wirtschaft/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus-a-75a8cfc3-e8c1-4d76-941c-3d03e027f14f#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert](https://www.spiegel.de/ausland/javier-milei-praesident-von-argentinien-wuenscht-journalisten-auf-den-scheiterhaufen-amnesty-international-reagiert-empoert-a-80cf7f10-fd07-4cb3-a645-b29d38ff9734#ref=rss)
 
