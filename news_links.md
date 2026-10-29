@@ -4,361 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### elif
 
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne](https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet](https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet-a-7e2b14f5-4647-4805-bd02-cf96f5c97efe#ref=rss)
-* [https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos](https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos-a-7eee9264-dc34-47da-9ac5-65cc5aafe2b7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht](https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht-a-36ae46ac-fd25-45ff-b718-8c899bcf9629#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
+### eralp
 
-* [https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei](https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss)
-* [https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst](https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst-a-8806372b-8616-4ff8-a2f1-71486f908b73#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet](https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet-a-7e2b14f5-4647-4805-bd02-cf96f5c97efe#ref=rss)
-### zugunglück
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne](https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden](https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst](https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst-a-8806372b-8616-4ff8-a2f1-71486f908b73#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos](https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos-a-7eee9264-dc34-47da-9ac5-65cc5aafe2b7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november](https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november-a-892ea4ac-7cbd-4f7c-b98e-925a0d199ccd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten](https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten-a-691a25b3-3bf2-4b83-b6b4-ce9a46874c2f#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen](https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen-a-0995227d-8248-45e8-9062-6dbcb76de5f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-* [https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit](https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne](https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss)
-* [https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht](https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht-a-140345f9-627e-4ec5-af22-ba3d7bfcf64d#ref=rss)
-* [https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos](https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos-a-7eee9264-dc34-47da-9ac5-65cc5aafe2b7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt-a-3f5d093a-8b96-4e1a-a2c8-a93368e2308a#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei](https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt-a-3f5d093a-8b96-4e1a-a2c8-a93368e2308a#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-* [https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit](https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen](https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen-a-0a44eb75-fcc4-4a95-8660-7d4ae45d7628#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet](https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos](https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos-a-7eee9264-dc34-47da-9ac5-65cc5aafe2b7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht](https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht-a-36ae46ac-fd25-45ff-b718-8c899bcf9629#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht](https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht-a-36ae46ac-fd25-45ff-b718-8c899bcf9629#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/panorama/leute/jonas-brothers-kevin-jonas-schickte-bruedern-joe-und-nick-ein-nacktfoto-von-sich](https://www.spiegel.de/panorama/leute/jonas-brothers-kevin-jonas-schickte-bruedern-joe-und-nick-ein-nacktfoto-von-sich-a-f4cfc6a1-535e-4158-b1d9-01af80c330b3#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei](https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss)
-### lief
-
-* [https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei](https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss)
-### sowie
-
-* [https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei](https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss)
-* [https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china](https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china-a-b0884c89-87f5-474a-909d-b4b0c37243c5#ref=rss)
-### hochgeschwindigkeitszüge
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### zerstört
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst](https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst-a-8806372b-8616-4ff8-a2f1-71486f908b73#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten](https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt-a-3f5d093a-8b96-4e1a-a2c8-a93368e2308a#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt](https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt-a-1d35b6d9-c342-4b8b-9db6-fe76420076d6#ref=rss)
-### erlebt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-### dolores
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-### huerta
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-### alter
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-### 96
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben](https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/sport/oesterreich-wie-eine-kletterroute-von-fpoe-chef-herbert-kickl-zum-politischen-tatort-wurde](https://www.spiegel.de/sport/oesterreich-wie-eine-kletterroute-von-fpoe-chef-herbert-kickl-zum-politischen-tatort-wurde-a-1cbd2102-4dc9-4abb-9d8f-1b87df343c58#ref=rss)
-### kickl
-
-* [https://www.spiegel.de/sport/oesterreich-wie-eine-kletterroute-von-fpoe-chef-herbert-kickl-zum-politischen-tatort-wurde](https://www.spiegel.de/sport/oesterreich-wie-eine-kletterroute-von-fpoe-chef-herbert-kickl-zum-politischen-tatort-wurde-a-1cbd2102-4dc9-4abb-9d8f-1b87df343c58#ref=rss)
-### regensburg
-
-* [https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst](https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst-a-8806372b-8616-4ff8-a2f1-71486f908b73#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst](https://www.spiegel.de/panorama/regensburg-zwei-menschen-gelten-nach-explosion-in-mehrfamilienhaus-als-vermisst-a-8806372b-8616-4ff8-a2f1-71486f908b73#ref=rss)
-* [https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer](https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer-a-2c1e693c-52b0-4b8c-8e3e-db702f0eb797#ref=rss)
-### treueschwur
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss)
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet](https://www.spiegel.de/panorama/justiz/sabotage-zwei-mutmassliche-agenten-moskaus-in-bayern-verhaftet-a-7e2b14f5-4647-4805-bd02-cf96f5c97efe#ref=rss)
-### 40
-
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-### straftäter
-
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab](https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet](https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet-a-77f318e5-a0ec-429b-9ab9-62a773244515#ref=rss)
-### ed138
-
-* [https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet](https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet-a-77f318e5-a0ec-429b-9ab9-62a773244515#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet](https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet-a-77f318e5-a0ec-429b-9ab9-62a773244515#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet](https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet-a-77f318e5-a0ec-429b-9ab9-62a773244515#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### zwergplanet
-
-* [https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet](https://www.spiegel.de/wissenschaft/weltall/2026-ed138-forscher-entdecken-moeglichen-neuen-zwergplanet-a-77f318e5-a0ec-429b-9ab9-62a773244515#ref=rss)
-### brit
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### school
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### adele
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### amy
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### winehouse
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### lola
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### young
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### holland
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms](https://www.spiegel.de/kultur/musik/portraet-der-brit-school-adele-amy-winehouse-lola-young-tom-holland-handwerker-des-ruhms-a-8e43006d-e8d6-4523-84d8-57d709ef966f#ref=rss)
-* [https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos](https://www.spiegel.de/panorama/proteste-in-deutschland-behoerden-erwarten-ueberwiegend-friedliche-jugenddemos-a-7eee9264-dc34-47da-9ac5-65cc5aafe2b7#ref=rss)
-### achtpunkteplan
-
-* [https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne](https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss)
-### krise
-
-* [https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne](https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden](https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss)
-### ursache
-
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-### 60
-
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### kollision
-
-* [https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60](https://www.spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege](https://www.spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7#ref=rss)
-### linkefraktion
-
-* [https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht](https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht-a-140345f9-627e-4ec5-af22-ba3d7bfcf64d#ref=rss)
-### abgeordnetenhaus
-
-* [https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht](https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht-a-140345f9-627e-4ec5-af22-ba3d7bfcf64d#ref=rss)
-### maría
-
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-### corina
-
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-### machado
-
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-### venezuela
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen](https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen-a-c13d5975-9257-4d03-9ae6-66317ed338ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-### passiert
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+* [https://www.spiegel.de/kultur/musik/in-den-usa-ist-ella-langley-zurzeit-erfolgreicher-als-taylor-swift-warum-ist-sie-den-deutschen-so-egal](https://www.spiegel.de/kultur/musik/in-den-usa-ist-ella-langley-zurzeit-erfolgreicher-als-taylor-swift-warum-ist-sie-den-deutschen-so-egal-a-dd109749-a1aa-479d-ba05-07363b7d0743#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten](https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten-a-691a25b3-3bf2-4b83-b6b4-ce9a46874c2f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen](https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen-a-0a44eb75-fcc4-4a95-8660-7d4ae45d7628#ref=rss)
-### liegt
+* [https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium](https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium-a-86dd92ff-7e64-4699-a7c6-119b11ca25ff#ref=rss)
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+* [https://www.spiegel.de/kultur/musik/in-den-usa-ist-ella-langley-zurzeit-erfolgreicher-als-taylor-swift-warum-ist-sie-den-deutschen-so-egal](https://www.spiegel.de/kultur/musik/in-den-usa-ist-ella-langley-zurzeit-erfolgreicher-als-taylor-swift-warum-ist-sie-den-deutschen-so-egal-a-dd109749-a1aa-479d-ba05-07363b7d0743#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat](https://www.spiegel.de/ausland/maria-corina-machado-zurueck-in-venezuela-was-passiert-jetzt-in-trumps-vasallenstaat-a-d7fb0d59-c076-4ab1-9c38-8f27f2f3b775#ref=rss)
-* [https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit](https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss)
-### midterms
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+### angst
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen](https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen-a-0a44eb75-fcc4-4a95-8660-7d4ae45d7628#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+### terrorsympathisanten
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen](https://www.spiegel.de/ausland/midterms-in-den-usa-was-passiert-wenn-die-demokraten-die-macht-im-kongress-bekommen-a-0a44eb75-fcc4-4a95-8660-7d4ae45d7628#ref=rss)
-* [https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit](https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt](https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt-a-1d35b6d9-c342-4b8b-9db6-fe76420076d6#ref=rss)
-### kind
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt](https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt-a-1d35b6d9-c342-4b8b-9db6-fe76420076d6#ref=rss)
-### kylian
+* [https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen](https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen-a-6250e970-7b0a-4a35-a835-0328b7f35f5a#ref=rss)
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china](https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china-a-b0884c89-87f5-474a-909d-b4b0c37243c5#ref=rss)
-### mbappé
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise](https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise-a-c9595aac-e3c6-4683-aa48-083c60cc384a#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china](https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china-a-b0884c89-87f5-474a-909d-b4b0c37243c5#ref=rss)
-### einlenken
-
-* [https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china](https://www.spiegel.de/sport/kontroverse-in-china-kylian-mbappe-und-sein-eigentor-in-china-a-b0884c89-87f5-474a-909d-b4b0c37243c5#ref=rss)
-### flávio
-
-* [https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet](https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss)
-### bolsonaro
-
-* [https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet](https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss)
-### wahlniederlage
-
-* [https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet](https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss)
-### harry
-
-* [https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer](https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer-a-2c1e693c-52b0-4b8c-8e3e-db702f0eb797#ref=rss)
-### kane
-
-* [https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer](https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer-a-2c1e693c-52b0-4b8c-8e3e-db702f0eb797#ref=rss)
-### schnitzel
-
-* [https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer](https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer-a-2c1e693c-52b0-4b8c-8e3e-db702f0eb797#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht](https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht-a-36ae46ac-fd25-45ff-b718-8c899bcf9629#ref=rss)
-### elterngeld
-
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen](https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen-a-0995227d-8248-45e8-9062-6dbcb76de5f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+* [https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten](https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten-a-691a25b3-3bf2-4b83-b6b4-ce9a46874c2f#ref=rss)
 ### steigen
 
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen](https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen-a-0995227d-8248-45e8-9062-6dbcb76de5f8#ref=rss)
-### knapp
+* [https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise](https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise-a-c9595aac-e3c6-4683-aa48-083c60cc384a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
+### jan
 
-* [https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch](https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss)
-### schreiben
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### böhmermann
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### seltener
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### zdf
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### option
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### magazin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### heimarbeit
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### royale
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-unternehmen-schreiben-seltener-jobs-mit-option-auf-heimarbeit-aus-a-cec80bf1-229a-41f5-b7ac-e33ec1212d43#ref=rss)
-### stimmen
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### himmler
 
-* [https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit](https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss)
-### dietenhofen
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch](https://www.spiegel.de/kultur/tv/jan-boehmermann-zdf-magazin-royale-laut-zdf-intendant-himmler-vielleicht-am-ende-zu-fanatisch-a-e06e31fd-c853-474e-babc-94017ce2605b#ref=rss)
+### nordkorea
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden](https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss)
-### rechenzentrum
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+### ballistische
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden](https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss)
-### brothers
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+### kurzstreckenraketen
 
-* [https://www.spiegel.de/panorama/leute/jonas-brothers-kevin-jonas-schickte-bruedern-joe-und-nick-ein-nacktfoto-von-sich](https://www.spiegel.de/panorama/leute/jonas-brothers-kevin-jonas-schickte-bruedern-joe-und-nick-ein-nacktfoto-von-sich-a-f4cfc6a1-535e-4158-b1d9-01af80c330b3#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+### richtung
+
+* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649#ref=rss)
+* [https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg](https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg-a-4f87d013-d052-4d27-9957-7883e310192e#ref=rss)
+### kanadas
+
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+### mark
+
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+### carney
+
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie](https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss)
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche](https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a#ref=rss)
+### oleschky
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleschky-waffenruhe-haelt-weiter-evakuierung-wird-vorbereitet](https://www.spiegel.de/ausland/ukraine-krieg-oleschky-waffenruhe-haelt-weiter-evakuierung-wird-vorbereitet-a-8a4569b0-33eb-4f23-b0ab-637ae9dd4310#ref=rss)
+### ezbchefin
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
+### christine
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
+### lagarde
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck](https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss)
+### zusammenhang
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+### rang
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+### risikobereitschaft
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+### schimpansen
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen](https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49#ref=rss)
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/neustadt-am-ruebenberge-mutmasslicher-fahrer-nach-auto-angriff-festgenommen](https://www.spiegel.de/panorama/justiz/neustadt-am-ruebenberge-mutmasslicher-fahrer-nach-auto-angriff-festgenommen-a-00d47937-0d26-40a5-b191-ee30776a0be0#ref=rss)
+* [https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen](https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen-a-90aa33a0-a451-4192-b143-2260cb7af620#ref=rss)
+### zugleich
+
+* [https://www.spiegel.de/panorama/justiz/neustadt-am-ruebenberge-mutmasslicher-fahrer-nach-auto-angriff-festgenommen](https://www.spiegel.de/panorama/justiz/neustadt-am-ruebenberge-mutmasslicher-fahrer-nach-auto-angriff-festgenommen-a-00d47937-0d26-40a5-b191-ee30776a0be0#ref=rss)
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+### zdfreporterin
+
+* [https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen](https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen-a-6250e970-7b0a-4a35-a835-0328b7f35f5a#ref=rss)
+### lili
+
+* [https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen](https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen-a-6250e970-7b0a-4a35-a835-0328b7f35f5a#ref=rss)
+### engels
+
+* [https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen](https://www.spiegel.de/sport/zdf-reporterin-lili-engels-ueber-beleidigte-bundestrainer-und-grosse-philosophen-a-6250e970-7b0a-4a35-a835-0328b7f35f5a#ref=rss)
+### bundesschülerkonferenz
+
+* [https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november](https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november-a-892ea4ac-7cbd-4f7c-b98e-925a0d199ccd#ref=rss)
+### november
+
+* [https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november](https://www.spiegel.de/panorama/gesellschaft/bundesschuelerkonferenz-plant-eigenen-protest-am-20-november-a-892ea4ac-7cbd-4f7c-b98e-925a0d199ccd#ref=rss)
+* [https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus](https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus-a-1e254355-4c7c-49a3-b2eb-def79c001adb#ref=rss)
+### nara
+
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+### smith
+
+* [https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will](https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+### linnemann
+
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+### gesundheitsminister
+
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+### laufen
+
+* [https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus](https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft](https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft-a-a585c988-2ed9-4582-aee7-608fb625d80d#ref=rss)
+### elterngeld
+
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter](https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter-a-049115ea-d806-40ac-b157-44f160859003#ref=rss)
+### bezahlte
+
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter](https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter-a-049115ea-d806-40ac-b157-44f160859003#ref=rss)
+### freistellung
+
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter](https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter-a-049115ea-d806-40ac-b157-44f160859003#ref=rss)
+### timo
+
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen](https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen-a-c13d5975-9257-4d03-9ae6-66317ed338ec#ref=rss)
+### boll
+
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen](https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen-a-c13d5975-9257-4d03-9ae6-66317ed338ec#ref=rss)
+### monaco
+
+* [https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft](https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft-a-a585c988-2ed9-4582-aee7-608fb625d80d#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft](https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft-a-a585c988-2ed9-4582-aee7-608fb625d80d#ref=rss)
+### mlb
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+### milwaukee
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+### brewers
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+### titel
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga](https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss)
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+### hacker
+
+* [https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium](https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium-a-86dd92ff-7e64-4699-a7c6-119b11ca25ff#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium](https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium-a-86dd92ff-7e64-4699-a7c6-119b11ca25ff#ref=rss)
+* [https://www.spiegel.de/gesundheit/ist-tofu-eine-natuerliche-proteinquelle-oder-hormonbombe-der-check](https://www.spiegel.de/gesundheit/ist-tofu-eine-natuerliche-proteinquelle-oder-hormonbombe-der-check-a-479c2db8-5edf-4207-a7ba-dc9813e31f68#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+### dritten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau](https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen](https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen-a-90aa33a0-a451-4192-b143-2260cb7af620#ref=rss)
+### wildpark
+
+* [https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen](https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen-a-90aa33a0-a451-4192-b143-2260cb7af620#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+### diplomaten
+
+* [https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus](https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise](https://www.spiegel.de/mobilitaet/auto/kfz-werkstatt-kfz-werkstattkosten-steigen-dreimal-so-stark-wie-allgemeine-verbraucherpreise-a-c9595aac-e3c6-4683-aa48-083c60cc384a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
+### dichters
+
+* [https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus](https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus-a-1e254355-4c7c-49a3-b2eb-def79c001adb#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus](https://www.spiegel.de/geschichte/goethehaus-renovierung-die-metamorphose-des-dichters-und-seines-dachsbaus-a-1e254355-4c7c-49a3-b2eb-def79c001adb#ref=rss)
+* [https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg](https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg-a-4f87d013-d052-4d27-9957-7883e310192e#ref=rss)
+### politikpodcast
+
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+### mad
+
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+### kings
+
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+### internen
+
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss)
+### notiz
+
+* [https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz](https://www.spiegel.de/politik/politik-podcast-mad-kings-elif-eralp-und-die-folgen-einer-internen-notiz-a-47be048a-b6a6-42fd-a2a7-c73754af14fe#ref=rss)
+### viele
+
+* [https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten](https://www.spiegel.de/gesundheit/warum-viele-menschen-magensaeureblocker-nehmen-obwohl-sie-es-nicht-braeuchten-a-691a25b3-3bf2-4b83-b6b4-ce9a46874c2f#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen](https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg](https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg-a-4f87d013-d052-4d27-9957-7883e310192e#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg](https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg-a-4f87d013-d052-4d27-9957-7883e310192e#ref=rss)
+### exformel1pilot
+
+* [https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg](https://www.spiegel.de/panorama/ralf-schumacher-geplatzter-reifen-auf-startbahn-verhindert-flug-nach-salzburg-a-4f87d013-d052-4d27-9957-7883e310192e#ref=rss)
 
