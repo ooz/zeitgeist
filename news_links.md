@@ -4,291 +4,341 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hohe
-
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil](https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil-a-af8f899e-a46c-4186-97b3-bbf0d61e02d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028](https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein](https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein-a-edfe8bb4-0644-46b3-b428-044141fe70d3#ref=rss)
-### quartal
-
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein](https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein-a-edfe8bb4-0644-46b3-b428-044141fe70d3#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
-### stewart
-
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen](https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen-a-0b18187d-562c-4233-b59b-b6323a5f58dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption](https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption-a-ddb8bbb8-7809-4b0b-ab4a-9c26d01c3e86#ref=rss)
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption](https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption-a-ddb8bbb8-7809-4b0b-ab4a-9c26d01c3e86#ref=rss)
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028](https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger](https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger-a-cce9cdb8-cc6a-4158-9986-8c9aa5a8eb13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit](https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit-a-9bfc605e-c05d-4cfd-af52-2a7cbe8f6d46#ref=rss)
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-zwei-kollisionen-mehr-als-100-tote-kann-verkehrsminister-oscar-puente-im-amt-bleiben](https://www.spiegel.de/ausland/zugunglueck-in-spanien-zwei-kollisionen-mehr-als-100-tote-kann-verkehrsminister-oscar-puente-im-amt-bleiben-a-bd2a02d7-7515-46f1-9763-f5a1d18317e7#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss)
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-scheitert-mit-berufung-noch-haerteres-urteil](https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-scheitert-mit-berufung-noch-haerteres-urteil-a-c101b34a-7876-4a32-90ba-dc644e0585d3#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen](https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen-a-0b18187d-562c-4233-b59b-b6323a5f58dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil](https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil-a-af8f899e-a46c-4186-97b3-bbf0d61e02d9#ref=rss)
-### gewerkschaften
-
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil](https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil-a-af8f899e-a46c-4186-97b3-bbf0d61e02d9#ref=rss)
-### giorgia
-
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil](https://www.spiegel.de/ausland/italien-gewerkschaften-machen-bei-protesten-gegen-giorgia-meloni-mobil-a-af8f899e-a46c-4186-97b3-bbf0d61e02d9#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle](https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle-a-01fab068-b5c8-4564-bc9a-0263686a8212#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle](https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle-a-01fab068-b5c8-4564-bc9a-0263686a8212#ref=rss)
-### sah
-
-* [https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle](https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle-a-01fab068-b5c8-4564-bc9a-0263686a8212#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben](https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben-a-48d8dd97-4b06-4417-8705-044d36e41b67#ref=rss)
-### gründe
-
-* [https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle](https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle-a-01fab068-b5c8-4564-bc9a-0263686a8212#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten-a-2df08a8b-0ddf-41f2-9de4-cb200b46c685#ref=rss)
-### gesprochen
-
-* [https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle](https://www.spiegel.de/politik/deutschland/ex-bundeskanzlerin-angela-merkel-spricht-ueber-ihre-zitteranfaelle-a-01fab068-b5c8-4564-bc9a-0263686a8212#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln](https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln-a-10ddf2c5-b6d1-4bc7-90b3-d732572a6ad1#ref=rss)
-### plattling
-
-* [https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse](https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse-a-48e63f2e-d5b4-4d63-a798-9922e192e29f#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse](https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse-a-48e63f2e-d5b4-4d63-a798-9922e192e29f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein](https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein-a-c364cb28-4c29-423f-ad32-cba54f308ae1#ref=rss)
-### flucht
-
-* [https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse](https://www.spiegel.de/panorama/justiz/plattling-in-bayern-ladendieb-verliert-auf-der-flucht-seine-geldboerse-a-48e63f2e-d5b4-4d63-a798-9922e192e29f#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen](https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen-a-b246d971-54e2-4627-9f05-5c8ed1437be7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen](https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen-a-b246d971-54e2-4627-9f05-5c8ed1437be7#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen](https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen-a-b246d971-54e2-4627-9f05-5c8ed1437be7#ref=rss)
-### xiv
-
-* [https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen](https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen-a-b246d971-54e2-4627-9f05-5c8ed1437be7#ref=rss)
-### neben
-
-* [https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen](https://www.spiegel.de/ausland/midterms-bislang-wohl-kein-stimmzettel-von-papst-leo-xiv-eingegangen-a-b246d971-54e2-4627-9f05-5c8ed1437be7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption](https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption-a-ddb8bbb8-7809-4b0b-ab4a-9c26d01c3e86#ref=rss)
-### mayon
-
-* [https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption](https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption-a-ddb8bbb8-7809-4b0b-ab4a-9c26d01c3e86#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption](https://www.spiegel.de/ausland/philippinen-mayon-behoerden-warnen-nach-vulkanausbruch-vor-groesserer-eruption-a-ddb8bbb8-7809-4b0b-ab4a-9c26d01c3e86#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028](https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### bald
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### 80
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### autobahnen
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### gelten
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-### mittel
-
-* [https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte](https://www.spiegel.de/mobilitaet/schweiz-warum-bald-tempo-80-auf-autobahnen-gelten-koennte-a-83d613a5-00b0-4a07-8e4c-911b7ae1fda1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit](https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit-a-9bfc605e-c05d-4cfd-af52-2a7cbe8f6d46#ref=rss)
-### rheinmetall
-
-* [https://www.spiegel.de/panorama/justiz/rheinmetall-kassel-staatsschutz-ermittelt-nach-mutmasslicher-brandstiftung-auf-baustelle](https://www.spiegel.de/panorama/justiz/rheinmetall-kassel-staatsschutz-ermittelt-nach-mutmasslicher-brandstiftung-auf-baustelle-a-7058d255-4c4c-431e-ac36-e695952ea271#ref=rss)
-### kassel
-
-* [https://www.spiegel.de/panorama/justiz/rheinmetall-kassel-staatsschutz-ermittelt-nach-mutmasslicher-brandstiftung-auf-baustelle](https://www.spiegel.de/panorama/justiz/rheinmetall-kassel-staatsschutz-ermittelt-nach-mutmasslicher-brandstiftung-auf-baustelle-a-7058d255-4c4c-431e-ac36-e695952ea271#ref=rss)
-### brüder
-
-* [https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger](https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger-a-cce9cdb8-cc6a-4158-9986-8c9aa5a8eb13#ref=rss)
-### 40
-
-* [https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger](https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger-a-cce9cdb8-cc6a-4158-9986-8c9aa5a8eb13#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger](https://www.spiegel.de/sport/georg-fellner-brueder-besuchen-grab-von-vor-40-jahren-verungluecktem-bergsteiger-a-cce9cdb8-cc6a-4158-9986-8c9aa5a8eb13#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss)
-### wirtschaftsleistung
+* [https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland](https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland-a-98a5d155-5827-4eb1-97a2-4364ec8174a0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-### leicht
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht](https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b#ref=rss)
+* [https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi](https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi-a-795cadf3-8a31-445f-877a-4c28f4c7c46b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu](https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss)
-### trifft
+* [https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi](https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi-a-795cadf3-8a31-445f-877a-4c28f4c7c46b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik](https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik-a-9b2a4001-7b08-4ffc-b876-5d6873bc0f96#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### elif
 
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein](https://www.spiegel.de/wirtschaft/audi-quartalsgewinn-bricht-ein-a-edfe8bb4-0644-46b3-b428-044141fe70d3#ref=rss)
-### etwa
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp](https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp-a-84d1c2ff-9630-4a1d-8474-a44e17c83c2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+### eralp
 
-* [https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt](https://www.spiegel.de/wissenschaft/mensch/patrick-stewart-an-dieser-seltenen-form-der-demenz-war-der-britische-schauspieler-erkrankt-a-c9cd6fa7-5bb3-4ea6-95a4-e0adcc00cbb7#ref=rss)
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
-### trek
-
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
-### bildern
-
-* [https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern](https://www.spiegel.de/kultur/patrick-stewart-karriere-von-shakespeare-bis-star-trek-in-bildern-a-e92424a6-c1ee-49ec-aa7e-dd55fcc5ba47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp](https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp-a-84d1c2ff-9630-4a1d-8474-a44e17c83c2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
 ### oktober
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss)
-### 295
+* [https://www.spiegel.de/panorama/wetter-oktober-war-nass-und-warm-jetzt-wird-es-neblig](https://www.spiegel.de/panorama/wetter-oktober-war-nass-und-warm-jetzt-wird-es-neblig-a-8ee702ec-939a-494d-8b6e-0826b024e043#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### gen
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss)
-### millionen
+* [https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit](https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit-a-b561ba2d-d39b-419d-87a8-a0a922dc3dd4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss](https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss-a-570ef9d8-2574-4e69-b5d6-af88aed4d9ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### ibrahim
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss)
-### bad
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### oldesloe
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet](https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet-a-e74f0c50-f82c-461c-ac78-ba12d887b8ae#ref=rss)
+### oleschky
 
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### 20
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet](https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet-a-e74f0c50-f82c-461c-ac78-ba12d887b8ae#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### bord
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp](https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp-a-84d1c2ff-9630-4a1d-8474-a44e17c83c2d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### london
 
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### hauswand
+* [https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi](https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi-a-795cadf3-8a31-445f-877a-4c28f4c7c46b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung](https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung-a-5781f1ea-2902-4833-b264-e9fa8bf72075#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand](https://www.spiegel.de/panorama/bad-oldesloe-linienbus-mit-20-kindern-an-bord-prallt-gegen-hauswand-a-d4b09acc-567a-43be-8e99-2cc56759e698#ref=rss)
-### ohio
+* [https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit](https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit-a-b561ba2d-d39b-419d-87a8-a0a922dc3dd4#ref=rss)
+* [https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle](https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle-a-e54ee113-c5f3-4f37-9ea1-ab653ba3cce8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung](https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung-a-5781f1ea-2902-4833-b264-e9fa8bf72075#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen](https://www.spiegel.de/ausland/donald-trump-in-ohio-kann-sich-trump-auf-seine-maga-bewegung-verlassen-a-0b18187d-562c-4233-b59b-b6323a5f58dd#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland](https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland-a-98a5d155-5827-4eb1-97a2-4364ec8174a0#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1#ref=rss)
-### bahn
+* [https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden](https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden-a-041e16c7-d5c5-49b0-9a31-ac1a91a13b18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### z
 
-* [https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit](https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit-a-9bfc605e-c05d-4cfd-af52-2a7cbe8f6d46#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss](https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss-a-570ef9d8-2574-4e69-b5d6-af88aed4d9ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### regelt
 
-* [https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit](https://www.spiegel.de/wirtschaft/ueberlastetes-netz-bahn-erwaegt-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit-a-9bfc605e-c05d-4cfd-af52-2a7cbe8f6d46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028](https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss)
-### drei
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss](https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss-a-570ef9d8-2574-4e69-b5d6-af88aed4d9ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-scheitert-mit-berufung-noch-haerteres-urteil](https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-scheitert-mit-berufung-noch-haerteres-urteil-a-c101b34a-7876-4a32-90ba-dc644e0585d3#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-wie-macht-man-den-besten-kartoffelbrei](https://www.spiegel.de/effilee/kochen-wie-macht-man-den-besten-kartoffelbrei-a-af4ea500-58f3-45c1-8510-1f400efb3ad3#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen](https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen-a-94835fdf-4aa9-4864-bfb0-7bc2982ced4f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten-a-2df08a8b-0ddf-41f2-9de4-cb200b46c685#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
-### unsere
+* [https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen](https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen-a-94835fdf-4aa9-4864-bfb0-7bc2982ced4f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet](https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet-a-e74f0c50-f82c-461c-ac78-ba12d887b8ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### sommer
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten-a-2df08a8b-0ddf-41f2-9de4-cb200b46c685#ref=rss)
-* [https://www.spiegel.de/effilee/kochen-wie-macht-man-den-besten-kartoffelbrei](https://www.spiegel.de/effilee/kochen-wie-macht-man-den-besten-kartoffelbrei-a-af4ea500-58f3-45c1-8510-1f400efb3ad3#ref=rss)
-### entscheidung
+* [https://www.spiegel.de/panorama/frankreich-sieben-millionen-kondome-wegen-maengeln-zurueckgerufen](https://www.spiegel.de/panorama/frankreich-sieben-millionen-kondome-wegen-maengeln-zurueckgerufen-a-21173b2c-f4a9-4fd0-a123-1a0010593170#ref=rss)
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### maddie
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten](https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten-a-2df08a8b-0ddf-41f2-9de4-cb200b46c685#ref=rss)
-* [https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein](https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein-a-c364cb28-4c29-423f-ad32-cba54f308ae1#ref=rss)
-### karin
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln](https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln-a-10ddf2c5-b6d1-4bc7-90b3-d732572a6ad1#ref=rss)
-### prien
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### christian
 
-* [https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln](https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln-a-10ddf2c5-b6d1-4bc7-90b3-d732572a6ad1#ref=rss)
-### bundesfamilienministerin
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+### b
 
-* [https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln](https://www.spiegel.de/wirtschaft/unterhaltsvorschuss-bundesfamilienministerin-will-nachverhandeln-a-10ddf2c5-b6d1-4bc7-90b3-d732572a6ad1#ref=rss)
-### nowaja
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein](https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein-a-c364cb28-4c29-423f-ad32-cba54f308ae1#ref=rss)
-### gaseta
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+### gefährlich
 
-* [https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein](https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein-a-c364cb28-4c29-423f-ad32-cba54f308ae1#ref=rss)
-### wangerooge
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg](https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg-a-d02b16bd-7979-4cc3-933e-65d066287c6a#ref=rss)
-### norderney
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+### leo
 
-* [https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg](https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg-a-d02b16bd-7979-4cc3-933e-65d066287c6a#ref=rss)
-### binance
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+### xiv
 
-* [https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen](https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4#ref=rss)
-### milliarden
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+### stimme
 
-* [https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen](https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4#ref=rss)
-### dollar
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+### abgegeben
 
-* [https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen](https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+### demokratischen
 
-* [https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk](https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk-a-21b047c5-22d6-47f0-9471-b1a08705a9e2#ref=rss)
-### südkorea
+* [https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben](https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss)
+* [https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle](https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle-a-e54ee113-c5f3-4f37-9ea1-ab653ba3cce8#ref=rss)
+### glyphosat
 
-* [https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk](https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk-a-21b047c5-22d6-47f0-9471-b1a08705a9e2#ref=rss)
-### findet
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht](https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b#ref=rss)
+### bayer
 
-* [https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk](https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk-a-21b047c5-22d6-47f0-9471-b1a08705a9e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
-### wadephul
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht](https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b#ref=rss)
+### mögliche
 
-* [https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben](https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben-a-48d8dd97-4b06-4417-8705-044d36e41b67#ref=rss)
-### lawrow
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht](https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### entschieden
 
-* [https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben](https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben-a-48d8dd97-4b06-4417-8705-044d36e41b67#ref=rss)
-### außenminister
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht](https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neustadt-an-der-weinstrasse-ex-abiturient-scheitert-mit-klage-wegen-unterrichtsausfall](https://www.spiegel.de/panorama/justiz/neustadt-an-der-weinstrasse-ex-abiturient-scheitert-mit-klage-wegen-unterrichtsausfall-a-3d9a6e1c-8313-4df5-ab51-e1efd3afcd24#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben](https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben-a-48d8dd97-4b06-4417-8705-044d36e41b67#ref=rss)
-### anthony
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
-### scaramucci
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### air
 
-* [https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen](https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### force
+
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### one
+
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### schrecken
+
+* [https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington](https://www.spiegel.de/ausland/donald-trump-air-force-one-sorgt-mit-halloweenflug-fuer-schrecken-in-washington-a-837307ee-9395-4f16-87c8-9fabeaf38b0a#ref=rss)
+### stasi
+
+* [https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi](https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi-a-795cadf3-8a31-445f-877a-4c28f4c7c46b#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/wetter-oktober-war-nass-und-warm-jetzt-wird-es-neblig](https://www.spiegel.de/panorama/wetter-oktober-war-nass-und-warm-jetzt-wird-es-neblig-a-8ee702ec-939a-494d-8b6e-0826b024e043#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### haftbefehl
+
+* [https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit](https://www.spiegel.de/kultur/musik/haftbefehl-veroeffentlicht-neuen-song-trotz-auszeit-a-b561ba2d-d39b-419d-87a8-a0a922dc3dd4#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle](https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle-a-e54ee113-c5f3-4f37-9ea1-ab653ba3cce8#ref=rss)
+### mediziner
+
+* [https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle](https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle-a-e54ee113-c5f3-4f37-9ea1-ab653ba3cce8#ref=rss)
+### statt
+
+* [https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle](https://www.spiegel.de/ausland/ebola-in-dr-kongo-mediziner-tanzen-nach-ausbleiben-neuer-faelle-a-e54ee113-c5f3-4f37-9ea1-ab653ba3cce8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik](https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik-a-9b2a4001-7b08-4ffc-b876-5d6873bc0f96#ref=rss)
+### christa
+
+* [https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt](https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt-a-28365bab-8e1c-415f-afe1-a3c16de642f6#ref=rss)
+### pike
+
+* [https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt](https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt-a-28365bab-8e1c-415f-afe1-a3c16de642f6#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt](https://www.spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt-a-28365bab-8e1c-415f-afe1-a3c16de642f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### mann
+
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+### angst
+
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+### namen
+
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt](https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba#ref=rss)
+### nennen
+
+* [https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat](https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt](https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-fristlose-kuendigung-trotz-attest-risiken-bei-krankmeldung-im-urlaub](https://www.spiegel.de/karriere/arbeitsrecht-fristlose-kuendigung-trotz-attest-risiken-bei-krankmeldung-im-urlaub-a-68e2fbbc-fa12-4851-afeb-68da63aa0800#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/mobilitaet/dresden-legalisiert-populaeren-selfmade-zebrastreifen](https://www.spiegel.de/mobilitaet/dresden-legalisiert-populaeren-selfmade-zebrastreifen-a-c6309221-ef33-4a42-b4f3-58129a7b5027#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet](https://www.spiegel.de/ausland/ukraine-hilfsaktion-in-der-besetzten-frontstadt-oleschky-gestartet-a-e74f0c50-f82c-461c-ac78-ba12d887b8ae#ref=rss)
+### klage
+
+* [https://www.spiegel.de/panorama/justiz/neustadt-an-der-weinstrasse-ex-abiturient-scheitert-mit-klage-wegen-unterrichtsausfall](https://www.spiegel.de/panorama/justiz/neustadt-an-der-weinstrasse-ex-abiturient-scheitert-mit-klage-wegen-unterrichtsausfall-a-3d9a6e1c-8313-4df5-ab51-e1efd3afcd24#ref=rss)
+### junge
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung](https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung-a-5781f1ea-2902-4833-b264-e9fa8bf72075#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### starb
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung](https://www.spiegel.de/wissenschaft/natur/grossbritannien-dino-fossil-aus-suedengland-gehoert-zu-bislang-unentdeckter-gattung-a-5781f1ea-2902-4833-b264-e9fa8bf72075#ref=rss)
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### waffenstillstand
+
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+### rettung
+
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+### zivilisten
+
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky](https://www.spiegel.de/ausland/ukraine-lokaler-waffenstillstand-ermoeglicht-rettung-von-zivilisten-hoffnung-in-oleschky-a-d049ce41-0541-4f18-881b-82778beeb224#ref=rss)
+* [https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland](https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland-a-98a5d155-5827-4eb1-97a2-4364ec8174a0#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland](https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland-a-98a5d155-5827-4eb1-97a2-4364ec8174a0#ref=rss)
+### komme
+
+* [https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland](https://www.spiegel.de/ausland/gesundheitssystem-warum-ich-in-der-schweiz-schneller-zum-arzt-komme-als-in-deutschland-a-98a5d155-5827-4eb1-97a2-4364ec8174a0#ref=rss)
+### glaube
+
+* [https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik](https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik-a-9b2a4001-7b08-4ffc-b876-5d6873bc0f96#ref=rss)
+### abiturientin
+
+* [https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik](https://www.spiegel.de/kultur/kino/filmhit-glaube-der-ruf-gottes-im-leben-einer-abiturientin-kritik-a-9b2a4001-7b08-4ffc-b876-5d6873bc0f96#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt](https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt](https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt](https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern](https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+### nummer
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+### geschafft
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen](https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden](https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden-a-041e16c7-d5c5-49b0-9a31-ac1a91a13b18#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden](https://www.spiegel.de/wissenschaft/natur/zugvoegel-wie-atlantiksturmtaucher-unter-jetlag-leiden-a-041e16c7-d5c5-49b0-9a31-ac1a91a13b18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### ernst
+
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss](https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss-a-570ef9d8-2574-4e69-b5d6-af88aed4d9ef#ref=rss)
+### nehmen
+
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss](https://www.spiegel.de/panorama/gesellschaft/proteste-von-gen-z-regelt-warum-die-politik-die-aengste-ernst-nehmen-muss-a-570ef9d8-2574-4e69-b5d6-af88aed4d9ef#ref=rss)
+### gronau
+
+* [https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen](https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen-a-94835fdf-4aa9-4864-bfb0-7bc2982ced4f#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen](https://www.spiegel.de/panorama/gronau-muensterland-zwei-bauarbeiter-auf-schulbaustelle-von-treppenteilen-erschlagen-a-94835fdf-4aa9-4864-bfb0-7bc2982ced4f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### tankrabatt
+
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken](https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### freispruch
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### gina
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### h
+
+* [https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h](https://www.spiegel.de/panorama/justiz/fall-fabian-verteidiger-verlangen-freispruch-fuer-angeklagte-gina-h-a-a7957707-4977-4b78-81b0-643240fc8a0b#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-sieben-millionen-kondome-wegen-maengeln-zurueckgerufen](https://www.spiegel.de/panorama/frankreich-sieben-millionen-kondome-wegen-maengeln-zurueckgerufen-a-21173b2c-f4a9-4fd0-a123-1a0010593170#ref=rss)
+### florida
+
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### king
+
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### tide
+
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### hurrikan
+
+* [https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan](https://www.spiegel.de/wissenschaft/natur/florida-king-tide-sorgt-fuer-flut-ohne-hurrikan-a-3070c89b-fdf2-4eb3-9f05-0172504e2b01#ref=rss)
+### elke
+
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
+### 85
+
+* [https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren](https://www.spiegel.de/kultur/kino/elke-sommer-ist-tot-schauspielerin-starb-im-alter-von-85-jahren-a-d62219b1-b227-460b-8d7b-cb03baffe1b7#ref=rss)
 
