@@ -4,372 +4,309 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### linke
 
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-* [https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren](https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss)
-* [https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren](https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren-a-3d259520-3a43-4250-8896-c3f375734ea9#ref=rss)
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz](https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz-a-725cb760-a953-4400-bf50-9392c8fb49d7#ref=rss)
-* [https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo](https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-### midterms
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-### menschen
+* [https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen](https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen-a-6190342a-9037-4cf5-b0c4-c744c64e4292#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+* [https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung](https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten](https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten-a-3ccbf2a2-8ba3-4470-86bf-1a2bee5c44b7#ref=rss)
+### parteitag
 
-* [https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen](https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-* [https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo](https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss)
-* [https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern](https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern-a-10c5ff07-8a80-46d2-8c44-71e9f0e56ec5#ref=rss)
-### lawrow
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### elif
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### eralp
+
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-### wirklich
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten](https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten-a-3ccbf2a2-8ba3-4470-86bf-1a2bee5c44b7#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden](https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden-a-8a22dfff-4452-4a6d-ad9f-92395a83592e#ref=rss)
-* [https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen](https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren](https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss)
-* [https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren](https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren-a-3d259520-3a43-4250-8896-c3f375734ea9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-### halloween
-
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz](https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz-a-725cb760-a953-4400-bf50-9392c8fb49d7#ref=rss)
-### quiz
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen](https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes](https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-### marco
-
-* [https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast](https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast-a-da72eebb-109e-4aa8-982b-40e05f0e5f23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-### rubio
-
-* [https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast](https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast-a-da72eebb-109e-4aa8-982b-40e05f0e5f23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-* [https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz](https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz-a-725cb760-a953-4400-bf50-9392c8fb49d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### junge
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-### allem
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-### gen
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### z
-
-* [https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit](https://www.spiegel.de/ausland/donald-trump-junge-waehler-vor-den-midterms-es-geht-nur-um-ballsaele-und-bullshit-a-2d7e6688-1803-4360-be0e-6188d25ea23e#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-### testen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### wangerooge
-
-* [https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand](https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand-a-3504fa95-562a-478b-8d13-a697f2536d2a#ref=rss)
-### sturmtief
-
-* [https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand](https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand-a-3504fa95-562a-478b-8d13-a697f2536d2a#ref=rss)
-### manja
-
-* [https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand](https://www.spiegel.de/panorama/wangerooge-nach-sturmtief-manja-droht-totalschaden-am-badestrand-a-3504fa95-562a-478b-8d13-a697f2536d2a#ref=rss)
-### selma
-
-* [https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke](https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke-a-03deee87-8025-41a1-b24c-7ef391c3014f#ref=rss)
-### blair
-
-* [https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke](https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke-a-03deee87-8025-41a1-b24c-7ef391c3014f#ref=rss)
-### usschauspielerin
-
-* [https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke](https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke-a-03deee87-8025-41a1-b24c-7ef391c3014f#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke](https://www.spiegel.de/panorama/leute/selma-blair-us-schauspielerin-entschuldigt-sich-nach-mutmasslicher-attacke-a-03deee87-8025-41a1-b24c-7ef391c3014f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden](https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden-a-8a22dfff-4452-4a6d-ad9f-92395a83592e#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden](https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden-a-8a22dfff-4452-4a6d-ad9f-92395a83592e#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### brauchen
-
-* [https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden](https://www.spiegel.de/wirtschaft/soziales/hamburg-warum-in-einem-prachtbau-gleich-vier-mietvertraege-gekuendigt-wurden-a-8a22dfff-4452-4a6d-ad9f-92395a83592e#ref=rss)
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-### parteifreund
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### abdul
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### elsayed
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-### kritische
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed](https://www.spiegel.de/ausland/us-midterms-nancy-pelosi-kritisiert-ihren-parteifreund-abdul-el-sayed-a-efbc0348-6b34-4fae-9af6-93b1b61786e6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-### machtkampf
-
-* [https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes](https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss)
-### verfassungsgericht
-
-* [https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes](https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss)
-### nawrocki
-
-* [https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes](https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-### gut
-
-* [https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist](https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren](https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren](https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### bomben
-
-* [https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast](https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast-a-e29047b7-d3d0-4ec1-bd37-fc97815367a4#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast](https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast-a-e29047b7-d3d0-4ec1-bd37-fc97815367a4#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast](https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast-a-da72eebb-109e-4aa8-982b-40e05f0e5f23#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast](https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast-a-e29047b7-d3d0-4ec1-bd37-fc97815367a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz](https://www.spiegel.de/wirtschaft/halloween-handel-rechnet-mit-mehr-als-500-millionen-euro-umsatz-a-725cb760-a953-4400-bf50-9392c8fb49d7#ref=rss)
-### afd
-
-* [https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd](https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd-a-7dc922c8-429e-4cde-b82f-8a5824cbf8d9#ref=rss)
-### erst
-
-* [https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd](https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd-a-7dc922c8-429e-4cde-b82f-8a5824cbf8d9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+* [https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung](https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss)
-* [https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren](https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren-a-3d259520-3a43-4250-8896-c3f375734ea9#ref=rss)
-### rothenburg
+* [https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet](https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger](https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-staaten-einigen-sich-auf-aktionsplan-zum-weltnaturvertrag](https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-staaten-einigen-sich-auf-aktionsplan-zum-weltnaturvertrag-a-439d5cce-b284-4baf-8ef6-88aeb7dd49d8#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum](https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss)
-### tauber
+* [https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein](https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein-a-22240be5-0480-49d6-9ded-0d3aae6bec69#ref=rss)
+* [https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach](https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach-a-91e6ae12-c8ff-40d7-893e-469d5fceb0cb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet](https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet-a-7dc5a250-e934-4f49-8cca-bdac0c4fe995#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum](https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss)
-### kriminalmuseum
+* [https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein](https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein-a-22240be5-0480-49d6-9ded-0d3aae6bec69#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert](https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss)
+### emde
 
-* [https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum](https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### koalitionsverhandlungen
 
-* [https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum](https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch-a-d41ad190-0fb1-49fa-ad4f-865f073df68c#ref=rss)
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch-a-d41ad190-0fb1-49fa-ad4f-865f073df68c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet](https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet-a-7dc5a250-e934-4f49-8cca-bdac0c4fe995#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine](https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert](https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten](https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten-a-3ccbf2a2-8ba3-4470-86bf-1a2bee5c44b7#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### alten
+
+* [https://www.spiegel.de/deinspiegel/so-arbeitet-ein-pomologe-von-der-alten-sorte](https://www.spiegel.de/deinspiegel/so-arbeitet-ein-pomologe-von-der-alten-sorte-a-c00bf514-4bd7-4430-81b0-2edf3e104b80#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+### somalia
+
+* [https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet](https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet](https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet](https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen](https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen-a-b3f9d248-5d63-45a7-92a5-d1334bb8f2eb#ref=rss)
+### radikale
+
+* [https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet](https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### binance
+
+* [https://www.spiegel.de/netzwelt/binance-ersetzt-nach-cyberangriff-90-prozent-der-beute](https://www.spiegel.de/netzwelt/binance-ersetzt-nach-cyberangriff-90-prozent-der-beute-a-0cf808d6-3479-455b-84ce-0125de82c71d#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein](https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein-a-22240be5-0480-49d6-9ded-0d3aae6bec69#ref=rss)
+### pogačar
+
+* [https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein](https://www.spiegel.de/sport/radsport/radsport-tadej-pogacar-ist-nach-sturz-froh-am-leben-zu-sein-a-22240be5-0480-49d6-9ded-0d3aae6bec69#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach](https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach-a-91e6ae12-c8ff-40d7-893e-469d5fceb0cb#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach](https://www.spiegel.de/panorama/weisenheim-am-sand-mit-sechs-kindern-besetztes-auto-ueberschlaegt-sich-mehrfach-a-91e6ae12-c8ff-40d7-893e-469d5fceb0cb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet](https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet-a-7dc5a250-e934-4f49-8cca-bdac0c4fe995#ref=rss)
+### vanessa
+
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+### demonstriert
+
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen](https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen](https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen-a-6190342a-9037-4cf5-b0c4-c744c64e4292#ref=rss)
+### forschende
+
+* [https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen](https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen-a-6190342a-9037-4cf5-b0c4-c744c64e4292#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen](https://www.spiegel.de/psychologie/maschinenpsychologen-und-computerwissenschaftler-wollen-der-kuenstlichen-intelligenz-gefuehle-beibringen-a-6190342a-9037-4cf5-b0c4-c744c64e4292#ref=rss)
+* [https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine](https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch-a-d41ad190-0fb1-49fa-ad4f-865f073df68c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-im-liveticker-fc-bayern-muenchen-gegen-borussia-dortmund](https://www.spiegel.de/sport/fussball/fussball-bundesliga-im-liveticker-fc-bayern-muenchen-gegen-borussia-dortmund-a-0005ea13-a597-4649-90c8-0223cd38e0d5#ref=rss)
+### vfb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch-a-d41ad190-0fb1-49fa-ad4f-865f073df68c#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kriselnder-vfb-stuttgart-setzt-sich-im-hass-duell-mit-leverkusen-durch-a-d41ad190-0fb1-49fa-ad4f-865f073df68c#ref=rss)
+### allianz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-im-liveticker-fc-bayern-muenchen-gegen-borussia-dortmund](https://www.spiegel.de/sport/fussball/fussball-bundesliga-im-liveticker-fc-bayern-muenchen-gegen-borussia-dortmund-a-0005ea13-a597-4649-90c8-0223cd38e0d5#ref=rss)
+* [https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz](https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f#ref=rss)
+### alaska
+
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt](https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet](https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet-a-7dc5a250-e934-4f49-8cca-bdac0c4fe995#ref=rss)
+* [https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine](https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss)
+### posten
+
+* [https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet](https://www.spiegel.de/ausland/ukraine-soldat-amputiert-sich-bein-und-wird-per-drohne-vom-schlachtfeld-gerettet-a-7dc5a250-e934-4f49-8cca-bdac0c4fe995#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### zünden
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### demonstranten
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+### demo
+
+* [https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab](https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+### usbotschaft
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+### zwischenfall
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+### massenhaften
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+### verlusten
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten](https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
+### ich
+
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
+### frei
+
+* [https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo](https://www.spiegel.de/politik/deutschland/berlin-linke-trifft-sich-zu-parteitag-umstrittene-abgeordnete-emde-bei-demo-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen](https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen-a-b3f9d248-5d63-45a7-92a5-d1334bb8f2eb#ref=rss)
+* [https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht](https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss)
+### niger
+
+* [https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger](https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger](https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948#ref=rss)
+* [https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz](https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert](https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
+### israel
+
+* [https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung](https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss)
+### politischen
+
+* [https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung](https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss)
+* [https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht](https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer](https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer-a-07b21a3f-837a-4cc0-bea3-e747408b02e5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+### vermögensteuer
+
+* [https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer](https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer-a-07b21a3f-837a-4cc0-bea3-e747408b02e5#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+### fitzek
+
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+### namen
+
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss)
+### quiz
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
 ### reformationstag
 
 * [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
 ### feiertag
 
 * [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### geschichte
+### weltnaturvertrag
 
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss)
-### helfen
+* [https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-staaten-einigen-sich-auf-aktionsplan-zum-weltnaturvertrag](https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-staaten-einigen-sich-auf-aktionsplan-zum-weltnaturvertrag-a-439d5cce-b284-4baf-8ef6-88aeb7dd49d8#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen](https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-### erklärt
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen](https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast](https://www.spiegel.de/ausland/brasilien-lulas-wahlsieg-wird-zur-niederlage-fuer-marco-rubio-podcast-a-da72eebb-109e-4aa8-982b-40e05f0e5f23#ref=rss)
-### igel
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### joti
 
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-### sollten
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### chatzialexiou
 
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-### verlassenes
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen](https://www.spiegel.de/wissenschaft/natur/igel-gefunden-das-sollten-sie-tun-wenn-sie-ein-verletztes-oder-verlassenes-tier-sehen-a-b2d48455-f8a3-4fbd-8fc5-199adddb4552#ref=rss)
-### kanada
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### 96
 
-* [https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren](https://www.spiegel.de/karriere/auswandern-nach-kanada-deutscher-professor-zieht-bilanz-nach-mehr-als-20-jahren-a-3d259520-3a43-4250-8896-c3f375734ea9#ref=rss)
-### johann
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### sportchef
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-### wadephul
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### jonas
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### boldt
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### außenminister
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt](https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss)
+### leyen
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-### g20treffen
+* [https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz](https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn](https://www.spiegel.de/politik/deutschland/g20-marco-rubio-hofiert-sergej-lawrow-johann-wadephul-aergert-ihn-a-3666c34d-0bf2-4f6d-8a84-9576572fa805#ref=rss)
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-### wir
+* [https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz](https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f#ref=rss)
+### midterms
 
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-### alltag
+* [https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten](https://www.spiegel.de/ausland/midterms-sie-haben-donald-trump-gewaehlt-damit-er-fuer-sie-kaempft-jetzt-fuehlen-sie-sich-verraten-a-3ccbf2a2-8ba3-4470-86bf-1a2bee5c44b7#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen](https://www.spiegel.de/kultur/halloween-warum-wir-deutschen-mehr-eskalation-und-grusel-im-alltag-brauchen-a-e1153e97-11ba-4b5d-a9b6-5bccfe1364c9#ref=rss)
-* [https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut](https://www.spiegel.de/psychologie/ruhestand-was-rentnerinnen-und-rentner-im-neuen-alltag-wirklich-guttut-a-6c7d4d5b-8ea5-4a3f-9f96-83bdfc5bbb36#ref=rss)
-### oleschky
-
-* [https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina](https://www.spiegel.de/ausland/news-donald-trump-midterms-in-den-usa-gen-z-regelt-ukraine-oleschky-mahmud-abbas-palaestina-a-22d985b2-7f51-47ca-9332-c5016c497712#ref=rss)
-### trumpregierung
-
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte](https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss)
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-### karin
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### jüdische
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin](https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine](https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### senatsrennen
-
-* [https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden](https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### strafrechtliche
-
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-### laufen
-
-* [https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan](https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss)
-* [https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern](https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern-a-10c5ff07-8a80-46d2-8c44-71e9f0e56ec5#ref=rss)
-### 5000
-
-* [https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo](https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss)
-### republik
-
-* [https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo](https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo](https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern](https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern-a-10c5ff07-8a80-46d2-8c44-71e9f0e56ec5#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne](https://www.spiegel.de/panorama/berlin-waere-hertha-bsc-ein-yogaverein-hier-waere-alles-blau-weiss-kolumne-a-4aba30ce-ed2e-4b4c-bb41-abfeeff09a33#ref=rss)
 
