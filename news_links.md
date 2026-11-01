@@ -4,295 +4,373 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab](https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst](https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen](https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen-a-293af563-406a-4fb5-8346-c49b248540ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab](https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss)
-* [https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken](https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken-a-50466069-ce9c-4480-9d4b-870666760a8b#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst](https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### halloween
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-### harry
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-### styles
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator](https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator-a-8e889726-4a24-4fbc-9370-1caa0256b34b#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst](https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen](https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### seines
-
-* [https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab](https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss)
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab](https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen](https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen-a-293af563-406a-4fb5-8346-c49b248540ac#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator](https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator-a-8e889726-4a24-4fbc-9370-1caa0256b34b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft-a-5fdbc648-bfb3-4869-ba71-ed50651d9ac3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator](https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator-a-8e889726-4a24-4fbc-9370-1caa0256b34b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### día
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### de
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### muertos
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### uns
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/stil/trendfarbe-braun-dominiert-die-mode-was-sagt-das-ueber-uns-aus](https://www.spiegel.de/stil/trendfarbe-braun-dominiert-die-mode-was-sagt-das-ueber-uns-aus-a-e2a0943f-eb37-412a-9fc7-8115c8ab8517#ref=rss)
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-* [https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten](https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten-a-4b9de53e-3844-465f-b2d2-b579df5788df#ref=rss)
-### metall
-
-* [https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen](https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss)
-### männer
-
-* [https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen](https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen-a-88491628-15f0-4145-8781-6b0c203c1ba7#ref=rss)
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### new
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen](https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen-a-293af563-406a-4fb5-8346-c49b248540ac#ref=rss)
-### york
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen](https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen-a-293af563-406a-4fb5-8346-c49b248540ac#ref=rss)
-### band
-
-* [https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles](https://www.spiegel.de/kultur/musik/harry-styles-verkleidet-sich-an-halloween-einfach-als-harry-styles-a-b7d925a4-9150-46b4-8ff8-c8748adf0158#ref=rss)
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### gernot
-
-* [https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab](https://www.spiegel.de/wirtschaft/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator](https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator-a-8e889726-4a24-4fbc-9370-1caa0256b34b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-a-0f6dd1b7-48e6-4c0f-a494-3030fc5883d2#ref=rss)
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser](https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator](https://www.spiegel.de/panorama/mit-der-regionalbahn-durch-deutschland-gehoert-einer-von-ihnen-der-rollator-a-8e889726-4a24-4fbc-9370-1caa0256b34b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln](https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss)
-### tusk
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser](https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance](https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance-a-168b1c09-5e9e-48f3-b563-7f2da467626c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken](https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken-a-50466069-ce9c-4480-9d4b-870666760a8b#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/zensur-in-marokko-karikaturist-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/ausland/zensur-in-marokko-karikaturist-zu-vier-jahren-haft-verurteilt-a-f29161eb-f30b-41be-af9a-cab723fd7799#ref=rss)
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken](https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken-a-50466069-ce9c-4480-9d4b-870666760a8b#ref=rss)
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall](https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss)
+* [https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat](https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat-a-92787344-daeb-4606-93cb-8dcf18b36ecd#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken](https://www.spiegel.de/ausland/polen-ex-gerichtspraesidenten-staerken-donald-tusk-den-ruecken-a-50466069-ce9c-4480-9d4b-870666760a8b#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst](https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss)
-### heidi
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### tot
 
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-### klum
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-### eigenen
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-### eigene
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+### 1
 
-* [https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst](https://www.spiegel.de/kultur/warum-sich-heidi-klum-von-ihrem-eigenen-koerperteil-verschlucken-laesst-a-591df182-5b31-4155-93af-118a2787334c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen](https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen-a-88491628-15f0-4145-8781-6b0c203c1ba7#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde](https://www.spiegel.de/panorama/todestagsrechner-wann-schlaegt-wohl-ihre-letzte-stunde-a-0db91349-14ad-49e4-acf9-2c1a87dcaf24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### toten
-
-* [https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten](https://www.spiegel.de/ausland/dia-de-los-muertos-in-mexiko-in-bildern-totenkoepfe-blumen-und-musik-zum-tag-der-toten-a-ae6a52bf-57d6-4e62-8e0c-305dd67311b9#ref=rss)
-### bolivien
-
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-### el
-
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-### niño
-
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln](https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus](https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hanau-42-jaehriger-wegen-angriffs-auf-staatsanwaeltin-angeklagt](https://www.spiegel.de/panorama/justiz/hanau-42-jaehriger-wegen-angriffs-auf-staatsanwaeltin-angeklagt-a-c6fdd3bc-117f-4830-a519-f7b18c0c0d2e#ref=rss)
-### streumunition
-
-* [https://www.spiegel.de/ausland/nordkorea-testet-raketensprengkoepfe-mit-streumunition](https://www.spiegel.de/ausland/nordkorea-testet-raketensprengkoepfe-mit-streumunition-a-e69a0279-7324-41e3-b4c8-fe875b9b6e8b#ref=rss)
-### staatsanwältin
-
-* [https://www.spiegel.de/panorama/justiz/hanau-42-jaehriger-wegen-angriffs-auf-staatsanwaeltin-angeklagt](https://www.spiegel.de/panorama/justiz/hanau-42-jaehriger-wegen-angriffs-auf-staatsanwaeltin-angeklagt-a-c6fdd3bc-117f-4830-a519-f7b18c0c0d2e#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft-a-5fdbc648-bfb3-4869-ba71-ed50651d9ac3#ref=rss)
-### bundesbaugesellschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft](https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft-a-5fdbc648-bfb3-4869-ba71-ed50651d9ac3#ref=rss)
-### midterms
-
-* [https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst](https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss)
-### handel
-
-* [https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht-a-166ba43b-e054-401a-a15d-904c07802ffd#ref=rss)
-### tieren
-
-* [https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht-a-166ba43b-e054-401a-a15d-904c07802ffd#ref=rss)
-### pflanzen
-
-* [https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht-a-166ba43b-e054-401a-a15d-904c07802ffd#ref=rss)
-### graf
-
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### unheilig
-
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### lache
-
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### gerne
-
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne](https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/familie/bruder-mit-downsyndrom-denn-da-ist-so-viel-liebe](https://www.spiegel.de/familie/bruder-mit-downsyndrom-denn-da-ist-so-viel-liebe-a-ed3dafd2-3b5d-4169-a826-e9d6d530825b#ref=rss)
-### downsyndrom
-
-* [https://www.spiegel.de/familie/bruder-mit-downsyndrom-denn-da-ist-so-viel-liebe](https://www.spiegel.de/familie/bruder-mit-downsyndrom-denn-da-ist-so-viel-liebe-a-ed3dafd2-3b5d-4169-a826-e9d6d530825b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen-a-b9786502-58a3-4b7e-af54-1ac15f82693c#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### 22
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand](https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden](https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden-a-66893eef-8961-4f65-a751-c3bef8d8ab69#ref=rss)
-### vorfälle
-
-* [https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden](https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden-a-66893eef-8961-4f65-a751-c3bef8d8ab69#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden](https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden-a-66893eef-8961-4f65-a751-c3bef8d8ab69#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln](https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss)
-### ig
-
-* [https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen](https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss)
-### annegret
-
-* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-a-0f6dd1b7-48e6-4c0f-a494-3030fc5883d2#ref=rss)
-### krampkarrenbauer
-
-* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-a-0f6dd1b7-48e6-4c0f-a494-3030fc5883d2#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-a-0f6dd1b7-48e6-4c0f-a494-3030fc5883d2#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
 ### lage
 
-* [https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten](https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln](https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss)
-### sachsen
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten](https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten-a-41f8f7e7-7cbe-46b1-880f-158cd1caaa23#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten](https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten-a-4b9de53e-3844-465f-b2d2-b579df5788df#ref=rss)
-### frauen
+* [https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren](https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren-a-db6af4c2-487a-4517-94cc-34d3611982dc#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer](https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer-a-134a7056-e0a0-4a4e-b331-7fd9379b0c6a#ref=rss)
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten](https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten-a-4b9de53e-3844-465f-b2d2-b579df5788df#ref=rss)
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### nachrichten
+* [https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser](https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### gen
 
-* [https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten](https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten-a-4b9de53e-3844-465f-b2d2-b579df5788df#ref=rss)
-### woche
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### hollywoodregisseur
 
-* [https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten](https://www.spiegel.de/ausland/sachsen-wie-zwei-frauen-mit-ihrem-wohnprojekt-die-einsamkeit-bezwingen-nur-gute-nachrichten-a-4b9de53e-3844-465f-b2d2-b579df5788df#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-gruene-rechteck](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-gruene-rechteck-a-52e21276-c2a9-48cb-818f-261f38200725#ref=rss)
-### zufriedener
+* [https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall](https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss)
+### michael
 
-* [https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen](https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen-a-88491628-15f0-4145-8781-6b0c203c1ba7#ref=rss)
-### selbstbewusster
+* [https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall](https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen](https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen-a-88491628-15f0-4145-8781-6b0c203c1ba7#ref=rss)
-### lust
+* [https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall](https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler](https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler-a-61e44b78-2ebb-46af-9439-9244653fe1fd#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen](https://www.spiegel.de/partnerschaft/beziehung-und-selbstwert-wie-maenner-zufriedener-und-selbstbewusster-lieben-koennen-a-88491628-15f0-4145-8781-6b0c203c1ba7#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
-### mitgefühl
+* [https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall](https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### vier
 
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/zensur-in-marokko-karikaturist-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/ausland/zensur-in-marokko-karikaturist-zu-vier-jahren-haft-verurteilt-a-f29161eb-f30b-41be-af9a-cab723fd7799#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+### koalitionsgespräche
 
-* [https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten](https://www.spiegel.de/partnerschaft/maenner-und-mitgefuehl-was-wir-dem-starken-geschlecht-zugestehen-sollten-a-4423d4e0-e224-4966-a32d-a2a3ff683eb6#ref=rss)
-### kinder
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/justiz/leinefelde-worbis-in-thueringen-polizei-ermittelt-nach-nadeln-in-suessigkeiten-an-halloween](https://www.spiegel.de/panorama/justiz/leinefelde-worbis-in-thueringen-polizei-ermittelt-nach-nadeln-in-suessigkeiten-an-halloween-a-7245a2da-7624-403b-bbcc-4e5b7b80f1af#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht](https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+### machte
+
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde](https://www.spiegel.de/politik/deutschland/berlin-koalitionsgespraeche-von-linken-spd-und-gruenen-koennen-starten-doch-es-gibt-eine-huerde-a-2e815b50-034b-4321-88cd-f57c5e595692#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler](https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler-a-61e44b78-2ebb-46af-9439-9244653fe1fd#ref=rss)
+### horst
+
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+### fascher
+
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+### galt
+
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot](https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+### amtsinhaberin
+
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+### herausforderer
+
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung](https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer](https://www.spiegel.de/ausland/bulgarien-praesidentenstichwahl-zwischen-russlandnaher-amtsinhaberin-und-proeuropaeischem-herausforderer-a-b9f9ca98-55da-49be-8513-7696ff1e4b56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung](https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### köln
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### malek
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### el
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### mala
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss)
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### tricks
+
+* [https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler](https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler-a-61e44b78-2ebb-46af-9439-9244653fe1fd#ref=rss)
+### erwägt
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+### rückgabe
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### hofft
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm](https://www.spiegel.de/sport/eishockey/eishockey-russland-darf-teilnehmen-deutschland-erwaegt-rueckgabe-der-wm-a-cd0a0271-7fa2-439a-893c-fea40674fbcf#ref=rss)
+* [https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas](https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas-a-822da72a-1463-4f0e-8f8c-970d87feef27#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+### huthis
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden](https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden-a-a32c9035-e321-4712-b0c8-9a972a873acb#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch](https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+### auschwitz
+
+* [https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren](https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren-a-db6af4c2-487a-4517-94cc-34d3611982dc#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren](https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren-a-db6af4c2-487a-4517-94cc-34d3611982dc#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen-a-b9786502-58a3-4b7e-af54-1ac15f82693c#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+### mars
+
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### sonne
+
+* [https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment](https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser](https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser](https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### vorarlberg
+
+* [https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden](https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden-a-a32c9035-e321-4712-b0c8-9a972a873acb#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden](https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden-a-a32c9035-e321-4712-b0c8-9a972a873acb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung](https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss)
+### polizeiruf
+
+* [https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-rostock-sie-haben-einen-namen-im-schnellcheck](https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-rostock-sie-haben-einen-namen-im-schnellcheck-a-dd3eb8b4-3f03-4c2d-aa56-f26b22ae775f#ref=rss)
+### unser
+
+* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer](https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer-a-134a7056-e0a0-4a4e-b331-7fd9379b0c6a#ref=rss)
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+### z
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### bilanz
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte](https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte-a-c3efc86b-c7a3-4ca5-a473-d6b83408696e#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte](https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte-a-c3efc86b-c7a3-4ca5-a473-d6b83408696e#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung](https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte](https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte-a-c3efc86b-c7a3-4ca5-a473-d6b83408696e#ref=rss)
+### ciara
+
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+### mageean
+
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+### mittelstreckenläuferin
+
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben](https://www.spiegel.de/sport/leichtathletik/ciara-mageean-mittelstreckenlaeuferin-und-ex-europameisterin-mit-34-jahren-gestorben-a-d9c3e7c5-6991-4dbe-bf48-e0b5cfedf27d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat](https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat-a-92787344-daeb-4606-93cb-8dcf18b36ecd#ref=rss)
+### berggruen
+
+* [https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat](https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat-a-92787344-daeb-4606-93cb-8dcf18b36ecd#ref=rss)
+### andere
+
+* [https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat](https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat-a-92787344-daeb-4606-93cb-8dcf18b36ecd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### jachten
+
+* [https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat](https://www.spiegel.de/kultur/nicolas-berggruen-was-der-milliardaer-mit-seinem-thinktank-wirklich-vorhat-a-92787344-daeb-4606-93cb-8dcf18b36ecd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten](https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten-a-41f8f7e7-7cbe-46b1-880f-158cd1caaa23#ref=rss)
+### neuestem
+
+* [https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas](https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas-a-822da72a-1463-4f0e-8f8c-970d87feef27#ref=rss)
+### marienfigur
+
+* [https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas](https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas-a-822da72a-1463-4f0e-8f8c-970d87feef27#ref=rss)
+### europas
+
+* [https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas](https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas-a-822da72a-1463-4f0e-8f8c-970d87feef27#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance](https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance-a-168b1c09-5e9e-48f3-b563-7f2da467626c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance](https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance-a-168b1c09-5e9e-48f3-b563-7f2da467626c#ref=rss)
+### karl
+
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### bushby
+
+* [https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt](https://www.spiegel.de/panorama/karl-bushby-extremwanderer-ging-28-jahre-lang-nach-hause-nun-kommt-er-an-und-jetzt-a-437b6fbc-cdec-4fe2-a8b8-b41e306e1446#ref=rss)
+### rügen
+
+* [https://www.spiegel.de/panorama/ruegen-spaziergaenger-stuerzt-an-steilkueste-ab](https://www.spiegel.de/panorama/ruegen-spaziergaenger-stuerzt-an-steilkueste-ab-a-d3f63c9b-b28e-4a3b-9036-a74cf72b52b6#ref=rss)
+### regina
+
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### ziegler
+
+* [https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot](https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss)
+### kazuo
+
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### ishiguro
+
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### roboter
+
+* [https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf](https://www.spiegel.de/kultur/literatur/kazuo-ishiguro-die-roboter-werden-auch-nach-deutschland-kommen-verlassen-sie-sich-darauf-a-b4fdcd55-0a9d-47f3-993e-74804850e496#ref=rss)
+### russische
+
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten](https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten-a-41f8f7e7-7cbe-46b1-880f-158cd1caaa23#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten](https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten-a-41f8f7e7-7cbe-46b1-880f-158cd1caaa23#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten](https://www.spiegel.de/wirtschaft/russland-sanktionen-was-stillgelegte-russische-jachten-den-steuerzahler-kosten-a-41f8f7e7-7cbe-46b1-880f-158cd1caaa23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### ismael
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### saibari
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### serge
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### gnabry
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-serge-gnabry-und-ismael-saibari-fallen-vorerst-aus-a-c2baee6d-c1de-412a-917f-e601a6fb6526#ref=rss)
+### krawalle
+
+* [https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich](https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1#ref=rss)
+### esteban
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen-a-b9786502-58a3-4b7e-af54-1ac15f82693c#ref=rss)
+### ocon
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-hamilton-denkt-nach-pole-an-schumacher-ocon-nach-streit-aus-rennen-genommen-a-b9786502-58a3-4b7e-af54-1ac15f82693c#ref=rss)
 
