@@ -4,367 +4,366 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff](https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff-a-e5ea54d6-5439-4c93-901e-863954df15b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
 ### midterms
 
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an](https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an-a-ca6c7ebc-9373-4b7f-9a50-cd22e28a3454#ref=rss)
-### alaska
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten](https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde](https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde-a-57dd713f-a70b-43d0-ad20-0285d3d140e6#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker](https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker-a-1de25dad-58e8-4094-b9b0-e5fbd04569e2#ref=rss)
-* [https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein](https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529#ref=rss)
-### hacker
-
-* [https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff](https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff-a-e5ea54d6-5439-4c93-901e-863954df15b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware-a-0033341a-e174-49e3-a1eb-5fc832d96e25#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel](https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel-a-15f25d01-954e-42ae-8bf7-17d83ed0a9af#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal](https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal-a-d8366e11-f36a-4c74-8db7-94d8698345ef#ref=rss)
+* [https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt](https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt-a-0c254752-79ff-45d9-ac0a-6167dd06bca0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler](https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler-a-c98db249-a61e-4bd7-b19e-2c09244d1e44#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe-a-637e1928-3af4-4899-9532-5535718cae13#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein](https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein](https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal](https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal-a-d8366e11-f36a-4c74-8db7-94d8698345ef#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland](https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland-a-048e6fb2-5f37-4298-9d00-3b0405601a83#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an](https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an-a-ca6c7ebc-9373-4b7f-9a50-cd22e28a3454#ref=rss)
-### cem
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker](https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker-a-1de25dad-58e8-4094-b9b0-e5fbd04569e2#ref=rss)
-### özdemir
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker](https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker-a-1de25dad-58e8-4094-b9b0-e5fbd04569e2#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker](https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker-a-1de25dad-58e8-4094-b9b0-e5fbd04569e2#ref=rss)
-### angst
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker](https://www.spiegel.de/politik/deutschland/cem-oezdemir-berichtet-ueber-eigene-angst-als-politiker-a-1de25dad-58e8-4094-b9b0-e5fbd04569e2#ref=rss)
-### binance
-
-* [https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff](https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff-a-e5ea54d6-5439-4c93-901e-863954df15b5#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff](https://www.spiegel.de/netzwelt/binance-hacker-verschafften-sich-ueber-falsches-vorstellungsgespraech-zugriff-a-e5ea54d6-5439-4c93-901e-863954df15b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke](https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss)
-### repräsentantenhaus
-
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus](https://www.spiegel.de/wissenschaft/midterms-diese-swing-districts-entscheiden-ueber-die-macht-im-repraesentantenhaus-a-dfc36f95-5a06-407a-b875-48773971bd7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-### wayne
-
-* [https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel](https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel-a-15f25d01-954e-42ae-8bf7-17d83ed0a9af#ref=rss)
-### rooney
-
-* [https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel](https://www.spiegel.de/panorama/leute/wayne-rooney-ex-fussballstar-geht-einem-bericht-zufolge-in-den-dschungel-a-15f25d01-954e-42ae-8bf7-17d83ed0a9af#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### kandidaten
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-### amtierende
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### senator
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf](https://www.spiegel.de/ausland/midterms-in-alaska-sullivan-gegen-sullivan-namensvettern-im-wahlkampf-a-7f3e6748-149c-4054-af95-3c33d87c63ae#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen](https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an](https://www.spiegel.de/ausland/alaska-zwei-gleichnamige-kandidaten-treten-bei-der-wahl-zum-senat-an-a-34933aee-ef2d-41a5-bf5f-de1fbfb87fdd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-### cottbus
-
-* [https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe-a-637e1928-3af4-4899-9532-5535718cae13#ref=rss)
-### erhält
-
-* [https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe-a-637e1928-3af4-4899-9532-5535718cae13#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada](https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada-a-2a8992d8-8a37-4d1b-a5f7-5c1492f21eda#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/cottbus-schueler-getreten-und-geschlagen-lehrer-erhaelt-bewaehrungsstrafe-a-637e1928-3af4-4899-9532-5535718cae13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-### capsupermarkt
-
-* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware-a-0033341a-e174-49e3-a1eb-5fc832d96e25#ref=rss)
-### ware
-
-* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware-a-0033341a-e174-49e3-a1eb-5fc832d96e25#ref=rss)
-### euro
-
-* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware-a-0033341a-e174-49e3-a1eb-5fc832d96e25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke](https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-angriff-zwingt-cap-supermarkt-in-wuppertal-zur-entsorgung-von-ware-a-0033341a-e174-49e3-a1eb-5fc832d96e25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke](https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss)
-### gen
-
-* [https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen](https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen-a-dc0776d4-d6e3-4102-a4d0-8de268271465#ref=rss)
-### z
-
-* [https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen](https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen-a-dc0776d4-d6e3-4102-a4d0-8de268271465#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen](https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen-a-dc0776d4-d6e3-4102-a4d0-8de268271465#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen](https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-proteste-am-20-november-soll-wieder-protestiert-werden-nur-wer-hat-das-sagen-a-dc0776d4-d6e3-4102-a4d0-8de268271465#ref=rss)
-* [https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt](https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt-a-ec22a71e-b6bc-4ca4-9a03-15c26df1d213#ref=rss)
-### arabischen
-
-* [https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein](https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein](https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an](https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an-a-ca6c7ebc-9373-4b7f-9a50-cd22e28a3454#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke](https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss)
-### kohlekraftwerke
-
-* [https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke](https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror](https://www.spiegel.de/politik/deutschland/news-des-tages-midterms-in-den-usa-selenskyj-in-berlin-halloween-horror-a-e8267e39-dec1-4bdf-a2b5-60285b73e65a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### kommenden
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss)
-### museum
-
-* [https://www.spiegel.de/stil/schimpfwoerter-ausstellung-in-hof-museum-sammelt-flueche-aus-der-region](https://www.spiegel.de/stil/schimpfwoerter-ausstellung-in-hof-museum-sammelt-flueche-aus-der-region-a-55432da1-9a1f-4ce8-a319-c7dab35b814c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/stil/schimpfwoerter-ausstellung-in-hof-museum-sammelt-flueche-aus-der-region](https://www.spiegel.de/stil/schimpfwoerter-ausstellung-in-hof-museum-sammelt-flueche-aus-der-region-a-55432da1-9a1f-4ce8-a319-c7dab35b814c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### vanessa
-
-* [https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde](https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde-a-57dd713f-a70b-43d0-ad20-0285d3d140e6#ref=rss)
-### emde
-
-* [https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde](https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde-a-57dd713f-a70b-43d0-ad20-0285d3d140e6#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde](https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde-a-57dd713f-a70b-43d0-ad20-0285d3d140e6#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde](https://www.spiegel.de/politik/deutschland/linke-vertagt-erneut-entscheidung-im-fall-der-umstrittenen-abgeordneten-emde-a-57dd713f-a70b-43d0-ad20-0285d3d140e6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
-### palm
-
-* [https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt](https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt-a-ec22a71e-b6bc-4ca4-9a03-15c26df1d213#ref=rss)
-### beach
-
-* [https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt](https://www.spiegel.de/panorama/palm-beach-flugzeug-absturz-in-florida-wie-eine-rakete-die-mitten-im-wohngebiet-einschlaegt-a-ec22a71e-b6bc-4ca4-9a03-15c26df1d213#ref=rss)
-### philippe
-
-* [https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada](https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada-a-2a8992d8-8a37-4d1b-a5f7-5c1492f21eda#ref=rss)
-### jaenada
-
-* [https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada](https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada-a-2a8992d8-8a37-4d1b-a5f7-5c1492f21eda#ref=rss)
-### harten
-
-* [https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada](https://www.spiegel.de/kultur/literatur/nach-ki-eklat-um-renommierten-literaturpreis-prix-goncourt-geht-an-philippe-jaenada-a-2a8992d8-8a37-4d1b-a5f7-5c1492f21eda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### donbass
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wie-wladimir-putins-truppen-den-donbass-unbewohnbar-machen-a-3736f724-0f97-4553-99f1-26a30fe69f3c#ref=rss)
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss)
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### kaliningrad
-
-* [https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland](https://www.spiegel.de/ausland/polen-grosseinsatz-an-grenze-zu-kaliningrad-wegen-moeglicher-provokation-aus-russland-a-7cf488d5-39c1-47a1-8a0b-94e994bf338e#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal](https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal-a-d8366e11-f36a-4c74-8db7-94d8698345ef#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal](https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal-a-d8366e11-f36a-4c74-8db7-94d8698345ef#ref=rss)
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten](https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
 ### jesús
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/athen-drei-studierende-durch-molotowcocktails-und-aexte-verletzt](https://www.spiegel.de/panorama/athen-drei-studierende-durch-molotowcocktails-und-aexte-verletzt-a-d66d6f80-1577-46f2-ab9e-2d347839434d#ref=rss)
+* [https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt](https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt-a-0c254752-79ff-45d9-ac0a-6167dd06bca0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck](https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck-a-89a1936b-0be6-463b-a2fb-cee870ed16fb#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten](https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz](https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz](https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+### janosch
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### tot
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen](https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen-a-5e1ae18c-7aea-446a-a5b4-bd1ad201e7c8#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
+### hofft
+
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
+### analyse
+
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden](https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden-a-c9090b58-1a7a-4f9e-9b37-8adc13d4705e#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+### shein
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler](https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler-a-c98db249-a61e-4bd7-b19e-2c09244d1e44#ref=rss)
+### dorothee
+
+* [https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin](https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin-a-02185c44-55bc-41df-a9fd-b2ddaa6c3257#ref=rss)
+### bär
+
+* [https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin](https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin-a-02185c44-55bc-41df-a9fd-b2ddaa6c3257#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin](https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin-a-02185c44-55bc-41df-a9fd-b2ddaa6c3257#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+### forschungsministerin
+
+* [https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin](https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin-a-02185c44-55bc-41df-a9fd-b2ddaa6c3257#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin](https://www.spiegel.de/politik/deutschland/dorothee-baer-wechseljahre-endometriose-das-ist-keine-privatsache-sagt-die-forschungsministerin-a-02185c44-55bc-41df-a9fd-b2ddaa6c3257#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt](https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt-a-adcf32c2-cd6f-4488-a663-14455db87e33#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck](https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck-a-89a1936b-0be6-463b-a2fb-cee870ed16fb#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt](https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt-a-adcf32c2-cd6f-4488-a663-14455db87e33#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat](https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat-a-2008edda-13ec-4ad5-b67d-61f0172e785f#ref=rss)
+### politik
+
+* [https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt](https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt-a-adcf32c2-cd6f-4488-a663-14455db87e33#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei-a-69a83f7f-0988-414b-9390-9928195dff24#ref=rss)
+### torwart
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+### owono
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+### tod
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
 ### de
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
 ### miguel
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9](https://www.spiegel.de/sport/fussball/fussball-in-spanien-jesus-de-miguel-tod-der-nummer-9-a-dc03d5a2-f82f-4793-8e88-81f406ec09d2#ref=rss)
-### bombendrohungen
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+### starb
 
-* [https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht](https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht-a-0fc706ac-1df6-441a-80a0-18bac66d4726#ref=rss)
-### flughafen
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat](https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat-a-2008edda-13ec-4ad5-b67d-61f0172e785f#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht](https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht-a-0fc706ac-1df6-441a-80a0-18bac66d4726#ref=rss)
-### warschau
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### wort
 
-* [https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht](https://www.spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht-a-0fc706ac-1df6-441a-80a0-18bac66d4726#ref=rss)
-### boris
+* [https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel](https://www.spiegel.de/sport/fussball/fussball-in-spanien-torwart-jesus-owono-spricht-nach-tod-von-jesus-de-miguel-a-bffcb3f3-635b-4100-91d9-320ef4237cf4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### palmer
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+### vance
 
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### sexueller
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+### offensichtlich
 
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### belästigung
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### ruhen
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+### verloren
 
-* [https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen](https://www.spiegel.de/panorama/boris-palmer-wehrt-sich-gegen-vorwurf-sexueller-belaestigung-und-laesst-ehrenamt-fuer-buerokratieabbau-ruhen-a-73deec1d-70a5-4c71-8dc7-ba69bd5151f7#ref=rss)
-### nations
+* [https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan](https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss)
+### ilse
 
-* [https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland](https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland-a-048e6fb2-5f37-4298-9d00-3b0405601a83#ref=rss)
-### league
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+### aigner
 
-* [https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland](https://www.spiegel.de/sport/fussball/nations-league-der-frauen-deutschland-trifft-auf-schweden-niederlande-und-schottland-a-048e6fb2-5f37-4298-9d00-3b0405601a83#ref=rss)
-### winsen
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/panorama/justiz/winsen-an-der-luhe-teenager-mit-benzinkanister-gestoppt](https://www.spiegel.de/panorama/justiz/winsen-an-der-luhe-teenager-mit-benzinkanister-gestoppt-a-3bdf1376-6c92-42e3-a61e-a1b0d8523aa9#ref=rss)
-### luhe
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz](https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss)
+### bundespräsident
 
-* [https://www.spiegel.de/panorama/justiz/winsen-an-der-luhe-teenager-mit-benzinkanister-gestoppt](https://www.spiegel.de/panorama/justiz/winsen-an-der-luhe-teenager-mit-benzinkanister-gestoppt-a-3bdf1376-6c92-42e3-a61e-a1b0d8523aa9#ref=rss)
-### 2035
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### strombedarf
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus](https://www.spiegel.de/politik/deutschland/ilse-aigner-erste-cdu-ministerpraesidenten-sprechen-sich-fuer-csu-politikerin-als-bundespraesidentin-aus-a-c8dd1696-8521-46ab-b0bf-d645f2c89b18#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### rechenzentren
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei-a-69a83f7f-0988-414b-9390-9928195dff24#ref=rss)
+### massenschlägerei
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### verdreifachen
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-51-rote-karten-nach-massenschlaegerei-a-69a83f7f-0988-414b-9390-9928195dff24#ref=rss)
+### molotowcocktails
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-bis-2035-soll-sich-der-strombedarf-von-deutschen-rechenzentren-verdreifachen-a-3c2d1e1e-df6f-482d-bb45-2c98bec1defe#ref=rss)
-### parlament
+* [https://www.spiegel.de/panorama/athen-drei-studierende-durch-molotowcocktails-und-aexte-verletzt](https://www.spiegel.de/panorama/athen-drei-studierende-durch-molotowcocktails-und-aexte-verletzt-a-d66d6f80-1577-46f2-ab9e-2d347839434d#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an](https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an-a-ca6c7ebc-9373-4b7f-9a50-cd22e28a3454#ref=rss)
-### ringqvist
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an](https://www.spiegel.de/ausland/schweden-parlament-lehnt-elisabeth-thand-ringqvist-als-ministerpraesidentin-ab-blockade-haelt-an-a-ca6c7ebc-9373-4b7f-9a50-cd22e28a3454#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten](https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss)
+### irankriegs
+
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+### kassiert
+
+* [https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs](https://www.spiegel.de/ausland/midterms-2026-bedeutet-der-sieg-der-demokraten-das-ende-des-iran-kriegs-a-2e41252d-25f1-4a4c-8bdd-4e1277b47945#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-muss-doch-erst-mal-weiter-in-untersuchungshaft-bleiben](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-muss-doch-erst-mal-weiter-in-untersuchungshaft-bleiben-a-3e18db74-80c6-408d-ad9f-ebab87dc7866#ref=rss)
+### blutgräfin
+
+* [https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde](https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde-a-839e3a1d-eeda-4eac-9636-acce7fe82763#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde](https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde-a-839e3a1d-eeda-4eac-9636-acce7fe82763#ref=rss)
+* [https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit](https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit-a-33745c78-aaa9-4217-82fb-ac9b24921eef#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde](https://www.spiegel.de/geschichte/blutgraefin-elisabeth-bathory-wie-aus-einer-ungarischen-graefin-eine-blutbadende-bestie-wurde-a-839e3a1d-eeda-4eac-9636-acce7fe82763#ref=rss)
+### marie
+
+* [https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt](https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt-a-0c254752-79ff-45d9-ac0a-6167dd06bca0#ref=rss)
+### jemand
+
+* [https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt](https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt-a-0c254752-79ff-45d9-ac0a-6167dd06bca0#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt](https://www.spiegel.de/deinspiegel/trendsport-jugger-marie-13-spielt-eine-sportart-die-kaum-jemand-kennt-a-0c254752-79ff-45d9-ac0a-6167dd06bca0#ref=rss)
+### hotelzimmer
+
+* [https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat](https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat-a-2008edda-13ec-4ad5-b67d-61f0172e785f#ref=rss)
+### klimakonferenz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz](https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz](https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### preise
+
+* [https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten](https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten](https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten-a-12747685-ed9a-4645-adb6-ee9cfe65898a#ref=rss)
+### usdemokraten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot](https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss)
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+### umweltausschuss
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung](https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung](https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss)
+### lockerung
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung](https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung](https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung](https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen](https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck](https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck-a-89a1936b-0be6-463b-a2fb-cee870ed16fb#ref=rss)
+### miranda
+
+* [https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation](https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss)
+### kerr
+
+* [https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation](https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss)
+### model
+
+* [https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation](https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss)
+### secret
+
+* [https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation](https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation](https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
+### diana
+
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+### charles
+
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+### spencer
+
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+* [https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit](https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit-a-33745c78-aaa9-4217-82fb-ac9b24921eef#ref=rss)
+### buch
+
+* [https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor](https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig](https://www.spiegel.de/kultur/literatur/janosch-ist-tot-reaktionen-aus-politik-und-kultur-ganz-panama-ist-traurig-a-be385955-700c-4f3a-b494-9019d78dee2f#ref=rss)
+### tinto
+
+* [https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen](https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen-a-5e1ae18c-7aea-446a-a5b4-bd1ad201e7c8#ref=rss)
+### brass
+
+* [https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen](https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen-a-5e1ae18c-7aea-446a-a5b4-bd1ad201e7c8#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen](https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen-a-5e1ae18c-7aea-446a-a5b4-bd1ad201e7c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten](https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten-a-12747685-ed9a-4645-adb6-ee9cfe65898a#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss)
+### eins
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss)
+### umwelthilfe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler](https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler-a-c98db249-a61e-4bd7-b19e-2c09244d1e44#ref=rss)
+### massiv
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler](https://www.spiegel.de/wirtschaft/unternehmen/shein-deutsche-umwelthilfe-verklagt-fast-fashion-haendler-a-c98db249-a61e-4bd7-b19e-2c09244d1e44#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### mücken
+
+* [https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck](https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck-a-89a1936b-0be6-463b-a2fb-cee870ed16fb#ref=rss)
+### legt
+
+* [https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck](https://www.spiegel.de/wissenschaft/malaria-faelle-in-frankfurt-gehen-wohl-auf-drei-muecken-zurueck-a-89a1936b-0be6-463b-a2fb-cee870ed16fb#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden](https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden-a-c9090b58-1a7a-4f9e-9b37-8adc13d4705e#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### antisemitischer
+
+* [https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker](https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss)
+### wippen
+
+* [https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit](https://www.spiegel.de/kultur/influencerin-sunnygofreaky-und-ihr-pferd-sie-wippt-wippt-wippt-wippt-die-ganze-zeit-a-33745c78-aaa9-4217-82fb-ac9b24921eef#ref=rss)
+### gta
+
+* [https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten](https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten-a-12747685-ed9a-4645-adb6-ee9cfe65898a#ref=rss)
+### 6
+
+* [https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten](https://www.spiegel.de/netzwelt/games/gta-6-preload-preise-deutschland-startzeit-was-sie-zum-release-wissen-sollten-a-12747685-ed9a-4645-adb6-ee9cfe65898a#ref=rss)
+### montenegro
+
+* [https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden](https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden-a-c9090b58-1a7a-4f9e-9b37-8adc13d4705e#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute](https://www.spiegel.de/ausland/midterms-die-usa-sind-eine-lebendige-demokratie-und-das-ist-die-schoenste-botschaft-heute-a-b647ccdf-fc20-40ec-b7f4-45428c47657a#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump](https://www.spiegel.de/ausland/midterms-2026-internationale-reaktionen-iran-gibt-sich-kaempferisch-russland-hofft-weiter-auf-trump-a-5ee07741-b98e-457c-8423-639e028627c8#ref=rss)
 
