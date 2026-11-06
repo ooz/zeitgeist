@@ -4,334 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tod
-
-* [https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied](https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied-a-68effe13-a445-4cfc-b3c5-e9724f955c9a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste](https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste-a-5f3ed457-d8d3-4f93-a5ee-428d1216ecf2#ref=rss)
-* [https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod](https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod-a-fe598a6a-91c3-4bfa-9d05-78f50bd5d0ce#ref=rss)
-### hubert
-
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf#ref=rss)
-* [https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod](https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod-a-fe598a6a-91c3-4bfa-9d05-78f50bd5d0ce#ref=rss)
-### aiwanger
-
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf#ref=rss)
-* [https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod](https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod-a-fe598a6a-91c3-4bfa-9d05-78f50bd5d0ce#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter](https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter-a-a02eadf7-730b-4dbe-990c-2fdc81daf45f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-### verband
-
-* [https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase](https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase-a-8c895667-35cd-49e6-a8c2-050b1e96584f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen](https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen-a-def027dc-a912-45cc-b4ae-ebdf003b1d91#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-* [https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen](https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen-a-8c7b35f9-52da-412c-80b5-3ddb73be5aea#ref=rss)
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-* [https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen](https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen-a-8c7b35f9-52da-412c-80b5-3ddb73be5aea#ref=rss)
-### nsdapkartei
-
-* [https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter](https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter-a-a02eadf7-730b-4dbe-990c-2fdc81daf45f#ref=rss)
-### alan
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-### jones
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-* [https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied](https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied-a-68effe13-a445-4cfc-b3c5-e9724f955c9a#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss)
-* [https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod](https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod-a-fe598a6a-91c3-4bfa-9d05-78f50bd5d0ce#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik](https://www.spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik-a-3487beed-37b0-48d6-8113-6b28079566c5#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen-a-1f8497df-d04a-4dd9-a7bc-ce1fcd2e0e27#ref=rss)
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert](https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss)
-### deutschland
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/afd-leak-das-sind-die-mutmasslichen-hacker-hinter-dem-datenleak](https://www.spiegel.de/netzwelt/afd-leak-das-sind-die-mutmasslichen-hacker-hinter-dem-datenleak-a-13904fc6-e4f0-40d7-86dc-5c02c82a6f0a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung](https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung-a-f09c6b35-6572-4a02-9df6-1384ce005297#ref=rss)
-### russland
+* [https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord](https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord-a-0ec29c32-28e4-4f6c-aff0-c7050c70d491#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater](https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert](https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss)
-### teenager
+* [https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord](https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord-a-0ec29c32-28e4-4f6c-aff0-c7050c70d491#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oberlausitz-buergermeister-suche-in-cunewalde-was-wenn-niemand-regieren-will](https://www.spiegel.de/panorama/gesellschaft/oberlausitz-buergermeister-suche-in-cunewalde-was-wenn-niemand-regieren-will-a-d3952b31-d3a8-4f26-9b06-a564910d8102#ref=rss)
+* [https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin](https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin-a-df8b3175-ffbb-47f0-aaa1-c77850e59179#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert](https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss)
-### rekrutiert
+* [https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen](https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand](https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand-a-6cdb6522-8ba8-4589-bcd4-4e571ac4f5ea#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert](https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss)
-### netz
+* [https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater](https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert](https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-gefangenenbefreiung-mit-guenstigem-fussfesselschluessel-aus-dem-netz](https://www.spiegel.de/panorama/justiz/essen-gefangenenbefreiung-mit-guenstigem-fussfesselschluessel-aus-dem-netz-a-cf2d7bf1-e09c-481b-83a2-20dbea6974e2#ref=rss)
-### texas
+* [https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash](https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+### midterms
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
-### gina
+* [https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash](https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
-### hinojosa
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein](https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+### rückkehr
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika](https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika-a-5fb8dece-d632-449a-b52b-6d2dbf2d2ab5#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon](https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon-a-6d837331-77d6-4c18-a2a3-4ae83a113827#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen-a-1f8497df-d04a-4dd9-a7bc-ce1fcd2e0e27#ref=rss)
-### allem
+* [https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen](https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen-a-eb5d9130-8806-496d-b19c-601e889f151a#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert](https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss)
-### ändern
+* [https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen](https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern](https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will](https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen-a-1f8497df-d04a-4dd9-a7bc-ce1fcd2e0e27#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen](https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon](https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon-a-6d837331-77d6-4c18-a2a3-4ae83a113827#ref=rss)
+### rubio
 
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament](https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss)
-### bekommt
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### schüler
 
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament](https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-### meisten
+* [https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord](https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord-a-0ec29c32-28e4-4f6c-aff0-c7050c70d491#ref=rss)
+### angela
 
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament](https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale](https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale-a-95f37959-fcf8-43e8-b105-ca2ebca220c9#ref=rss)
-### bringt
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament](https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss)
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### rené
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### kleine
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-### benko
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### geste
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### viralen
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### video
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung](https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung-a-f09c6b35-6572-4a02-9df6-1384ce005297#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-haftstrafe-fuer-fan-nach-ausschreitungen-gegen-polizisten-in-magdeburg](https://www.spiegel.de/panorama/justiz/fussball-haftstrafe-fuer-fan-nach-ausschreitungen-gegen-polizisten-in-magdeburg-a-26c1d5a6-beeb-4571-8912-679a509aa7b4#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video](https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern](https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss)
+### oktober
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch](https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch-a-5bf5994b-04b4-48d7-8711-9800b77c34c4#ref=rss)
-### haftbefehl
+* [https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen-a-62b5e4f0-3b24-486c-92ba-6050a48e5101#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase](https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase-a-8c895667-35cd-49e6-a8c2-050b1e96584f#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen-a-62b5e4f0-3b24-486c-92ba-6050a48e5101#ref=rss)
+### dolly
 
-* [https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase](https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase-a-8c895667-35cd-49e6-a8c2-050b1e96584f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt-a-a89a0bbd-8d20-4ea6-9930-2b563eac3ea9#ref=rss)
-### janosch
+* [https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen](https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss)
+### parton
 
-* [https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied](https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied-a-68effe13-a445-4cfc-b3c5-e9724f955c9a#ref=rss)
-### bundesarbeitsgericht
+* [https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen](https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss)
+### manager
 
-* [https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen](https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen-a-def027dc-a912-45cc-b4ae-ebdf003b1d91#ref=rss)
-### kirchenaustritt
+* [https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen](https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss)
+### neffen
 
-* [https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen](https://www.spiegel.de/panorama/justiz/bundesarbeitsgericht-katholischer-verband-durfte-angestellte-nicht-wegen-kirchenaustritt-kuendigen-a-def027dc-a912-45cc-b4ae-ebdf003b1d91#ref=rss)
-### jürgen
+* [https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen](https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss)
+### potsdam
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-### besten
+* [https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater](https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss)
+### schwiegervater
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-### bücher
+* [https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater](https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-### jahres
+* [https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater](https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren](https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren-a-88da3bb5-188e-4920-aec6-8f3286620d21#ref=rss)
+### ki
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-### zurück
+* [https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash](https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+### demokrat
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale](https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale-a-95f37959-fcf8-43e8-b105-ca2ebca220c9#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### adam
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres](https://www.spiegel.de/politik/deutschland/news-des-tages-wann-wird-ilse-aigner-bundespraesidentin-kandidatin-juergen-klopps-kaderpolitik-die-20-besten-buecher-des-jahres-a-8c3cd54a-d7f7-419f-994e-95054543f1a9#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch](https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch-a-5bf5994b-04b4-48d7-8711-9800b77c34c4#ref=rss)
-### cristiano
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### hamilton
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt-a-a89a0bbd-8d20-4ea6-9930-2b563eac3ea9#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### pastor
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt-a-a89a0bbd-8d20-4ea6-9930-2b563eac3ea9#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### kansas
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt-a-a89a0bbd-8d20-4ea6-9930-2b563eac3ea9#ref=rss)
-### bemüht
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### zieht
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-nach-abreise-posse-erklaert-er-versoehnlich-seinen-ruecktritt-a-a89a0bbd-8d20-4ea6-9930-2b563eac3ea9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung](https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung-a-f09c6b35-6572-4a02-9df6-1384ce005297#ref=rss)
-### ausschreitungen
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### ussenat
 
-* [https://www.spiegel.de/panorama/justiz/fussball-haftstrafe-fuer-fan-nach-ausschreitungen-gegen-polizisten-in-magdeburg](https://www.spiegel.de/panorama/justiz/fussball-haftstrafe-fuer-fan-nach-ausschreitungen-gegen-polizisten-in-magdeburg-a-26c1d5a6-beeb-4571-8912-679a509aa7b4#ref=rss)
-### hochtief
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert](https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss)
-### baukonzern
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren](https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren-a-88da3bb5-188e-4920-aec6-8f3286620d21#ref=rss)
+### sorgen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert](https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss)
-### dan
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+### manche
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-### stimmen
+* [https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat](https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin](https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin-a-df8b3175-ffbb-47f0-aaa1-c77850e59179#ref=rss)
+### cunewalde
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-### kandidaten
+* [https://www.spiegel.de/panorama/gesellschaft/oberlausitz-buergermeister-suche-in-cunewalde-was-wenn-niemand-regieren-will](https://www.spiegel.de/panorama/gesellschaft/oberlausitz-buergermeister-suche-in-cunewalde-was-wenn-niemand-regieren-will-a-d3952b31-d3a8-4f26-9b06-a564910d8102#ref=rss)
+### etablierten
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-### gehen
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+### touren
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-* [https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen](https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen-a-8c7b35f9-52da-412c-80b5-3ddb73be5aea#ref=rss)
-### findet
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt](https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss)
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+### einige
 
-* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf#ref=rss)
-### bundestrainer
+* [https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen](https://www.spiegel.de/sport/golf/golf-liv-serie-stellt-spielbetrieb-ein-rueckkehr-abgewanderter-profis-zu-etablierten-touren-offen-a-19c61150-0b58-4395-a18d-fb7b5d3f8b6e#ref=rss)
+* [https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen](https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309#ref=rss)
+### werk
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste](https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste-a-5f3ed457-d8d3-4f93-a5ee-428d1216ecf2#ref=rss)
-### gíslason
+* [https://www.spiegel.de/geschichte/musik-und-misogynie-wie-maenner-karrieren-von-komponistinnen-verhinderten](https://www.spiegel.de/geschichte/musik-und-misogynie-wie-maenner-karrieren-von-komponistinnen-verhinderten-a-1b058892-de2f-4590-955d-ec7a7e86b8c9#ref=rss)
+* [https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein](https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8#ref=rss)
+### geschlossen
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste](https://www.spiegel.de/sport/handball/handball-wm-2027-bundestrainer-gislason-ueber-heimvorteil-und-persoenliche-verluste-a-5f3ed457-d8d3-4f93-a5ee-428d1216ecf2#ref=rss)
-### essen
+* [https://www.spiegel.de/panorama/leute/uhrmacher-aus-loerrach-in-japan-wurde-ich-gefeiert-wie-ein-popstar](https://www.spiegel.de/panorama/leute/uhrmacher-aus-loerrach-in-japan-wurde-ich-gefeiert-wie-ein-popstar-a-d9a9693f-2281-4cf3-8084-01fef403eac8#ref=rss)
+* [https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen](https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/panorama/justiz/essen-gefangenenbefreiung-mit-guenstigem-fussfesselschluessel-aus-dem-netz](https://www.spiegel.de/panorama/justiz/essen-gefangenenbefreiung-mit-guenstigem-fussfesselschluessel-aus-dem-netz-a-cf2d7bf1-e09c-481b-83a2-20dbea6974e2#ref=rss)
-### bundestag
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+### druck
 
-* [https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen](https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-kommt-in-den-bundestag-so-sollen-fahrschueler-sparen-a-1f8497df-d04a-4dd9-a7bc-ce1fcd2e0e27#ref=rss)
-### republikaner
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+### stark
 
-* [https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen](https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen-a-8c7b35f9-52da-412c-80b5-3ddb73be5aea#ref=rss)
-### aslan
+* [https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck](https://www.spiegel.de/wirtschaft/globaler-tech-ausverkauf-setzt-boersenkurse-unter-druck-a-8d5f2ecd-b9a8-4d71-9ee2-67250b5ed9d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+### verbrenneraus
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### meryl
+* [https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen](https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen-a-eb5d9130-8806-496d-b19c-601e889f151a#ref=rss)
+### fahrzeugkategorie
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### streep
+* [https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen](https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen-a-eb5d9130-8806-496d-b19c-601e889f151a#ref=rss)
+### eu
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### liam
+* [https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen](https://www.spiegel.de/wissenschaft/natur/verbrenner-aus-neue-fahrzeugkategorie-veefs-so-will-die-eu-verbrenner-autos-schoenrechnen-a-eb5d9130-8806-496d-b19c-601e889f151a#ref=rss)
+### musk
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### neeson
+* [https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein](https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8#ref=rss)
+### produktion
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-### neuen
+* [https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein](https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8#ref=rss)
+### fast
 
-* [https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson](https://www.spiegel.de/kultur/kino/narnia-rolle-des-aslan-niemand-besseres-fuer-jesus-christus-loewen-als-meryl-streep-findet-liam-neeson-a-920968e1-0e22-4acc-bd93-83cecce3e3ec#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch](https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch-a-5bf5994b-04b4-48d7-8711-9800b77c34c4#ref=rss)
-### russell
+* [https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin](https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin-a-df8b3175-ffbb-47f0-aaa1-c77850e59179#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-warum-das-wort-migrantisch-nicht-taugt-meinung](https://www.spiegel.de/politik/deutschland/migration-warum-das-wort-migrantisch-nicht-taugt-meinung-a-217967e2-49e9-4969-a0a0-7149166d4e5a#ref=rss)
+### mittags
 
-* [https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen-a-329bc936-3cc8-4baa-a3fe-477cf35a5553#ref=rss)
-### brand
+* [https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin](https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin-a-df8b3175-ffbb-47f0-aaa1-c77850e59179#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen-a-329bc936-3cc8-4baa-a3fe-477cf35a5553#ref=rss)
-### vergewaltigung
+* [https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin](https://www.spiegel.de/wissenschaft/schlaf-fast-jeder-zweite-erwachsene-legt-sich-mittags-hin-a-df8b3175-ffbb-47f0-aaa1-c77850e59179#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+### migration
 
-* [https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen-a-329bc936-3cc8-4baa-a3fe-477cf35a5553#ref=rss)
-### schuldig
+* [https://www.spiegel.de/politik/deutschland/migration-warum-das-wort-migrantisch-nicht-taugt-meinung](https://www.spiegel.de/politik/deutschland/migration-warum-das-wort-migrantisch-nicht-taugt-meinung-a-217967e2-49e9-4969-a0a0-7149166d4e5a#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen-a-329bc936-3cc8-4baa-a3fe-477cf35a5553#ref=rss)
-### gesprochen
+* [https://www.spiegel.de/netzwelt/afd-leak-das-sind-die-mutmasslichen-hacker-hinter-dem-datenleak](https://www.spiegel.de/netzwelt/afd-leak-das-sind-die-mutmasslichen-hacker-hinter-dem-datenleak-a-13904fc6-e4f0-40d7-86dc-5c02c82a6f0a#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern](https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss)
+### salpetersäure
 
-* [https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/russell-brand-wegen-vergewaltigung-schuldig-gesprochen-a-329bc936-3cc8-4baa-a3fe-477cf35a5553#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen](https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309#ref=rss)
+### umgekippt
 
-* [https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale](https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale-a-95f37959-fcf8-43e8-b105-ca2ebca220c9#ref=rss)
-### tiere
+* [https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen](https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309#ref=rss)
+### richterin
 
-* [https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale](https://www.spiegel.de/panorama/neuseeland-rettungsaktion-fuer-dutzende-gestrandete-wale-a-95f37959-fcf8-43e8-b105-ca2ebca220c9#ref=rss)
-### gasversorgung
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+### arbeiten
 
-* [https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung](https://www.spiegel.de/panorama/justiz/sabotageprozess-in-hamburg-nord-stream-anschlaege-hatten-offenbar-geringen-einfluss-auf-deutschlands-gasversorgung-a-f09c6b35-6572-4a02-9df6-1384ce005297#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+### triumphbogen
 
-* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt-a-eb038f84-0570-487d-9885-8ff1fcd0b18f#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+### washington
 
-* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt-a-eb038f84-0570-487d-9885-8ff1fcd0b18f#ref=rss)
-### gerechtigkeit
+* [https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen](https://www.spiegel.de/ausland/usa-richterin-stoppt-arbeiten-an-donald-trumps-triumphbogen-a-766b2510-02a3-4231-ad81-b465774c08dd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-ueber-gerechtigkeit-grosszuegigkeit-im-miteinander-verlangt-a-eb038f84-0570-487d-9885-8ff1fcd0b18f#ref=rss)
-### married
+* [https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren](https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren-a-88da3bb5-188e-4920-aec6-8f3286620d21#ref=rss)
+### konzerten
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### at
+* [https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren](https://www.spiegel.de/kultur/musik/bryan-adams-seine-mutter-kommt-zu-seinen-konzerten-mit-98-jahren-a-88da3bb5-188e-4920-aec6-8f3286620d21#ref=rss)
+### industrieproduktion
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### first
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+### wächst
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### sight
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### september
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### channel
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+### überraschend
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### 4
+* [https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf](https://www.spiegel.de/wirtschaft/industrie-nimmt-im-september-wieder-ueberraschend-fahrt-auf-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss)
+### rasheed
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### britische
+* [https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand](https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand-a-6cdb6522-8ba8-4589-bcd4-4e571ac4f5ea#ref=rss)
+### rice
 
-* [https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen](https://www.spiegel.de/kultur/tv/married-at-first-sight-channel-4-streicht-britische-version-von-hochzeit-auf-den-ersten-blick-nach-vergewaltigungsvorwuerfen-a-42e3da1c-1e12-497f-ab39-d2d40c365f65#ref=rss)
-### sexualisiertem
+* [https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand](https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand-a-6cdb6522-8ba8-4589-bcd4-4e571ac4f5ea#ref=rss)
+### insolvenz
 
-* [https://www.spiegel.de/politik/deutschland/sexualisiertes-fehlverhalten-in-der-bundeswehr-pistorius-richtet-hilfs-hotline-fuer-soldatinnen-ein](https://www.spiegel.de/politik/deutschland/sexualisiertes-fehlverhalten-in-der-bundeswehr-pistorius-richtet-hilfs-hotline-fuer-soldatinnen-ein-a-21f97e3d-9e23-4bde-987a-0df8eab69fce#ref=rss)
-### fehlverhalten
+* [https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand](https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand-a-6cdb6522-8ba8-4589-bcd4-4e571ac4f5ea#ref=rss)
+### superbowlring
 
-* [https://www.spiegel.de/politik/deutschland/sexualisiertes-fehlverhalten-in-der-bundeswehr-pistorius-richtet-hilfs-hotline-fuer-soldatinnen-ein](https://www.spiegel.de/politik/deutschland/sexualisiertes-fehlverhalten-in-der-bundeswehr-pistorius-richtet-hilfs-hotline-fuer-soldatinnen-ein-a-21f97e3d-9e23-4bde-987a-0df8eab69fce#ref=rss)
-### fremdverschulden
+* [https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand](https://www.spiegel.de/sport/american-football/nfl-kansas-city-profi-rasheed-rice-meldet-insolvenz-an-und-nutzt-super-bowl-ring-als-pfand-a-6cdb6522-8ba8-4589-bcd4-4e571ac4f5ea#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod](https://www.spiegel.de/politik/hubert-aiwanger-keine-anzeichen-fuer-fremdverschulden-bei-tod-a-fe598a6a-91c3-4bfa-9d05-78f50bd5d0ce#ref=rss)
-### apple
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch](https://www.spiegel.de/netzwelt/gadgets/apple-macbook-pro-proled-xdr-im-test-angucken-erlaubt-anfassen-auch-a-5bf5994b-04b4-48d7-8711-9800b77c34c4#ref=rss)
-### demonstrieren
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+### politische
 
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik](https://www.spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik-a-3487beed-37b0-48d6-8113-6b28079566c5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/politik/paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren](https://www.spiegel.de/politik/paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-a-52ab3a5b-7cd8-45a9-8f2e-b38d69b32854#ref=rss)
+### europäer
+
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht](https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon](https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon-a-6d837331-77d6-4c18-a2a3-4ae83a113827#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon](https://www.spiegel.de/ausland/ukraine-giorgia-meloni-fordert-europaeische-einigkeit-nach-putin-telefon-a-6d837331-77d6-4c18-a2a3-4ae83a113827#ref=rss)
+### taizz
+
+* [https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern](https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern](https://www.spiegel.de/ausland/jemen-taizz-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen](https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms](https://www.spiegel.de/ausland/usa-marco-rubio-dementiert-ruecktrittsgeruechte-nach-midterms-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika](https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika-a-5fb8dece-d632-449a-b52b-6d2dbf2d2ab5#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika](https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika-a-5fb8dece-d632-449a-b52b-6d2dbf2d2ab5#ref=rss)
+### reise
+
+* [https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika](https://www.spiegel.de/ausland/papst-leo-beginnt-trotz-krebs-op-seine-reise-durch-suedamerika-a-5fb8dece-d632-449a-b52b-6d2dbf2d2ab5#ref=rss)
+### paraguay
+
+* [https://www.spiegel.de/politik/paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren](https://www.spiegel.de/politik/paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-a-52ab3a5b-7cd8-45a9-8f2e-b38d69b32854#ref=rss)
 
