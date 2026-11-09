@@ -4,404 +4,401 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### krakau
-
-* [https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau](https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss)
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-* [https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt](https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt-a-87c8d521-23d7-4e9a-b2f0-ddc0bb90046c#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau](https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten](https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten-a-3d4d56d6-b93e-427c-ba6a-07f8890af918#ref=rss)
-* [https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt](https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt-a-87c8d521-23d7-4e9a-b2f0-ddc0bb90046c#ref=rss)
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### dave
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### bell
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### allein
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-* [https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan](https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan](https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss)
-### ilse
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft-a-76fa397a-573e-46a5-ad0b-01a40017a783#ref=rss)
-### aigner
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft-a-76fa397a-573e-46a5-ad0b-01a40017a783#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/dass-es-eine-heftige-rolle-ist-wusste-ich-aber-ich-hatte-keine-ahnung-wie-heftig](https://www.spiegel.de/kultur/dass-es-eine-heftige-rolle-ist-wusste-ich-aber-ich-hatte-keine-ahnung-wie-heftig-a-958e48fe-91bd-4e3b-9196-178555e6dbf1#ref=rss)
-* [https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch](https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch-a-3b1e1204-df81-4649-b4b4-d6c6bd23247f#ref=rss)
-### ozeane
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### legt
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-* [https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht](https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht-a-9206faeb-cb0f-4b4f-9845-fa031503f1d2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken](https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken-a-04f5a7c5-7c33-44f6-95eb-d6c97cb93abe#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef](https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef-a-5ae37e2b-1af3-427e-9e3f-d9a73dcfa84f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### bildung
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen](https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen-a-7e28e257-bb02-4a4b-b614-64f71bd02c68#ref=rss)
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
-### lange
-
-* [https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef](https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef-a-5ae37e2b-1af3-427e-9e3f-d9a73dcfa84f#ref=rss)
-* [https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht](https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht-a-9206faeb-cb0f-4b4f-9845-fa031503f1d2#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### nmecha
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken](https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken-a-04f5a7c5-7c33-44f6-95eb-d6c97cb93abe#ref=rss)
-### ostrowiec
-
-* [https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau](https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss)
-### świętokrzyski
-
-* [https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau](https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss)
-### todesschützen
-
-* [https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau](https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-### wirtz
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-### crystal
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-### palace
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen](https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen-a-24512e0a-4daa-4e20-b6e7-7d35f3d53bc6#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### nationalspieler
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace](https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken](https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken-a-04f5a7c5-7c33-44f6-95eb-d6c97cb93abe#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss)
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### attentäter
-
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert](https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss)
-### elmalabrüder
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss)
-### hape
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-### kerkeling
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner](https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft-a-76fa397a-573e-46a5-ad0b-01a40017a783#ref=rss)
-### haustierhaltung
-
-* [https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten](https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten-a-3d4d56d6-b93e-427c-ba6a-07f8890af918#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten](https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten-a-3d4d56d6-b93e-427c-ba6a-07f8890af918#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen](https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen-a-24512e0a-4daa-4e20-b6e7-7d35f3d53bc6#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch](https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch-a-3b1e1204-df81-4649-b4b4-d6c6bd23247f#ref=rss)
-* [https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt](https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt-a-87c8d521-23d7-4e9a-b2f0-ddc0bb90046c#ref=rss)
-### einsamkeit
-
-* [https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch](https://www.spiegel.de/panorama/angst-vorm-altwerden-wollen-sie-den-end-of-life-service-wirklich-nutzen-herr-gutsch-a-3b1e1204-df81-4649-b4b4-d6c6bd23247f#ref=rss)
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-### dinger
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-### rudert
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### brite
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika](https://www.spiegel.de/sport/dave-bell-brite-rudert-28-000-kilometer-von-suedamerika-nach-afrika-a-3aa502ee-b4c4-4e96-9884-f34ff75a86cc#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane](https://www.spiegel.de/sport/dave-dinger-bell-extremsportler-rudert-allein-im-boot-ueber-zwei-ozeane-a-db9e0432-235b-4701-88f9-ad07325a55f8#ref=rss)
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### eisenkot
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### erhält
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### auftrag
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### aufgabe
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe](https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss)
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-frei-wie-ein-adler-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-frei-wie-ein-adler-im-schnellcheck-a-31176589-2de3-41ca-8e2d-445fa60719b4#ref=rss)
-### vanessa
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### emde
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### weigerung
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### mandatsverzicht
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### hilflosigkeit
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### linkenspitze
-
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze](https://www.spiegel.de/politik/deutschland/vanessa-emde-weigerung-zum-mandatsverzicht-zeigt-hilflosigkeit-der-linken-spitze-a-a35933e8-48d4-4166-9227-d7c4d85b9f29#ref=rss)
-### sachsen
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-### 74jähriger
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-### kilo
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-### fische
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-### feldweg
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben](https://www.spiegel.de/panorama/sachsen-74-jaehriger-kippt-50-kilo-fische-auf-feldweg-einige-tiere-ueberleben-a-3c2453ad-5bbe-4045-b099-ecced8dbc41d#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen](https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen-a-24512e0a-4daa-4e20-b6e7-7d35f3d53bc6#ref=rss)
-### betreuung
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen](https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen-a-7e28e257-bb02-4a4b-b614-64f71bd02c68#ref=rss)
-### wissenschaft
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen](https://www.spiegel.de/panorama/bildung/sondervermoegen-bislang-kaum-geld-in-bildung-betreuung-und-wissenschaft-geflossen-a-7e28e257-bb02-4a4b-b614-64f71bd02c68#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef](https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef-a-5ae37e2b-1af3-427e-9e3f-d9a73dcfa84f#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef](https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef-a-5ae37e2b-1af3-427e-9e3f-d9a73dcfa84f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef](https://www.spiegel.de/politik/deutschland/markus-wolf-russlands-geheimdienst-wuerdigt-ex-ddr-spionagechef-a-5ae37e2b-1af3-427e-9e3f-d9a73dcfa84f#ref=rss)
-* [https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht](https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht-a-9206faeb-cb0f-4b4f-9845-fa031503f1d2#ref=rss)
-### tübingen
-
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-### georgsbrunnen
-
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen](https://www.spiegel.de/panorama/tuebingen-unbekannte-kippen-15-kilo-zement-in-georgsbrunnen-a-6802b2f9-e948-47b2-b4f6-7937326c8973#ref=rss)
-* [https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan](https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss)
-### palästinaflagge
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### reichstag
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag](https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938#ref=rss)
-### willie
-
-* [https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht](https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht-a-9206faeb-cb0f-4b4f-9845-fa031503f1d2#ref=rss)
-### nelson
-
-* [https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht](https://www.spiegel.de/kultur/willie-nelson-findet-er-habe-lange-zeit-alles-falsch-gemacht-a-9206faeb-cb0f-4b4f-9845-fa031503f1d2#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan](https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss)
-### markle
-
-* [https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan](https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss)
-### uli
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### vincent
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### kompany
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### opfern
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern](https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss)
-### felix
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken](https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken-a-04f5a7c5-7c33-44f6-95eb-d6c97cb93abe#ref=rss)
+* [https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen](https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65#ref=rss)
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+### jensen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### huang
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart](https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wissenschaft/weltall/laser-satellitenkommunikation-bei-dieser-weltraumtechnologie-ist-deutschland-weit-vorn-noch](https://www.spiegel.de/wissenschaft/weltall/laser-satellitenkommunikation-bei-dieser-weltraumtechnologie-ist-deutschland-weit-vorn-noch-a-8c7dc282-3844-4a8a-b0b3-d0e11f34fc84#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart](https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an](https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an-a-2f634d62-b723-44b1-beb0-041740b8a447#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart](https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-sucht-neue-astronauten-und-astronautinnen-das-universum-ruft](https://www.spiegel.de/wissenschaft/nasa-sucht-neue-astronauten-und-astronautinnen-das-universum-ruft-a-fff1cf61-448d-49ad-bf84-f73d82998c3d#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken](https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken-a-a440bf00-987f-4d1c-b522-8eb62af4dbd5#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### nie
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung](https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss)
+### midterms
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart](https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an](https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an-a-2f634d62-b723-44b1-beb0-041740b8a447#ref=rss)
+### china
+
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### mann
+
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung](https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert](https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert-a-8147becb-9e09-4625-95f6-94f3ea660aaa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### gosens
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### polen
+### sieben
 
-* [https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt](https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt-a-87c8d521-23d7-4e9a-b2f0-ddc0bb90046c#ref=rss)
-### bessere
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
-### zukunft
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft-a-76fa397a-573e-46a5-ad0b-01a40017a783#ref=rss)
-### nachrichten
+* [https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen](https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65#ref=rss)
+### 9
 
-* [https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten](https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss)
+* [https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen](https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65#ref=rss)
+### november
+
+* [https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen](https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### südlich
+
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck](https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### aktie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+### seitensprung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### preuß
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### simon
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### schempp
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### erwarten
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### kind
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-und-simon-schempp-erwarten-ein-kind-a-43dbaec0-6dd8-4b07-af21-cddbbf63d752#ref=rss)
+### elon
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+### musk
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern](https://www.spiegel.de/mobilitaet/auto/elon-musk-tesla-wird-offenbar-nicht-alle-bestellten-cybertrucks-ausliefern-a-e873eb44-ea14-4d97-8474-48c821e45088#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/weltall/laser-satellitenkommunikation-bei-dieser-weltraumtechnologie-ist-deutschland-weit-vorn-noch](https://www.spiegel.de/wissenschaft/weltall/laser-satellitenkommunikation-bei-dieser-weltraumtechnologie-ist-deutschland-weit-vorn-noch-a-8c7dc282-3844-4a8a-b0b3-d0e11f34fc84#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/politik/deutschland/claudia-roth-antisemitismus-netzwerk-der-gruenen-kritisiert-politikerin](https://www.spiegel.de/politik/deutschland/claudia-roth-antisemitismus-netzwerk-der-gruenen-kritisiert-politikerin-a-3773d5cd-044f-4dc5-910b-4c8eadcc6a8b#ref=rss)
+### roth
+
+* [https://www.spiegel.de/politik/deutschland/claudia-roth-antisemitismus-netzwerk-der-gruenen-kritisiert-politikerin](https://www.spiegel.de/politik/deutschland/claudia-roth-antisemitismus-netzwerk-der-gruenen-kritisiert-politikerin-a-3773d5cd-044f-4dc5-910b-4c8eadcc6a8b#ref=rss)
+### affäre
+
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### spionin
+
+* [https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck](https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+### atlético
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+### geraten
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### partie
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+### rekordschulden
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+### zinsen
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+### nächste
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung](https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung](https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht](https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss)
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### tribüne
+
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+### bodøglimt
+
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+### tromsø
+
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt](https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### andy
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### serkis
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### herr
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### gollum
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+### 20
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum](https://www.spiegel.de/kultur/kino/andy-serkis-der-herr-der-ringe-schauspieler-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung](https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss)
+### union
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+### plastiksteuer
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+### finanzquellen
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen](https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung](https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung](https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung](https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung](https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert](https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert-a-8147becb-9e09-4625-95f6-94f3ea660aaa#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert](https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert-a-8147becb-9e09-4625-95f6-94f3ea660aaa#ref=rss)
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### tsg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### 1899
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### hoffenheim
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### robin
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### loris
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### karius
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+### verletzungen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss)
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+### küstenwache
+
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### kreta
+
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
 ### zieht
 
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-zieht-instagram-bilanz-und-blickt-in-die-zukunft-a-76fa397a-573e-46a5-ad0b-01a40017a783#ref=rss)
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+### bilanz
+
+* [https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot](https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-gibt-60-minutes-erstes-interview-a-e5dd74eb-256a-47e5-a7b3-1c93b7c52ac2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### unicredit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### strategie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### umsetzen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an](https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an-a-2f634d62-b723-44b1-beb0-041740b8a447#ref=rss)
+### 14
+
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### taiyuan
+
+* [https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an](https://www.spiegel.de/ausland/ukraine-donald-trump-deutet-etwas-andere-form-an-a-a9973bbc-b103-4162-89d1-d76dd743ab3b#ref=rss)
+### krakau
+
+* [https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot](https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss)
+### freimenge
+
+* [https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken](https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken-a-a440bf00-987f-4d1c-b522-8eb62af4dbd5#ref=rss)
+### zigaretten
+
+* [https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken](https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken-a-a440bf00-987f-4d1c-b522-8eb62af4dbd5#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### psychiatrie
+
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen](https://www.spiegel.de/panorama/justiz/bremen-straftaeter-aus-klinik-entkommen-a-037302c4-4d9c-4e3a-8f1b-a133d21662de#ref=rss)
+### gesteht
+
+* [https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus](https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss)
 
