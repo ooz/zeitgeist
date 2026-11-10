@@ -4,396 +4,263 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### aigner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### ilse
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### bundespräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man](https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man-a-4bec0e63-a9e4-46f2-8771-e952b7e3df2a#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### kandidatin
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran](https://www.spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran-a-43f4789a-967f-4470-883e-a91963b0ada8#ref=rss)
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-### grad
-
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen](https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man](https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man-a-4bec0e63-a9e4-46f2-8771-e952b7e3df2a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen-a-60b593f8-0a10-4287-86ab-ccc8d9cf9d7b#ref=rss)
-### jensen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktien-verlieren-auch-zum-handelsstart-in-new-york-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktien-verlieren-auch-zum-handelsstart-in-new-york-deutlich-a-4c20ed90-2b37-48b9-8f13-6230f8a0459d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen](https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss)
-### huang
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktien-verlieren-auch-zum-handelsstart-in-new-york-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktien-verlieren-auch-zum-handelsstart-in-new-york-deutlich-a-4c20ed90-2b37-48b9-8f13-6230f8a0459d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen](https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel](https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel-a-80df204e-a056-4ff8-ac2f-ad4c95b70751#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### mut
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst](https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst-a-a221645c-9580-4656-ac67-b32f32b6ad3c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### paris
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran](https://www.spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran-a-43f4789a-967f-4470-883e-a91963b0ada8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-### erderwärmung
-
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-### gerissen
-
-* [https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen](https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss)
-### berlinmarzahn
-
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elbtower-baufirma-will-offenbar-kran-und-spezialtechnik-abbauen](https://www.spiegel.de/wirtschaft/elbtower-baufirma-will-offenbar-kran-und-spezialtechnik-abbauen-a-776178bf-68eb-4f60-b29f-04fcbfb62f3d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo](https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-### schülerin
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren](https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren-a-a24b11f7-4700-4a09-9eb6-3dcc1a5732dc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte](https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+* [https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende](https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende-a-6ac6c144-eff0-406e-ab91-9bb7be3a8c6c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-### schwer
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu](https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu-a-e867587b-e01c-4898-94e4-81961204d4d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte](https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+* [https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende](https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende-a-6ac6c144-eff0-406e-ab91-9bb7be3a8c6c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer](https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen](https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-### neutralitätspflicht
-
-* [https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht](https://www.spiegel.de/panorama/bildung/afd-in-sachsen-anhalt-ein-lehrer-eine-abmahnung-und-der-streit-ueber-die-neutralitaetspflicht-a-2a9dc291-a9d7-46fd-b6ce-00fcc109998c#ref=rss)
-### stichelt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-### usdemokraten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-### prüfen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-### justin
-
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-### timberlake
-
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-### hintergrund
-
-* [https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar](https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen-a-60b593f8-0a10-4287-86ab-ccc8d9cf9d7b#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-### neben
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027](https://www.spiegel.de/politik/deutschland/bundespraesidentin-so-laeuft-die-wahl-in-der-bundesversammlung-am-30-januar-2027-a-48aa2f61-4ff5-4f07-8002-372d2bb01a22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-### marvin
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-### s
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt](https://www.spiegel.de/panorama/justiz/prozess-gegen-marvin-s-wenn-es-jetzt-schon-fuenf-frauen-sind-dann-mag-man-sich-nicht-ausmalen-was-noch-im-verborgenen-liegt-a-2f1d214c-e89c-4133-a9df-1fe75d611b3c#ref=rss)
-### bill
-
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-### skarsgård
-
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-erdrutsch-begraebt-zelte-gesundheitsbehoerde-meldet-vier-tote-in-gaza](https://www.spiegel.de/ausland/gaza-erdrutsch-begraebt-zelte-gesundheitsbehoerde-meldet-vier-tote-in-gaza-a-42acd596-7e4c-41b1-a753-c788e5b2c5fe#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein](https://www.spiegel.de/kultur/kino/bill-skarsgard-kinderfressender-clown-ja-james-bond-nein-a-1c45c297-a949-4087-8325-94244b72cf80#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### fahren
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man](https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man-a-4bec0e63-a9e4-46f2-8771-e952b7e3df2a#ref=rss)
-### bald
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man](https://www.spiegel.de/mobilitaet/bus-bahn/muenchen-mvg-erprobt-autonomes-fahren-mit-bus-von-man-a-4bec0e63-a9e4-46f2-8771-e952b7e3df2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### apotheken
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### umschau
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### medienhaus
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### wort
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### bild
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-### freie
-
-* [https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren](https://www.spiegel.de/kultur/apotheken-umschau-medienhaus-wort-bild-will-redaktion-halbieren-a-59b79ae8-97b8-4708-bd19-c1b4594081c4#ref=rss)
-* [https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst](https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst-a-a221645c-9580-4656-ac67-b32f32b6ad3c#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen](https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss)
-### garmischpartenkirchen
-
-* [https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel](https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel-a-80df204e-a056-4ff8-ac2f-ad4c95b70751#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel](https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel-a-80df204e-a056-4ff8-ac2f-ad4c95b70751#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel](https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel-a-80df204e-a056-4ff8-ac2f-ad4c95b70751#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-messerangreifer-in-psychiatrische-klinik-eingewiesen-a-60b593f8-0a10-4287-86ab-ccc8d9cf9d7b#ref=rss)
-### zelte
-
-* [https://www.spiegel.de/ausland/gaza-erdrutsch-begraebt-zelte-gesundheitsbehoerde-meldet-vier-tote-in-gaza](https://www.spiegel.de/ausland/gaza-erdrutsch-begraebt-zelte-gesundheitsbehoerde-meldet-vier-tote-in-gaza-a-42acd596-7e4c-41b1-a753-c788e5b2c5fe#ref=rss)
-### russell
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### brand
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-### britische
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-### entschlossenheit
-
-* [https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung](https://www.spiegel.de/panorama/justiz/russell-brand-mehr-als-zehn-jahre-haft-wegen-vergewaltigung-und-sexueller-noetigung-a-c2b9b022-5d1f-45f4-8f7b-18e79de54504#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-### ines
-
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### schwerdtner
-
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### linkenchefin
-
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### mieten
-
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### vergesellschaftung
-
-* [https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen](https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss)
-### e10
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel](https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel-a-29f929ff-3e9a-4239-8c85-07942e5402ad#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel](https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel-a-29f929ff-3e9a-4239-8c85-07942e5402ad#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-### moritz
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-### schularick
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-oekonom-moritz-schularick-ruft-zu-mehr-veraenderungsbereitschaft-auf-a-ce39f8bd-8d4d-4c05-86fa-067aae988e2f#ref=rss)
-### eric
-
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab](https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566#ref=rss)
+* [https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende](https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende-a-6ac6c144-eff0-406e-ab91-9bb7be3a8c6c#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### jr
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr](https://www.spiegel.de/wirtschaft/usa-demokraten-pruefen-verteidigungsinvestitionen-von-eric-und-donald-trump-jr-a-0f732125-901a-4bf8-822e-dd2dd67fc459#ref=rss)
-### freiheit
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+### schichten
 
-* [https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst](https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst-a-a221645c-9580-4656-ac67-b32f32b6ad3c#ref=rss)
-### widerspruch
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+### ausfallen
 
-* [https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst](https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst-a-a221645c-9580-4656-ac67-b32f32b6ad3c#ref=rss)
-### trainieren
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op](https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss)
+### rechnet
 
-* [https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst](https://www.spiegel.de/psychologie/freiheit-wie-sich-der-mut-zum-widerspruch-trainieren-laesst-a-a221645c-9580-4656-ac67-b32f32b6ad3c#ref=rss)
-### la
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op](https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
-### roux
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/fitness/abnehmspritze-und-sport-was-sie-ueber-glp-1-und-muskelverlust-wissen-sollten](https://www.spiegel.de/fitness/abnehmspritze-und-sport-was-sie-ueber-glp-1-und-muskelverlust-wissen-sollten-a-03590637-759c-42f4-b72c-f36b89a8652b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
-### old
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte](https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss)
+### nmecha
 
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
-### flames
+* [https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel](https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel-a-30cda9a9-b8e8-4d1f-a62f-36f75d859d22#ref=rss)
+### frau
 
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu](https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu-a-e867587b-e01c-4898-94e4-81961204d4d4#ref=rss)
+### festgehalten
+
+* [https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein](https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss)
+### vincent
+
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+### kompany
+
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+### bayerntrainer
+
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+### hirnhautreizung
+
+* [https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck](https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+### fehlender
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+### teile
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen](https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen-a-fd4d46e5-6c1c-4830-ac63-e1ace47b93f1#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen](https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen](https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+### chef
+
+* [https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen](https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss)
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+### maschinenbauer
+
+* [https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren](https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren-a-a24b11f7-4700-4a09-9eb6-3dcc1a5732dc#ref=rss)
+### reformen
+
+* [https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren](https://www.spiegel.de/wirtschaft/maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren-a-a24b11f7-4700-4a09-9eb6-3dcc1a5732dc#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+### groß
+
+* [https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit](https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss)
+* [https://www.spiegel.de/fitness/abnehmspritze-und-sport-was-sie-ueber-glp-1-und-muskelverlust-wissen-sollten](https://www.spiegel.de/fitness/abnehmspritze-und-sport-was-sie-ueber-glp-1-und-muskelverlust-wissen-sollten-a-03590637-759c-42f4-b72c-f36b89a8652b#ref=rss)
+### lindsey
+
+* [https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op](https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss)
+### vonn
+
+* [https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op](https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss)
+### op
+
+* [https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op](https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/florida-stimmenrekorder-des-abgestuerzten-privatjets-geborgen](https://www.spiegel.de/panorama/florida-stimmenrekorder-des-abgestuerzten-privatjets-geborgen-a-0a401d2a-f789-4352-8551-3894df878413#ref=rss)
+### stimmenrekorder
+
+* [https://www.spiegel.de/panorama/florida-stimmenrekorder-des-abgestuerzten-privatjets-geborgen](https://www.spiegel.de/panorama/florida-stimmenrekorder-des-abgestuerzten-privatjets-geborgen-a-0a401d2a-f789-4352-8551-3894df878413#ref=rss)
+### paul
+
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt](https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt-a-1dea9cb2-23fa-4cb9-940f-97c1c8ff52cf#ref=rss)
+### mccartney
+
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt](https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt-a-1dea9cb2-23fa-4cb9-940f-97c1c8ff52cf#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt](https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt-a-1dea9cb2-23fa-4cb9-940f-97c1c8ff52cf#ref=rss)
+* [https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung](https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung-a-b8df20b6-1b64-4b89-abee-c985f6b20428#ref=rss)
+### geld
+
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt](https://www.spiegel.de/kultur/musik/paul-mccartney-ist-der-drittreichste-musiker-der-welt-a-1dea9cb2-23fa-4cb9-940f-97c1c8ff52cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab](https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/elbtower-baufirma-will-offenbar-kran-und-spezialtechnik-abbauen](https://www.spiegel.de/wirtschaft/elbtower-baufirma-will-offenbar-kran-und-spezialtechnik-abbauen-a-776178bf-68eb-4f60-b29f-04fcbfb62f3d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo](https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss)
+### kindergeld
+
+* [https://www.spiegel.de/wirtschaft/soziales/kindergeld-unionspolitiker-wollen-bezug-im-eu-ausland-erschweren](https://www.spiegel.de/wirtschaft/soziales/kindergeld-unionspolitiker-wollen-bezug-im-eu-ausland-erschweren-a-fc5ad28d-fab2-47cf-9ae4-d2731312829a#ref=rss)
+### unionspolitiker
+
+* [https://www.spiegel.de/wirtschaft/soziales/kindergeld-unionspolitiker-wollen-bezug-im-eu-ausland-erschweren](https://www.spiegel.de/wirtschaft/soziales/kindergeld-unionspolitiker-wollen-bezug-im-eu-ausland-erschweren-a-fc5ad28d-fab2-47cf-9ae4-d2731312829a#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+### elbphilharmonie
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte](https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss)
+### hansa
+
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht](https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht-a-9f36af92-646a-4e52-b114-3d51714d7962#ref=rss)
+### rostock
+
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht](https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht-a-9f36af92-646a-4e52-b114-3d51714d7962#ref=rss)
+### 17
+
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht](https://www.spiegel.de/sport/fussball/hansa-rostock-ermittlungen-gegen-17-fans-nach-hakenkreuz-foto-und-pruegelei-wohnungen-durchsucht-a-9f36af92-646a-4e52-b114-3d51714d7962#ref=rss)
+### emde
+
+* [https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen](https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen-a-fd4d46e5-6c1c-4830-ac63-e1ace47b93f1#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen](https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen-a-fd4d46e5-6c1c-4830-ac63-e1ace47b93f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht](https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss)
+### gern
+
+* [https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen](https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen-a-fd4d46e5-6c1c-4830-ac63-e1ace47b93f1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel](https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel-a-30cda9a9-b8e8-4d1f-a62f-36f75d859d22#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei](https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss)
-### teddy
+* [https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu](https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu-a-e867587b-e01c-4898-94e4-81961204d4d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+### affäre
 
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-### riner
+* [https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung](https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung-a-b8df20b6-1b64-4b89-abee-c985f6b20428#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+### mutmaßlichen
 
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-### staatspräsident
+* [https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung](https://www.spiegel.de/kultur/nvidia-jensen-huangs-seitensprung-regelbruch-des-braven-genies-meinung-a-b8df20b6-1b64-4b89-abee-c985f6b20428#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+### thema
 
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-### kündigte
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident](https://www.spiegel.de/sport/frankreich-judo-legende-teddy-riner-kandidiert-als-staatspraesident-a-a2761e96-a4dd-4930-87cd-0226669bbc43#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-### axt
+* [https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema](https://www.spiegel.de/politik/deutschland/midem-polarisierungsbarometer-ukraineunterstuetzung-polarisiert-die-deutschen-wie-kein-anderes-thema-a-689dc354-f904-4ef7-9256-7bbdad2f11fa#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo](https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/justiz/mosbach-ehefrau-mit-axt-getoetet-84-jaehriger-muss-in-die-psychiatrie-a-6e58c589-9178-453f-bcfc-c7f16c33d2d5#ref=rss)
-### csupolitikerin
+* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag-a-e0efe3be-a85d-4bb9-a509-07d199db4026#ref=rss)
+### gauland
 
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor](https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt](https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag-a-e0efe3be-a85d-4bb9-a509-07d199db4026#ref=rss)
+### krebserkrankung
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukraine-und-russland-attackieren-sich-vor-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukraine-und-russland-attackieren-sich-vor-verhandlungen-a-5022f249-a45e-487b-8adb-c78526aade5a#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-fehlt-wegen-krebserkrankung-im-bundestag-a-e0efe3be-a85d-4bb9-a509-07d199db4026#ref=rss)
+### felix
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukraine-und-russland-attackieren-sich-vor-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukraine-und-russland-attackieren-sich-vor-verhandlungen-a-5022f249-a45e-487b-8adb-c78526aade5a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel](https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel-a-30cda9a9-b8e8-4d1f-a62f-36f75d859d22#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+### hin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen](https://www.spiegel.de/wirtschaft/unternehmen/verfassungsschutz-warnt-deutsche-topmanager-vor-honigfallen-a-8a0ae4dd-e04b-4e1a-8338-81b0d0d1449a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
+### patricia
+
+* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht](https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss)
+### schlesinger
+
+* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht](https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo](https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss)
+### thadeusz
+
+* [https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo](https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss)
+### irankrieg
+
+* [https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news](https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss)
+### dana
+
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
+### white
+
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus](https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss)
 
