@@ -4,365 +4,294 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
+### usa
 
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### patricia
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### schlesinger
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen](https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen](https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### fall
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung](https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen](https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen](https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss)
-### hartmut
-
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
-### engler
-
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
-### pursänger
-
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
-### herzinfarkt
-
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis](https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis-a-ba23b3f6-55fd-4b1a-947e-abc8d419bea5#ref=rss)
+* [https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht](https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht-a-b469f92d-f70f-44f1-bc8d-204e3669d8a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland](https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland-a-06843119-9bd1-46c2-82d8-f106121ecdc5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/un-weltklimakonferenz-cop31-ohne-die-usa-wer-widerspricht-riskiert-seinen-posten](https://www.spiegel.de/wissenschaft/un-weltklimakonferenz-cop31-ohne-die-usa-wer-widerspricht-riskiert-seinen-posten-a-3895f38a-1ef8-46f7-9ae3-8613e8cddebd#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren](https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren-a-30e72a93-c75e-41c5-89ec-b692eac271af#ref=rss)
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-### druck
-
-* [https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt](https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce](https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce-a-3ed751aa-52ff-4e0b-9814-bcc8465d8a51#ref=rss)
-### exrbbintendantin
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### fans
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### strafprozess
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### frühere
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### rbbintendantin
-
-* [https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock](https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr](https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben](https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben-a-d09ab5e1-ca5f-495a-856d-842bb8f14357#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-* [https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben](https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben-a-d09ab5e1-ca5f-495a-856d-842bb8f14357#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa](https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-### stephanie
-
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-### case
-
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter](https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa#ref=rss)
-### ort
-
-* [https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim](https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-### honigfallen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung](https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung](https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-### getöteten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung](https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-### vanessa
-
-* [https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen](https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss)
-### emde
-
-* [https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen](https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss)
-### fraktion
-
-* [https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen](https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss)
-### anderem
-
-* [https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft](https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### schönste
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt](https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt-a-a3c12488-9112-489d-b472-79c44e8838e3#ref=rss)
-### welt
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt](https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt-a-a3c12488-9112-489d-b472-79c44e8838e3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt](https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt-a-a3c12488-9112-489d-b472-79c44e8838e3#ref=rss)
-* [https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik](https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik-a-4b327c99-bf99-46c9-ac57-9e21f2a93d80#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt](https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-ist-das-die-schoenste-strassenbahnstrecke-der-welt-a-a3c12488-9112-489d-b472-79c44e8838e3#ref=rss)
-* [https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten](https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss)
-### weltklimakonferenz
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet](https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet-a-f5d4e97a-b411-4607-ad29-e8bcce920d17#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen](https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220#ref=rss)
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr](https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss)
-### michael
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-### palin
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-### einst
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss)
-### britische
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### komiker
-
-* [https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags](https://www.spiegel.de/panorama/michael-palin-monty-python-star-erinnert-sich-nach-sturz-an-eigene-gags-a-7b507dda-6016-48dd-a349-5c4a0ddcea69#ref=rss)
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard](https://www.spiegel.de/wirtschaft/strafprozess-gegen-ex-rbb-intendantin-patricia-schlesinger-skandale-bei-der-ard-a-735834a0-e9bb-4703-945c-1d510c45e684#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### krakau
-
-* [https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik](https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik-a-4b327c99-bf99-46c9-ac57-9e21f2a93d80#ref=rss)
-### breivik
-
-* [https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik](https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik-a-4b327c99-bf99-46c9-ac57-9e21f2a93d80#ref=rss)
-### midterms
-
-* [https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten](https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss)
-### millennials
-
-* [https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten](https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss)
-### gen
-
-* [https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten](https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss)
-### z
-
-* [https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten](https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss)
-### renoir
-
-* [https://www.spiegel.de/kultur/renoir-vermeintliche-faelschung-entpuppt-sich-als-original](https://www.spiegel.de/kultur/renoir-vermeintliche-faelschung-entpuppt-sich-als-original-a-c3606e6e-6701-4ab7-b511-b7f14b1df918#ref=rss)
-### fälschung
-
-* [https://www.spiegel.de/kultur/renoir-vermeintliche-faelschung-entpuppt-sich-als-original](https://www.spiegel.de/kultur/renoir-vermeintliche-faelschung-entpuppt-sich-als-original-a-c3606e6e-6701-4ab7-b511-b7f14b1df918#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### walliams
-
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### sexuellen
-
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### fehlverhaltens
-
-* [https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens](https://www.spiegel.de/kultur/david-walliams-mehrere-frauen-erheben-vorwuerfe-gegen-little-britain-darsteller-wegen-sexuellen-fehlverhaltens-a-51ff7d8c-bf7f-41ac-a5db-6c78dbb7931c#ref=rss)
-### plant
-
-* [https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v](https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss)
-### steuerklassen
-
-* [https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v](https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss)
-### iii
-
-* [https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v](https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss)
-### v
-
-* [https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v](https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss)
-### ilse
-
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-### aigner
-
-* [https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin](https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss)
-### felix
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-### nmecha
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-* [https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor](https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen](https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss)
-### republikaner
-
-* [https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben](https://www.spiegel.de/ausland/us-midterms-wie-die-republikaner-den-gerrymander-krieg-verloren-haben-a-d09ab5e1-ca5f-495a-856d-842bb8f14357#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce](https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce-a-3ed751aa-52ff-4e0b-9814-bcc8465d8a51#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen](https://www.spiegel.de/panorama/justiz/hamburg-der-angriff-an-der-elbphilharmonie-und-der-leichenfund-bei-reutlingen-a-9e3b047f-dda0-4772-ac91-41c084e944e0#ref=rss)
-### teneo
-
-* [https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet](https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet-a-f5d4e97a-b411-4607-ad29-e8bcce920d17#ref=rss)
-### zugleich
-
-* [https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet](https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet-a-f5d4e97a-b411-4607-ad29-e8bcce920d17#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert](https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg-a-09effaad-61c3-411b-ba48-193a47b5460e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland](https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland-a-06843119-9bd1-46c2-82d8-f106121ecdc5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert](https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b#ref=rss)
+* [https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht](https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht-a-b469f92d-f70f-44f1-bc8d-204e3669d8a9#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr](https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/spanien-streikende-legen-haefen-und-autowerke-lahm](https://www.spiegel.de/wirtschaft/spanien-streikende-legen-haefen-und-autowerke-lahm-a-e0bf7fb0-dd5b-424e-b8af-e23c2b451ccf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen](https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen-a-cb542266-9b90-43b6-b942-c4cc83197a19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr](https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss)
+* [https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink](https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink-a-33f02638-fb10-4776-ae1e-9324ff385918#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand](https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand-a-4f9b3f55-f7d7-45c5-bc71-1bffd362d903#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert](https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis](https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis-a-ba23b3f6-55fd-4b1a-947e-abc8d419bea5#ref=rss)
+* [https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht](https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht-a-b469f92d-f70f-44f1-bc8d-204e3669d8a9#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen](https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen-a-cb542266-9b90-43b6-b942-c4cc83197a19#ref=rss)
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung](https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung-a-a02875a4-40a2-438a-bffc-0c8a97c4aef7#ref=rss)
+* [https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink](https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink-a-33f02638-fb10-4776-ae1e-9324ff385918#ref=rss)
+### freude
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### ringe
+
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### autoritarismusstudie
+
+* [https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert](https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b#ref=rss)
+### beginn
+
+* [https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert](https://www.spiegel.de/politik/deutschland/autoritarismus-studie-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis](https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis-a-ba23b3f6-55fd-4b1a-947e-abc8d419bea5#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen](https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce](https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce-a-3ed751aa-52ff-4e0b-9814-bcc8465d8a51#ref=rss)
-### schienenstrecke
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+* [https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor](https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor-a-1f8e1735-bf78-4eba-b1d0-5e89239888c3#ref=rss)
+### snape
 
-* [https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen](https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss)
-### mecklenburgvorpommern
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+### serie
 
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa#ref=rss)
-### koalitionsverhandlungen
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa#ref=rss)
-### pete
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot](https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce](https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce-a-3ed751aa-52ff-4e0b-9814-bcc8465d8a51#ref=rss)
-### hegseth
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce](https://www.spiegel.de/ausland/pete-hegseth-nennt-amtsenthebungsantrag-eine-farce-a-3ed751aa-52ff-4e0b-9814-bcc8465d8a51#ref=rss)
-### ahoi
+* [https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen](https://www.spiegel.de/kultur/tv/harry-potter-serie-der-neue-snape-hat-die-filme-nicht-gesehen-a-d74426ad-ad1e-40e2-9d3f-4f473c355ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung](https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung-a-a02875a4-40a2-438a-bffc-0c8a97c4aef7#ref=rss)
+### markle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### steffen
+* [https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis](https://www.spiegel.de/panorama/usa-vater-von-meghan-markle-muss-ins-gefaengnis-a-ba23b3f6-55fd-4b1a-947e-abc8d419bea5#ref=rss)
+### bikar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### henssler
+* [https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben](https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben-a-2c03b3d5-f01b-4d5b-bb26-6ad4def818d1#ref=rss)
+### bokak
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### betreiber
+* [https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben](https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben-a-2c03b3d5-f01b-4d5b-bb26-6ad4def818d1#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### insolvenz
+* [https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben](https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben-a-2c03b3d5-f01b-4d5b-bb26-6ad4def818d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### restaurants
+* [https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben](https://www.spiegel.de/wissenschaft/natur/bikar-und-bokak-ein-naturparadies-im-pazifik-zeigt-was-andere-orte-verloren-haben-a-2c03b3d5-f01b-4d5b-bb26-6ad4def818d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### helsing
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss)
-### anthropic
+* [https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor](https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor-a-1f8e1735-bf78-4eba-b1d0-5e89239888c3#ref=rss)
+### kiplattform
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an](https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss)
+* [https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor](https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor-a-1f8e1735-bf78-4eba-b1d0-5e89239888c3#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor](https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor-a-1f8e1735-bf78-4eba-b1d0-5e89239888c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spanien-streikende-legen-haefen-und-autowerke-lahm](https://www.spiegel.de/wirtschaft/spanien-streikende-legen-haefen-und-autowerke-lahm-a-e0bf7fb0-dd5b-424e-b8af-e23c2b451ccf#ref=rss)
+### hundebox
+
+* [https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht](https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht-a-b469f92d-f70f-44f1-bc8d-204e3669d8a9#ref=rss)
+### verdacht
+
+* [https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht](https://www.spiegel.de/panorama/usa-baby-ueberlebt-24-stunden-in-vergrabener-hundebox-vater-unter-verdacht-a-b469f92d-f70f-44f1-bc8d-204e3669d8a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung](https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung-a-a02875a4-40a2-438a-bffc-0c8a97c4aef7#ref=rss)
+### fiebich
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg-a-09effaad-61c3-411b-ba48-193a47b5460e#ref=rss)
+### führte
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg-a-09effaad-61c3-411b-ba48-193a47b5460e#ref=rss)
+### mittelfuß
+
+* [https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg](https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-fiebich-fuehrte-deutschland-mit-bruch-im-mittelfuss-zum-rekorderfolg-a-09effaad-61c3-411b-ba48-193a47b5460e#ref=rss)
+### florence
+
+* [https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen](https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen-a-cb542266-9b90-43b6-b942-c4cc83197a19#ref=rss)
+### pugh
+
+* [https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen](https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen-a-cb542266-9b90-43b6-b942-c4cc83197a19#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen](https://www.spiegel.de/panorama/leute/florence-pugh-laesst-sich-am-set-nichts-mehr-gefallen-a-cb542266-9b90-43b6-b942-c4cc83197a19#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen](https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen-a-3a5fab2b-3228-4f96-b26f-5d6c6a70dc29#ref=rss)
+### brüder
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung](https://www.spiegel.de/wirtschaft/oesterreich-schwere-vorwuerfe-gegen-barmherzige-brueder-wegen-medikamentenabrechnung-a-a02875a4-40a2-438a-bffc-0c8a97c4aef7#ref=rss)
+### mike
+
+* [https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot](https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss)
+### tot
+
+* [https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot](https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot](https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss)
+* [https://www.spiegel.de/familie/pubertaet-warum-meine-13-jaehrige-pretty-woman-noch-nicht-sehen-soll](https://www.spiegel.de/familie/pubertaet-warum-meine-13-jaehrige-pretty-woman-noch-nicht-sehen-soll-a-84feb35d-20d5-49c0-9301-c8a640fbdedd#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot](https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu](https://www.spiegel.de/ausland/donald-trump-richter-laesst-milliardenklage-des-us-praesidenten-gegen-die-bbc-teilweise-zu-a-8ac0690d-95b1-40c6-a77b-d467c56275f4#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+### banken
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+### sparkassen
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+### bündeln
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+### kräfte
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld](https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr](https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss)
+### indonesier
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-nimmt-offenbar-erstmals-indonesier-gefangen-a-7880a9ec-ce90-40c2-9234-d8a7e37a228f#ref=rss)
+### berlinmarzahn
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### verletzungen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+### 13jährige
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+* [https://www.spiegel.de/familie/pubertaet-warum-meine-13-jaehrige-pretty-woman-noch-nicht-sehen-soll](https://www.spiegel.de/familie/pubertaet-warum-meine-13-jaehrige-pretty-woman-noch-nicht-sehen-soll-a-84feb35d-20d5-49c0-9301-c8a640fbdedd#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben](https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen](https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen-a-3a5fab2b-3228-4f96-b26f-5d6c6a70dc29#ref=rss)
+### weit
+
+* [https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland](https://www.spiegel.de/wirtschaft/usa-bieten-gruendern-weit-bessere-bedingungen-als-deutschland-a-06843119-9bd1-46c2-82d8-f106121ecdc5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss](https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss)
+### influencer
+
+* [https://www.spiegel.de/netzwelt/influencer-eu-kommission-plant-strengere-regeln-gegen-versteckte-werbung](https://www.spiegel.de/netzwelt/influencer-eu-kommission-plant-strengere-regeln-gegen-versteckte-werbung-a-aad69014-5fad-4ae7-9135-2ad39433e2a7#ref=rss)
+### werbung
+
+* [https://www.spiegel.de/netzwelt/influencer-eu-kommission-plant-strengere-regeln-gegen-versteckte-werbung](https://www.spiegel.de/netzwelt/influencer-eu-kommission-plant-strengere-regeln-gegen-versteckte-werbung-a-aad69014-5fad-4ae7-9135-2ad39433e2a7#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren](https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren-a-30e72a93-c75e-41c5-89ec-b692eac271af#ref=rss)
+### historische
+
+* [https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren](https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren-a-30e72a93-c75e-41c5-89ec-b692eac271af#ref=rss)
+### chance
+
+* [https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren](https://www.spiegel.de/ausland/midterms-usa-2026-warum-die-demokraten-ihre-historische-chance-riskieren-a-30e72a93-c75e-41c5-89ec-b692eac271af#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### campbell
+
+* [https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit](https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr](https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss)
+### palmer
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr](https://www.spiegel.de/politik/deutschland/boris-palmer-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss)
+### etat
+
+* [https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss](https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss](https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss](https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss)
+### mitgliedstaaten
+
+* [https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss](https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss)
+### handel
+
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### klimagütern
+
+* [https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern](https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink](https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink-a-33f02638-fb10-4776-ae1e-9324ff385918#ref=rss)
+### akademiker
+
+* [https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand](https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand-a-4f9b3f55-f7d7-45c5-bc71-1bffd362d903#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### scott
+
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### bessent
+
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt](https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss)
+### ich
+
+* [https://www.spiegel.de/start/mobbende-chefs-sie-werden-angeschrien-so-wehren-sie-sich](https://www.spiegel.de/start/mobbende-chefs-sie-werden-angeschrien-so-wehren-sie-sich-a-49ee6ca3-f764-403f-90f1-8902ed10dd5c#ref=rss)
 
