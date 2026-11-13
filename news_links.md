@@ -4,318 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### russland
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet](https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet-a-dc6f4dfd-6f72-46d3-a72d-427db09b99a1#ref=rss)
-* [https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs](https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss)
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### u2
 
-* [https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero](https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero-a-497558bc-d069-4b86-a751-29ccebd77d24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an](https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen-a-c484360a-ebce-4b10-8f47-e19d6847e9d6#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser](https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser-a-ca7bfc5a-a994-402b-bdd9-87d662b74785#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert](https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss)
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen-a-c484360a-ebce-4b10-8f47-e19d6847e9d6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-* [https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs](https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+* [https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band](https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss)
 ### microsoft
 
-* [https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero](https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero-a-497558bc-d069-4b86-a751-29ccebd77d24#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff](https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero](https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero-a-497558bc-d069-4b86-a751-29ccebd77d24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten](https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss)
-### bedeutet
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt](https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt-a-635a7601-74b3-4ed9-b968-7b00f5998b0b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert](https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht-a-69abb304-cb62-459b-af98-2b0431ef7347#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an](https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-vollkasko-fuer-autos-aus-china-kostet-fast-das-doppelte](https://www.spiegel.de/wirtschaft/elektroautos-vollkasko-fuer-autos-aus-china-kostet-fast-das-doppelte-a-cb5d4a3b-0af5-4b7f-bf29-93fe2838dfdb#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten](https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten](https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss)
-### jesús
-
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### clanchef
-
-* [https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf](https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf-a-aa11decf-c46d-414e-8c8d-421a13ae55f2#ref=rss)
-### issa
-
-* [https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf](https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf-a-aa11decf-c46d-414e-8c8d-421a13ae55f2#ref=rss)
-### rammo
-
-* [https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf](https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf-a-aa11decf-c46d-414e-8c8d-421a13ae55f2#ref=rss)
-### linken
-
-* [https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf](https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf-a-aa11decf-c46d-414e-8c8d-421a13ae55f2#ref=rss)
-### büro
-
-* [https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero](https://www.spiegel.de/karriere/microsoft-ausfall-die-besten-memes-ueber-die-unfreiwillige-auszeit-im-buero-a-497558bc-d069-4b86-a751-29ccebd77d24#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-### oleksandr
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-### klymenko
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt](https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt](https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt-a-635a7601-74b3-4ed9-b968-7b00f5998b0b#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-### niuschefredakteur
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-### julian
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-### reichelt
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet](https://www.spiegel.de/panorama/justiz/auto-von-nius-chefredakteur-julian-reichelt-angezuendet-a-52fdbfa8-49ec-47cf-9852-caa69c9983ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-### urenco
-
-* [https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert](https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert](https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff](https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss)
-### dhl
-
-* [https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an](https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an](https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss)
-* [https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser](https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser-a-ca7bfc5a-a994-402b-bdd9-87d662b74785#ref=rss)
-### einige
-
-* [https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an](https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss)
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen](https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen-a-587ab48a-0e19-4879-8022-dcac32873a0e#ref=rss)
-### désiré
-
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen](https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen-a-587ab48a-0e19-4879-8022-dcac32873a0e#ref=rss)
-### doué
-
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen](https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen-a-587ab48a-0e19-4879-8022-dcac32873a0e#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen](https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen-a-587ab48a-0e19-4879-8022-dcac32873a0e#ref=rss)
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
-### stare
-
-* [https://www.spiegel.de/panorama/rom-stare-fallen-in-viertel-ein-anwohner-schuetzen-sie-sich-mit-regenschirmen-vor-vogelkot](https://www.spiegel.de/panorama/rom-stare-fallen-in-viertel-ein-anwohner-schuetzen-sie-sich-mit-regenschirmen-vor-vogelkot-a-8cb63763-1158-42af-a0a6-85a89850857f#ref=rss)
-### vogelkot
-
-* [https://www.spiegel.de/panorama/rom-stare-fallen-in-viertel-ein-anwohner-schuetzen-sie-sich-mit-regenschirmen-vor-vogelkot](https://www.spiegel.de/panorama/rom-stare-fallen-in-viertel-ein-anwohner-schuetzen-sie-sich-mit-regenschirmen-vor-vogelkot-a-8cb63763-1158-42af-a0a6-85a89850857f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen-a-c484360a-ebce-4b10-8f47-e19d6847e9d6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid](https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid-a-818ae257-4e04-4433-b11d-48d008b53459#ref=rss)
-### platz
-
-* [https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen](https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-will-familienfreundlicher-werden-aber-keine-rutschen-fuer-kinder-einbauen-a-c484360a-ebce-4b10-8f47-e19d6847e9d6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### jameis
-
-* [https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick](https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick-a-c79f431a-09d7-4841-a3a8-551c99e10fae#ref=rss)
-### winston
-
-* [https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick](https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick-a-c79f431a-09d7-4841-a3a8-551c99e10fae#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick](https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick-a-c79f431a-09d7-4841-a3a8-551c99e10fae#ref=rss)
-### york
-
-* [https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick](https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick-a-c79f431a-09d7-4841-a3a8-551c99e10fae#ref=rss)
-### giants
-
-* [https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick](https://www.spiegel.de/sport/american-football/nfl-jameis-winston-von-den-new-york-giants-scheitert-mit-who-let-the-dogs-out-trick-a-c79f431a-09d7-4841-a3a8-551c99e10fae#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/politik/konflikt-in-nahost-revolutionsgarden-melden-angriff-auf-us-radaranlage-in-bahrain](https://www.spiegel.de/politik/konflikt-in-nahost-revolutionsgarden-melden-angriff-auf-us-radaranlage-in-bahrain-a-5be86ac0-f243-4db4-bc82-028f676d145d#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### bahrain
-
-* [https://www.spiegel.de/politik/konflikt-in-nahost-revolutionsgarden-melden-angriff-auf-us-radaranlage-in-bahrain](https://www.spiegel.de/politik/konflikt-in-nahost-revolutionsgarden-melden-angriff-auf-us-radaranlage-in-bahrain-a-5be86ac0-f243-4db4-bc82-028f676d145d#ref=rss)
-### outlook
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt](https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt-a-635a7601-74b3-4ed9-b968-7b00f5998b0b#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff](https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss)
-### wann
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt](https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt-a-635a7601-74b3-4ed9-b968-7b00f5998b0b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-### hatten
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-* [https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs](https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss)
-### zweimal
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-zwei-verdaechtige-nach-juwelier-einbruechen-gefasst-a-bc81d3b8-d95a-4e84-972a-7f35ce2ee8ed#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-### cop
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht-a-69abb304-cb62-459b-af98-2b0431ef7347#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht-a-69abb304-cb62-459b-af98-2b0431ef7347#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet](https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet-a-dc6f4dfd-6f72-46d3-a72d-427db09b99a1#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet](https://www.spiegel.de/panorama/gesellschaft/umgang-mit-dem-tod-teilnehmerin-eines-sargbau-seminars-berichtet-a-dc6f4dfd-6f72-46d3-a72d-427db09b99a1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### carlos
-
-* [https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid](https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid-a-818ae257-4e04-4433-b11d-48d008b53459#ref=rss)
-### babington
-
-* [https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid](https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid-a-818ae257-4e04-4433-b11d-48d008b53459#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid](https://www.spiegel.de/sport/fussball/carlos-babington-ist-tot-ein-wm-star-in-wattenscheid-a-818ae257-4e04-4433-b11d-48d008b53459#ref=rss)
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
-### reformen
-
-* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
-### rente
-
-* [https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto](https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### miguel
-
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### torwart
-
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### owono
-
-* [https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen](https://www.spiegel.de/sport/fussball/spanischer-fussball-spende-fuer-familie-von-jesus-de-miguel-rueckkehr-von-torwart-owono-offen-a-e35200e0-89e7-46e8-9af1-922aa7ca05cb#ref=rss)
-### kerner
-
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-### papst
-
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-### interviewen
-
-* [https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen](https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss)
-### fußballstadion
-
-* [https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs](https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss)
-### gangs
-
-* [https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs](https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme](https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme-a-18d9fded-2f89-475a-8571-574da85aa9ca#ref=rss)
+### david
+
+* [https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams](https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/naturschutz-warum-wissenschaftler-auf-die-schoenheit-der-insekten-setzen](https://www.spiegel.de/wissenschaft/natur/naturschutz-warum-wissenschaftler-auf-die-schoenheit-der-insekten-setzen-a-4df67f44-63b5-4184-bce1-1d85f5515075#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich](https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss)
+### europäer
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen](https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss)
+* [https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt](https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt-a-02bbde21-0c28-453d-af87-9fed75308f4d#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite](https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss)
+* [https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform](https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss)
+* [https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren](https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren-a-fd1af8c9-d506-4c6f-8200-9a046f6c73f7#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle](https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen](https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss)
+* [https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet](https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will](https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+* [https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben](https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben-a-3c2ac8e1-a183-4dad-88db-53682a6ecbbd#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet](https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### golfplatz
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben](https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben-a-3c2ac8e1-a183-4dad-88db-53682a6ecbbd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet](https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss)
-### trumps
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas](https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet](https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz](https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### alle
 
-* [https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet](https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### dfb
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### dürfte
 
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### felix
+* [https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen](https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen-a-87d7aa66-c8f6-40d7-80eb-dd5af14f5dd7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/naturschutz-warum-wissenschaftler-auf-die-schoenheit-der-insekten-setzen](https://www.spiegel.de/wissenschaft/natur/naturschutz-warum-wissenschaftler-auf-die-schoenheit-der-insekten-setzen-a-4df67f44-63b5-4184-bce1-1d85f5515075#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-a-5e3992d3-304a-4650-8ae2-a0f096b03ffe#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### nmecha
+* [https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen](https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen-a-87d7aa66-c8f6-40d7-80eb-dd5af14f5dd7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich](https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### jürgen
+* [https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme](https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme-a-18d9fded-2f89-475a-8571-574da85aa9ca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-a-5e3992d3-304a-4650-8ae2-a0f096b03ffe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas](https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### klopp
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen](https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss)
-### dacia
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### darauf
 
-* [https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser](https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser-a-ca7bfc5a-a994-402b-bdd9-87d662b74785#ref=rss)
-### entwurf
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten](https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss)
-### barbara
+* [https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen](https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss)
+### zuvor
 
-* [https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben](https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben-a-aad190ae-2320-41f7-baed-c141219d6c95#ref=rss)
-### schöneberger
+* [https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen](https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band](https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben](https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben-a-aad190ae-2320-41f7-baed-c141219d6c95#ref=rss)
-### fehlersuche
+* [https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite](https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### marija
 
-* [https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff](https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss)
-### wismar
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+### bonzler
 
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+### greta
+
+* [https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform](https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss)
+### thunberg
+
+* [https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform](https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss)
+### video
+
+* [https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform](https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss)
+### lacht
+
+* [https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform](https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss)
+### mars
+
+* [https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen](https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss)
+### astronauten
+
+* [https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen](https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss)
+### aussehen
+
+* [https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen](https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen](https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle](https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss)
+### bono
+
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+### edge
+
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+### 50
+
+* [https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs](https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band](https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck](https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck-a-4912b4ec-028e-4bf3-828a-aed53aa80969#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band](https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss)
+* [https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet](https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss)
+### ethan
+
+* [https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle](https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss)
+### hawke
+
+* [https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle](https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle](https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### jensen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+### huang
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+### schreibt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+### biograf
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses](https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz](https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss)
+### mattfeldt
+
+* [https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz](https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss)
+### rammo
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+### problem
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel](https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme](https://www.spiegel.de/netzwelt/microsoft-meldet-erfolge-bei-behebung-seiner-serverprobleme-a-18d9fded-2f89-475a-8571-574da85aa9ca#ref=rss)
+### thélyson
+
+* [https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand](https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss)
+### orélien
+
+* [https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand](https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss)
+### rowohlt
+
+* [https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand](https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand](https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss)
+### ki
+
+* [https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand](https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss)
+* [https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren](https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren-a-fd1af8c9-d506-4c6f-8200-9a046f6c73f7#ref=rss)
+### walliams
+
+* [https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams](https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams](https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss)
+* [https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet](https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams](https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder](https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss)
+### sender
+
+* [https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams](https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich](https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss)
+### elterngeld
+
+* [https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet](https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss)
+### reform
+
+* [https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet](https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss)
+### eugipfel
+
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt](https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen](https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen-a-87d7aa66-c8f6-40d7-80eb-dd5af14f5dd7#ref=rss)
+### gavin
+
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+### newsom
+
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+### antalya
+
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss)
+* [https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren](https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren-a-fd1af8c9-d506-4c6f-8200-9a046f6c73f7#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus](https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### ärzte
+* [https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt](https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt-a-02bbde21-0c28-453d-af87-9fed75308f4d#ref=rss)
+### brand
 
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt](https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt-a-02bbde21-0c28-453d-af87-9fed75308f4d#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
-### grenzen
+* [https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt](https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt-a-02bbde21-0c28-453d-af87-9fed75308f4d#ref=rss)
+### verdacht
 
-* [https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses](https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss)
+* [https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt](https://www.spiegel.de/panorama/wismar-zwei-menschen-sterben-bei-brand-in-plattenbau-polizei-ermittelt-a-02bbde21-0c28-453d-af87-9fed75308f4d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder](https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss)
+### gérard
+
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck](https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck-a-4912b4ec-028e-4bf3-828a-aed53aa80969#ref=rss)
+### depardieu
+
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck](https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck-a-4912b4ec-028e-4bf3-828a-aed53aa80969#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### ehe
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen](https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss)
+### kitschkrieg
+
+* [https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich](https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will](https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will](https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder](https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss)
+### rheinmetall
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall](https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-a-5e3992d3-304a-4650-8ae2-a0f096b03ffe#ref=rss)
 
