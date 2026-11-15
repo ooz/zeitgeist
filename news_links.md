@@ -4,355 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### laut
-
-* [https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister](https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge](https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss)
-* [https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise](https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise-a-3c6444c6-72bf-4d71-a3f6-fd7b2f67edf8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-* [https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt](https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss)
-* [https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise](https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise-a-3c6444c6-72bf-4d71-a3f6-fd7b2f67edf8#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-* [https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen](https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf](https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch](https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch-a-6edca535-47bc-4704-8e0a-bb9a49a3ebba#ref=rss)
-* [https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen](https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister](https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-### ki
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-### tag
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss)
-### günther
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss)
-### länder
-
-* [https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt](https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-### los
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-* [https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma](https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los](https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss)
-### alles
-
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-* [https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen](https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf](https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch](https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch-a-6edca535-47bc-4704-8e0a-bb9a49a3ebba#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### chef
-
-* [https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister](https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss)
-* [https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger](https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss)
-### verdienen
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-### geld
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-### prompts
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-### alle
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-### reden
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-### macht
-
-* [https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts](https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-### luft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eurowings-interna-was-in-der-luft-gesagt-werden-darf-und-was-nicht](https://www.spiegel.de/wirtschaft/unternehmen/eurowings-interna-was-in-der-luft-gesagt-werden-darf-und-was-nicht-a-952d23fb-e5d6-4be6-bb4b-3443a07d188f#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma](https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort](https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss)
-### midterms
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-* [https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma](https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-### elf
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-### bundesstaat
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-### regiert
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska](https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-### welt
-
-* [https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt](https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss)
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt](https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss)
-* [https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise](https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise-a-3c6444c6-72bf-4d71-a3f6-fd7b2f67edf8#ref=rss)
-### pro
-
-* [https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt](https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### insel
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-### frau
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-* [https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte](https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte-a-80492378-c962-41a1-9204-881f735487a7#ref=rss)
-### drei
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt](https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss)
-### wo
-
-* [https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac](https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los](https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss)
 ### erklärt
 
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss)
-### minister
+* [https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad](https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad-a-12710c47-c95e-4c19-80c2-d9e10cc5185e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage](https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage-a-067cffca-f5c1-444c-8bb4-aaaba8b7a650#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine](https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine-a-c1c3b771-a1ec-41f4-9818-034799ca96e5#ref=rss)
+### woche
 
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt](https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss)
-### jeden
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten](https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten-a-21165067-b375-47eb-ae02-d82ce4c5779a#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-die-zwei-kilo-mehl-challenge](https://www.spiegel.de/karriere/raetsel-der-woche-die-zwei-kilo-mehl-challenge-a-50c2c5a0-b7b0-4db3-b68f-23fd38e9341e#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### regierung
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten](https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten-a-21165067-b375-47eb-ae02-d82ce4c5779a#ref=rss)
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt](https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen](https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss)
-### rocket
+* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren](https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs](https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss)
-### hour
+* [https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt](https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt-a-47c0625b-f0f9-4b84-b509-856d2bed9f56#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu](https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu-a-7f570946-d3de-4b81-8a50-e8fdb6c1c03c#ref=rss)
+### spd
 
-* [https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs](https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss)
-### könig
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs](https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss)
-### charles
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs](https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss)
-### elton
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+### trump
 
-* [https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs](https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss)
-### zehntklässler
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-### lernen
+* [https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe](https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-### eschershausen
+* [https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe](https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-die-zwei-kilo-mehl-challenge](https://www.spiegel.de/karriere/raetsel-der-woche-die-zwei-kilo-mehl-challenge-a-50c2c5a0-b7b0-4db3-b68f-23fd38e9341e#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-### hängegleiten
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage](https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage-a-067cffca-f5c1-444c-8bb4-aaaba8b7a650#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren](https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss)
+### aryna
 
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-### jedes
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### sabalenka
 
-* [https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten](https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los](https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss)
-### impfens
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### weist
 
-* [https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf](https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### elina
 
-* [https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf](https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-### präsidenten
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### switolina
 
-* [https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma](https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-### emma
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-### aicher
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+### niederlage
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-### levi
+* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+### mitgerissen
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt](https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt-a-47c0625b-f0f9-4b84-b509-856d2bed9f56#ref=rss)
+### 20
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### weg
+* [https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt](https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt-a-47c0625b-f0f9-4b84-b509-856d2bed9f56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss)
+### cartoons
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss)
-* [https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise](https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise-a-3c6444c6-72bf-4d71-a3f6-fd7b2f67edf8#ref=rss)
-### verteidigt
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
+### julian
 
-* [https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister](https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss)
-### spiegel
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage](https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage-a-067cffca-f5c1-444c-8bb4-aaaba8b7a650#ref=rss)
+### neues
 
-* [https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister](https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### weniger
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+### gerade
 
-* [https://www.spiegel.de/wissenschaft/natur/spatzen-in-berlin-was-hinter-dem-drastischen-rueckgang-der-singvoegel-steckt](https://www.spiegel.de/wissenschaft/natur/spatzen-in-berlin-was-hinter-dem-drastischen-rueckgang-der-singvoegel-steckt-a-a0eaec38-b58a-4dc1-8bd8-852d493ee6ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen](https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss)
-### asia
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-### esc
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-### wissen
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-9f44a791-164c-4d97-84ba-ef045b5cfbf0#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren](https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### koalitionsvertrag
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst](https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst-a-33ccf20d-2774-4108-aa96-f78dcbabd759#ref=rss)
+### geld
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-### koalition
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands](https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss)
-### arsène
+* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+### vanessa
 
-* [https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge](https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss)
-### wenger
+* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss)
+### emde
 
-* [https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge](https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss)
-### möglicher
+* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge](https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss)
-### kandidat
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+### ronaldo
 
-* [https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge](https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss)
-### filmpreis
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### sandra
+* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-wie-man-unter-tausenden-romanen-die-fuenf-besten-des-jahres-findet](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-wie-man-unter-tausenden-romanen-die-fuenf-besten-des-jahres-findet-a-ed8b308f-38aa-4509-bdc1-05a81c28ed3f#ref=rss)
+### wolf
 
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### hüller
+* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+### biermann
 
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### nominiert
+* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+### liedermacher
 
-* [https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert](https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss)
-### strom
+* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+### ddr
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los](https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss)
-### babytsch
+* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+### pedro
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los](https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss)
-### csu
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### sánchez
 
-* [https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen](https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss)
-### abschläge
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### land
 
-* [https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen](https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss)
-### frührentner
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### rechten
 
-* [https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen](https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss)
-### ilse
+* [https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten](https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss)
+### volkstrauertag
 
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss)
-### aigner
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-9f44a791-164c-4d97-84ba-ef045b5cfbf0#ref=rss)
+### woran
 
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne](https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss)
-### fragen
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-9f44a791-164c-4d97-84ba-ef045b5cfbf0#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+### erinnert
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### bahnhöfen
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-9f44a791-164c-4d97-84ba-ef045b5cfbf0#ref=rss)
+* [https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst](https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst-a-33ccf20d-2774-4108-aa96-f78dcbabd759#ref=rss)
+### begehen
 
-* [https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise](https://www.spiegel.de/reise/alkoholverbot-in-bahnhoefen-nur-vereinzelte-hausverweise-a-3c6444c6-72bf-4d71-a3f6-fd7b2f67edf8#ref=rss)
-### joachim
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-9f44a791-164c-4d97-84ba-ef045b5cfbf0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte](https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte-a-80492378-c962-41a1-9204-881f735487a7#ref=rss)
-### sauer
+* [https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe](https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+### fraktionschef
 
-* [https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte](https://www.spiegel.de/kultur/joachim-sauer-verwehrt-sich-immer-noch-gegen-die-bezeichnung-kanzlerinnengatte-a-80492378-c962-41a1-9204-881f735487a7#ref=rss)
-### ukraineverhandlungen
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### miersch
 
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-### natomitgliedschaft
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss)
-### hubert
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### halten
 
-* [https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger](https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss)
-### aiwanger
+* [https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd](https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss)
+### facebook
 
-* [https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger](https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss)
-### freien
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss)
+### fotogalerien
 
-* [https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger](https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss)
-### wähler
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger](https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss)
-### funk
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss)
+### junge
 
-* [https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen](https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss)
-### radarstörung
+* [https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten](https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten-a-21165067-b375-47eb-ae02-d82ce4c5779a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu](https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu-a-7f570946-d3de-4b81-8a50-e8fdb6c1c03c#ref=rss)
+### nachrichten
 
-* [https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen](https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten](https://www.spiegel.de/ausland/syrien-diese-junge-frau-macht-kultur-in-damaskus-fuer-alle-zugaenglich-nur-gute-nachrichten-a-21165067-b375-47eb-ae02-d82ce4c5779a#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu](https://www.spiegel.de/panorama/gesellschaft/suedkorea-jahrgangsbester-bei-steuerberater-pruefung-gibt-einsatz-von-ki-zu-a-7f570946-d3de-4b81-8a50-e8fdb6c1c03c#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren](https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren-a-8a1ac673-7e94-4824-bdd1-d185a1d24414#ref=rss)
+### rad
+
+* [https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren](https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren-a-8a1ac673-7e94-4824-bdd1-d185a1d24414#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren](https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren-a-8a1ac673-7e94-4824-bdd1-d185a1d24414#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad](https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad-a-12710c47-c95e-4c19-80c2-d9e10cc5185e#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad](https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad-a-12710c47-c95e-4c19-80c2-d9e10cc5185e#ref=rss)
+### riad
+
+* [https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad](https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad-a-12710c47-c95e-4c19-80c2-d9e10cc5185e#ref=rss)
+### abgefangen
+
+* [https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad](https://www.spiegel.de/ausland/saudi-arabien-meldet-versuchten-raketenangriff-auf-riad-a-12710c47-c95e-4c19-80c2-d9e10cc5185e#ref=rss)
+### berührungen
+
+* [https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage](https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage-a-067cffca-f5c1-444c-8bb4-aaaba8b7a650#ref=rss)
+### streit
+
+* [https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage](https://www.spiegel.de/wissenschaft/bedeutung-von-beruehrungen-eine-umarmung-wirkt-so-viel-wie-eine-massage-a-067cffca-f5c1-444c-8bb4-aaaba8b7a650#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz](https://www.spiegel.de/politik/deutschland/kita-staedtetag-warnt-vor-qualitaetsverlust-durch-neues-startchancengesetz-a-b36952d9-c7fa-4c96-96de-7f549279a26d#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+### bücher
+
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+### meiden
+
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet](https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
+### id
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
+### polo
+
+* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
+### vergewaltigungen
+
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine](https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine-a-1c97ff6a-6d6e-443d-994b-b3ad716bb9b6#ref=rss)
+### angriffskrieg
+
+* [https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine](https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine-a-1c97ff6a-6d6e-443d-994b-b3ad716bb9b6#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine](https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine-a-1c97ff6a-6d6e-443d-994b-b3ad716bb9b6#ref=rss)
+### gta
+
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+### 6
+
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+### games
+
+* [https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel](https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-wie-man-unter-tausenden-romanen-die-fuenf-besten-des-jahres-findet](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-wie-man-unter-tausenden-romanen-die-fuenf-besten-des-jahres-findet-a-ed8b308f-38aa-4509-bdc1-05a81c28ed3f#ref=rss)
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### ringen
+
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### kurs
+
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### 2028
+
+* [https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie](https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss)
+### patientenschützer
+
+* [https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine](https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine-a-c1c3b771-a1ec-41f4-9818-034799ca96e5#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+### golfplatz
+
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung](https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren](https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss)
+### javier
+
+* [https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren](https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren](https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss)
 
