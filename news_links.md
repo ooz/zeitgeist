@@ -4,360 +4,313 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### emde
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss)
-### vanessa
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+* [https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt](https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt-a-b090a8cf-e382-4e63-926d-2ee818aeefc9#ref=rss)
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+* [https://www.spiegel.de/karriere/schulden-warum-selbststaendige-immer-haeufiger-in-die-ueberschuldung-rutschen](https://www.spiegel.de/karriere/schulden-warum-selbststaendige-immer-haeufiger-in-die-ueberschuldung-rutschen-a-0c9ffc77-99f6-4d39-a383-bc9549170894#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss)
-### mensch
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien](https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien-a-33f07f5a-303c-43a5-a7d5-d585b1477ec3#ref=rss)
+### brand
 
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### ärgere
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### dich
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten](https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2#ref=rss)
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-* [https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus](https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss)
-### elon
-
-* [https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten](https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand](https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss)
-### musk
-
-* [https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten](https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand](https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken](https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss)
-### mandy
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### kunze
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen](https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen-a-03cbcd02-0697-4019-b41c-b7d192f2c044#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
-### bleiben
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren](https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck-a-3b046c81-ccaa-4061-8ecf-427a877ba4e5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
-### berlin
+* [https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung](https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-* [https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin](https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss)
-### leben
+* [https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung](https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus](https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss)
+* [https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum](https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/kultur/offset-wie-der-migos-star-nach-einer-schussverletzung-sein-leben-veraenderte](https://www.spiegel.de/kultur/offset-wie-der-migos-star-nach-einer-schussverletzung-sein-leben-veraenderte-a-14f048b2-960c-45e3-b60b-072db0ca855f#ref=rss)
-* [https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral](https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral-a-c4817f77-8aa8-4215-bf4d-d400406688b3#ref=rss)
-### instagram
+* [https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung](https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial](https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial-a-288a2b18-a2fb-4f3b-a484-e638d21040ee#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-* [https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral](https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral-a-c4817f77-8aa8-4215-bf4d-d400406688b3#ref=rss)
-### walter
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+### italien
 
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-* [https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral](https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral-a-c4817f77-8aa8-4215-bf4d-d400406688b3#ref=rss)
-### sedlmeier
+* [https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien](https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien-a-33f07f5a-303c-43a5-a7d5-d585b1477ec3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-* [https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral](https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral-a-c4817f77-8aa8-4215-bf4d-d400406688b3#ref=rss)
-### estland
+* [https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten](https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss)
+### 40
 
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-### grenzen
+* [https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten](https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss)
+* [https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum](https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss)
+### ki
 
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-### 1
+* [https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin](https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin-a-76170f68-69bc-4b5d-ab63-5ac9bd3e9b36#ref=rss)
+### übernahme
 
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-### dezember
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
+### commerzbank
 
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-### schließen
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
+### unicredit
 
-* [https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen](https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten](https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss)
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### bodo
-
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-### ramelow
-
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-### umstrittene
-
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten](https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor](https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss)
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
-### weltmeistertitel
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus](https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss)
-### 50jährige
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### gut
-
-* [https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel](https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss)
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor](https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor](https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor](https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
-### stromsteuer
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor](https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen](https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen-a-03cbcd02-0697-4019-b41c-b7d192f2c044#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen](https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen-a-03cbcd02-0697-4019-b41c-b7d192f2c044#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck-a-3b046c81-ccaa-4061-8ecf-427a877ba4e5#ref=rss)
-### handelt
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck-a-3b046c81-ccaa-4061-8ecf-427a877ba4e5#ref=rss)
-* [https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus](https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-narrentanz-im-schnellcheck-a-3b046c81-ccaa-4061-8ecf-427a877ba4e5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
-### volkstrauertag
-
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-### van
-
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-### bellen
-
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben](https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss)
-### mitgefühl
-
-* [https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl](https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss)
-### schlag
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### frank
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### thelen
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### ralf
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### dümmel
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-### bereitet
-
-* [https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch](https://www.spiegel.de/kultur/schlag-den-star-frank-thelen-und-ralf-duemmel-verirren-sich-geografisch-a-7d88a6c0-2da3-4ddd-b18d-d661a1d26dec#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand](https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss)
-### offset
-
-* [https://www.spiegel.de/kultur/offset-wie-der-migos-star-nach-einer-schussverletzung-sein-leben-veraenderte](https://www.spiegel.de/kultur/offset-wie-der-migos-star-nach-einer-schussverletzung-sein-leben-veraenderte-a-14f048b2-960c-45e3-b60b-072db0ca855f#ref=rss)
-### id
-
-* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
-### polo
-
-* [https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag](https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss)
-### motivationsvideos
-
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-### trost
-
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge](https://www.spiegel.de/panorama/motivationsvideos-auf-instagram-walter-sedlmeier-ueber-trost-und-selbstfuersorge-a-e1a0131a-bfeb-4bdd-90e9-cc3ab9cd7a5f#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### russisches
-
-* [https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand](https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss)
-### industriegebiet
-
-* [https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand](https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss)
-### schafsfell
-
-* [https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten](https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten](https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2#ref=rss)
-### vergewaltigungen
-
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
-* [https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein](https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss)
-### wissen
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### brüssel
 
-* [https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben](https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wmtitel
+* [https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit](https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+### söder
 
-* [https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm](https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss)
-### rock
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+### stromsteuer
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### ’n’
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### roll
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+* [https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck](https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### hall
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### of
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### alle
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### fame
+* [https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression](https://www.spiegel.de/politik/streit-in-bundesregierung-markus-soeder-fordert-einigung-bei-stromsteuer-und-kalter-progression-a-87df39df-23b5-4838-8137-cedb1b6851ac#ref=rss)
+* [https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein](https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein-a-04db3241-8a3c-4758-bc82-b211571ea23b#ref=rss)
+### schweren
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### auftritt
+* [https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer](https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer-a-40cdb054-7fca-4738-ab8e-01901f545b9e#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+### meer
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### phil
+* [https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer](https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer-a-40cdb054-7fca-4738-ab8e-01901f545b9e#ref=rss)
+### 20
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### collins
+* [https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer](https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer-a-40cdb054-7fca-4738-ab8e-01901f545b9e#ref=rss)
+* [https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum](https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss)
+### tiefe
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### los
+* [https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer](https://www.spiegel.de/panorama/ostsee-fischer-findet-knapp-150-gramm-schweren-bernstein-im-meer-a-40cdb054-7fca-4738-ab8e-01901f545b9e#ref=rss)
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+### august
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
-### angeles
+* [https://www.spiegel.de/politik/deutschland/bnd-august-hannings-mutmasslicher-komplize-soll-geheime-dokumente-aus-bnd-zentrale-geschmuggelt-haben](https://www.spiegel.de/politik/deutschland/bnd-august-hannings-mutmasslicher-komplize-soll-geheime-dokumente-aus-bnd-zentrale-geschmuggelt-haben-a-6422c816-f371-427d-96c3-59323107119b#ref=rss)
+### russell
 
-* [https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss)
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### david
+
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### walliams
+
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### sexueller
+
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus](https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss)
+### kokain
+
+* [https://www.spiegel.de/panorama/justiz/schmuggler-versuchen-146-kilo-kokain-zu-versenken](https://www.spiegel.de/panorama/justiz/schmuggler-versuchen-146-kilo-kokain-zu-versenken-a-76985b1a-d73f-4269-a6f1-d1615d084e93#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/sport/fussball/adidas-beim-dfb-welches-historische-trikot-gefaellt-ihnen-am-besten](https://www.spiegel.de/sport/fussball/adidas-beim-dfb-welches-historische-trikot-gefaellt-ihnen-am-besten-a-b33c92aa-f252-4a89-a6fd-19583f8a0776#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/adidas-beim-dfb-welches-historische-trikot-gefaellt-ihnen-am-besten](https://www.spiegel.de/sport/fussball/adidas-beim-dfb-welches-historische-trikot-gefaellt-ihnen-am-besten-a-b33c92aa-f252-4a89-a6fd-19583f8a0776#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar](https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung](https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss)
+### putin
+
+* [https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung](https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss)
+### hubert
+
+* [https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein](https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein-a-04db3241-8a3c-4758-bc82-b211571ea23b#ref=rss)
+### aiwanger
+
+* [https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein](https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein-a-04db3241-8a3c-4758-bc82-b211571ea23b#ref=rss)
+### lebensgefährtin
+
+* [https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein](https://www.spiegel.de/panorama/hubert-aiwanger-lebensgefaehrtin-laedt-oeffentlich-zur-beisetzung-in-niederbayern-ein-a-04db3241-8a3c-4758-bc82-b211571ea23b#ref=rss)
+### krimbrücke
+
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+### seite
+
+* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren](https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
 ### deutlich
 
-* [https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin](https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
-### videos
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+### gestiegen
 
-* [https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral](https://www.spiegel.de/panorama/trauerarbeit-auf-instagram-walter-sedlmeier-geht-mit-seinen-videos-viral-a-c4817f77-8aa8-4215-bf4d-d400406688b3#ref=rss)
-### sabrina
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein](https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss)
-### hoffmann
+* [https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen](https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss)
+* [https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck](https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss)
+### ronaldinho
 
-* [https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein](https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss)
-### sieben
+* [https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien](https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien-a-33f07f5a-303c-43a5-a7d5-d585b1477ec3#ref=rss)
+### minuten
 
-* [https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein](https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### zacapa
+* [https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien](https://www.spiegel.de/sport/fussball/ronaldinho-gibt-comeback-als-profifussballer-in-italien-a-33f07f5a-303c-43a5-a7d5-d585b1477ec3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-narrentanz-mit-boerne-und-thiel](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-narrentanz-mit-boerne-und-thiel-a-a9387d98-0414-436e-b375-a225c703b853#ref=rss)
+### nations
 
-* [https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus](https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss)
-### aryna
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+### league
 
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
-### sabalenka
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+### verpasst
 
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
-### elina
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+### viertelfinale
 
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
-### switolina
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-weist-vorwurf-der-beschimpfung-von-elina-switolina-zurueck-a-148fbcf1-5352-4589-9b27-f840b9784bb1#ref=rss)
-### fragen
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus](https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss)
+* [https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin](https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin-a-76170f68-69bc-4b5d-ab63-5ac9bd3e9b36#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt](https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt-a-b090a8cf-e382-4e63-926d-2ee818aeefc9#ref=rss)
+### eduardo
 
-* [https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt](https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt-a-47c0625b-f0f9-4b84-b509-856d2bed9f56#ref=rss)
-### mitgerissen
+* [https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt](https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt-a-b090a8cf-e382-4e63-926d-2ee818aeefc9#ref=rss)
+### flores
 
-* [https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt](https://www.spiegel.de/panorama/stubai-tirol-mann-von-lawine-mitgerissen-und-in-20-meter-tiefe-kluft-gespuelt-a-47c0625b-f0f9-4b84-b509-856d2bed9f56#ref=rss)
-### cartoons
+* [https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt](https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt-a-b090a8cf-e382-4e63-926d-2ee818aeefc9#ref=rss)
+### acapulco
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt](https://www.spiegel.de/ausland/mexiko-leiche-von-journalist-eduardo-flores-in-acapulco-entdeckt-a-b090a8cf-e382-4e63-926d-2ee818aeefc9#ref=rss)
+### heveling
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss)
-### portugal
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial](https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial-a-288a2b18-a2fb-4f3b-a484-e638d21040ee#ref=rss)
+### badenbaden
 
-* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark](https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss)
-### biermann
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+### tote
 
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
-### liedermacher
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+### brücke
 
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
-### ddr
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+### rund
 
-* [https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste](https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss)
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar](https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke](https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+### elf
+
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+### phuket
+
+* [https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket](https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar](https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar](https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss)
+* [https://www.spiegel.de/karriere/schulden-warum-selbststaendige-immer-haeufiger-in-die-ueberschuldung-rutschen](https://www.spiegel.de/karriere/schulden-warum-selbststaendige-immer-haeufiger-in-die-ueberschuldung-rutschen-a-0c9ffc77-99f6-4d39-a383-bc9549170894#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus](https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss)
+### reich
+
+* [https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus](https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss)
+### satelliten
+
+* [https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten](https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss)
+### denn
+
+* [https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten](https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren](https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum](https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum](https://www.spiegel.de/politik/ruanda-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-wie-weiterbildungen-mit-50-die-laufbahn-ausbremsen-koennen](https://www.spiegel.de/karriere/karriere-wie-weiterbildungen-mit-50-die-laufbahn-ausbremsen-koennen-a-1699cdde-97cd-4a15-b6f9-1a52579e0c11#ref=rss)
+### möbelschreinerin
+
+* [https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin](https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin-a-76170f68-69bc-4b5d-ab63-5ac9bd3e9b36#ref=rss)
+### bookingcom
+
+* [https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren](https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss)
+### verifizieren
+
+* [https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren](https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### hubertus
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### heil
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### ablösen
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss)
+### thiel
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-narrentanz-mit-boerne-und-thiel](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-narrentanz-mit-boerne-und-thiel-a-a9387d98-0414-436e-b375-a225c703b853#ref=rss)
+### 50
+
+* [https://www.spiegel.de/karriere/karriere-wie-weiterbildungen-mit-50-die-laufbahn-ausbremsen-koennen](https://www.spiegel.de/karriere/karriere-wie-weiterbildungen-mit-50-die-laufbahn-ausbremsen-koennen-a-1699cdde-97cd-4a15-b6f9-1a52579e0c11#ref=rss)
+### howard
+
+* [https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck](https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss)
+### lutnick
+
+* [https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck](https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss)
 
