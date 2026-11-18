@@ -4,308 +4,287 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bank
+### trump
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben-a-089adde5-f23c-4544-9fbb-5e66e13bce6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben-a-089adde5-f23c-4544-9fbb-5e66e13bce6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### senkung
-
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### stromsteuer
-
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump](https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump-a-11cc504a-66ba-43b6-b524-7e69e1c5c53e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion](https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion-a-59e74c25-9c6e-4785-9841-3dc6a8008892#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren](https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren-a-0ddeb584-bcf6-4956-b1c6-e6dee3b58636#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen](https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen-a-214c9522-c633-4710-b5df-e0a6368ec2f2#ref=rss)
+### putin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin](https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin-a-660b3dfe-813f-4302-9f4a-be01faa67b02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump](https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump-a-11cc504a-66ba-43b6-b524-7e69e1c5c53e#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan](https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan-a-5f7cba2c-ec09-42cc-86c3-910a18591368#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin](https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin-a-22bad77e-b0dc-4638-9262-fe90ce854c44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### nikotinbeutel
+* [https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion](https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion-a-59e74c25-9c6e-4785-9841-3dc6a8008892#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump](https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump-a-11cc504a-66ba-43b6-b524-7e69e1c5c53e#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/timmy-buckelwal-erlitt-bei-transport-offenbar-verletzungen](https://www.spiegel.de/panorama/timmy-buckelwal-erlitt-bei-transport-offenbar-verletzungen-a-d4b0716e-adec-4dd5-b1b4-4d0a4c95a0be#ref=rss)
+* [https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin](https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin-a-660b3dfe-813f-4302-9f4a-be01faa67b02#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen](https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen-a-86e65f23-fabf-4b85-a7f7-ad1c745d3e42#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin](https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin-a-22bad77e-b0dc-4638-9262-fe90ce854c44#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+* [https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut](https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-### einmal
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-awa-indigene-bitten-um-nahrung-seltene-begegnung-im-regenwald](https://www.spiegel.de/ausland/brasilien-awa-indigene-bitten-um-nahrung-seltene-begegnung-im-regenwald-a-aea11586-6083-4e24-a662-cc7109a6d0af#ref=rss)
+* [https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat](https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat-a-43455d10-0699-480c-9182-e26df76e69db#ref=rss)
+### xi
 
-* [https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark](https://www.spiegel.de/wissenschaft/nikotinbeutel-konsum-unter-jugendlichen-steigt-laut-dak-stark-a-47957aa1-b8cd-4fd3-9f2a-f452aabbebf5#ref=rss)
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-### kolumbien
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+### stromsteuer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss)
-### land
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen](https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss)
+### gta
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa](https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa-a-0c71c772-bbb1-4278-a9d6-a9bd0aa7f5a8#ref=rss)
-### deutschen
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### 6
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### thomas
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan](https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan-a-5f7cba2c-ec09-42cc-86c3-910a18591368#ref=rss)
-### markle
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat](https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat-a-43455d10-0699-480c-9182-e26df76e69db#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan](https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan-a-5f7cba2c-ec09-42cc-86c3-910a18591368#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan](https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan-a-5f7cba2c-ec09-42cc-86c3-910a18591368#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### philippinen
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan](https://www.spiegel.de/panorama/justiz/thomas-markle-polizei-auf-den-philippinen-beantragt-anklage-gegen-vater-von-herzogin-meghan-a-5f7cba2c-ec09-42cc-86c3-910a18591368#ref=rss)
-### cdu
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
+### 2027
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### csu
+* [https://www.spiegel.de/kultur/musik/glastonbury-2027-harry-styles-billie-eilish-sam-fender-als-headliner-fans-laestern](https://www.spiegel.de/kultur/musik/glastonbury-2027-harry-styles-billie-eilish-sam-fender-als-headliner-fans-laestern-a-dfc3f69d-c32a-47de-b163-0ae4be48ae0d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen](https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss)
+### jan
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### spd
+* [https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich](https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich-a-81174956-8485-41f7-a9da-25eaebdbd2b0#ref=rss)
+### van
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### geeinigt
+* [https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich](https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich-a-81174956-8485-41f7-a9da-25eaebdbd2b0#ref=rss)
+### eyck
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden](https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss)
-### spritpreise
+* [https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich](https://www.spiegel.de/kultur/jan-van-eyck-londoner-ausstellung-ueber-den-erfinder-des-ich-a-81174956-8485-41f7-a9da-25eaebdbd2b0#ref=rss)
+### buckelwal
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### günstiger
+* [https://www.spiegel.de/panorama/timmy-buckelwal-erlitt-bei-transport-offenbar-verletzungen](https://www.spiegel.de/panorama/timmy-buckelwal-erlitt-bei-transport-offenbar-verletzungen-a-d4b0716e-adec-4dd5-b1b4-4d0a4c95a0be#ref=rss)
+### kim
 
-* [https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis](https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### cambridge
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+### jong
 
-* [https://www.spiegel.de/kultur/wort-des-jahres-von-cambridge-dictionary-human-also-menschlich](https://www.spiegel.de/kultur/wort-des-jahres-von-cambridge-dictionary-human-also-menschlich-a-3de400ca-0d74-4b5d-9a57-65ab24b48c61#ref=rss)
-### human
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+### herrscher
 
-* [https://www.spiegel.de/kultur/wort-des-jahres-von-cambridge-dictionary-human-also-menschlich](https://www.spiegel.de/kultur/wort-des-jahres-von-cambridge-dictionary-human-also-menschlich-a-3de400ca-0d74-4b5d-9a57-65ab24b48c61#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion](https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion-a-7cf71e00-175a-4757-8956-d32d91b3646b#ref=rss)
-### lka
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### touristen
 
-* [https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion](https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion-a-7cf71e00-175a-4757-8956-d32d91b3646b#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen](https://www.spiegel.de/ausland/kim-jong-un-nordkoreas-herrscher-inszeniert-ski-resort-ohne-touristen-a-170b952a-7795-4d40-88f4-b110a1825c8a#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion](https://www.spiegel.de/politik/sachsen-anhalt-lka-ermittelt-wegen-afd-erklaerung-in-cdu-fraktion-a-7cf71e00-175a-4757-8956-d32d91b3646b#ref=rss)
-### darauf
+* [https://www.spiegel.de/panorama/hanau-mann-muss-nach-angriff-auf-obdachlosen-fuenfeinhalb-jahre-in-haft](https://www.spiegel.de/panorama/hanau-mann-muss-nach-angriff-auf-obdachlosen-fuenfeinhalb-jahre-in-haft-a-8e329d14-0722-4ec9-a021-28974243ae2e#ref=rss)
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/zukunftsaengste-was-ein-heute-geborenes-kind-als-volljaehrige-2044-zu-erwarten-hat](https://www.spiegel.de/politik/zukunftsaengste-was-ein-heute-geborenes-kind-als-volljaehrige-2044-zu-erwarten-hat-a-6747408a-6458-4d85-aea3-2c521715df39#ref=rss)
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-### kommen
+* [https://www.spiegel.de/panorama/hanau-mann-muss-nach-angriff-auf-obdachlosen-fuenfeinhalb-jahre-in-haft](https://www.spiegel.de/panorama/hanau-mann-muss-nach-angriff-auf-obdachlosen-fuenfeinhalb-jahre-in-haft-a-8e329d14-0722-4ec9-a021-28974243ae2e#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### la
 
-* [https://www.spiegel.de/politik/zukunftsaengste-was-ein-heute-geborenes-kind-als-volljaehrige-2044-zu-erwarten-hat](https://www.spiegel.de/politik/zukunftsaengste-was-ein-heute-geborenes-kind-als-volljaehrige-2044-zu-erwarten-hat-a-6747408a-6458-4d85-aea3-2c521715df39#ref=rss)
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### interne
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### bola
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben-a-089adde5-f23c-4544-9fbb-5e66e13bce6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### mehreren
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### negra
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben-a-089adde5-f23c-4544-9fbb-5e66e13bce6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### svenja
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### ambrossi
 
-* [https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant](https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant-a-585de9da-800b-4690-880a-5a62917e5b0b#ref=rss)
-### schulze
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### calvo
 
-* [https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant](https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant-a-585de9da-800b-4690-880a-5a62917e5b0b#ref=rss)
-### unicefchefin
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### javier
 
-* [https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant](https://www.spiegel.de/politik/deutschland/uno-was-svenja-schulze-als-moegliche-unicef-chefin-plant-a-585de9da-800b-4690-880a-5a62917e5b0b#ref=rss)
-### robotaxis
+* [https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo](https://www.spiegel.de/kultur/kino/la-bola-negra-schwules-kinoepos-von-ambrossi-und-calvo-a-de0b94fe-31a7-4b63-a40e-59a2d9c823e5#ref=rss)
+### sky
 
-* [https://www.spiegel.de/mobilitaet/auto/muenchen-uber-startet-pilotprojekt-mit-robotaxis](https://www.spiegel.de/mobilitaet/auto/muenchen-uber-startet-pilotprojekt-mit-robotaxis-a-b3a2cf1e-72c7-4d0b-a7cb-14f22fc5ac57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### zunächst
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+### du
 
-* [https://www.spiegel.de/mobilitaet/auto/muenchen-uber-startet-pilotprojekt-mit-robotaxis](https://www.spiegel.de/mobilitaet/auto/muenchen-uber-startet-pilotprojekt-mit-robotaxis-a-b3a2cf1e-72c7-4d0b-a7cb-14f22fc5ac57#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-u21-laenderspiel-in-kroatien-wird-zur-schlammschlacht-im-regen](https://www.spiegel.de/sport/fussball/fussball-u21-laenderspiel-in-kroatien-wird-zur-schlammschlacht-im-regen-a-a66c3032-682a-4160-b9b5-018ecb7bf50f#ref=rss)
-### bäume
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+### mont
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-baden-wuerttemberg-thueringen-zahlreiche-einsaetze-wegen-umstuerzender-baeume](https://www.spiegel.de/panorama/nordrhein-westfalen-baden-wuerttemberg-thueringen-zahlreiche-einsaetze-wegen-umstuerzender-baeume-a-158a9aea-f459-415b-94a4-cd2153c5b7d8#ref=rss)
-### kroatien
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+### julia
 
-* [https://www.spiegel.de/sport/fussball/fussball-u21-laenderspiel-in-kroatien-wird-zur-schlammschlacht-im-regen](https://www.spiegel.de/sport/fussball/fussball-u21-laenderspiel-in-kroatien-wird-zur-schlammschlacht-im-regen-a-a66c3032-682a-4160-b9b5-018ecb7bf50f#ref=rss)
-### knapp
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+### schütz
 
-* [https://www.spiegel.de/effilee/guenstig-kochen-15-minuten-eiersalat-mit-weissen-bohnen-auf-toast](https://www.spiegel.de/effilee/guenstig-kochen-15-minuten-eiersalat-mit-weissen-bohnen-auf-toast-a-a2a8fa0f-f92d-481e-8e4a-400034fd3878#ref=rss)
-* [https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden](https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz](https://www.spiegel.de/panorama/leute/sky-du-mont-schauspieler-trennt-sich-von-julia-schuetz-a-e3b743da-b311-4203-9760-1f27dea41629#ref=rss)
+### ruanda
 
-* [https://www.spiegel.de/effilee/guenstig-kochen-15-minuten-eiersalat-mit-weissen-bohnen-auf-toast](https://www.spiegel.de/effilee/guenstig-kochen-15-minuten-eiersalat-mit-weissen-bohnen-auf-toast-a-a2a8fa0f-f92d-481e-8e4a-400034fd3878#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/arzt-bekenntnis-wie-wir-patienten-fuer-gesund-erklaeren-obwohl-sie-krank-sind](https://www.spiegel.de/gesundheit/diagnose/arzt-bekenntnis-wie-wir-patienten-fuer-gesund-erklaeren-obwohl-sie-krank-sind-a-f8987942-9423-4e80-9e6c-323afb26ac85#ref=rss)
-### tiger
+* [https://www.spiegel.de/panorama/abschiebezentren-in-ruanda-hauptsache-hart](https://www.spiegel.de/panorama/abschiebezentren-in-ruanda-hauptsache-hart-a-c12be450-2be3-4697-be85-20616fff4e47#ref=rss)
+### news
 
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### woods
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### comeback
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen](https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss)
+### jinping
 
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### 50
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-verlaesst-genervt-koalitionsausschuss-trump-xi-und-putin-beim-asiengipfel-alois-rainers-heimatreport-a-ce310360-980e-4e9f-bf82-d17273f4149e#ref=rss)
+* [https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0](https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### bahamas
+* [https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6](https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss)
+### joachim
 
-* [https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas](https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss)
-### bsw
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+### sauer
 
-* [https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden](https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+### angela
 
-* [https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden](https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss)
-### wahlbeschwerde
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden](https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss)
-### teenageralter
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+### stand
 
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-### eltern
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+### ende
 
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-### trainer
+* [https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte](https://www.spiegel.de/panorama/leute/wie-sich-joachim-sauer-in-angela-merkel-verliebte-a-9f5cbb10-f0df-4eda-824f-807893c65b5c#ref=rss)
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+### manfred
 
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-### lange
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+### weber
 
-* [https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen](https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-### russische
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen](https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen-a-40429a9e-3775-44b8-a473-4227981aa83b#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa](https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa-a-0c71c772-bbb1-4278-a9d6-a9bd0aa7f5a8#ref=rss)
-### dürfen
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+### geld
 
-* [https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen](https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen-a-40429a9e-3775-44b8-a473-4227981aa83b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### finnland
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen](https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen-a-214c9522-c633-4710-b5df-e0a6368ec2f2#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen](https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen-a-40429a9e-3775-44b8-a473-4227981aa83b#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe](https://www.spiegel.de/politik/evp-chef-manfred-weber-muss-zurueck-zu-lanz-sonst-drohen-15-000-euro-strafe-a-9e0ef86d-5190-4c6f-b897-7a9374ebe259#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eeg-reform-von-energiegesetzen-droht-im-chaos-zu-versinken](https://www.spiegel.de/politik/deutschland/eeg-reform-von-energiegesetzen-droht-im-chaos-zu-versinken-a-9a9326cb-c732-40a6-95fe-52a3ae8dcb10#ref=rss)
+### verlieren
 
-* [https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen](https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen-a-40429a9e-3775-44b8-a473-4227981aa83b#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa](https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa-a-0c71c772-bbb1-4278-a9d6-a9bd0aa7f5a8#ref=rss)
-### auktionshaus
+* [https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion](https://www.spiegel.de/panorama/gesellschaft/religionen-islam-wird-voraussichtlich-2035-die-groesste-weltreligion-a-59e74c25-9c6e-4785-9841-3dc6a8008892#ref=rss)
+* [https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin](https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin-a-660b3dfe-813f-4302-9f4a-be01faa67b02#ref=rss)
+### pfaschemikalien
 
-* [https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden](https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss)
-### erzielt
+* [https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung](https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung-a-b0e54cf0-8c99-4740-9f15-6d76e3ecacbe#ref=rss)
+### regulierung
 
-* [https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden](https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss)
-### samuel
+* [https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung](https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung-a-b0e54cf0-8c99-4740-9f15-6d76e3ecacbe#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden](https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss)
-### fischer
+* [https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung](https://www.spiegel.de/wissenschaft/pfas-chemikalien-eu-rechnungshof-kritisiert-langsame-regulierung-a-b0e54cf0-8c99-4740-9f15-6d76e3ecacbe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen](https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss)
+### gls
 
-* [https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden](https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss)
-### startups
+* [https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss)
+### dpd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### sammeln
+* [https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland](https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss)
+### kam
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-### wagniskapital
+* [https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump](https://www.spiegel.de/wissenschaft/masern-in-den-usa-das-virus-galt-als-ausgerottet-dann-kam-donald-trump-a-11cc504a-66ba-43b6-b524-7e69e1c5c53e#ref=rss)
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+### kaliningrad
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-### vorjahr
+* [https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus](https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss)
+### karin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin](https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin-a-660b3dfe-813f-4302-9f4a-be01faa67b02#ref=rss)
+### kneissl
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen](https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e#ref=rss)
-### matt
+* [https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin](https://www.spiegel.de/ausland/karin-kneissl-oesterreich-prueft-moegliche-ausbuergerung-von-ex-aussenministerin-a-660b3dfe-813f-4302-9f4a-be01faa67b02#ref=rss)
+### bringen
 
-* [https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen](https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen-a-80c28c7c-6401-4f34-8acf-fe3029b66158#ref=rss)
-### damon
+* [https://www.spiegel.de/netzwelt/web/java4shell-kritische-schwachstelle-bedroht-banken-behoerden-und-internetdienste](https://www.spiegel.de/netzwelt/web/java4shell-kritische-schwachstelle-bedroht-banken-behoerden-und-internetdienste-a-ef045fdb-322c-47d4-8fdb-5ebd95d90feb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen](https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss)
+### ursula
 
-* [https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen](https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen-a-80c28c7c-6401-4f34-8acf-fe3029b66158#ref=rss)
-### hause
+* [https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren](https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren-a-0ddeb584-bcf6-4956-b1c6-e6dee3b58636#ref=rss)
+### kuhn
 
-* [https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen](https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen-a-80c28c7c-6401-4f34-8acf-fe3029b66158#ref=rss)
-### handys
+* [https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren](https://www.spiegel.de/panorama/bayern-ursula-kuhn-fuehrt-tante-emma-laden-seit-70-jahren-a-0ddeb584-bcf6-4956-b1c6-e6dee3b58636#ref=rss)
+### glastonburyfestival
 
-* [https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen](https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen-a-80c28c7c-6401-4f34-8acf-fe3029b66158#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/kultur/musik/glastonbury-2027-harry-styles-billie-eilish-sam-fender-als-headliner-fans-laestern](https://www.spiegel.de/kultur/musik/glastonbury-2027-harry-styles-billie-eilish-sam-fender-als-headliner-fans-laestern-a-dfc3f69d-c32a-47de-b163-0ae4be48ae0d#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/sport/handball/2-handball-bundesliga-staatsanwaltschaft-prueft-vorwuerfe-gegen-asv-hamm-westfalen](https://www.spiegel.de/sport/handball/2-handball-bundesliga-staatsanwaltschaft-prueft-vorwuerfe-gegen-asv-hamm-westfalen-a-538c1a60-0160-4b96-af9c-256db91cd3de#ref=rss)
-### midterms
+* [https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut](https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss)
+### tüvreport
 
-* [https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin](https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin-a-22bad77e-b0dc-4638-9262-fe90ce854c44#ref=rss)
-### usdemokraten
+* [https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut](https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss)
+### andere
 
-* [https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin](https://www.spiegel.de/ausland/usa-nach-den-midterms-wer-fuehrt-die-us-demokraten-und-wohin-a-22bad77e-b0dc-4638-9262-fe90ce854c44#ref=rss)
-### kanada
+* [https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut](https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-### krampus
+* [https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut](https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss)
+### reutlingen
 
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-### weihnachtsparade
+* [https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen](https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen-a-86e65f23-fabf-4b85-a7f7-ad1c745d3e42#ref=rss)
+### journalistenschule
 
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-### teilnehmen
+* [https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen](https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen-a-86e65f23-fabf-4b85-a7f7-ad1c745d3e42#ref=rss)
+### awá
 
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-### einigen
+* [https://www.spiegel.de/ausland/brasilien-awa-indigene-bitten-um-nahrung-seltene-begegnung-im-regenwald](https://www.spiegel.de/ausland/brasilien-awa-indigene-bitten-um-nahrung-seltene-begegnung-im-regenwald-a-aea11586-6083-4e24-a662-cc7109a6d0af#ref=rss)
+### dazn
 
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen](https://www.spiegel.de/panorama/gesellschaft/kanada-krampus-darf-nicht-an-weihnachtsparade-teilnehmen-a-02799ee6-003c-4359-8eac-ee5690e74416#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss)
-### nations
+* [https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen](https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen-a-214c9522-c633-4710-b5df-e0a6368ec2f2#ref=rss)
+### winfried
 
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### league
+* [https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat](https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat-a-43455d10-0699-480c-9182-e26df76e69db#ref=rss)
+### kretschmann
 
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### erling
-
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale](https://www.spiegel.de/sport/fussball/nations-league-erling-haaland-schiesst-norwegen-per-elfmeter-ins-viertelfinale-a-70d35274-eb1d-4fd6-9f77-87b420864301#ref=rss)
-### jho
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### low
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat](https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat-a-43455d10-0699-480c-9182-e26df76e69db#ref=rss)
 
