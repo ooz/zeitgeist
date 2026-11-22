@@ -4,364 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mick
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten](https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben](https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren-a-bc461546-453d-4714-ab4c-f117aa9d9fbb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend](https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-* [https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer](https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis](https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss)
-### jagger
-
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### wagner
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss)
-### mercedes
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-### absatzkrise
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-### profitieren
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren-a-bc461546-453d-4714-ab4c-f117aa9d9fbb#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv](https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss)
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-### tatjana
-
-* [https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck](https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss)
-### kim
-
-* [https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck](https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck](https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck](https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck-a-1dcaa54e-82ac-456d-a997-7b4b5824b793#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck](https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale](https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck](https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-### kaufland
-
-* [https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck](https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck-a-1dcaa54e-82ac-456d-a997-7b4b5824b793#ref=rss)
-### speisekartoffeln
-
-* [https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck](https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck-a-1dcaa54e-82ac-456d-a997-7b4b5824b793#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-### christian
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-### flick
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-### familie
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot](https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss)
-* [https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit](https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit-a-02c18b35-b73a-422c-be5f-2cdaac63d0a9#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten](https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### gehalt
-
-* [https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten](https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten](https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss)
-* [https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef](https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren-a-bc461546-453d-4714-ab4c-f117aa9d9fbb#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren-a-bc461546-453d-4714-ab4c-f117aa9d9fbb#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-verliert-tabellenfuehrung-dortmund-und-leipzig-profitieren-a-bc461546-453d-4714-ab4c-f117aa9d9fbb#ref=rss)
-### costa
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-### concordia
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-### kapitän
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-### francesco
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-### schettino
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen](https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss)
-* [https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit](https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit-a-02c18b35-b73a-422c-be5f-2cdaac63d0a9#ref=rss)
-### fausto
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores](https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss)
-### isidro
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores](https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss)
-### meza
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores](https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss)
-### flores
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores](https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss)
-### gérard
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt](https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss)
-### depardieu
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt](https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss)
-### michel
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt](https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss)
-### houellebecq
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt](https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss)
-### angst
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben](https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss)
-### traf
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### oft
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-### bürger
-
-* [https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne](https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss)
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-### tanja
-
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-### schweiger
-
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-### solidarität
-
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-### freien
-
-* [https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet](https://www.spiegel.de/panorama/hubert-aiwanger-trauerfeier-tanja-schweiger-dankt-fuer-solidaritaet-a-3f4f98fd-8596-4c5a-ab68-f614f25b4e5f#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### björn
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef](https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss)
-### höcke
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef](https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss)
-### thüringer
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef](https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss)
-### bayernpatriarchen
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich](https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss)
-### mia
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar](https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss)
-### brantner
-
-* [https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend](https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss)
-### grünenchefin
-
-* [https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend](https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss)
-### julian
-
-* [https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit](https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit-a-02c18b35-b73a-422c-be5f-2cdaac63d0a9#ref=rss)
-### luginger
-
-* [https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit](https://www.spiegel.de/panorama/julian-luginger-tod-von-11-jaehriger-tischtennis-hoffnung-sorgt-fuer-trauer-und-fassungslosigkeit-a-02c18b35-b73a-422c-be5f-2cdaac63d0a9#ref=rss)
-### rafael
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss)
-### nadal
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt](https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben](https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben](https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### tvinterview
-
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### karlheinz
-
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-### rummenigge
-
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-### interview
-
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration](https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala](https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### schlechten
-
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-### atem
-
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-### jahrelang
-
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen](https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich](https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss)
-* [https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer](https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank](https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen](https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+* [https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall](https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss)
+### wir
+
+* [https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen](https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen-a-fce99fbd-414f-4da2-8afc-a2d3de35b1e0#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land](https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land-a-9a6d8d0e-5279-41bb-9342-59813029c2fc#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss)
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+* [https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche](https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss)
+### statt
+
+* [https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig](https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich](https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss)
-* [https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer](https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss)
-### vance
+* [https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank](https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen](https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+### partei
 
-* [https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich](https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss)
-### rubio
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen](https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich](https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss)
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen](https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### laut
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+* [https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall](https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen](https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen-a-fce99fbd-414f-4da2-8afc-a2d3de35b1e0#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+### frage
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen](https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land](https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land-a-9a6d8d0e-5279-41bb-9342-59813029c2fc#ref=rss)
+### vier
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche](https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss)
+### per
+
+* [https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig](https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### beschlusstext
+
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien](https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+* [https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote](https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### behandeln
+
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
+### viele
+
+* [https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche](https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen](https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen-a-fce99fbd-414f-4da2-8afc-a2d3de35b1e0#ref=rss)
+### mein
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land](https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land-a-9a6d8d0e-5279-41bb-9342-59813029c2fc#ref=rss)
+### ich
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land](https://www.spiegel.de/partnerschaft/fernbeziehungen-mein-freund-ist-mein-zuhause-nur-leben-wir-nicht-im-selben-land-a-9a6d8d0e-5279-41bb-9342-59813029c2fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### atp
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### finals
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss)
+### jamal
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+### lothar
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+### matthäus
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+### bayernbosse
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+### findet
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+### klares
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf](https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss)
+* [https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien](https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+### ausgleich
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+### kalten
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+### progression
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression](https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss)
+### ki
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### putin
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank](https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig](https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig](https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss)
+### polens
+
+* [https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig](https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss)
+* [https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall](https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss)
+### klimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+### zustimmungsfähig
+
+* [https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig](https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank](https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/protest-gegen-aufruestung-der-schwierige-kampf-der-kriegsgegner](https://www.spiegel.de/politik/deutschland/protest-gegen-aufruestung-der-schwierige-kampf-der-kriegsgegner-a-fa580f9b-43db-465a-8817-79de0219b0ae#ref=rss)
+### gene
+
+* [https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert](https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss)
+### hackman
+
+* [https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert](https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss)
+### antisemitismusbeauftragte
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+### katharina
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+### schnurbein
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+* [https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien](https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung](https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+### krampkarrenbauer
+
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag](https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss)
+### antwort
+
+* [https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs](https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss)
+* [https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall](https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss)
+### startups
+
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten](https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss)
+* [https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote](https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss)
+### telemedizin
+
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### hamburgerin
+
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### apotheke
+
+* [https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln](https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss)
+### vater
+
+* [https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall](https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall](https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### drei
+
+* [https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche](https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall](https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
 ### verstappen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### george
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+### rennen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### russell
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+### las
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### mittelfinger
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+### vegas
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-### duell
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen](https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag](https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss)
+### sex
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen](https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen-a-fce99fbd-414f-4da2-8afc-a2d3de35b1e0#ref=rss)
+### nein
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft](https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss)
-### franz
+* [https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen](https://www.spiegel.de/panorama/gesellschaft/viele-menschen-haben-sex-den-sie-eigentlich-gar-nicht-wollen-a-fce99fbd-414f-4da2-8afc-a2d3de35b1e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien](https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss)
+### verzichtet
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss)
-### tucker
+* [https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien](https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss)
+### erkenntnisse
 
-* [https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer](https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss)
-### carlson
+* [https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi](https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss)
+### gadi
 
-* [https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer](https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen](https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss)
+### eisenkot
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen](https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss)
+### koalitionsgesprächen
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### gas
+* [https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen](https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten](https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss)
-### dürfte
+* [https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag](https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag-a-4e6b94d5-2440-450f-a18e-6fba793ebcf8#ref=rss)
+### karl
 
-* [https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten](https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss)
-### manuel
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### lauterbach
 
-* [https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis](https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss)
-### neuer
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn](https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss)
+### costa
 
-* [https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis](https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss)
-### torwart
+* [https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag](https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis](https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss)
-### brasilien
+* [https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall](https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand](https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss)
+### russisches
 
-* [https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis](https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand](https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss)
+### greift
+
+* [https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand](https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
+### medizinische
+
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden](https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss)
 
